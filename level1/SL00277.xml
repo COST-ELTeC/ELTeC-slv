@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SL00277">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Domačija nad vse.  : ELTeC edition</title><author>Pajk, Pavlina (?-?)</author>
+            
+            <respStmt>
+               <name>Domen Kermc</name>
+               <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
+            </respStmt>
+         </titleStmt>
+         
+         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <sourceDesc>
+            <bibl><title>Domačija nad vse!</title><author>Pajk, Pavlina</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Doma%C4%8Dija_nad_vse</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-X6ML3FBL</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
+         <langUsage><language ident="sl">slovenščina</language></langUsage>
+         
+      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc>
+      <revisionDesc xmlns:t="http://www.tei-c.org/ns/1.0"><change when="2018-10-11"><name>Lou Burnard</name>: converted to ELTeC
+           </change>
+         <change when="2015-09-26">
+            
+            <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
+         <change when="2013-11-29">
+            
+            <name>Domen Kermc</name>: pretvorba v TEI P5.
+      </change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text xml:lang="sl">
+      
+      <body xml:lang="sl">
+         <pb facs="#WIKI00277-001" n="1" xml:id="pb.001"/>
+         <div xml:id="wv-I.">
+            <head xml:id="head.1">I.</head>
+            <p>Po krasnem jesenskem dnevu se je bil polagoma vlegel mrak nad neki majhen, a mičen trg na Slovenskem. Iz jednostropne, lepo pobeljene hiše z zelenimi polivkami stopi sedaj še jako mlada deklica, na pol še otrok, ter se vsede na kamenito klop pred hišo. Blagodejno tihoto, ki je ves popoldan vladala po trgu, motili so zdaj pa zdaj od leve in desne koraki mimogredočih ljudij. Zdelo se je, da deklica nekoga pričakuje, kajti z nemirnim očesom upira v somrak skrbno svoj pogled.</p>
+            <p>V prahu ceste so se zdaj začule mehke stopinje. Bil je bosonogi kmetič z orodjem na rami, vračajoč se počasno in tiho z dnevnega opravila. Kmalu za njim je prišla kmetica z detetom v naročju in z jerbasom polnim posod na glavi; kopica živahnih otrok se drži njenega krila.</p>
+            <p>Vola, utrujena od težkega dela, stopala sta leno mimo hiše, a za njima je mukala zadovoljno brhka, dobro rejena kravica, ki se je vračala s paše, in zraven nje razuzdano poskakuje mlado tele.</p>
+            <p>Nató nastane nekaj časa tihota. Zvezda za zvezdo se užiga na nebu; žabe v bližnjem ribniku regljajo na vse grlo, kakor da bi stavo veljalo. Vmes pa se oglaša iz bližnjega vrta čvrsti glas ljubeznivega čerička.</p>
+            <p>Deklica postaja vedno bolj nemirna. — „Še jih ni od nikoder, strica“, žalostno reče ter posluša na vse strani.</p>
+            <p>Razdraženi glasovi se približujejo. Mimo gresta prepiraje se mož in žena. Kmalu za njima se giblje v somraku človeška podoba veselo si pevajoč. Njena hoja je nestanovitna, zdi se, kot bi merila dolgost in širokost ceste. Deklica prestrašena <pb facs="#WIKI00277-002" n="2" xml:id="pb.002"/> vstane s sedeža; zapazila je, da je bil mimogredoči mož pregloboko pogledal kozarcu na dno in zato zbeži urno kot srna v hišo.</p>
+            <p>„Strica še ni, Špela“, reče dekle z jokajočim glasom, v hišo stopivši. „ Danes so predolgo na lovu ostali; ko bi se jim le kaka nesreča ne bila pripetila“.</p>
+            <p>„In ravno danes“, odgovori ženica, ktero je deklica za Špelo klicala, „prišlo je več kmetov s prošnjami k stricu. Jednemu je krava zbolela in prosi pomoči, drugemu — —“</p>
+            <p>„Dober večer vsem!“ zadoni v tem trenutju na hišnem pragu globok moški glas.</p>
+            <p>„Stric!“ zakliče dekle veselo ter leti prišlecu naproti, „ali ste prišli? Ah, in torbica je tudi napolnjena, imeli ste li srečen lov?“ — In prijela je strica za roko ter ga skoro vlekla k mizi, na kteri je stala luč.</p>
+            <p>„Jelica, Jelica, zvrnila me boš“, odgovori mož z globoko-gromečim glasom ter se utrujen spusti na stol.</p>
+            <p>To je bil prav medvedji glas, in luč, ki je zdaj prisvetila njemu v obraz, pokazala je tudi človeka medvedu podobnega. Njegovo telo ni bilo sicer veliko, a zato tembolj široko in okroglo. Pleča je imel široka in močna, velike roke so imele podobo lopat; bile so žulave in žilave ter z lasci poraščene. Na kratkih in širokokoračnih nogah se je gugala njegova postava. Imel je debelo glavo, od spredaj do vzadi plešasto, niti j eden las se ni videl na njej; človek bi bil skoro dvomil, da so na ti gladki, svetli koži bili kdaj vzrastli lasje. A kar mu je narava bila z glave vzela, povrnila mu je obilo na drugi strani: z njegove široke brade je visela dolga kodelja, mehka in gladka kot sama svila. Izpod košatih obrvij so gledale majhne, bistre oči. — Človek, ki ga je prvikrat videl, bil bi se lahko njegove nenavadne podobe prestrašil. Duša kakega človeka se sploh sodi po zvunanji podobi, pa pri tem človeku je bila zopet enkrat velika izjema. Naš znanec ni bil tak, kakoršen se je videl. Pod to okorno podobo je tičalo najboljše jedro, bilo najblažje srce.</p>
+            <p>Doktor Jarnej, tako so ga ljudje imenovali, bil je mož okoli petinšestdesetih let. Od kod je bil prišel, nihče ni prav vedel. Mlajši ljudje so se ga spominjali, odkar so živeli; pa tudi starejšim se je tako godilo. Vedeli so le toliko povedati, da se je bil pred davnimi leti med njimi naselil. To pa je bilo tako-le. Neka hiša sredi vasi je bila svoje dni prišla na kant. Doktor Jarnej stopi med ljudi in črez nekoliko minut <pb facs="#WIKI00277-003" n="3" xml:id="pb.003"/> je bila hiša njegova. Župljani so godrnjali na neznanega prišleca in se izogibali njega in njegove hiše. Hudo se je ubogemu doktorju s početka godilo; nobeden sosed mu ni hotel pri opravilih pomagati. Nič ni pomagalo, da je prijazno govoril z otroki, da je hodil v cerkev, da je beračem dajal vbogajme ter ni nikomur nikdar nič zalega rekel ah storil. Prestrašeni praznoverni ljudje so menili, on se hlini, da jih zamore potém laže napadati ter v zanjke loviti. Ko je pa enkrat v vasi nastala kužna bolezen in je doktor Jarnej z največjo ljubeznijo in postrežljivostjo lečil in zdravil bolnike, a za obilni trud ni hotel prejemati nobenega plačila, odprle so se ljudem oči. Spoznali so, da je on njihov najboljši prijatelj in dobrotnik. In niso se zmotili: že nad trideset let je bil doktor Jarnej blagoslov vsemu trgu. Zdravil je ljudi in živino, podpiral reveže z denarjem in svetom, poučeval otroke ter sploh skrbel za blagostanje celega trga. In tako ljubljen in spoštovan od vsakega, živel je doktor Jarnej srečen in zadovoljen med svojimi ter je popolnoma pozabil, da razun njega in njegovih dragih mu tržanov še drug svet stoji.</p>
+            <p>Doktor Jarnej se zdaj vsede za mizo, sname kapo z glave, nategne svoje kratke noge ter si jame z veliko pisano ruto pot brisati s čela.</p>
+            <p>„Te šmentane jerebice!“ povzame med tem jezé se; „kako dolgo so pustile na-se čakati. Menil sem že, da nocoj pridem s prazno torbo in dolgim nosom domú. Od pol štirih vjutro do petih popoldne lazil sem za njimi in prežal na-nje, a niti sledú nisem mogel zapaziti o njih. Žejen in gladen, utrujen, da sem komaj lazil naprej, vrnem se nató najslabše volje proti domu. V srcu sem pa poslal vse jerebice rakom žvižgat. No, kar na enkrat, ko sem se ravno najbolj na nje hudoval, pa mi udari neki daljen šum na uho. Obrniti se, zagledati, prejeti za puško in pok, pok, bilo je v trenutku storjeno. Pred mojimi nogami je ležalo čvetero tolstih jerebic. In zdaj sem tu ter pričakujem zaslužene večerje, da utešim prazni želodec.</p>
+            <p>Jelica, ki je smejé se ves čas poslušala doktorja in jerebice jemala iz torbice, skoči zdaj po koncu, da postreže stricu z večerjo.</p>
+         </div>
+         <div xml:id="wv-II.">
+            <head xml:id="head.2">II.</head>
+            <p>Kmalu potem je imel doktor na snažno pokriti mizi okusno pečenko, veliko skledo solate in steklenico rumenega <pb facs="#WIKI00277-004" n="4" xml:id="pb.004"/> vinca. Jelica vzame pletenico v roke ter se tiho vsede stricu nasproti. Špela streže med tem doktorju ter hodi važno sem in tja po. Zna se ji, da ji nekaj teži srce; rada bi nekaj povedala, pa si ne upa govoriti. Saj ji je bila predobro znana doktorjeva navada, ktero so morali vsi na tanko spoštovati, da kedar je on jedel, ni smel nihče besede ziniti.</p>
+            <p>Doktor je med tem časom z največjo slastjo jedel. Jelica ga z otročjim dopadjenjem opazuje in njeni drobni prstki pletejo z nenavadno urnostjo nogavico naprej.</p>
+            <p>„Je-li kaj novega v trgu?“ popraša črez nekaj časa doktor; „vse zdravo? vse v redu?“</p>
+            <p>Špelino lice se nenadoma zvedri; ona hitro neha nemirno hoditi po kuhinji; zdaj je prišel čas rešitve njenemu gibčnemu jeziku.</p>
+            <p>„Vse po starem v našem trgu“, ona hitro odgovori; ali jaz stavim svojo glavo, da bode v teh pismih, ki so črez dan prišla na kup, zopet kaj moledovanja in beračenja.“ — To izrekši, vzame s police več pisem ter jih nekako sovražno ogleduje na vse strani.</p>
+            <p>„Saj pravim jaz vedno“, nadaljuje važno, „podajte ljudem mezinec in oni zgrabijo takoj za celo roko. Dokler so gospod doktor pomagali svojim sosedom tržanom, bilo je prav pošteno in hvale vredno, ali da bi oni nekako vsegamogočni postali, ki — —“</p>
+            <p>„Bodi tiho, klepetulja, in daj sem pisma“, preseka ji doktor besedo.</p>
+            <p>„Pa je tako, kakor pravim“, nadaljuje Špela neustrašeno, a pisem še ne da iz rok. „Ono malo človeče iz Zagorja, ki je še lani v jeseni trdil proti planinskemu Petru, da Vaša neznana preteklost skriva gotovo kaj čudnega v sebi, drznil se je danes sem priti in prositi pomoči v neki denarni zadregi. No, jaz sem bila huda in rekla — —“</p>
+            <p>„Grom in strela! boš-li mi dala kdaj pisma“, zagrmi še enkrat doktor, navidezno hud.</p>
+            <p>Špela je bila sicer vajena doktorjevega zapovedujočega glasú, stresla se je pa vendar vselej, ko je on, kakor zdaj, nenadoma na njo zarjul. Ona spusti torej hitro pisma iz rok in se tresoča vsede na stol.</p>
+            <p>Jelica porine svečnik bliže strica, da bi laže čital, potem vzame hitro naočnike iz miznice ter jih poda stricu, nekako v skrbeh rekóč: „Kaj ne, stric, da nocoj ne pojdete več z doma, ko bi tudi kdo Vaše pomoči potreboval ? Tako utrujeni ste in tako pozno je že.“</p>
+            <pb facs="#WIKI00277-005" n="5" xml:id="pb.005"/>
+            <p>Doktor nič ne odgovori. Natakne naočnike, odpečati prvo pismo, ki mu ravno pride pod prste, ter se va-nj zagleda.</p>
+            <p>Špela ga pazljivo opazuje, kakor da hoče iz črt na njegovem obrazu posneti, kaj je v pismu zapisano.</p>
+            <p>Pri čitanju prvega in drugega pisma je doktor samo nekoliko godrnjal ter majal nevoljno z glavo, ko pa do tretjega pride, zatemni se mu čelo.</p>
+            <p>„Tako“, reče nató polglasno, „pogorel mu je skedenj. Prav se mu godi; škoda le, da tudi hiša ne. Zakaj me ni ubogal, ko sem mu čestokrat svetoval, naj bi si zavaroval dom? Za letos je berač, popolnoma berač. Ne trohice sena, ne bilke slame, da bi pokladal živini! Kam vodi lahkomiselnost ljudi! Grom in strela! prav se mu godi.“</p>
+            <p>Stopil je nekolikokrat z dolgimi koraki gor in dol po sobici ter nekaj mrmral.</p>
+            <p>„Poglejmo četrto pismo“, dostavi nató mirneje ter se zopet vsede.</p>
+            <p>„Stric, ne jezite se več zavoljo teh pisem“, prosi Jerica z mehkim otročjim, a bojazljivim glasom.</p>
+            <p>„A kaj, ne bodi še ti sitna, kakor Špela“, zavrne jo doktor okorno. „Ženske, ženske! Po vašem okusu naj bi bil človek vedno mehek kot goba, ali pa se smejal kot pust. A jeziti se je tudi včasih treba; hudir, to je moško, to je zdravo za pljuča.“ — In udaril je s pestjo po širokih prsih, da so zabobnele. Skočil je smejaje se kvišku; pismo, ktero je bil ravno prečital, vtaknil je v žep, segel po suknjo in klobuk, ki sta na klinu visela, potem pa važno in resno pristavil: „Nujni pot še moram nocoj napraviti. Ti Špela pa hitro prozrači sobico za tujce in postelji postelj; mogoče, da se ne vrnem sam. — Hej, Franc“, zakliče nató mlademu fantu, domačemu hlapcu, ki je ravno stopil črez prag, „jutre za rana pelji hitro nekaj centov sena Tonetu na hribu, ki je dave pogorel. Vreden sicer ni nobene pomoči, ker me ni hotel ubogati, a škoda je lepe živine, da bi jo pustili stradati.“</p>
+            <p>„In zdaj pa srečno, Jelica! Spat idi, pa ne bodi za-me nič v skrbeh; jutre pri zajuterku se zopet vidiva. — Z Bogom, Špela; opravljaj lepo, kar sem ti naročil, pav se ne drži tako kislo, kakor da bi bila grizla pelin. — Ženske, ženske! Ha, ha, ha!“ — In šel je.</p>
+            <p>Špela, ki je ves čas, ko je doktor svoje želje izrekaval, stala kot kip, sklene zdaj zavzeta roke in vzdihuje: „Našemu gospodu se meša v glavi, Jelica. Komaj so prišli domú utrujeni in zmučeni, pa že zopet odidejo, a še ne povedó, kam. <pb facs="#WIKI00277-006" n="6" xml:id="pb.006"/>— Pa sobo za tujce naj bi pospravila? Koga hočejo neki še v hišo privleči? Ali nas ni že dovolj? — Pa voz sena hoče jo Tonetu na hribu poslati in mi sami smo ga letos tako pičlo pridelali, da bo morala živina to zimo še stradati, ako hočemo izhajati. Ubožali bodemo, to jaz prorokujem; spomni se. Jelica, mojih besed. Ne, tega bi jaz ne prestala, od tuge bi mi počilo srce. — Ah, ah, ah!“ — Spustivši se na stol, pokrije si lice z zastorom ter se glasno zajoče.</p>
+            <p>„Nič se ne boj, Špela“, tolaži jo Jelica. „Gospod župnik so z lece čestokrat pravili, da kdor ubogemu daje, Bogu daje. Bog pa ničesar noče zastonj; on vse z dvojno mero povrača.“</p>
+            <p>A Špela je še ihtela glasneje, ne zmenivši se za tolažilne besede nedolžnega otroka.</p>
+         </div>
+         <div xml:id="wv-III.">
+            <head xml:id="head.3">III.</head>
+            <p>„Tako, prišli smo srečno do doma. In zdaj ga prav pazljivo položite na ta-le naslonjač. Tako je prav. Koliko je pa na uri? — Pol jedne že? — Ne upam si še Špele vzbujati, sicer bo zopet sodnji dan v hiši. Naj se naspi, potem bo laže prenašala novi udarec, da sem ji bolnega gosta privedel v hišo.“</p>
+            <p>Tako je govoril doktor Jarnej čveterim kmetom, ki so nezavestnega moža v hišo prinesli. Nató vzame iz shrambe steklenico vina ter jo pred nje postavi rekoč: „Tu imate za trenutek le toliko, da si poplahnete grlo; več vam ne morem dati, ker ga nimam pri roki. Pridite pa zato prihodnjo nedeljo na majhno južino, saj že dolgo nismo skupaj sedeli, da bi se nekoliko pomenili.“</p>
+            <p>Med tem, ko so možje izpraznili vsak svoj kozarec vina, pregledaval in potipaval je doktor Jarnej nezavestnega tujca.</p>
+            <p>„Ranjen ni, hvala Bogu“, povzame nató zopet besedo, „a revež ima želodec popolnoma prazen, kar znači, da nesrečnik ni najmanj tri dni ničesar použil; onemogel je od slabosti. — To se mi čudno zdi. Mož je sicer precej dobro rejen, čedno oblečen, in njegova zvunanjost sploh kaže, da je boljšega stanú. Žepe ima tudi prazne“, nadaljuje, pregledujoč tujcu vse žepe; „niti jednega listka, niti žepne rute, ničesar ni, kar bi moglo vsaj nekoliko razjasniti njegove okoliščine. Res, čudna prikazen to. — Povejte mi, Tomaž, kako ste ga pa zasledili?“</p>
+            <p>„Sekala sva s tovarišem v gozdu les“, odgovori mož, ki je bil krščen za Tomaža, „kar priteče na enkrat moj <pb facs="#WIKI00277-007" n="7" xml:id="pb.007"/> Sultan k meni, glasno lajajoč. Ker je na moje svarjenje, da naj jenja, le še bolj lajal in cvilil ter me začel celó po kolenih nekako pomenljivo drapati, pustiva s tovarišem delo in greva za Sultanom.</p>
+            <p>Kako četrt ure nas zvesta žival vodi po gozdu, veselo pred nama skakajoč, ko prideva do znane votline pod pečino. Tú se Sultan ustavi. Midva stopiva v votlino in najdeva tujca na tleh ležečega. Menila sva prvi trenutek, da imava mrliča pred seboj, a potem, ko najdeva, da mu žila še rahlo bije, a rane nikjer na njem ni bilo videti, spoznala sva takoj, da je v omotici. Začela sva ga z vodo škropiti, kar pa nič ni pomagalo. Ko nama moja žena prinese ob štirih popoldne južino, poskušala sva mu nekoliko kapljic vina v usta vlivati. Nató je nesrečnik res nekoliko globje dihal. To nama je dalo upanje, da še utegneva moža smrti oteti. Hitro sklenem iti po Vas, gospod doktor, ker sem vedel, da ste Vi v takih rečeh v celem našem okraju najbolj zvedeni. Ženo s tovarišem pa sem pustil pri tujcu. Ker pa Vas nisem našel domá, napisal sem Vam oni listič, naj se Vam izroči, brž ko se z lova povrnete. No, drugo Vam je znano.“</p>
+            <p>„Dobro in pametno si ravnal, Tomaž“, pohvali ga doktor Jarnej ter mu podá roko v znamenje zadovoljnosti svoje, če revežu z božjo pomočjo življenje rešimo, gre le tvoji bistroumnosti hvala.“</p>
+            <p>„In zdaj pa le pojdite vsak na svoj dom, da se še nekaj ur naspite. Tuji mož ostane med tem pod mojim varstvom in upam, da ga bom čim prej oživil.“</p>
+            <p>Možje se nató razidejo. Doktor pa odpre brž omaro, v kteri je hranil različna zdravila in dasi sam najbolj utrujen in počitka potreben, začne vendar z največjo ljubeznijo baviti se z bolnikom.</p>
+            <p>In res, njegov trud in njegovo prizadevanje nista bila zastonj. Vsled prijetne toplote, drganja po životu in vlivanja nekih zdravilnih kapljic v usta, dobivalo je bolnikovo lice polagoma vedno več barve; žila in srce sta začela močneje biti, bolnik je jel hitreje dihati ter zdaj pa zdaj za trenutek odpirati oči. Ah, kako srečen se je tedaj čutil naš blagi doktor. Pozabil je zaspanost in zmučenost in pri vsakem novem znamenju, da bolnik okreva, zasvetilo se mu je okó. Pač res, ni ga blažnejšega čuta na svetu od zavesti, da smo komu dobro storili.</p>
+            <p>Ko je drugo jutro doktorjeva družina vstajala, bil je tuji mož že rešen smrti, a nezavest ga še ni bila zapustila.</p>
+            <pb facs="#WIKI00277-008" n="8" xml:id="pb.008"/>
+            <p>Špela se je močno prestrašila, zvedevši, da se je črez noč hiša za jednega človeka pomnožila in ta je še povrh bil bolnik! Njeno besedovanje in tugovanje je bilo brez konca in kraja.</p>
+            <p>Doktor jo je mirno poslušal, ne da bi zinil besedice. Saj je dobro poznal Spelo ter vedel, da ima ona, dasi jezična in godrnjava, vendar le dobro srce.</p>
+            <p>In res, potem ko se je zarotila, da ne bode stregla bolniku, ker ima skrbi in dela s hišnim gospodarstvom črez roke in glavo in da naj torej gospod doktor za tujega vsiljenca strežnico najme, še le potem, ko se je kujala in jokala nekaj ur, začela je z dušo in telesom skrbeti za bolnega tujca.</p>
+            <p>Vedno je pošiljala Jelico pogledavat k bolniku, ali že okreva, ali pride kmalu k zavesti; vedno mu je prinašala čvrste juhe, da bi se mu vlivala v usta, da bi revež čim prej izgubljene moči dobil. Doktor ji je moral celo braniti, kajti njena prevelika skrb za bolnika bi mu lahko bila še v škodo.</p>
+            <p>A bolj radovednost nego sočutnost je bila takrat pri Špeli uzrok njene pretirane milosrčnosti. Ona je hotela čim prej pozvedeti, kdo je tuji mož, in zato je celi dan bila v nekem nemiru.</p>
+            <p>Tujec je med tem le polagoma okreval, a predno je prišel k popolni zavesti, minilo je nekaj dnij. Tresla ga je mrzlica in pogostoma se mu je blodilo. V blodnji pa je neprestano popraševal po nekem doktorju, po neki deklici, njegovi hčerki; govoril je o Ameriki, o nevihti na morju in o drugih zmedenih rečeh.</p>
+            <p>Doktor Jarnej, ki je največ čuval pri njegovem vzglavju in mu torej ni ušla nijedna njegovih besed, ni se s početkoma brigal za prazno blodjenje bolnikovo, ali ko je bolnik vedno le isto govoril, le iste dogodbe ponavljal, začel je pazljiv in ob jednem nemiren postajati. Spoznal je takoj, da tujcu neka skrivnost srce teži, da je ona menda celó v nekaki zvezi z njegovo boleznijo. Zatorej ni več dovolil drugim bdeti pri bolniku, temveč čuval in stregel mu je noč in dan sam.</p>
+            <p>Prvo jasno vprašanje, ktero je stavil bolnik, prišedši k zavesti, bilo je, kje da je.</p>
+            <p>Ko mu doktor, razloživši njegovo stanje, pové, kako in kje so ga našli, ter mu razkrije, kje da je, vzdihne bolnik: „Hvala Bogu, prišel sem tedaj vendar le do tolikanj zaželenega cilja. O, povejte mi, dragi gospod, ali Vam je morda znano, kje v ti okolici stanuje neki doktor Jarnej.“</p>
+            <pb facs="#WIKI00277-009" n="9" xml:id="pb.009"/>
+            <p>„Kaj hočete od njega?“ popraša doktor nemirno in ob jednem radovedno.</p>
+            <p>„Ali še živi? — Pa kako živi? — Ali nima neke najdenke pri sebi?“ poprašuje na vso sapo bolnik ter seže po doktorjevi roki. „Oh, odgovorite hitro, povejte mi vse, kar veste o njem. Ko bi Vi vedeli, koliko sem prestal, da pridem do cilja, da najdem doktorja in njegovo najdenko, mojo jedino hčer!“</p>
+            <p>„Vašo hčer?“ zakliče doktor iznenadjen in njegovo sicer kot pireh rudeče lice nenadoma zabledi. — „O uboga moja Jelica, moral te bodem izgubiti“, mrmra bolj za-se nató.</p>
+            <p>„Ah, Vi jo poznate tudi po imenu“, zakliče tujec prijetno zadet in njegove oči veselja zažare. — „O, povejte mi tedaj, ljubi gospod, vse, kar veste o njej. Ali še ona živi? — Pa kje? — Ali je srečna? — Pridna?“</p>
+            <p>Doktor zadobi med tem prejšnjo mirnost, a neka pobitost se mu bere na obrazu. S prijaznim, toda nekoliko negotovim glasom odgovori: „Prosim Vas, ljubi mož, upokojite se; Vaše razburjenje Vam še utegne škodovati. Vse zveste od mene, kar koli vem in znam. A zdaj se mi vidite preveč upehani in utrujeni, da bi se o tem še dalje pomenkovala. — Náte, izpijte nekoliko vode, da se pomirite in se nekaj ur spočijete; poskusite spati, ako mogoče, in potem še le mi boste pripovedovali vse svoje prigodbe. Jaz pa Vam tudi obetam, na tanko odgovoriti na Vaša vprašanja.“</p>
+            <p>Bolnik, če ravno težko, vendar uboga ter izpije ponujano vodo, saj je sam izprevidel, da vsaka žila v njem trepeče od upanja, strahú in radosti.</p>
+         </div>
+         <div xml:id="wv-IV.">
+            <head xml:id="head.4">IV.</head>
+            <p>Ko se doktor Jarnej črez nekaj ur povrne k bolniku, sedel je ta na blazinah v postelji, na-nj čakajoč.</p>
+            <p>„Ali ste vendar prišli?“ reče nestrpljivo, doktorja zagledavši; „nisem mogel zaspati. Negotovost, ali bodem mogel objeti svojo drago hčerko, je strašnejša in mučnejša, kakor če bi vedel, da je za-me za vselej izgubljena.“</p>
+            <p>Doktor nič ne odvrne. Primakne stol k postelji ter resno izpregovori: „Zdaj tedaj povejte, kaj vam teži srce. A prosim, da pri tem bolj ko mogoče na tanko in resnično govorite.“</p>
+            <p>Bolnik si ni dal dvakrat veleti in začne takoj pripovedovati: „Vi vidite pred seboj že popolno zastarelega moža, dasi še petdesetega leta nisem dovršil. Ne borbe v življenju ali pomanjkanje, kakor bi kdo sodil, so me postarale; ime <pb facs="#WIKI00277-010" n="10" xml:id="pb.010"/>sem, Bogu bodi hvala, vedno vsega dovolj; ampak nepremagljivo poželenje, pohajati po svetu, neko večno hrepenenje po čudnih prigodkih. Toda glavni in najsilnejši uzrok zastarelosti je moja slaba vest, njen glas, ki mi vedno po ušesih doní in me spremlja že celih štirinajst let. Ne oddaljenost od domovine, ne bivanje med tujimi ljudmi, ne veselo življenje, ne vedno potovanje po svetu niso mi utegnili iz duše izbrisati spomina na pregreho mojo.“</p>
+            <p>„Gospod, jaz sem veliko pregrešil, toda ne iz hudobije, temveč iz lahkomiselnosti. Pravi uzrok mojemu razuzdanemu življenju pa je bila moja slaba odgoja. Bogatih kmetov jedini sin, ljubkovan in razvajen že od otročjih let, vzrastel sem trmast. Ustreči nisem hotel roditeljevi želji, da bi ostal pri domu ter enkrat prevzel lepo gospodarstvo. Puhle in prazne želje sem imel. Hotel sem postati gospod. Kmetski stan se mi je zdel prenizek. Postal sem študent, toda črez vse slab, kar se lahko razume, ker nisem bil ukaželj en; hodil sem le zato v šolo, da bi postal enkrat imeniten gospod.“</p>
+            <p>„Bil sem že osemnajst let star, ko sem za sílo izgotovil četrti razred na realki, čudim se, da sem še tako daleč prišel, saj se nisem učil nikdar nič, a zato tem pridneje čepel nad zabavnimi knjigami.“</p>
+            <p>„Moje berilo je bilo vedno slabo in pretirano, mladini jako škodljivo. V moji mladi razvneti glavi se je vzbujala vedno bolj želja, kaj jednakega preživeti, kakor sem čital v knjigah. A vedel sem, da se to ne more zgoditi v domovini, v Evropi, temveč potujočemu po širokem svetu, črez široko morje in visoke gore, v tuje, neznane dele sveta, med zamorce, divjake in besne zverine. Nisem hotel več študirati. Kmalu potem so me vzeli k vojakom, kjer sem kot prostak med večnim svarjenjem in zaporom doslužil postavna leta. Prišel sem z nova domú, v križ in nadlogo ubogim starisem. Delati nisem hotel, temveč na pol po gosposko, na pol po kmetsko sem živel. Niti očetovo resno svarjenje, niti bridke materine solze me niso mogle spraviti na pravo pot. Saj sem do dobra čutil, da bi bilo pri meni zastonj, lotiti se pametnega, poštenega življenja; v njem bi itak dolgo ne strpel.“</p>
+            <p>„Noč in dan sem pretuhtaval in delal sklepe, na kak način bi mogel zbežati z doma. Amerika je bila moj prvi cilj. Toda brez denarja se nisem mogel podati na tako dolgo pot. Ker sem pa vedel, da bi od starišev nikdar za to ne dobil potrebnega denarja, čakal sem na primerno priliko, da <pb facs="#WIKI00277-011" n="11" xml:id="pb.011"/>po poštenem ali nepoštenem potu, to mi je bilo vse jedno, pridem do denarja.“</p>
+            <p>„Tako čakajóč zagledam se v mlado, lepo, pridno in pošteno županovo hčerko. In moje nagnjenje do nje je bilo tako globoko in resnično, da sem se nenadoma lotil dela in poštenega življenja, samo da morem njo dobiti za ženico.“</p>
+            <p>„In res, leto pozneje sem bil njen presrečni mož. Živel sem z njo v najlepšem srčnem sporazumljenju. O, kako presrečni so bili moji ubogi stariši, da se je njihov sin tako nepričakovano poboljšal. Kako lahko je bilo meni pri srcu, videčemu zdaj okoli sebe samo srečne, vesele obraze! — In ko sem zvedel, da postanem tudi oče, takrat sem storil trden sklep, nikdar več odstraniti se od pravega pota, pozabiti vse svoje nečimurne, brezpametne nekdanje namene in želje ter odslej živeti in delati samo za blagor svojih dragih.“</p>
+            <p>„Ali, ah, ah, da ima sreča tako kratke noge, daje človeška volja tako slabotna in nestalna, da ima strast tako moč in oblast do čednosti!“</p>
+            <p>„V jednem letu mi je vzela smrt troje dragih oseb: očeta, mater in — oh! ta izguba je bila najhujši udarec, iz kterega izvira vsa moja poznejša nesreča — zvesto, predrago mi ženico!“</p>
+            <p>„Ona je umrla, a zato mi hčerkico pustila v spomin. Izgubil sem Gabrijelo, a dobil Jelico.“</p>
+            <p>„Moj obup je bil takrat neskončen. Kakor črez noč padel sem iz svojih jasnih nebes v temno brezdno.“</p>
+            <p>„Čednost je bila v meni še premalo ukoreninjena, da bi me bila mogla tolažiti v moji nesreči. Ona mi ni bila prirojena, niti je nastala v borbah in težavah življenja mojega, kajti le taka čednost ne zapušča človeka nikdar ali vsaj le redkokdaj. Moja čednost je bila nastala le iz srčne zadovoljnosti, vsled mirnega, srečnega domačega življenja. Zato me je tudi, brž ko sem drago ženico, vir mojega spokorjenja, izgubil, mahoma ta čednost zapustila ter dala prostor prejšnjim slabim navadam. Kakor nikdar poprej, vzbudi se zdaj v meni nestrpljiva želja, iti po svetu. Gospodarstvo me ni več veselilo in nedolžni nasmehljaj mojega otroka me je sicer za trenutek omehčal, a zadušiti ni mogel v meni skrivnih naklepov. Čutil sem vedno strastneje, da moram zapustiti domovino.“</p>
+            <p>„Prodal sem gospodarstvo, in lepa svota denarja, ktero sem iz njega izkupil, zagotovila mi je za nekaj časa brezskrbno življenje tudi onkraj morja.“</p>
+            <pb facs="#WIKI00277-012" n="12" xml:id="pb.012"/>
+            <p>„Toda kaj početi z otrokom? —Ah, nesrečni trenutek, v kterem je dozorel v meni sklep, ki sem ga tudi brezsrčno izvršil.“</p>
+            <p>„Noč je bila, ko s potno torbo v jedni roki, s štirimesečnim detetom v drugi zapustim domačo vas, rekoč, da sem si drugje nakupil novo gospodarstvo.“</p>
+            <p>„Sosedje niso sicer prav zaupali mojim besedam, a branili mi niso. Potoval sem torej tako obložen celo noč in ves poslednji dan.“</p>
+            <p>„Otrok je postajal vedno nemirnejši. Ravnal sem najbrž nerodno z njim, in tudi mleko, ktero sem bil vzel seboj, bil je že vse izpil.“</p>
+            <p>„Z otrokom sem postajal tudi jaz čim bolj nevoljen. Tako naprej hoditi, čutil sem, da je nemogoče, in vendar še nisem imel poguma, da bi otroka zapustil, kakor sem bil namenjen.“</p>
+            <p>„Osem milj hodá sem bil že oddaljen od svoje domačije. Proti večeru drugega dne dospem v lepo vas, obdano s krasnim gozdom. Otrok mi je bil ravno po dolgem jokanju zaspal.“</p>
+            <p>„Kraj mi je bil sicer po imenu znan, a ljudje v njem popolnoma tuji.“</p>
+            <p>„V vas nisem šel, temveč se ustavil pred vasjo ob gozdnem robu, kjer je blizu stala majhna, na pol podrta kočica, v kteri je, kakor se mi je videlo, nekdo prebival.“</p>
+            <p>„Pomladanska večerna sapa je pihala prijetno skoz gosto smrečje ter me vabila k dobrodejnemu počitku.“</p>
+            <p>„Tú si spočijem nekaj ur, oči vedno na spečega otroka upirajóč.“</p>
+            <p>„Kaj sem ondi čutil, ne bodem pripovedoval; dovolj, ako povem, da so se stare strasti, očetova ljubezen in očetove dolžnosti bojevale v meni. Dà, ko bi dete vedno tako mirno bilo kakor zdaj v spanju, vzel bi ga bil seboj do konca svetá. A kedar je začelo tako neusmiljeno vpiti, ker je revče pogrešalo skrbne pomoči spretnejših rok, takrat sem obupoval. Ta misel me je z nova razburila. Ne, dete ne more z menoj, sklenem pri sebi.“</p>
+            <p>„Nató otroka strastno poljubim, zavijem stotak v papir, na kterega sem bil napisal, da je deklica krščena za Jelico, ter ga varno vtaknem med povoje. Še enkrat se ozrem plaho okoli, ali ni koga videti blizu; potem pa zgrabim dete in ga položim na kup drv, ki so bila zložena za kočo, a nató zbežim kakor besen naprej. Zbal sem se, še enkrat slišati glas lastnega otroka, ko bi se slučajno vzbudil.“</p>
+            <pb facs="#WIKI00277-013" n="13" xml:id="pb.013"/>
+            <p>„Tekel sem dalje, ne oziraje se na levo, ne na desno, vedno naprej, naprej po temnem gozdu.“</p>
+            <p>„Kako dolgo sem potem hodil, ne vem. Solnce je visoko že stalo, ko dospem na pol mrtev od truda in notranjega nemira v majhno mesto. Tam si najmem v gostilni sobo. Menil sem ondi ostati nekaj dnij, da se okrepčam, predno se podam na daljni pot. Tudi sem upal med tem po časopisih zvedeti osodo mojega zapuščenega otroka.“</p>
+            <p>„V ta namen sem kupoval dan za dnevom časopise ter jih s trepetom od konca do kraja pregledaval. In res. že takoj tretji dan berem v domačem časopisu kratko vest, da je našla neka stara beračica za svojo kočo zapuščeno dete, na pol mrtvo od gladú in mraza, in da je vzel neki doktor Jarnej to deklico kot lastno k sebi.“</p>
+            <p>„Tedaj se mi odvali težek kamen od srca.“</p>
+            <p>„Moja prva pot je bila potem v cerkev in ne prej in ne pozneje nisem v dolgem svojem življenju več tako iskreno molil, kakor tedaj.“</p>
+            <p>„A potem dalje, dalje črez morje proti toliko zaželenemu cilju.“ —</p>
+            <p>Tu preneha bolnik pripovedovati. Utrujen zapre oči in jame težko sopsti.</p>
+            <p>„Dovolj bode za danes, ljubi mož“, reče zdaj doktor Jarnej vidno ganjen; „pripovedovanje Vas je zeló utrudilo, jutre boste nadaljevali.“</p>
+            <p>A bolnik dobi nenadoma nove moči; vzdigne hitro glavo, upre oči v doktorja, rekoč skoro prestrašen: „Do jutre naj bi čakal, pravite? — Ali pa ve bolnik, ali ima jutre pred seboj? — O ne, ne, ta teža mi mora enkrat od srca, saj sem kmalu pri koncu.“</p>
+            <p>„Prišel sem srečno v Ameriko“, nadaljuje potem, „ondi sem prepotoval kot mešetar celo deželo, večkrat si pridobil veliko premoženje, a zopet vsled nesrečnih podvzetij na novo ubožal.“</p>
+            <p>„Izkusil sem mnogo dobrega, a vendar nobene srečne ure nisem več na tuji zemlji preživel. Spomin na zapuščeno hčerkico mi je težil kot môra srce; očitajoči glas slabe vesti me je spremljal po vseh mojih potih: po dnevu v najveselejše družbe, po noči v sanjah. Bil sem najnesrečnejši človek na svetu.“</p>
+            <p>„Kolikokrat sem se hotel vrniti v domovino, a vselej so me zadržavale različne zapreke. Vendar, z božjo pomočjo, po dolgih štirinajstih letih srčnih borb in bridkega kesanja <pb facs="#WIKI00277-014" n="14" xml:id="pb.014"/>sem se mogel podati na pot. Nekaj tisočakov tolarjev sem si bil s pridnostjo in varčnostjo prihranil. Z njimi sem si mislil, ako mi Bog dá milost in še hčerko pri življenju najdem, ustanoviti dom ter mirno z njo starost preživeti. Saj sem kot dragoceno svetinjo še hranil oni kos časopisa, v kterem je bil imenovan isti doktor, ki je bil mojo hčer k sebi vzel. Upal sem tedaj trdno, najti njega in pa njo.“</p>
+            <p>„A človek obrača, Bog pa obrne. Med potoma je zadela ladijo, ki me je peljala v domovino, strašna nesreča. Že proti koncu našega potovanja v Evropo zadela se je v nevihti v drugo njej naproti prihajajočo ladijo ter se vsled tega potopila.“</p>
+            <p>„Od tri sto potovalcev si je otelo življenje le kakih petdeset, ki so znali plavati. Med onimi srečno rešenimi sem bil tudi jaz.“</p>
+            <p>„Toda rešil sem si samo življenje. Svojo potno robo in ves denar, celó oni kos časopisa, vse je utonilo v morje.“</p>
+            <p>„Z beračenjem, stradanjem in sto drugimi mukami potoval sem potem peš ne vem kako dolgo, do tega kraja v domovino, čegar ime sem si bil dobro utisnil v spomin.“</p>
+            <p>„Čim bliže sem prihajal, tem bolj sem podvizal svoje korake. Bal sem se, da bi obnemogel, še predno pridem do zaželenega cilja, saj že nisem bil tri dni skoro ničesar použil.“</p>
+            <p>„Nenadoma dospem do zaraščenega gozda. Kraj se mi je zdel tako znan. Ah, da! še preveč znan mi je bil, kakor sem se kmalu zavedel. Na pol podrta koča ni sicer več stala na svojem mestu, še sledú ni bilo o njej, ali gozd je bil brez sumnje oni, ob čegar robu sem bil jaz pred štirinajstimi leti zapustil lastnega otroka! Jaz nečloveški oče! Spomin na ta brezsrčni čin me je vsega pretresel. Onemogel se vležem v mah. Nisem mogel dalje. Moči so me jele zapuščati ...“</p>
+            <p>„Kaj se je potem zgodilo z menoj, pa je Vam samim najbolj znano.“</p>
+            <p>„In zdaj bivam v topli sobici, počivam na mehkih blazinah, imajoč Vas, blagi gospod, v svoji bližini, ki tako po očetovsko za-me skrbite! O ljubi Bog, kako in kdaj sem jaz grešnik zaslužil tolike milosti?“</p>
+            <p>In nesrečni mož si je pokril lice z rokami ter se kakor dete glasno razjokal.</p>
+         </div>
+         <div xml:id="wv-V.">
+            <head xml:id="head.5">V.</head>
+            <p>„Ali ne bom Jelice še videl?“ poprašal je bolnik drugo jutro, brž ko je doktor prišel k njemu.</p>
+            <pb facs="#WIKI00277-015" n="15" xml:id="pb.015"/>
+            <p>Doktor je bil namreč potem, ko je mož svojo povest dokončal, tujcu naznanil, da je on isti doktor, ki je bil njegovo sirotico vzel v svoje varstvo.</p>
+            <p>V tem vidite z nova neskončno milost in previdnost božjo“, dostavil je slovesno, „ktera je Vas, nezavestnega, naravnost vodila v hišo, kjer živi Vaš otrok. Jelice pa Vam ne morem takoj pripeljati; moram prej govoriti z njo in jo pripraviti na tako nenadejano svidenje. Ona še nikdar ni vprašala po roditeljih, prvič, ker je zato še premlada, štirinajst let je dopolnila, in drugič, ker ljubi mene z nepopisljivo udanostjo prave hčerke. Ona meni za trdno, da sem njen stric, in bolelo jo bode gotovo, ako zvé, da sem njeni rodbini popolnoma tuj človek in da je ona le najdenka.“</p>
+            <p>„Ali“, izgovarjal se je nató tujec, „njena bolest bode s tem poplačana, da dobi nenadejano očeta, ki hoče zanaprej le za-njo živeti in jo ljubiti.“</p>
+            <p>Doktor ni na to brž odgovoril. Pokašljal je nekolikokrat v zadregi, a potem resno dejal: „Ona najde očeta, ki še le hoče za-njo skrbeti in jo ljubiti, ali kteri se še do zdaj za njo nič brigal ni. Menda vendar ne zahtevate od nje, da bi Vam z odprtimi rokami letela naproti, kakor bodete najbrž Vi storili?“</p>
+            <p>„Vi ste ji tujec, dasi pravi oče, in kakor njo poznam, ne bode Vam tako hitro nagnjena.“</p>
+            <p>„Vi prav govorite, vedno prav“, odvrne mož z bridko udanostjo. „Storite z menoj in z njo, kakor mislite; saj za Bogom hočem le Vam odslej naprej zaupati in Vas ubogati.“</p>
+            <p>Potolažen zapusti potem doktor za oni večer bolnika.</p>
+            <p>Drugi dan, ko ga bolnik vpraša za Jelico, odgovori doktor: „Jelico boste kmalu videli, a obljubiti mi morate najprej, da se ji še ne boste odkrili.“</p>
+            <p>„Sinoči sem ji z jako težkim srcem razodel, kaj da je in kako sem jo bil našel. Kako se je revica bridko jokala; posebno jo je zabolelo, da nisem njen stric.“</p>
+            <p>„Saj me ne boste zato iz hiše odposlali“, rekla je ihté; „oh, brez Vas, predragi moj stric, ne vedela bi kaj na svetu početi.“</p>
+            <p>„Srce se mi je krčilo pri tem prizoru, dasi jaz sicer nisem občutljiv. Kajti vedite, ljubi mož, da Vašemu otroku jaz nisem nikdar še jedne same solze prizadel. Vajen sem bil Jelico videti vedno z jasnim, veselim licem in smehljajočih ust, v znamenje notranje zadovoljnosti. Saj sem jo tudi ljubil kakor lastnega otroka, in če ji tudi nisem tega nikdar z ljubkovanjem kazal, vedela je prav dobro, kako mi je draga.“</p>
+            <pb facs="#WIKI00277-016" n="16" xml:id="pb.016"/>
+            <p>„Zato mi je ta njena prva žalost presunila dušo. In tedaj tudi nisem imel še poguma, odkriti ji, da ste Vi njen oče.“</p>
+            <p>„Naj se Vas nekoliko privadi in potem —.“</p>
+            <p>Tú doktor umolkne. Vrata so se ravno odprla, in Jelica, cvetoča kakor jutranja zarja, stopila je v sobo.</p>
+            <p>„Prinesla sem Vam zajuterk, ljubi mož“, reče ona z nekoliko plašnim, a ljubeznivim glasom ter postavi čašo kave na mizo pri bolnikovi postelji. „Stric so mi dovolili, obiskati Vas“, nadaljuje ona, „ker pravijo, da boste kmalu popolnoma zdravi, kar nas vse v hiši toliko veseli. Kaj ne da, ljubi stric?“</p>
+            <p>To izrekši, pogleda doktorja z nepopisljivo iskrenostjo, a potem takoj zmedena povesi oči in močno zarudi. Uboga Jelica, saj je zdaj vedela, da doktor ni njen stric, temveč le tuj njen dobrotnik. In če jo je tudi doktor prosil, naj ga še zanaprej, kakor do sedaj, kliče za strica, vendar je ona zdaj pri ti besedi prišla v zadrego. Saj je vedela, da tiči laž v tem imenu, a ona do sedaj laži še poznala ni!</p>
+            <p>Ko je bolnik tako nenadejano zagledal Jelico, vzpel se je više, uprl željno oči v njo ter jo nekaj trenutkov z na pol odprtimi usti nepremakljivo opazoval, med tem ko so se na njegovem obrazu barve menjavale. Ko pa deklica neha govoriti, razpne on roke proti njej in kakor v sanjah ves zmeden zakliče: „Ona je, ona, saj je moje rajnke Gabrijele živa podoba!“ — Nató se mož strese in roke mu omahnejo; spomnil se je nenadoma doktorjeve prošnje, naj bi se Jelici še ne razodel. Neskončna bledoba pokrije hipoma njegovo upadlo lice in onemogel skloni glavo v blazino nazaj.</p>
+            <p>„Kaj je to bilo, stric?“ reče zdaj deklica silno prestrašena ter se hitro odmakne od bolnikove postelje.</p>
+            <p>Doktor, zeló vznemirjen, približa se bolniku. Spoznal je hitro, da je bil ta vsled silne presunjenosti na pol omedlel.</p>
+            <p>Nató se obrne k deklici: „Jelica“, tako jo resno ogovori ter jo prime za roko, „prišel je trenutek, da ti odkrijem še zadnjo skrivnost tvojega življenja. Ni je mogoče več dalje zakrivati, Bog hoče tako! — Dobro poglej tega nesrečnega moža in povej, ali ti srce pri tem pogledu ne daje ničesa slutiti?“</p>
+            <p>Jelica, tresoča se po vsem životu in z roko krčevito držeč se stričeve roke, skloni se za trenutek nad bolnikom. Potem dene roke okoli doktorjevega vratú in prosi v pretrganih besedah glasno plakajoč: „O ljubi stric, dovolite, da, ostanem vedno pri Vas. Bojim se tega možá, dasi slutim, da je on — moj oče.“</p>
+            <pb facs="#WIKI00277-017" n="17" xml:id="pb.017"/>
+            <p>Doktor se lahno iznebi Jeličinega objema. Glas se mu trese, okó mu je rosno, ko odvrne polglasno: „Jelica, tvoj oče je o svojem času veliko pregrešil, a zato je tudi veliko trpel. Trpljenje in pokora pa naklonita človeku božje usmiljenje in mu odpuščanje pridobita. On je zeló nesrečen, Jelica in ti j edina mu še utegneš razvedriti njegovo žalostno življenje. Bodi mu dobra. Pozneje, ko se ga privadiš in se prepričaš o njegovi udanosti do tebe, vem, da ga bodeš tudi ljubila. Saj je tvoj oče, Jelica! In ne veš, kaj pomeni to ime? — Gledé tvoje prihodnjosti pa se ni treba vznemirjati, nič še ni določeno. Naj oče popolnoma ozdravi, potem hočemo o tem govoriti. Ti pa ostaneš vedno kakor do sedaj moj ljubi otrok, dokler me Bog k sebi ne pokliče. Ali pa veš, Jelica, da sem jaz že precej star? Petinšestdeset let sem prebil, in ko pride ura ločitve od tega svetá, bode me ta misel neskončno tešila, da imaš namesto mene očeta.“</p>
+            <p>„Jelica, Jelica“, klical je zdaj slabotni bolnikov glas.</p>
+            <p>Deklica pri tem klicu zatrepeta. S priklonjeno glavo se približa postelji, počasi se nagne nad bolnika ter ga rahlo na čelo poljubi. Potem se pa hitro obrne k stricu in ga pomenljivo, a žalostno pogleda, kakor da ga hoče vprašati, je-li tako prav storila.</p>
+            <p>Doktor jo je umel. Roko na njeno glavo položivši, pohvali jo ginjen rekóč: „Lepo si storila, Jelica!“</p>
+            <p>„Bog te blagoslovi, Jelica, moj otrok“, šepetal je pri tem bolnik in njegovo lice se je začelo oživljati.</p>
+         </div>
+         <div xml:id="wv-VI.">
+            <head xml:id="head.6">VI.</head>
+            <p>„Zakaj si pa danes tako zamišljena, Špela?“ poprašala je kakih štirinajst dnij po zadnjih dogodbah stara ženica prijateljico svojo, ko ste se sešli pri studencu. „Saj je, kakor se govori, pri Vas zdaj veselo življenje, odkar biva v hiši Jeličin oče. A ti si vendar tako nezadovoljna videti.“</p>
+            <p>„Veselo življenje?“ odvrne Špela zaničljivo, „ker imamo v hiši pritepenca, berača, ki nič ne dela, a zato je in pije za troje ljudi.</p>
+            <p>„Berač, Jeličin oče?“ začudi se ženica in jo debelo pogleda; „saj pravijo, da je neizmerno denarja prinesel iz Amerike.“</p>
+            <p>„Bog se usmili, kako lažnjiv je svet!“ odvrne Špela. „Prazen želodec in pa raztrgano obleko je prinesel seboj, drugega nič. — Pri nas da bi bilo veselo življenje?“ ponavljala je še enkrat Špela vsa razdražena. „Povem ti, Mica, <pb facs="#WIKI00277-018" n="18" xml:id="pb.018"/>da večjega nereda in nemira še ni bilo v naši hiši, kar pomnim. Jaz mislim, da se mojemu rajnkemu možu v njegovem temnem grobu bolje godi, kakor meni v tem babilonskem stolpu. Dela črez glavo, večno premišljevanje in pretuhtavanje, kako bi Jeličin oče prišel do zaslužka; naš gospod resen, razmišljen, ne brigajoč se več za gospodarstvo, temveč on le jedino premišljuje, kako bi tujcu čim prej pomagal. Jelica, ktera mi je prej pri hišnih opravkih že pridno hodila na roko, mora sedaj vedno bivati z očetom, sprehajati se z njim, da se mu privadi in da ga razvedruje. A pri tem je ona kakor izpremenjena; tiha je, zamišljena in večkrat jo najdem, da se na skrivnem joče. In to naj bi bilo veselo življenje! — Povem ti, Mica, da take čudne izpremembe dan za dnevom gledati zdravju bolj škoduje, kot strup jemati. Če gre to še nekaj časa naprej, umrla bom jetična, toliko se pri tem jezim in žalostim.“</p>
+            <p>„Ali pa ima Jeličin oče hčerko rad?“ pozveduje ženica radovedno; „dekle je tako brhko in ljubeznivo!“</p>
+            <p>„Rad, rad“, odvrne Špela osorno. „Prosim te, da mi ne govoriš o očetovi ljubezni sploh. Očetje ljubijo svoje otroke le tako dolgo, dokler jim je to v razvedrenje in zabavo. Otroka ljubiti, iskreno, stalno ljubiti, znajo le matere. Ne govorim o dobri duši mojega rajnkega moža, Bog ga imej v svoji milosti: on, da, ljubil je resnično najinega jedinega otroka. A taki možje so redki, prave bele vrane.“</p>
+            <p>In pri spominu na svojega rajnkega moža, s kterirn pa se je dan za dnevom svajala, brisala si je z zastorom oči.</p>
+            <p>„Bog pomagaj! kakošne novosti sem danes zvedela“, dostavi starka in maje sivo glavo; „zastonj nisem imela nocoj tako čudnih sanj.“</p>
+            <p>„A povem ti, da se po celi vasi teden dnij o drugem ne govori, kakor o zakladih Jeličinega očeta. Vsi zavidajo tebe, Špela, češ ti bodeš darov od njega dobila, da bo kaj! ... Glejte, glejte, kako malo sme človek svetu verjeti. Pa le pogum! Bog bode od druge strani povrnil tvoje trpljenje. Težava za težavo, tako gre v ti solzni dolini. Da bi le na onem svetu bolje bilo!“</p>
+            <p>„Zdaj pa moram iti k sosedom, k pekovim, da jim povem, kar si mi zdaj le povedala. Ti bodo strmeli!“</p>
+            <p>In ženica je podvizala korake proti trgu, presrečna, da bode imela dovolj tvarine raznašati.</p>
+            <p>„Mica, počakaj vendar, da skupaj greve“, kliče Špela za njo. In ko jo dospé, reče nekoliko v zadregi:</p>
+            <pb facs="#WIKI00277-019" n="19" xml:id="pb.019"/>
+            <p>„Nič preveč okoli ne raznašaj, kar sem ti zaupala; kaj češ, skrb in premnogo dela me včasih razburi, da vse bolj mračno vidim, kakor je v resnici. Saj vendar upam, da postane pri nas kmalu bolje. Jeličin oče dobi najbrž službo občinskega tajnika v bližnjem trgu; a ko ta odide, pojde zopet vse po starem pri hiši. Kaj hočeš, revež se mi le smili. V Ameriki ali Afriki, ne vem prav kje, bil se je res obogatil, ali ladija, ktera ga je v domovino pripeljala, utonila je in pri tem je izgubil vse imetje. Res, pomilovanja je vreden. Bog mu hotel pomagati na bolje! Molive jutre pri sv. maši jeden očenaš v ta namen; Mica, dobro delo bove storili s tem.“</p>
+            <p>Mica ji to obljubi in se vsa ginjena vsled osode Jeličinega očeta poslovi od Špele.</p>
+            <p>„Da bi se mi jezik zavozlal vselej, ko postajam jezična“, hudovala se je Špela sama nad seboj domú gredé. „Bog zna, kaj bode zdaj Mica po trgu raztrošala! Pač prav imajo naš gospod vselej, ko pravijo, da jezik in srce nikdar ne zastarita, posebno pri ženskah ne. Kaj bi zdaj dala, da bi ne bila proti Mici obrekovala domačinov. Da sem jo morala srečati!“</p>
+            <p>Ko stopi Špela v hišo, pride ji Jelica z veselim obrazom naproti rekoč: „Oče so dobili zaželeno tajniško službo in takoj pojutrešnjem bodo že službo prevzeli. Pa kako so tega veseli, ne morem Vam dopovedati. Vsaj zdaj ne bodo več tako revni; jesti in oblačiti se bodo mogli dovolj.“</p>
+            <p>„Pa ti li ni žal, očeta v novič izgubiti?“ popraša Špela radovedno.</p>
+            <p>Jelica nekoliko zarudi: „Saj nas bodo vsako nedeljo obiskovali in če mogoče, tudi včasih med tednom“, izgovarja se ona; „saj veste, Špela, da sem vendar najrajši pri stricu“, pristavi polglasno.</p>
+            <p>„To je res vesela novost“, meni Špela zadovoljna; „ona je vredna, da bi danes krape pekli in raco zaklali. Pojdi v kuhinjo pomagat mi, Jelica! Naj bode danes očetu na čast boljši grižljej na mizi.“</p>
+            <p>In zgodilo se je tako, kakor je Jelica poročala Špeli. Njen oče je dobil omenjeno službo, in vsi so bili tega neskončno veseli.</p>
+            <p>Preteklo je tako nekaj mesecev. Jeličin oče je prihajal redno vsako nedeljo k doktorju in tedaj so se vsi skupaj prav dobro imeli.</p>
+            <p>Jelica mu je bila sicer dobra in udana, ali vendar je njena ljubezen bila tudi še zmirom pri starem doktorju Jarneju z dušo in srcem.</p>
+            <pb facs="#WIKI00277-020" n="20" xml:id="pb.020"/>
+            <p>Njen oče je to kmalu spoznal. Spočetka je prenašal to mirno; saj mu je pamet jasno pravila, da Jelica čisto naravno čuti. Ali ni ona z doktorjem preživela celo svoje življenje, posebno pa otročja leta, ki so za čuvstva toliko pomenljiva, a z njim je komaj le nekaj mesecev občevala!“</p>
+            <p>Toda pozneje je začel vsled tega postajati vedno bolj nemiren. Pamet je omahovala ter dajala prostor nezaupnosti, temu ostudnemu črvu človeškega srca, ki toliko zla svetu prizadeva. Začel je gledati v doktorju svojega sovražnika, kteri še vedno hoče deliti z njim otročjo ljubezen svoje hčerke, ktera bi pa naj po božji in človeški pravici, kakor si je domišljeval, le njemu pripadala.</p>
+            <p>Ubogi mož, kako ga je strast zaslepila! Več ni hotel izprevideti kakor nekdaj, da se čutja ne dadó prisiljevati, da on in doktor uživata obadva le sad semena, ktero sta vsak posebej vsejala. Mučil se je noč in dan z mislijo, kako bi izpodrinil svojega tekmeca.</p>
+            <p>Ko bi Jelico mogel k sebi vzeti, da bi ona na doktorja pozabila, mislil je pri sebi, to bi bil jedini pripomoček, da si pridobi vso ljubezen svoje hčerkice.</p>
+            <p>A za sedaj je bilo celó nemogoče to misel izvršiti. Saj so bili njegovi dohodki tako majhni, da je sam le za silo izhajal.</p>
+            <p>Ta skrb ga je delala vsak dan bolj resnega, čemernega, neprijaznega. Lice mu je z nova upadalo, oči so vedno temneje gledale in z njegove zvunanjosti je bila brati največja pobitost.</p>
+            <p>Ko je sedaj zahajal k doktorju, bilo je njegovo vedenje jako neprijetno in izpremenljivo. Nekaj časa je bil tih, razmišljen, mračen, a kmalu potem se je začenjal z Jelico živahno pogovarjati, z najslajšimi imeni jo klicati ter ljubkovati, da se ga je ona kar prestrašila. S tem čudnim vedenjem pa jo je on nevedé še bolj od sebe pahal, ne pa da bi se ji bil prikupoval.</p>
+            <p>Doktor ga je z vedno večjim nemirom opazoval.</p>
+            <p>Ta človek je zopet padel v oblast kake strasti ter nekaj nespametnega kuje, mislil si je s strahom pri samem sebi in je sklenil, z njim o tem čim prej govoriti.</p>
+            <p>In res, še tekom istega tedna se napoti doktor v tri ure hodá oddaljeni trg, kjer je Jeličin oče služboval. Tja dospevši obišče najprej župana, ki mu je bil od nekdaj dober prijatelj. Od njega je slišal samo pohvalne vesti o Jeličinem očetu. Marljiv, natančen, vesten, pošten v vsakem oziru, glasila <pb facs="#WIKI00277-021" n="21" xml:id="pb.021"/>se je županova sodba. „Jedino, kar se mi pri njem ne dopada, je njegova mračnost in vedna zamišljenost. Z nikomur ne občuje, a zato si tem pridneje dopisuje po svetu ter dobiva tudi različna pisma. Zdi se mi, da prihajajo vsa iz tujih dežel.“</p>
+            <p>Doktor je vedel dovolj. Poslovi se od župana ter gre naravnost v stanovanje Jeličinega očeta.</p>
+            <p>Tedaj v službi ne tiči uzrok njegove nezadovoljnosti, misli si potem sam pri sebi. Možu se najbrž v domovini več ne dopada; ona postaja kakor nekdaj pretesna njegovim visoko letečim mislim. Njegova ciganska nráv se gotovo zopet vzbuja v njem, ter bi rad z nova pohajkoval po svetu. Da ga bridka izkušnja še ni dovolj izučila! Skoda možá, kteri ima sicer tudi dobrih lastnostij. Strast, strast, kdor tebe takoj v začetku kot jedva vidljivo seme brž ne uniči, trudil se bo pozneje zastonj izruti tvojo strupeno rastlino!</p>
+            <p>Tako premišljujoč pride doktor do namenjenega stanovanja.</p>
+            <p>Jeličin oče se ne malo začudi, vidéč nenadoma doktorja pred seboj. Brž vrže neko knjigo na pismo, ktero je ravno pisal, ter ga sprejme v največji zadregi.</p>
+            <p>„Dragi prijatelj“, začne takoj doktor brez posebnih uvodov, „Vi se gotovo čudite o mojem nepričakovanem prihodu, kakor se jaz čudim Vaši nenadejani izpremembi. In ravno zato, da si to začudjenje razložim, prišel sem Vas danes obiskavat.“</p>
+            <p>„Že dva meseca niste več oni srečni mož, ki ste bili na početku najinega znanstva. Kam je nenadoma izginila Vaša zadovoljnost, Vaša prijetnost v družbi, Vaša ljubeznivost pri občevanju; zakaj je nenadoma ugasnil oni srečni, hvaležni žar očij, s kterim ste poprej vedno svojo hčer opazovali? — Čemu ta nenadna, brza izprememba? — Kaj se Vam je neugodnega pripetilo? — Ali niste dosegli vsega, po čemur je skoz toliko let brez mirú hrepenelo Vaše srce? — Dospeli ste v domovino, dasi Vam je med potoma za las pretila smrt v morskih valovih; našli ste po čudnem potu hčerko svojo, in sicer kot pridno, blago, nepokvarjeno dekle, pravi zaklad v naših izprijenih časih. Dosegli ste tudi, da se Vas je ona v neverjetno kratkem času privadila, da Vas kot očeta že spoštuje, da se Vam njeno srce čim dalje vedno bolj udaja; našli ste tudi tolikanj zaželeni zaslužek, kteri Vas, če tudi menda ne tako, kakor bi želeli, toda vsaj z najpotrebnejšim preskrbuje. — Kaj hočete več božjih darov? — Ali se ne <pb facs="#WIKI00277-022" n="22" xml:id="pb.022"/>spominjate, v kako revnem stanu so Vas pobrali milosrčni ljudje?“</p>
+            <p>Ko je začel doktor govoriti, spustil se je mož na stol ter si zakril lice z rokami; ko pa je končal in se ustavil pred njega, čakaje odgovora, povzdigne on počasi obraz, ki je bil bled kakor stena.</p>
+            <p>„Vi imate prav“, odvrne nató s trepetajočim glasom, „popolnoma prav. Jaz sem velik nehvaležnež proti Bogu in proti Vam, ali ne morem drugače. Čutim se tako neizmerno nesrečnega.“</p>
+            <p>„In zakaj ste nesrečni, če smem vprašati?“ huduje se doktor.</p>
+            <p>Mož ničesar ne odgovori; obraz njegov se zatemni, žile na čelu se napenjajo, z očmi pa se skrbno izogiblje doktorjevega ostrega pogleda.</p>
+            <p>„Vi molčite?“ povzame doktor z nova besedo, vidéč, da odgovora zastonj pričakuje. „Dobro, dovolite tedaj, da Vam povem jaz uzrok Vaše domišljene nesreče.“</p>
+            <p>„Človeško življenje, dragi prijatelj“, nadaljuje potem s prijaznejšim, a resnim glasom, „je srečno ali nesrečno, kakor ga stvarja njegova nrav: to je čuvstvo in odgoja. Vi, kakor smem soditi po tem kratkem času, kar Vas poznam, in pa po dogodkih Vašega burnega življenja, ne boste nikdar srečni, ko bi tudi vedno vsega imeli, po čemur Vaše srce hrepeni. Vaš nemir in Vaša nezadovoljnost tičita v Vas samih in ne prihajata iz zvunanjih izvirov. Komaj se Vam izpolni jedna želja, že drugo gojite in tako mučite v jednomer sebe in še one, ki so z Vami v bližnji dotiki.“</p>
+            <p>„Ali morete tajiti, da na novo kujete skrivne naklepe, ki utegnejo Vas in morda še koga drugega v nesrečo pahniti?“</p>
+            <p>Mož se zdaj hitro ko blisk po koncu vzravna ter se doktorju postavi nasproti. Oči mu žaré, ustnice zatrepečejo, ko reče z votlim glasom: „Mojega otroka, njegovo udanost hočem celo in popolno sam imeti; to je vse, kar še k svoji sreči zahtevam. Nočem, ne trpim“, nadaljuje vedno bolj ognjeno, „da bi kdo drug delil z menoj nagnjenje, do kterega imam le jaz pravico. Ali me sedaj umejete, gospod doktor?“ in pri teh besedah ga je meril strupeno od pete do glave.</p>
+            <p>Ko to doktor začuje, podpré si život z jedno roko na stol, z drugo pa si obriše mrzel znoj s čela. Za hip ga je bila obšla slabost. Moževe strupene besede so prodrle kakor meč v njegovo občutno srce, in vsled tega se je njegova zavest za trenutek zatemnila.</p>
+            <pb facs="#WIKI00277-023" n="23" xml:id="pb.023"/>
+            <p>Tedaj to je bilo plačilo, da je svoje dni pobral zapuščeno sirotico, da je za njo po očetovsko štirinajst let skrbel, da se je zdaj na vso moč trudil, poboljšati in olepšati življenje tudi njenemu očetu? — Ne, tako grde nehvaležnosti še ni doživel v svojem precej dolgem življenju.</p>
+            <p>Ko se nekoliko zavé od bridke osupnjenosti, reče žalostno: „Prijatelj, ali ste Vi sedaj govorili ali Vaša strast?“</p>
+            <p>Jelica mora odslej naprej bivati pri meni; brez nje mi ni živeti“, glasil se je razdraženi odgovor strastnega moža.</p>
+            <p>„Ali kako jo hočete pri sebi imeti“, odgovori doktor navidezno mirno, „ko Vam k temu vsega primanjkuje? S svojim zaslužkom komaj sami izhajate; kako bi potem še hčer preživili? — V ti tesni sobici brez luči in brez zraka hočete ubogega otroka imeti? Ali mislite, da se dá štirinajstletna deklica v kletko zapreti kakor ptica? Ali —.“</p>
+            <p>„Morate-li res misliti, da bi svojega otroka v to revno luknjo zaprl!“ seže mu mož v besedo in se porogljivo nasmeje. „Za svojo in njeno boljšo bodočnost sem, hvala Bogu, že poskrbel; kmalu bodem zmožen dajati ji, česar koli poželi, samo z menoj mora, kamor jaz hočem!“</p>
+            <p>„Mož, Vi me spravite danes še v obup s svojim čudnim govorjenjem. Govorite jasneje, jaz Vas ne umejem“, zakliče doktor ves preplašen, ki že sluti, kaj misli storiti mož.</p>
+            <p>„Jasneje naj bi govoril?“ odvrne Jeličin oče; „dobro, storim to, ako me res ne umejete.“</p>
+            <p>„Ravno sem dobil poročilo iz Nju-Jorka“, nadaljuje on, „da tam že Čaka na-me izvrstna služba mešeterska pri neki imenitni tovarni. Sprejel sem jo, kakor se razume, samo ob sebi. Brž ko dobim denar za na pot, odidem z Jelico.“</p>
+            <p>„V Ameriko hočete otroka voditi?“ zavzame se doktor. — „Ne, tega jaz nikakor ne morem dovoliti; ona bi med potoma žalosti umrla. O Jeličini osodi imam tudi jaz še govoriti besedo.“</p>
+            <p>„Vi? — Kdo ste pa Vi, da si upate zoperstavljati se očetovi volji?“ zakliče Jeličin oče z nagubančenim čelom in groznim pogledom.</p>
+            <p>Doktor si razpne suknjo ter globoko vzdihne. Zdelo se mu je, da mu sape zmanjkuje. Ni bil vajen prepirov, in ta razdraženi dvogovor je blagočutnega starca popolnoma potrl.</p>
+            <p>„Da ste Vi Jeličin oče, a jaz njej le tuj človek, to vem“, odvrne mirno doktor po dolgem, neugodnem molčanju. „Toda jaz sem jo rešil pogubne smrti in celih štirinajst let sem čuval njeno življenje in jo redil in vzgajal. Kaj pa ste Vi storili za svojo hčer? Povejte mi to?“</p>
+            <pb facs="#WIKI00277-024" n="24" xml:id="pb.024"/>
+            <p>„Ne ponavljajte mi, kar še predobro vem“, odvrne na to vprašanje mož nekoliko osramočen; „za trud in skrb, ki ste jo imeli za njo, Vam nihče ni hvaležnejši od mene. A kar je minilo, je minilo. Sedaj sem jaz njen oče tú in le meni je odslej dolžnost, skrbeti za bodočnost svojega otroka.“</p>
+            <p>„In ko bi se tudi Vi proti moji želji z vso močjo upirali, nič bi Vam ne pomagalo; očetova beseda bi vendar obveljala!“</p>
+            <p>„Jaz grem“, reče doktor popolnoma uničen ter seže po klobuk. „Vidim, da danes ni z Vami razumno govoriti, preveč ste razdraženi. Samo ponavljam Vam še enkrat, da Jelice do Amerike žive ne privedete, predobro jo poznam. In tako bi jo Vi, njen oče, vsled svoje prenapetosti in lahkomiselnosti še drugikrat vrgli v smrtno nevarnost.“</p>
+            <p>„In zdaj sem Vam povedal dovolj, Vi pa storite, kakor Vam Vaše očetovsko srce svetuje.“</p>
+            <p>„Srečno za danes!“</p>
+            <p>In z životom omahujoč, tako je bil presunjen, odide.</p>
+         </div>
+         <div xml:id="wv-VII.">
+            <head xml:id="head.7">VII.</head>
+            <p>Po tem viharnem pogovoru so prišli za naše znance nemirni dnevi.</p>
+            <p>Doktor Jarnej in Jeličin oče sta imela še več jednakih razdraženih pogovorov, pri kterih je doktor z vsemi pripomočki poskušal odvrniti moža od nesrečne misli, preseliti se v tujo deželo.</p>
+            <p>Obetal mu je celó stalen mesečni dohodek, da bi si mogel ustanoviti lastni svoj dom in Jelico imeti pri sebi; a le v domovini naj ostane.</p>
+            <p>Toda vse to ni nič pomagalo. Mož je trdovratno ostal pri svojem sklepu, čim prej odpotovati v bogato Ameriko; saj je on tam kakor domá in le tam more torej uspešno delovati za svojo in Jeličino srečo.</p>
+            <p>Ubogi doktor ni si več vedel pomagati. Znal je, da če bi tudi dalje korake storil, vse bi nič ne pomagalo, kajti očetova želja bi pri vsem tem vendar le obveljala.</p>
+            <p>Udal se je torej v božjo voljo ter zaupal v ubogljivost in mirnost Jeličino in pa v njeno mladost, da se kmalu uda v svojo osodo in se privadi novi domovini.</p>
+            <p>Jedina skrb mu je zdaj še bila, kako naj pripravi Jelico na to, da bode morala svoje dosedanje življenje izpremeniti, in da utrdi v njeni duši spoštovanje in udanost do očeta. Le potem bode, tako si je mislil, laže prebila ločitev od svojih dragih oseb in izgubo domovine svoje.</p>
+            <pb facs="#WIKI00277-025" n="25" xml:id="pb.025"/>
+            <p>Ne bodemo popisovali, kako se je prestrašilo ubogo dekle začuvši, da mora za očetom v daljni, komaj po imenu ji znani svet. Njena presunjenost in žalost je bila presilna za njeno mlado, v trpljenju še ne utrjeno dušo. A Jelico je kinčala poleg drugih lepih lastnostij tudi prava pobožnost, in izpolnjevanje božjih zapovedij si je vedno štela v sveto dolžnost. Da pa mora priden otrok vselej in v vsem stariše ubogati, ker je ta zapoved od Boga postavljena, vedela je dobro. In tako se je udala v očetovo voljo, če ravno je pri tem krvavelo njeno srce.</p>
+            <p>Prizadevala si je celó skrivati ljudem, posebno pa očetu, neizrečeno bolest, ktera ji je proti njeni volji težila srce pri misli, da se mora ločiti od domovine.</p>
+            <p>Doktorjeve tolažilne besede in dobri nauki so jo močno tolažili. — „Bodi ti odslej naprej dober očetov angelj“, prigovarjal ji je med drugim, „ki mu naj čuva, tolaži in blaži življenje. Brez tebe bi bil oče zopet, kakor nekdaj, zelo nesrečen; zašel bi morda zopet na kriva pota; ker pa tebe iz celega srca ljubi, kakor sem se večkrat prepričal, in hoče le za tvoj blagor živeti, bodi mu udana v svoj in njegov prid. In ko ti bode hrepenenje po domovini in znancih z doslej neznano bridkostjo polnilo dušo, tolaži naj te misel, da trpiš očetu na ljubo. Misel ta pa je vzvišena dovolj, da ti s časoma vlije mir v srce. Vedi tudi, ljuba Jelica, da dobrotni Bog povsod biva in čuva: onkraj morja kakor tukaj. On, ki razveseljuje svet s solnčnimi žarki, ki napaja svet z blagodejnim dežem, ki preskrbuje živež ljudem, ki daje angelja varuha otrokom, ki naudaja z upom bolnike, on nikdar ne pozabi na ubogo, trpeče človeško srce, ki vá-nj zaupa.“</p>
+            <p>„To zaupanje v Boga podam ti kot spomin na pot. Ne bom ti priporočal, da bi ostala vedno blaga, dobra in poštena; te naloge nimam od sedaj več izpolnjevati, ker boš imela na svoji strani očeta za voditelja.“</p>
+            <p>„Obljubi mi le. da se bodeš pogostoma spominjala mene, in prepričan sem, da te bode spomin na resnega, odkritosrčnega starega doktorja, ki te je vedno le k dobremu vodil, čuval tudi zanaprej vsake pregrehe.“</p>
+            <p>Z jednakimi zlata vrednimi opomini je učil doktor Jelico zadnje dneve pred njenim odhodom, ki se je hitro, še prehitro za vsakega približeval. Le Jeličinemu očetu so se zdeli ti dnevi dolgi; nestrpno je čakal na določeno uro odhoda svojega.</p>
+            <pb facs="#WIKI00277-026" n="26" xml:id="pb.026"/>
+            <p>Jelica se je bila v zadnjih štirinajstih dnevih duševno razvila za najmanj dve leti. Izginil je z njenega obličja izraz otroške lahkomiselnosti; razumnost je zdaj sijala iz njenih očij, kij so jasno kazale, da si je svesta resnobnosti življenja svojega, ki jo čaka zanaprej.</p>
+            <p>S solznimi očmi, a brez glasnega ihtenja in vzdihovanja poslovi se na dan določenega odhoda od svojih dragih. Le ko jo doktor pri slovesu nemo pritisne na srce, nezmožen besedice govoriti, ona glasno zaihti ter se oklene krčevito njegovega vratú.</p>
+            <p>A to je trajalo le nekaj trenutkov. Kmalu se ohrabri, izvije se stričevemu objemu ter podavši roko očetu reče: „ Odpustite, ljubi oče, da sem se dala od žalosti premagovati; ali to slovo od svojega dobrotnika je bilo slovó za celo življenje. Sedaj sem pripravljena z Vami iti, kamor koli želite.“</p>
+            <p>Očetu, kteremu je prej, ko je videl žalovati svojega otroka, postajalo milo pri srcu, zasveti se zdaj od veselja okó.</p>
+            <p>„Jaz sem vedel“, reče iskreno, „da kri ni voda in da moja hči ima srce in razum na pravem mestu. Pojdi, Jelica, voz že čaka, da naju pripelje na kolodvor. Upam, da se nikdar ne boš kesala, da si za očetom šla v tuji svet.“</p>
+            <p>Nató se mož doktorju približa in mu podá roko v slovó, s prisiljeno prijaznostjo rekóč: „Hvala za vse, gospod doktor, kar ste za Jelico in mene storili. Bog Vam povrni stoterokrat Vašo skrb in Vaš trud.“</p>
+            <p>Doktor položi svojo roko, ki je bila mrzla ko led, v njegovo in komaj slišno odvrne: „Storil sem rad; z Bogom in srečen pot!“ In ko je to govoril, upirale so se njegove oči z nepopisljivim izrazom na Jeličino ko stena bledo obličje.</p>
+            <p>Oče pa zdaj Jelico hitro prime za roko, potegne jo za seboj, privzdigne v voz ter zaukaže vozniku hitro pognati.</p>
+            <p>Ko voz v največjem teku driči skoz trg, postajajo po cesti in na pragih ljudje, pozdravljaje odhajajočo deklico. A Jelica ne vidi zadnjega pozdrava dobrih tržanov. Premagana od žalosti pokrije si z rutico oči ter se tiho zajoče.</p>
+            <p>Oče jo pusti pri miru misléč si: Naj se najoče, potem ji bode laže postalo. Prepričan sem, da ko zagleda lepoto mest, skoz ktera se bova vozila, tedaj bode pozabila kmalu tihi, revni domači trg.</p>
+         </div>
+         <div xml:id="wv-VIII.">
+            <head xml:id="head.8">VIII.</head>
+            <p>Tri dni pozneje, v jutro krasnega jesenskega dneva, sučeta se naša dva potovalca med veliko gnečo ljudij na <pb facs="#WIKI00277-027" n="27" xml:id="pb.027"/>prostornem pristanišču morskega mesta Haver na severnem Francoskem. Potovalcev v Ameriko je bilo isti dan na stotine v tem mestu, kajti ondi se najbolj zbirajo evropski izseljenci. Ti so hodili z nemirnostjo, ki je lastna človeku v zadnjih trenutkih pred dolgim potovanjem, gor in dol po pristanišču, glasno med seboj govoréč, suvaje drug drugega, nestrpljivo čakajoč ukaza, da smejo stopiti na ladijo.</p>
+            <p>Med njimi so postrežniki vozili brezštevilne tovore, nanašali zaboje, na desno in levo svarjajoč ljudi, naj se izogibljejo.</p>
+            <p>Na ladiji, za odhod pripravljeni, tekali so mornarji skrbno sem ter tja, da čim prej dovršijo zadnje priprave za na pot; po debelih vrvéh so z velikim ropotom in z neverjetno urnostjo spuščali na dno ladije pertljago potovalcev.</p>
+            <p>Kamor se je okó ozrlo, povsod je zagledalo nered, zmešnjavo, podvizanje.</p>
+            <p>Okoli desete ure se je dalo znamenje, stopiti na ladijo.</p>
+            <p>Najprej vstopijo potniki prvega in drugega razreda, za kakih šestdeset oseb po številu. Ti so bili samo boljšega stanú; z njihovih obrazov se je znalo, da jim to daljno potovanje služi v zabavo in razvedrenje, ali pa da potujejo po kupčijskih in drugih opravkih.</p>
+            <p>Za njimi so prišli potniki tretjega razreda, sami izseljenci. Teh je bilo kakih tri sto in med njimi sta bila tudi naša Jelica in oče njen. Bili so zvečine samo prosti, revni ljudje, največ delavskega stanú.</p>
+            <p>Ganljivo je bilo gledati, ko so v ladijo stopali: nekteri jasnega, veselega obraza, neustrašeno idóč v neznano bodočnost; drugi z detetom v naročju in z ženo na strani so gledali resno in zamišljeno; nekteri so bili bledi in upadlega lica, a drugi sivi in onemogli od starosti. Toda vsi so pogumni in upapolni podajali svoje vstopne liste ladijinemu komisarju.</p>
+            <p>Proti poldnevu se začne velikanska ladija gibati; dva strela iz topa naznanita čas njenega odhoda.</p>
+            <p>Gromoviti hurá! in z Bogom! odmeva po zraku od radovedne množice na pristanišču. Parobrod se med tem vedno hitreje naprej pomika. Njega sprednji del se obrne proti zapadu ter teče brzo, kakor puščica, po neizmernem morju.</p>
+            <p>Črez malo časa ni bilo od evropske zemlje drugega videti, kakor nedoločna črta nad površino morskega obrežja.</p>
+            <p>Potniki so se podali na vrh ladije in ondi z rutami in klobuki še enkrat pozdravljali Evropo.</p>
+            <pb facs="#WIKI00277-028" n="28" xml:id="pb.028"/>
+            <p>„Z Bogom, suha zemlja! Z Bogom Evropa! Bog vas čuvaj, znance in prijatelje!“ klicali so iz dna srca in solze so od ginjenosti stopale trpinu kakor bogatinu v oči.</p>
+            <p>Toda kmalu se razvedrijo. Lepota prozračnega morja, na kterem so se solčni žarki z mnogobrojnimi barvami kakor v zrcalu odsevali, in čvrsti, živce okrepčujoči morski zrak je srce vsakega s pokojnostjo napolnjeval. Šteli so se srečni, da jim je Bog tako krasno vreme dal v tako poznem letnem času, ter se posmehovali onim, ki so se že zdaj bali morske bolezni.</p>
+            <p>A žalibog, da njih zadovoljnost je le kratko časa trajala. Okoli pete ure zvečer se izpremeni prizor na ladiji. Slabo je jelo vsakemu postajati in od vseh stranij se ni drugega čulo kakor bolestno vzdihovanje, drugega videlo, kakor grda prikazen morske bolezni: silne želodčne slabosti.</p>
+            <p>Huda je morska bolezen; bolnik mora po sili neprestano jesti, sicer so njegove bolečine še hujše.</p>
+            <p>Ob osmih zvečer jim pride naproti druga ladija; ladiji ste druga drugo pozdravljali z umetnimi ognji; krasen pogled!</p>
+            <p>Ob devetih so šli vsi potniki k počitku, kakor je bil zaukazal ladijin stotnik. Ali, o Bog, kakošen je bil ta počitek! Postelje tako ozke in kratke, da se je človek v njih komaj gibal; a poleg tega je še trpel vsak o prej imenovani bolezni.</p>
+            <p>Tudi Jelica in njen oče sta se podala k počitku v kamrico njima namenjeno.</p>
+            <p>Oče, že vajen morja, občutil je le mimogredé nasledek morske vožnje, a Jelica se je komaj držala po koncu od samih bolečin.</p>
+            <p>Trpela je sploh v onih štirih dnevih, odkar je bila na potovanju, telesnih muk in duševnih razdraženostij toliko, da je bila vsa zmučena in zmedena.</p>
+            <p>V njeni glavi so se trli obilni utisi od vsega, kar je v tem kratkem času preživela.</p>
+            <p>Videla je toliko tujih mest, velikih in manjših; cula v toliko različnih jezikih govoriti, srečavala samo tuje obraze ljudij raznih narodnostij; prvikrat v življenju je videla brezmerno morje, po njem se z neko grozo prvikrat vozila, a zdaj jo še napada ta strašna bolezen!</p>
+            <p>Ubogi neizkušeni deklici se je zdelo, kakor da bi v jednomer sanjala; ona ni mogla skoro zapopasti, da bi vse, kar vidi in čuje, bila resnica, da bi tako nemirno življenje odslej naprej bila njena osoda, da bi nikdar več ne uživala <pb facs="#WIKI00277-029" n="29" xml:id="pb.029"/>blaženega mirú tihega, srečnega domačega trga! A kar je največ tudi v šumu, v kterem se je gibala zdaj, pogrešala, to je bila ljubljena oseba predragega ji strica. Da bi njeno oko nikdar več ne gledalo v njegov prijazni obraz, njeno uhó nikdar več ne culo krepkega, a prijetnega glasu njegovih besed, zdelo se ji je nemogoče.</p>
+            <p>Še le zdaj, v temni noči prepuščena lastnim mislim in čuvstvom, začutila je, da je ta izguba med vsemi izgubami najhujša.</p>
+            <p>In v resnici, ni je večje izgube na svetu, kakor če kdo izgubi stariše ali drage sorodnike. In doktor je vselej Jelici s svojo skrbjo in ljubeznijo nadomestoval roditelje in sorodnike ob jednem.</p>
+            <p>Vse druge izgube, bodi si prijateljev in znancev, za kolikor bi tudi bridke bile, so lažje, ker njih korenine niso tako globoke. Bil je čas, ko oni za nas še obstajali niso in se je vendar živelo; naši reditelji pa, so Bogu podobni: oni so nam bili, odkar pomnimo. V najdaljših spominih najdemo njih glasove, njih nauke, njih tolažbe.</p>
+            <p>Ah, kake izpremembe so se v njej zgodile vsled tega, ker je očeta ubogala! — Kam je nenadoma izbežal njen neskaljeni, blaženi duševni mir, njena brezskrbnost in zadovoljnost?</p>
+            <p>„Ko bi mogla vsaj zaspati“, vzdihovala je na tihem, „pozabila bi vendar za nekaj časa svoje gorje“.</p>
+            <p>In v ozko posteljo skrčena, stisnila je z močjo oči, da bi jo spanec hitreje premagal.</p>
+            <p>Če ravno so jo vsled utrujenosti vsi udje boleli, ker ni v zadnjih štirih dnéh sicer spala kakor po posameznih urah, vendar niso njene trudne oči mogle najti zaželenega pokoja. Nemirno se je metala po postelji, s strahom poslušaje pluskanje vode pod svojo kamrico. A oče v bližnji postelji je spaval zeló sladko, kakor je sodila po njegovem hrčanju.</p>
+            <p>Da je le oče srečen in zadovoljen, misli si naposled ter začne iskreno moliti, da bi ji Bog dal moči prenašati svojo osodo in da bi ostala vedno dobra, zvesta, poslušna hči.</p>
+            <p>Ah, vera! ona je ženski duša, ona je njen pogum, njen up, njena največja tolažba in obramba! Kajti ženska je na svetu največjim nadlogam podvržena. Zato zna ženska bolj kakor moški ceniti sladkost in pomoč vere, kakor tudi najbolj umeje najnežnejša in najvzvišenejša čutila.</p>
+            <p>In v molitvi je tudi Jeličina še otroška duša našla pokoj v prvih bridkostih svojega življenja; toda po toliko potrebnem spanju je ona isto noč zastonj vzdihovala.</p>
+         </div>
+         <pb facs="#WIKI00277-030" n="30" xml:id="pb.030"/>
+         <div xml:id="wv-IX.">
+            <head xml:id="head.9">IX.</head>
+            <p>Drugo jutro ob sedmih se je začelo na ladiji v novič oživljati.</p>
+            <p>Potniki, ko so vstajali iz postelje, čutili so se vsi bolnejši in bolj zmučeni, kakor prejšnji večer; z bledih in upadlih lic se je znalo malo da ne vsem, da so hudo noč prestali. Obedna soba je bila zategavoljo skoro prazna, nihče ni maral za zajuterk.</p>
+            <p>Tudi nebo je bilo odložilo svoj včerajšnji veseli obraz: temno in megleno se je pripravljalo na dež.</p>
+            <p>Zopet so se srečali s tujo ladij o, a ker je to bilo po dnevu, pozdravljali ste se ladiji z razobešenimi zastavami.</p>
+            <p>Proti poldnevu zagledajo potniki obali majhnih otokov; ta pogled jih je nekoliko razvedril. A potem zopet celi dan drugega ne vidijo, kakor morje in sivo viseče nebo. Vsled tožnega vremena in pa telesne slabosti se čutijo potniki v slabem razpoloženju; vidijo se samo žalostni, trpeči, dolgočasni obrazi.</p>
+            <p>Tretji dan se je začelo nebo jasniti. Vjutro je bila obedna soba zopet napolnjena; potniki, ki so bili več ali manj dobro spali, čutili so se čvrsteje in boljše volje ter so se živahno med seboj pogovarjali, in sicer največ o spanju.</p>
+            <p>Spati pomeni toliko, kakor utešiti notranje razvnetje, odložiti delavno orodje, upokojiti dušo, zadušiti strast, povrniti se v naročje matere narave, prestvarjati sebe iz malodušnega v pogumnega, blagega človeka. Tako se je glasilo mnenje vseh potnikov, izobraženih kakor priprostih.</p>
+            <p>Med tem postaja vreme čim dalje tem jasneje, in v veliko veselje in razvedrenje potnikov so skoz dve celi uri obdajali ladijo krasni morski ptiči.</p>
+            <p>Morski ptiči so veliki kakor žrjavi, beli kot golobje, samo da so njihove noge racam podobne in kljun je na zvunanjo stran rudeč, na notranjo pa rumen.</p>
+            <p>Proti štirim popoldne je začenjal hud veter pihati; podnebje je bilo sicer še čisto, ali valovi so se vedno više vzdigovali. Na ladiji so razprostirali jadra. Okoli osmih je iz vetra nastala silna burja, nebo se je pooblačilo in mornarji so slutili nevihto.</p>
+            <p>Kako je vreme izpremenljivo na morju ! Valovi so vedno siloviteje razsajali in metali ladijo sem ter tja.</p>
+            <p>Ljudje na njej niso več mogli stati po koncu. In ko so večerjali, morali so se z nogami mize krepko držati, krožnike <pb facs="#WIKI00277-031" n="31" xml:id="pb.031"/>pa v roki imeti, sicer bi se zvrnili. — Ono noč so bdeli potniki v obedni sobi, nihče si ni upal iti v kamrico spavat.</p>
+            <p>Proti jutru se poleže nevihta, začela je ugodna sapa pihati.</p>
+            <p>Razburjenost potnikov se pomiri; utrujeni in zmučeni se še le tedaj podajo k počitku.</p>
+            <p>Po dnevu je postajalo vreme vedno lepše in tudi dobra volja se je z njim povračala potnikom.</p>
+            <p>Oni dan so uživali nov čaroben prizor. Okoli desetih vjutro, ravno ko so solnčni žarki z najkrasnejšim srebernim svitom obsevali zlato-temne morske valove, privzdigovalo se je iz njih neizmerno število delfinov. Ti so iz valov in nazaj v valove z neverjetno urnostjo skakali, da je belo se peneča voda pluskala visoko na vrh.</p>
+            <p>Ta dan so srečali belgijsko ladijo ter se z njo zopet z zastavami pozdravljali.</p>
+            <p>Tako srečavanje ladij je bilo potujočim vselej v veliko veselje, rekli bi skoro v tolažbo. Saj so videli, da so tudi drugi ljudje, kakor oni, izročili svoje življenje morju in da pretresujejo tudi druge ob jednoistem času jednaka čutjenja v upu in strahu.</p>
+            <p>Ta dan se prigodita na ladiji dva posebna dogodka. Najprej se narodi deklica ubogim starišem. Potujoče gospe so bile vsled tega močno ginjene. Brž začnó šivati perilo, plesti avbice, jopice in drugi drobiž za novorojenko, gospodje pa so med seboj nabirali denar in ga starišem darovali.</p>
+            <p>Pozneje pa je poginil krasen konj v vrednosti okoli tri tisoč goldinarjev. Vrgli so ga v vodo, a vsi brez izjeme so lastnika vsled te škode pomilovali.</p>
+            <p>Sploh so ljudje na morju jako občutljivi; vsaka malenkost jih gane. Veselje in žalovanje posameznega človeka postaja občno. Ondi, vsi pod oblastjo jednake osode, ki jih v trenutju lahko vse pogubi ali pa vse reši, čutijo se drug drugemu naklonjeni. Ondi čutijo menda, kakor nikjer drugod, da so si vsi ljudje na zemlji bratje, otroci jednega očeta, dasi so po stanu, odgoji in premoženju toliko različni.</p>
+            <p>Nató je nastalo neugodno vreme, kije nekaj dnij trajalo. Najprej je deževalo, potem je sneg zapadel in od severa je pihal tako hud in oster veter, da se je ladija komaj naprej pomikala.</p>
+            <p>Potnike je zeblo; z oblekami, ktere so imeli seboj, niso se mogli dovolj ubraniti mrazu.</p>
+            <p>Ladija se je vsled tega zakasnila najmanj kakih 30 ur in bode tedaj več kakor petnajst dnij do Nju-Jorka potrebovala.</p>
+            <pb facs="#WIKI00277-032" n="32" xml:id="pb.032"/>
+            <p>Ljudje so bili zavoljo te vesti jako nevoljni; toliko že hrepené po suhi zemlji, a zdaj se jim nenadoma podaljša to mučno potovanje za več kakor jeden dan!</p>
+            <p>Dolg čas že vsem postaja. Vsled neugodnega vremena ne morejo več biti na vrhu ladije, na kterem so uživali jedino razvedrenje v tem pustem življenju: krasen pogled.</p>
+            <p>Mineta dva, trije dnevi, a vreme se še noče spametovati, na veliko žalost vsem. Dež lije neprestano, morje je silno razkačeno, valovi velikanski.</p>
+            <p>V trenutju, ko se je burja nekoliko utešila, povabi poveljnik potnike na vrh ladije, da vidijo krasno-grozovito vrvenje neizmernih valov. Pogumnejši poslušajo res njegov klic. Na vso moč se držijo drug drugega za roke, da bi jih ne zvrnili valovi, ki so visoko kakor gore švigali mimo ladije.</p>
+            <p>S strmečimi očmi gledajo v to divje igranje morskih valov ter skoro jednoglasno zakličejo zavzeti: „Usmiljeni Bog, pomagaj nam!“ ter bežijo v zaduhle prostore v ladiji.</p>
+            <p>A kakor so bili zdaj dnevi žalostni in dolgočasni, tem hujše so bile noči. Samega strahú ni nihče mogel zatisniti očesa.</p>
+            <p>Vihar je tulil in besno razsajal; celo noč je metal ladijo s tako silo sem ter tja, da so ljudje malo da ne popadali s postelje. Valovi so bučali z divjim šumenjem ter butali v mala okenca na ladiji, da je bilo groza poslušati.</p>
+            <p>To je bila zopet strašna noč! S temi besedami so potem drug drugega vjutro pozdravljali. — O suha zemlja, o suha zemlja, da bi te skoro ugledali! Daj nam, mili Bog, še teh par dnij pogumno in srečno prestati! vzdihovali so iz dna srca. A še jeden hud dan so jim nebesa namenila, predno so bili rešeni mučnih strahov. Ko so namreč jadrali v bližino nove zemlje, bil je mraz posebno občutljiv in pot jako nevaren. Tod se večkrat srečavajo velikanske ledene plošče, ki priplavajo s severa. In če se ladija v nje zaleti, zdrobi se lahko ter v nekterih minutah tudi utone.</p>
+            <p>Ker je celo noč močno snežilo in zmrzovalo, imela je vjutro naša ladija ledeno skorjo in vrvi na njej so bile pokrite z ledom dva palca debelim.</p>
+            <p>Toda tudi ta nevarni pot so bili z božjo pomočjo srečno prejadrali.</p>
+            <p>Čim bolj se je zdaj ladija približevala svojemu cilju, tem jasnejše je postajalo nebo, tem milejše vreme so imeli. Viharji so ponehavali, morje se je upokojevalo, pihal je jug, ki je delal zrakovje toplo in prijetno.</p>
+            <pb facs="#WIKI00277-033" n="33" xml:id="pb.033"/>
+            <p>Samo po jutrih in večerih je gosta megla delala parobrodu preglavico, ker ni videl pota pred seboj; bali so se vsled tega v novic zamude.</p>
+            <p>Ugodna vremenska izprememba in zavest, da kmalu dospejo zdravi in nepoškodovani do zaželenega cilja, dasi jim je med potoma tolikokrat pretila nesreča, uplivalo je na potnike jako ugodno. Kakor prerojeni pevajo, smeje se in šalijo od jutra do večera. Skrb za negotovo bodočnost se je umaknila veselju, da so si življenje ohranili.</p>
+            <p>Kako rad človek živi, če je tudi njegovo stanje še tako borno in trudljivo!</p>
+            <p>Zadnji dan vožnje je bil nekoliko meglen; vsled tega je ladija zakasnila svoj prihod v Nju-Jork za nekaj ur. Dospela je tja, ko je bila že popolna tema. Po noči pa ne sme nobena ladija prijadrati v pristanišče kakega mesta in tako je tudi naša „Francija“ morala celo noč zvunaj na visokem morju drugega dne pričakovati.</p>
+            <p>Nepopisljivo neprijeten je občutek, ki naudaja morske potnike, ko se ladija ustavi. Parobrodovo ropotanje, kteremu je njihovo uho že bilo privajeno, na enkrat preneha. Zdi se jim, kakor bi bili vinjeni ali pa pamet izgubili.</p>
+            <p>Noge, prej vajene premakljivih tál, stojé zdaj pri miru in se dozdevajo težke ko svinec.</p>
+            <p>Ko se nekoliko iznebijo neprijetnih počutkov, podajo se potniki na vrh, da pogledajo, kako ladija z bengaličnimi ognji, rudečimi in modrimi, naznanja prihod svoj telegrafskemu uradu.</p>
+            <p>Urad je nató brž brzojavil iz Nju-Jorka v Haver, da je ladija „Francija“ ravnokar srečno priplula.</p>
+            <p>V veliki daljavi pa zasveti presrečnim potnikom šest velikanskih električnih morskih svetilnikov nju-jorškega pristanišča, ki s čarobno lučjo razsvetljujejo morje daleč na okrog.</p>
+            <p>Ne dolgo potem privesla v lahnem čolniču morski voznik, kteri ima nalogo, ladij o v pristanišče voditi. Z gromovitimi „hurá“ -klici sprejmejo potniki svojega rešitelja.</p>
+            <p>Komaj ko se drugo jutro začne daniti, bili so že potniki po koncu.</p>
+            <p>Danes ureduje vsak bolj ko mogoče svojo opravo, a potem se podvizajo na vrh ladije, da vidijo Nju-Jork, svojo bodočo domovino, pri svitu dneva.</p>
+            <p>Nató pride zdravnik, da vsakega posameznega preišče, ali bi ne bilo med njimi kužnih boleznij; saj brez zdravniškega obiska in dovoljenja ne sme nobena ladija jadrati v pristanišče.</p>
+            <pb facs="#WIKI00277-034" n="34" xml:id="pb.034"/>
+            <p>Še le potem se velikanska ladija počasi in ponosno pomika naprej.</p>
+            <p>Vhod v nju-jorško pristanišče je nekaj vzvišenega; nemogoče je popisati krasnega prizora, ki se nenadoma očem odprè.</p>
+            <p>Morje je posuto z brezštevilnimi ladijami raznih narodnosti; med njimi se vidijo barčice tako majhne in krasne, da se zdijo prave otroške igrače.</p>
+            <p>Breg morja bi se dal nekoliko primerjati planinskemu delu naše slovenske zemlje, samo da je nju-jorški še čarovnejši od tega.</p>
+            <p>Planine in doline po široki <choice>
+                  <unclear>ok</unclear>
+                  <corr>okolci</corr>
+               </choice> so posute s prijaznimi poletnimi hišami in dvorci, ki se zdijo v ta namen postavljeni, da privabljajo trudne potnike v svoje tihe, mirne prostore.</p>
+            <p>Srca vseh naudaja nov up in pogum, da navdušeni zakličejo: Z Bogom na večno, Evropa! ako nam bode osoda mila, nočemo več misliti ná-te. Tú bodemo našli domovino, ki nas bode odškodovala za vse prestale težave. Dobri Bog je povsod; kjer je priroda tako lepa, tam veje poseben blagoslov nad človeštvom!</p>
+            <p>Odhod ladije in slovó med potniki je vse do solz ganilo. Nobeno oko ni ostalo suho. Delili so črez pol meseca jednako osodo, vsi so skupaj trpeli in vsi so šli neznani bodočnosti naproti. Ko bi se po preteku jednega leta vsi zopet sešli, v kakošnih okoliščinah bi se pač le našli?!</p>
+            <p>Taki in jednaki občutki so vsakega naudajali, ko so zapuščali ladijo.</p>
+            <p>Že pri prvem koraku na suho zemljo je nehoté vsak pogrešal znanih prijateljskih obrazov, kterih je bil vajen v domovini. Nihče ne pride tujcu naproti, da bi mu klical: „Dobro došel!“</p>
+            <p>Kako tujca pri tem zaboli srce!</p>
+            <p>Samo davkarski uradnik se s strogim obrazom približa, z neuljudnim glasom zahtevajoč potno pertljago, dajo preišče.</p>
+            <p>In tako je izginila mahoma navdušenost naših potnikov do lepot njihove nove pomorske domovine; vsak vidi zdaj pred seboj le trdo, bridko resnico: boj za življenje!</p>
+         </div>
+         <div xml:id="wv-X.">
+            <head xml:id="head.10">X.</head>
+            <p>Prepustimo neznane nam potnike, kterih težavno potovanje smo do tukaj zasledovali, svoji osodi; vrnimo se k našima dvema znancema.</p>
+            <pb facs="#WIKI00277-035" n="35" xml:id="pb.035"/>
+            <p>Tudi Jelico in njenega očeta najdemo v gneči tujcev, ravno na suho stopivših.</p>
+            <p>Dasi je Jeličin oče bival že štirinajst let v Ameriki, vendar je bil v Nju-Jorku popolnoma tuj; v tem mestu še ni bil nikdar.</p>
+            <p>Sploh je bil on prehodil le južno Ameriko, ne pa severne. Zató se tudi on, kakor drugi, ozira zdaj na levo in desno stran široke ceste, ki vodi v mesto, ne vedé, po kterem potu bi naj krenil. A ker je znal angleški, pomagal si je iz zadrege.</p>
+            <p>Vzemši v roko naslov tovarne, v kteri je bil v službo najet, poprašuje zdaj tega, zdaj onega mimogredočega, kod vodi pot do naznanjene ulice, kjer stoji tovarna.</p>
+            <p>In hodila sta potem z Jelico več ko dobro uro med mnogobrojno množico živahnega mesta, predno sta našla dotično ulico.</p>
+            <p>Jelica si ogleduje med potoma s plašnim, a radovednim očesom hiše, med tem ko hodi njen oče ves zamišljen naprej.</p>
+            <p>Zdelo se je, da ga novost mesta nič ne zanima; le sem ter tja se je ustavil za trenutek, pogledal površno okoli sebe, proti Jelici delal kratke opazke, a potem tiho korakal dalje.</p>
+            <p>Mesto Nju-Jork je čisto po drugem načrtu postavljeno, kakor evropska mesta. Hiše so nižje, kakor po naših glavnih mestih; one so večinoma z rudečo barvo pobarvane ter imajo zelene polke.</p>
+            <p>Hišne dveri niso pri tleh, temveč nekoliko više; šest do osem stopnic vodi do njih. Pred hišo, na ulični strani, ima vsaka hiša čveterooglati kos zemljišča, ki ni večji od jedne rjuhe in koder so nasajene cvetlice.</p>
+            <p>Trgov je mnogo in prostornih; cerkev je brezštevilnih, toda skoro vse so luteranske, katoliških je le malo. Da se pa morejo te od drugih razločevati, imajo na stolpu križ, dočim so luteranske gole.</p>
+            <p>Ravno sta korakala Jelica in njen oče mimo neke katoliške cerkve.</p>
+            <p>Jelica poprosi očeta, da bi stopila v cerkev ter se priporočila božjemu varstvu.</p>
+            <p>Oče pogleda na uro; deset je bila minila.</p>
+            <p>„Pozno je že“, odvrne nató; „mudil bi se nerad, ker še pred dvanajsto uro se hočem predstaviti tovarniškemu predstojniku.“</p>
+            <p>Vendar ji ni prošnje odbil. Šla sta v cerkev, kjer se je ravno sveta maša čitala.</p>
+            <pb facs="#WIKI00277-036" n="36" xml:id="pb.036"/>
+            <p>Jelico je prijetno iznenadila pobožnost, ktero je ondi videla. Cula je namreč večkrat pripovedovati, da po velikih mestih ljudje ne poznajo spoštljivosti, ktero smo dolžni do božjih hiš. Mislila je torej, da v Ameriki, onem delu sveta, v kterem še divjaki živijo, o pravem, pobožnem krščanskem življenju ne bode ne duha, ne sluha. Lastnim očem ni tedaj skoro verovala, ko vidi, da sveto mašo ljudje poslušajo z zbranim duhom, da se nihče niti ne gane, da vsi spoštljivo poklekajo pri povzdigovanju!</p>
+            <p>„Ah da, zdaj pomnim, kar so mi stric dejali pred mojim odhodom: da ljubi Bog in dobri verni ljudje bivajo povsod!“</p>
+            <p>S hvaležnim srcem se potem iskreno zahvali nebeškemu očetu, da je našla v mestu, kjer živijo večjidel luteranci, tudi kraj, kjer bo smela in mogla svoje krščanske dolžnosti, kterih je že iz otročjih let bila vajena, izpolnjevati.</p>
+            <p>Tudi očetu je nenadoma postalo nekako čudno-milo pri srcu. Ona slovesna tihota, ki je lastna božjim hramom, ona do srca segajoča pobožnost, s ktero se izvršuje vsako katoliško opravilo, ono resnobno in spoštljivo obnašanje vernikov, a največ solze, ktere je videl bliščati v očesu svojega otroka, presunile so ga do živega.</p>
+            <p>Kakor nikdar poprej, čutil je zdaj, da biva nad nami vsemogočni milosrčni vladar sveta, ki ne zavrže prošnje skesanega srca.</p>
+            <p>Komaj pred pol letom je bil on še tako neizmerno nesrečen; taval je samoten po svetu, spremljevan jedino od svoje težke vesti. Up in strah pa, da-li bode kdaj Bog uslišal njegovo gorečo željo in mu povrnil od njega zapuščeno hčer, hotela sta mu včasih pamet zmešati. A kako mu je pa zdaj?</p>
+            <p>Na njegovi strani kleči v molitvi utopljena blaga, modra deklica, in ta deklica je njegova hči! S hvaležnim čutom in ljubeznivim pogledom zrè zdaj na Jelico in jo dolgo opazuje. Pri tem pa s strahom zapazi, da se je ona močno izpremenila, odkar je zapustila domovino.</p>
+            <p>Lice prej belo-rudeče je zdaj rumeno in upadlo; oči so s temno črto obrobljene in udrte.</p>
+            <p>Postava, prej ravna ko sveča in gibčna ko vosek, je zdaj nekoliko pripognjena, a obleke se ne držijo več kot nekdaj života; očividno je bilo, da je ona med tem močno shujšala.</p>
+            <p>Pri tem pogledu ves zatrepeče. Bode se li menda uresničilo doktorja Jarneja prorokovanje, da Jelica ne preživi tujine?!</p>
+            <pb facs="#WIKI00277-037" n="37" xml:id="pb.037"/>
+            <p>Pri ti misli ga naudaja čut kesu podoben, da je Jelico, še nežno rastlino, odtrgal mili svoji domovini.</p>
+            <p>V tem trenutju je bila maša končana. Ljudje zapustijo cerkev in on se vzdrami iz temnih občutkov.</p>
+            <p>Ko sta bila zopet z Jelico na ulici, reče on sočutno: „Jelica, moj otrok, kako si videti bleda in trpeča! Pa kaj ne, da nisi bolna, temveč samo utrujena od mučnega potovanja? Le pogumno potrpi še nekaj dnij“, nadaljuje skoro proseče, „v tem času upam, da si urediva novi dom; potem hočeva živeti mirno, srečno, družbinsko življenje.“</p>
+            <p>„Vzel ti bom zanesljivo postrežkinjo, in ti boš pod njenim vodstvom pridno gospodarila in osrečevala svojega očeta. Kaj ne, Jelica?“</p>
+            <p>Ona se nató milo nasmehne ter odgovori z otročjo presrčno udanostjo: „Da, oče! Vas osrečevati bode odslej namen mojega življenja in jedino prizadevanje. Kakor sem nekdaj strica v vsem zadovoljevala, tako hočem zdaj Vas. Ravnokar sem to Bogu za trdno obljubila.“</p>
+            <p>Pri besedici „stric“ je komaj slišno vzdihnila, a vendar ni njenemu očetu ušel ta izraz srčne bolesti.</p>
+            <p>Okó se mu pri tem užalosti.</p>
+            <p>„Jelica“, odvrne nató z nekoliko razdraženim glasom, „ti še vedno po doktorju žaluješ, ki ti vendar ni bil drugega, kakor rednik in dobrotnik. Ali ti res ne moreta moja skrb in ljubezen njega nadomestiti?“</p>
+            <p>„Pomisli, Jelica“, nadaljuje prijazneje, zapazivši, da se je ona prestrašila njegovega ostrega govorjenja, „pomisli, da je doktor že star mož in po tem takem tudi dolgo ne bode mogel več živeti. A kaj bi potem bilo s teboj ? Ravno o pravem času sem prišel po tebe. Zdaj si še mlada in se torej laže privadiš novi domovini, tujemu podnebju, navadam in sploh bolj olikanemu življenju, za ktero si ti stvarjena.“</p>
+            <p>„Kaj bi s časoma počela v onem starinskem, dolgočasnem trgu, med revnimi neizobraženimi ljudmi? — Poglej to krasno, veselo mesto; tú, tú je kraj stvarjen za osrečevanje mladega dekleta.“</p>
+            <p>„Vzel ti bom učiteljico, da se naučiš angleškega jezika in sploh to popraviš, kar je doktor zamudil pri tvoji odgoji. Kupoval ti bom lepih oblačil, vodil te na sprehode in zabave, a samo, Jelica draga, bodi mi vesela. Ne delaj mi težkega srca s svojim trpečim, žalostnim obrazom.“</p>
+            <p>„Oče, oče!“ zakliče Jelica vidno prestrašena, „Vi ste hudi na-me, a jaz ne vem, s čim bi Vas bila užalostila. Verujte <pb facs="#WIKI00277-038" n="38" xml:id="pb.038"/>mi, da sem Bogu zeló hvaležna, da sem Vas našla in da bivam na Vaši strani. Ne govorite mi torej o veselicah in lepih oblačilih; teh lahko tudi za naprej, kakor do zdaj, pogrešam. Da le Vas imam in Vas zadovoljnega vidim, to me osrečuje dovolj.“</p>
+            <p>„Toda domovine — domovine — strica včasih še pogrešam. O, ne bodite zató hudi“, nadaljuje v pretrganih stavkih; revico je jok posilil, a ker se je na obljudjeni cesti solz sramovala in jih torej s silo premagala, spravljala je besede komaj iz ust.</p>
+            <p>„Ne žaluj, Jelica“, prosi oče mehko; „saj je zopet vse dobro. Hud nisem bil nikdar na te, Bog me tega čuvaj; a rad bi te videl veselo in srečno, to je vse, kar me teži.“</p>
+            <p>„In zdaj smo prišli do cilja.“</p>
+            <p>„Glej, v tem velikem poslopju bodem odslej služboval, Bog daj svoj blagoslov!“</p>
+            <p>„Krasna je tod okolica, kaj ne?“ nadaljuje, oziraje se z vidno ugodnostjo na vse strani; „kamor se okó ozrè, povsod vrtovi, polje in morje! Tukaj hočeva tudi midva najeti stanovanje.“</p>
+            <p>„In sedaj le pogumno naprej, slednji čas je že.“ In stopila sta v pridvorje v tovarni.</p>
+         </div>
+         <div xml:id="wv-XI.">
+            <head xml:id="head.11">XI.</head>
+            <p>Preteklo je teden dnij. Jelica in njen oče sta si med tem ustanovila lasten dom. V bližini tovarne sta si najela stanovanje z dvema sobama in kuhinjo, majhno sicer, a čedno in s krasnim razgledom.</p>
+            <p>Oče je dobil od svojega gospodarja nekaj predplače na roko, da si more nakupiti najpotrebnejšega pohištva. Tudi postrežnico, staro ženico, imela sta že pri hiši. Bila je ta sicer nekoliko dolgočasna in neprijetna v govoru in obnašanju, lastnosti, ki so lastne angleškemu narodu, vendar pa poštena in vestna v izvrševanju svojih poslov.</p>
+            <p>Jelica, dasi še jako mlada, skazovala se je kmalu kot pridna gospodinja.</p>
+            <p>Njene roke niso nikdar počivale; vedno so imele v hiši opravka. Zató je tudi bil najlepši red povsod in oče dobro postrežem Popoldne se je učila Jelica angleškega jezika, ki je glavni jezik v severni Ameriki, in drugih ročnih del, kterih se je brzo in veselo naučila.</p>
+            <p>In tako je ona od jutra do večera vedno bila pri delu. To je tudi za njen duševni mir bilo mnogo vredno. Med <pb facs="#WIKI00277-039" n="39" xml:id="pb.039"/>vednimi opravki je manj čutila bolest po domovini, ktero je njeno srce toliko trpelo.</p>
+            <p>Sploh je ona znala svoje občutke tako dobro zakrivati, da nihče ni slutil, kako se ji pri srcu godi.</p>
+            <p>Bila je videti mirna, zadovoljna, dasi je človek tudi na njenih ustnih zastonj iskal oni blaženi, srečni nasmehljaj, ki je lasten prvi brezskrbni mladosti.</p>
+            <p>Tudi ni nikdar proti nikomur govorila o domovini in o tamošnjih njej ljubili osebah, nikdar se proti nikomur o čem pritoževala.</p>
+            <p>In vendar je njeno lice vedno bolj bledelo, v njenih očeh je vedno bolj ugaševal mladostni ogenj.</p>
+            <p>Oče njen je sicer z nekim nemirom opazoval, kako hčerka čim dalje tem bolj hujša, a ker se je ona v njegovi pričujočnosti vedno kazala veselo ter mu zmirom zagotavljala, da se zdravo čuti, slutil ni ali ni hotel slutiti pravega uzroka o njenem hiranju.</p>
+            <p>Dekle je v rasti, v letih svojega razvijanja, mislil je pri sebi; to in pa izprememba podnebja zeló upliva na njeno zdravje. Naj pride enkrat pomlad, oživela in razcvela se bode kakor roža kar črez noč.</p>
+            <p>In tako je njima čas navidezno prijetno in mirno tekel.</p>
+            <p>On je bil zadovoljen v svoji službi, ktera mu je veliko nesla; bil je tako rekoč v svojem življu, ker je kot mešetar hodil veliko okoli.</p>
+            <p>Družbinsko jednolično življenje bi ga bilo sicer s časoma gotovo utrudilo, ker v njegovem značaju je že bila ukoreninjena napaka, da ni mogel jednakomernega življenja trpeti. Tako pa je nekaj dnij v tednu bil na potovanju in ko je utrujen in zmučen vrnil se domú, užival je s slastjo mir in ugodnost domačega ognjišča.</p>
+            <p>Zató se je zdaj čutil srečnega ter prosil Boga, da bi mu ta sreča ostala stanovitna.</p>
+            <p>Kakor pa se je oče svojih tedenskih potov veselil, ravno tako se jih je Jelica bala.</p>
+            <p>Kedar ni bilo očeta domá, bili so za njo vselej hudi dnevi. Tedaj še le je prav živo čutila bridkost tujine, delo ji ni šlo od rok in je tudi ni razvedrovalo; čutila se je osamljeno, zapuščeno, nesrečno.</p>
+            <p>Poleg tega je njeno mlado srce bilo vedno v skrbeh zavoljo očeta. O Bog, da bi se mu le na potovanju kaka nesreča ne pripetila, vzdihovala je neprestano. Kaj bi tedaj počela sirota v tem daljnem tujem svetu brez njega?</p>
+            <pb facs="#WIKI00277-040" n="40" xml:id="pb.040"/>
+            <p>Kajti ona se je zdaj bila s pravo otročjo udanostjo oklenila očeta, če tudi niso bile njemu dane lastnosti, koga osrečevati, tem manj pa nežno dekle.</p>
+            <p>A ona je vendar dobro vedela, da je očetovemu srcu vse, če jo je tudi s svojo nemirno ljubeznijo in skrbjo nehoté bolj mučil, kakor pa razveseljeval. Bila mu je torej hvaležna že za njegovo dobro voljo in mu povračala njegovo udanost.</p>
+            <p>Ko je tedaj po cele dneve sama domá ostajala, pogrešala ga je zeló. Ure so se ji zdele kot dnevi dolge, dnevi kot meseci; noči pa se je najbolj bala. Vedeti, da je oče daleč od nje, samota, kteri je bila prepuščena, spomin na izgubljeno domovino in dragega strica, kterega, kakor je dobro čutila, ne bode več videla v življenju: vsi ti različni tužni občutki so neskončno mučili njeno čutljivo srce. Brez spanja je ležala v postelji, vedno poslušaje, ali oče menda že pride, kajti čas njegovega prihoda je bil vedno nedoločen. Da je njeno zdravje pri teh duševnih borbah trpelo, to je čisto umevno.</p>
+            <p>Ko se je potem oče vrnil domú, prestrašil se je vselej njenega slabega lica.</p>
+            <p>„Jelica, ali si bila med mojo nenavzočnostjo bolna?“ poprašal je potem preplašen; „najdem te shujšano. Najbrž si se z delom preveč mučila.“</p>
+            <p>Nató je še popraševal služkinjo po uzroku Jeličinega shujšanja.</p>
+            <p>„Moj Bog“, odgovorila je ženica malovažno, „če človek tri do štiri dni malo ali nič ne jé, vedno v sobi tiči in se čemerno drži, da bi potem dobro izgledal? Ko Vas ni domá, Jelica vedno žaluje.“</p>
+            <p>„Žaluje? Po kom?“ pozvedaval je on iznenadjen.</p>
+            <p>„Po kom?“ odvrnila je služkinja čudeč se; „najbrž po očetu. Saj ko ste Vi domá, je vselej vesela.“</p>
+            <p>A oče ni zaupal besedam svoje služkinje. Po meni gotovo ne žaluje, misli si z bridkostjo, temveč po doktorju Jarneju. Kedar ni mene domá, uživa svojo svobodo s tem, da se utopi v spomine na domovino. Ta nesrečni doktor, da je znal tako začarati srce mojega otroka, med tem ko se jaz zastonj trudim, v njeni duši prižgati žarek nagnjenja! Hudoval se je na doktorjevo čarobno moč, jezil se na sebe, da ne zna Jelice osrečevati, a pri tem se začel močno bati, da ne bi Jelica resno obolela.</p>
+            <pb facs="#WIKI00277-041" n="41" xml:id="pb.041"/>
+            <p>V kratkem se je čutil ravno tako nezadovoljnega, kakor pred nekterimi meseci, predno je odpotoval v Ameriko.</p>
+            <p>Med tem je prišla pomlad, prišlo je poletje, a Jeličino lice se ni razcvetelo, kakor je oče upal, temveč venelo je vedno bolj.</p>
+            <p>Dal je zdravnika poklicati.</p>
+            <p>Ta je našel, da Jelica trpi na srčni bolezni.</p>
+            <p>„Ali je ta bolezen nevarna?“ pozveduje prestrašen oče.</p>
+            <p>„Nevarna in ne nevarna, kakor hočete“, bil je odgovor. „Ako jo boste, kakor do zdaj, prepuščali sami sebi, to je v oblasti lastnim mislim in počutkom, utegne bolezen nevarna postati. Kajti njeno hiranje ni drugega, kakor nasledek hudega srčnega udarca in neizpolnjenega hrepenenja. Vsled tega je padla otožnosti v oblast, ktera pa ji utegne pri njenih nežnih letih biti osodepolna.“</p>
+            <p>„Dekle potrebuje razvedrenja, veliko gibanja na prostem, a posebno občevanja z mladimi, veselimi ljudmi.“</p>
+            <p>„Kakor mi pravite, ona biva večji del dneva sama; nihče ni, ki bi se z njo bavil, razvedril jo ter tako dajal njenim mislim in počutkom nove hrane in gibanja.“</p>
+            <p>Ubogi oče, dobro menéč, začel je zdaj Jelico vsak večer kam drugam voditi, kajti po dnevu je bil v poslih. Jeden večer sta v ti gostilni večerjala, drugi večer v drugi, zdaj sta tu poslušala godbo, zdaj si ondi ogledala ples, obiskovala gledališča itd.</p>
+            <p>Jelica je vsled teh vsakdanjih ponočnih pohodov izgubivala najboljši del noči, posvečene prvemu, najbolj zdravemu spanju. Vrhu tega se je v onih nenavadnih društvih jako dolgočasila.</p>
+            <p>Vajena že iz otročjih let le prostega življenja na deželi, kjer ni poznavala drugih zabav, kakor po dokončani šoli shajati se z veselimi tovaršicami po vrtovih in poljih, zmotil jo je zdaj popolnoma šum obljudjenih dvoran. Iz teh veselic je prihajala vselej domú telesno in duševno zmučena.</p>
+            <p>Tedaj je še le prav občutila izgubo uboge, a prelepe svoje domovine, tedaj je spoznavala veliko razliko med prostimi, nepopačenimi ljudmi, svojimi ljubimi rojaki in pa oholo, gizdavo mestno gospodo.</p>
+            <p>Oče je tudi kmalu izprevidel, da po tem potu ne doseže pri Jelici zaželenega uspeha. Bil je vsled tega ves obupen.</p>
+            <p>„Za Boga, Jelica“, rekel je na pol nevoljen, na pol pobit, „povej vendar, kaj naj storim, da te zopet zdravo in veselo vidim, kakor si bila nekdaj pri stricu. Jaz si ne vem več pomoči.“</p>
+            <pb facs="#WIKI00277-042" n="42" xml:id="pb.042"/>
+            <p>„Zdravnik méni, da samó razvedrenje ti utegne povrniti nekdanje zdravje; a kar drugim hasni, škoduje tebi! Ti si drugačna, kakor so drugi ljudje. Ti nisi stvarjena za društvo in zabave.“</p>
+            <p>„Ljubi oče“, odgovorila je Jelica bojazljivo, „ako res želite, da okrevam, lepo Vas prosim, ne vodite me več po veselicah. Saj mi domá ni dolg čas. Vaše društvo in pa moje delo mi zadostujeta.“</p>
+            <p>„Ako pa res želite, da včasih v družbo zahajam, potem dovolite, da se seznanim s hčerama tovarniškega čuvaja, ki ste v mojih letih. Revici ste pred kratkim mater izgubili; vidite se mi tako zapuščeni in srce me vedno k njima vleče. Poleg naju stanujete, in tako bi se utegnile pogostoma shajati. Slutim, da bi se v njiju družbi čutila srečno.“</p>
+            <p>„Ali, če oni dve žalujete po materi, kakor praviš, kakošen dobiček bodeš ti od njiju imela?“ ugovarja ji oče. „Da ti srce še bolj obtežite? — Ti potrebuješ okoli sebe veselih in ne žalostnih obrazov.“</p>
+            <p>„Ah, oče“, odgovorila je ona nató, „jaz bivam v društvu žalostnih rajši kakor pa veselih, ker vem, da pridni, blagi ljudje navadno trpijo pod bremeni nadlog, hudobni se pa veselijo.“</p>
+            <p>„Ono razuzdano veselje in zoperni smeh, ki ga opazujem vsak večer po društvih, kamor me Vi vodite, vzbujata v meni nepopisno grozo; strah me je med njimi.“</p>
+            <p>„Ti si čudno bitje“, dejal je nató oče majaje z glavo; „kam prideš s časoma s svojimi nespametnimi predsodki? Tú se zopet prikazuje sad doktorjeve odgoje“, pristavil je bolj zá-se. — „Stori, kar misliš“, dejal je naposled, „če le tebe veseli.“</p>
+            <p>Odslej naprej ni več vodil Jelice k veselicam, a on sam je dobil do njih tako strast, da ni več mogel po večerji strpeti domá. Hodil je tedaj vsak večer z doma, a vsak dan se je pozneje vračal domú.</p>
+            <p>Jelica je s početkoma čuvaje potrpežljivo na-nj čakala, a pozneje, ko je začenjal predolgo izostajati, da je včasih pol noči minilo, a njega še ni bilo domú, vlegla se je k počitku. Toda zaspala ni nikdar, dokler očeta ni bilo domú.</p>
+            <p>Da je to vsakdanje očetovo izostajanje bila nova muka razumni in občutljivi deklici, to je lahko umljivo. Kar jo je pa pri tem najbolj bolelo, bilo je spoznavanje, da odkar oče dolgo v noči izostaja, ni več proti njej tako prijazen in skrben kot nekdaj. Zdelo se ji je tudi, da postaja vselej nevoljen, <pb facs="#WIKI00277-043" n="43" xml:id="pb.043"/>ko ga ona vsako noč pri njegovem povratku s prijaznimi besedami: „Dobro došli, oče!“ pozdravlja.</p>
+            <p>Ko se on neko noč nenavadno pozno vrne domú, pozdravi ga Jelica prijazno sicer kakor vselej, samo da je z jokajočim glasom še boječe pristavila: „Dve po polnoči bode kmalu, oče; bila sem že zeló nemirna, ker Vas tako dolgo ni bilo.“</p>
+            <p>„Kaj, ti še ne spiš?“ odgovoril je osorno. „Dekle v tvojih letih bi se zdaj moralo zibati v najboljših sanjah in ne prežati kakor policaj, kdaj prihajam domú.“</p>
+            <p>Kakor meč prodrlo je to očitanje Jelici srce.</p>
+            <p>Da bi se usta, ki so do zdaj vedno le nežne besede imela, na enkrat tako strogo izrazila, zdelo se ji je neverjetno, nemogoče.</p>
+            <p>Besedice ni nató odvrnila, temveč s silo je stisnila ustnici, da bi se ji ne izvil najmanjši vzdih iz žalujočega srca!</p>
+            <p>Po ti noči ni več očeta pozdravljala pri njegovem povratku. Ko ga je čula priti, delala se je vedno, kakor da slu.</p>
+            <p>A po oni prvi svaji je začelo zaupanje med njima omahovati.</p>
+            <p>Ona, bojéč se, dati v novič povod razdraženemu besedovanju, ni si več upala, kakor nekdaj, popraševati ga za njegove pote in opravila; on pa se ni hotel pred njo poniževati ter biti prvi, ki bi roko podal k prejšnjemu, medsebojnemu zaupanju.</p>
+            <p>In pri tem sta trpela oba, a Jelica največ.</p>
+         </div>
+         <div xml:id="wv-XII.">
+            <head xml:id="head.12">XII.</head>
+            <p>Bil je krasen poletni večer. Jelica, kakor zdaj vedno, bila je sama domá.</p>
+            <p>Na oknu je slonela zamaknjena v razgled po krajini, ki se je pred njo razprostirala: nebo čisto kot ribje okó, mesec na pol skrit v rahlih soparih je dajal podnebju neko biserno prozračnost. Na desni strani so ležale njive in vrtovi v najlepši rasti in cvetu, ki so polnili čvrsti, a nekoliko težki zrak z mamljivo vonjavo; na levi strani se je svetilo kot zrcalo sreberno, sinje, brezmejno morje.</p>
+            <p>Iz šumenja valov in šepetanja dreves pa so nastajali čudno ubrani glasovi, godbi podobni.</p>
+            <p>In slednjič so robovi temnih gor v daljavi dajali v polmraku celi okolici nekaj sanjarskega, sladko-otožnega.</p>
+            <p>Pogled na krasno prirodo ima neskončen upliv na človeško čuvstvovanje. On vzbuja vesele ali žalostne, blage ali nečimurne misli in občutke, namreč takošne, kakoršnim je najbolj <pb facs="#WIKI00277-044" n="44" xml:id="pb.044"/>njegova duša nagnjena. Priroda ne stvarja občutkov v nas, temveč jih samo oživlja. Tudi Jelici se je pri tem krasnem pogledu srce še bolj užalostilo. Zamislila se je v srečno preteklost in jo primerjala tožni sedanjosti.</p>
+            <p>Nekdaj se je imela za siroto, a vendar je bila črez vse srečna; sedaj ima očeta in vendar — ah, niti v mislih si ni upala gojiti slabo mnenje o lastnem očetu.</p>
+            <p>Izpremenil se je bil sicer oče zadnji čas v obnašanju proti njej, ali pa ni bila menda tega sama najbolj kriva? Zakaj se ni kazala srečno, veselo, kakor je oče tolikokrat zahteval? — Zakaj mu je odrekala spremljevati ga po večernih veselicah, ko je videla, da njega zabave kratkočasijo ? — Odkar ga ona več ne spremlja, zašel je v slabo tovaršijo; od tedaj se začenja doba njegove malomarnosti proti njej in od takrat se čuti ona dvakrat nesrečnejšo, kakor je bila poprej.</p>
+            <p>Prej je pogrešala samo domovino, ljubega strica in drage znance; sedaj pa žaluje po svojem jedinem še ostalem zakladu na svetu: po izgubi očetovega srca, po očetu samem : saj ji pravi razum, da pot, po kterem on hodi, utegne ga še duševno in telesno pogubiti.</p>
+            <p>Revica je očitala zdaj sebi krivdo lastne nesreče in očetove pogube.</p>
+            <p>In vendar, sam Bog vé, da ko bi ji bilo dano hliniti se, storila bi bila to rada, pri vsej svoji veliki zopernosti proti vsemu, kar ni bilo istinito. Saj se je dovolj premagovala, dovolj mu skrivala globoke rane zavoljo izgubljene domovine. Več ni mogla storiti. Telesno svoje shujšanje odvračati pa ni bilo v njeni moči.</p>
+            <p>A kar se je zgodilo, ni se dalo več popraviti. Ko bi vsaj zaupnega človeka poznala, kteremu bi potoževala svoje skrbi in ga prosila, naj bi očeta pregovarjal k prejšnjemu zglednemu življenju!</p>
+            <p>„Tujina, tujina, kako si bridka“, vzdihnila je iz globočine svojega srca; „tú ni sočutnih prijateljev in postrežljivih znancev, — vse je hladno, brezčutno, vse tuje!“</p>
+            <p>Ona je bila še tako mlada, tako neizkušena, da drugega ni znala v očetovo poboljšanje storiti, kakor na skrivnem jokati se in moliti.</p>
+            <p>Kolikokrat je bila sklenila, prav lepo ga prositi, da ne bi vsako noč tako izostajal, češ ponočevanje mu gotovo škoduje; kajti od onega časa je videti tako suh in bled; toda vselej, ko je hotela govoriti, posilil jo je jok. A vedela je, da oče ne more njenih solz strpeti. čemú ga tedaj dražiti?</p>
+            <pb facs="#WIKI00277-045" n="45" xml:id="pb.045"/>
+            <p>Take misli in občutki sprehajajo ubogo deklico, med tem ko jo najčarovnejša noč obdaje.</p>
+            <p>A ona je bila zdaj slepa za vso krasoto v naravi. Solzno okó je povzdignila proti nebu, pobožno sklenila oveneli roki in dolgo, dolgo zrla na zvezde. Saj, če je še pomoči v njenih velikih bridkostih, le od zgoraj jo more pričakovati!</p>
+            <p>Na enkrat oblije modro nebo bledo-rudeči svit, ki se vedno bolj razprostira po nebu in vedno bolj žarí. Ta čudna prikazen predrami in prestraši Jelico. Kaj ima to pomeniti?</p>
+            <p>Plašno se ozira okoli in pri tem zapazi na oni strani, kjer je stala tovarna, gost, vedno temnejši, vedno višji dim.</p>
+            <p>Ob jednem začuje v tihi noči zmeden krik in vpitje prestrašenih glasov.</p>
+            <p>Bog nebeški, tovarna gori! domisli si ona vsa preplašena.</p>
+            <p>In res, v istem trenutju so švignili iz dima posamezni ognjeni žari in se čim dalje tembolj pomnoževali, vedno više se vzdigujoč. Žarinje, drobno ko zvezdice, letelo je iz njih na vse strani, podnebje je plamtelo in v malo trenutkih je bila že cela okolica razsvetljena od krvavo-rudečega, črez vse žalostnega svita.</p>
+            <p>Zrak je postajal čim dalje toplejši, tako da Jelici ni bilo več strpeti na oknu; bilo ji je, kakor da bi glavo držala blizu pri peči žareči.</p>
+            <p>Odmakne se torej od okna, zapre šipe ter po vsem životu trepetaje zrè s preplašenimi očmi na divje igranje groznega plamena.</p>
+            <p>Nenadoma se vzdrami iz otrpnelosti. „Oče, moj oče, kje so neki sedaj? Bog ne hotel, da bi bili blizu požara. O dobrotni Bog, čuvaj mi očeta in vodi ga nepoškodovanega domú“, vzdihuje iz globočine duše svoje.</p>
+            <p>V istem trenutku začuje po stopnicah njegovo težko, negotovo hojo.</p>
+            <p>Kakor da bi se ji kamen odvalil od srca, postaja ji nenadoma laže pri srcu; brž vzame svečnik in hiti očetu naproti.</p>
+            <p>„Ah oče, predragi moj oče, kaj ne, da pridete zdravi in nepoškodovani domú?“ popraša ga prestrašena.</p>
+            <p>„Kaj, ti si še po koncu?“ začudi se oče in jo debelo, a hudo pogleda z medlimi očmi. „Zakaj še ne spiš?“ jeclja v pretrganih besedah, oprijemajoč se za držalo ob stopnicah, ker mu život sem in tja omahuje.</p>
+            <p>Ko to Jelica vidi, posili jo jok.</p>
+            <pb facs="#WIKI00277-046" n="46" xml:id="pb.046"/>
+            <p>Da oče nikoli trezen domú ne prihaja, vedela je predobro; a kako žalosten je pogled na človeka, ki ne zna brzdati svojega poželenja, še niti slutila ni.</p>
+            <p>Oče, z omahujočim životom, zdel se ji je strahovita prikazen. Zbala se ga je.</p>
+            <p>Srce ji je v prsih še valovito bílo vsled požara, a zdaj ji prihod očetov nov in še večji strah napravlja.</p>
+            <p>Kolena se ji šibé, tema se ji dela pred očmi, tako je zavzeta.</p>
+            <p>„Ljubi oče“, reče nató z vso silo premagujoč se, „o zavedite se vendar, podvizajte se priti gor, meni se dozdeva, da tovarna gori.“</p>
+            <p>„Tako me je strah; goreče žarinje priletava do naših oken; šipe so že tako vroče, da se vsak trenutek bojim, da ne bi počile.“</p>
+            <p>In prijemši očeta za roko, da mu pomaga hoditi, ona glasno zajoče.</p>
+            <p>„Gorí? — Gorí?“ zadere se oče, ki je le na pol razumel pomen Jeličinih besed; „saj je povsod tema, ti bedasti otrok! Ognja nikjer ne vidim.“</p>
+            <p>„Oh pridite, pridite, oče“, sili Jelica in ga z vso močjo potegne naprej.</p>
+            <p>Ko prideta v zgornji hram, v kterem je vsled požara bilo bolj svetlo kakor po dnevu, obstane oče nekaj trenutkov kakor kip sredi sobe.</p>
+            <p>Nató se zgane. „Tovarna gorí, Jelica“, zavpije zavzet. „Bog pomagaj! Izgubljena je moja služba in oba postaneva berača!“</p>
+            <p>Onemogel se spusti na stol in si zakrije lice z rokami.</p>
+            <p>Strašni pogled velikega požara ga je bil mahoma streznil. Kakor črne pošasti stali so v trenutju pred njegovo dušo strašni nasledki tega požara. Predno dozidajo novo tovarno, preide leto, in gospodar ga ne bode med tem potreboval. A kje hoče zdaj najti drugega primernega zaslužka? In če zaslužek odpade, s čim naj v bodoče preživlja sebe in hčerko?</p>
+            <p>Ne da bi si bil v tem polletju, ko je imel dobre dohodke, kaj prihranjeval, napravljal je zadnji čas celó dolgove z nezmernim življenjem. Vse je sproti porabljeval in za jutre ni imel ne beliča v žepu!</p>
+            <p>Zavest žugajoče mu sile in slaba vest ste mu hoteli pamet zmešati.</p>
+            <p>Skočil je kvišku in hodil z dolgimi koraki gor in dol po sobi, mrmraje nerazumljive besede.</p>
+            <pb facs="#WIKI00277-047" n="47" xml:id="pb.047"/>
+            <p>Na enkrat se ustavi pred Jelico, ki se je v kotu sobe tiho, a bridko jokala.</p>
+            <p>„Ubogi otrok“, dejal je bolj obupno, kakor pomilovalno, „kako žalostne dneve ti je tvoj oče priskrbel! V sreči me nisi ljubila, v nesreči pa me bodeš sovražila; prav boš storila, saj boljšega nisem zaslužil.“</p>
+            <p>„Oče, bodite tihi; ne govorite tako groznih besed“, seže mu Jelica zavzeta v besedo in stopa za očetom, ki je z nova nemirno korakal po sobi. „Da ste le živi in zdravi; ljubi Bog naju ne bode zapustil. Kar pa mojo ljubezen do Vas zadeva, bode odslej še večja, ker —“.</p>
+            <p>Zastonj bi bila dalje govorila. Kakor da bi se on bal presrčnih besed svojega otroka, seže nenadoma za klobuk in hiti kakor brez uma črez stopnice in gre od doma.</p>
+         </div>
+         <div xml:id="wv-XII.2">
+            <head xml:id="head.13">XII.</head>
+            <p>Zgodilo se je, kakor je oče slutil. Ker je tovarna pogorela, bilo je več kakor tri sto delavcev na enkrat brez kruha.</p>
+            <p>A menda nihče ni tako bridko občutil te nesreče, kakor Jeličin oče.</p>
+            <p>Drugi domači ljudje iz Nju-Jorka so našli jeden boljši, drugi slabši, ali vendar vsak svoj zaslužek; Jeličin oče pa je kot tujec zastonj obhajal vse tamošnje tovarne, prodajalnice, kavarne, krčme, sploh vsak kraj, kjer je upal dobiti kak zaslužek, bodi si za služabnika ali celó za hlapca.</p>
+            <p>Zastonj je povsod razkrival svoje nadloge.</p>
+            <p>„Ljubi mož“, tak je bil odgovor, kterega je navadno na svojo prošnjo dobival, „koliko jih vsak dan prihaja, ki se ravno tako pritožujejo, kakor Vi! Mi pa si štejemo v dolžnost najprej svojim domačinom pomagati in še-le potém tujcem. Čemú ste se podali iz domovine na tak daljen pot z nedorastlo hčerjo in negotovo službo? — V domovini se vedno laže dobiva zaslužek, kakor pa v tujini!“</p>
+            <p>S temi besedami ga je vsak odpravil ter ga drugam napotil, in tako je šlo naprej več kakor štirinajst dnij. Med tem sta živela on in Jelica v največji revščini. Vsak dan sta sproti prodajala posamezne dele od pohištva svojega, obleke, perilo, sploh vse, kar je imelo le količkaj cene, da sta se preživila.</p>
+            <p>Prejšnje čedno stanovanje sta takoj zamenila z majhnim, temnim, mokrotnim podzemskim hramom. A še ta je bil skoro prazen.</p>
+            <pb facs="#WIKI00277-048" n="48" xml:id="pb.048"/>
+            <p>Snopič slame in staro plahto črez, ki je služila obema za posteljo, polomljena miza, črviva klop in nekaj na pol strtih prstenih posôd bilo je vse njuno pohištvo. Vse skupaj ni imelo goldinar vrednosti.</p>
+            <p>Ko sta bila tedaj vse razprodala, a oče še vedno ni bil dobil zaslužka, ni si znal druge pomoči, kakor da je hodil ves dan po mestnih ulicah in se mimogredočim ponujal za postrežnika.</p>
+            <p>A tudi pri tem poslu je našel le pičel zaslužek. Njegova zvunanjost, bil je oblečen v oguljeno obleko, in zastradani obraz sta vzbujala nezaupnost pri ljudéh. Le kdor je bil ravno v največji sili in ni bilo drugega postrežnika pri roki, le tedaj je kdo njega najel.</p>
+            <p>In tako je revež, potém ko se je ves dan pekel na solncu in požiral mestni prah, komaj toliko zaslužil, da je zvečer nakupil hlebec kruha in košček sira ali klobasico. Ta hrana je bila jedina, ktero sta z Jelico črez dan užila.</p>
+            <p>Uboga Jelica pa je med tem ves dan sama domá čepela pri malem oknu, ki je gledalo na temno, umazano dvorišče, in tam je pletla nogavice in zobke za na prodaj.</p>
+            <p>Proti večeru pa, ko so bile ulice najbolj obljudjene, hodila je sprehajalcem ponujat svoje pridelke.</p>
+            <p>A koliko poniževanja je revica pri tem trpela! Največ ljudij še je pogledalo ni; drugi so se zaničljivo ozirali na njene izdelke in malomarno dejali: Ba, take zobke hodi kam na kmete prodajat, ne semkaj v Nju-Jork!</p>
+            <p>Nekteri so si ogledovali zobke na vse strani in pri tem obrekovali neokusnost obrazcev; drugim je bila pavola predebela, onim pretanka in zató so ji ponujali polovico tega, kar je zahtevala. Na zadnje, ko so zobke prav zmučkali in zamazali s potipanjem, pa so šli, ne da bi kaj kupili.</p>
+            <p>Ko bi ne bil včasih šel mimo kak milosrčen človek, kteremu se je v srce smilila bleda, onemogla deklica in ji zató vrgel v naročje majhen denar vbogajme, bila bi se Jelica vselej brez krajcarja vrnila domú.</p>
+            <p>A tako je dobivala k sreči skoro vsak dan toliko miloščine, da je mogla kupiti mleka za zajuterk.</p>
+            <p>Da je Jeličino zdravje pri tem pomanjkanju trpelo, da tú molčimo o njenih notranjih duševnih bolečinah, to je čisto razumljivo.</p>
+            <p>Njene moči so vedno bolj hirale v prsih; posebno na srčni strani je začutila včasih močno bodenje, da ji je vsled tega sape zmanjkovalo.</p>
+            <pb facs="#WIKI00277-049" n="49" xml:id="pb.049"/>
+            <p>Ves dan je vzdihovala, a ko je zvečer oče domú prihajal, sprejemala ga je vendar vselej s smehljajočim obrazom.</p>
+            <p>Bila se je odločila, da se proti njemu nikdar več o nobeni reči ne pritoži, saj je videla, da sam dovolj trpi.</p>
+            <p>Ko je zdaj oče zvečer prihajal domú, bil je vsakokrat druge volje. Včasih utrujen in gladen, brez upanja, da bi se mu žalostno stanje zboljšalo, a poleg vsega tega še pogled na trpečega, hirajočega mu otroka: vse to ga je gonilo v obup. Tedaj, če ravno je bil gladen, ni se dotaknil nobene jedi, temveč takoj se je vlegel na borno ležišče in ondi celo noč brez spanja upiral odprte oči v tmino in premišljeval o svoji nesreči.</p>
+            <p>Zakaj nisi poslušal prijateljskega sveta doktorja Jarneja? očitala mu je težka vest; svaril in prosil te je dovolj, da ne bi se podal v daljno tujino ali vsaj Jelice ne jemal seboj? Sam si kriv lastne in Jeličine nesreče?</p>
+            <p>Nadloge, ktere Bog pošilja, človek laže prenaša, kakor one, ki si jih z lastno lahkomiselnostjo sam na glavo nakoplje.</p>
+            <p>Tudi njega je bolj ko sama nesreča ta misel spravljala v obup.</p>
+            <p>Včasih pa, ko je zaslužil nekaj krajcarjev več, kakor druge dneve, in se mu je zdelo, da je Jelica boljša videti kakor sicer, naudajal ga je zopet up, da se bode še vse na bolje obrnilo.</p>
+            <p>V Ameriki, mislil si je pri sebi, ni nič nenavadnega, da človek, ki je danes še milijonar, je jutre že berač, in da postane oni, ki je danes berač, jutre gospod. Ta misel ga je neskončno tolažila. O takih dnevih je bil nenavadno zgovoren, božal in miloval je Jelico, prosil jo, naj potrpi nekoliko, kajti gotovo pridejo njima boljši dnevi.</p>
+            <p>Jelica se mu je tedaj dobrohotno nasmehnila in mu bila hvaležna za vsako prijazno besedo.</p>
+            <p>Revica itak ni nič več upala in se ničesar več bala; sploh še mislila ni na bodočnost. Pomanjkanje in bolečine so ji bile že popolnoma otôpile mišljenje. Kakor v sanjah domišljala se je včasih domovine in dragega strica, proti večeru z nestrpljivostjo čakala očetovega prihoda, dalje pa niso več segale njene misli, želje in občutki. Bila je zató preslabotna.</p>
+            <p>Neki dan pride oče nenavadno dobre volje domú.</p>
+            <p>„Jelica“, povzame med tem, ko je slastno jedel kos črnega kruha, „upam dobiti službo. Čital sem v časopisu, da v neki sviloprejski tovarni kurjača nujno potrebujejo. Sklenil <pb facs="#WIKI00277-050" n="50" xml:id="pb.050"/>sem, oglasiti se za to službo. Takoj jutre poj dem tja osebno se ponujat, kajti s pismi se malo ali nič ne opravi.“</p>
+            <p>„Bil sem tudi že pri svojem nekdanjem gospodarju pogorele tovarne, da mi v ta namen napiše spričevalo in priporočilno pismo. Prijazni gospod mi je rad ustregel, in oboje že v žepu imam.“</p>
+            <p>„Služba ni sicer kaj posebneg zaslužil bom vendar toliko, da bova imela za pošteno življenje; pozneje, ako Bog da, najde se kaj boljšega.“</p>
+            <p>„Ah, draga moja Jelica, moli Boga, da to službo dobim; imela boš potém zopet čedno stanovanje in boljšo hrano, in to dvoje ti gotovo povrne zdravje.“</p>
+            <p>„Kako si danes rumena“, nadaljuje v skrbeh, „gotovo še nisi nič jedla. Revica ti!“</p>
+            <p>„In ravno danes nisem h kruhu nič drugega nakupil; prihraniti sem hotel nekaj krajcarjev za jutranji dan, da imam med potoma kaj ugrizniti.“</p>
+            <p>„Ali boste dolgo izostali, oče?“ pozveduje Jelica z nekim trepetom po vseh udih.</p>
+            <p>„V jednem dnevu ne vem, če opravim vse“, odgovori oče; „šest ur hodá tja, šest nazaj, je že dvanajst ur. Mogoče je tudi, da tovarniškega ravnatelja ne najdem domá, pa da moram na-nj čakati; na vsak slučaj mora človek biti pripravljen. No, do pojuteršnjega dne upam, da pridem nazaj.“</p>
+            <p>Jelica ni na to nič odgovorila, a nagnila je žalostno glavo in tožno vzdihnila.</p>
+            <p>„Čemu si tako pobita, ne da bi se z menoj veselila?“ poprašuje jo oče. „Saj te vendar ne bode strah biti sami domá? Jeden dan in jedna noč kmalu pretečeta.“</p>
+            <p>„Oče, dragi oče“, odvrne Jelica z negotovim glasom, kakor da si ne upa izreči svoje misli: „ko bi jutre še ne odšli, pojuteršnjem menda; jaz —“.</p>
+            <p>„Ali si ob pamet?“ seže ji oče nevoljen v besedo. „Bom li menda čakal, da mi pride kdo drug poprej ter mi odnese zaželeno službo?“</p>
+            <p>„Tú ni kaj čakati. Ko bi danes ne bil tako neizmerno truden, šel bi kar nocój na pot.“</p>
+            <p>„Meni je danes tako hudo in jutre mi gotovo še ne bode bolje“, zašepeče Jelica bojazljivo, in debele solze ji zabliščijo v udrtih očéh.</p>
+            <p>„Vem, da si bolna, hčerka moja“, odgovori oče pomilovalno, „a ravno zató si moram prizadevati, da zboljšam čim prej najine žalostne razmere.“</p>
+            <pb facs="#WIKI00277-051" n="51" xml:id="pb.051"/>
+            <p>„Kako hočeš ozdraveti pri najini veliki revščini! — Tako življenje, kakor ga midva že blizu dva meseca imava, ne privoščil bi največjemu sovražniku.“</p>
+            <p>Drugo jutro za rana vzbudi oče Jelico iz spanja.</p>
+            <p>„Z Bogom, Jelica“, reče z upapolnim veselim obrazom; „jaz se že odpravljam, da se prej povrnem.“</p>
+            <p>„Ali res hočete oditi?“ popraša Jelica z neverjetnim glasom. „Ah, mene je tako strah, ker Vas ne bode domá; hude slutnje me že več dnij naudajajo; samo danes še doma ostanite, oče!“</p>
+            <p>„Ne jemlji mi volje in poguma“, huduje se oče. „Česa te bo neki strah? Saj si prejšnje čase po več dnij sama domá ostajala, a o strahu mi nisi nikdar govorila. Predobro vem, da si bolna in da trpiš; to je tudi uzrok tvoje otožnosti in bojazljivosti. Človek pa mora premagovati svoje občutke, kedar mu pamet jasno pravi, da se mora nekaj zgoditi.“</p>
+            <p>„In zdaj srečno! Nobena sila bi me danes domá ne vzdržala. Zagotoviti je treba čim prej najin obstanek, in ta skrb ima pravico pred tvojo otročjo trmo. Upam, da te pri svojem povratku najdem pametnejšo in boljše volje.“</p>
+            <p>Pri teh besedah odide vidno razdražen, ne da bi se bil, kakor sicer, prijazno od Jelice poslovil.</p>
+            <p>Jelica, bleda ko smrt, zrè dolgo v vrata, ki so se za očetom zaprla. Nató hoče vstati iz postelje, a pri tem gibanju jo zabode v prsih na srčni strani tako silno, da glasno zavpije.</p>
+            <p>Uspehana od bolečin vleže se v novič.</p>
+            <p>Proti poldnevu se čuti boljše; ob jednem se vzbudi v njej silna želja po čvrstem zraku, po blagodejnih solnčnih žarkih, po pogledu na modro nebó; zdelo se ji je, da jo zaduši v zaduhlem hramu.</p>
+            <p>Nató se obleče in gre na prosto.</p>
+            <p>Ne daleč od njunega stanovanja je bil krasni mestni vrt. Tja se počasnih korakov napoti.</p>
+            <p>Ko pride v senco vrtnega gozda, vsede se na klop. Ah, kako dobro ji je storil ta počitek v lepi božji naravi!</p>
+            <p>Nad njeno glavo so visoki kostanji razprostirali svoje gosto obraščene vršiče. Kamor koli se je njeno okó ozrlo, povsod je videlo mične gredice živobojnih cvetlic, med vejami pa so veselo poskakovali drobni ptički ter z ljubkim žvrgolenjem oživljali tamošnjo tihoto.</p>
+            <p>Bil je takrat poldan; zató ni bilo na vrtu videti sprehajalcev. Le sem in tja je posamezen človek sedel na kaki <pb facs="#WIKI00277-052" n="52" xml:id="pb.052"/>klopi, bodi si bolnik ali starec, ki je, kakor ona, užival mir in toploto jesenskega sobica.</p>
+            <p>Ure so prehajale, a Jelica se ne more ločiti od prijaznega kraja. Zdi se ji, da ji tam oživita duh in telo; saj kakor že davno ne, danes čuti zanimanje do vsega, kar jo obdaja.</p>
+            <p>Med tem je nastajalo na vrtu vedno živahneje. Ljudje se sprehajajo mimo nje, klopi se vedno bolj posedajo in v njeni bližini igrajo veseli, brezskrbni otročiči.</p>
+            <p>Pri pogledu srečnih, zadovoljnih obrazov postaja Jelici nekako tesno pri srcu. Hrepenenje po sreči, po zdravju, po notranji zadovoljnosti jo naudaja.</p>
+            <p>Spomni se očeta, ki je zadnji čas postal proti njej zopet dober in skrben, in imeti dobrega roditelja, ali ni to otroku v veliko srečo?</p>
+            <p>Srce ji pri ti misli močneje bije; ona čuti, da zavest o očetovi ljubezni do nje tudi njo osrečuje.</p>
+            <p>Ah, in ko bi ljubi Bog ji vrnil nekdanje zdravje in dal očetu zaželeno službo, kako mirno in zadovoljno življenje bi tudi ona imela. Smejala bi se in bila bi vesela, kakor oni ljudje, ki se po vrtu sprehajajo.</p>
+            <p>Ubogi oče, kje neki zdaj hodi? — Ali kaj na njo misli? — Kako je obžalovala, da mu je delala težko srce pri odhodu.</p>
+            <p>Ali njej je bilo sinoči in davi na smrt hudo, in neizrekljiva otožnost jo je bila prevzela.</p>
+            <p>Ali če Bog da, ko se oče povrne, hoče poravnati, kar je zakrivila. Prositi ga hoče odpuščenja, da mu je hotela zabraniti za njiju obéh bodočnost tako važen pot, in mu obljubiti, da se ne bode za naprej nikoli več njegovim željam zoperstavljala.</p>
+            <p>In z nasmehom na bledih ustnih udajala se je najlepšim mislim za prihodnjost.</p>
+            <p>Med tem nastane mrak. Vrt je postajal vedno bolj samoten. A Jelica še vedno sedi na svojem mestu, kakor da ne zapazi, da se je vlegla noč na zemljo in da je treba vrniti se domú.</p>
+            <p>Še le ko vrtni čuvaj prižge svetilnico njej nasproti, vzdrami se.</p>
+            <p>Prestrašena hoče vstati, da bi odšla, a noge so ji težke ko svinec in zaspanec jo premaguje, da glavo še komaj po koncu drži.</p>
+            <p>Strah jo je skoro vedno bolj nastajajoče teme.</p>
+            <pb facs="#WIKI00277-053" n="53" xml:id="pb.053"/>
+            <p>Visoka drevesa so dobivala podobo črnih velikanov, netopiri frčijo neprijetno čivkaje mimo nje in se neprestano zaletavajo v debla drevesna, zdaj pa zdaj se čujejo iz daljave nedoločni otožni glasovi.</p>
+            <p>S početkoma si ne more razjasniti, kaj bi to bilo; še le po dolgem premišljevanju spozna v njih pevanje čričkov in brnenje nočnih metuljev!</p>
+            <p>Ah, moji nekdanji dragi znanci! misli si ginjena, skoro bi bila na vas že pozabila.</p>
+            <p>Kdaj sem zadnjikrat čula vaše ljubke glasove? V domovini na prijaznem stričevem vrtu, potém nikoli več.</p>
+            <p>Čudno, tedaj sem z veseljem poslušala to neubrano, a mično petje, danes pa me ono z grozo naudaja. V domovini, v domovini ima pač vsaka najmanjša stvar svoj posebni čar.</p>
+            <p>Ali te bom še kdaj videla, preljubi moj domači trg?</p>
+            <p>Ko se je v to misel zamaknila, zdi se ji nenadoma, da je v domovini, da objema strica, da se od veselja na njegovih prsih zajoče, in pri tem objemu ji preide zavest. Ali je bila zaspala?! — — —</p>
+         </div>
+         <div xml:id="wv-XIII.">
+            <head xml:id="head.14">XIII.</head>
+            <p>Med tem je postala trdna noč. Vrtni čuvaj s svetilnico v jedni in z velikim ključem v drugi roki se približa klopi, kjer Jelica na pol slonéč z zaprtimi očmí sedi.</p>
+            <p>„Hej, mlada stvar! tú ni mesta za spanje! Treba je domú iti; čas je, da zaklenem vrt“, zarenči čuvaj njo zagledavši.</p>
+            <p>Pri teh besedah privzdigne svetilnico in ji posveti v obraz, da se hitreje vzbudi.</p>
+            <p>A ker se ona pri vsem tem še ne gane, strese jo nekoliko za ramo.</p>
+            <p>Pri tem dotipu se Jelica zgrudi na klop.</p>
+            <p>„Kaj pa to pomeni?“ mrmra čuvaj v skrbeh. Svetilnico hitro obesi na bližnje drevo, potém pa privzdigne Jelico.</p>
+            <p>„Bog nebeški!“ zavpije nató zavzet, „dekle je težko ko svinec, a njeno telo na pol mrzlo. Ali je omedlela, ali pa mrtva?“</p>
+            <p>Nató položi njeno truplo na klop in se brzih korakov oddaljuje.</p>
+            <p>Za manj kakor četrt ure se povrne z več ljudmi.</p>
+            <p>Majhen, starikav gospod, okrajni zdravnik, približa se Jelici, da jo preiskuje.</p>
+            <pb facs="#WIKI00277-054" n="54" xml:id="pb.054"/>
+            <p>„Dekle ne potrebuje več moje pomoči“, reče nató; „revica je umrla pred najmanj poldrugo uro za srčnim mrtvudom. Jaz nimam pri njej nič več opraviti, skrb je zdaj vaša.“</p>
+            <p>Pri teh besedah odda mrliča policaju, ki je bil z zdravnikom vred prišel.</p>
+            <p>Policaj preišče vse njene žepe, da li najde kakov sled ali kako znamenje o njeni osebi, a vsi so bili prazni.</p>
+            <p>Nató pokliče dva človeka, ki sta z nosilnico čakala na njegovo povelje.</p>
+            <p>Ta položita Jelico v nosilnico, in policaj jima ukaže nesti mrtveca v javno mrtvaško dvorano, da se razpostavi na ogled.</p>
+            <p>Kmalu potém nesejo mrtvo Jelico z vrta.</p>
+            <p>Za nosilnico stopa nekaj radovednih ženic, živahno med seboj razgovarjaje se o čudni smrti tuje deklice. A nobena solza, nobena molitvica ne spremlja njenega trupla. Uboga Jelica! — — —</p>
+            <p>Med tem je Jeličin oče, ki je bil srečno opravil svoj posel in dobil zaželeno službo, veselega srca korakal proti domu.</p>
+            <p>Dasi utrujen, da je komaj naprej stopal, podvizal se je, da ne bi prepozno prišel domú.</p>
+            <p>Jelica bode mene težko čakala, misli sam pri sebi; revica je danes gotovo celi dan nemirna vsled mojega odhoda in negotove službe.</p>
+            <p>Sploh mi ona dela zadnji čas veliko skrb in nemir. Vidim jo močno izpremenjeno. Njeno prej bledo lice je postalo rumeno, oči ima udrte in žareče od nekega čudnega ognja; njeno obnašanje pa mi je prava uganka.</p>
+            <p>Ona, ki je bila vselej potrpljiva, pametna in razumna kot dozorela ženica, postala je nenadoma čemerna, bojazljiva, mehkužna in svojeglavna kot dete. Jaz mislim, da ji je pomanjkanje nekoliko duh zmotilo.</p>
+            <p>Ali ako Bog da, sedáj bode drugače. Da dobiva tečno hrano in ima zdravo stanovanje, to bo moja prva skrb. To ji kmalu povrne nekdanje telesne moči in z njimi se povrnejo tudi druge njene dobre duševne lastnosti.</p>
+            <p>Uboga moja hčerka, šepetal je ginjen in skesan ob jednem, koliko si v tem kratkem času najinega skupnega bivanja zavoljo mene trpela! Najbolj sem se bil proti tebi tedaj pregrešil, ko sem te zanemarjal zahajajoč v slabo družbo. Saj od one dobe si začela vidno hirati.</p>
+            <p>Ali z božjo pomočjo hočem sedaj popraviti, kar sem zakrivil; upam, da ni prepozno.</p>
+            <pb facs="#WIKI00277-055" n="55" xml:id="pb.055"/>
+            <p>Bridke izkušnje zadnjega časa so me popolnoma spametovale; ni me več strah, da bi kdaj zopet zabredel v stare grehe.</p>
+            <p>Sedaj predobro vem, kam zajde človek po slabi tovaršiji; sedaj si hočem dobro zapomniti, da kedar se človeku dobro godi, naj nikakor denarja ne zapravlja, temveč naj ga prihranjuje za stiske in nadloge, ki ga utegnejo zadeti.</p>
+            <p>Ko bi bil svoj čas le majhen del svojega zaslužka deval na stran, ne bilo bi mi sedaj trebalo s hčerjo vred dva meseca stradati.</p>
+            <p>O Bog nebeški, kako strašni so bili ti dnevi, vzdihnil je z grozo in zatrepetal po vsem životu; le tebi gre hvala, če sva pri tem še živa ostala, posebno Jelica, ta slabotni otrok!</p>
+            <p>Hvala, dobrotni oče ti! da si mene, že tolikokrat izgubljenega starega grešnika, z nova sprejel v svoje milostno naročje! Jaz nisem te milosti več vreden bil, ali moj nedolžni otrok jo je zaslužil. In dobremu otroku na ljubo pri tem zvezdnatem nebu slovesno prisegam: nikoli nočem več zabresti v pogubne izkušnjave. Prihodnjost moje hčere in pa izpolnjevanje mojih poslov naj bo odslej naprej moja jedina skrb. — In s takimi dobrimi nameni je hodil lahkega srca dalje, vedno le na Jelico misléč.</p>
+            <p>Čutil je neskončno hrepenenje videti in objeti jo, saj se je bil davi brez prijazne besede poslovil od nje. To obnašanje pa jo je gotovo hudo zadelo; ona je tako občutljiva!</p>
+            <p>Jelica, Jelica, take brezčutnosti od moje strani se nimaš več bati; boljšega, ljubeznivejšega očeta, kakor hočem jaz tebi biti odslej naprej, svet ne bode imel! —</p>
+            <p>Pravijo, da nesreča blaži srce; a to ni vselej rés. Samo pri nekterih redkih izvoljenih ljudéh, ki so milega, nežnega srca, more se to zgoditi. V obče je pa upliv nesreče čisto nasproten. Nesrečen človek drugega ne vidi in ne premišljuje, kakor lastno gorje, drugega ne čuti, ko lastne rane in težave, vsled tega pa otrpne pri njem vsak drugi blagi čut, njegova vera v pravičnost, njegovo zaupanje v Boga omedlita, da se nevedé ugrezne v obup.</p>
+            <p>V sreči pa človek povzdiguje svoje jasne oči in radostne misli proti nebu, in pri tem čuti hvaležna njegova duša, da biva tam gori mogočno, dobrotno bitje, kteremu gre dolžna hvala za vse prejete dobrote.</p>
+            <p>In le v taki duši žari potém sočutje za tuje bolečine, radodarnost in usmiljenje z reveži in druge lepe lastnosti.</p>
+            <pb facs="#WIKI00277-056" n="56" xml:id="pb.056"/>
+            <p>Takó se je godilo tudi Jeličinemu očetu. V nesreči se je udajal takoj obupu in tedaj je pozabil popolnoma na Boga; v sreči pa se je njegovo srce omehčalo in se hvaležno obračalo do onega, od kterega je čutil, da vse dobro prihaja.</p>
+            <p>Neki čut veselja in strahú ga nenadoma prevzame, ko zagleda hišo, kjer je v podzemskih prostorih bilo njegovo stanovanje.</p>
+            <p>Veselil se je čim prej povedati Jelici o srečnem uspehu svojega potovanja in se zbal, da ne bi Jelice našel shujšane.</p>
+            <p>Saj še dobro pomni, kako se mu je pritoževala davi, da ji je tako neskončno hudo, a on, v skrbeh, da bi čim prej se oglasil zavoljo službe, ni se tedaj še zmenil ne za njeno pritožbo.</p>
+            <p>Deveta ura je ravno bila iz zvonika bližnje cerkve, ko pride pred hišni prag.</p>
+            <p>Iz posameznih oken je svetila luč, a okno njegovega stanovanja je bilo temno.</p>
+            <p>Jelica se je vlegla k počitku, misli si; čudno, da ni čakala ná-me, kakor je vselej storila.</p>
+            <p>Dveri njunega stanovanja so bile zaprte, toda ne zaklenjene; on stopi v sobo z veselim pozdravom: „Dober večer, Jelica, prišel sem prej, kakor sem upal, in prinesem ti dobre novosti.</p>
+            <p>A na njegov pozdrav ni bilo odgovora; lastne njegove besede so le votlo odmevale v pol praznem hramu.</p>
+            <p>Da bi že spala? misli si vznemirjen in išče po žepih užigalice, ker na mizi ni stal svečnik kakor sicer.</p>
+            <p>Ko si napravi luč, bilje njegov prvi pogled na posteljo; bila je prazna.</p>
+            <p>„Jelica!“ zakliče prestrašen in se ozrè po sobi, „Jelica, kje si?“</p>
+            <p>Potém stoji bridko iznenadjen nekaj tremitkov sredi sobe z lučjo v roki, kakor da bi premišljeval, kje bi utegnila biti.</p>
+            <p>„Moj Bog“, zakliče nató presunjen; „Jelici se je nekaj pripetilo, sicer bi gotovo bila domá.“</p>
+            <p>Nató se zajoče kot otrok. Solze so mu dobro storile. Pri srcu mu laže postaja.</p>
+            <p>Čemu bi si najhujše predstavljal? misli si sam sebe tolažéč, saj menda ni tako hudo, kakor sem se v prvem trenutku zbal.</p>
+            <p>Prav mogoče, da je Jelico bilo strah biti sami domá, in ker je menila, da me danes še ne bode nazaj, šla je h kakemu sosedu, da ji večer hitreje preide.</p>
+            <pb facs="#WIKI00277-057" n="57" xml:id="pb.057"/>
+            <p>Hitro se podá od stanovanja do stanovanja, poprašujóč po Jelici, a po vsej hiši ni o njej ne duha ne sluha.</p>
+            <p>Večina stanovnikov isti dan še Jelice videla ni; nekterim se je zdelo, da so jo videli pri oknu sedeti; stara ženica jo je srečala okoli poldneva v veži, ko je ravno šla z doma.</p>
+            <p>Neki mali deklici se je dozdevalo, da bi jo bila videla sedeti na neki klopi v drevoredu mestnega vrta, a za gotovo ni mogla trditi.</p>
+            <p>Ubogi oče je po tem takem vedel ravno toliko, kakor poprej. Da bi jo šel na mestni vrt iskat, bilo je prepozno, ker je ob taki uri vrt že zaklenjen. Kaj naj tedaj počne?</p>
+            <p>Da bi domá celo noč v taki negotovosti prebil ali pa se celó podal k počitku, ni mu bilo mogoče, šel je rajši z doma ter prehodil nekolikokrati ves oni kraj mesta blizu svojega stanovanja; saj daleč kam ni mogla Jelica oditi, bolezen bi ji ne bila dopuščala.</p>
+            <p>Preiskal je vsak kotiček, pogledal na vsako klop, ki je stala po mestnih nasadih, popraševal vsakega policaja, kterega je srečaval, ali bi bil videl mlado, bolehno deklico; toda vse zastonj. V največji srčni težavi, med upom in strahom, prebil je celo noč pod prostim nebom in si trl glavo, kam bi bila Jelica izginila. Znancev in prijateljev nista imela, kamor bi se bila mogla podati; ostal mu je tedaj še sam up, zadnji, da se je dala iz neprevidnosti v mestni vrt ali v kako cerkev zakleniti.</p>
+            <p>Ubogi mož je vsled mraza, utrujenosti, gladú in nemira trepetal po vseh udih, komaj da se je še držal po koncu.</p>
+            <p>In v takem stanju je čakal, gor in dol po ulicah hodéč, z največjo nestrpljivostjo jutranjega svita, da bi po cerkvah juternico zvonili in cerkve odpirali. Najprej jo je hotel po cerkvah iskati, saj mestnega vrta pred sedmo uro itak ne odpirajo.</p>
+            <p>Odkar je živel, ni bil še prestal tako mučne in dolge noči; kakošen še le bode prihodnji dan? — Upal je sicer in molil Boga, da bi se uganka o Jelici tekom dneva srečno rešila, a pri vsem tem upu je bilo njegovo srce nemirno, najtemnejše slutnje so ga naudajale.</p>
+            <p>In kakor je bilo ponočno iskanje brezuspešno, tako je bilo tudi dnevno. Jelice ni našel nikjer, ne po cerkvah, ne na mestnem vrtu, in nihče mu ni znal o njej povedati kaj.</p>
+            <p>Vsled neljubega slučaja se tudi s čuvajem mestnega vrta ni mogel sniti; od njega je upal kaj gotovega zvedeti. Še le opoldne, potém ko je celo uro prežal na-nj, sešel se je z njim.</p>
+            <pb facs="#WIKI00277-058" n="58" xml:id="pb.058"/>
+            <p>Čuvaj je kmalu uganil iz njegovih besed, da išče mož ono deklico, ktero je bil on sam sinoči na vrtu mrtvo našel. Bil je tedaj v zadregi z odgovorom.</p>
+            <p>Kar na enkrat nesrečnemu očetu odkriti osodo njegovega otroka, zdelo se mu je brezsrčno; saj je videl, kako hudo trpi.</p>
+            <p>Povabi ga tedaj, naj stopi k njemu v hišo, da se nekoliko oddahne; ondi mu hoče povedati, kar vé o njej. Nató mu ponudi zagrižljej od svojega obeda in kozarec vina, da se okrepča. Še le potém mu začne pripovedovati, kar nam je že znano.</p>
+            <p>Ko Jeličin oče zvé osodo svoje hčere, ni se ne razjokal, ne vzdihnil, samo njegovo lice je že bolj zabledelo in noge so mu začele otrpnevati.</p>
+            <p>Nem, s priklonjeno glavo in z očmi kakor hudodelnik v tla uprtimi, stopa potém za čuvajem, ki se mu ponudi za vodnika, da mu pokaže hišo, v kteri so Jelico med druge nepoznane mrliče na ogled razpostavili.</p>
+            <p>Ves dolgi pot ni zinil besedice, ni se ozrl ne na levo, ne na desno, menéč, da mu mora vsak brati na licu, kar mu je vest glasno očitala: da je sam zakrivil hčerino smrt.</p>
+            <p>Čuvaju se je pa ubogi mož preveč smilil, da bi ga nadlegoval z vprašanji.</p>
+            <p>Hodila sta tedaj molčé drug poleg drugega več ko tri četrti ure, predno sta dospela do velike samotne hiše v oddaljenem predmestju.</p>
+            <p>Pred velikimi vrati te hiše, skoz ktera so ljudje neprestano vèn in noter hodili, ustavi se čuvaj. „Ljubi mož“, reče mu, „prišla sva do cilja. Sedaj Vas moram zapustiti; moje dolžnosti me drugam kličejo. Črez one široke stopnice idite navzgor in takoj v prvem nadstropju stoji dvorana, kamor smo Vašo deklico zanesli.“</p>
+            <p>„Bog Vas tolaži; drugega ne morem storiti za Vas.“ In ne da bi čakal na odgovor, obrne se hitro in se podviza čim prej priti z onega žalostnega kraja.</p>
+            <p>Jeličin oče zatrepeče po vsem životu pri tem naznanilu. Zdelo se je, kakor da bi se bil vzbudil iz težkih sanj.</p>
+            <p>Ko ga čuvaj zapusti, pogleda zmedeno okoli sebe, a potém s silo stopi v vežo osodepolne hiše.</p>
+            <p>Črez malo trenutkov se mu na pragu sobane odprè prežalosten prizor.</p>
+            <p>Na odrih, mizam podobnih, ležijo na golih deskah drug poleg drugega mrliči vseh stanov, spolov in starostij.</p>
+            <pb facs="#WIKI00277-059" n="59" xml:id="pb.059"/>
+            <p>Pri nogah vsakega je deščica, na kteri je zapisano, kje in kdaj so mrtveca našli.</p>
+            <p>Poleg raztrganega capina leži mladeneč v najokusnejši obleki in zraven njega samokres. Poleg revno oblečene ženice, iz ktere suhega obličja gleda sam glad, leži debelušna, bogato oblečena gospa, ktera se je iz neznanih uzrokov v gozdu zastrupila.</p>
+            <p>Tú leži onesrečen delavec, tam utopljeno dete itd. Vsi ti mrliči, ki so si sami vzeli življenje ali ga po nesreči izgubili in za kterih ime se ne vé, razpostavljajo se pred pokopom oseminštirideset ur občinstvu na ogled. In po tem potu spoznavajo ljudje večjidel svoje mrtve sorodnike in znance.</p>
+            <p>Z nekim strahom je oko Jeličinega očeta šlo od vrste do vrste.</p>
+            <p>Toda kar v prvem trenutku je zagledalo na koncu dvorane, poleg bradatega, skoro strašljivo izgledajočega mrliča bledo obličje svojega otroka.</p>
+            <p>Vzdih, bučenju podoben, iztrga se mu pri tem pogledu iz prsij; silna moč ga žene k svojemu otroku. On prodere pred sabo stoječe ljudi, da se čim prej prepriča, ali je rés mrtva, ali pa menda samo v nezavesti leži njegova hčerka.</p>
+            <p>A na enkrat mu noge postajajo težke, glava se mu zavrti, pred očmi se mu stori mrak in z velikim tleskom se zvrne vznak na tla. Padel je v omedlevico.</p>
+         </div>
+         <div xml:id="wv-XIV.">
+            <head xml:id="head.15">XIV.</head>
+            <p>Prešlo je pol leta po zadnjih dogodkih. Jesen in zima je bila minila in pomlad v svojem najkrasnejšem oblačilu iz cvetja in zelenjave je zaljšala prirodo.</p>
+            <p>Od daljne Amerike smo prišli zopet na ljuba slovenska tla.</p>
+            <p>V trgu, kjer je začela naša pripovest, najde ona tudi svoj konec.</p>
+            <p>Na vrt doktorja Jarneja vas vodim; tam, pod veliko jablano, ki stoji ravno v najlepšem cvetu, najdemo veliko društvo.</p>
+            <p>Na leseni klopi sedi doktor Jarnej obdan od množice kmetov, in kakor se je sodilo iz njihovega živahnega obnašanja, v važnem pogovoru.</p>
+            <p>Doktor se je bil zeló izpremenil v tem času, kar ga nismo videli. Njegovo gladko-rudeče lice od nekdaj je bilo bledo in polno gub, njegova prej le na pol siva brada je bila zdaj bela kot sneg, njegova še pred tremi četrtletji ravna postava je bila sključena in hoja nestalna.</p>
+            <pb facs="#WIKI00277-060" n="60" xml:id="pb.060"/>
+            <p>Iz udrtega očesa pa se je znalo, da je neka dušna pobitost, neka skrita bol napravila ono brzo in žalostno izpremembo.</p>
+            <p>V glasno in razdraženo govorjenje kmetov je zadonel nenadoma nevoljni doktorjev glas.</p>
+            <p>Vsi so v trenutku obmolknili.</p>
+            <p>„Povém vam še enkrat“, dejal je vidno utrujen, „da so Vaši sklepi popolnoma krivi, vaši upi do zadnjega goljufivi.“</p>
+            <p>„Vi imate čisto krive zapopadke o Ameriki in ste krivo poučeni o življenju izseljencev.“</p>
+            <p>„Med sto rodbinami se menda komaj desetim dobro godi; a tudi to blagostanje so si gotovo z velikim trudom in borbo pridobili, kakor se sploh godi vsakemu nepremožnemu, predno pride do blagostanja, naj si bode to v Ameriki ali Evropi, ali v kterem koli drugem delu sveta.“</p>
+            <p>„Ni res, ni res!“ oglasi se zdaj ob jednem več razdraženih glasov. „V Ameriki je zaslužka na izbiro in za vsako najmanjše delo je plača izvrstna.“</p>
+            <p>„Tam tudi ne poznajo slabih letin, zemlja rodi brez velikega truda, nimajo davkov in —“.</p>
+            <p>„Ker nam Bog že nekaj let zaporedoma pošilja slaba leta, razpeli bi vi hitro peroti in se domovini izneverili!“ preseče doktor besedovanje razdraženih kmetov.</p>
+            <p>„Sram vas bodi, da tako malo ljubite domača tla, da tako malo zaupate v božjo previdnost.“</p>
+            <p>„Prišla bodo zopet boljša leta, saj po nevihti vselej solnce prisije in tako hudo nas tudi ni Bog še zapustil, da ne bi imeli za živež.“</p>
+            <p>„Hudo vas res mučijo skrbi, davek je hud gospodar in želodcu se tudi nekoliko tesneje kakor nekdaj godi; ali pa menda mislite, da bodete živeli v Ameriki kakor ptički, prosti vseh skrbij in trudov?“</p>
+            <p>„Kako se, ljubi moji, motite; da bi vas le mogel prepričati!“</p>
+            <p>„Če tukaj nimate belega kruha, imate vsaj rženega in koruznega; če ni mesa, je krompirja, repe, fižola; nekaj se vedno najde za prazni želodec in gladú nas je mili Bog do zdaj še vedno obvaroval; v Ameriki pa —.“</p>
+            <p>Glas mu postane na enkrat negotov, nekaj trenutkov umolkne, zdelo se je, kakor da bi solze premagoval, tako je bil presunjen. — „Ali v Ameriki“, ponavljal je še enkrat s trepetajočim glasom, „umrè jih stotine in stotine na dan vsled revščine in gladú.“</p>
+            <pb facs="#WIKI00277-061" n="61" xml:id="pb.061"/>
+            <p>Ni mogoče!“ sežejo kmetje jednoglasno doktorju v besedo. „Vi nas hočete s hudimi popisi prestrašiti, da bi nam ustavili naše namene.“</p>
+            <p>Pongrac s planine je postal v Ameriki bogataš; na kupe svetlih srebernjakov pošilja materi vsako četrt leta domú.“</p>
+            <p>Pongrac pa je onkraj morja s seboj na pot vzel lep denar“, pravi doktor, „celih šest tisoč goldinarjev; začel je ondi z žitom tržiti in pri tem je imel srečo. Kdor pa, kakor Vi hoče z bornimi krajcarji tja potovati, z jedinim upom na srečen slučaj, gorjé temu. Iz nič ni nič! Iz nič ni nič, ne v domovini, a še manj se pa v tujini kaj doseže.“</p>
+            <p>„Ta je pa prazna“, drznejo se nekteri iz družbe ugovarjati; „v Ameriki da ima človek le zdravo telo, trdno voljo k delu in pridne roke, pa je sreča njegova, zaslužek se mu sam na vse strani ponuja, pa še kako masten!“</p>
+            <p>„Čemu bi torej stradali v domovini in pri tem delali kakor črna živina, če bi v Ameriki za tisti trud lahko po gosposko živeli?“</p>
+            <p>„Korajža velja in poskusiti je treba. Živio!“ in cela kopa klobukov je sfrčala kvišku v znamenje splošnega veselja.</p>
+            <p>„Prav menijo tovariši, korajža velja!“ oglasijo se nató veselo še nekteri starejši možje, ki so do zdaj samo poslušali. „Bog je povsod, tukaj in onkraj morja; smrt nas bo vendar le pobrala, ko naša ura pride. Vsaj teh par let, ki bodemo še nosili breme svojega življenja, ne bodemo okoli tavali s praznimi želodci.“</p>
+            <p>„In pa s suhim grlom“, pristavi bolj tiho mlad fantalin; zbal se je, da ne bi ga doktor čul. „Celih štirinajst dnij nisem božje kapljice užil; ali je to življenje?!“</p>
+            <p>„Krčma, krčma, ta vam gre po glavi, in ta je tudi uzrok vaše nezadovoljnosti“, odvrne zdaj doktor ves pobit, ko je čul ono opazko, in maje žalostno z glavo. „Ali se res, dragi moji, ne da zadovoljno živeti, ako se po dvakrat, trikrat na teden v krčmo ne zahaja? Ali ni dovolj enkrat na teden in če ni drugače, tudi vsakih štirinajst dnij ? — Dajte rajši otrokom za kruh, kakor pa krčmarjem za žganje, in kdor ne more poliča plačati, naj pa bo s četrtinko zadovoljen.“</p>
+            <p>„Potrpite, strpite vendar še nekaj časa; prišla bodo zopet rodovitnejša leta in zadovoljnost se povrne med vas. A za Boga, proč z nespametno mislijo, potovati v Ameriko!“</p>
+            <p>„Če si z ničim na tujem postal danes gospod, ravno tako nevedé in hitro si lahko jutre berač. A Bog vas čuvaj <pb facs="#WIKI00277-062" n="62" xml:id="pb.062"/>revščine v tujini. Brezčutno bo tuji gospod mimo tebe šel, ko boš ti gladú umiral.“</p>
+            <p>Nerazumljivo godrnjanje je sledilo nató doktorjevim z resno slovesnostjo govorjenim besedam.</p>
+            <p>Nekteri so začenjali omahovati v svojem sklepu in se polglasno med seboj posvetovali; drugi pa so se trmoglavno držali svojega namena in poskušali z novimi dokazi tovariše v starem sklepu utrditi.</p>
+            <p>„Zakaj pa niste branili Jeličinemu očetu preseliti se, če je res tako preseljenje po Vašem mnenju toliko pogubljivo?“ poprašuje drzno kmetič sivolas in se kakor strogi sodnik s prekrižanima rokama pred doktorja postavi, čakaje odgovora.</p>
+            <p>„Jaz, da ne bi bil branil Jeličinemu očetu?“ začudi se doktor. „Dragi moji, ravno tako sem se bojeval z njim, kakor danes z vami. A vse je bilo zastonj! Svèt starega, izkušenega, dobrohotnega moža ni hotel poslušati, in kazen zató mu ni izostala; ah, Bog! prevelika kazen, ktera si je za žrtvo izbrala njegovega ubogega otroka, mojo drago Jelico! Poglejte možje solze, kterih mi ni več moči zadržavati; one mi dan za dnevom silijo v oči, odkar sem dobil strašno vest, da je Jelica, moj ljubljenec, v tujini vsled pomanjkanja umrla!“</p>
+            <p>„Bog nebeški!“ bil je občni zavzeti vzklic; „je-li to mogoče?“</p>
+            <p>„Hrepenenje po domu, pomanjkanje, glad, spravili so otroka v rani grob“, pristavi doktor z votlim glasom.</p>
+            <p>Nató seže v listnico, potegne iz nje pismo ter ga molčé podá najstarejšemu kmetu, da ga prečita.</p>
+            <p>Nihče iz družbe se ni ganil, vsak je radovedno in presunjen zrl v osodepolno pismo iz Amerike.</p>
+            <p>Nekako bojazljivo seže kmet za ponujani list, obrne ga nekolikokrat na vse strani, pokašlja v zadregi, a potém začne s pohlevnim glasom čitati:</p>
+            <p rend="center spaced">Ljubi doktor Jarnej!</p>
+            <p rend="center">To pismo Vam pišem v bolnišnici, kjer bivam že blizu pol leta.</p>
+            <p rend="center">Pri pogledu mrtvega trupla moje nesrečne Jelice zadel me je mrtvud črez pol života; zdrav najbrž ne bodem nikdar več, kar me celó nič ne žalosti. Saj me na svet nič več ne veže, nič več ne veseli; ko bi me le smrt kmalu pobrala iz mučnega življenja.</p>
+            <pb facs="#WIKI00277-063" n="63" xml:id="pb.063"/>
+            <p rend="center">Jelica je umrla pred pol letom, umrla gladú, pomanjkanja; revici je počilo srcé!</p>
+            <p rend="center">In jaz, njen oče, sem nje morilec! — Ta gotovost je strašna! Noben pekel na onem svetu ne more biti hujši, kakor oni, ki ga v prsih nosim.</p>
+            <p rend="center">O Bog, o Bog, da Vas nisem ubogal, da nisem hotel ostati v domovini!</p>
+            <p rend="center">Moj otrok, moj biser, moje veselje —je gladú umrl! Ona, za ktero bi bil srčno kri dal, da bi bila ostala pri življenju, umrla je sama, zapuščena, na leseni klopi mestnega vrta! Pamet se mi meša pri ti misli.</p>
+            <p rend="center">Odpustite, blagi gospod doktor, odpustite! Vem, koliko boste trpeli, ko zveste njeno smrt. O, ne kolnite mi; kazen za mojo trdovratnost me je dovolj zadela: nepopisljivo veliko sem trpel, odkar bivam v Ameriki in ni ga nesrečnejšega človeka na svetu, kakor sem jaz.</p>
+            <p rend="center">Od mene ne boste več čuli glasú, a zarotim Vas, branite z jekleno močjo vsakemu, ki bi se hotel preseliti v Ameriko.</p>
+            <p rend="center">Amerika ni stvarjena za pošteni, ponižni značaj slovenskega kmeta. V meni naj vsak ima prežalosten zgled!</p>
+            <p rend="center">Z Bogom, gospod doktor, z Bogom!</p>
+            <p>Ko je kmetič prečital pismo, nastala je za nekaj trenutkov grobna tihota.</p>
+            <p>Kmetje, vidno ginjeni, gledali so nemo drug drugega, a znalo se je vsakemu, da bi rad kaj povedal, pa da ne ve, kako bi začel.</p>
+            <p>„Ljubi moji“, pretrga zdaj doktor to neugodno molčanje, „upam, da česar niso moje prošnje in dokazi mogli doseči, doseglo je to kratko, a prežalostno pismo.“</p>
+            <p>„Jaz v domovini ostanem“, oglasi se zdaj bojazljiv glas med množico.</p>
+            <p>„Niti v sanjah ne bi hotel v Ameriki živeti,“ méni drugi nekoliko pogumneje.</p>
+            <p>„Jaz tudi ne, jaz tudi ne!“ zagotavljajo zaporedoma posamezni glasovi.</p>
+            <p>„Hvala, gospod doktor, za Vaš dobri svet, in ne zamerite nas vseh trdoglavost,“ pristavi zdaj najstarejši kmet v družbi, med tem ko se doktorju ponižno približa. Nató sname klobuk ter nadaljuje s slovesnim glasom:</p>
+            <p>„V imenu vseh pričujočih Vam obetam, da se nikdar več ne bomo dali motiti od nesrečne misli, izseliti se od tod. <pb facs="#WIKI00277-064" n="64" xml:id="pb.064"/>Ravnati se hočemo po Vaših nasvetih: bolj marljivo se dela poprijeti in pridnejše gospodariti z zaslužkom.“</p>
+            <p>„V ubogi, a črez vse nam dragi domovini hočemo do konca dnij ostati; strah nas ne bode truda, trpljenja in pomanjkanja!“</p>
+            <p>„Živeli so naši predniki, pozabil tudi nas mili Bog ne bode. — Živela slovenska domovina!“</p>
+            <p>„Živela! živela!“ zakličejo zdaj kakor iz jednega grla vsi pričujoči.</p>
+            <p>„Gospoda doktorja Jarneja, našega dobrotnika in svetovalca naj Bog ohrani še mnogo, mnogo let!“ navdušeni pristavijo.</p>
+            <p>Doktor vstane s sedeža, privzdigne glavo, in po dolgem času mu zopet zablišči žar veselja v očesu.</p>
+            <p>„Hvala, hvala vam, dragi tržani“, odvrne z negotovim, a radostnim glasom ter jednemu za drugim roko podaje. „Bog bode vaš trud in prizadevanje blagoslovil; kjer pa biva njegov blagoslov, tamkaj je tudi vselej sreča domá!“</p>
+         </div>
+      </body>
+   </text>
+</TEI>

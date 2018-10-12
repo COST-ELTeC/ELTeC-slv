@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SL00316">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Strup.  : ELTeC edition</title><author>Zbašnik, Fran (?-?)</author>
+            
+            <respStmt>
+               <name>Domen Kermc</name>
+               <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
+            </respStmt>
+         </titleStmt>
+         
+         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <sourceDesc>
+            <bibl><title>Strup</title><author>Zbašnik, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Strup</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-NODKVSVT</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
+         <langUsage><language ident="sl">slovenščina</language></langUsage>
+         
+      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/></textDesc></profileDesc>
+      <revisionDesc xmlns:t="http://www.tei-c.org/ns/1.0"><change when="2018-10-11"><name>Lou Burnard</name>: converted to ELTeC
+           </change>
+         <change when="2015-09-26">
+            
+            <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
+         <change when="2013-11-29">
+            
+            <name>Domen Kermc</name>: pretvorba v TEI P5.
+      </change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text xml:lang="sl">
+      
+      <body xml:lang="sl">
+         <pb facs="#WIKI00316-001" n="1" xml:id="pb.001"/>
+         <p xml:id="p.1">Sodni sluga je stopil v sobo preiskovalnega sodnika ter položil predenj na mizo več drobnih stvari.</p>
+         <p xml:id="p.2">„To je vse, kar je imel ...“</p>
+         <p xml:id="p.3">„Ali oni, ki so ga pripeljali sinoči?“</p>
+         <p xml:id="p.4">„Da.“</p>
+         <p xml:id="p.5">„Dobro! ... No, lep tiček, ki stori lastnemu očetu kaj takega! ... Hm, beležnica celo in v beležnici dnevnik ali kaj? Saperlot, saperlot! Interesantno! ... Pripeljite ga gori! Ta človek me zanimlje! ...“</p>
+         <p xml:id="p.6">Sluga je odšel, a vrnil se je kmalu z majhnim, suhotnim, bledim človekom dvaindvajsetih let. Nekaj mrklega je bilo v potezah njegovega čednega obraza, a iz njegovih globoko ležečih oči je odsevalo nekaj tako čudnega, da sodnik ni mogel razbrati, je li žalost, ali ogorčenost, ali oboje skupaj. Pozdravil ni, ko je vstopil. Strmel je osuplo predse ter čakal, da ga je sodnik vprašal:</p>
+         <p xml:id="p.7">„Med vašimi stvarmi je tudi beležnica. Ali dovolite, da čitam, kar ste tu napisali?“</p>
+         <p xml:id="p.8">„Ne!“</p>
+         <p xml:id="p.9">„Ne? — No, vidite, čitati pač moram, to je dolžnost moja, in vprašal sem vas le, da ne porečete morda, da ne znamo biti vljudni pri nas.“</p>
+         <p xml:id="p.10">„Potem čitajte!“</p>
+         <p xml:id="p.11">„Dobro! ... Ali povejte mi, kak namen ste imeli, ko ste začeli pisati to?“</p>
+         <p xml:id="p.12">„Če se prav spominjam, je namen naveden ...“</p>
+         <p xml:id="p.13">„Priznavate torej, da ste imeli poseben namen? Hm ...“</p>
+         <p xml:id="p.14">„Kako bi tajil, da sem pisal z namenom? Brez namena se menda ne stori nič!“</p>
+         <p xml:id="p.15">„Dobro, dobro! Ali važno je to, kakšen namen ste imeli. Vpraša se, niste li pisali tega zato, da bi morda olepšali svoje dejanje. Vidite, samo na par krajih sem pogledal v beležnico in takoj sem naletel na stvari, ki ...“</p>
+         <p xml:id="p.16">„Da ne pričakujem in ne maram milosti, to še dokažem! ...“</p>
+         <p xml:id="p.17">„Že dobro, že dobro! ... Jaz bom torej čital! ...“</p>
+         <pb facs="#WIKI00316-002" n="2" xml:id="pb.002"/>
+         <p xml:id="p.18">„Čitajte! Morda si prihranite na ta način marsikatero vprašanje do mene ...“</p>
+         <p xml:id="p.19">„Kakor vidim, ne odgovarjate radi! ... No, pojdite zdaj! Morda se pogovoriva popoldne kaj več, ko to prečitam. Samo nekaj ... samo eno vprašanje mi dovolite že zdaj! Povejte, kako je to mogoče: vaš oče tako spoštovan mož, tak odličnjak, tak dostojanstvenik, vi pa ...“</p>
+         <p xml:id="p.20">Obdolžencu je šinilo v glavo še tisto malo krvi, ki je je bilo v njegovem suhotnem životu, in opotekel se je.</p>
+         <p xml:id="p.21">„Čitajte!“ je odvrnil po kratkem premolku z izpremenjenim, tresočim g!asom. Nato pa je odšel ponosito s sodnim slugo.</p>
+         <p xml:id="p.22">Preiskovalni sodnik pa je sedel in čital ...</p>
+         <p rend="center" xml:id="p.23">* * *</p>
+         <p xml:id="p.24">Zgodbo pišem, žalostno zgodbo o krvavih solzah, o izgubljenem življenju, o zatrtem človečanstvu, o umorjenem srcu ... — Zgodbo pišem sam o sebi, o tem, kar sem bil in nisem več, o tem, kar so storili iz mene tisti, ki bi me bili morali ljubiti, pa so me sovražili ...</p>
+         <p xml:id="p.25">Zgodbo pišem sam o sebi — Čemu? Za koga? ... Zgodbo pišem, da poučim samega sebe o tem, kako se je zgodilo ... kako je postalo iz mene to, kar bi ne bilo smelo postati, postalo to, kar sem! Zgodbo pišem, da imam nekak dokument, ki bo pričal zame, dokument, ki mi bo v uteho, kadar bom zdvajal, ki mi bo v tolažbo, kadar mi začne očitati morda po napačni morali zapeljana vest ...</p>
+         <p xml:id="p.26">Da, pisati hočem, utešiti hočem svoje srce ... svoje ubogo srce! Pisati hočem resnico, golo resnico ... pisati hočem žalostno zgodbo o krvavih solzah, ki sem jih potočil toliko toliko, o življenju, ki sem ga izgubil, o človečanstvu, ki so ga zatrli v meni, o srcu, ki je bilo dovzetno za vse dobro, pa so mu vlili strupa, o srcu, ki bi se bilo rado veselilo, pa mu niso privoščili veselja, o srcu, ki bi bilo rado živelo, pa so ga ugonobili s kruto roko ... —</p>
+         <p rend="center" xml:id="p.27">*</p>
+         <p xml:id="p.28">Kogar bogovi sovražijo, mu dado dober spomin! O, meni ste ga naklonile, ve nevidne, ve skrivnostne, ve nedoumne moči! Jaz se spominjam vseh temnih strani svojega neveselega življenja do prve mladosti, jaz vem vse — vse, karkoli sem kdaj bridkega občutil. In ti spomini skele ... ti spomini peko kakor živ ogenj, ti spomini razjedajo srce, ti spomini obnavljajo vsak dan, vsak hip krvavečo rano ... O, blagor mu, ki more pozabiti! — Jaz ne morem! ... <pb facs="#WIKI00316-003" n="3" xml:id="pb.003"/> In blagor tistemu, ki ima človeka, da mu potoži, da si olajša pred njim srce! Jaz nimam nikogar! Na vsem božjem svetu ga ni bitja, ki bi mu mogel, ki bi mu smel govoriti o velikosti svojega gorja! Ljudje so me sovražili, zato sem bežal pred njimi. V svojem obupu sem klical v temni gozd svoje bridke tožbe, toda on mi jih je porogljivo vračal! A tožiti moram, moram, da mi ne poči srce! ...</p>
+         <p rend="center" xml:id="p.29">*</p>
+         <p xml:id="p.30">Kogar bogovi sovražijo, mu dado dober spomin! — — Ne, ne, ni res tako! Kaj bi bil jaz brez tega daru, kaj bi bil, če bi včasi v spominih ne našel utehe! O Gabrijela, kadar se spomnim tebe, mi je, kakor bi prodrlo solnce skozi temno, oblačno nebo! Spomin na tebe me poživlja in krepi, spomin na tebe je kakor spomlad, ki obuja cvetje vsepovsod, spomin na tebe je bister studenec v puščavi mojega žalostnega življenja, spomin na tebe je morda edino, kar me odvrača, da ne storim konca vsej grozi in nesreči ... Škoda, neizmerna škoda bi bila za vsak hip, ko bi nate misliti ne mogel! Vsaka misel nate je vredna več nego vse neizmerno bogastvo tega sveta! Ob vsaki misli nate se izpremeni zemlja v raj, ob vsaki misli nate se mi napolni srce z nebeškim slajem, ob vsaki misli nate se potapljam v nepopisno radost ... O, bodi blagoslovljena vsaka tvoja stopinja! Izlij nebo vso srečo nate! Bodi deležna vsega, kar more zadovoljiti hrepeneče človeško srce! ...</p>
+         <p rend="center" xml:id="p.31">*</p>
+         <p xml:id="p.32">Velikonočne sape so pihljale — mehke, blage, dobrodejne ... Prijetno so božale otrokom rožnata lica, zigravale se z njih mehkimi lasci. Skrivnostno so vele s svežim vonjem prepojene sape ter dramile cvetje iz zimskega spanja ... Iz talih tal je klilo nebrojno bilk in trav ... Ah, bilo je lepo, tako lepo! Vse je živelo, vse se veselilo! ... Mešice so plesale v solnčnem svitu, otroci so rajali, veseleč se zlatega solnca, ptiči so peli in žgoleli — sama radost, samo veselje! Jaz pa sem tičal pod streho v temnem kotu in se jokal, tako bridko jokal ... Po životu so me skeleli neusmiljeni udarci — udarci, ki jih nisem bil zaslužil! ... Zavest, da sem bil tepen po nedolžnem, mi je še večala mojo bolečino ...</p>
+         <p xml:id="p.33">Tistikrat sem štel kakih sedem let. A tepli so me že mnogo prej!</p>
+         <p xml:id="p.34">Da, nežen otrok sem bil že tepen in tepel me je — moj lastni oče! Bil sem često tepen, a nikdar me niso huje skeleli udarci nego tistikrat, ko so peli velikonočni zvonovi ... Velika noč! Ni je za <pb facs="#WIKI00316-004" n="4" xml:id="pb.004"/> otroka lepše dobe v letu, nego je velikonočni čas, čas poživljanja in prerojevanja, čas, ko prikipe iz tal prvi cvetovi, čas, ko more človek ven iz moreče tesnobe, ko more srkati zopet s polnimi požirki nebeški vzduh in veseliti se zlate prostosti. O blagor, blagor otroku, ki mu je naklonilo nebo ljubeča srca, naklonilo mu roditelje, ki umejo njegovo otroško dušo, umejo njegove želje in potrebe! ... Jaz nisem imel te sreče! —</p>
+         <p xml:id="p.35">Velikonočni zvonovi so peli tako sladko, njih zvoki so trepetali skozi mehki zrak in prihajali do mene v podstrešni kot ... Kadar je potegnil ugoden veter, sem natanko razločeval njih ubrane akorde, a potem so pojemali bolj in bolj in naposled jih je bilo čuti le še malo, čisto malo, kakor bi se bili porazgubili v nedogledne daljave ... Sladko so peli velikonočni zvonovi, oznanjali so vstajenje, nosili radost v širni svet, jaz pa sem zdel v temnem kotu in jokal ... jokal ...</p>
+         <p xml:id="p.36">Ah, kako težko sem pričakoval tega dne, kako sem se veselil tudi jaz velikonočne procesije, kajti navzlic vsem trpkim čutom, ki so že takrat prevladovali moje srce, mi je bilo vendarle ostalo še nekoliko otroške naivnosti, nekoliko otroškega veselja. A kakor bi se bil moj oče zaklel, da zatre in ugonobi v meni vse, kar bi mi bilo v srečo, je vzrojil proti meni vselej prav tedaj, kadar si je moja otroška duša česa zaželela. Najraje mi je zagrenil praznike in najraje je skalil domači mir take čase, ko so se pogrezali drugi ljudje v veselje, ko sta bila sreča in mir razlita po hišah tudi najrevnejših zemljanov ...</p>
+         <p xml:id="p.37">Sladko so peli velikonočni zvonovi, velikonočna procesija se je pomikala po sredi trga ob strmečih pogledih mojih vrstnikov in vrstnic ... veselo se je razlegalo velikonočno petje, jaz pa sem zdel v temnem kotu in jokal ... jokal ...</p>
+         <p xml:id="p.38">Pri tem pa so vstajale črne, sovražne misli v moji otroški duši ... Pesti so se mi krčile, usta so mi nekolikokrat izgovorila besedo, katero čuti iz tujih ust me je bilo groza ...</p>
+         <p xml:id="p.39">Učinkovati je bil začel strup, s katerim me je otrovalo sovraštvo tistega, čigar dolžnost je bila, da me ljubi! ...</p>
+         <p rend="center" xml:id="p.40">*</p>
+         <p xml:id="p.41">Gabrijela, o Gabrijela! Ti sladka, dobra prijateljica moja, ti blaga priča moje temne mladosti! O, ti si vredna, da ti posvetim posebno poglavje! Spominjam se te še čisto malega dekletca ... spominjam se te, ko še nisi znala izgovarjati dobro vseh glasov, <pb facs="#WIKI00316-005" n="5" xml:id="pb.005"/> ko si rekala še „tutavica“ namesto „kukavica“ ... spominjam se te, ko so ti segala krilca samo še do kolen, ko si se igrala še s punčkami, ko si bila še tako otročja, da si jedla s svojo mačico skupaj z enega krožnika! ... Ah, kako se te je oklepala že tistikrat moja duša, kako sem te že tistikrat ljubil! Kadar sem videl tebe, sem pozabil vse — pozabil vso tisto temno tugo, ki mi je ob razmerah, v katere me je posadila kruta usoda, že otroku prešinjala glavo in srce ... O dobro, prav dobro vem še, kako mi je bilo vselej, kadar sem te uzrl! ...</p>
+         <p xml:id="p.42">Jaz sem se plazil doli po dvorišču, teman, truden, s sklonjeno glavo, kakor bi me tiščalo nekaj k tlom, a tedaj si se prikazala ti tam gori na hodniku — poteknila si nožico med železno ograjo, glavico pa si položila na roke, ki so ti počivale na ograji, in nasmehnila si se mi, nasmehnila tako iskreno, tako prisrčno, da se mi je zazdelo, kakor bi bil nenadoma posijal solnčni žarek doli do mene ... In mene je nekaj prešinilo, dvignilo me, prejšnje temne misli so zbežale; tako veselo je postalo okrog mojega ubogega srca — tako otožno-veselo! — in v mojih utrujenih, izmučenih udih se je pojavila nemirna otroška kri — zletel sem po stopnicah ... do tebe, ki si bila tako ljubka, tako dobra! ...</p>
+         <p xml:id="p.43">O vem, tvoji starši me niso marali ... tvoj oče in tvoja mati sta me gledala postrani — vedela sta pač, da me sovraži moj oče, in bila sta prepričana, da zaslužim to sovraštvo. Tvoj oče tem bolj, ker je bil kot uradnik podrejen mojemu očetu! Saj je nemara že disciplina zahtevala tako, vsekakor pa spoštovanje, ki ga je nižji uradnik svojemu višjemu dolžan! Ne, tvoj oče in tvoja mati me nista marala ... nerada sta videla, če sva bila skupaj, in vedel sem, da ti celo branita, biti v moji družbi. Toda ti se nisi brigala dosti za to. Tvoja lepa glavica je mislila samostojno in tvoje mlado srce je bilo dovolj pogumno, da je kljubovalo ... Ti si mi bila dobra, dobra navzlic temu, da so te svarili pred menoj ... Ti si se mi prijazno nasmihala, ko so me vsi drugi črtili ... Ko so me drugi preganjali, so tvoje prekrasne oči ljubeznivo svetile name ter podile od mene obupne misli, kakor podi solnce temo, kadar pogleda zjutraj izza gore ...</p>
+         <p xml:id="p.44">O, ti si mi bila dobra! Kolikrat, kolikrat si mi ponudila kos belega kruha, ki si ga dobila za južino, bodisi, da si sama od sebe vedela, da sem lačen, bodisi, da si umela moje lačne poglede, ki so se željno vpirali v slastno jed!</p>
+         <p xml:id="p.45">„Na, ali hočeš?“</p>
+         <pb facs="#WIKI00316-006" n="6" xml:id="pb.006"/>
+         <p xml:id="p.46">O ti sladko, sladko dete — o ti dobro srce! Kako bi ne hotel? Da, lačen sem bil! Kajti moj oče je imel posebno veselje, kaznovati me s postom!</p>
+         <p xml:id="p.47">„Danes ne dobiš južine! ... Danes boš med kosilom stal v kotu! ... Danes mi pojdeš brez večerje spat! ...“</p>
+         <p xml:id="p.48">Tako je šlo včasi kar za vrstjo. Za vsak pravi ali namišljeni prestopek — udarci in pest! Morda me je hotel prisiliti s tem, da bi res kradel, morda je hotel doseči s tem, da bi se obistinilo to, kar mi je tolikrat prorokoval: da postanem še tat in zločinec! O, bil sem lačen in občutil sem to tem bridkeje, ker sem videl, da drugim, manj dobrim otrokom nihče ne odteguje kruha. O, lačen sem bil, tolikrat lačen, kajti niti moja mati se ni upala upirati očetovim poveljem! Samo enkrat mi je bila dala skrivaj jesti, a oče naju je zalotil, in kar se je bilo potem zgodilo, je bilo grozno!</p>
+         <p xml:id="p.49">„Saj hočeš, da bo hudodelec, saj hočeš to sama! Le daj, le daj tako! ... Videla boš, kaj bo iz tega! Le dajaj mu še potuho! ...</p>
+         <p xml:id="p.50">In mati se je zbala!</p>
+         <p xml:id="p.51">A ti, Gabrijela, se nisi bala nikogar!</p>
+         <p xml:id="p.52">„Na, ali hočeš?“</p>
+         <p xml:id="p.53">Ah, ti sladko, sladko dete! Oj, kako mi je dišala vsaka drobtinica iz tvoje ročice, ker sem vedel, da si mi dala rada! In kako hvaležen, kako neskončno hvaležen sem ti bil! Srce me je sililo, da bi bil pokleknil predte in poljubil iz vdanosti in hvaležnosti tvojo drobno nožico ali rob krilca tvojega! Da, rob tvoje obleke bi bil poljubil ali kar si že bodi, saj mi je bilo sveto vse, kar je bilo tvojega! Občudoval sem na tebi vse ... tvoj obrazek, tvoje laske, ročice in nožice tvoje, tvoj slamnik, tvoje obuvalo, tvoja rdeča krilca — vse, vse, kar je bilo količkaj v dotiki s teboj! Včasi kar nisem mogel geniti očesa od tebe; zamaknjen v tvojo lepoto, sem strmel vate in spominjam se, da si me nekoč vprašala: „Zakaj me gledaš tako?“ Jaz pa nisem vedel, kaj bi odgovoril. Osramočen sem se ozrl vstran, a v očeh so se mi prisvetile solze, ne da bi vedel zakaj ...</p>
+         <p xml:id="p.54">A to je bilo tedaj, ko si bila še majhna, ko ti krilca niso bila daljša nego do kolen, ko sem se jaz le temno zavedal svoje nesreče ...</p>
+         <p xml:id="p.55">Pozneje pa ...</p>
+         <p xml:id="p.56">Ah, te tvoje oči! Kako so sijale od dne do dne topleje, kako so postajale čimdalje bolj čudovite, čimdalje bolj žarovite! ...</p>
+         <p xml:id="p.57">Njih žarki so bili zdaj ognjeni kakor žarki opoldanskega solnca, zdaj mehki in tajnostni kakor svit lune ali svit večernice na jesenskem nočnem nebu!</p>
+         <pb facs="#WIKI00316-007" n="7" xml:id="pb.007"/>
+         <p xml:id="p.58">Gabrijela, o Gabrijela! Kadar se spomnim teh tvojih velikih temnih oči, iz katerih je odsevalo toliko usmiljenja, toliko dobrote toliko rahločutja ... tedaj moram jokati, jokati, da se mi krči srce! ...</p>
+         <p xml:id="p.59">O Gabrijela, tvoje oči so bile solnce mojega življenja! Zakaj, zakaj mi ne sijejo več? Zakaj, zakaj je zašlo za večno moje solnce? ...</p>
+         <p xml:id="p.60">O Gabrijela, zakaj je moralo umreti tudi v tvojem srcu usmiljenje ... zakaj me nisi umela takrat, ko sem si najbolj želel, da bi me umela ... zakaj si povesila oči v hipu, ko me je najbolj žejalo po njih svetlobi? ... —</p>
+         <pb facs="#WIKI00316-008" n="8" xml:id="pb.008"/>
+         <p xml:id="p.61">In ti, moja mati! Bilo bi greh, ako bi se tebe ne spominjal! A tebe se ne spominjam tako rad, kajti ob tvojem spominu mi vedno zopet zakrvavi srce. Pri misli nate se ne morem ubraniti solzam, o mati, ti, ki si trpela kakor nobena druga žena na svetu — ti mučenica vseh mučenic!</p>
+         <p xml:id="p.62">Tako majhen, tako čisto majhen sem še bil, pa sem že slutil, da trpiš!</p>
+         <p xml:id="p.63">„Zakaj si tako žalostna, mama?“</p>
+         <p xml:id="p.64">Stoinstokrat sem te vprašal tako! Nerazsodno otroče sem še bil, a vendar sem že razločeval in pojmil! Druge mlade lepe žene sem videl smejati se in čudno se mi je zdelo, da se ti nikoli ne smehljaš. V potezah tvojega milega obraza sem že otrok čital, da te boli nekaj, da tvoje življenje ni veselo ....</p>
+         <p xml:id="p.65">„Zakaj si tako žalostna, mama?“ sem te vprašal stoinstokrat, a odgovorila mi nisi! Samo k meni si se sklonila, pobožala si me pa solzo obrisala iz očesa sebi in — meni. In potem sva molčala oba, molčala in vdajala se vsak svojim mislim in vsak svoji boli. Molčala sva po cele ure, oklepaje se drug drugega, in le vzdihi, ki so prihajali zdaj meni, zdaj tebi globoko iz prsi, so motili tihoto, ki naju je obdajala. Skoro nepremično sva sedela drug poleg drugega, dokler se niso začule stopinje očetove. Tedaj pa sva se stresla po celem životu, ti si me pahnila skoro neusmiljeno od sebe in hitro sva se obrnila vsak na svojo stran ....</p>
+         <p xml:id="p.66">„Zakaj si tako žalostna, mama?“</p>
+         <p xml:id="p.67">Kako, kako ti je pač segalo to vprašanje iz ust takega otroka v srce! Ah, ti si me umela! Ti si vedela, da trpi zaradi tebe moje otroško srce! Kako bi bil mogel jaz biti vesel, če sem tebe, svojo mater, videl vedno žalostno? Rada bi me bila premotila, rada bi se bila smehljala, da bi bila razvedrila mene. Prizadevala si se včasi, a ni se ti posrečilo! Prevelika je bila tvoja žalost, pregloboka tvoja bolest!</p>
+         <p xml:id="p.68">O ti moja draga, o ti moja ljubljena mati!</p>
+         <pb facs="#WIKI00316-009" n="9" xml:id="pb.009"/>
+         <p xml:id="p.69">Kako si me ljubila, kako si me imela rada! In kako si trpela, ko si videla, da me preganja sovraštvo mojega očeta! Vem, zaradi mene si še najbolj trpela! Vse drugo bi bila morda še prenašala, a gledati, kako neusmiljeno ravna oče s svojim lastnim in tvojim otrokom, tega prenašati ni moglo tvoje materinsko srce! ...</p>
+         <p xml:id="p.70">O, še se spomijam, kako si se mu nekoč postavila v bran! Premagovala si se dolgo, ker si se bala škandalov, ker nisi hotela, da bi ljudje zvedeli kaj o žalostnem razmerju, ki je bilo med teboj in njim. Toda tistikrat je bilo vzkipelo v tebi, tistikrat je prodrla z elementarno silo na dan vsa ogorčenost, ki si jo sicer zatirala in zadrževala v svojem srcu ....</p>
+         <p xml:id="p.71">Oče je bil tisti dan posebno slabe volje. Mogoče, da ga je bilo v službi kaj razjezilo — ob takih prilikak se je vselej znašal nad menoj — mogoče tudi, da so se ga tisti dan s podvojeno silo lotevale tiste muhe njegove. Kakor tolikrat prej, se mi je začel brez pravega povoda groziti. Toda same grožnje so bile le malokdaj in tudi tistikrat ne. Zgrabil me je za lase in potem me je začel biti. A da me je pretepel enkrat, mu ni bilo dovolj. Pretepel me je še drugič in tretjič. Divjal je, kakor bi bil ob pamet. A tedaj si zdivjala tudi ti! Skočila si med naju in z glasom, kakršnega nisem čul pri tebi prej nikdar, si zakričala:</p>
+         <p xml:id="p.72">„Zdaj je dovolj tega! Ne boš ga umoril, ne boš ga ugonobil — mojega otroka! Jaz sem ga nosila pod srcem — moj je! Meso je od mojega mesa in ne pustim, da bi ga mučil in trpinčil!“</p>
+         <p xml:id="p.73">Ah, kako si bila lepa, moja dobra mati, v tem svojem srdu! Dosegla nisi svojega namena, in vendar, kako sem ti hvaležen za tisti pogumni čin, kako te občudujem, kako te častim! ...</p>
+         <p xml:id="p.74">Tudi s prošnjami si skušala izboljšati mojo usodo! Nekoč si pokleknila predenj, povzdignila si roke proti njemu kakor proti živemu Bogu in med glasnim ihtenjem si ga prosila:</p>
+         <p xml:id="p.75">„Imej usmiljenje, imej usmiljenje! Jaz ne morem gledati več tega! Jaz moram zblazneti, zblazneti!.. O! ...“</p>
+         <p xml:id="p.76">Sram ga je bilo tistikrat, pobegnil je od naju, toda usmiljenja ni občutilo njegovo srce! ... Bil je trši nego kamen! —</p>
+         <p xml:id="p.77">In tako sva trpela še dalje, trpela dvojno bolečino — ker sva se smilila drug drugemu!</p>
+         <p xml:id="p.78">O ti ljubljena, o ti nepozabna mati moja!</p>
+         <p xml:id="p.79">Kako rad bi mislil nate, kako rad bi se te spominjal veninven! Toda ob spominu nate se mi krči srce, ob spominu nate točim krvave solze! In ob spominu nate raste moj srd in moje sovraštvo!.. —</p>
+         <p rend="center" xml:id="p.80">*</p>
+         <pb facs="#WIKI00316-010" n="10" xml:id="pb.010"/>
+         <p xml:id="p.81">Čul sem trditi: „Brez volje božje ne pade las z glave! Vsaka, tudi najmanjša stvar se zgodi z voljo tistega, ki je nad nami!“</p>
+         <p xml:id="p.82">Ali dogajajo se čudne stvari! ...</p>
+         <p xml:id="p.83">Videl sem, kako je padel negoden ptič iz gnezda. Takoj je bila krvoločna mačka pri njem in pograbila je goliča, še preden se je mogla iztegniti rešilna roka po njem!</p>
+         <p xml:id="p.84">In nekoč sem imel bubo, katero sem skrbno varoval, dokler se ni izlegel metulj. Veliko veselje sem imel s pisano stvarco. Toda bil sem usmiljen in nisem mu hotel kratiti prostosti, za katero je bil ustvarjen. Izpustim ga. Vesel se dvigne v zrak. A preden je dospel na prvi cvet, je priletel ptič in ga pogoltnil ...</p>
+         <p xml:id="p.85">Če bi bil padel oni ptič drugje iz gnezda, če bi bil izpustil jaz metulja ob drugem času, kdo ve ...</p>
+         <p xml:id="p.86">Usode onega ptiča in metulja se spomnim vselej, kadar razmišljam svoje življenje ... Če bi me bila posadila usoda drugam, kdo ve ...</p>
+         <p xml:id="p.87">A vse se godi po volji tistega, ki je nad nami! ...</p>
+         <p rend="center" xml:id="p.88">*</p>
+         <p xml:id="p.89">„Ali ga vidiš? ... Se mu li ne pozna, da je rojen zločinec? ... Njegov obraz poglej, njegovo čelo! ... Prava zločinska fizijonomija! ... O, to ti bo še lopov ... tat bo, ubijalec, požigalec in razbojnik! U — ti ... ti ...“</p>
+         <p xml:id="p.90">In kosti njegove trde pesti so zašklepetale po moji mehki, od udarcev razboleli glavi, da se mi je temnilo pred očmi.</p>
+         <p xml:id="p.91">„Zločinec, tat, požigalec, razbojnik!..“ Vsak dan so leteli med udarci taki priimki name! Boleli so ti priimki morda mojo mater bolj nego mene. Spočetka niti razumel nisem, kaj je hotel oče povedati s tem. Pozneje se mi je začelo svitati ... Toda kar sem občutil spričo teh besed, ni bila tista navadna bolečina, katero občutimo, kadar nam dela kdo krivico, ne, v mojem srcu sta naraščala le ogorčenost in srd ... bolj in bolj se ga je polaščalo neko splošno sovraštvo ... nekaj, česar je bilo včasi mene samega strah ...</p>
+         <p xml:id="p.92">Kakor strup so se zajedale te besede v moje meso in strup je učinkoval polagoma sicer, a bolj in bolj ...</p>
+         <p xml:id="p.93">Te neusmiljene besede so mi vsilile polagoma prepričanje, da moram res postati nekaj takega, kakor mi je prorokoval oče. In včasi se me je lotila kar želja, da bi storil kaj groznega, kaj strašnega ... Toda premagoval sem se. Zdelo se mi je, da bi oče rad videl, če bi učinil kaj takega; samo da bi triumfiral nad materjo ter se tem laglje znašal nad njo. Vedel je, da se zaman trudi, zatreti njeno <pb facs="#WIKI00316-011" n="11" xml:id="pb.011"/> ljubezen do mene, in zato bi mu bilo v največje veselje, če bi bil dokazal, da sem res tak, kakršnega me je on hotel imeti. Vse to sem, dasi otrok, instinktivno čutil. In nisem mu hotel napraviti tega veselja! Toda one besede so vplivale z neodoljivo silo name. Moral sem včasi bežati od vžigalic, tako me je mikalo, da bi bil vzel katero, nažgal jo ter podtaknil kam, da bi nastal požar ...</p>
+         <p xml:id="p.94">Nekoč sem se plazil pod streho po tramovih. Nasproti mi pride moj vrstnik, moj drug pri igrah. Imel sem ga vobče rad. Samo kadar se je dobrikal Gabrijeli, sem občutil neko mržnjo do njega. Zdaj sva bila čisto sama, kajti noben drug otrok si ni upal tja gori. „Tat, požigalec, razbojnik!“ mi zazveni na uho. Pri srcu me zabode in kri se mi zapodi v glavo, da mi je čudno zamrgolelo po njej. In kar nenadoma me prešine misel: „Pahni ga doli!“ Bilo mi je, kakor bi kdo šiloma zahteval od mene, da storim to. In morda bi bil storil, morda bi bil pod vplivom tistih groznih besed res postal ubijalec, da se ni lotila vsega mojega života neka odrevenelost, vsled katere se nisem mogel premakniti z mesta ...</p>
+         <p xml:id="p.95">Po par trenotkih pa sem se vzdramil. Razjokal sem se na glas. Pokleknil sem pred svojega tovariša in ga prosil odpuščanja. On me ni razumel. Obšla ga je menda groza in zbežal je. Jaz pa sem še vedno jokal. Bilo mi je, kakor bi bil že s samo mislijo, ki se mi je bila vsilila kar neradovoljno, storil nekaj groznega. V obupu, ki se me je lotil, bi bil skočil skoro sam v globočino in storil konec svojemu življenju ...</p>
+         <p xml:id="p.96">Tedaj se je bilo začelo in ... od tistih dob ni bilo več mirno moje srce ...</p>
+         <p xml:id="p.97">Vedno zopet so se mi pojavljale zločinske misli, a njim je sledil vedno kes, obupen kes ...</p>
+         <p xml:id="p.98">Čim večkrat sem čul iz očetovih ust: „Tat, požigalec!“, tem manj sem imel moči, ustavljati se groznemu prepričanju, da se prej ali slej res kaj zgodi. In živel sem v čimdalje večjem strahu pred tem, kar je po mojem prepričanju moralo priti ... bal sem se poslej samega sebe!.. —</p>
+         <p xml:id="p.99">Edina opora moja v teh strašnih bojih je bila misel, da tako dolgo, dokler živi moja dobra mati, se ne sme zgoditi nič ... —</p>
+         <p xml:id="p.100">Tako me je ubil, tako me je umoril, tako me je uničil s svojimi strašnimi besedami — moj lastni oče! ...</p>
+         <p rend="center" xml:id="p.101">*</p>
+         <p xml:id="p.102">V tej grozni temi, ki se je zgrinjala nad menoj od vseh strani, mi je posijalo samo takrat solnce, kadar sem bil v tvoji bližini, o <pb facs="#WIKI00316-012" n="12" xml:id="pb.012"/> Gabrijela! V tvoji bližini sem pozabil, v tvoji bližini sem si opomogel! Kadar sem bil sam, so se snovale same čudne misli v moji izmučeni glavi. V mojem srcu sta se kuhala srd in sovraštvo. Kajti strup je učinkoval! ...</p>
+         <p xml:id="p.103">Poleg tebe pa sem bil zopet otrok, nepokvarjen, nedolžen otrok, kakršnega me je bila ustvarila božja narava. V tvoji bližini sem se oddahnil; bilo mi je, kakor bi me bil prijeten sen obvel; poleg tebe sem bil vesel ... da, celo smejal sem se, dočim ni drugače nikdar legel smeh na moje ustnice ...</p>
+         <p xml:id="p.104">O bilo je lepo, tako lepo v tvoji bližini! Če je zaplapolal kje trak tvojega slamnika po zraku, že me je prešinilo nekaj sladkega, dobrodejnega. V tvoji bližini je bila večna pomlad! Tvoj smeh, tvoj srebrni glas je pregnal iz mojih ušes odmev onih grozovitih besed in pozabil sem na vse! Bil sem zopet otrok! V tvoji bližini so se mi vrnili trenotki, o kakršnih je sanjala včasi v temni noči moja duša, v tvoji bližini sem občutil slast, po kateri mi je tako burno hrepenelo srce!..</p>
+         <p xml:id="p.105">Ob samem spominu na te trenotke sem srečen!</p>
+         <p xml:id="p.106">O Gabrijela, kadar se spomnim tistih tvojih velikih, skrivnostnih oči, iz katerih je sijala tolika miloba, tolika dobrota, tolika sladkost, je pozabljeno vse gorje! ...</p>
+         <p xml:id="p.107">Toda to so le hipi, hipi ... —</p>
+         <p rend="center" xml:id="p.108">*</p>
+         <p xml:id="p.109">O jaz sem jokal .... jokal! .... Nihče ne ve, koliko sem prejokal v svojem življenju, kajti skrival sem se v svoji boli. O jaz sem jokal, jokal, a solze mi niso prinesle zaželjenega hladila, moje solze so bile kakor razbeljena lava, moje solze so pekle in požigale, kamorkoli so kanile! ...</p>
+         <p xml:id="p.110">„Hudodelec, tat, razbojnik, požigalec!“</p>
+         <p xml:id="p.111">Ljudje, kaj sem vam storil? ... Kaj sem ti storil, ti moj — oče? ... Kako sem zaslužil jaz, tvoj otrok, to? Kaj so natezalnica in vse druge muke, s katerimi so mučili svoje dni dozdevne hudodelce proti mukam, ki jih je prestajalo ob takih priimkih moje mehko otroško srce! ...</p>
+         <p xml:id="p.112">„Hudodelec, tat, požigalec, razbojnik! ...“</p>
+         <p xml:id="p.113">Kaj sem vam storil, kaj, vi neusmiljeni ljudje?</p>
+         <p xml:id="p.114">O, kakšen lopov tisti, ki ima veselje nad mukami nedolžnega otroka, kaka kreatura oče, ki se naslaja nad trpljenjem rodnega deteta!</p>
+         <p xml:id="p.115">Prokletstvo na vas, prokletstvo nate, ti izvržek vseh očetov!</p>
+         <pb facs="#WIKI00316-013" n="13" xml:id="pb.013"/>
+         <p xml:id="p.116">O da, zgodi se!</p>
+         <p xml:id="p.117">O da, imel boš, oče, kar si hotel imeti!</p>
+         <p xml:id="p.118">Ti si mi vzel vse ... vse ... zato te sovražim, zato te zadene moje maščevanje!</p>
+         <p xml:id="p.119">Iztrgal si mi srce iz prsi in zdaj je prazno tu notri! ...</p>
+         <p xml:id="p.120">Mojo mladost, mojo sladko mladost si mi ugonobil!</p>
+         <p xml:id="p.121">Spravil si me ob najlepše, ob najslajše, ob srečo, ki ima svoj spočetek in svoj vir v ljubezni!..</p>
+         <p xml:id="p.122">Ob vse si me del, vse si mi uničil!..</p>
+         <p xml:id="p.123">Moje življenje je postalo žrtev tvoje krutosti! ...</p>
+         <p xml:id="p.124">Srce si mi iztrgal iz prsi ... In zdaj je prazno tu notri!</p>
+         <p xml:id="p.125">Brez srca sem — zato se me boj!..</p>
+         <p xml:id="p.126">Ti nisi poznal usmiljenja, tudi jaz ga nočem poznati! — —</p>
+         <p rend="center" xml:id="p.127">*</p>
+         <p xml:id="p.128">To je bil najstrašnejši, najtemnejši dan mojega življenja, ko sem moral misliti, da je usahnila tudi tvoja ljubezen do mene, o mati!</p>
+         <p xml:id="p.129">Spominjam se še natanko, kako je bilo.</p>
+         <p xml:id="p.130">Prišel sem bil baš od Gabrijele domov. Bil sem žalosten in potrt, ker me je bila njena mati odpravila od nje. Storila je to na lep način, toda jaz sem bil občutljiv. Govorila je nekaj, da mora Gabrijela iti nekam, a jaz sem vedel, da je to samo pretveza in da me le trpela ni v bližini svoje hčere. Tudi ona je vedela, kako me sovraži oče, in tudi ona se je bala zameriti se mu ...</p>
+         <p xml:id="p.131">Jaz se nisem ustavljal. Odšel sem, a ko sem se ozrl v Gabrijelo, so mi bile rosne oči. Hotel sem k materi, da bi ji potožil. Pri srcu mi je bilo hudo in čutil sem se tako zapuščenega, tako grozno zapuščenega! Toda ko stopim doma v sobo, sta se oče in mati zopet prepirala — prepirala zaradi mene kakor zmeraj! Mati je bila do skrajnosti razburjena. Po licih so se ji vlekle široke, umazane lise, znak, da je jokala. A zdaj je samo še ihtela. Z rokama se je prijemala za glavo, pa letala po sobi gori in doli. Oče je precej nato odšel. Dosegel je bil, kar je hotel. Kadar je videl, da je spravil svojo ženo, mater mojo, s svojim strupenim jezikom skoro ob razum, tedaj je šel vselej. Danes je bil posebno zloben, kajti še nikdar nisem videl svoje matere v takem stanju ... Bila je često obupana, a danes je besnela. Ko me je uzrla, se je zapodila kakor blazna vame. Česar ni storila še nikdar, je storila tistikrat: začela me je pretepavati, pretepavati brez povoda. Naposled me je zgrabila za vrat, davila me in kričala: „Ti nesreča moja! Umri ... umri ... konec naj te <pb facs="#WIKI00316-014" n="14" xml:id="pb.014"/> bode, da bode konec mojih muk!.. Če bi tebe ne bilo, bi se dalo morda živeti! Umri, ti nesreča moja!..“</p>
+         <p xml:id="p.132">Le s težavo sem se ji izvil in pobegnil. Morda bi me bila tedaj res zadušila in storila še sebi kaj!</p>
+         <p xml:id="p.133">Stekel sem pod streho in se ulegel pod bruno, kjer so me šele pozno po noči zasledili ...</p>
+         <p xml:id="p.134">O to je bil grozen, to je bil strašen dan, ko sem mislil, da me tudi ti ne ljubiš več, moja mati!</p>
+         <p xml:id="p.135">Tako grenkih, tako bridkih solz nisem pretakal nikdar prej ...</p>
+         <p xml:id="p.136">O mati ... mati! Tistikrat si bila trda in neusmiljena z menoj! Tisti hip si me v istini sovražila! Tisti hip si me sovražila, ker si videla v meni vir vsega svojega trpljenja, katero dalje prenašati si se čutila preslabo ... Tisti hip si me sovražila! Tisti hip je bil moj oče dosegel svoj namen, za tisti trenotek je bila podlegla tvoja volja njegovi ... Trpinčil in mučil te je tako dolgo, da te je spravil ob pamet!..</p>
+         <p xml:id="p.137">O, moj oče je znal to! On ni miroval prej, dokler ni spravil človeka v obup!..</p>
+         <p xml:id="p.138">To je bil najstrašnejši, najtemnejši dan mojega bednega življenja!..</p>
+         <p xml:id="p.139">Še zdaj me pretresa groza ob spominu na tisti trenotek!</p>
+         <p xml:id="p.140">Da si me sovražila ti, o mati, ki te je bila sama ljubezen!</p>
+         <p xml:id="p.141">O, ko bi vedela, kako sem trpel, kako mi je krvavelo srce ...</p>
+         <p xml:id="p.142">„Umri ... umri ... konec naj te bode!..“</p>
+         <p xml:id="p.143">Ah, hotel sem že storiti konec!.. Na streho splezati in spustiti se doli sem hotel. Svojo kri, svoje življenje sem hotel dati, da bi bilo konec tvojih muk!</p>
+         <p xml:id="p.144">Toda slutil sem, da si govorila tako samo v svoji grozni obupanosti in da bi ti moja smrt povzročila še hujše gorje. In danes vem, kar sem tistikrat samo slutil! Danes umem vse!..</p>
+         <p xml:id="p.145">O kako velika, kako nepopisna je bila tvoja bolest, mati, da si želela smrt meni, ki si me tako ljubila! Kako ti je bilo pri srcu, da si hotela ugonobiti mene, ki sem bil meso od tvojega mesa!..</p>
+         <p xml:id="p.146">To je bil najstrašnejši, najtemnejši dan mojega življenja!</p>
+         <p xml:id="p.147">Tako grenkih, tako bridkih solz nisem pretakal nikdar prej ...</p>
+         <p xml:id="p.148">In vem, da si jih pretakala tudi ti!</p>
+         <p xml:id="p.149">Uboga, uboga moja mati! ... —</p>
+         <p rend="center" xml:id="p.150">* * *</p>
+         <pb facs="#WIKI00316-015" n="15" xml:id="pb.015"/>
+         <p xml:id="p.151">Včasi, dasi redkokrat, je bilo videti, kakor bi se oče kesal, kakor bi mu bilo žal, da je tak z menoj in z mojo materjo. Včasi ga je nekaj obšlo, da ga je bilo komaj spoznati. Bil je mehak, vljuden, govoril je po človeško z nama ...</p>
+         <p xml:id="p.152">Spominjam se, da je imel nekoč dolgo dolgo oči vprte vame in solze so se mu lesketale v njih. Izraz njegovega, sicer vedno odurnega obraza je bil skoro mil. Smehljal se mi je, kakor se smehlja oče, ki vidi čez dolgo spet otroka svojega. In naposled je stopil k meni, me pogladil po glavi, po kateri je prej tolikrat padala njegova trda pest, ter dejal s tresočim glasom proti materi:</p>
+         <p xml:id="p.153">„Jaz vem, da trpita zaradi mene — vem, toda ne morem si pomagati! ...“</p>
+         <p xml:id="p.154">Tistikrat sem začutil tudi jaz ljubezen v svojem srcu do njega. Tudi meni so se zatopile oči s solzami. Pri prsih mi je postalo mehko in hotel sem že skočiti tja k njemu, okleniti se ga okoli vratu, poljubiti ga in vzklikniti z glasom, ki bi bil razodel vso mojo neskončno bol in vse brezmejno veselje, ki sem ga občutil tisti hip ...</p>
+         <p xml:id="p.155">„Oče, o moj oče!“</p>
+         <p xml:id="p.156">Tako bi bil vzkliknil z vso iskrenostjo otroškega srca in razjokal se prevelike sreče. Saj sem tako pogrešal, tako pogrešal očetove ljubezni! ...</p>
+         <p xml:id="p.157">Toda nekaj čudnega, nerazumnega me je zadržalo, da tega nisem storil. Srce mi je hipoma spet zakrknilo! Morda ob spominu na vse tiste obile bridkosti, ki sem jih užil zaradi njega! In prav je bilo, da mi je! Kajti še tisti večer je kričal zopet name!</p>
+         <p xml:id="p.158">„Zločinska fizijonomija! Tat ... razbojnik ... požigalec še boš! ... Ne ene moje poteze nima v obrazu, ne ene moje lastnosti v svojem značaju! ...“</p>
+         <p xml:id="p.159">Baš to zadnje je večkrat ponavljal. Moja mati mu je včasi ugovarjala, lzkušala ga je prepričati, da se moti, da nima prav. Opozorila ga je <pb facs="#WIKI00316-016" n="16" xml:id="pb.016"/> na to in ono sličnost v njegovem in mojem obrazu, na to in ono podobno potezo v najinih značajih. „Ti si slep,“ mu je rekla večkrat, „če ne vidiš tega!“</p>
+         <p xml:id="p.160">A bila je zaman vsaka beseda!</p>
+         <p xml:id="p.161">In če se je pokazal kdaj malce dobrega, je divjal potem prav gotovo še huje nego prej. Če se je v istini kdaj kesal svoje krutosti, je dvomno, popolnoma pa sem uverjen o tem, da se je kesal, če je privoščil meni ali materi prijazno besedo in če je potekla kdaj kaka ura, da ni rohnel na naju! ...</p>
+         <p xml:id="p.162">Bil je čuden človek ta moj oče! Drugim ljudem nasproti ga je bila sama prijaznost, sama sladkost, ali proti nama, ki sva bila njegova, ni poznal najmanjše ozirnosti. Za druge ljudi je kmalu začutil srce, nasproti meni in materi moji ni bil nikoli dovolj krut, kajti prav videlo se je, kako se trudi, da bi z vsakim dnem bolj občutila njegovo neusmiljenost ...</p>
+         <p xml:id="p.163">Bil je čuden in mogoče, da mu delam v kakem pogledu krivico. Toda mojega spoštovanja, moje ljubezni in mojega usmiljenja ne zasluži! ... Včasi mi je prišlo na misel: Tvoj oče ni normalen, kakor nisi ti, kajti čutim, da je nekaj nenavadnega, groznega v meni. Včasi sem se spomnil: morda pa je res bolan, kakor je večkrat trdila mati. Da, bili so hipi, ko se mi je zdel beden in se mi je skoro smilil, hipi, ko sem občutil kot greh, da ga sovražim ... Morda res ni mogel drugače? ...</p>
+         <p xml:id="p.164">Toda če je bil prijazen proti drugim ljudem, če se je premagoval nasproti drugim ljudem, zakaj ne proti nama? In če bi bil tudi res imel kaj vzroka, biti nezadovoljen, tako bi ne bil smel početi! Ah, s kako slastjo je gonobil oba dušno in telesno! Ne, on ni imel srca! In če ga je komu kazal, je lagal! Ne! Za tiste redke trenotke, ko me ni tepel in ošteval, mu nisem hvaležen! Občutil sem zaradi tistih hipov, ko me je pustil na miru, ko se je vedel človeško proti meni, le še bridkeje razloček med življenjem, kakršno bi bil lahko živel, in življenjem, kakršno sem imel po njegovi zaslugi! Ne, nobenega, prav nobenega povoda nimam, biti mu hvaležen! Če je bil kdaj dober z menoj, je pokazal samo, da bi tudi on lahko bil človek. Ali on ni hotel.</p>
+         <p xml:id="p.165">O, sovražim ga, sovražim, kakor je sovražil on mene! ...</p>
+         <p rend="center" xml:id="p.166">*</p>
+         <p xml:id="p.167">Polagoma sem bil začel pojmiti razmerje med svojim očetom in svojo materjo. Dolgo sem se vdajal apatično usodi kakor otrok brez pameti. Privadil sem se bil krutim izbruhom očetovim tako, <pb facs="#WIKI00316-017" n="17" xml:id="pb.017"/> da sem jih smatral za nekaj samo ob sebi umevnega, dasi jih nisem občutil zaradi tega nič manj bridko. A pozneje, ko sem hodil že tri, štiri leta v šolo in sem mislil samostojneje, sem začel razmotrivati ves položaj z nekim preudarkom ter izpraševati se, odkod ta nesporazumnost med očetom in materjo, odkod to sovraštvo očetovo do mene ...</p>
+         <p xml:id="p.168">Začel sem iskati vzrokov, začel zasledovati vir vse te nesreče ... Opazil sem tuintam kaj, dobil zvezo med temi in onimi besedami, ki sem jih včasi samo tako mimogrede ujel, razlagal si tudi že marsikaj, a da bi bil doznal vso resnico, za to mi je nedostajalo tistikrat še prave razsodnosti.</p>
+         <p xml:id="p.169">Nekega večera so bila ostala vrata med sobo, kjer sem spal jaz in kjer sta spala oče in mati, napol odprta. Jaz nisem mogel zaspati. Spanje, ki se me zdaj tako redko in tako nerado usmili, se me je trdovratno izogibalo že tistikrat. Oče je prišel pozno domov in bil je, kakor sem posnel iz načina njegovega govorjenja, precej vinjen. Nagovarjal je zopet enkrat prijazno mater, celo laskal se ji je, česar prej nikdar nisem čul. Njegov glas je bil mehak in tresel se mu je malo. Bil je videti ginjen ...</p>
+         <p xml:id="p.170">„Vidiš, jaz nisem tako brezsrčen, nisem tako trd in krut, kakor misliš ti!“ tako je začel. „Nisem tako krut! O, tudi jaz trpim! ... Tudi jaz trpim in včasi uvidevam, da ni prav tako in da bi moralo biti drugače ...“</p>
+         <p xml:id="p.171">„Ah, da, uvideti bi moral, uvideti, da mi delaš krivico!“ je pripomnila moja mati. Na glasu sem ji poznal, kako je srečna! On pa je odgovoril:</p>
+         <p xml:id="p.172">„Da, jaz uvidevam često in v takih hipih prisegam, da bom drugačen. Toda če se spomnim zopet ...“</p>
+         <p xml:id="p.173">„O, da bi si le že iz glave izbil tisto! ...“</p>
+         <p xml:id="p.174">„Da, da! ... Toda kaj, ko pa si izbiti ne morem! Ne, tega si ne izbijem iz glave nikdar, dokler se ne prepričam! Sicer pa ... kar je, to je! — Tudi če bi res bilo tisto ... samo če bi vedel, pri čem sem ... samo če bi priznati hotela in bi me ne puščala v teh groznih ... groznih dvomih! —“</p>
+         <p xml:id="p.175">Čutil sem, kako se je usedel k njej na posteljo, in zdelo se mi je, da se je sklonil k njej ter jo poljubil. —</p>
+         <p xml:id="p.176">„Vidiš, Ana ...“ je hotel nadaljevati, toda mati mu je prestrigla besedo, rekoč: „Ali ti nisem zatrjevala že stoinstokrat pri vsem, kar je svetega, da tvoje sumnje nimajo nikake, prav nikake podlage, da se motiš, da si vse tisto samo domišljuješ ...“</p>
+         <pb facs="#WIKI00316-018" n="18" xml:id="pb.018"/>
+         <p xml:id="p.177">„Storila si to, vem, prisegla si mi že, vem ... ali stvar vendar še ni pojasnjena ...“</p>
+         <p xml:id="p.178">„Ah, že zopet začenjaš, že zopet začenjaš! O, prosim te, imej usmiljenje z menoj! Kajti jaz ne morem nič več poslušati tega, nič več! Zblaznim, ako ...“</p>
+         <p xml:id="p.179">„Ne, Ana, čakaj! ... Čakaj in poslušaj me! ... Ana, čuj, bodi dobra in — povej mi resnico! ...“</p>
+         <p xml:id="p.180">„Če pa sem ti jo že tolikrat povedala! ...“</p>
+         <p xml:id="p.181">„Ne, ne, ne! Nisi je, Ana! ... Moja ljuba, draga Ana! ... Govori in povej! Nič drugega nočem kakor resnico in naj bo še tako grenka! Povej mi vse, kako je bilo, kako se je zgodilo! ... Povej in jaz ti bom verjel! ... On te je zapeljal pač ...“</p>
+         <p xml:id="p.182">„Če pa je vse to gola domišljija! O Bog, o Bog! ...“</p>
+         <p xml:id="p.183">„Ni, ni! Ta otrok, s temi potezami v obrazu, s tem čudnim čelom ... ne, ne, Ana, to ne more biti, moj otrok, ti ne govoriš resnice! Toda Ana, bodi dobra in povej! Nič se ne boj! Glej, jaz bom precej boljši, kakor hitro zvem resnico! Mnogo raje te bom imel potem! In če bi se tudi ločila, kaj za to? Je li mar to kako življenje, ki ga živiva zdaj? ...“</p>
+         <p xml:id="p.184">„O pač res!“</p>
+         <p xml:id="p.185">„Zato pa povej, Ana, prosim te!“</p>
+         <p xml:id="p.186">Njegov glas je bil mehak in zdaj sem natanko čul, da jo je poljubil.</p>
+         <p xml:id="p.187">„Ali če ti pa nimam ničesar, prav ničesar povedati!“</p>
+         <p xml:id="p.188">„Vidiš, vidiš, kako si trdovratna! Povej mi vsaj, zakaj si tistikrat tako zardela, ko si prišla ž njim — z mojim prijateljem ven iz gozda in sem vaju srečal?“</p>
+         <p xml:id="p.189">„Ali jaz vem, zakaj? ... Sicer pa — saj nisem zardela! Tisočkrat sem ti že rekla, da ne! Tudi to si samo domišljaš, kakor si domišljaš vse mogoče druge stvari! ...“</p>
+         <p xml:id="p.190">„Ne, ne, ne — ne premotiš me! Zardela si prav docela! O, vidiš, ne govoriš dvakrat enako! Zapletaš se venomer v protislovja ...“</p>
+         <p xml:id="p.191">„Jaz ne morem pomagati, ako se, a to vem, da sem nedolžna! ...“</p>
+         <p xml:id="p.192">Oče je izpremenil glas: „Ana! — — Jaz sem si zapisal dan, ko sem vaju zalotil, in moj račun se — ujema!“</p>
+         <p xml:id="p.193">Pri teh besedah pa je moja mati pobesnela. Bil jo je z večnim mučenjem pripravil tako daleč, da se ni mogla več premagovati, kakor se je premagovala v prejšnjih časih ...</p>
+         <pb facs="#WIKI00316-019" n="19" xml:id="pb.019"/>
+         <p xml:id="p.194">„O ti satan ... ti satan!“ je vzkliknila ječe. — „Kako me trpinčiš, kako me mučiš! To je hujše nego v peklu! O Bog se mene usmili! ... Proč, satan, proč! ...“</p>
+         <p xml:id="p.195">Jaz sem bil vstal in se priplazil k vratom in videl sem, kako ga je pahnila od sebe.</p>
+         <p xml:id="p.196">Tedaj pa je zdivjal še on. „Vlačuga, vlačuga!“ je začel kričati. In obsipajoč jo še z gršimi priimki, je planil nanjo in jo začel daviti. Meni je zadrgnil strah grlo, da nisem mogel spraviti glasu iz njega. Nekaj minut je preteklo, preden sem si opomogel toliko, da sem zaklical:</p>
+         <p xml:id="p.197">„Oče — oče! Kaj delate — oče?“</p>
+         <p xml:id="p.198">Moj glas je bil nenavaden, meni samemu je bil tuj, da se mi je zdelo, kakor bi ne bil moj. Morda je bilo to vzrok, da se je oče tako hitro streznil. Osupnil je in smrtna tišina je zavladala za nekaj hipov v sobi. Ko pa se je zavedel, ko me je opazil med vrati, je planil srdit k meni ter me sunil, da sem odletel na sredo sobe ter se zvalil po tleh. — —</p>
+         <p xml:id="p.199">Tako je počel moj oče! Ha, in on je bil dostojanstvenik, on je bil ugleden mož! Drugi dan se je oblekel v uniformo, delal resen in svetohlinski obraz ter se zgražal nad surovostjo kmetov! — —</p>
+         <p rend="center" xml:id="p.200">*</p>
+         <p xml:id="p.201">Moja duša je žalostna do smrti! — — —</p>
+         <p rend="center" xml:id="p.202">*</p>
+         <p xml:id="p.203">O Gabrijela, ti golobica plaha, ti sladki sen v brezdanji noči mojega bednega življenja, vsak čas ... vsak čas se moram zateči k tvojemu spominu, da ne omagam, da se ne zgrudim! ...</p>
+         <p xml:id="p.204">O, bodi blagoslovljena vsaka tvoja stopinja! Posvečen prah, ki se ga dotika tvoja nežna nožica!</p>
+         <p xml:id="p.205">Ah, kako živo, kako živo te vidim še vedno pred seboj. Tista dražestna glavica tvoja, obrobljena od mehkih, svilnatih las ... na glavici rumeni slamnik s pisanimi trakovi in živobojnimi rožami ... potem tisto tvoje jasno čelo, pod katerim so se zarile najlepše oči, kar jih je kdaj videl svet, in tista ljubka jamica sredi tvojega žametastega lica — ah, kako živo, kako živo mi vstaja še vedno vse to pred očmi! Potem pa tista ... toda nič ... nič! — —</p>
+         <p xml:id="p.206">In vendar! Včasi mi še zahrepeni srce, včasi mi še zakoprni in zaplače po onem lepem, krasnem, kar bi imel lahko, pa je za večno za večno izgubljeno zame! Včasi me premagajo želje, — kako bi se jim mogel ustavljati, kako se jih ubraniti? Vdam se jim popolnoma!</p>
+         <pb facs="#WIKI00316-020" n="20" xml:id="pb.020"/>
+         <p xml:id="p.207">In naj bo razočaranje potem še grenkejše — srečen sem vsaj tisti hip!</p>
+         <p xml:id="p.208">V vseh možnih slikah te vidim! In z vsako sliko raste moje razkošje in moja slast! Vseh tvojih oblek, kar si jih kdaj imela, se spominjam. Spominjam se natanko vseh faz tvojega razcvitanja. Vidim te pred sabo še kot čisto majhno dekletce, a vidim tudi kot dozorevajočo devico. Dobro se spominjam, kako si se izpreminjala od leta do leta, kako si rasla, kako je bilo tvoje lice čimdalje lepše, pogled tvojega očesa čimdalje milobnejši, vse na tebi od dne do dne mikavnejše ...</p>
+         <p xml:id="p.209">Z vsako novo sliko raste moje razkošje in moja slast — kakor je rasla od leta do leta bolj moja ljubezen do tebe, o Gabrijela!</p>
+         <p xml:id="p.210">A najbolj sem te ljubil tedaj, ko je bilo že vse izgubljeno!</p>
+         <p xml:id="p.211">Včasi razmišljam, kaj me je bolj očarovalo, ali tvoje telo, ali duh tvoj? Čudovite so bile včasi besede, ki so prihajale iz tvojih ust. Kakor velikonočno zvonjenje so zvenele in bile so polne skrivnostne poezije. Z neodoljivo silo so učinkovale včasi name in navdajale me z nekim nepopisnim čuvstvom, polnim sladkobe. A nič manjše slasti, nič manjše radosti nisem občutil, kadar sem zrl za teboj in opazoval gube tvoje lahne obleke, ki je valovila, zapletala se in razpletala okrog tvojega plemenitega telesa, opazoval mehke linije, ki so izpreminjajoč se pri vsakem gibljaju — plavale okrog tvojega vitkega života!</p>
+         <p xml:id="p.212">O Gabrijela, kaj bi bilo moje življenje brez teh spominov! Kaj bi bil jaz brez tistih tvojih velikih, temnih oči, iz katerih je odsevalo toliko usmiljenja, toliko dobrote, toliko rahločutja? ...</p>
+         <p xml:id="p.213">Kaj bi bil jaz, če bi ne srkal moči iz misli nate, ti angelsko, ti sladko, ti blaženo bitje! ...</p>
+         <p rend="center" xml:id="p.214">*</p>
+         <pb facs="#WIKI00316-021" n="21" xml:id="pb.021"/>
+         <p xml:id="p.215">Nikdar se niso borila v mojih prsih morda različnejša čuvstva kakor tistikrat, ko je bilo treba iti z doma.</p>
+         <p xml:id="p.216">Ljudsko šolo sem dovršil, a v mestu, kjer je bil nastavljen moj oče, ni bilo srednjih šol, moral sem torej drugam.</p>
+         <p xml:id="p.217">Z doma, stran od svojega očeta, ven iz grozne, temne ječe, kjer me je davila železna pest — ah, kaka sreča!</p>
+         <p xml:id="p.218">Jokal sem tistikrat, jokal prve solze radosti v svojem življenju!</p>
+         <p xml:id="p.219">Toda hipu prvega veselja in prekipevajoče radosti je sledil trenotek poln najbridkejšega razočaranja.</p>
+         <p xml:id="p.220">Domislil sem se matere! Kaj naj počne ona brez mene? Koga se bode oklepala v urah obupa in žalosti? Dozdaj, ako ji je bilo hudo, je vzela mene v svoje naročje, in odleglo ji je. Vsa tolažba sem ji bil jaz, ki sem čutil ž njo, ki ... ki sem jokal ž njo in jo prosil tolikrat:</p>
+         <p xml:id="p.221">„Mama, ljuba mama, ne bodi žalostna!“</p>
+         <p xml:id="p.222">Kaj bode počela zdaj, revica, komu bo tožila? Saj ni vedel nihče, nihče razen mene za njene križe in težave. Prikrivala je skrbno svoje srčno gorje. Raje bi bila umrla, nego izdala komu, kaj se godi. Veselo se je delala, prepričati je hotela ves svet, da je srečna — zaradi ugleda! Nihče ni vedel za njeno trpljenje, nikomur ni mogla torej tožiti, od nikogar pričakovati tolažbe! In kdo bi jo branil, kdo bi jo rešil, ako bi se primerilo zopet kaj takega kakor tisti strašni večer? ...</p>
+         <p xml:id="p.223">In Gabrijela! Kako naj zapustim njo, ki sem bil tako navezan nanjo? Kdo bode zdaj njen prijatelj, komu se bode poslej smehljala, komu izkazovala svojo dobrohotnost? ...</p>
+         <p xml:id="p.224">Ono veliko veselje, ki sem ga občutil prvi hip ob zavesti, da bom varen očetove krutosti, se je umaknilo prepričanju, da ne morem in ne smem z doma!</p>
+         <p xml:id="p.225">V svoji zdvojenosti sem tekel k materi. Bil je baš oče pri njej in govorila sta baš o stvari, ki je povzročala meni toliko skrbi. Oče je osorno godrnjal:</p>
+         <pb facs="#WIKI00316-022" n="22" xml:id="pb.022"/>
+         <p xml:id="p.226">„Saj itak ne bo nič! Toda treba poskusiti pač zaradi drugih ljudi! ...“</p>
+         <p xml:id="p.227">„Zakaj bi ne bilo? Saj tukaj je vendar dobro zdelaval!“ je ugovarjala mati.</p>
+         <p xml:id="p.228">„Ah, kaj! ... Tukaj je zdelaval zaradi mene! Saj vemo, kako so take stvari! Če bi bil on po naključju kakega kmeta sin, bi bilo malo druguče! Kaj bo ... Njegov obraz poglej! Jaz samo tega obraza videti ne morem! ...“</p>
+         <p xml:id="p.229">Odšel je jezno iz sobe. Jaz pa sem skočil k materi, oklenil se njenega vratu in vzkliknil:</p>
+         <p xml:id="p.230">„Mati, jaz ne grem — jaz ne grem nikamor!“</p>
+         <p xml:id="p.231">Ona pa mi je prigovarjala:</p>
+         <p xml:id="p.232">„Moraš, moraš iti! Za vse bo bolje, ako greš! Oče se bo pomiril, ako greš, in več ne bo tak, tudi z mano ne ...“</p>
+         <p xml:id="p.233">„Pa zakaj me oče tako sovraži?“</p>
+         <p xml:id="p.234">„Saj te ne sovraži! Oče ni zdrav ... sicer pa ti ne razumeš tega! ... Le pojdi in pridno se uči! Če prineseš dobro izpričevalo domov, če se oče prepriča, da se je motil, boš videl, še rad te bo imel!“</p>
+         <p xml:id="p.235">„Ali res, mati?“</p>
+         <p xml:id="p.236">„Prav gotovo!“</p>
+         <p xml:id="p.237">Moje oči so zastale strmeč na njenem dobrem obrazu in zamislil sem se v veliko srečo, ki me je čakala. Ah, jaz bodem imel očeta, takega očeta, kakršne imajo drugi otroci, očeta, ki me ne bo tepel, ampak božal, ki mi bo delil darove, ki me bo ljubil ... Kaka sreča! ... Srce mi je plavalo v rajskem veselju ob misli na to srečo. In ko sem se bil nasanjal, sem se sklonil k materi, poljubil jo ter ji ginjen zašepetal:</p>
+         <p xml:id="p.238">„Da, mama, priden bom, priden, da bo papa rad imel mene in — tebe!“ — —</p>
+         <p xml:id="p.239">Prazne sanje! — —</p>
+         <p rend="center" xml:id="p.240">*</p>
+         <p xml:id="p.241">Prazne sanje!</p>
+         <p xml:id="p.242">Moj oče ni imel srca, moj oče ni bil človek! ...“</p>
+         <p xml:id="p.243">Ah, kako sem se trudil, kako se mučil, da bi si priboril njegovo ljubezen! Vsi drugi so šli spat, jaz pa sem bdel pri luči in ponavljal eno in isto reč neštetokrat, da bi ne izpustil kake besedice, ako bi bil drugi dan morda vprašan v šoli. Moči so mi pešale, jaz pa sem se učil, da bi izpolnil materi željo, da bi bil <pb facs="#WIKI00316-023" n="23" xml:id="pb.023"/> dosegel, po čemer mi je tako hrepenelo srce — ljubezen svojega očeta! ...</p>
+         <p xml:id="p.244">In če sem se naposled ves izmučen ulegel, še dolgo nisem zaspal. Mislil sem o tem, kako bo, ko me oče ne bo več sovražil, kako mirno in prijetno bode potem doma. Često sem se razjokal samega veselja, ako sem se zamislil v srečo, ki me je čakala. Včasi sem jokal celo v sanjah in dogodilo se je, da se mi je utrnila solza z vek, ko sem se prebudil zjutraj in odprl oči ...</p>
+         <p xml:id="p.245">Učil sem se tako, da me je začela gospodinja, pri kateri sem stanoval, goniti od knjig, ker se je bala za moje zdravje.</p>
+         <p xml:id="p.246">„Saj tebi se ni treba tako učiti!“ je rekla večkrat. „Tvoj oče je veljaven mož in denar ima ... Ubogajo in trudijo naj se reveži, ker jim je tako usojeno!“</p>
+         <p xml:id="p.247">Abotnica!</p>
+         <p xml:id="p.248">No, jaz se nisem dal pregovoriti. Učil sem se prej kot slej, učil tako, da se me je lotilo neko mučno, nezdravo dušno razpoloženje. Niti trenotek nisem mogel biti brez knjige. Vedno in vedno sem jo imel v roki, še med jedjo sem se učil. Nikdar se nisem šel igrat, nikdar izprehajat. Tudi če sem vse znal, sem vedno ponavljal, da bi mi ne izpodletelo in da bi bil konec tak, kakor si ga je želela moja mati in kakor je bilo treba, da si pridobim naklonjenost očetovo ...</p>
+         <p xml:id="p.249">In res, dobil sem izmed vseh učencev tistega razreda najboljše izpričevalo!</p>
+         <p xml:id="p.250">Ah, s kakimi občutki sem se vozil tistikrat na počitnice proti domu! Kako sem sanjal ves čas o tem, kaj me čaka! Mati bo jokala od sreče in veselja! Kako ne, saj so imeli zdaj tudi zanjo nastopiti lepši časi! Oče se bode najprej pač samo čudil. A polagoma se mu omehča srce in stopil bo k meni in me pritisnil na svoje srce. Potem pa se obrne k materi in objame tudi njo v znamenje, da je zdaj konec tistega, da je zdaj sklenjen za večno mir med njima. Ah, kako krasno! In Gabrijela — o gotovo bo tudi njo veselilo, da sem se tako odlikoval, in še ponosna bo morda na svojega prijatelja! ...</p>
+         <p xml:id="p.251">Take misli so mi polnile glavo in nestrpno sem pričakoval trenotka, ko bi imel stopiti pred očeta in mater, ko bi se mogel pokazati Gabrijeli ... Vse prepočasi mi je šel voz in želel sem si peroti, da bi mogel premeriti v naglici razdalje, ki me je ločilo od moje sreče. Neprestano sem izpraševal, koliko časa se bomo še vozili, in čim dalje je šlo, tem teže sem čakal, tem nestrpnejši sem bil. Ko pa je poštni voz zagrmel čez leseni most pri vhodu rodnega <pb facs="#WIKI00316-024" n="24" xml:id="pb.024"/> mi mesta, sem mislil, da mi srce raznese prsi, tako močno mi je utripalo. Z veliko težavo sem stopil z voza. Kakor trepetlika sem se tresel po celem životu. Prišedši na dvorišče, sem se ozrl najprej gori, ne zagledam li morda kje Gabrijele. A ni je bilo. Potožilo se mi je. Imel sem to za slabo znamenje. A vendar sem hitel navzgor, kolikor so mi dopuščale noge, hitel sem k materi, kateri sem imel prinesti tako veselo vest, prinesti srečo, odrešenje.</p>
+         <p xml:id="p.252">„Mati, mati!“ sem vzkliknil, ko sem bil vstopil v sobo.</p>
+         <p xml:id="p.253">Skočil sem k njej, oklenil se njenega vratu ter vihtel v roki izpričevalo, katero sem bil že med potjo vzel iz žepa. „Mati, tu je izpričevalo!“ sem vzklikal, a pri tem sem ihtel, ihtel na glas — morda prevelike sreče, ker je imelo biti zdaj konec moje bridkosti, morda tudi, ker sem se zavedal trpljenja in žrtev, s katerimi sem si bil priboril to izpričevalo ...</p>
+         <p xml:id="p.254">In tudi mati je jokala ...</p>
+         <p xml:id="p.255">„O ti dobro, dobro dete moje!“ je vzdihovala, poljubovala me in mi brisala solze z lic ... „O ti dobro, dobro dete moje! ...“</p>
+         <p xml:id="p.256">„Kdaj pride oče?“</p>
+         <p xml:id="p.257">„Mislim, da bo vsak čas doma!“</p>
+         <p xml:id="p.258">Ah, kako težko sem ga čakal! Saj se je moralo pričeti z njegovim prihodom novo, povsem novo, lepo življenje! —</p>
+         <p xml:id="p.259">Dolgo ga ni bilo, kakor bi se bil nalašč zakasnil, a naposled je vendar prišel. Bil je čemeren, nejevoljen. Komaj pogledal me je, ko sem ga pozdravil. Trepetaje sem stopil k njemu in mu izročil izpričevalo, od katerega sem si obetal tolikega učinka.</p>
+         <p xml:id="p.260">„Tu je izpričevalo, oče!“</p>
+         <p xml:id="p.261">A on se je ozrl samo za hip vanje, potem pa ga je zmrdujé se odrinil od sebe, rekoč:</p>
+         <p xml:id="p.262">„Kaj če mi to!“</p>
+         <p xml:id="p.263">Kmalu nato je spet odšel. Jaz sem stal kakor okamenel na svojem mestu. Vsi moji sladki upi, vse moje lepe nade so bile hipoma uničene. In tudi materine — videlo se ji je na obrazu!</p>
+         <p xml:id="p.264">Molčala sva dolgo. Materi so se usipale zopet solze iz oči, jaz pa nisem jokal več. Pri mojem srcu se je bilo nekaj zgodilo. Nekaj kakor kamen trdega sem začutil tedaj v svojih prsih.</p>
+         <p xml:id="p.265">„Vidiš, mama, vseeno je!“ sem naposled izpregovoril.</p>
+         <p xml:id="p.266">Ona me je začela tolažiti. Prigovarjala mi je, da naj bom še nadalje priden, da prej ali slej oče že uvidi, da mi je delal krivico.</p>
+         <p xml:id="p.267">Jaz pa sem vedel, da so to prazne sanje in da je vseeno! —</p>
+         <p rend="center" xml:id="p.268">* * *</p>
+         <pb facs="#WIKI00316-025" n="25" xml:id="pb.025"/>
+         <p xml:id="p.269">Čim starejši in razumnejši sem postajal, tem bolj sem trpel vsled učinka onih groznih besed.</p>
+         <p xml:id="p.270">„Tat ... razbojnik ... požigalec!“</p>
+         <p xml:id="p.271">Vsaj potem, ko sem mu dokazal, da imam dobro voljo, naj bi bil uvidel, naj bi bil drugačen proti meni ... Toda ne! Ne — moj oče ni imel srca, moj oče ni bil človek! Sovražil me je in imel je neko srčno potrebo, da je žalil svojo ženo, mater mojo. Na kolenih ga je nekoč prosila, naj mi ne daje takih imen, a od tistih dob mi jih je dajal še z večjim veseljem, pač kakor bi mu bilo v posebno zadoščenje, da krvavi moji dobri materi srce!</p>
+         <p xml:id="p.272">Muke, ki jih je občutila ona spričo tolike neusmiljenosti, so morale biti grozne, grozne ... Čimdalje manj moči je imela, čimdalje manj se je mogla premagovati in čimdalje večkrat se je zgodilo, da je pobesnela. Pulila si je lase z glave v svoji nepopisni boli in ona, tako tiha, tako ponižna in krotka, je začela v takih hipih kričati in razbijati! Butala je z glavo ob zid in več kot enkrat ji je izvil oče nož iz rok, da bi si ne prizadela kaj hudega.</p>
+         <p xml:id="p.273">Morda bi ji ga ne bil; morda bi mu bilo celo prav, če bi si bila kaj prizadela; toda on, tak odličnjak in dostojanstvenik, se je pač bal govoric!</p>
+         <p xml:id="p.274">A tudi name so one besede čimdalje huje vplivale.</p>
+         <p xml:id="p.275">Ne da bi si bil na počitnicah odpočil! Vračal sem se le še bolj truden, strt in oslabljen v šolo. Godilo se mi je čudno. Čimdalje bolj so se me lotevale dvojbe, čimdalje pogosteje se mi je zdelo, kakor bi bilo res nekaj onih kali v meni ... kakor bi moj oče prav imel ... kakor bi mi videl v srce in kakor bi bilo njegovo sovraštvo do mene opravičeno ...</p>
+         <p xml:id="p.276">Vedno zopet mi je stopil pred oči oni dogodek, ko sem bil s svojim tovarišem sam pod streho in ko se me je polaščala satanska misel, da bi ga pahnil z bruna. Spomin na to me je privedel do prepričanja, da sem res zloben in zmožen najhujšega! Toda zdaj vem, da po naravi nisem bil tak. Saj sem bil vendar sin svoje matere, ki je bila sama dobrota! Ne, zlobnega me je napravil on, ki me je zastrupil s svojimi besedami. Zdaj vem to, a tistikrat nisem vedel! Zdaj vem, da je bilo tisto le obup, ki je vzklil iz grozne ogorčenosti mojega srca ... A takrat sem mislil, da sem res rojen za to, da učinim kaj zločestega ...</p>
+         <p xml:id="p.277">Ah, ta misel je bila strašna, strašna! — — Ta misel je bila grozna, zlasti tedaj, če sem se spomnil svoje matere, spomnil Gabrijele ... —</p>
+         <pb facs="#WIKI00316-026" n="26" xml:id="pb.026"/>
+         <p xml:id="p.278">Tako sem padal iz muke v muko in mojemu trpljenju ni bilo konca! ...</p>
+         <p xml:id="p.279">Včasi se mi je zdelo celo, kakor da sem res že kaj zakrivil. Bežal sem pred ljudmi, hodil po ovinkih in potikal se po skrivališčih. Bal sem se, da bi mi ljudje na obrazu ne čitali, kaj sem hudega storil. In niti v ogledalo si nisem upal pogledati; sam sem se bal tistega obraza, katerega mi je očital vedno oče ...</p>
+         <p xml:id="p.280">„Zločinska fizijonomija!“ — Ah! ...</p>
+         <p xml:id="p.281">In po noči — kake sanje so me plašile vedno! Vedno so bili redarji za menoj, vedno so me lovili orožniki! Sanjalo se mi je vse to tako živo, da sem se čudil, ko sem se zjutraj zbudil v svoji postelji ...</p>
+         <p xml:id="p.282">No, slutil sem nemara, da se prebudim nekoč drugje!</p>
+         <p xml:id="p.283">Ha, jaz razbojnik in ubijalec! Jaz, ki sem imel tako mehko, tako usmiljeno srce! ... Nekoč je bila padla majhna mačica s strehe na tla in se poškodovala. Priteklo ji je malo krvi iz gobčka. Drugi otroci so se smejali in še suvali so ubogo živalico, jaz pa, videč kri, sem jokal na ves glas, bolj, kakor če bi se bilo meni kaj pri godilo! ...</p>
+         <p xml:id="p.284">Jaz razbojnik in ubijalec, ki niti črva v prahu nisem mogel pohoditi! ...</p>
+         <p xml:id="p.285">Jaz zločinec, ki nisem bil nikdar bolj vesel, nego če sem mogel storiti komu kaj dobrega! ...</p>
+         <p xml:id="p.286">Vsega tega sem se zavedal, in vendar se mi je vračalo vedno zopet ono grozno stanje mučnih dvojb in trpke negotovosti. Godilo se mi je kakor božjastnemu človeku, ki se ga vedno zopet loteva bolezen. V presledkih je zdrav, a kadar ga napade — kak revež je! ...</p>
+         <p xml:id="p.287">Tak revež sem bil jaz!</p>
+         <p xml:id="p.288">Tudi jaz sem bil bolan in sem še bolan, o, kako bolan!</p>
+         <p xml:id="p.289">A vsega tega kriv je moj oče! ...</p>
+         <p rend="center" xml:id="p.290">*</p>
+         <pb facs="#WIKI00316-027" n="27" xml:id="pb.027"/>
+         <p xml:id="p.291">Nekaj čudnega, dvoumnega je to naše življenje s svojimi brezštevilnimi pojavi, s svojimi iz temnih globin prihajajočimi etnocijami ... s svojo energijo in — svojo onemoglostjo ...</p>
+         <p xml:id="p.292">Človek hoče in mora hoteti, a vendar gre vse svojo pot! ...</p>
+         <p xml:id="p.293">Nekaj lepega je življenje, dokler človeku srce še hrepeni, a življenje postane grenko breme, kadar je v prsih izvibrirala zadnja želja — kadar je apatija izpodrinila življenski nagon ...</p>
+         <p xml:id="p.294">Potem je življenje samo še mehanizem brez veljave, mehanizem brez nobene vrednosti ...</p>
+         <p xml:id="p.295">Tak mrtev mehanizem je moje življenje. Le nekaj je še, kar ga hrani, kar mi brani, da mu ne ustavim teka, in to je — maščevalnost!</p>
+         <p xml:id="p.296">Ko bi ne bilo želje po osveti, ah, potem, kako rad bi se iznebil tega bremena, kako rad bi se odpravil tja, od koder ni vrnitve ...</p>
+         <p xml:id="p.297">Pozabiti, ničesar vedeti — kaka sreča! ...</p>
+         <p rend="center" xml:id="p.298">*</p>
+         <p xml:id="p.299">Včasi sem dvojil o vsem ... dvojil celo, sem li jaz res jaz ... je li res kdaj živela Gabrijela, res živela in trpela moja mati ... dvojil o vsej preteklosti svoji ... o vsem tem, kar sem bil doživel ... kar me je kdaj mučilo ali veselilo ... Vse se mi je videlo kakor v sanjah ... nekaj motnega, neprozornega je obdajalo moje misli ...</p>
+         <p xml:id="p.300">Ni čudno potem, da sem dvojil tudi o svoji poštenosti in dvojil celo o poštenosti lastne matere! ...</p>
+         <p xml:id="p.301">Kakor bi se bile megle zgrnile nad mojo glavo in kakor bi se mi bila težka skala zvalila na prsi, tako mi je bilo vselej, kadar sem se spomnil onega večera, ko je skušal oče spraviti iz matere tisto skrivnost, ko je hotel zvedeti njen greh ... Ko sem bil začel pojmiti vso stvar in sem se bil izpametoval toliko, da sem umel, kaj bi bil rad vedel oče, me je često nadlegovala misel, da je mati morda res kaj zakrivila in da je to vzrok očetove krutosti in naše nesreče.</p>
+         <pb facs="#WIKI00316-028" n="28" xml:id="pb.028"/>
+         <p xml:id="p.302">Včasi me je bilo sram takih misli. Čutil sem, da grešim zoper spoštljivost, ki sem jo dolžan svoji materi, in bil sem prepričan, da je nemogoče, da bi bila moja dobra mati storila kaj takega, kar bi se ne skladalo z nravnostjo in dolžnostmi zakonske žene. A vedno zopet, vedno zopet sem začel dvojiti. Tičala je čudna logika v načinu, kako sem izvajal tistikrat eno stvar iz druge. Svojega očeta sem črtil in bila bi mi prava slast, slišati, da ni — moj oče! Na drugi strani pa bi se mi bilo krčilo srce, če bi bil doznal, da moja mati ni tista vzorna ženska, za kakršno sem jo vedno smatral. Vsekakor pa sem hotel zvedeti resnico! ... Kajti srce mi ni dalo miru ...</p>
+         <p xml:id="p.303">Bil sem zopet na počitnicah; če se ne motim, je bilo to po peti šoli. Oče je bil nekega dne zopet grozen. Vse, kar mi je bil že kdaj rekel grdega, je ponovil in jaz sem bil do skrajnosti razjarjen in užaljen. Zvečer pa sva bila z materjo sama doma. In to priliko sem hotel porabiti in jo vprašati. Ali dolgo mi ni hotela beseda iz ust. Težko je otroku tako vprašanje materi nasproti! Kakor bi bil slutil, kako zelo jo bo bolelo! Toda negotovosti nisem mogel prenašati več in naposled sem se ujunačil. Pokleknil sem pred njo na tla, naslonil glavo v njeno naročje in jo zaprosil:</p>
+         <p xml:id="p.304">„Mati ... mati ... povejte mi, ali ste krivi?“</p>
+         <p xml:id="p.305">Kakor bi ji bil zasadil nož v srce, je odskočila s svojega sedeža in samega presenečenja, morda tudi bridkosti, ni mogla dolgo ničesar odgovoriti.</p>
+         <p xml:id="p.306">„Sin!“ to je bila edina besedica, ki jo je po dolgem času s trepetajočim glasom spravila preko ustnic.</p>
+         <p xml:id="p.307">A jaz sem prosil dalje:</p>
+         <p xml:id="p.308">„Odpustite, odpustite, mati, a meni bo potem laglje pri srcu, ko bom vedel resnico! ...“</p>
+         <p xml:id="p.309">Kakor bi bila uvidela istinitost mojih besedi, se je potolažila. Sedla je nazaj in rekla s solznimi očmi:</p>
+         <p xml:id="p.310">„Jaz sem nedolžna!“</p>
+         <p xml:id="p.311">Meni se je odvalil kamen od srca, a obenem me je premagala ogorčenost do tiranskega človeka in vzkliknil sem:</p>
+         <p xml:id="p.312">„O zakaj ... Zadnjega postopača sin bi raje bil, o mati! ...“</p>
+         <p xml:id="p.313">Ona se je vzgrozila. „Molči, molči! ... Ne govori tako in ne greši! ... Trpeti morava in moliti zanj, moliti, druge pomoči ni! ...“</p>
+         <p xml:id="p.314">Razjokal sem se. Nepopisna je bila bol mojega srca.</p>
+         <pb facs="#WIKI00316-029" n="29" xml:id="pb.029"/>
+         <p xml:id="p.315">„Jaz sem nedolžna!“ — —</p>
+         <p xml:id="p.316">O zlata moja mati, kako si izgovorila to! Kolika vdanost je trepetala v vzdihu, ki je spremljal te besede ...</p>
+         <p xml:id="p.317">„Jaz sem nedolžna!“ — —</p>
+         <p xml:id="p.318">Od tistih dob sem svojega očeta še bolj črtil! Od tistih dob sem vedel, da se moram maščevati! ... —</p>
+         <p rend="center" xml:id="p.319">*</p>
+         <p xml:id="p.320">O Gabrijela, kaka škoda, da nisem umetnik, kaka škoda, da mi ni dan dar poezije! O, kake himne bi ti hotel zapeti! Toda čemu, čemu? Kaj bi ti hasnile sladko zveneče besede iz mojih ust? Čemu, čemu! Vse je bilo prevara in zmota — mameč sen, ki se ni smel, ni mogel uresničiti! Ti nisi mogla drugače, vem, in tudi jaz ne! „V usode knjigi pisano stoji, da pota najina na dvoje gresta!“ In zoper to, kar določi usoda, ni ugovora, ni instance! ... Tako je, ker drugače biti ne more!</p>
+         <p xml:id="p.321">Ljudje mislimo, govorimo, delamo, hrepenimo, a vse gre svojo določeno pot! — —</p>
+         <p xml:id="p.322">Vse je bilo prevara, vse grenka zmota, o Gabrijela, in vendar je bilo vse tako lepo! ... Zame vsaj! Misel na tisto mi je še zdaj kot pogled na jasno pomladansko nebo, kakor pogled na cvet, spočet iz rosnega jutra.</p>
+         <p xml:id="p.323">O bilo je lepo, zlasti tistikrat, ko so se prvič strnile najine ustnice v plameneč poljub! ...</p>
+         <p xml:id="p.324">Večer ... temoten, skrivnosten večer, a na daljnem nebu zlate zvezde kakor svetla angelska očesca! ... Vse tiho okrog naju, kakor bi ne bilo nobenega drugega človeka na zemlji, kakor bi bila sama, čisto sama na vsem božjem svetu! — Cvetlice dehte, vonj resede in vrtnic prodira do naju, drugače nobenega pojava večno ustvarjajoče narave ... Vse miruje, vse sniva — bediva edino midva. A tudi midva le napol! Nobene besede ni iz najinih ust, kakor bi se bala motiti sveti mir, ki preveva vsemirje ... molčiva, kakor bi se bala kaliti harmonijo, ki spaja najini srci, kaliti blaženost, ki polni nebo in zemljo v tem trenotku ... Molčiva, a povedati si imava toliko, toliko! Povedati si imava toliko in oba veva, da mora biti povedano ... oba veva, da morajo še v mogočnejših akordih zazveneti strune! In vendar molčiva! Najina pogleda sta obrnjena pobožno v zvezdnato nebo in najini duši molita in trepetata v sladkem koprnenju ... Mirno sediva in se ne ganeva, in vendar hitiva drug drugemu nasproti! ... Najine misli se objemajo, najina čuvstva se izlivajo v čudovito simionijo ... Najini duši se opajata in najini telesi drgetata v nepopisnem razkošju ... Ljubiva se in želiva, in vendar naju navdaja strah, vendar se bojiva drug drugega! ... <pb facs="#WIKI00316-030" n="30" xml:id="pb.030"/> Strune morajo zazveneti, in vendar molčiva in glasu ni iz najinih ust ... Najine misli se poljubujejo in najina čuvstva se objemajo ... Nekaj nevidnega se snuje okrog naju ... nekaj tajinstvenega naju obdaja ... privija bolj in bolj drug k drugemu ... Bojiva se, a najin strah je sladak! ... Strune morajo še mogočneje zveneti, to veva oba ... Bliže in bliže si prihajava in že čutiva drug drugemu utripe srca ... In že zveni in se razlega! ... Najin strah raste, a s strahom raste sladkost ... Oba veva, da mora priti, a vendar se ustavljava, kajti tudi pričakovanje je sladko in polno blaženosti ... Toda naposled naju je premagalo ono veliko hrepenenje ... morala sva se izpovedati ... zazvenele so strune v divnih akordih in zatrepetalo je v tiho, zvezdnato noč:</p>
+         <p xml:id="p.325">„Jaz te ljubim, tako ljubim, Gabrijela!“</p>
+         <p xml:id="p.326">„O ti dragi, ljubljeni moj!“</p>
+         <p xml:id="p.327">In čulo se je kakor ihtenje, ihtenje, porojeno iz prevelike sreče ... Tvoje oči so se porosile ... kakor dve zvezdi, dve krasni zvezdi so se svetile, da so bledele zavisti njih sestre na temnem nebu ... Intenzivneje so dehtele vrtnice in reseda ... Po drevju je zašuštelo ... sladko vznemirjenje se je lotilo nočne tihote ter se spojilo z drhtenjem najinih src ... Zbežal je strah in storila sva, kar so bile že davno prej storile najine misli in najina čuvstva ... Najine ustnice so se strnile v čist, vzvišen poljub in najini telesi sta strepetali v plamenu najsvetejšega ognja ... —</p>
+         <p xml:id="p.328">O zakaj, zakaj sem se osmelil, o zakaj sem storil to?</p>
+         <p xml:id="p.329">Vse je bilo samo zmota in prevara!</p>
+         <p xml:id="p.330">Zakaj nisem molčal, zakaj se nisem premagoval še nekoliko časa? Tebi bi se potem ne bilo treba kesati, ti ne bi preklinjala zdaj mojega spomina! Tvoje ustnice bi bile neoskrunjene in ne očitala bi ti ob strani tvojega izvoljenca vest, da so se pred njim doteknile že drugega ...</p>
+         <p xml:id="p.331">O, grešil sem, ker bi bil moral vedeti, da pride tako! Toda bil sem človek in človek je slab — premotiti se da upom, ko se pogreza že v pogubo ... Grešil sem hudo, hudo zoper tebe, toda pomagati si nisem mogel. Priznal sem ti ljubezen in te poljubil — ah, kak zločin! Toda omagal sem, ker sem te ljubil, ljubil tako brezmejno, tako neskončno! ...</p>
+         <p xml:id="p.332">Odpusti, Gabrijela!</p>
+         <p xml:id="p.333">Odpusti, saj je bilo to edino nadomestilo za vse bridko gorje, ki mi ga je naklonilo življenje! ...</p>
+         <p xml:id="p.334">Odpusti, Gabrijela, in pozabi! ... — —</p>
+         <p rend="center" xml:id="p.335">* * *</p>
+         <pb facs="#WIKI00316-031" n="31" xml:id="pb.031"/>
+         <p xml:id="p.336">Vse je prišlo, kakor je moralo priti ... vse je šlo svojo logično pot, in vendar mi ni jasno, zakaj je tako in ne drugače ...</p>
+         <p xml:id="p.337">In jasno mi ni še marsikaj ... Še danes ne vem, sem li imel kaj talenta za učenje, ali ga nisem imel. Toliko vem, da mi je bilo učenje od tistikrat, ko sem izprevidel, da nikakor ne morem zadovoljiti svojega očeta, le še muka ... Učil sem se še, a samo mehanično in samo zaradi tega, ker me je mati prosila, da naj se učim.</p>
+         <p xml:id="p.338">No, nekatere stvari so mi šle še vedno rade v glavo. Če je bilo treba naučiti se pesem, tako pesem, ki je segala v srce — ah, igrača! Tudi v višji gimnaziji sem se bavil rad s poezijo ... imela je do mene čudno moč in čitajoč lepo pesem sem še najlaglje pozabil, kar me je dušilo in morilo ...</p>
+         <p xml:id="p.339">Ne, brezčuten nisem bil! Imel sem zmisel za lepoto. Mene je veselilo cvetje spomladi, veselilo zrelo klasje na polju ... Vsaka travica je vzbujala v meni zanimanje, bil sem dostopen za vsak tudi najmanjši pojav narave; vse, kar sem videl okoli sebe, me je navdajalo z občudovanjem. Ah, kako me je izpreletala sladka groza, če je zašumelo listje po drevju! In zvonjenje! Ne vem, če je kdo z večjo pobožnostjo prisluškoval, kadar je potrkavalo ob sobotah popoldne ali ob praznikih zjutraj! ...</p>
+         <p xml:id="p.340">Bil sem dostopen poeziji življenja in zapametoval sem si lahko vse, kar je bilo v kaki zvezi s poezijo. Poezija me je mamila ... Toda učenje drugih stvari mi je mrzelo od dne do dne bolj ...</p>
+         <p xml:id="p.341">Čemu bi se učil? Kak zmisel ima to? Do kakega cilja me privede učenje? Me stori li srečnega? Me li reši tega, kar mi je usojeno? ...</p>
+         <p xml:id="p.342">„Tat, ubijalec, požigalec!“</p>
+         <p xml:id="p.343">Te strupene besede iz strupenih ust očetovih so otrovale mojo kri! Vsesale so se liki vampir v moje meso in kakor s kremplji so se oklepale moje glave, da nisem mogel na nič drugega misliti. Ah, to je bilo grozno, grozno, ko mi je venomer zvenelo po ušesih:</p>
+         <p xml:id="p.344">„Tat ... ubijalec ... požigalec!“ —</p>
+         <p xml:id="p.345">Bolj in bolj sem bil prepričan, da je ves moj napor zaman, da je moja usoda odločena, zapečatena ...</p>
+         <p xml:id="p.346">Navzlic vsemu temu sem rinil naprej, rinil s težavo, ker sem živel neprestano v hudih srčnih bojih. Moj oče ni nikdar vprašal po kakem izpričevalu in jaz mu ga tudi nikdar več kazal nisem. Vprašal bi bil nemara samo tedaj, ako bi bil čul, da mi je izpodletelo, ker bi bil potem lahko še bolj pokoril mojo mater. No, včasi me je imelo prav satansko veselje, da bi mu bil storil to uslugo, <pb facs="#WIKI00316-032" n="32" xml:id="pb.032"/> da bi se nalašč ne bil učil, ker se mu je zdelo, da bi ga bilo vendarle sram pred ljudmi, če bi bil oče nemarnega in nesposobnega sina. In tudi drugače bi ga bilo to morda peklo. Kajti še vedno je včasi dvojil, še vedno so se mu vračali hipi, ko je uvideval, da je njegovo divjanje neopravičeno ... Ah, kako, kako rad bi mu bil prizadel rano, kako rad bi se bil maščeval za vse tisto, kar je hudega naklonil meni in moji dobri materi!</p>
+         <p xml:id="p.347">Toda kaj bi rekla potem mati? In Gabrijela? Ali bi me Gabrijela še marala kot izprijenega študenta? ...</p>
+         <p xml:id="p.348">Zlasti zaradi Gabrijele sem se učenja vedno iznovega poprijel, in naj se mi je še tako ustavljalo. Misel, da me čisla in spoštuje ona, me je bodrila in često sem se namenil, da se bodem zopet učil kakor prejšnje čase. Toda ni šlo več ... Bil sem strt ... Moja kri je bila otrovana ... Čutil sem, kako se mi po vseh žilah pretaka strup ... Komaj sem pozabil malo, komaj sem se hotel popeti zopet kvišku, pa mi je pribučalo na uho:</p>
+         <p xml:id="p.349">„Tat ... ubijalec ... požigalec! ...“</p>
+         <p xml:id="p.350">Ali še bi morda ne bilo prišlo tako, še bi bil dospel morda do cilja, čeprav omahujoč, ako bi se ne bilo dogodilo tisto! ...</p>
+         <p rend="center" xml:id="p.351">*</p>
+         <p xml:id="p.352">Velikonočni zvonovi so peli, peli glasno in veselo kakor nekdanje dni. Sladki spomini so se budili v moji glavi, sladka čuvstva klila v mojem srcu. Pozabil sem bil zopet enkrat vseh bridkih ur v svojem življenju. Ah, saj je bila Gabrijela ob moji strani!</p>
+         <p xml:id="p.353">O Gabrijela, tistikrat so mi še sijale tvoje sladke, tvoje nebeške oči — tistikrat še! Potem pa je zašlo solnce mojega življenja, zašlo za večno! —</p>
+         <p xml:id="p.354">Bil sem tistikrat v osmi šoli ...</p>
+         <p xml:id="p.355">Ne bil bi šel morda domov, ker je bila moja mržnja do očeta često večja od ljubezni do matere in do moje izvoljenke. Toda mati mi je sporočila, da je bolehna in da me želi videti. Njeni želji se nisem mogel ustavljati. Slutil sem, da jo oče zopet muči, slutil, da njene moči pešajo in da potrebuje koga, ki bi mu lahko potožila ... pred komer bi se izjokala lahko ...</p>
+         <p xml:id="p.356">No, ni mi tožila, ko sem prišel, a na obrazu sem ji čital, da me moje slutnje niso varale. Tožila mi ni, ker mi ni hotela težiti srca. Mogoče tudi, da je čutila v moji bližini res nekoliko olajšave. Bila je nenavadno vesela, ko sem stopil prednjo. Še nikdar mi ni topleje stisnila roke. Vsa srečna je bila, ko me je motrila od nog <pb facs="#WIKI00316-033" n="33" xml:id="pb.033"/> do glave. Rekla je, da sem zrastel in da sem čvrst. Ah, nikdar, nikdar ne pozabim, kako se je smehljala tistikrat! Neka blaženost ji je bila razlita po milem obrazu. Imela me je pač rada, kakor ima rada vsaka ljubeča mati svojega otroka! Tudi jaz sem bil nenavadno zadovoljen — seveda ni smel biti oče blizu ... Ves svoj čas sem razdelil med mater in Gabrijelo. Ah, ta je bila postala tako lepa, tako čudovito lepa! Strmel sem in moje oči se niso mogle ločiti od nje. Bila je tako krasna, tako nepopisno krasna! Obožaval sem jo, kakor ni bila oboževana še nobena ženska! Včasi bi bil pokleknil prednjo in jo častil kot nadzemsko bitje! Nikdar, nikdar niso sijale njene oči mileje in slajše nego tisti čas — morda zato, ker so mi sijale zadnjikrat! —</p>
+         <p xml:id="p.357">Oče je hitro opazil, da se počutiva dobro — jaz in mati. Tega pa nama ni privoščilo njegovo zlobno srce. Zlasti ob praznikih, ob času, ko je bilo vse veselo, ni mogel strpeti, da bi bila srečna. Drugod radost, najslajši mir, pri nas žalost in prepir! Povod za to je dobil on zmeraj, tudi to pot ni bil v zadregi zanj.</p>
+         <p xml:id="p.358">Mati mi je bila dala par novcev, da bi šel lahko v druščino svojih sošolcev, ki so bili prišli z mano skupaj na počitnice in ki so imeli radodarnejše očete nego jaz. Branil sem se, ker mi ni bilo neznano, kako skopo ji odmerja trda očetova roka, in ker sem vedel, da si je morala prav od ust odtrgati tisti denar. Toda naposled sem ga vendar vzel in šel sem s tovariši v gostilno na kozarec piva. Nesreča je hotela, da je prišel baš tedaj tudi moj oče tja. Nič se ni izdal, ko me je opazil. Začel se je prijazno razgovarjati z mojimi sodrugi. Parkrat je celo mene zadel iz njegovega očesa nenavaden, prijazen pogled. A čutil sem, da se za to prijaznostjo skriva nekaj, in bilo mi je neprijetno. Ko je odšel, tudi mene ni več strpelo v gostilni. Poslovil sem se pri svojih prijateljih in šel. Doma pa nisem materi nič omenil, da sva se sešla z očetom v gostilni, ker ji nisem hotel delati brez potrebe skrbi.</p>
+         <p xml:id="p.359">Tisti večer — bilo je veliko soboto — očeta dolgo ni bilo domov in jaz sem legel spat, preden je prišel domov. Upal sem, da morda vendar ničesar ne reče. Saj naposled ni bilo to nič takega, če sem pil v družbi svojih kolegov kozarec piva! Kateri oče bi zameril kaj takega svojemu sinu? Vsa moja bojazen je bila pravzaprav smešna in je izvirala pač le odtod, ker sem bil od malih nog vajen, da je bila često najnedolžnejša stvar vzrok surovih izbruhov mojega očeta. Čim bolj sem premišljal, tem manj sem mogel pojmiti, kaj naj bi mi oče očital. Ali nisem bil mar velik dovolj? ... No in če bi me <pb facs="#WIKI00316-034" n="34" xml:id="pb.034"/> bil dobil že samega, a tako ... Kar so smeli drugi, sem smel tudi jaz! ...</p>
+         <p xml:id="p.360">Pomiril sem se naposled popolnoma in zaspal. Drugega dne pa sem pokrepčan vstal in nekako zadovoljen sem šel ven na hodnik.</p>
+         <p xml:id="p.361">Bil je krasen spomladanski dan. Sredi aprila je bilo, a zdelo se je, da je že zlati majnik nastopil svoje kraljestvo. Nebo je bilo temno modro, po njem pa so plavali majhni, belkasti oblaki, gnani od mehkega južnega vetra. Zrak je bil prijetno hladen in željno sem ga srkal vase. Stopal sem počasi semtertja po hodniku, prevzet od svečanih, vzvišenih čuvstev. Nikdar prej nisem tako živo čutil, da je življenje res nekaj lepega, nekaj neprecenljivega ... Bilo mi je, kakor bi bila nenadoma napočila moji sreči jutranja zarja, kakor bi imel zdaj hipoma doseči vse tisto, po čemer sem v grenkih urah svojega življenja tako silno hrepenel. Zagledal sem se bil v jasno nebo, kakor bi imelo priti od ondi vse tisto ... Tedaj zašumi za mano žensko krilo. Ozrem se in Gabrijela v svoji najnovejši praznični obleki je stala pred menoj. Omamila me je tolika lepota! Srce mi je zatrepetalo, po mojih žilah je zavalovilo in burno hrepenenje je prešinilo vse moje bitje ...</p>
+         <p xml:id="p.362">Gabrijela je slutila, kaj se godi z menoj, slutila, s kako nevidno silo učinkuje njena krasota name. Bila je presrečna, zavedajoč se moči svoje lepote. Prijazno se je nasmehnila in mi podala roko. A predno še sem mogel v pozdrav izpregovoriti kako besedo, se je začul iz našega stanovanja surov očetov glas. Malo prej je bila mati odprla okno na hodnik in zato se je razumela vsaka besedica.</p>
+         <p xml:id="p.363">„Ta nepridiprav ... ta lopov ... ta tat! Ta človek stori v ječi konec!“</p>
+         <p xml:id="p.364">Jaz sem prebledel, a tudi Gabrijeli je šinila senca preko lepega lica. Da bi ne priletelo še več takih gabnih besed na njeno uho, sem se hitro poslovil od nje ter pohitel v sobe. Tu pa me je sprejela z glasnim jokom mati:</p>
+         <p xml:id="p.365">„Povej, ali si mu res kaj vzel? Oče trdi, da mu manjka denarja!“</p>
+         <p xml:id="p.366">Meni se je stemnilo pred očmi. Zdelo se mi je, kakor bi tudi mati dvomila o moji poštenosti. Hotel sem nekaj reči, a nisem mogel. Zobje so mi šklepetali, kakor bi me tresla mrzlica. In potem tudi nisem maral. Preponosen sem bil. Oče me je obsipal še nadalje s tatovi, razbojniki, požigalci, mati je ihtela na glas, jaz pa sem stal kot okamenel in — molčal ...</p>
+         <pb facs="#WIKI00316-035" n="35" xml:id="pb.035"/>
+         <p xml:id="p.367">Ha, očetu je manjkalo denarja! Ali res? Ali se ni tega samo domišljeval zaradi tega, ker me je videl v gostilni in sklepal iz tega, da moram imeti njegov denar? No, najbrž si je vse to celo izmislil, da je lahko zopet rohnel ter mučil mojo nesrečno mater! Saj bi bilo prelepo, če bi ne bila velikonočno nedeljo pretakala solz! ...</p>
+         <p xml:id="p.368">Ali najsi je bilo že to ali ono, meni ni mogel storiti hujšega, nego mi je storil! Njegove besede je čula Gabrijela! Ah, kaj si je mislila? Če reče oče lastnemu sinu tat, kdo bi ne verjel? Moja sreča je bila uničena v tistem hipu, ko sem ji bil najbliže, ko sem se je hotel že okleniti z obema rokama, ko sem bil uverjen, da mi ne odhiti več! ...</p>
+         <p xml:id="p.369">Vse moje nade so bile izgubljene, strte, uničene ...</p>
+         <p xml:id="p.370">In to vse je bilo delo mojega očeta ... mojega roditelja ...</p>
+         <p xml:id="p.371">Kakor še nikdar sem bil prepričan, da je zame izgubljeno vse, da je bil ves moj odpor zaman, vse materine prošnje brezuspešne ...</p>
+         <p xml:id="p.372">Kakor še nikdar sem vedel zdaj, da je oče dosegel svoj namen in da mi ni rešitve ...</p>
+         <p xml:id="p.373">„V ječi stori konec!“</p>
+         <p xml:id="p.374">Da, da, moj dobri, skrbni oče, v ječi!</p>
+         <p rend="center" xml:id="p.375">* * *</p>
+         <pb facs="#WIKI00316-036" n="36" xml:id="pb.036"/>
+         <p xml:id="p.376">Kakor plaha zver sem se skrival pred ljudmi. Vsak pogled me je vznemirjal, vsak ogovor me spravil v največjo zadrego. Vsako besedo sem razumel drugače kakor drugi ljudje, vsakemu človeku, ki se mi je bližal, sem podtikal namene, o katerih on nemara nič vedel ni. Pogosteje in pogosteje so se ponavljali dnevi, ko sem živel neprenehoma v trepetu, da sem nekaj zakrivil, da sem storil nekaj groznega, nekaj, zaradi česar me sovraži in preganja ves svet. Bežal sem pred ljudmi in bežal sam pred seboj, a da nisem mogel uteči sebi, svojim mislim, to je bilo pri tem najstrašnejše! Vedno zopet me je prešinilo prepričanje, da sem res tat, da sem res ubijalec, res požigalec ...</p>
+         <p xml:id="p.377">Tako daleč me je bil spravil moj — dobri oče!</p>
+         <p xml:id="p.378">No, včasi sem se iztreznil toliko, da sem vedel, da nisem še ničesar takega storil, da bi se mi bilo bati ... Toda olajšave mi taki hipi niso prinesli, ker se me je lotila takoj druga nič manj strašna misel, misel, da pač storim, česar še nisem, da moram, moram storiti, da moram postati ali tat ... ali ubijalec ... ali požigalec! ... —</p>
+         <p xml:id="p.379">Včasi mi je bilo, kakor bi moral izmakniti kaj, kakor bi moral zadaviti koga, moral podtakniti ogenj, da bi švigal plamen kvišku proti nebu — kot simbol mojega groznega gneva ...</p>
+         <p xml:id="p.380">Boril sem se zoper izkušnjavo ... zoper tisto grozno silo ... molil sem in sem klel v svojem besnem obupu ... zaman! ...</p>
+         <p xml:id="p.381">Moja kri je bila otrovana in ni se dalo odvrniti več ... —</p>
+         <p rend="center" xml:id="p.382">*</p>
+         <p xml:id="p.383">V šolo sem se bil povrnil apatičen, brez moči, brez vsake volje ...</p>
+         <p xml:id="p.384">Od Gabrijele se nisem bil poslovil. Sram me je bilo, stopiti pred njo. In čemu bi se bil poslavljal? Bil sem uverjen, da je konec vsemu in da človeka, do katerega nima lastni oče ni trohice spoštovanja, nobeno dekle ljubiti ne more.</p>
+         <pb facs="#WIKI00316-037" n="37" xml:id="pb.037"/>
+         <p xml:id="p.385">Niti tega ne vem, če sem materi segel tistikrat v roko, ko sem odhajal. Prav lahko mogoče, da sem v svoji zmedenosti, v svoji obupnosti šel kar tako ...</p>
+         <p xml:id="p.386">Ko sem začel hoditi zopet v šolo, sem bil vedno kakor v omotici. Učil sem se še, bodisi iz navade, bodisi iz nekega temnega nagona, toda nobene energije nisem imel več in ničesar več se nisem naučil ...</p>
+         <p xml:id="p.387">Na ljubljanskem gradu je drevo, na katerem sem presedel v prejšnjih časih marsikatero uro s knjigo v roki. Tudi zdaj sem zahajal še tjakaj. Bil sem tako lepo skrit tam! In meni je samota, samo samota še dobro dela ...</p>
+         <p xml:id="p.388">Nekega dne sedim zopet gori. Ponavljal sem iz dogmatike dokaz o bitnosti sv. Trojice. Razumel nisem od vsega, kar sem čital, nič, a česar razumel nisem, tega se od nekdaj tudi naučiti nisem mogel. Tudi se mi je zdelo vse to dokazovanje smešno, da, grešno. Kako naj se dokaže nekaj, kar je človeškemu umu nepojmljivo? In kaka logika to — vera in dokaz? Ne izključuje mar eno drugega? To dokazovanje vzbuja sumnjo, kakor bi bili oni, ki dokazujejo, v skrbeh za svojo vero, kakor bi sami prav ne zaupali njej ...</p>
+         <p xml:id="p.389">Take abstraktne stvari mi sploh nikdar niso prijale in bilo mi je pusto v glavi, ko sem čital one čudne stavke, polne navidezne modrosti, a vendar tako prazne in duhomorne. Moje misli se niso hotele dati vkleniti ... srce mi je polnilo neko čudno koprnenje ... moja domišljija je razpenjala svoje peroti in polagoma sem pozabil na učenje ... Strmel sem v daljavo. Pred mano se je dvigala stolna cerkev s svojo kupolo, s svojima ponosnima stolpoma, a moji pogledi so pluli dalje preko streh tja do ravnega polja, ki je dehtelo v mladem, živobojnem zelenju ... tja do veličastnih vrhov v deviškem snegu lesketajočih se planin in tja do sinjega neba v njih ozadju, katerega jasna modrina je iz dalje kakor balzam vplivala na moje nemirne živce. Bil je krasen prizor, ki se je kazal mojim očem. Kočna, Grintavec, Ojstrica in drugi vrhovi so blesteli kakor ogromni briljanti, a med Brano in Planjavo se je bila zagozdila belkasta megla, da se je zdelo, kakor bi bil zgrajen velikanski most nad Kamniškim sedlom. Včasi sem zamižal za hip, kakor bi se moral odpočiti od premogočnega vtiska, potem pa sem iznova premeril s svojimi lepote žejnimi očmi vso to prekrasno širno ravan, ki je bila liki mehka, baržunasta preproga razgrnjena pred mano, iznova se divil nebotičnim vrhovom kamenitih gorskih velikanov, iznova občudoval nepopisno milino jasnega neba, ki je bila v svetem <pb facs="#WIKI00316-038" n="38" xml:id="pb.038"/> miru razlita nad njimi ... Pri srcu mi je bilo tako čudno mehko in razjokal bi se bil, razjokal vsled neke čudne, nepojmljive ganjenosti ... Morda se nisem še nikdar tako živo in s tako dovzetnim srcem zavedal krasote, ki jo je v svoji mogočnosti nadela sama sebi stvarnica ... morda nisem bil še nikdar tako prevzet od veličastva, ki se mi je razodevalo povsod, kamorkoli sem trenil, morda nisem še nikdar občutil toliko slasti ob pogledu v božji svet kakor tistikrat ... In čim bolj sem se pogrezal v vso to prelest, tem bolj sem pozabljal vse ono trpko in bridko, ki je bilo doslej delež mojega žalostnega življenja, in tem bolj sem postajal človek, človek, kakršen bi bil, ko bi ne bila storila krutost mojega očeta vse kaj drugega iz mene. O, bilo je krasno, krasno! Po nebu so plavali lahki oblaki in meni se je zdelo, kakor bi se bil i jaz ločil od tal, kakor bi bil tudi jaz plaval in se dvigal v sinje višave ... Bilo mi je kakor človeku, ki se mu sanja, da leti, leti skozi neskončne prostore ... tisti čudovito prijetni občutek, tako prijeten menda zaradi tega, ker nima realne podlage, ker izvira zgolj iz človeške domišljije ... Čimdalje bolj čudesno mi je bilo pri srcu ... Vse je nekako otrpnilo v meni ... Na moje možgane je legla pozabnost ... Spomini na preteklost so se mi bili razpršili ... Ničesar nisem več vedel ... Občutil sem vso slast nirvane ...</p>
+         <p xml:id="p.390">Ali hipoma me zmoti nekaj. Vzdramim se iz svojega snu podobnega stanja in zavem se zopet ...</p>
+         <p xml:id="p.391">Mojega očesa se je bil dotaknil bleščeč solnčni žarek. Zdrznil sem se in ozrl v meri, odkoder se je bil pojavil. In tedaj uzrem nekaj, kar mi je pretreslo kosti in mozeg. Po poti, ki je vodila mimo na grad, sta gnala dva orožnika vklenjenega človeka. Nasajena bajoneta sta se lesketala v solnčni luči in odsev od njiju je bil zbodel moje oko. In tedaj se je završilo nekaj v meni, tedaj se je zgodilo nekaj čudnega, nepopisnega z menoj ... Kakor bi se bilo nekaj zgrnilo pred mojimi očmi ... Moj pogled je bil moten, toda videl sem vendarle ... Videl sem s strašno natančnostjo nekaj čudnega, groznega ... Počasi, umerjeno sta stopala ondi orožnika, njuna bajoneta sta se lesketala v žarkem solncu, a pred njima z vklenjenima rokama sem stopal — jaz — jaz sam! ...</p>
+         <p xml:id="p.392">„Saj ni mogoče, saj ni mogoče!“</p>
+         <p xml:id="p.393">Stresal sem z glavo, otepal z rokama okrog sebe, da bi pregnal, da bi zabrisal grozno prikazen ... Zaman! — Moje oči so strmele ... Saj ni mogoče! ... Toda bil sem ... bil sem jaz!</p>
+         <p xml:id="p.394">In tedaj sem vedel, da je dopolnjeno!</p>
+         <pb facs="#WIKI00316-039" n="39" xml:id="pb.039"/>
+         <p xml:id="p.395">„Tat ... ubijalec ... požigalec!“ mi je zabrnelo po ušesih. „Tat ... ubijalec ... požigalec!“ je zašumelo po drevju ... Kakor vihar se je vzdignilo ... odmevalo bučno od hriba ... valilo se kakor grom preko zelene ravni, zadelo se kakor hudourni oblak ob kamenite stene ... „Tat ... ubijalec ... požigalec!“ je odmevalo zopet nazaj ... Stresel sem se in mraz mi je izpreletel ude.</p>
+         <p xml:id="p.396">Dovršeno, končano torej! Oče, oče, kaj si storil iz mene? Vse je bilo zaman, ves moj trud, vsi moji napori ...</p>
+         <p xml:id="p.397">„Tat ... ubijalec ... požigalec!“</p>
+         <p xml:id="p.398">Da, moralo se je zgoditi! Strup je učinkoval ... Moja kri je bila otrovana. Moje srce je bilo utopljeno v srdu in gnevu, zato ni bilo nobene pomoči več! ... Dovršeno ... končano! — —</p>
+         <p xml:id="p.399">O mati, o Gabrijela! — —</p>
+         <p xml:id="p.400">Zdrznil sem se, vzdramil ... Orožnika in zločinec pred njima so se bili skrili za ovinkom. Postalo mi je jasno, da sem gledal izrodek svoje bolne domišljije, toda potolažiti, umiriti se nisem mogel več. Vedel sem tudi tako, da je dovršeno, končano! ... Moje srce, tisto mehko, dobro srce je bilo ugonobljeno, vse dobre kali v njem so bile zamorjene! ... Ob misli na mater in Gabrijelo me je obšla neskončna bridkost. Razjokal sem se in ihtel sem na glas. Od mojega srca so kapale krvave kaplje. Toda vrnitve ni bilo več! Moja pot je bila z neizprosno roko odkazana! ... Orožnika z nasajenima bajonetoma in pred njima vklenjen jaz! — — —</p>
+         <p xml:id="p.401">O Bog, o Bog! ...</p>
+         <p xml:id="p.402">Vse se je bilo hipoma izpremenilo pred mojimi očmi. Zelena ravan me ni mikala več in pusti so se mi zdeli zdaj beli snežniki v sinji daljavi. Mrtva je narava, če je mrtvo srce, in lepote ni, če ni čuta zanjo! ...</p>
+         <p xml:id="p.403">Skočil sem z drevesa, na katerem sem se še malo prej učil, in nastopil pot nizdol ... Knjiga mi je zdrknila na tla. Ozrl sem se nanjo, a nisem je pobral. Od tistihdob nisem prijel za nobeno učno knjigo več. Če sem bil v šoli vprašan, sem molčal, molčal celo tedaj, ko bi bil lahko odgovoril. Profesorji so stresali glave, moji součenci so se čudili moji nevednosti, jaz pa sem občutil neko satansko veselje ob vsem tem ...</p>
+         <p rend="center" xml:id="p.404">*</p>
+         <p xml:id="p.405">Mature niti nisem bil poskusil delati, tudi semestralno izpričevalo je bilo slabo. Kako bi si bil upal domov! Sicer — pa <pb facs="#WIKI00316-040" n="40" xml:id="pb.040"/> česa naj bi bil tudi iskal doma? Pač so se mi včasi vračali trenotki, ko sem obžaloval, da sem se bil dal tako premagati neblagim čutom, trenotki, ko se mi je zdelo, da se moram skesati in prositi odpuščanja mater in Gabrijelo. Toda vse to je šlo zopet mimo mene brez trajnega vtiska. Da, za vsakim takim hipom je moje sovraštvo do očeta še bolj vzkipelo, ker sem se baš v takih trenotkih še bolj zavedal svoje nesreče in krivice, ki se mi je bila zgodila ...</p>
+         <p xml:id="p.406">Ker torej po končanem šolskem letu nisem smel domov, sem šel v svet. Nastopil sem svojo pot s čudno apatijo in neverjetno brezmiselnostjo. Kakor človek brez cilja, človek, ki nima izgubiti ničesar ... Prav nič nisem preudarjal, kake posledice nastanejo lahko in morajo nastati ... Zgódi se, kar se hoče! ...</p>
+         <p xml:id="p.407">Šel sem, a brez denarja se ne pride daleč. Da bi bil prosjačil, za to sem bil preponosen. Torej krasti! V istini mi je prišla ta misel! Ha, kako bi pač prijalo to mojemu očetu: on tak dostojanstvenik, njegov sin pa — tat! Potem naj bi bil kričal: „Tat!“ Mene bi ne bilo nič več bolelo, ker bi bil zaslužil ta priimek. A njega bi bilo peklo — peklo, ker bi bila sramota zadela njega! To bi bilo maščevanje! ... Toda ne, krasti ne! Gabil bi se bil sam sebi, če bi bil učinil kaj tako podlega! Krasti ne, morda kaj drugega! ... Morda napadem in ubijem koga! To bi bilo vsaj romantično, to bi vsaj pričalo, da imam pogum! ...</p>
+         <p xml:id="p.408">Ha: „Tat ... razbojnik ... požigalec! ...“</p>
+         <p xml:id="p.409">Da! ubijem koga, ali pa ... O, le čakaj, oče, prilika se že ponudi! Tvoja volja se že še zgodi! ... —</p>
+         <p xml:id="p.410">Hodil sem po svetu kakor izgubljen, ne da bi se bil zmenil za to, kdo me vidi, kdo me srečuje. Hodil sem, dokler nisem od lakote, žeje in utrujenosti onemogel ter obležal na cesti ... Pobrali so me, dali mi toliko jesti in piti, da sem se zavedel, potem pa so preiskali moje žepe. In ko so se prepričali, da so prazni, so me poslali v malo častni družbi domov ... Ah, to so hiteli ljudje skup, ko so spoznali mene, sina prvega dostojanstvenika, na sramotnem vozu! A jaz nisem videl nikogar, jaz sem videl samo bledi obraz svojega očeta in občutil sem pri tem brezmejno razkošje ... Samo obraz svojega očeta sem videl ... O, nebeško je maščevanje! Kolika slast, dati duška svojemu toliko časa zadrževanemu gnevu! He, kako se bode tresel ... kako bodo drgetale mišice na njegovem od onemogle togote prebledelem licu! Da, da, tresel se bode in od sramote ne bo vedel, kam bi se dejal! Videl sem ga v duhu <pb facs="#WIKI00316-041" n="41" xml:id="pb.041"/> in srce mi je prekipevalo peklenskega veselja. Za vse to, kar mi je storil, zadene naposled tudi njega zasluženi udarec! ...</p>
+         <p xml:id="p.411">Pred uradnim poslopjem so me odložili. Moje tovariše so odvedli v zapor, da si tam odpočijejo, mene pa so izpustili. Bil sem na svojem cilju, haha! Gori po hodnikih je bilo vse živo, ko sem stopil na dvorišče. Kakor ogenj se je razširila vest in ta vest je hitela pred mano ... Ozrl sem se navzgor in zazdelo se mi je, kakor bi videl znano mi živobojno krilce, videl dvoje debelih kit, rumenih, kakor bi bili spleteni iz zlatih solnčnih žarkov, videl oni mili, sladki obrazek ... Za hip me je zaskelelo v prsih, zakričal bi bil nepopisne boli, a takoj se me je lotila prejšnja apatija in brezčutnost ...</p>
+         <p xml:id="p.412">Saj je bilo vse, vse izgubljeno! ...</p>
+         <p xml:id="p.413">Dospevši na hodnik v drugem nadstropju, sem krenil proti očetovemu stanovanju. Čemu sem šel gori, sam ne vem. Morda iz gole navade. Stopal sem s trdim, silno samozavestnim korakom. Stopal sem mimo ljudi, a nisem se zmenil zanje. Pri nekem oknu je stala Gabrijela in zrla ven. Skrivala se je, a vendar sem jo zapazil. Ah, kolikokrat se mi je nasmehavala v prejšnjih časih skozi tisto okno! ... Danes je samo strmela ... Njeno lice je bilo bledo, njene velike, lepe oči prestrašene. Ko sem se ozrl proti njej, jih je povesila. O, še en sam hip naj bi mi bile sijale! ...</p>
+         <p xml:id="p.414">Ko sem vstopil v sobo, me je sprejela mati. Z razprostrtimi rokami je stopila proti meni in vzkliknila:</p>
+         <p xml:id="p.415">„Sin!“</p>
+         <p xml:id="p.416">Samo to edino besedo je jeknila, več ni mogla izpregovoriti. O, bila je obžalovanja vredna! Tako skrbna, tako neskončno dobra, a za vso svojo veliko dobrotnost je uživala samo trpljenje in zdaj vrhu vsega še ta poslednji, ta najhujši udarec! ... O, bila je obžalovanja vredna! Toda meni je bilo tistikrat čudno zakrknilo srce. Niti mati se mi ni smilila. Bil sem popolnoma brezčuten. Kakor iz kamena sem bil in rekel ji nisem ničesar, kar bi ji bilo ohladilo grozno bol. Obupno je vila roke. Naposled si je opomogla toliko, da je iznova vzkliknila:</p>
+         <p xml:id="p.417">„Sin ... sin, kaj si storil?“</p>
+         <p xml:id="p.418">Jaz sem odvrnil hladno:</p>
+         <p xml:id="p.419">„Ničesar, mati! Kar se je zgodilo, ni moje delo! ...“</p>
+         <p xml:id="p.420">A potem se mi je zgenilo nekaj v mojih prsih. Zdelo se mi je, kakor bi se moral opravičiti pred njo. In dostavil sem:</p>
+         <p xml:id="p.421">„Saj sem si prizadeval, mati, a bilo je vse zaman! ...“</p>
+         <pb facs="#WIKI00316-042" n="42" xml:id="pb.042"/>
+         <p xml:id="p.422">Precej nato je vstopil oče. V kotih ob ustih so mu stale pene in videlo se mu je, kako je besen.</p>
+         <p xml:id="p.423">„Vidiš, vidiš, vidiš!“ je hropel. „Kakor sem vedno trdil!“</p>
+         <p xml:id="p.424">Delal se je, kakor bi občutil neko zadoščenje materi nasproti. Saj jo je poslej lahko še huje mučil! Mogoče, da je njegovo satansko srce ob tej zavesti res polnilo nekako veselje. Toda močnejša je bila tisti hip v njem zavest, da je ponižan, osramočen. V svojem velikem srdu je zgrabil za palico ter začel neusmiljeno biti po meni. A jaz nisem čutil nič. Sprejemal sem z neko slastjo vse udarce. Bil sem prvič v življenju po zasluženju tepen. Naposled me je zadel udarec na glavo, da se mi je kri ulila. Videl sem še, kako je planila mati z dvignjenimi rokami proti njemu in zakričala:</p>
+         <p xml:id="p.425">„Ti ... ti ... ti ... Ubil si ga — o! ... Moje dete, moje dete! ...“</p>
+         <p xml:id="p.426">Potem sem se onesvestil in zgrudil — — —</p>
+         <p rend="center" xml:id="p.427">*</p>
+         <pb facs="#WIKI00316-043" n="43" xml:id="pb.043"/>
+         <p xml:id="p.428">To je bilo preveč zate, dobra moja mati! Očetove krutosti si prenašala, a prenesti nisi mogla propalosti svojega otroka — — —</p>
+         <p xml:id="p.429">Vest mi je očitala včasi, da sem jaz kriv tvoje smrti.</p>
+         <p xml:id="p.430">Toda ni res, ni res, draga moja mati! Kriv je samo on, ki je storil to iz mene, on, ki je vlival tako dolgo strup v žile moje, dokler mi ni popolnoma otroval srca ...</p>
+         <p xml:id="p.431">Nisem mogel drugače, mati! Zatrl je v meni vse boljše čute, vzel mi ljubezen, vzel veselje do življenja ...</p>
+         <p xml:id="p.432">Kriv je samo on, mati!</p>
+         <p xml:id="p.433">On — on je ugonobil tebe in — mene, ugonobil namenoma oba!</p>
+         <p xml:id="p.434">O da nisem mogel s tabo, obenem s tabo v hladno zemljo, draga mati! — —</p>
+         <p xml:id="p.435">Toda kdo bi te bil maščeval?</p>
+         <p xml:id="p.436">Ne, ni smelo biti! ...</p>
+         <p rend="center" xml:id="p.437">*</p>
+         <p xml:id="p.438">O Gabrijela, ne zameri in odpusti! Odpusti mi, da sem te onečastil, onečastil s tem, da so moje smele misli tolikrat oboževale tvojo milo podobo, onečastil s tem, da je moja nevredna roka tolikrat zapisala tvoje sveto ime! ....</p>
+         <p xml:id="p.439">O ko bi vedela! ... Toda ti ne boš vedela nikdar! Nikdar, nikdar ne boš znala, kako sem te ljubil, kako sem se zatekal v svojih bednih urah k tebi, kako sem se oklepal z vsemi močmi svoje izmučene duše tvojega sladkega spomina ...</p>
+         <p xml:id="p.440">Vsega tega ne boš vedela nikoli, in prav tako!</p>
+         <p xml:id="p.441">A vedela boš nekaj drugega, čula boš o stvareh, ki bodo pretresale tvojo nežno dušo, ki ti bodo vzbujale gnus do mene ... Kajti zgodi se tisto strašno ... In ti bodeš cula ... Zvedela boš vse, kar me more ponižati v tvojih očeh ...</p>
+         <p xml:id="p.442">In to je bridko zate in — zame!</p>
+         <p xml:id="p.443">Ko bi vedela vso resnico, ko bi videla v moje ubogo srce, ko bi znala, kako je prišlo do tega in kdo je vzrok, ko bi znala, da <pb facs="#WIKI00316-044" n="44" xml:id="pb.044"/> se je zgoditi moralo, ah, potem bi me morda vendarle pomilovala! Toda ti boš čula samo obsodbo, ki jo izreko o meni ljudje brez čuta, ljudje, ki sodijo po zunanjih dejanjih samo ... Slišala boš o mojih činih ne glede na njih vzroke, in tudi ti me — obsodiš! ...</p>
+         <p xml:id="p.444">Čula boš, da ... Ne, roka se mi upira, da bi zapisala to! ... —</p>
+         <p xml:id="p.445">Ah, kako ti bo žal, da si bila kdaj znana z menoj, kako grenko ti bo ob spominu na one čase, ki so bili najlepši v mojem življenju, na one čase, ko sva se igrala skupaj, ko si delila svojo južino z menoj, ako si videla, da sem lačen in da te moledujejo moje oči za grižljaj belega kruha ...</p>
+         <p xml:id="p.446">Ah, in še očitala si boš, da si bila tako prijazna, tako dobra z menoj in da nisi poslušala staršev, ki so te podili od mene. Kesala se boš, da so sijale s toliko ljubeznijo meni — izgubljenemu, zavrženemu tvoje lepe oči. A ob misli, da so se strnile nekoč tvoje ustnice z mojimi, se te bo lotevala groza! ...</p>
+         <p xml:id="p.447">Da, groza te bo in kesala se boš ...</p>
+         <p xml:id="p.448">Ah, samo eno srce bi si želel imeti, ki bi me umelo, ki bi čutilo usmiljenje z menoj v teh urah nepopisne bridkosti moje!</p>
+         <p xml:id="p.449">Toda naposled je prav tako, kakor je! Ne zamerim ti, Gabrijela! Bolje zate, da se strašiš pred mano, da me mrziš, nego da bi čuvstvovala z mano nesrečnežem ter trpela pri tem ...</p>
+         <p xml:id="p.450">Da, mrzi me in če mogoče — pozabi me!</p>
+         <p xml:id="p.451">Mir tvoji blagi duši! — —</p>
+         <p rend="center" xml:id="p.452">*</p>
+         <p xml:id="p.453">Moja duša je žalostna do smrti! ... Nobene zvezde na nebu, nobene solze v očeh ... nobenega upa v srcu, nobene tolažbe od nikoder! Tema in obup! —</p>
+         <p xml:id="p.454">Nobenega žarka, ki bi posijal v mojega življenja grozno noč ...</p>
+         <p xml:id="p.455">Tema, sama brezupna tema! ... —</p>
+         <p rend="center" xml:id="p.456">*</p>
+         <p xml:id="p.457">O da bi moglo biti drugače! ... Ali zaman so želje ... Hoditi moram dalje po temni poti, ki mi je odkazana ... —</p>
+         <p xml:id="p.458">Moja kri je otrovana, moja volja je sužnja tajnih sil, jaz sem samo še orodje v rokah zlobnega demona ... —</p>
+         <p xml:id="p.459">Še mi zahrepeni včasi srce, še si zaželi svetlobe ... prostosti ...</p>
+         <p xml:id="p.460">Zaman! ...</p>
+         <p xml:id="p.461">Mora se zgoditi! ...</p>
+         <pb facs="#WIKI00316-045" n="45" xml:id="pb.045"/>
+         <p xml:id="p.462">Biti priklenjen tako — imeti razum, imeti misli, a ne imeti svoje volje — — o smrt rešiteljica, kje si? ...</p>
+         <p xml:id="p.463">Moram, moram ... —</p>
+         <p xml:id="p.464">Železna roka me tira ... Završiti se mora ... Maščevanje mora biti ... Maščevanje, potem — —</p>
+         <p xml:id="p.465">Ah, kak konec!</p>
+         <p xml:id="p.466">Ali zgoditi se mora!</p>
+         <p xml:id="p.467">Moje srce je bilo tako mehko! Smilila se mi je mačica, ki je padla s strehe, smilil črv na cesti ...</p>
+         <p xml:id="p.468">A ti se mi ne smiliš, oče!</p>
+         <p xml:id="p.469">Moje srce je otrovano! ... Ljubezni ni več v njem, ne usmiljenja ... Samo maščevalnost, samo sovraštvo še čuti ... —</p>
+         <p xml:id="p.470">Ah, moje srce je bilo tako mehko, a zdaj je trdo kot kamen! ... Jaz nisem več jaz! ... —</p>
+         <p xml:id="p.471">Zgodilo se bode ... —</p>
+         <p xml:id="p.472">Moram, moram, če bi tudi ne hotel, a če bi ne moral, potem bi vsekakor hotel! ...</p>
+         <p xml:id="p.473">Maščevanje mora biti! ...</p>
+         <p xml:id="p.474">Haha! ... „Tat, ubijalec, požigalec! ...“</p>
+         <p xml:id="p.475">Čakaj oče, čakaj — pridem!</p>
+         <p xml:id="p.476">Pridem ...</p>
+         <p xml:id="p.477">Moje srce vpije po maščevanju ...</p>
+         <p xml:id="p.478">Čakaj, oče! ... —</p>
+         <p xml:id="p.479">O, kje je moja dobra mati?</p>
+         <p xml:id="p.480">Ubil si jo! —</p>
+         <p xml:id="p.481">Kje je moja mladost, moja ljuba mladost?</p>
+         <p xml:id="p.482">Ubil si jo! —</p>
+         <p xml:id="p.483">Kje je moja duša?</p>
+         <p xml:id="p.484">Ubil si jo!</p>
+         <p xml:id="p.485">O ubijalec vseh ubijalcev! ...</p>
+         <p xml:id="p.486">Pridem! Boj se me! ...</p>
+         <p rend="center" xml:id="p.487">*</p>
+         <p xml:id="p.488">Precej po smrti moje matere si je začel oče zidati vilo. Jaz in mati sva stradala poleg njega, a ko se je bil naju iznebil, si je zgradil vilo in jo opremil kar najrazkošneje. Okrog vile je zasadil lep vrt. In tudi gospodarsko poslopje si je postavil in konja si je kupil! —</p>
+         <p xml:id="p.489">Haha, krasno to!</p>
+         <pb facs="#WIKI00316-046" n="46" xml:id="pb.046"/>
+         <p xml:id="p.490">No, tudi oženiti se je hotel zopet. Zato je menda zidal vilo, zato si je kupil konja — vila in konj naj bi bila imela tisto privlačno silo, katere ni več imela njegovo starikavo telo. V tem mu je sicer izpodletelo, a vilo je imel vendarle in udobno je lahko živel v njej, a jaz in mati sva bila prej stradala. Zlasti mati — ta revica! Mučil jo je, mučil do krvi za vsak novčič: za vsak porabljeni novčič je hotel imeti račun, in gorje, če mu ga ni mogla dati, če je včasi pozabila na kak izdatek! O, kolikokrat je jokala, ko je pritiskal nanjo in jo sumničil! ... Varčevala je na vse strani, da bi prihranila kaj in mu ne dala povoda za prepir. Ona, žena prvega dostojanstvenika, je hodila med vsemi gospemi najpriprosteje oblečena in sama si je delala obleko, sama je šivala pozno v noč, da bi bilo manj stroškov. Svojim znankam pa je morala lagati, da ima šiviljo v stolnem mestu, ker bi bil drugače trpel očetov — ugled! In dobro vem, da je bila cesto lačna, lačna bolj nego jaz, ki me je oče tolikrat kaznoval s postom. Da, moja mati je stradala, a oče si je iz prihrankov sezidal vilo! Prej ne, dokler je živela še ona! Ah, kje bi bil njej privoščil kaj takega! Komaj pa je bila zatisnila svoje trudne, od joka in prečutih noči izmučene oči, je zidal takoj — takoj je mislil na to, kako bi si uredil življenje lepše in prijetneje.</p>
+         <p xml:id="p.491">In to s tem, kar si je moja mati pritrgala od ust!</p>
+         <p xml:id="p.492">Ah, ta vila, ta vidni dokaz tvoje samopašnosti, oče, kako me mika, kako me izzivlje ...</p>
+         <p xml:id="p.493">Da, da, to je krasno, ti dragi oče moj, da si zidal, da si si zgradil vilo, napravil si senčnat vrt in kupil konja! ... Ko bi te vile zidal ne bil, kdo ve, bi li bil prišel kdaj ta dan, bi li bila moja duša doživela to uteho! ...</p>
+         <p xml:id="p.494">O, to misel ti je navdahnil sam oni, ki je maščevalec vseh maščevalcev, oni, ki dobro plačuje in hudo kaznuje! ...</p>
+         <p xml:id="p.495">Zares, lepo vilo si si sezidal, dragi oče moj!</p>
+         <p xml:id="p.496">Ali iz te vile te požene nekdo, ti ljubljeni oče moj!</p>
+         <p xml:id="p.497">Jaz pridem! ...</p>
+         <p xml:id="p.498">Boj se, ker blizu je osvete dan! ...</p>
+         <p rend="center" xml:id="p.499">*</p>
+         <p xml:id="p.500">Še enkrat naj poljubim zemljo, ki krije, kar je najdražje mojemu srcu! ...</p>
+         <p xml:id="p.501">Še enkrat naj se razjokam ob tvoji gomili, o mati!</p>
+         <p xml:id="p.502">„Jaz sem nedolžen!“ —</p>
+         <pb facs="#WIKI00316-047" n="47" xml:id="pb.047"/>
+         <p xml:id="p.503">O, dobra mati, če se spomnim tistih tvojih besed, če se spomnim, s koliko bolestjo si jih izgovorila, kako naj bi ne sovražil njega, ki te je mučil in trpinčil vse žive dni! ...</p>
+         <p xml:id="p.504">Nedolžna si bila, po nedolžnem si trpela ... —</p>
+         <p xml:id="p.505">Nedolžna si bila kot On, ki so ga pribili na križ! ...</p>
+         <p xml:id="p.506">O, naj poljubim še enkrat prst, ki sloni na prsih, ki so me dojile, na prsih, ki so me tako ljubile!</p>
+         <p xml:id="p.507">Mati ... mati! ... —</p>
+         <p xml:id="p.508">O odpusti! ... Žalil sem te! ... Ali ne morem drugače! ...</p>
+         <p rend="center" xml:id="p.509">— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — </p>
+         <p xml:id="p.510">Dopolnjeno! ...</p>
+         <p xml:id="p.511">Zgodilo se je, kakor se je zgoditi moralo ...</p>
+         <p xml:id="p.512">Jaz nisem več jaz ...</p>
+         <p xml:id="p.513">Zgodilo se je, kakor si ti hotel, oče! Strup je učinkoval! Strupeni dih tvojih besedi je otroval mojo kri ...</p>
+         <p xml:id="p.514">O, kaj si storil iz mene, oče! ...</p>
+         <p xml:id="p.515">Jokal bi ... jokal, da bi si izjokal dušo!</p>
+         <p xml:id="p.516">Dopolnjeno! ...</p>
+         <p xml:id="p.517">Prižgal sem velikansko plamenico ... Že se dviga dim, črn kakor dih tvojih besedi, oče! ... Že sikajo zublji, pogubni kakor pogledi tvojih zlobnih oči! ...</p>
+         <p xml:id="p.518">Kaj si storil iz mene, oče? ...</p>
+         <p xml:id="p.519">Ah, jokal bi ...</p>
+         <p xml:id="p.520">„Tat ... ubijalec ... požigalec!“</p>
+         <p xml:id="p.521">Jaz — čigar srce je bilo tako rahločutno, tako mehko! —</p>
+         <p xml:id="p.522">„Zločinska fizijonomija!“</p>
+         <p xml:id="p.523">Kako bi me bil ljubil tak angel, kakor je bila Gabrijela, če bi bilo to res? ...</p>
+         <p xml:id="p.524">Ne, ne, ne! Zločinske kali so pognale šele iz tega, kar si ti vcepil v mojo kri, oče!</p>
+         <p xml:id="p.525">O ti, ki si divjal zoper lastno meso, kakšno srce si pač imel? O krutež vseh krutežev!</p>
+         <p xml:id="p.526">Ah, otrok sem bil, majhen, nežen, tako potreben, tako željan ljubezni! ... Kako bi se te bil rad oklenil! ... Oče, oče! ... A ti si me suval z okovano peto, ti si me neusmiljeno pehal od sebe! ...</p>
+         <p xml:id="p.527">Otrok sem bil, negovanja tako potreben in tako žejen ljubezni — a ti niti moji materi nisi dovolil, da bi me bila ljubila in negovala! Molče in s krvavečim srcem je morala gledati, ko si rohnel <pb facs="#WIKI00316-048" n="48" xml:id="pb.048"/> zoper mene! Niti geniti se ni upala, ko si me pretepal, ker si besnel še huje, če se je le z besedo poskusila potegniti zame!</p>
+         <p xml:id="p.528">Ah, otrok sem bil, otrok z nedolžnim pogledom, nedolžnim srcem, kakor drugi otroci ... A tvoje zlobne besede so zastrupile moje srce, tvoj zlobni pogled je skalil jasnobo mojih oči ... Tako je postal tudi moj pogled zloben, tako se je naselil tudi v moje srce greh ...</p>
+         <p xml:id="p.529">Strup je učinkoval ... učinkoval tako grozno, tako grozno! ...</p>
+         <p xml:id="p.530">„Tat ... ubijalec ... požigalec! ...“</p>
+         <p xml:id="p.531">Ne jaz, ti si tat, oče! ... Ukral si meni in moji materi vse ... vse, kar sva imela na svetu ...</p>
+         <p xml:id="p.532">Ne jaz, ti si ubijalec! ... Mojo mater si ubil, mojo mladost si ubil, mojo dušo si ubil! ...</p>
+         <p xml:id="p.533">Kar je bilo dobrega, si zatrl v meni ... Strupeni dih tvojih besed in tvojih pogledov me je otroval ...</p>
+         <p xml:id="p.534">Ah, jaz nisem več jaz! ...</p>
+         <p xml:id="p.535">Otrok sem bil, nežen, rahločuten ...</p>
+         <p xml:id="p.536">O, kaj si storil iz mene, oče?</p>
+         <p xml:id="p.537">Jokal bi, jokal in kričal bi od boli, da bi se zemlja tresla! ...</p>
+         <p xml:id="p.538">Ali zaman bi bile vse tožbe ...</p>
+         <p xml:id="p.539">Dopolnjeno!..</p>
+         <p xml:id="p.540">Zgodilo se je, kakor se je zgoditi moralo, in izpremeniti se ne da nič več ...</p>
+         <p xml:id="p.541">Prižgana je plemenica ... Glej, kako se vije in dviga zubelj ... više in više — notri do neba! Simbol mojega sovraštva!</p>
+         <p xml:id="p.542">Prižgana je plemenica in ob njenem strašnem svitu, ob njenem groznem prasketanju zaključujem zgodbo svojega žalostnega življenja ...</p>
+         <p xml:id="p.543">Kako sladko, kako sladko je maščevanje! Kako dobro de to mojemu trpinčenemu srcu! ...</p>
+         <p xml:id="p.544">Vidiš, oče, zdaj imaš, kar si hotel vedno imeti!</p>
+         <p xml:id="p.545">Tat nisem, niti ubijalec in razbojnik, a nekaj sem vendar storil, da se izpolni tvoje prorokovanje — postal sem požigalec! Sezidal si si dvorec, da bi se šopiril v njem, rešen mene in moje matere, ki si naju oba tako silno črtil ...</p>
+         <p xml:id="p.546">Lahko si kaj domišljaš na svoj proroški talent, ti dobri oče moj!</p>
+         <p xml:id="p.547">Zdaj triumfuj!</p>
+         <p xml:id="p.548">Ali nemara vendar ne boš, kaj, oče? Nekoliko prepozno ti je prišlo to! Ko bi vsaj moja uboga mati še živela, da bi se ji mogel rogati!</p>
+         <pb facs="#WIKI00316-049" n="49" xml:id="pb.049"/>
+         <p xml:id="p.549">„Tu imaš, tu imaš — ali ti nisem pravil? ...“</p>
+         <p xml:id="p.550">Ali tega zadoščenja ne boš imel! Ne, zdaj ne boš triumfoval! Imel boš škodo in to te bo bolelo! In morda ti bo vendarle tudi neprijetno, ko se bo povsod govorilo, povsod pisalo o tem, da je tvoj lastni sin požigalec!</p>
+         <p xml:id="p.551">Kaj hočeš, zatajiti me ne moreš? Osmešil bi se! ...</p>
+         <p xml:id="p.552">Da, požigalec!</p>
+         <p xml:id="p.553">Dobro si prorokoval, moj dobri oče! ...</p>
+         <p rend="center" xml:id="p.554">— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — </p>
+         <p xml:id="p.555">Dopolnjeno!</p>
+         <p xml:id="p.556">Ah, zakaj, zakaj se je moralo zgoditi ... zakaj mora biti tako in ne drugače?</p>
+         <p xml:id="p.557">Moja duša je žalostna ...</p>
+         <p xml:id="p.558">Jokal bi, jokal ... Ha, kako se dviga plamen, kako odpira svoje žrelo temna pošast in požira! ... Simbol tvoje neusmiljenosti, oče! ...</p>
+         <p xml:id="p.559">Moja duša je žalostna, moje srce plaka ...</p>
+         <p xml:id="p.560">Bajoneta se leskečeta ... Vizija se je uresničila ...</p>
+         <p xml:id="p.561">Dopolnjeno! ...</p>
+         <p rend="center" xml:id="p.562">*</p>
+         <p xml:id="p.563">Odpusti mi, odpusti, mati! ...</p>
+         <p xml:id="p.564">Vem, ti nisi hotela, a jaz sem moral, moral ...</p>
+         <p xml:id="p.565">Rekla si včasi, mati, da je oče bolan. V svoji veliki dobrosrčnosti si mu odpuščala in ga celo zagovarjala ...</p>
+         <p xml:id="p.566">O ne, ne, mati! Nikdar ne more biti bolan človek tako krut! Ne, ni bil bolan! Mučil naju je in trpinčil, ker naju je sovražil! ...</p>
+         <p xml:id="p.567">Tebe je sumničil, ker je bil sam malopriden; tebi je podtikal grehe, ki jih je sam imel na vesti ...</p>
+         <p xml:id="p.568">Zloben je bil in krut in jaz in ti sva žrtev njegove krutosti in zlobe ...</p>
+         <p xml:id="p.569">Proklet on, ki je kriv! ...</p>
+         <p xml:id="p.570">O mati, k tebi si želim! ...</p>
+         <p xml:id="p.571">O prosi, da se uteši to moje ubogo srce! ...</p>
+         <p xml:id="p.572">Ne zavrzi svojega sina, mati! ...</p>
+         <p rend="center" xml:id="p.573">*</p>
+         <p xml:id="p.574">In zdaj se poslavljam od tebe, Gabrijela!</p>
+         <p xml:id="p.575">O da bi se dalo zapisati, kako je moji duši ob tej ločitvi! ... Razjokati bi se moral trdi kamen!</p>
+         <p xml:id="p.576">Zdravstvuj, Gabrijela! —</p>
+         <pb facs="#WIKI00316-050" n="50" xml:id="pb.050"/>
+         <p xml:id="p.577">Doslej je bila še vedno neka vez med nama ...</p>
+         <p xml:id="p.578">Dokler me je obsevalo nebeško solnce s svojimi čistimi in očiščujočimi žarki, dokler sem srkal vase še neokuženi vzduh iz sinjih nebeških višav, moje misli niso mogle oskruniti tvojega spomina ...</p>
+         <p xml:id="p.579">O, kolikrat sem klečal v mislih pred tvojo milo podobo in molil ... molil k njej, kakor se moli k Bogu! ...</p>
+         <p xml:id="p.580">Poslej bi bila vsaka misel nate greh!</p>
+         <p xml:id="p.581">Poslej smem misliti samo še na svojo zavrženost in na svojo bol ...</p>
+         <p xml:id="p.582">Ne, niti spominjati se nočem več tebe! Preveč si mi sveta! ... Pri živem Bogu ti prisegam, da zatrem v svojem srcu vsako misel, ki bi se oklepala tebe! ... — —</p>
+         <p xml:id="p.583">Ne boj se, ti ponosita, ti krasna, ti neomadeževana! Pred mojimi mislimi, pred mojimi željami si poslej varna! —</p>
+         <p xml:id="p.584">Zdravstvuj, Gabrijela!</p>
+         <p xml:id="p.585">Blagoslovljena vsaka tvoja stopinja! Naj izlije nebo nate vso svojo srečo! ... Sladek mir tvoji blagi duši!</p>
+         <p xml:id="p.586">Zdravstvuj, Gabrijela, zdravstvuj!</p>
+         <p xml:id="p.587">Pozabi me, kakor pozabim jaz tebe! — — —</p>
+         <p rend="center" xml:id="p.588">* * *</p>
+         <p xml:id="p.589">Preiskovalni sodnik je zaprl drobno knjižico in globoko je vzdihnil.</p>
+         <p xml:id="p.590">Sedel je še nekaj časa in strmel v nasprotni zid. Potem pa je vstal, stopil k oknu in žalostno je zrl venkaj ...</p>
+         <p xml:id="p.591">Zrl je venkaj, kakor bi iskal rešitve ... kakor bi si želel biti daleč stran ...</p>
+         <p xml:id="p.592">Prvič v življenju mu je bilo žal, da si ni izvolil drugega poklica ...</p>
+      </body>
+   </text>
+</TEI>

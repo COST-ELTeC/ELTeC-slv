@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SL00464">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Rotijin Blaže.  : ELTeC edition</title><author>Perko, Pavel (?-?)</author>
+            
+            <respStmt>
+               <name>Domen Kermc</name>
+               <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
+            </respStmt>
+         </titleStmt>
+         
+         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <sourceDesc>
+            <bibl><title>Rotijin Blaže</title><author>Perko, Pavel</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Rotijin_Bla%C5%BEe</idno><idno type="urn">http://archive.org/details/slovenskeveerni09svgoog</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
+         <langUsage><language ident="sl">slovenščina</language></langUsage>
+         
+      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/></textDesc></profileDesc>
+      <revisionDesc xmlns:t="http://www.tei-c.org/ns/1.0"><change when="2018-10-11"><name>Lou Burnard</name>: converted to ELTeC
+           </change>
+         <change when="2015-09-26">
+            
+            <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
+         <change when="2013-11-29">
+            
+            <name>Domen Kermc</name>: pretvorba v TEI P5.
+      </change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text xml:lang="sl">
+      
+      <body xml:lang="sl">
+         <pb facs="#WIKI00464-001" n="1" xml:id="pb.001"/>
+         <div xml:id="wv-I.">
+            <head xml:id="head.1">I.</head>
+            <p>Rotijin Blaže je rad in práv pogosto premišljal o čem. Zlasti takó-le zvečer, ko se je s sladko zavestjo, da je podnevno delo v kraju, zaril v seno in mu oči le niso hotele pasti skupaj, čeprav se je trudil, da bi zaspal — zlasti tedaj so mu kaj rade ušle misii sem ali tja. In tedaj je mislil včasi veliko in dolgo. Luna, ki je svetila skoz špranje v pažu, mu je bila družica pri njegovih sanjarijah. Razsvetljevala mu je temne prostore pod streho, in Blaže je dobro ločil, kako so osmojeni tramovi nad njegovo glavo držali drug v drugega, in kako se je bila razpredla pajčevina med njimi ... To ga je vselej veselilo. In Blaže je mislil in mislil — —</p>
+            <p>Ko je tako mislil in preudarjal o čem, je bil naposled največkrat zadovoljen sam s seboj. Drugo jutro se je vzbudil ves vesel in dobre volje. Kadar pa v svojem premišljanju ni mogel priti do povoljnega zaključka, tedaj ga je to vselej jezilo. Zjutraj je vstal nato posebno čemeren in pobit.</p>
+            <p>Premišljal je pa o vsem, prav o vsem; celó o takih rečeh, ki bi se bile drugemu zdele otročje in malenkostne. Vendar je najrajši mislil o sebi in o svojih razmerah. Res, dasi je vedel iz izkušnje, da je bil v tem slučaju le malokdaj popolnoma zadovoljen sam s seboj — vendar je mislil najrajši o sebi in o svojih razmerah.</p>
+            <p>Rotijin Blaže na zunaj ni bil take postave, ki bi se bila mogla imenovati lepa. Ne! Star je bil nekako osemnajst let, suh in dolg. Z udrtimi prsmi, s koščenimi rokami, z vilastimi prsti — kdo bi rekel, da je bil lep? Poleg tega je nekoliko šepal, odkar je bil še otrok padel iz zibeli in <pb facs="#WIKI00464-002" n="2" xml:id="pb.002"/>si izvinil nogo. In na desní nogi pri palcu mu je molela stranska kost nekam izzivajoče navzven, da se je to poznalo celó na črevlju.</p>
+            <p>Tak je bil Rotijin Blaže po zunanji postavi. Kolikokrat mu je prišlo milo radi tega, a pomagati — kdo bi mu mogel? Zato pa Blaže o svoji zunanji postaví ní posebno rad premišljal.</p>
+            <p>Tem rajši je pa mislil o svojíh duševnih darovih. O duševnih darovih ... O, tu pa Rotijin Blaže ni bil tako na slabem! Tu se je mogel ponašati z marsičim. Kregal se ni rad, klel ni, zbadal ni, opravljal ni ... A kadar je bilo treba, je zastavil tudi besedo. Sicer pa je bil Blaže tih in pohleven, včasi še preveč. Mehak je bil in pregovoríti se je dal prenaglo, bodisi za to ali za ono stvar. Izmed vseh svojih lastnostij ni bil vesel edino te. Ta mehkoba v njegovem značaju mu je delala skrbi in preglavico ...</p>
+            <p>Pa Blaže — smo rekli — je premišljal tudi o svojih razmerah. In glejte, ravno s temi je bil vselej zadovoljen popolnoma in do pičice. Tu ni bilo nobene senčne poteze, nobene slabe strani.</p>
+            <p>Blaže je služil pri Posečniku vrh Žirovskega vrha. Za volarja je služil. Ni posebno imenitna služba volarska, vendar Blaže jo je opravljal došlej vedno veselo in zadovoljno. Zakaj tudi ne? Saj volar je pri nas še vedno več nego pastir. Volar je pri srednjih kmetih, kakoršen je bil Posečnik, toliko kot po drugod mali hlapec. Pri takih kmetih imata volar in pastir však svoje odkazano delo. Volar vozi z voli raz njivo, krmi živino zvečer, pelje v mlin však teden itd. Pastir pa se vsega tega niti dotakniti ne sme. Njegovo mesto je na paši in le na paši. Celó ob nedeljah popoldne, ko je volar prost kakor riba v vodi, mora biti pastir pri svojih kravah in ovcah ... In to ni prijetno. Vrh tega ga nihče ne čisla ali kako drugače vpošteva — nič! Pastir je reva in volar je gospod v primeri z njim.</p>
+            <p>Tako je bilo tudi pri Posečniku v gorah. Če se je meralo reči, da je bil pastir Štefuc čisto postranska in malo čislana oseba pri hiši, se to ni moglo trditi o Blažetu. Blažeta je imelo vse rado in vse mu je bilo prijazno. Le s Posečnikovim dekletom, ki je bilo silno jezično, sta se sprla včasi — a resno nikdar in za dolgo čaša tudi ne. Zlasti pa je Blažeta rad imel Posečnik sam. Ta mu je zaupal vse. In če Blažeta ob nedeljah popoldne slučajno ni bilo malo <pb facs="#WIKI00464-003" n="3" xml:id="pb.003"/>delj domov kakor po navadi, ga niti vprašal ni, kod je hodil in kaj je delal; da je bil le o Marijah doma in da je bila živina opravljena. Za to pa se je pobrigal Blaže vselej vestno in ob času.</p>
+            <p>Tako je živel Blaže v miru z vsemi in zadovoljen s svojimi razmerami. Dnevi so mu potekali — lepi dnevi, dasi v hribih in dasi daleč proč od ljudij. Do zadnjega mu ni prišlo na misel, da bi bil le za trenutek nezadovoljen s svojo službo ali s čimersibodi. Do zadnjega, pravim, nazadnje pa — —</p>
+            <p>Ali bi vam pripovedoval o tem ali ne?</p>
+            <p>Naj bo! Naj vam pripovedujem, kako je prav zdaj proti koncu prišlo nekaj vmes, kar je bilo vzrok, da je razmišljal Rotijin Blaže o sebi in o svojih razmerah še vse bolj pogostoma in še vse bolj pozorno kakor došlej!</p>
+         </div>
+         <div xml:id="wv-II.">
+            <head xml:id="head.2">II.</head>
+            <p>Prišlo je takó-le — kar stopnjema ...</p>
+            <p>Pastir Štefuc je bil nanagloma obolel. Tam neki dan je deževalo z nalivom in Štefuc je pasel na planinici za njivo. Je že morebiti mislil, da se bo prevleklo, zato je čakal. A dež je lil in nevihta je pritiskala. Še le zvečer je prignal domov — ves premočen. Drugi dan je moral ostatí v postelji; prehladil se je bil.</p>
+            <p>A ker je bilo jeseni — in jeseni je treba pasti kar naprej — je rekel Posečnik drugi dan Blažetu:</p>
+            <p>»Blaže, ženi ti danes in jutri, da se otrok ozdravi. Dolgo menda ne bo polegal ...«</p>
+            <p>In Blaže je gnal. Zakaj bi se bil ustavljal, ko je videl, da je potreba? Posečnik za prvo silo res ni mogel dobití drugega za na pašo. Hlapca je sicer imel, toda hlapec pri svojih tridesetih letih vendar ni, da bi hodil za živino. Domače dekle pa je bilo že v dvajsetem letu in je moralo pomagati Posečnici pri pletvi. Ostal je torej samo še Blaže.</p>
+            <p>In Blaže je gnal rad in z veseljem; saj je bilo za izpremembo.</p>
+            <p>Lepo je bilo. Solnce je sijalo ves dan; ob solncu pa je tako prijetno, če se more nekoliko poležati v senci. Blaže je ležal — roke pod glavo — ter prešteval oblake nad seboj, ali pa gledal pred seboj doli v dolino.</p>
+            <p>Ta razgled! Že samo radi razgleda bi bilo vredno, zameniti enkrat s Štefucem.</p>
+            <pb facs="#WIKI00464-004" n="4" xml:id="pb.004"/>
+            <p>Žirovski vrh se od Posečnikove planinice znižuje strmo navzdol. Dva rebra vodita v dolino. Na vznožju enega stojé Žiri, na vznožju drugega pa Brodi. Žiri in Brodi sta dve lični vasici v dolini. V nekakem loku se vleče dolina od Žirov do Brodov okrog Žirovskega vrha. Po dolini pelje cesta in ob česti teče voda. Ob vodi pa se dvigajo na vsako stran gore, porastle z gozdi.</p>
+            <p>Ti gozdi! Kako raznobojno obleko dobivajo dolinski gozdi na jesen! Bukve in hrasti porumené in porjavé, a bori stojé še vedno tako lepo zeleni kakor spomladi. Koder je listje že odpadlo z dreves, se vidi nekaka vrzel sredi med goščavo. Izmed drevja se káže na takih mestih ali prstena melina, ali pa potlačeno, malo osmojeno resje. Zajec se skriva med grmovjem in pok puške se čuje tu in tam. Veverica pa zaide včas! Celó iz gozda na pašnik iskat si živeža.</p>
+            <p>Pa to še ni vse! Nad vso okolico vstajajo in se menjavajo svetloobrobljeni oblaki in oblački. Počasi se dvigajo izza hribov, popenjajo se više in više in naposled zopet izginjajo kje tam za tretjimi hribi. Veselje je zasledovati z očmi njih skrivnostna pota, ali pa opazovati njih kretnje, tako gibke, a pri vsem tem vendar tako določne in umerjene.</p>
+            <p>Blaže je mogel vse to. In kadar se je naveličal ležati, je vstal in hodil po pašniku ter ukal v dolino, da je odmevalo od vseh stranij. Razgreval se je pri tem in pred oči so mu zopet stopili tisti čaši, ko je še kot pastir pred dvema letoma gonil živino skoro le na planinico. Moj Bog, kje bi bil mogel misliti na kak dolg čas pri tem! Dan mu je minil hitro, še prehitro ...</p>
+            <p>Štefuc pa le ni ozdravel. Polegal je drugi dan, tretji dan, četrti dan ... in Posečnik je redno však večer prosil Blažeta:</p>
+            <p>»Blaže, jutri še ženi, samo še jutri!«</p>
+            <p>In Blaže je zopet gonil brez kakega ugovora in brez vsake nevolje.</p>
+            <p>In gonil bi bil rad in z veseljem še dalje in kakor dolgo bi bilo treba, da ni ravno nekaj prekrižalo računa njemu in Posečniku.</p>
+            <p>Nedelja je bila pred durmi, nedelja. Kdo ne vé, da je nedelja na kmetih prost dan, dan, ko se delavni človek oddahne in odpočije, nikar da bi se mučil in trudil po nepotrebnem.</p>
+            <pb facs="#WIKI00464-005" n="5" xml:id="pb.005"/>
+            <p>»In vendar — kaj ko bi prišlo Posečniku na misel, da bi mi tudi v soboto zvečer rekel kakor po navadi: „Ženi!“ Ali bi gnal!«</p>
+            <p>Blaže je bil v zadregi sam pred seboj.</p>
+            <p>»Ali bi gnal?«</p>
+            <p>»Ne!«</p>
+            <p>Ne, v nedeljo pa ne — ta sklep je bil tako trden in gotov kot ne vem kaj. V nedeljo pa ne, če tudi bi imela priti s Posečnikom popolnoma navzkriž. Ne! — In kakor nekaka svojeglavnost se je hotela lotiti Blažeta.</p>
+            <p>Pa ravno to nedeljo naj bi pasel? Hm! Ravno to nedeljo, ko ga je imel obiskati Petelinov Tinče. Petelinov Tinče je bil kupil zadnjo nedeljo na loškem semnju harmoniko — harmoniko na tri glase. S to harmoniko bo prišel v nedeljo popoldne k Muretu v gore, da ga bo Muretov Andrejček učil gosti. Med potjo pa se bo Tinče oglasil pri Blažetu in vzel tudi njega s seboj. In potem se bodo učili pri Muretu ... Hej, saj sta se dogovorila s Tinčetom, da bo tako!</p>
+            <p>In da bi táko priliko zamudil? Da bi besedo prelomil Posečniku na ljubo?</p>
+            <p>»Ne!«</p>
+            <p>Kakor rečeno, Blažetov sklep je bil trden in gotov.</p>
+            <p>Toda ko je prišel sobote večer, kaj mislite, da je bilo tedaj iz vseh Blažetovih sklepov in naklepov? Nič! Posečnik ga je naprosil kakor po navadi: »Ali boš —?« in Blaže mu je odgovoril kakor po navadi: »Bom —!«</p>
+            <p>In drugi dan — lep dan je bil; v nedeljo popoldne — je res gnal, jezen sam náse.</p>
+            <p>»Morebiti me pa obišče Tinče na planinici.« Ta misel je bila edina, ki je Blažetu hladila jezo in pobitost.</p>
+            <p>Toda žal, varalo ga je!</p>
+            <p>Petelinov Tinče je sicer prišel, toda kako!</p>
+            <p>Pozno popoldne je že bilo. Blaže je ležal pod orehom in gledal po senožeti. Na enkrat se pokaže nekdo vrh grebena. Bil je Tinče s harmoniko. Blaže ga je spoznal takoj.</p>
+            <p>»Tinče, Tinče, pojdi doli!«</p>
+            <p>Tudi Tinče ga je zapažil. In kaj je storil Tinče? Razkoračil se je na robu senožeti, si položil obe dlani na lice, da bi se bolje čulo, in je zavpil nad Blažetom:</p>
+            <p>»Pastir!«</p>
+            <p>Ali ni bil ta glas zaničljiv? Ali ni donelo to porogljivo? Vendar Blaže še ni obupal.</p>
+            <pb facs="#WIKI00464-006" n="6" xml:id="pb.006"/>
+            <p>»Tinče, ali greš k Muretu?«</p>
+            <p>Tinče pa se je namesto odgovora zopet razkoračil in zavpil še bolj glasno in še bolj porogljivo:</p>
+            <p>»Pastir!«</p>
+            <p>In potem je izginil za ovinkom, ne da bi se bil ozrl vsaj enkrat po Blažetu ...</p>
+            <p>Blaže pa — ta je ostal sam, tako sam s svojimi mislimi, s svojo jezo in s svojo pobitostjo!</p>
+            <p>Pastir. — Kako porogljivo mu je donel še vedno ta glas. Pastir ... Sedaj je začutil na sebi vso težo te usode polne besede. Sedaj mu je kar v hipu stopilo jasno pred oči, kar mu je dotlej le temno, a vendar težko kakor môra ležalo na duši ... Posečnik mu kráti svobodo, ko ga takó-le po šili vklepa v pastirske spone. In on se mu vda in trpi vse, vse! Zato se mu pa že roga vsakdo in ga prezira.</p>
+            <p>Blažetu je bilo vse to tako jasno, tako gotovo in dognano!</p>
+            <p>Vstal je in začel hoditi s širokimi koraki po pašniku. Obstal je takoj zopet in srpo zri po senožeti. Vrelo mu je v duši. Jezil bi se bil, jokal bi bil — toda nad kom? Nad samim seboj?</p>
+            <p>Legel je zopet vznak in gledal po koncu.</p>
+            <p>Nad njim so se kopičili oblaki. Drug za drugim so se drevili, drug prek drugega so uhajali. Videti je bilo, kakor bi se podili z jezo in s silo in kakor bi se slabejši strahopetno umikali močnejšim ...</p>
+            <p>Prav tako tudi misli v Blažetovi duši! Tudi te so se podile. Izginjale so, pa zopet vstajale; prehitevale so se in izpodrivale druga drugo — in vse skupaj so drevile v neko megleno in popolnoma neznano daljavo ...</p>
+            <p>Zakaj ljudje takó-le pometajo z njim? Zakaj lahko vsakdo dela in razpolaga z njim, kakor se mu ljubi? Zakaj?</p>
+            <p>Zavoljo mehke in upogljive narave njegove! Zavoljo pomanjkanja trdnega značaja, ki ga nima in ki ga še nikdar imel ni in ga ne bo!</p>
+            <p>In zakaj ga nima?</p>
+            <p>Zato, ker se drži tako sam; ker ne gre med ljudi; ker je bojazljiv; ker živi sploh vse drugače, kakor živé in se nosijo drugi — drugače, kakor živi in se nosi — brat France!</p>
+            <p>Da, brat France ...</p>
+            <p>In Blažeta je obdajalo sto in sto mislij — novih, a vendar ne novih ...</p>
+         </div>
+         <pb facs="#WIKI00464-007" n="7" xml:id="pb.007"/>
+         <div xml:id="wv-III.">
+            <head xml:id="head.3">III.</head>
+            <p>Ali to veste, da je imela Rotija, mati Blažetova, dva sina? Blažeta in Franceta je imela, le da je bil France za celih pet let starejši ko Blaže.</p>
+            <p>France je bil žali otrok, ko je bil še majhen. Še ko ga je mati pestovala, se je primerilo, da jo je obiskala ta ali ona soseda in — moj Bog, kaj sta govorili med seboj? Nič drugega kakor le o njem, o tem otroku — o Francetu.</p>
+            <p>Ko je bil otrok nekoliko odrastel, ga je Rotija poslala v šolo. Nadejala se je Bog ve česa — no, pa tega ni povedala nikomur ...</p>
+            <p>Domača šola je bila tedaj v Žireh. Ta vas je oddaljena dobre pol ure od Rotijine koče. Zato je hodil Francek sprva le po enkrat na dan, namreč dopoldne. Pozneje pa se je otrok — Bog vedi kako — seznanil z Vilfanovo rodbino v Žireh. Vilfan je bil trgovec, bogat in malo bolehen. Francetovega očeta je dobro poznal in otrok sam se mu je s svojim odkritim, malo samozavestnim značajem v kratkem času prikupil. In ker je bil France že kot otrok gibčen in je znal biti — kadar je bilo treba — tudi postrežen, uljuden, zgovoren ... je mogel že takoj v začetku tu pa tam v prodajalni poprijeti za delo. Skratka, že kot otrok je bil France malo ne domač pri Vilfanu.</p>
+            <p>Pri tem se je otrok učil dobro in šola ga je veselila vedno bolj.</p>
+            <p>In kaj je bilo potem?</p>
+            <p>Šolali so ga naprej, dali so ga v mestne šole. Vilfan ga je podpiral, oče Francetov, ki je bil v Ameriki in tam dobro služil, je pošiljal denar, mati Rotija pa si je služila krajcarje z dnino in jih pošiljala Francetu v mesto.</p>
+            <p>France se je učil dobro. Vsako leto je prihajal na počitnice. Kako gosposki je bil! Lepo črno obleko je imel, počesane lase, svetle škornje ... Ljudje so rekli, da bo gospod ... In mati ga je bila vesela, da ni vedela, s čim bi mu bolje postregla.</p>
+            <p>Tako je bilo; dolgo je že tega. Blaže je bil tedaj še majhen. Vendar vedel in videl je vse in zapažil je že takrat marsikaj. Med drugim se mu je videlo, da mati Rotija vidi Franceta vse rajši nego njega. A Blaže se zato ni menil posebno. »Že mora tako biti!« si je mislil in materi ni zameril. Samo Francetu je zameril. Videl je, da ga še najbolj nezavidi France sam. To se mu ni zdelo prav. Zato se je v Blažetovem srcu rodilo že v zgodnji <pb facs="#WIKI00464-008" n="8" xml:id="pb.008"/>mladosti nekaj, kar sicer ni bilo sovraštvo in tudi mržnja ne, pač pa ga je nekaj odtujevalo in gnalo proč iz Francetove družbe.</p>
+            <p>Sploh pa Blaže že kot otrok ni bil prijatelj družbe. Najrajši je rake lovil po domači grapi; to mu je bila druščina in zabava. S privihanimi rokavi in mokrimi hlačami do kolen je lazil ob vodi in gledal, kje in pod katero skalo bi tičal rak. Imel je lepo nastavíjene skale, umetno prislonjene h grivi, kamor so se mu poskrili raki črez noč. To je bilo veselje, če je dobil včasi po dva ali še več pod eno skalo.</p>
+            <p>A niti tega veselja mu ni privoščil France!</p>
+            <p>Nekoč je bil Blaže zasačil raka velikana in ga vlekel izpod grive. Že ga je bil privlekel na dan in se veselil svojega plena, držeč ga v roki po koncu. Kar se oglasi nekdo za njim glasno in strogo:</p>
+            <p>»Kaj delaš tukaj?«</p>
+            <p>Bil je brat France, ki se je tedaj ravno vrnil iz mesta na počitnice.</p>
+            <p>Blaže je osupnil. Ravno tedaj se ga je nadejal najmanj. Vendar se mu je zdelo, da bo najboljše, če mu odgovori mirno in prijazno. France je bil vedno hud, kadar se mu je Blaže odgovarjal.</p>
+            <p>»Rake lovim,« mu je odgovoril Blaže mirno in preprosto, »vidiš ...«</p>
+            <p>In z veseljem mu je molil raka, kakor bi bil hotel reči: »Ali ni velik?«</p>
+            <p>France se mu je že hotel nasmejati; toda nesreča je hotela, da se je rak v tistem hipu skrivil nazaj in zagrabil Blažeta v prst. O joj! Blaže je začel otresati z roko in je kričal. A rak se je le držal. In čim huje se je držal, tem huje je otresal Blaže. France pa je vpil nad njim, naj miruje. Toda kako je mogel mirovati? Otresal je — in otresel raka Francetu na novo, črno obleko. Rak pa je bil ves travnat in blaten. In blato in trava se je na debelo oprijela Francetove suknje ... To je bila nesreča!</p>
+            <p>»Kaj — ? Da ti pokažem ... Čakaj — !«</p>
+            <p>In z lepo palico, ki je imela srebrno bunko na koncu, je priložil Blažetu črez pleča eno, dve.</p>
+            <p>To je bilo preveč! Blažetu je vzkipela kri:</p>
+            <p>»Čemu bi me tepel, ko ti tega nisem naredil nalašč?«</p>
+            <p>In zagrabil je pest peska ter ga telebil Francetu v obleko.</p>
+            <pb facs="#WIKI00464-009" n="9" xml:id="pb.009"/>
+            <p>In zbežal je po bregu.</p>
+            <p>Zdaleč se je obrnil še enkrat in zavpil nad Francetom:</p>
+            <p>»Gospod ne boš nikdar, da veš! Však pravi, da ne boš — in jaz tudi!«</p>
+            <p>Nato je izginil za grmovjem in se izgubil v gozdu.</p>
+            <p>In France —?</p>
+            <p>France je zelen od jeze gledal za njim in si brisal obleko.</p>
+            <p>Ta slučaj je imel za Blažeta posledice, ki mu nikakor niso bile ugodne. Ne, kakor da bi Blaže ne bil uganil, kar je pretil Francetu — ne, tega ne! Zakaj že tiste počitnice je ostal France doma in »gospod« ni bil nikdar. Pri Vilfanu se je izučil za trgovca in Vilfan ga ima kakor za svojega in vsakdo vé, da bo nekoč France dedič vsega premoženja, kar ga imata Vilfan in Vilfanka.</p>
+            <p>A nekaj drugega je bilo, kar je škodilo Blažetu in na kar ni toliko mislil tedaj.</p>
+            <p>France je imel pri materi Rotiji veliko veljavo. Rotija mu je verjela vse in se tudi ravnala po njegovi besedi. France pa je poslej črnil Blažeta, kjer in kakor ga je mogel. Pregovarjal je mater, naj ga dá od hiše. In pregovoril jo je. Še tisto leto je moral iti Blaže. Pri Posečniku je manjkalo pastirja. Rotija in Posečnik pa sta si bila v daljšem sorodstvu. Alo! In Blaže je šel — rad ali nerad, tega ni vprašal nihče ...</p>
+            <p>Takrat je štel Blaže dvanajst let, France pa sedemnajst.</p>
+         </div>
+         <div xml:id="wv-IV.">
+            <head xml:id="head.4">IV.</head>
+            <p>Kolikokrat je že premišljal Blaže o sebi in o Francetu in kolikokrat je že primerjal samega sebe s Francetom! In vselej je čutil, kako velika razlika je med njim in Francetom. Vselej mu je bilo hudo pri tem in trpke misli so se mu vsiljevale ob takih spominih.</p>
+            <p>Vendar tako trpko mu pri teh spominih ni bilo še nikdar, kakor oni dan na paši. Ta dan je prišlo nad Blažeta vse ... Tinče ga je jezil, Posečnik, Štefuc, živina — celó vreme mu ni bilo povšeči.</p>
+            <p>Hodil je vedno znova gori in doli po pašniku; tiščal je roke v žepu, gledal v tla in mislil, mislil ...</p>
+            <p>»Vse bi še bilo,« je vzdihnil naposled, »vse bi še bilo, da bi le Štefuc ozdravel.«</p>
+            <p>Potem bi bil Štefuc zopet pastir, Blaže pa volár.</p>
+            <pb facs="#WIKI00464-010" n="10" xml:id="pb.010"/>
+            <p>Volár —.</p>
+            <p>Seveda. Volár bi bil zopet in dobro bi mu bilo in zadovoljen bi bil.</p>
+            <p>Moj Bog, kako je bil došlej kot volar vedno zadovoljen! Med tednom je delal in se trudil, to je res. Tudi volí so ga jezili, kadar so mahali po muhah ali mu uhajali iz kolovoza v stran. Pa kaj vse to! V nedeljo se je spočil in razvedril po svoje. V nedeljo popoldne je šel, kamor je hotel, in delal, kar je hotel.</p>
+            <p>A zdaj — ? Zdaj je drugače.</p>
+            <p>O da bi se kmalu vrnili prejšnji časi; da bi se vrnili!</p>
+            <p>Pa saj se bodo; saj se morajo!</p>
+            <p>In upanje na boljše čase mu je vstajalo polagoma pred dušo, kakor zarja izza gora.</p>
+            <p>Upanje, upanje!</p>
+            <p>In ravno upanje je bilo, ki ga je naposled znatno pomirilo in ohrabrilo.</p>
+            <p>Upanje, upanje!</p>
+            <p>Toda kaj, ko nas upanje tako rado goljufa! Kaj, ko si cesto slikamo prihodnjost vse lepše, kakor bi jo smeli!</p>
+            <p>In kdo se je že večkrat varal v svojih upih nego Rotijin Blaže!</p>
+            <p>Tudi tedaj se je.</p>
+         </div>
+         <div xml:id="wv-V.">
+            <head xml:id="head.5">V.</head>
+            <p>Pastir Štefuc je ozdravel. Že drugi dan — v ponedeljek — je bil toliko zdrav, da je odrešil Blažeta in mogel gnati na planinico. Konec tedna je že celo ukal na paši in pel in kričal kakor pred boleznijo.</p>
+            <p>Toda vse to ni pomagalo Blažetu. Zanj le niso hoteli priti tisti časi, ki si jih je oni dan tako goreče želel in se jih veselil že naprej.</p>
+            <p>Blaže je bil zopet volár kakor poprej in je vozil z njive, pa zopet na njivo, v mlin, v laz — sploh povsod. A glejte, navzlic temu ga je nekaj tiščalo kakor môra in ga delalo pustega, jezavega in prepirljivega.</p>
+            <p>In vendar dotlej Blaže ni bil nikdar jezav in prepirljiv!</p>
+            <p>Kaj je bilo to? Sam ni vedel, kaj je bilo. To dušno stanje, ki ga je čutil tiste dni, mu je bilo tako novo, da si ga ni mogel razlagati. Le toliko je vedel, da ni zadovoljen in da tudi kot volar ne more biti zadovoljen in naj si prizadeva, kolikor si hoče. Ničesar mu ni manjkalo, a čudno, tistih srečnih, brezskrbnih dnij, kakor jih je imel včasi — <pb facs="#WIKI00464-011" n="11" xml:id="pb.011"/>tistih ni bilo. Delal je sicer, a ne z veseljem. Storil je vse, kar mu je ukazal Posečnik, a vendar bi mu bil najrajši kljuboval in ugovarjal.</p>
+            <p>Tako je šel čas svojo pot in dnevi so potekali pusto in enolično.</p>
+            <p>Vendar — kdo vé, ali bi ne bil prišel Blaže naposled vendarle nazaj v stari tir in bil zopet tisti srečni in zadovoljni Blaže kot svoj čas — da ni prišlo nekaj, kar ga je vrglo popolnoma iz ravnotežja in kar je bilo ob enem usodepolno za njegova poznejša dejanja.</p>
+         </div>
+         <div xml:id="wv-VI.">
+            <head xml:id="head.6">VI.</head>
+            <p>Neko nedeljo je bilo. Posečnik je bil od maše gredé pozabil plužna kolca v Brodeh. Brodski kovač mu jih je bil popravil, ker v ponedeljek v jutro na vse zgodaj je menil iti Posečnik orat. Na — pa jih pozabi! In kako naj bi oral brez plužnih kole? Na však način jih je bilo treba dobiti še tisti dan.</p>
+            <p>»Blaže, ti pojdi po nje!« je rekel Posečnik Blažetu. Precej pozno popoldne je bilo.</p>
+            <p>»Zakaj ne? Rad grem.«</p>
+            <p>»Do noči boš opravil, ali ne?«</p>
+            <p>»Lahko.«</p>
+            <p>In Blaže je bil vesel ter se takoj odpravil v dolino.</p>
+            <p>Lep dan je bil — jesenskemu dnevu do malega nič podoben. Solnce je peklo; listje, ki je bilo deloma že odpadlo z dreves, se je sušilo in pražilo po potih in stezah.</p>
+            <p>Blaže je hitel.</p>
+            <p>V dolini je bilo vse nekam praznično. Na Logu v sosednji vaši, kake pol ure od Brodov, je bil semenj. Streljali so vse popoldne in godba je donela in ukanje se je čulo iz gostilen.</p>
+            <p>No, Blaže se ta dan ni zmenil niti za ukanje, niti za ples; mudilo se mu je.</p>
+            <p>Dospel je v Brode in že je bil pri kovaču in mislil zaviti v vežo in zadeti kolca, pa iti — kar ga nekdo pokliče iz sosednje gostilne skoz okno:</p>
+            <p>»Blaže, pit pojdi!«</p>
+            <p>Lovrinova gostilna je bila to — edina v vaši. Fantje so pili notri ... Tisti pa, ki ga je klical, ni bil nihče drug, nego Bolantaček iz Hotovelj. — Bolantaček iz Hotovelj je bil godec in z Blažetom sta si bila nekoliko znana.</p>
+            <p>»Ali ne greš, Blaže?«</p>
+            <pb facs="#WIKI00464-012" n="12" xml:id="pb.012"/>
+            <p>»Ne utegnem.«</p>
+            <p>»Beži, no! Pit pojdi!«</p>
+            <p>Blažeta se je lotila izkušnjava ...</p>
+            <p>»Naj bo, kar hoče — saj bo samo za nekaj časa.«</p>
+            <p>In ker je bilo ravno blizu, je zavil v gostilno s trdnim sklepom, da se le malo čaša zamudi.</p>
+            <p>Toda kaj veljajo sklepi in naj so še tako dobri, če človek zaide v takó-le druščino.</p>
+            <p>Blaže je kar zijal, ko je stopil v sobo, in vse se mu je zdelo tako novo, tako nenavadno, a vendar tako vabljivo in prijetno, kar je videl v fantovski druščini.</p>
+            <p>V prvi sobi na klopi je stal mlad fant, napol vojaško opravljen, držeč v eni roki kozarec, drugo pa stiskajoč v pest, in je vpil v nekem čudnem jeziku venomer:</p>
+            <p>»Hremi na Loha! Hremi na Loha!«</p>
+            <p>Bil je to, kakor je Blaže pozneje zvedel, neki Oger, inženirjev strežaj. Merjavci so namreč hodili po naših gorah in risali karte. Dva strežaja sta hodila z njimi: ta Oger in pa še nekdo drug, ki je nosil prtljago in orodje. Ob nedeljah pa sta popivala s fanti. Ogru je bilo ime Janoš.</p>
+            <p>»Kaj pa govori?« je vprašal Blaže, ko je prisedel za mizo. Ogrove besede je razumel le napol.</p>
+            <p>»Pravi, da naj gremo na Log,« mu je pojasnil Bolantaček in se takoj nato obrnil do Janoša, češ:</p>
+            <p>»Kaj praviš, Janoš?«</p>
+            <p>»Hremi na Loha! Hremi na Loha!«</p>
+            <p>»Stepli so se na Logu,« se je obrnil Bolantaček zopet do Blažeta in mu kimaje z glavo in z od smeha mokrimi očmi razlagal na dolgo in na široko, kako so bili to popoldne Ložani otolkli nekoga izmed brodskih fantov, da se je ta komaj privlekel domov; in kako je to razburilo vse in kako so hoteli udariti nad Ložane in se maščevati nad njimi.</p>
+            <p>Blaže je videl, da so nekateri res že vstajali in se odpravljali proti Logu. Drugi pa so tiščali krog Janoša in ga izpraševali vedno znova:</p>
+            <p>»Kam gremo, Janoš, kam gremo?«</p>
+            <p>»Na Loha!«</p>
+            <p>»In kaj bo na Lohu, Janoš?«</p>
+            <p>»Hremi, hremi! S sabljo hremi!«</p>
+            <p>»Ali imaš sabljo, Janoš?«</p>
+            <p>»Imam sabljo ... Imam štiri štuke sabljo!«</p>
+            <p>In skočil je raz stol, kakor bi se bil še le sedaj domislil nečesa važnega, in jo ubral na vso silo skoz vráta, kričeč:</p>
+            <pb facs="#WIKI00464-013" n="13" xml:id="pb.013"/>
+            <p>»Prinesem sabljo, takoj prinesem sabljo — «</p>
+            <p>Fantje so ga čakali in ugibali smeje se, kaj bo prinesel. Mislili so, da bo prišel z velikansko sabljo, dolgo za štiri druge, in radovednost jih je mučila. A bilo je ravno narobe, kakor so mislili. Janoš se je vrnil hitro in prinesel štiri práv kratke sablje. S temi je mahal že od daleč in vpil:</p>
+            <p>»Sablja štiri štuke! Glejte, to je sablja štiri štuke: tu ena, tu ena, tu ena, tu ena!«</p>
+            <p>Štiri »štuke« — hm, kdo ga je razumel dotlej? Nihče! Kdo bi se mu ne bil smejal temu Janošu in njegovim štirim »štukom« sabelj?</p>
+            <p>Čas je potekal, a Lovrinova gostilna je bila še vedno polna. Kdo bi se mogel ločiti tako hitro? Pili so, govorili, smejali se in kratkočasno je bilo, da nikdar tako.</p>
+            <p>Tudi Blaže je pil. V vinu in šumu je lahko pozabil na malenkosti, kakor so plužna kolca in pa Posečnikovo oranje. Saj ni imel niti trenutka praznega čaša, da bi se bil spomnil, čemu je sploh tukaj in kdaj ima priti domov.</p>
+            <p>Ko so se dvignili in se med petjem in ukanjem odpravili po česti proti Logu, je bil že večer. Blažetu je bilo stopilo vino v glavo. Čutil je, kako mu je gnalo kri po žilah, kako mu je vrelo ob sencih, kako mu je migljalo pred očmi ... Neka nadležna misel se ga je hotela polastiti ... Iz neke temne daljave mu je prihajala ta misel in črna je bila, hu! Blaže pa seje menil rajši za druščino, ki mu je bila blizu; za fante, ki so ukali; za Bolantačka, ki sta korakala skupaj.</p>
+            <p>»Ti, Bolantaček, kam gremo?«</p>
+            <p>»Na Log gremo.«</p>
+            <p>»Gremo!« ponovi Blaže.</p>
+            <p>Cesta je peljala vedno dalje, vedno dalje ... Blažetu se je zazdelo, da je danes že enkrat korakal po tej cesti; a nič se ni mogel domisliti kdaj. Zdelo se mu je tudi, da bi zdajle po tej česti ne smel iti, ali — če že gre — da bi vsaj dalje ne smel iti, nego doli do mosta, kjer se odcepi pot k Posečniku ... In če bi šel dalje ko do mosta, potem bi — kaj bi bilo potem? Tega se zopet ni mogel domisliti.</p>
+            <p>A bilo mu je, kakor bi ga podpirala neka tajna moč.</p>
+            <p>In ko so dospeli do mosta, je začutil Blaže kar mahoma v sebi neko dusno silo, nekaj neumljivega, skratka, nekaj tajnega, kar ga je gnalo v stran, proč, daleč proč od druščine.</p>
+            <p>In zavil jo je res v strán proti mostu, proti Posečniku.</p>
+            <p>Fantje pa so odkorakali dalje.</p>
+         </div>
+         <pb facs="#WIKI00464-014" n="14" xml:id="pb.014"/>
+         <div xml:id="wv-VII.">
+            <head xml:id="head.7">VII.</head>
+            <p>Kako je prišel Blaže tisti večer do Posečnika, sam ni znal.</p>
+            <p>Zavedel se je še le drugo jutro, ko se je vzbudil na svojem ležišču pod streho.</p>
+            <p>To je bilo nekaj čudnega to jutro!</p>
+            <p>Blaže je odprl oči in videl, da se nekaj sveti skoz špranje v pažu. Ali je bila to luna, ali je bil že dan, ki je sipal skoz poke svojo luč, tega Blaže ni utegnil premišljati. Trepalnice so mu bile težke. Zatisnil je oči ... Toda v hipu ga je vzbudil nekak ropot. Odprl je zopet oči in poslušal. Lestvica, ki je držala pod streho, se je tresla in butala ob trám. In neki glas se je čul od spodaj — bil je Posečnik:</p>
+            <p>»Blaže, vstani!«</p>
+            <p>Blažetu se je vračala zavest. »Ali sem res —?« In tista nadležna misel, katere se je včeraj branil na vso moč, ga je obletavala znova.</p>
+            <p>»Blaže, orat bomo šli! Ali spiš?«</p>
+            <p>Blaže je spoznal svoje stanje. V hipu je vedel vse — še preveč; toda odgovoriti ni vedel kaj in oglasiti se ni upal.</p>
+            <p>»Ali si prinesel kolca?« je pozvedoval Posečnik.</p>
+            <p>»Nisem jih.«</p>
+            <p>»Nisi jih ... Zakaj jih nisi?«</p>
+            <p>Namesto odgovora se je Blaže dvignil na ležišču. Potegnil je z roko prek čela in si zasadil vilaste prste v lase, kakor bi si hotel reči: »Gorje ti, Blaže!« A kaj mu je pomagal kes in obup!</p>
+            <p>»Zakaj jih nisi prinesel? Ali ne boš povedal?«</p>
+            <p>»Pozabil sem jih!« je izustil Blaže. In hoteč pozabiti obup in nezgodo, je omahnil nazaj na ležišče, da bi zaspal ...</p>
+            <p>Toda ni šlo!</p>
+            <p>Odprl je zopet oči in poslušal ...</p>
+            <p>Posečnik je bil obstal še nekaj čaša pod lestvico, menda ne vede, kaj bi si mislil in kaj bi rekel. Potem pa se je oddaljil s trdimi koraki. In bilo je zopet vse tiho ... Veter je pihal skoz paž in zibal pajčevine med tramovi ...</p>
+            <p>Blažeta je zeblo.</p>
+            <p>Pa kaj zeblo! — »Kaj poreče Posečnik na vse to?« To vprašanje mu je rojilo po glavi. Vedel je, da s tem, ko je Posečnik odšel, nikakor še ni opravljeno vse. Ko bo zvedel vse, ko bo čul vse, ko niti orati ne bo mogel <pb facs="#WIKI00464-015" n="15" xml:id="pb.015"/>— — potem, potem ... Potem ga bo najpoprej ozmerjal in naposled — izpodil.</p>
+            <p>Izpodil —? In kaj bo počel Blaže potem? Kje bo dobil delo in službo — zdaj na jesen?</p>
+            <p>Na taka in slična vprašanja si Blaže sprva ni vedel nobenega odgovora. Vrtelo se mu je po možganih in prihodnjost mu je ležala tako temno in tako nejasno pred dušo.</p>
+            <p>A ko je le slonel na ležišču ter mislil in mislil, se rmi je začelo jasniti bolj in bolj ... In vse misli so se mu zbrale okrog enega, a zato tem usodnejšega vprašanja:</p>
+            <p>»Ali bi on — Blaže — pri svojih osemnajstih letih res ne mogel dobiti službe, in sicer boljše službe, kakor je ona pri Posečniku?«</p>
+            <p>Nove misli so se mu porajale — nove in vedno bolj mamljive ... Blaže se jih je oklepal bolj in bolj. In kolikor bolj se jih je oklepal, tem lažji se mu je zdel odgovor in tem bolj neumljivo se mu je zdelo, kako da je mogel zadnje dni sanjariti o svoji sreči v volarski službi.</p>
+            <p>Volar — ko se lahko udinja kje v dolini, kjer bo imel denar in bo mogel zahajati med ljudi, kjer mu bo odprta pot celo v fantovsko družbo ...</p>
+            <p>»Uidem! Ne da bi me podil — uidem sam!« tako je sklenil naposled.</p>
+            <p>In precej mu je prišlo v srcu tako veselo, tako prijetno, tako lahko ... V hipu je pozabil vse drugo.</p>
+            <p>Skočil je po koncu in se začel napravljati.</p>
+            <p>»Uidem!«</p>
+            <p>Vse misli so se mu sukale okrog edinega središča uidem ...</p>
+            <p>Kar se znova začujejo stopinje v skednju.</p>
+            <p>Blaže je obstal in poslušal ...</p>
+            <p>To je bila Posečnica.</p>
+            <p>Posečnica se je ustavila pod lestvico in ga poklicala:</p>
+            <p>»Blaže!«</p>
+            <p>»Kaj je?« se je oglasil Blaže prijazno; zakaj Posečnica je bila dobra žena, ki mu ni nikdar rekla žal besede.</p>
+            <p>»Ali si vstal, Blaže? Pojdi doli, pojdi! V mlin boš peljal, zato ker ne bomo orali ... Da si moral pozabitl kolca, Blaže! Sam se zdaj krega in rohni po hiši ... No, pa da si vsaj domov prišel po noči!«</p>
+            <p>Nič drugega mu ni rekla Posečnica tisto jutro. In zaradi Posečnice bi bil rad še ostal. Le da bi tega Posečnika ne bilo!</p>
+            <pb facs="#WIKI00464-016" n="16" xml:id="pb.016"/>
+            <p>A žal, Posečnik je bil ves drugačen, pa tudi ostala družina ni bila dosti prida.</p>
+            <p>In še le tiste dni — tako se je zdelo Blažetu — je spoznal docela te Posečnikove ljudi!</p>
+         </div>
+         <div xml:id="wv-VIII.">
+            <head xml:id="head.8">VIII.</head>
+            <p>Naslednje dni Posečnik po ves dan z Blažetom skoro ni pregovoril besedice. Jezno se je držal in niti na vprašanja mu ni odgovarjal. Bil je kakor pravcato jesensko jutro.</p>
+            <p>In družina je vedela, zakaj se buduje gospodar. Vsled tega so se še drugi jezili nad Blažetom, in sicer však po svoje.</p>
+            <p>Zlasti dekle — u, kako ga je to gledalo po strani in ga zbadalo za vsako malenkost!</p>
+            <p>In pa hlapec! Če je Blaže vozil z voli domov in sta se vola nekoliko popasla ob potu, ne da bi bil Blaže to opazil, je že vpil nad njim:</p>
+            <p>»Ho! Voli se pasejo! Ni čuda, če se, ko v dolino gleda, ne da bi pazil na nje, in ko misli na Bog ve kaj, a ne na to, na kar bi imel!«</p>
+            <p>In to se je ponavljalo dan na dan!</p>
+            <p>Blažeta je to neznansko jezilo! O, to so bile muke! V takem ni bilo prestajati!</p>
+            <p>In tem rajši se je poslej zamislil tja doli v dolino — tja doli v Brode. Vselej, ko je videl, kako je solnce obsevalo reko, vijočo se med travniki, ali pa lužo in ribnjak doli pri Bolantačevi hiši, ali pa jez pri Andrejevem mlinu: vselej mu je prišlo milo pri tem in skoro zoper voljo so mu izrekla usta, kar je mislilo srce:</p>
+            <p>»Ne bo dolgo, ko bom služil kje tam-le doli!«</p>
+            <p>Kdaj ravno uide od Posečnika, tega še ni bil sklenil. Posečnik mu sicer ni rekel kar naravnost: »Pojdi!« — vendar, če bo šlo tako naprej, bo porabil Blaže prvo priliko, ki se mu bo nudila, in bo šel; toliko je bilo gotovo.</p>
+            <p>In glejte — prilika se mu je ponudila poprej, nego je pričakoval.</p>
+            <p>V nedeljo popoldne je bilo — po nauku. Solnce je sijalo in se upiralo v rebra. Bilo je toplo, skoro vroče. Blaže je sedel na vrtu pred hišo in zopet gledal pred se v dolino. V dolini je bilo vse tako lepo, tako nedeljsko, tako praznično ...</p>
+            <p>Pa je prišlo Posečnikovo dekle sem za hišo in obstalo tik za Blažetom ... Tedaj si je želel Blaže tega dekleta najmanj!</p>
+            <pb facs="#WIKI00464-017" n="17" xml:id="pb.017"/>
+            <p>»Kaj hočeš —?« je zarezal nad njim.</p>
+            <p>»Nič.«</p>
+            <p>In gledalo ga je z nasmehom, v katerem je Blaže bral zgolj prezir in zaničevanje — nič drugega.</p>
+            <p>»Kdo te je klical?«</p>
+            <p>»Nihče. Saj ni, da bi me moral ... Hm! Vidiš ga, kako je zamišljen ... Dolg čas mu je!«</p>
+            <p>»Komu je dolg čas?«</p>
+            <p>»Tebi, hahaha!«</p>
+            <p>»Kdo pravi, da mi je dolg čas?«</p>
+            <p>»Jaz!«</p>
+            <p>Blaže je umolknil in se zamislil doli proti Brodem, kjer se je visoko nad poljem sukala kanja, prežeč na miš pod seboj.</p>
+            <p>»V Žire mu diši!« tako je govorilo dekle dalje; »dobro vem: v Žire mu diši! Tu pri nas mu ni všeč, hahaha! V gorah je, in dela je obilno ... Misliš, da je po dolini boljše? Sevé, tam po Žireh — tam pri Vilfanu ...«</p>
+            <p>»Molči!«</p>
+            <p>»Zakaj? Ali meniš, da ne vem, da misliš proč. Dobro vem; saj se ti vidi ... V Žire jo misliš pobrati. In oče tudi vedó, da jo misliš ... Pa pojdi, le pojdi!«</p>
+            <p>Da ni v tistem trenutku poklical Posečnik dekleta, prav gotovo bi bil skočil Blaže po koncu, pograbil krepelec in ga zalučal za njim. Zakaj kadar je Blažetu zavrela kri, tedaj se ni menil za nič. In če mu je kdaj zavrela kri, tedaj mu je.</p>
+            <p>Da, tedaj mu je. To mu je bilo preveč. Takoj, ko je odšlo dekle, je skočil po koncu in se z urnimi koraki podal na planinico. Na planinico — tja je najrajši zahajal ob nedeljah popoldne. Zlasti tedaj, kadar je imel o čem premišljati. In danes je imel ...</p>
+            <p>»Zdaj bom pa šel,« to je bil Blažetov sklep že po poti na planinico.</p>
+            <p>In ko je prišel na svoje mesto, odkoder se je najlepše videlo v dolino, je bil že dozorel ta sklep popolnoma.</p>
+            <p>»Zdaj bom pa šel! Takoj jutri pojdem!«</p>
+            <p>Nič več ni omahoval, nič več ni dvomil. Načrt je ležal jasno pred njim. In vesel je bil tega načrta.</p>
+            <p>»Zdaj bom pa šel! Takoj jutri pojdem! In sicer domov bom šel najprej!«</p>
+            <p>In tako je tudi bilo.</p>
+            <p>Drugo jutro je šel — hočem reči: ušel.</p>
+         </div>
+         <pb facs="#WIKI00464-018" n="18" xml:id="pb.018"/>
+         <div xml:id="wv-IX.">
+            <head xml:id="head.9">IX.</head>
+            <p>Kako so se čudili pri Posečniku, ko drugo jutro Blažeta ni bilo izklicati z ležišča! Ni se oglasil in ni ga bilo, kakor bi ga bila slana vzela po noči.</p>
+            <p>Posečnik je takoj uganil, kaj se je zgodilo.</p>
+            <p>»Ušel je!« je rekel sam pri sebi.</p>
+            <p>In malo zamišljen je poiskal Posečnico, češ:</p>
+            <p>»Skoro gotovo je ušel.«</p>
+            <p>»Beži, beži! Ali res?«</p>
+            <p>Hitela je gledat še Posečnica. Ko se je prepričala, da bo najbrž tako, kakor je povedal Posečnik, je začela jokati in očitati Posečniku, zakaj ga je imel tako hudo in zakaj mu ni privoščil prijazne besede. Posečnik je pa molčal in slabe volje je bil.</p>
+            <p>Le dekle Posečnikovo je ostalo hladno pri vsem tem in dejalo malomarno:</p>
+            <p>»Saj bo prišel nazaj še rad!«</p>
+            <p>In te misli se je oprijel naposled še Posečnik in tolažil Posečnico:</p>
+            <p>»Kajpak da bo prišel. Kam bi se sicer dejal, reva nadložna —? Kam pojde? Domov k materi? — Rotija ga bo zapodila nazaj, kajpak!«</p>
+            <p>Toda, da je Posečnik videl, kako malo hudo je sprejela Rotija tisto jutro Blažeta, izvestno bi si bil mislil sam pri sebi: Ne bo ga nazaj!</p>
+            <p>In v resnici, niti sam Blaže se ni nadejal tako ugodnega sprejema pri materi.</p>
+            <p>Rotija se ga je sprva ustrašila. Skuhala je bila kosilo — zgodaj je še bilo — in še je stala v veži pred pečjo, ko se prikáže Blaže na pragu.</p>
+            <p>»Križ božji! Ali si ti, Blaže?«</p>
+            <p>»Jaz sem.«</p>
+            <p>»Kako to? Po kaj — kako, da si prišel?«</p>
+            <p>»Ušel sem ...«</p>
+            <p>»Kaj —?« Rotija je osupnila in nehoté ji je stisnila roka kuhalnico, ki jo je držala med prsti. — »Ušel si —? Od Posečnika ... Zakaj?«</p>
+            <p>»Tako —!«</p>
+            <p>»Ti bom dala: tako! Otrok zanikarni! Ali mi boš —!«</p>
+            <p>In hipoma je bila v ognju kakor včasi, ko je bil Blaže še kot majhen otrok domá ...</p>
+            <p>Toda — žal! Blaže ni bil več otrok. Od one nedelje, ko ga je zaničeval Petelinov Tinče na planinici, od one <pb facs="#WIKI00464-019" n="19" xml:id="pb.019"/>nedelje sem je sklenil biti drug, ves drug — bolj moški, bolj trd, bolj postavení In da je bil res, to je pokazal že s tem, da je ušel od Posečnika. Pa tudi nasproti materi se ni dal ostrašiti kar tako.</p>
+            <p>»Ušel sem!« je pritrdil mirno, a odločno; »ušel sem in prav se mi zdi, da sem ušel. In če me izpodite nazaj, zopet uidem ...«</p>
+            <p>Rotija se je čudila. Kako si je hotela razlagati Blažetov nastop? Tako odločnega ga še ni videla dotlej.</p>
+            <p>»Ali sta se, Blaže, ali sta se morebiti s Posečnikom?«</p>
+            <p>»Naj sva se ali naj se nisva,« je dejal Blaže in sedel na stopnice, ki so peljale iz veže na vrh. »Ne grem, pa je! K Posečniku nikdar in za noben denár ... Pa tudi drugam ne grem. Domá bom!«</p>
+            <p>»Domá boš,« je povzela Rotija, in sicer mirneje, ker je izprevidela, da bo tako najbolje. »Blaže, bodi pameten. Glej, kaj boš doma? Kaj ti imam dati dela tu pri bajti? Nič; še sama ga nimam. In kako te bom redila!«</p>
+            <p>»Saj imate denar.«</p>
+            <p>»Denar —. Ne rečem, da čisto nič nimam, Blaže. A kar imam — poglej, to bo enkrat tvoje. France je preskrbljen; on ne potrebuje ničesar. Oče tudi zaslúži v Ameriki. Torej bo tvoje, vse bo tvoje. A Blaže, zdaj vendar moraš delati in služiti. Kaj bi rekli ljudje, ko bi postopal doma tak-le hlapec ... Pomisli!«</p>
+            <p>Blaže ni vedel kaj odgovoriti. Kar je trdila mati, je bilo vse tako res.</p>
+            <p>Rotijo pa je to osrčilo in nadaljevala je:</p>
+            <p>»Saj te ne silim, Blaže. Če ne maraš k Posečniku — saj te nihče ne šili. Pa kam drugam, Blaže ...«</p>
+            <p>In ko Blaže zopet ni ugovarjal, je ponovila Rotija še enkrat:</p>
+            <p>»Pa kam drugam, Blaže, pa kam drugam!«</p>
+         </div>
+         <div xml:id="wv-X.">
+            <head xml:id="head.10">X.</head>
+            <p>Rotijin Blaže je bil torej domá. Minil je en dan, dva dni — in šlo je vse lepo gladko, vse lepo po redu. Hiše se je držal; saj je bil vajen že kot otrok, da ni hodil od hiše, razen če je šel po grapi rake lovit. No, zdaj je bil za rake prevelik; drugam pa iti ni imel.</p>
+            <p>Sploh pa ni bilo niti misliti na to, da bi bil šel kam dalje od domá. Vreme je bilo ves čas tako pusto in neugodno. Deževalo sicer ni, a nebo je bilo prevlečeno z <pb facs="#WIKI00464-020" n="20" xml:id="pb.020"/>oblaki in le zdaj pa zdaj je posijalo solnce. V jutrih je rosilo iz megle, ki je visela nad grapo; proti večeru pa se je kazalo nebo tako, da je moral človek sklepati na dež.</p>
+            <p>Blaže se je dolgočasil domá. Včasi mu je že prišla želja, da bi kar sam napeljal govor na to, ali naj gre kam od hiše ali ne, in kam naj gre ...</p>
+            <p>Mati namreč po onem prvem dnevi ni nikdar nič zinila o tem. Delala se je, kakor bi ji niti od daleč ne hodile na mar take misli, in Blaže si kar ni mogel razlagati njenega vedenja.</p>
+            <p>Čudil se je na skrivnem in čakal, kaj bo iz tega. Da mati nekaj namerava z njim, o tem ni več dvomil. A kaj, to je bila uganka.</p>
+         </div>
+         <div xml:id="wv-XI.">
+            <head xml:id="head.11">XI.</head>
+            <p>Bilo je peti dan, odkar je bil Blaže domá, ko mu reče mati neko jutro:</p>
+            <p>»Veš kaj, Blaže, v mlin bi peljal ... Zamesiti bo treba za kruh.«</p>
+            <p>»Bom pa,« je dejal Blaže in bil je takoj voljen. »Zakaj bi ne bil?« si je mislil, »bo vsaj nekoliko izpremembe ...«</p>
+            <p>Rotija pa je takoj posegla dalje:</p>
+            <p>»Veš kaj, Blaže, v Brode pelji. Ali veš, da sem z Andrejem govorila, da bi te vzel v mlin ... Hlapca potrebuje — in jaz sem takoj rekla: „Blaže bi bil pravi.“ In Andrej je rekel, da te vzame, če prideš.«</p>
+            <p>Blaže je osupnil nekoliko. V mlin —. Hm, Andrejev mlin mu je bil znan, saj je tja vozil od Posečnika. In Andreja je poznal. Malo čudne narave je sicer bil ta Andrej, a prijazen človek. Pa Micona, Andrejeva sestra, je tudi prijazna. Andrej in Micona samá gospodarita. Pri njih bi se Blažetu ne godilo slabo ... Blažeta je mikalo in materin nasvet se mu je videl pameten.</p>
+            <p>»Ali je rekel, da me vzame?«</p>
+            <p>»Rekel. In rad te vzame!« je hitro pritrdila Rotija, ki je bila že skoro v strahu, kaj stori Blaže.</p>
+            <p>»Bom pa šel pogledat. Morebiti ... No, bom že videl!«</p>
+            <p>S tem je bilo dogovorjeno. Rotija je naložila pšenico v malo dvokolnico in Blaže se je odpravil po grapi proti Brodem.</p>
+            <p>Nekam čudno mu je bilo pri srcu. Vesel je bil, a ob enem ga je trla skrb, pa sam ni vedel, katera. Čutil je, da se bo z onim dnem, ko se udinja v Brodeh, začelo zanj <pb facs="#WIKI00464-021" n="21" xml:id="pb.021"/>neko popolnoma novo življenje; in ta misel se mu je zdela pomembna. Toda, kakšno bo to življenje? se je vpraševal. Ali bo res zadovoljen sam s seboj? Ali mu bodo po godu ljudje, med katerimi bo bival? Bog ve! Zadnji čas — ako pomisli nazaj — je bil sam sebi nekaka uganka. Nezadovoljen z vsem in povsod. Nič ga ni veselilo ... Za pastirja pri Posečniku ga ni veselilo. Ko je pasel mesto Štefuca, je želel, da bi bil zopet enkrat volar. A potem, ko je bil volar, si je želel proč od Posečnika: v dolino med ljudi, v družbo. Zdaj je tu. Zdaj se mu nudi prilika. Zdaj bo v Brodeh; ljudje bodo nosili v mlin in sam bo lahko zahajal v druščino. A pri vsem tem, ali bo srečen, ali bo zadovoljen?</p>
+            <p>S takimi mislími se je bližal Brodem in sam ni vedel prav za prav, ali naj se udinja pri Andreju ali ne.</p>
+            <p>Pred mlinom je ustavil voziček, zadel pšenico in stopil v mlin.</p>
+            <p>»Ali ni nikogar domá?« je zavpil parkrat tja pred se ko ni opazil žive duše v mlinu. Gledal je okrog sebe, a bilo je nekam temačno in stope so tolkle nekje v kotu in moka je sula iz »pajkelja« tam sredi izbe.</p>
+            <p>»Hej, ali ni nikogar?«</p>
+            <p>Na klopi pri oknu se je nekaj premaknilo. Andrej je bil. Ležal je in najbrž spal. Blaže ga je opazil še le tedaj.</p>
+            <p>»Ali si ti, Blaže?«</p>
+            <p>»Jaz sem.«</p>
+            <p>In Andrej se je dvignil na klopi, si pomel oči in pogledal Blažeta. Potém je legel zopet po klopi in široko zazdehal, kakor bi hotel reči: »Čemu me budiš; ali je treba?«</p>
+            <p>»Andrej, pšenico sem pripeljal.«</p>
+            <p>»No, kaj je pa pri vas novega, tam v grapi?« je povzel Andrej črez malo čaša, kakor da bi bil preslišal Blažetovo opombo. Imel je navado, da ni odgovarjal na vprašanja naravnost, ampak še le po ovinkih.</p>
+            <p>»Novega —? Nič!« je odgovoril Blaže.</p>
+            <p>In potem sta molčala oba. Andrej si je popravljal roke pod glavo in gledal v strop. Blaže pa se je oziral okrog po prostoru. Voda je šumela pod oknom in padala v korita; stope so tolkle kar naprej; po kotih so stale cele kopice vreč, deloma praznih, deloma napolnjenih ...</p>
+            <p>Opazoval je zdaj mlin, zdaj mlinarja — in nekam čuden se mu je zdel Andrej.</p>
+            <pb facs="#WIKI00464-022" n="22" xml:id="pb.022"/>
+            <p>Ta postava, dolga in trščata, ta lenost in malomarnost: vse bi pri kom drugem odbijalo človeka, a pri Andreju ga ni. Saj mu je oko sijalo vendarle prijazno! Blažetu se je zdelo, da bi se lahko razumela z Andrejem ...</p>
+            <p>»Andrej, pšenico sem pripeljal.«</p>
+            <p>»A, pšenico si pripeljal?« je odgovoril Andrej, kakor bi se bil še le tedaj domislil, po kaj je prav za prav prišel Blaže. Sklonil se je po koncu in gledal okrog sebe. Blaže je mislil, da bo vstal in mu presul pšenico, a kaj še? Legel je zopet nazaj, si del roke pod glavo in vprašal:</p>
+            <p>»Francè je pa v Žireh, je li?«</p>
+            <p>»V Žireh,« je odgovoril Blaže.</p>
+            <p>»Vidiš, tak se mi zdi kakor goba tam po dežju.«</p>
+            <p>»Kdo se ti zdi?«</p>
+            <p>»Francè!«</p>
+            <p>»Kakó?«</p>
+            <p>»Takó-le, vidišl« in Andrej se je preložil na klopi in pogledal Blažetu v obraz. »Prehitro se je izrinil tako daleč in pa brez truda in brez težave ... In to ni dobro!«</p>
+            <p>Blaže ni odgovoril nič.</p>
+            <p>»Kakó ti je všeč v mlinu?« je začel zopet Andrej, ko je videl, da se Blaže z nekim zanimanjem ozira po prostoru.</p>
+            <p>»Dobro!« je dejal Blaže. »Všeč mi je.«</p>
+            <p>»Vidiš, povem ti: Francè je kakor goba po dežju. Vsi govoré o njem in mu zavidajo, češ, vse bo imel po Vilfanu. A čemu? Goba je! In kaj je goba? Hitro zraste in hitro segnije! Meniš, da bo kdaj kaj posebnega iz njega? Nič! Že zdaj je ošaben in slabo mero daje, da se Bogu smili.«</p>
+            <p>Blaže je molčal. O Francetu ni govoril rad.</p>
+            <p>»Ali te kaj bolé ušesa, Blaže?«</p>
+            <p>»Zakaj?«</p>
+            <p>»Ker stope ropotajo.«</p>
+            <p>»Nič.«</p>
+            <p>Prav tedaj so se odprla vrata, ki so vodila iz mlina v stanovanje, in sestra Micona se je prikazala na pragu.</p>
+            <p>»Sem pojdi!« je zaklical Andrej.</p>
+            <p>»Kaj hočeš?« je vprašala sestra. A ni šla bliže, ampak se samo mimogredé nasmehnila Blažetu.</p>
+            <p>»Kaj boš skuhala?« je rezal Andrej.</p>
+            <p>»Boš že videl!« se mu je odrezala Micona in začela mirno in ne brigajoč se zanj pometati po mlinu.</p>
+            <p>Andrej pa se je delal silno jeznega in je zopet kričal:</p>
+            <p>»Kaj —? Kaj boš skuhala?«</p>
+            <pb facs="#WIKI00464-023" n="23" xml:id="pb.023"/>
+            <p>Micona pa je kar dalje pometala prav tam ob klopi, kjer je ležal brat. Pometala je hitro in močno; prah in moka sta sula kakor drobcen sneg na Andreja. Andrej je trpel; ali delal se je, kakor bi se ne zmenil za to. Miconi pa se je videlo, kako ga draži nalašč in z veseljem ... Pod Andrejevo klopjo je ležal šoln, ki mu je bil ušel raz nogo. Po tega se je sklonila Micona in ga hotela pobrati. A to je bila prilika za Andreja. Stegnil se je z roko in hitreje, kot bi mu bil človek zaupal, je potegnil od vzadi Miconi ruto raz glavo, češ:</p>
+            <p>»Taka-le ruta, kaj bo taka-le ruta!«</p>
+            <p>»Pusti!« je rekla sestra in se mu hotela izviti. A ker je le ni pustil, si je domislila, da bi porabila zvijačo; odvezala je hitro roglja na rúti spredaj pod vratom in mu ušla ...</p>
+            <p>»No, kaj boš skuhala?«</p>
+            <p>»Olupkov!« je odgovoril Blaže mesto Micone — in vsi trije so se smejali ... Tudi Micona se je smejala, ko si je popravljala lase ...</p>
+            <p>»Tu bo prijetno življenje,« si je mislil Blaže, ko je odhajal od Andreja.</p>
+            <p>A prav s tem se je spomnil, da gledé službe niti do besede ni bilo prišlo.</p>
+            <p>Hotel se je že vrniti in storiti, kar je bil pozabil, ko ga pokliče Andrej sem prek vode, kjer je ravno odpiral zatvornice:</p>
+            <p>»Blaže, kako hočem semleti?«</p>
+            <p>»Na pajkelj!« je odvrnil Blaže in postal nekoliko.</p>
+            <p>»Ali se mudi?«</p>
+            <p>»O pa ne! Da bo le tja do konec tedna.«</p>
+            <p>»Ravno prav.«</p>
+            <p>In Blaže si je mislil: »Kaj bi neki? Se bodeva pa takrat pomenila.«</p>
+            <p>In vesel ter sam s seboj zadovoljen se je vračal proti domu.</p>
+         </div>
+         <div xml:id="wv-XII.">
+            <head xml:id="head.12">XII.</head>
+            <p>»No, Blaže!« je pozdravljala Rotija Blažeta ter ga čakala že na pragu, ko se je vrnil.</p>
+            <p>Šla sta v hišo.</p>
+            <p>»Dobro, da si prišel. Poglej, dež bo šel.«</p>
+            <p>Blaže je pogledal skoz okno in videl, da so se res zbirali oblaki nad grapo. Po poti niti zapažil ni bil tega ... Pa saj še je bilo naredilo kar hipoma — in Rotija je mislila, <pb facs="#WIKI00464-024" n="24" xml:id="pb.024"/>da bo ploha. Šla je gledat ven na prag, in ko je prišla nazaj, je dejala:</p>
+            <p>»Deževalo bo ves dan in za nobeno delo ne bo danes.«</p>
+            <p>»No, Blaže, kako si opravil?« je začela potem.</p>
+            <p>»Dobro!« je odgovoril Blaže.</p>
+            <p>»Ali si kaj ogledal po mlinu?«</p>
+            <p>»Sem nekoliko.«</p>
+            <p>»Kdo je bil v mlinu?«</p>
+            <p>»Andrej in Micona — oba.«</p>
+            <p>»Ali sta se domenila z Andrejem gledé službe?«</p>
+            <p>»Nič se nisva,« je odgovoril Blaže in ta trenutek ga je hotelo jeziti, zakaj da se nista. Saj bi bil lahko zinil proti Andreju in domenjeno bi bilo, tako pa ni. »Nič se nisva domenila, ker ni bila priložnost. Saj bom šel po nedelji po moko; se bova takrat ...«</p>
+            <p>Rotija je bila zadovoljna.</p>
+            <p>Popoldne po kosilu pa se je Blaže kakor po navadi spravil na peč, da bi nekoliko zadremal. Zakaj bi se ne bil? Posebnega dela ni imel in zunaj je deževalo.</p>
+            <p>Zaspal je in med tem ko je zunaj lilo v curkih, da sta se prst in prah razmočila in da je voda kopala in razjedala po kolovozu, je sedel Blaže v sanjah med brodskimi fanti, godel na harmoniko in z jasnim obrazom sprejemal desetice, ki so mu kar kupoma letele v »gosli« ...</p>
+            <p>Škoda, da se je prav tedaj zbirala nad njegovo glavo nevihta, primeroma hujša, kakor ona tam zunaj ...</p>
+            <p>Rotija je kar na enkrat pritekla v izbo in začela buditi Blažeta:</p>
+            <p>»Ali slišiš, Blaže? Vstani!«</p>
+            <p>»Kaj je — ?« je vprašal.</p>
+            <p>»Blaže, raz peč pojdi in se malo popravi, da ne boš kakor strašilo ...«</p>
+            <p>»Kaj je? Zakaj —?«</p>
+            <p>»Francè gre, no! Ali ne slišiš?«</p>
+            <p>»Kateri Francè?«</p>
+            <p>»I, naš!«</p>
+            <p>In Rotija je zopet tekla ven na prag, da bi se prepričala, ali je videla prav ali ne.</p>
+            <p>Res — Francè je bil ... Ploha ga je bila ujela, ko je bil na potu k Rotiji. Sicer je imel suknjo, a kaj pomaga ... in dežnik: majhen in z drobno, železno palčico, to ni nič ...</p>
+            <p>»Moj Bog, kakó te je premočilo, Francè! Poglej no: <pb facs="#WIKI00464-025" n="25" xml:id="pb.025"/>ves si moker. Oh, oh! Obleke bo škoda, Francè!« — In peljala ga je v izbo. »Čakaj; suknjo sleci in jo posuši tú-le ob peči!« Slekla mu je suknjo in jo razobesila. »Vidiš, Blaže je tudi domá ...«</p>
+            <p>Potem še le je mogel izpregovoriti Francè.</p>
+            <p>»Sem slišal,« je rekel, »da je domá. No, lepo ni, da uhaja iz službe; lepo to ni!«</p>
+            <p>In začel je hoditi po sobi gori in doli. Molčal je in delal dolge korake; gledal je v tla in se zadrl sem ter tja nad materjo, ki mu je pravila na dolgo in široko o Blažetu in ga izgovarjala, kakor je vedela in znala.</p>
+            <p>Blaže pa je ležal še vedno na peči — nepremično in vsaj navidezno mirno. V resnici pa ni bil miren. Bilo mu je neprijetno, da se prepirata mati in Francè radi njega in da ga mati opravičuje in izgovarja, kar bi vsega treba ne bilo ... In da bi mu ne bilo treba poslušati, se je zamislil v kot gori za pečjo, kjer je imel samoten pajek svoj stan. Opazoval je pajka, kako se je bil primotal oprezno in počasi iz pajčevine ven na rob. Gledal ga je, kakó je nekaj čaša ždel na robu, kakor bi se ne mogel odločiti ne sem, ne tja. A naposled — glej čuda! — kakor da bi se bil pajek prestrašil tako imenitnega gosta v Rotijini hiši, jo je popihal z dolgimi koraki zopet v svoj stan.</p>
+            <p>Potem pa ni imel Blaže nič novega opazovati, in hočeš nočeš je moral poslušati, kar se je govorilo po izbi.</p>
+            <p>»Ali, zakaj bi moral ravno domá tičati, če ne more služiti pri Posečniku?« je vpraševal Francè.</p>
+            <p>»To je že, to je že!« je hitela Rotija, »saj ne bo domá; saj bo šel k Andreju v Brode.«</p>
+            <p>»Kam bo šel? K Andreju v Brode? Kaj bo tam?«</p>
+            <p>»Za hlapca bodem!« je odgovoril Blaže in to je bila njegova prva beseda Francetu.</p>
+            <p>»Kaj? Za hlapca? Reva uboga —! Kdo te bo hotel za hlapca ... In v mlinu ... Le ne domišljuj se ...«</p>
+            <p>»Kam bi se pa sicer vtaknil?« je premišljala Rotija. Francetova misel jo je bila vidno poparila</p>
+            <p>»Kam bi šel — hm! Se že dobi delo!«</p>
+            <p>Francè je obstal sredi izbe, kakor bi mu bila v hipu zasijala nova misel:</p>
+            <p>»Pri nas, pri Vilfanu bi ga potrebovali!«</p>
+            <p>»Pri Vilfanu,« je ponavljala Rotija.</p>
+            <p>»Sevéda!« je pritrdil Francé, »Vilfan potrebuje enega. Naročil mi je, naj ga preskrbim. No, ali bi šel k Vilfanu?«</p>
+            <pb facs="#WIKI00464-026" n="26" xml:id="pb.026"/>
+            <p>Z zadnjimi besedami se je obrnil do Blažeta na peči. Blaže je molčal. Rotija pa mu je začela prigovarjati:</p>
+            <p>»Zdaj je še čas, Blaže! Z Andrejem se nista še nič domenila ... Pomisli!«</p>
+            <p>Blaže je res pomislil, toda ne o tem, ali bi šel v Žire ali ne. Da ne gre, o tem je bil gotov takoj prvi trenutek. Ali nekaj drugega ga je jezilo. »Zakaj se ni domenil z Andrejem do dobrega!« To se mu je utepalo! Kako bi potem lahko odgovoril materi in Francetu kar odločno: »Ne smem, ker sem Andreju obljubil!« Tako pa ne more ...</p>
+            <p>»No, ali prideš ali ne?« ga je vprašal Francè in pogledal na peč.</p>
+            <p>»Pa ne bom!« je odgovoril Blaže navzlic temu, da se z Andrejem nista bila domenila. »Ne bom! Se bom rajši z Andrejem pobotal!«</p>
+            <p>In ni se dal pregovoriti niti materi, niti Fancetu. Čemu? Saj je bilo vendar toliko ko gotovo, da se ga Andrej ne bo branil in da bo lahko izhajal v mlinu.</p>
+            <p>Francè se je jezil in govoril o nepokorščini in trdovratnosti ... Rotija pa se kar načuditi ni mogla, kako more biti človek tako nespameten, da mu ni mar lepa »službica« pri Vilfanu v Žireh.</p>
+            <p>Ko je odhajal Francè, se je bilo vreme že izvedrilo in le pršalo je še nekoliko. Rotija ga je pridržala zunaj v veži in mu rekla skrivnostno:</p>
+            <p>»Le náme se zanesi, Francè! Ga bom jaz pregovorila; vsaj toliko ga bom, da pride in poskusi za en dan, in potem vem, da bo ...</p>
+            <p>A ko je prišla Rotija v hišo, ji je povedal Blaže odločno, da ne gre v Žire tudi za en dan ne. In tudi razloge ji je povedal, zakaj da ne gre.</p>
+            <p>»V Žiré — ne! Kaj bi rekli ljudje, ko bi kar na enkrat zvedeli, da je pri Vilfanu? »Poglejte, tak bo, kakoršen je Francè — prevzeten!« In Andrej bi mu rekel: »Goba!« Ne, tega bi Blaže ne mogel prenesti! In potem: da bi Francè vedno rezal vánj in ga pri vsem tem plačeval kolikor mogoče slabo — ne! In vrh tega še tiste polgosposke navade in razmere, ki so pri Vilfanu ... Krátko in malo: ni, da bi hodil k Vilfanu!</p>
+            <p>»Ali tudi za en dan ne, Blaže?«</p>
+            <p>»Tudi za en dan ne!«</p>
+            <p>In namenil se je, da vztraja pri svojem sklepu do zadnjega — in naj bi prišlo karkoli.</p>
+         </div>
+         <pb facs="#WIKI00464-027" n="27" xml:id="pb.027"/>
+         <div xml:id="wv-XIII.">
+            <head xml:id="head.13">XIII.</head>
+            <p>Ali poznate Blažeta? Ako ga poznate, boste rekli, da se ni držal svojih sklepov in svojih besed, dasi so bili dobri in jih je storil v trdni volji.</p>
+            <p>In res se jih ni.</p>
+            <p>Sprva je sicer stal trden in neustrašen. To je bilo prvi dan, drugi dan, tretji dan.</p>
+            <p>Ko pa je Rotija govorila v enomer o Vilfanu in le o Vilfanu, je Blaže kar na enkrat začel premišljati:</p>
+            <p>»Kaj, ko bi storil materi na ljubo ... Šel bi; toda samo za en dan, več ne!«</p>
+            <p>In ko je na vse to prišla Rotija še s prijazno besedo, češ, da en dan ni toliko, in ako mu ne bo všeč, da ga potem ne bo več silila: tedaj sevéda drugače biti ni moglo, kakor da se je Blaže, naravnost povedano, vdal.</p>
+            <p>»Bom, ako že ni drugače,« je rekel.</p>
+            <p>»Le daj, Blaže, le daj!« je hitela Rotija.</p>
+            <p>»Pa samo za en dan — več ne!«</p>
+            <p>»Pa za en dan, Blaže, pa za en dan!«</p>
+            <p>In drugi dan na vse zgodaj je že korakal po grapi proti Žirem. Megla je še stala nad okolico, a jesenski ptiči so se že prebujali in izkušali peti po vejah. Po kotanjah in kolovozih je stala še voda. Izprani kameni so se svetili v jutranjem svitu, ki je čim dalje močneje prodiral skoz meglo. Raz drevje pa so kapale rosne kapljice polagoma druga za drugo.</p>
+            <p>Blaže se je čutil prostejšega, veselejšega kakor včeraj. Z mislijo na enodnevno službo pri Vilfanu se je bil naposled sprijaznil.</p>
+            <p>»Zakaj ne bi poskusil?« si je mislil.</p>
+            <p>In tem lažje mu je bilo, ko je vedel, da Francè itak ne pride mnogo v prodajalno ... Vilfan pa in Vilfanka in kar je še drugih — kaj so mu mar vsi drugi? Saj ne bo privezan, in ako mu ne bo všeč — bo šel, če treba, še prej, nego bo dan pri kraju ...</p>
+            <p>Ko je prišel pred hišo, so bili pri Vilfanu ravno odprli prodajalno. Trgovski vajenec — Peter mu je bilo ime in iz Krope je bil domá — je že močil in pometal po skladiščih. Z njim se je Blaže seznanil najpoprej.</p>
+            <p>Peter je bil star kakih petnajst let. Živahen je bil in zgovoren; zraven pa uren in ročen kakor malokdo. Blažetu je bil všeč na prvi mah. Dotlej ga še ni poznal, ker je bil Peter še le pol leta pri Vilfanu in ker Blaže ni zahajal <pb facs="#WIKI00464-028" n="28" xml:id="pb.028"/>v Žire. No, danes je Blaže takoj povedal Petru, da je on brat Francetov; Peter pa je povedal Blažetu, da je ta dan njegov zadnji pri Vilfanu, ker misli že jutri odriniti na svoj dom v Kropo. In tako sta bila Blaže in Peter prijatelja že na vse zgodaj zjutraj.</p>
+            <p>Potem se je pričelo delo. S Petrom sta delala skupaj. Najprej sta imela opraviti s sladkorjem. Včeraj ga je prišlo z vlakom na cente in vse te stožčaste zavoje, večje in manjše, je bilo treba izložiti po policah. In ko sta dovršila to, ju je čakalo zopet kaj drugega. Kavo sta mlela, lepila zavojčke za moko in bonbone, presipavala moko in iztrkavala vrece ... No in koliko je še drugega dela také vrste! Blaže se ni kesal, da je prišel.</p>
+            <p>Peter je vedel in znal svoj posel natanko — kaj bi ga ne! Zato je on določeval in ukazoval; Blaže pa je delal in pomagal po svoje — in čas je potekal še dokaj hitro.</p>
+            <p>Vilfanka je bila večji del dneva v prodajalni. Malo obila gospa je bila, a izredno dobrosrčna. Žal besede ni rekla človeku. Sedela je v prvi sobi za mizico tam ob oknu in ali kaj pisala, ali pa gledala ven na trg, kjer so se igrali otroci. Včasi se je malo nasmehnila, če se je ta ali oni otročaj imenitno zvrnil po tleh in če drugega hudega ni bilo, a takoj nato je bila zopet resna in skoro otožna.</p>
+            <p>Franceta ni bilo na izpregled. Samo enkrat je bil prišel v prodajalno in še tedaj v naglici. Mudilo se mu je, tako da je mogel Petru in Blažetu le mimogredé dati nekaj navodil, kaj in kako naj delata. Potem je pa šel in ni ga bilo ves čas nazaj.</p>
+            <p>Ljudje so prihajali na gosto drug za drugim, kupili, pogovorili in šli.</p>
+            <p>Blaže in Peter sta delala v drugi sobi tik prodajalne. Vrata so bila odprta, da se je videlo v prodajalno in je Peter bil takoj na postrežbo, kadar je prišel kdo. Kadar pa ne, sta lahko govorila z Blažetom, ne da bi bila Vilfanka čula, o čem se menita.</p>
+            <p>In Blaže in Peter sta se pomenila takó-le o marsičem.</p>
+            <p>»Ti, Blaže!« je začel Peter malo negotovo in videlo se je, da je v zadregi, ali bi zaupal Blažetu vse ali ne; »kako sta kaj vidva s Francetom?«</p>
+            <p>»S katerim Francetom?«</p>
+            <p>»Z vašim ... Ali se razumeta?«</p>
+            <p>»Sevéda se.«</p>
+            <p>»Ali govorita mnogo med seboj?«</p>
+            <pb facs="#WIKI00464-029" n="29" xml:id="pb.029"/>
+            <p>»Tisto ravno ne.«</p>
+            <p>»Vidiš, Blaže!« je nadaljeval Peter malo tiše in malo skrivnostno, »samo Francè je vzrok, da je postalo zadnje dni tako dolgočasno pri Vilfanu. In že zato sem vesel, da grem proč ... Ali ni res dolgočasno, kaj?«</p>
+            <p>»Meni se ne zdi.«</p>
+            <p>»Ne zdi —, verjamem, ker si še le prvi dan tukaj. A ko bi bil ti na mojem mestu in moral poslušati dan na dan nič drugega kakor kreg in gledati samo puste obraze, potem bi govoril drugače ...«</p>
+            <p>»Kakšen kreg?« je pozvedoval Blaže.</p>
+            <p>»Kreg — ali če kreg ne, pa vsaj nevoljo ... Poglej; pa saj ti menda ni znano, da sta si prišla Vilfan in Francè navzkriž?«</p>
+            <p>»Ne.«</p>
+            <p>»Poglej, to je tako! Francè se ženi. Tinačevo Marico misli vzeti. Dekle sicer ni bogato, a lepo je, in Svinjakarjev ji je pisal iz Amerike, da jo vzame, če ga hoče. A tudi Francè bi jo rad. Vilfan pa ne pusti, da bi jo Francè jemal, ker bi imela dote malo ali pa nič. Vilfanka pa je Maričina botra in se poteguje za njo. Vidiš in razpor je tukaj. Vilfan na eni strani, Vilfanka in Francè na drugi ... In ni drugega kot prepir. Vilfana celo v prodajalno ni več!«</p>
+            <p>Blažetu je bilo vse to novo ... Saj še ni čul o vsem tem! Pa kako bo čul, ko se je pletlo še le zadnje dnil A nekaj se mu je začelo daniti: to je najbrž vzrok Vilfankine otožnosti ...</p>
+            <p>»Vidiš!« je nadaljeval Peter, »zato je dolg čas pri nas. Vilfanka molči, Vilfan je pa že od nekdaj bolehen ... Verjami, jaz sem povedal Vilfanki naravnost: „Zato grem, ker mi je dolg čas.“ In res, največ grem radi tega.«</p>
+            <p>»Ali greš naravnost v Kropo?«</p>
+            <p>»Naravnost.«</p>
+            <p>»Zato je pa Francè mene hotel!« je dejal Blaže po kratkem, napol na glas in sam pri sebi. A Peter ga je čul.</p>
+            <p>»Seveda,« mu je pritrdil Peter, »zato! In pa zato, da bi te plačevati ne bilo treba. Ne veš, kako grabi in kako je skop ... Francè vodi vso trgovino. Vilfana je kar odstavil in Vilfanka dela, kakor hoče Francè.«</p>
+            <p>O, ko bi bila s Petrom ves dan takó-le skupaj, bi bil Peter povedal še marsikaj in Blažetu bi še na misel ne prišel kak dolg čas ali kaj sličnega. Toda ni bilo tako. Peter je moral iti po opravkih. S konjem je moral na <pb facs="#WIKI00464-030" n="30" xml:id="pb.030"/>pošto. In na posti je bilo opravili veliko. Zato ga dolgo ni bilo nazaj.</p>
+            <p>Blaže pa je ves ta čas sedel v sobi tik prodajalne in kavo mlel. Ura je tiktakala na steni in mlin. je požiral kavova zrna vedno znova in vedno enakomerno ... Zunaj pa je solnce sijalo in gorko je bilo in svetlo ... Lepše bi bilo domá na tnali zunaj pred hišo. Tam bi cepil drva, da bi mu znoj tekel po čelu in iveri bi letele na vse strani, da bi bilo veselje ... A tukaj —.</p>
+            <p>Vilfanka je uganila Blažetove misli. Obrnila se je črez malo čaša do njega in ga vprašala:</p>
+            <p>»Blaže, ali ti je dolg čas?«</p>
+            <p>In Blaže je odgovoril kar naravnost in brez ovinkov:</p>
+            <p>»Dolg čas!«</p>
+            <p>Dá, Blaže je odgovoril kar naravnost. In zakaj? Zato, ker mu je bila v tem hipu zabliščala vabljiva misel: »Kaj, ko bi odpovedal in šel?« In te misli se je oprijel in rekel:</p>
+            <p>»Dolg čas!«</p>
+            <p>»Zakaj ti je dolg čas, Blaže?« se je čudila Vilfanka in ga pogledala od okna sem. Govorila je milo, mehko. Blažetu je bilo skoro žal, da ji je povedal kar po resnici. A kaj je hotel! Beseda je bila izgovorjena in vztrajati je bilo treba pri njej.</p>
+            <p>»Dolg čas mi je; kar tako mi je dolg čas — jaz ne vem zakaj!« a pristavil je takoj nato: »O, všeč mi je pa pri vas, zeló mi je všeč!«</p>
+            <p>»No, zato boš pa ostal pri nas — je li da boš? Vsaj do večera ostani, Blaže!«</p>
+            <p>»Do večera —« je pomišljal Blaže in v zadregi je bil ... Ne, ne! Popoldne lahko nacepi drvá za tri dni naprej ... Ne, ne!</p>
+            <p>»Bom rajši kar zdajle šel!« je rekel in malo boječe stopil pred Vilfanko. Klobuk je držal v roki in pripravljen je bil, da jo ubere naravnost skoz vrata.</p>
+            <p>Toda Vilfanka ni obupala.</p>
+            <p>»Zdajle —? Domov —?« tako se je čudila in ob enem zopet govorila takisto mehko in milo —: »Zakaj pa domov, Blaže? Prav gotovo ti ni všeč pri nas ...«</p>
+            <p>»O, všeč mi je pa; res mi je všeč!« je hitel in zatrjeval Blaže.</p>
+            <p>»Zato pa ostani, Blaže! Vsaj do večera ...«</p>
+            <p>»Do večera —« je zopet pomišljal Blaže in zopet mu je donel po ušesih Vilfankin glas, tisti mehki in mili, in <pb facs="#WIKI00464-031" n="31" xml:id="pb.031"/>zdelo se mu je, da ga za božjo voljo prosi, naj ostane do večera — samo še do večera ...</p>
+            <p>In premagalo ga je in rekel je:</p>
+            <p>»Bom pa ostal, zato ker je že ravno pri tem.«</p>
+            <p>In mir je bilo besedij.</p>
+            <p>Ali pa mislite, da je res ostal do večera?</p>
+            <p>»Kaj še! Ko je zazvonilo poldan in Petra še vedno ni bilo domov in je zunaj solnce še vedno sijalo in grelo, je pozabil Blaže na vse drugo, pograbil klobúk in smuknil skoz stranske duri venkaj na prosto ... In hitro kakor bi kdo kuril za njim, jo je ubral po trgu dalje in jo zavil v grapo proti Rotiji.</p>
+         </div>
+         <div xml:id="wv-XIV.">
+            <head xml:id="head.14">XIV.</head>
+            <p>Kakor je računal Blaže, tako je bilo: z Andrejem v Brodeh sta se domenila docela. In lahko sta se domenila.</p>
+            <p>»Saj bi ti bil že zadnjič rekel, pa si tako hitel domov,« se je opravičeval Andrej, ko je prišel Blaže po moko. Govoril je pametno; zakaj Andrej je bil tudi za pametne pogovore, kadar se mu je ljubilo.</p>
+            <p>»Nič ne dé!« je popravljal Blaže; »sem pa ta čas marsikaj izkusil — pri Vilfanu sem bil v Žireh in malo je manjkalo, da me niso obdržali.«</p>
+            <p>»Takó?« se je smejal Andrej in vihal brke; »ali so ti povedali, da misli Francè v Ameriko?«</p>
+            <p>»So nekaj govorili,« je rekel Blaže in pristavil takej:</p>
+            <p>»Po nedelji bom pa prišel, Andrej.«</p>
+            <p>»Kar pridi, kar pridi!«</p>
+            <p>In po nedelji v jutro na vse zgodaj se je Blaže poslavljal od doma, napravljajoč se v Brode.</p>
+            <p>Slovo je bilo kratko; kaj je pač hotel? Spravil je skupaj svoje reči — veliko itak ni imel — jih povezal v culico in šel.</p>
+            <p>Rotija ga je spremila do praga. Težko ji je bilo in razumeti ni mogla, kako more kdo po vsej šili biti rajši kmet nego gospod. Vendar obupala še ni bila popolnoma. Blažeta je pridržala na pragu, hoteč še v zadnjem trenutku poskusiti svojo srečo.</p>
+            <p>»Zakaj pa v Žire ne?« je vprašala.</p>
+            <p>»V Žireh ni záme!« je odgovoril Blaže na kratko.</p>
+            <p>»Zakaj ni záte?«</p>
+            <p>»Ne vem —.«</p>
+            <p>»Kako to, da ne veš? Izbirčen si —!«</p>
+            <pb facs="#WIKI00464-032" n="32" xml:id="pb.032"/>
+            <p>»Izbirčen? Zakaj bi bil izbirčen?«</p>
+            <p>»Zato, ker ti nikjer ni všeč ... Pri Posečniku ti ni bilo všeč in v Žireh ti ni všeč ... Kaj meniš, da ti v Brodeh bode? Ni gotovo, da bi ti bilo ...«</p>
+            <p>Kako je bilo to neprijetno! Kako je peklo Blažeta!</p>
+            <p>Kako da mu očita mati ravno to? Da bi bil izbirčen. Zakaj? Ako mu pri Posečniku ni bilo všeč in v Žireh ne —, ali je radi tega že izbirčen? Saj gre v Brode in tam mu bo všeč ...</p>
+            <p>In ali je čudno, ako mu pri Posečniku ni bilo všeč? Če pomisli nazaj — kaj mu je bilo dobrega pri Posečniku? Tisto vedno prepiranje z dekletom? Tisti vedno enaki, vedno resni obrazi in pa tisto samotarjenje visoko gori v gorah?</p>
+            <p>In v Žireh —? Za Žire on ni in ni, o tem ni vredno, da bi mislil!</p>
+            <p>V Brodeh pa — v Brodeh bo vse drugače. Tam bo vesel; od ondod si ne bo želel nikamor. Pri Andreju hoče ostati stalno in ne več izbirati. Nalašč hoče pokazati materi, da izbirčen ni — vse drugo, če hoče — a iskren ni!</p>
+            <p>»Izbirčen nisem!« je zatrdil še enkrat, kakor bi hotel tudi materi vcepiti isto prepričanje; »izbirčen nisem ... In pri Andreju bom ostal, ali verjamete ali ne.«</p>
+            <p>»Da bi bilo le res!« je vzdihnila Rotija in še dolgo je stala na pragu in gledala za njim, ko je odhajal.</p>
+         </div>
+         <div xml:id="wv-XV.">
+            <head xml:id="head.15">XV.</head>
+            <p>Za Rotijinega Blažeta se je začelo v Brodeh povsem novo življenje — veselo in prijetno.</p>
+            <p>Hej, zjutraj je solnce že kukalo izza Žirovskega vrha in ptiči so že davno peli, ko je Blaže smel še vedno ležati, ne da bi ga kdo budil iz sladkega spanja. Če se je pa slučajno kdaj vzbudil poprej, kakor je po navadi vstajal, je rajši položil roke pod glavo in gledal v strop in bil brez vsake skrbi; ali pa je poslušal, kako je voda šumela v kolesa, ki so še stala tedaj, in kako je vrela in drevila prek skál in skalič v tolmun pod njegovim oknom, in poslušal je, ali se že slišijo v spodnjih prostorih koraki: tihi in pohlevni, kot bi se bali glasiti se na zunaj in buditi tako zgodaj ... Ako so se slišali, je bila to Micona, ki je vsako jutro najprej pometla in pospravila po mlinu, zakurila za kosilo, nalupila krompirja in nakrmila dve kravi <pb facs="#WIKI00464-033" n="33" xml:id="pb.033"/>in par prašičkov. Kadar je Blaže čul Miconine korake, je vedel, da ne bo dolgo, ko bodo zaškripale velike duri, ki vodijo v mlin, in bo prišla na prag. Kadar je bilo to, tedaj se je Blaže navadno dvignil na postelji, odprl okno in zaklical Miconi:</p>
+            <p>»Micona, koliko je ura?«</p>
+            <p>In Micona je odgovorila: »Šest!« Vsaj približno toliko je bilo vselej.</p>
+            <p>»Vstati bo treba, je li?« je rekel Blaže vselej potem in se smejal Miconi, kot bi hotel reči: »Saj tako vem, da bo treba!«</p>
+            <p>Micona pa ga ni silila.</p>
+            <p>»Kakor hočeš,« je rekla, »ali pa še nekoliko poleži!«</p>
+            <p>In nato je izginila zopet v mlin.</p>
+            <p>Blaže pa je vstal, se umil in oblekel. Ni hotel, da bi zlorabil prijaznost Miconino.</p>
+            <p>Med tem ko se je oblačil, je imel okno odprto in nekam veselo je vdihaval svežo jutranjo sapo, ki je vela po grapi sem od Žirov. Zdelo se mu je, kot bi mu prav ta sapa donšala mladostne svežosti in pravega veselja do dela, katerega je pogrešal že dokaj čaša. Res, odkar je bil pri Andreju, je bil dobil Blaže neko veselje, neko notranjo moč, ki ga je gnala in priganjala, da bi delal kar naprej, opravil vse čim natančneje in hitreje, in to brez prigovarjanja ... Kaj takega — vsaj spominjati se ni mogel — še ni čutil dotlej v svojem življenju, dasi len in površen delavec ni bil nikdar ... O, takó-le v dolini med ljudmi, med prijaznimi ljudmi je lahko delati! Blaže je bil dosegel, po čemer je hrepenel.</p>
+            <p>Kdo ga je tukaj kaj nezavidel, kakor ga je pri Posečniku v gorah? Nihče!</p>
+            <p>Micona —? O to je bila pohlevna dušica; žal besedice ni izpregovorila; kaj še, da bi bila silila tja v človeka, kakor tisto Posečnikovo deklè. Neumorno je delala. Ali je bila na njivi, ki sta jo z Andrejem imela v bregu, pet minut od hiše; ali pa je čedila po mlinu in krmila živino. Hotela je storiti vse sama in pomagati vsakemu in povsod</p>
+            <p>Ali pa Andrej — ali ga je mar Andrej zavidel? Kaj še! Blaže in Andrej sta bila od dne do dne bolj prijatelja, od dne do dne bolj navezana drug na drugega.</p>
+            <p>Res, to je bilo življenje za Blažeta: življenje med ljudmi, med veselimi ljudmi.</p>
+            <pb facs="#WIKI00464-034" n="34" xml:id="pb.034"/>
+            <p>O takú-le v dolini med ljudmi, med veselimi in prijaznimi ljudmi je lahko delati!</p>
+            <p>Sicer pa delo, katero je opravljal Blaže, ni bito posebno težavno.</p>
+            <p>Večjidel je bil v mlinu. Iztrkaval je vreče ter sipal v stope, kar je bilo treba: pšenico, proso, rž, kašo, ječmen — sploh, kar so nanosili in navozili ljudje. Včasi je kako vrečo prestavil, pazil na vodo in pa podložil lubja pod tri stope, ki so na drugi strani ceste posebej tolkle in mlele posušene smrekove omajke ... Vsega tega se je bil privadil takoj prve dni.</p>
+            <p>Ob tem, ko je imel opraviti po mlinu, sta se lahko z Micono že zjutraj na vse zgodaj pogovarjala to in ono.</p>
+            <p>Saj je Micona govorila rada, jako rada.</p>
+            <p>»Ali si se že privadil pri nas, Blaže?« ga je prašala tiste prve dni in se mu nasmejala po svoji navadi, kakor bi hotela reči: »Gotovo si se!« Zraven pa je popravljala za njim to in ono pri stopah ali sploh v mlinu, kar morebiti takoj s početka še ni bil prav naredil.</p>
+            <p>»Kako bi se ne bil privadil? Saj nisem prišel takó-le med kake tuje ljudi ... Sevéda sem se privadil.«</p>
+            <p>Tako je odgovarjal Blaže in zraven pazil, kako bo popravila Micona za njim. Vedel je, da ga noče opozoriti kar naravnost, boječ se, da ne bi ga razžalila takoj prve dni. In prav to je bodrilo Blažeta še bolj, da se je hotel priučiti popolnoma.</p>
+            <p>»Pri Posečniku ti je bilo bolje,« je pripomnila Micona.</p>
+            <p>»Kdo pravi? Ali mi tukaj ni dobro? Saj mi bolje biti ne more ...«</p>
+            <p>»Postreže ti nobeden ne.«</p>
+            <p>»Postreže —? Saj nisem cesar!« se je šalil Blaže.</p>
+            <p>»Pa vendar ... Na kosilo moraš čakati, na malico zopet. Saj bi rada pripravila včasi, pa ne utegnem, ker je toliko dela. Ko bi vsaj te njive ne bilo ... Zelnik sva imela že poprej; pred štirinajstimi dnevi pa je še njivo kupil od Fortuna. In zdaj je dela črez glavo, z Andrejem pa nič ni: v mlinu bi le ležal in spal ...«</p>
+            <p>Micona se je nasmejala in se ozrla v Blažeta, kakor bi hotela reči: »Saj ga sam poznaš, kakšen je; saj ga vidiš.«</p>
+            <p>Blaže pa jo je tolažil, češ:</p>
+            <p>»Saj mu ni nič reči — Andreju ...«</p>
+            <p>»O — nič reči!« je hitela Micona, »ga boš že še spoznal! Nakupil bi vsega in privlekel k hiši, a da bi se <pb facs="#WIKI00464-035" n="35" xml:id="pb.035"/>resno lotil kakega dela, tega ne! Pa saj ga vidíš; ali kaj drugega dela, nego spi?«</p>
+            <p>»I, kajpak da dela ...« se je smejal Blaže.</p>
+            <p>»No, kaj dela?«</p>
+            <p>»I, zatvornice odpira in zapira —.« Blaže drugega res ni vedel povedati. In oba z Micono sta se smejala.</p>
+            <p>V resnici se ni moglo reči o Andreju, da bi kaj drugega delal, nego spal in pa skrbel za svoje zatvornice.</p>
+            <p>Na klopi je navadno ležal po ves dan; brigal se je za vse in za nič; govoril je z vsakim človekom in o vsem; a povedal je malo, ali pa nič ... Tak je bil!</p>
+            <p>»Blaže, ali si že opazil, da imam tukajle malo linico — ali vidiš?« je vprašal nekoč Blažeta in mu kazal malo, za prst široko luknjico, ki je bila napeljana skoz zid ven na vodo. Linica je bila tik pri zglavju, kjer je navadno ležal Andrej, in človek je na prvi mah niti zapažil ni.</p>
+            <p>»Zakaj imaš to?«</p>
+            <p>»Poglej,« je začel razlagali Andrej, »na vodo gledam in pa na zatvornice ... Zatvornice sem napravil še le pred letom. Narejene so po novem, tako da jih dvignem z „mački.“ Moj oče ni imel takih, in ljudje so me čudno gledali, ko sem jih napravljal. A jaz sem vedel, da si bom prihranil z „mački“ mnogo truda. In res sem si ga. Blaže poskusi enkrat dvigniti z njimi — boš videl ...«</p>
+            <p>»Kaj pa linica, Andrej?«</p>
+            <p>»Linica —« in Andrej je bil zopet v ognju; o svojih napravah je govoril rad — »linica? Zavoljo, otrok! Ko so otroci videli, da so zatvornice lahke, so mi izpuščali vodo ... Jaz pa sem si prevrtal zid in jih opazoval na skrivnem. In še zdaj ml hodi linica v prid. Na vodo gledam, da vidim, kdaj je ali preveliká ali premajhna, da mi ni treba vstajati ...«</p>
+            <p>»Pred letom, praviš, si napravil zatvornice?« je pozvedoval Blaže, ne tolíko iz radovednosti, kakor bolj radi tega, da je dal Andreju priliko govoriti in razkazovati se.</p>
+            <p>»Pred letom sem jih napravil,« je pritrdil Andrej; toda tisti trenutek se ga je že prijemala lenoba in spanec.</p>
+            <p>»Kaj je pa Micona rekla na to?« je silil Blaže.</p>
+            <p>»Micona —?«</p>
+            <p>»Radi zatvornic, dà«</p>
+            <p>»Ha-ha-ha!« se je zasmejal Andrej in bil hipoma zopet v prejšjem ognju; »kaj bo rekla? To, kar drugi: da tratim denar. A da so zatvornice trdne in da ne puščajo <pb facs="#WIKI00464-036" n="36" xml:id="pb.036"/>— tega ne pomisli! In da je vedno vode dovolj in da vedno lahko meljem — tega tudi ne pomisli.«</p>
+            <p>»Pa njivo si tudi kupil ...«</p>
+            <p>»Njivo —. Ali ti je pravila?« je povzel Andrej in zopet se mu je dobro zdeio; »tudi njivo sem kupil. Micona zdaj vedno tarna, kolike ima dela. Zakaj je pa pri hiši, če ne za delo?«</p>
+            <p>Blaže mu ni vedel kaj odgovoriti.</p>
+            <p>»Čuden človek!« si je mislil sam pri sebi in se mu smejal.</p>
+            <p>Pa še neki drug »čuden človek« je bil v Andrejovi hiši. Bila je stara Špela, beračica in napol neumna, ki jo je srenja redila in ki je ravno tiste dni stanovala pri Andreju.</p>
+            <p>Kako je iznenadilo Blažeta, ko je videl, ozirong slišal to žensko prvič!«</p>
+            <p>Ravno prvi dan je bilo, ko je bil Blaže pri Andreju. Kosili so v zgornji hiši: on, Andrej in Micona, ter se pogovarjali med seboj. Komaj je zastal pogovor nekoliko, kar se oglasi izza peči čuden, piskajoč glas. Blaže se je ozrl, toda niti zapaziti ni mogel nikogar; bilo je temačno. A nekaj živega se je premikalo in gibalo. Bila je Špela. In vselej, kadar se je zagibalo in premaknilo, se je oglasil tisti piskajoči glas:</p>
+            <p>»Voda, oh voda ...«</p>
+            <p>»Ali je voda. Špela?« je vprašal Andrej izza mize.</p>
+            <p>Glas za pečjo je hipoma utihnil.</p>
+            <p>Blaže je gledal. Iz tmine se je vedno bolj videl koščeni in nagubani Špelin obraz s šilastjm nosom in s suhimi, kot črta tankimi ustnicami.</p>
+            <p>»Kdo je to?« je vprašal Blaže.</p>
+            <p>»Špela je,« je pojasnjevala Micona in se ozirala za peč, »vedno govori o vodi ... Ni domá v tem kraju, ampak s Koroškega je prišla. Otroka je imela in ta otrok ji je utonil v vodi. Potem je znorela — in zdaj govori le o vodi.«</p>
+            <p>»Voda, oh voda ...« se je začulo zopet izza peči — — »voda, in ta ni povsod enaka ... Včasi je zelena, huš! — v taki tonejo ljudje ... Včasi je rjavkasta, penasta, ki mehurčke žene in se s sipo kali ... To je voda ... Kako žeja, uh — kako žeja! A voda dere po strugah, dere ... dere ...«</p>
+            <p>»Ali dere?« je vprašal Andrej.</p>
+            <pb facs="#WIKI00464-037" n="37" xml:id="pb.037"/>
+            <p>In glas za pečjo je zopet utihnil ...</p>
+            <p>Še le, ko se je za mizo oživil pogovor in zopet utihnil, še le potem se je začulo izza peči:</p>
+            <p>»Voda, oh voda ...«</p>
+            <p>In to se je ponavjjalo vedno znova, vedno enako, vedno v istem glasu ...</p>
+            <p>Kako je Blažeta vse to zanimalo.</p>
+            <p>V gorah na samoti ni tako, da bi človek naletel však čas na kaj novega, nenavadnega ... No in brez tega človek ne zve nič, ne izkusi nič ... V dolini, med ljudmi — tu človek kaj vidi in izkusi. Dà, to je življenje, ki je vredno, da ga človek živi: življenje v dolini, med ljudmi, med svetom.</p>
+            <p>In pri tem — kako bi bil mogel misliti na kak dolg čas, ko so mu vendar tekli dnevi, kot bi jih podil z bičem, in ko je minil prvi teden, da Blaže sam ni vedel, kdaj in kako.</p>
+         </div>
+         <div xml:id="wv-XVI.">
+            <head xml:id="head.16">XVI.</head>
+            <p>Odkar je bil Rotijin Blaže v Brodeh, je imel priliko občevati in govoriti z najrazličnejšimi ljudmi, ki so nosili oziroma vozili k Andreju v mlin. Andrej se, odkar je bil Blaže pri njem, ni toliko menil za ljudi, ampak je vso skrb prepustil Blažetu. Blaže pa je rad govoril. Tega ali onega, s katerim sta bila nekoliko znana, je sem pa tja tudi pridržal in mu razkazal prostore po mlinu, ako je želel. Zato so pa ljudje splošno prav pohvalno govorili o Blažetu, in Micona je rekla, da to ne bo slabo za hišo ...</p>
+            <p>Res, marsikdo se je prav zaradi Blažeta pomudil dalje, kakor bi se bil sicer. Tako stari Muha iz Bačen.</p>
+            <p>Stari Muha iz Bačen je bil moder mož. Irhaste hlače je nosil z usnjatimi trakovi ob golenicah; črevlje na kveder; telovnik s svetlimi gumbi; pa iz pipice je kadil. Svoj čas je bil celó za župana v Bačnah in njegova beseda je veljala. Saj pa tudi nikdar ni zinil katere prazne, ampak vselej je preudaril poprej, predno je kaj rekel, in počasi in krepko je povedal, kar je mislil.</p>
+            <p>Blaže in pa Muha se nista umela posebno. Umevno, da se nista, ker je bil Muha v sorodu s Posečnikom in zato tudi z Rotijo in po tej z Blažetom. Radi sorodstva pa si je lastil mož do Blažeta marsikako pravico. In to Blažetu ni bilo ljubo.</p>
+            <p>Muha ni odobraval, da je Blaže ušel od Posečnika. Ni mogel umeti, da bi pri tako dobrem in tako poštenem <pb facs="#WIKI00464-038" n="38" xml:id="pb.038"/>gospodarju, kakor je bil Posečnik, moglo biti človeku kaj slabega — toliko že celo ne, da bi bilo vredno, uhajati iz službe ... Blaže pa je seveda trdil, da je bilo, in ni se hotel vdati Muhi.</p>
+            <p>»Bilo je, bilo! A to jaz sam najbolje vem, kaj je bilo ...«</p>
+            <p>Tako je ponavljal Blaže, ko ga je nekega dne hotel Muha izpraševati o tem.</p>
+            <p>»Kaj neki ti veš, mladost neizkušena!« mu je ugovarjal Muha, sedeč na pragu pred mlinom, prižigajoč si pipico.</p>
+            <p>»Dobro vem.«</p>
+            <p>»No, pa če je že bilo,« se je vdal Muha, »zakaj nisi domá pri materi? Če si že hotel imeti vse lepo in gladko, domá bi bilo najlepše in najgladkejše ...«</p>
+            <p>»Bi že bilo; pa mati ni marala, da bi bil domá.«</p>
+            <p>»In kaj je rekla?«</p>
+            <p>»Dà, naj grem služit.«</p>
+            <p>»Zakaj te pa nazaj k Posečniku ni zapodila?«</p>
+            <p>»Kaj me bo podila; saj nisem otrok ...«</p>
+            <p>»V strah te ne zna prijeti, že vidim,« je modroval Muha dalje, »v strah te ne zna prijeti. Saj tudi Franceta ni znala ... Zato pa ne bo nikdar nič prida iz njega. Zdaj pravijo, da jo misli popihati v Ameriko. Če bo šel, bo šel iz same ošabnosti in svojeglavnosti, pravim! — Ali si ti že čul, da misli iti?«</p>
+            <p>»Sem,« je rekel Blaže in molčal.</p>
+            <p>»No, ali pri Andreju ti je dobro?« je napeljal Muha zopet pogovor nazaj.</p>
+            <p>»Dobro ... Bolje ko pri desetih Posečnikih!«</p>
+            <p>Muha pa je zmajal z glavo, češ:</p>
+            <p>»Fant, ti si ošaben; paži, da se ne boš kesal ...«</p>
+            <p>Ko je Muha odhajal, se je Blaže na skrivnem muzal za njim, češ: »Kaj on vé o tem, dasi je star in izkušen —.« In to je bilo dovolj, dasi mu je hotela vest nekaj očitati ...</p>
+            <p>Sicer pa, ko bi se tudi Blaže sam ne bil potolažil, saj je imel ljudi, ki so skrbeli za to, da se nadležna misel zapodi iz srca ...</p>
+            <p>Bolantaček iz Hotovelj je tudi večkrat prišel. Ne sicer vedno z opravkom, dasi je tudi v mlin vozil k Andreju; a tudi ne samo radi Blažeta, zakaj tudi z Andrejem sta si bila v konce. Vendar odkar je bil Blaže pri Andreju, je prihajal Bolantaček bolj pogosto. In Blaže in Bolantaček sta se pomenila o marsičem. Najrajši pa sta govorila o godbi in o harmonikah. In taki pogovori so zanimali Blažeta vse <pb facs="#WIKI00464-039" n="39" xml:id="pb.039"/>bolj in so vplivali nanj vse več, nego Muhove pripombe in opomini ...</p>
+            <p>Bolantaček je imel naročiti Blažetu harmonike z dvojnimi basovi in s koščenimi »knofki« za šestdeset kron. In potem ga je imel Bolantaček naučiti še gostin — — to je bilo sklenjeno.</p>
+            <p>Pa tudi še o čem drugem sta imela govoriti Blaže in Bolantaček. Pomislite: Bolantaček je imel Blažeta vpeljati v fantovsko druščino, in to ni mala stvar. Kako in kdaj —, o tem niti sama še nista bila na jasnem. Čakati je bilo treba ugodne prilike ... In ta prilika ni bila daleč.</p>
+            <p>Nekoč je prihitel Bolantaček k Blažetu z veselo novico:</p>
+            <p>»Blaže, drugo nedeljo je semenj!«</p>
+            <p>Blažetu se to ni zdelo nič tako posebnega, zato je malobrižno vprašal Bolantačka, kaj potem.</p>
+            <p>Bolantaček mu je takoj razložil velik pomen tega slučaja.</p>
+            <p>Na semanji dan se je imelo plesati pri Lovrinu. Fantje so imelli prirediti ples in Bolantaček je bil povabljen za godca. Potem je bila dana Blažetu prilika, da stopi prvič v večjo družbo med fante ... In to je bilo dovolj.</p>
+            <p>»Ali prideš?« je vprašal Bolantaček.</p>
+            <p>»Ne vem ali bi ali ne,« se je izgovarjal Blaže.</p>
+            <p>Imel je toliko pomislekov. Prvič se je bal, da se ne bi zopet upijanil, kakor se je zadnjič; ples bo in družba bo velika. Blaže pa je vedel sam o sebi, da mu vino rado zleze v lase in da potem govori in dela, česar bi ne smel ... Drugič, ker je bil tako malo čaša v Brodeh in še ne znan z vsemi fanti ... In nazadnje, ker bo treba plačati sprejemnino, denarja pa ni imel ...</p>
+            <p>Toda vse pomisleke mu je zlahka ovrgel Bolantaček. Kaj bi mu jih ne, ko mu je povedal, da ga fantje sami vabijo, naj pride, in ga zagotovil, da mu toliko denarja posodi Andrej z veseljem, ako mu reče Blaže le eno besedo.</p>
+            <p>»Torej, ali prideš?«</p>
+            <p>»Pa pridem ...«</p>
+            <p>In Blaže je dal moško besedo, da pride.</p>
+            <p>Ko je razmišljal pozneje o tem, se mu je prav zdelo, da je obljubil Bolantačku. Saj je ravno po veseli fantovski druščini hrepenel; saj je prav za prav — čemu bi si tajil — bila v prvi vrsti fantovska druščina, ki ga je izvabila od Posečnika v dolino ... In zdaj naj bi bil opustil lepo <pb facs="#WIKI00464-040" n="40" xml:id="pb.040"/>priliko, ki se mu je nudila, in se morebiti fantom celó zameril nazadnje? Ne!</p>
+            <p>Naslednje dní je mislil Blaže samo na semenj in pa na ples pri Lovrinu. Koval si je načrte za nedeljo. Plesati sicer ni mislil. Plesal ni še nikdar, samo enkrat na pustni večer pri Posečniku — z metlo, a godba ga je veselila in Blaže je neizmerno rad poslušal Bolantačka, kadar je iztresal iz »meha« svoje polke in valčke in kar je še drugih znal: šotiš, ceparle, štajriš, marzolin itd. Slišal ga je nekoč, ko so se Štivranovi svatje vračali od poroke. Tedaj je bil ves neumen od tiste godbe in odtlej si je ohranil Bolantačka v najboljšem spominu.</p>
+            <p>»Ali ti kaj greš med fante?« je vprašal Blaže tiste dni z nekim ponosom — uganite koga! — Petelinovega Tinčeta!</p>
+            <p>S Petelinovim Tinčetom sta se bila po onem dogodku na planinici sprijaznila popolnoma. Petelinov Tinče je tudi vozil v Andrejev mlin in že zato ga ni smel sovražiti Blaže.</p>
+            <p>Petelinov Tinče je služil izven Brodov pri Pučniku za malega hlapca. Pučnik je bil trgovec in je kupčeval z lesom in z ogljem. Však drugi dan sta stala dva naložena voza pred Pučnikovo hišo: eden z rimelci, drugi z ogljem. S prvim je vozil velikí hlapec, z drugim pa nihče, ki se je bil še le pred kratkim udínjal pri Pučniku. Velikí hlapec je bil lahko čedno napravljen — seveda: les ga ni umazal. Toda Tinče ne tako! On je bil vedno ves črn in niti v mesto, kamor sta vozila oglje, si ni mogel oblečí bele srajce, ker bi bil prinesel domov črno. Zato je pa Tinče tudi domá hodil v delavnik ves črn in umazan ...</p>
+            <p>K Andreju je bil pripeljal tiste dni v mlin — črn in zakajen kakor dimnikar ... In Blaže ga je lahko s tem večjim ponosom vprašal, če hodí med fante; saj se Tinče niti v nedeljo ni mogel omití in očediti, kakor bi bilo treba ...</p>
+            <p>»Med fante ne grem — nimam kaj delati med njími ...« je odgovoril Tinče navzlic svoji črni srajci in zakajenemu obrazu dokaj samozavestno.</p>
+            <p>Blaže si je moral priznati, da mu je prav ta samozavest na Tinčetu skoro ugajala. Najbrž zato, ker je menil zapaziti na Tínčetu nekaj, česar sam ni imel in kar je zato tolikanj bolj občudoval na drugih. Vendar se mu je čudno zdelo, zakaj bi ravno Tinče ne maral med fante ... Zato je ugovarjal, rekoč:</p>
+            <p>»Delati —. Saj nihče nima nič delati med fanti ... Pa tako pravim, če kaj greš v druščino —.«</p>
+            <pb facs="#WIKI00464-041" n="41" xml:id="pb.041"/>
+            <p>»Ne grem! Čemu, ko lahko dobim druge druščine, če jo hočem — in boljše ...«</p>
+            <p>»Kakšne?«</p>
+            <p>»Mestne!«</p>
+            <p>»Mestne —?« se je čudil Blaže.</p>
+            <p>»Mestne, mestne!« je ponovil Tinče; »misliš, da je ne morem dobití? S hlapcem voziva na kolodvor; na kolodvoru pa so ljudje, ki so vse kaj drugega, kakor kmetiški robavsi tukajle. Kaj veš ti, ki sveta nisi videl več kot toliko, kolikor se ga vidi raz Žirovski vrh — in še tega le od daleč. A mestni delavci — meniš, da so to res delavci? V delavnikih so sicer delavci, toda v nedeljo se ti ne ločijo od najbogatejšega gospoda. A navzlic temu marajo zame in radi govorijo z menoj. Z vsemi sem znan!«</p>
+            <p>»No, in kaj so ti že povedali?« je pozvedoval Blaže.</p>
+            <p>»Kaj —? Marsikaj! To že, da bodo na kolodvoru v kratkem odpovedali delo vsi — in sicer zato, ker nočejo biti tapice in trdo delati in klečeplaziti pred gospodarji. O, mestni delavci so drugačni gospodje kakor kmetiški!«</p>
+            <p>Blaže je zmajeval z glavo. To mu ni šlo v glavo, da bi res samo mestni delavec bil kaj, kmetiški pa kar tako-le nič ...</p>
+            <p>»Boš pi še ti odpovedal delo pri Pučniku, kali?« je vprašal Tinčeta napol resno, napol zbadljivo. Zakaj znano je bilo, da Tinče ne vozi rad oglja in da se je ponujal Pučniku, da bi vozil les, a ne oglja; še le ko mu ni bilo dovoljeno in ko drugje ni mogel dobiti službe, se je baje udinjal za oglje. Tega pa seveda Tinče ni hotel priznati ...</p>
+            <p>»Jaz da bi odpovedal?« je rekel na Blažetovo pripomnjo; »saj nimam zakaj ... Pri Pučniku mi je všeč, da mi bolj biti ne more. Mi ni nič hudega ... Kadar mi pa kaj prav ne bo — o tedaj pa odpovem kar naravnost!«</p>
+            <p>»Če te Pučnik sam ne bo prehitell« seje vtaknil vmes Andrej. Dotlej je ležal na klopi ter molčal in mežal. Tinče je mislil, da spi.</p>
+            <p>Vendar je hotel Tinče tudi Andreju ugovarjati.</p>
+            <p>»Pučnik, da bi mi —.«</p>
+            <p>Toda Andrej je bil že na drugem predmetu. Videl je, da se je bil Tinče neprevidoma zadel vreče, ob kateri je stal. In takoj ga je opomnil, češ:</p>
+            <p>»Poglej, srajco si si umazal!«</p>
+            <p>Tinčeta je bilo sram. Pogledal je okrog sebe, in ko je zapažil Pučnikovo moko, je začel znašati vreče na voz.</p>
+            <pb facs="#WIKI00464-042" n="42" xml:id="pb.042"/>
+            <p>Blažetu se je prav za prav dobro zdelo in smejal bi se bil Andrejevi opazki, a se ni hotel zameriti Tinčetu. Zato je šel rajši ven in pomagal Tinčetu nakladati.</p>
+            <p>In da bi potolažil Tinčetovo nevoljo, če je je kaj bilo, se je pogovoril z njim in ga pridržal nekoliko.</p>
+            <p>»Vidiš, Tinče, meni se dobro godí pri Andreju,« mu je rekel zaupno.</p>
+            <p>»Ali dobro —? No, saj je prav, da se ti.«</p>
+            <p>»In ravno tebi, Tinče, se imam zahvaliti za to.«</p>
+            <p>»Meni?«</p>
+            <p>»Tebi, ker si mi ono nedeljo, ko sem pasel na Posečnikovi planinici, rekel ‚pástir‘. — Takrat si mi odprl oči ... Sicer ne vem, ali bi bil zdajle tukaj ali ne.«</p>
+            <p>»Vidiš!« je dejal Tinče samozavestno in sedel na voz.</p>
+            <p>»Kaj pa na harmoniko — ali še kaj godeš?« je vprašal Blaže pri slovesu.</p>
+            <p>»Ne več. Se mi je zdela prevelika in prenerodna, zato sem jo prodal Muretovemu. Zdaj godem na orglice za na usta — je bolj prijetno ... Ko vozim v mesto, sedim vrh voza in godem, da vse plese okrog mene in da ljudje glave potikajo skoz okna ... O, tudi meni ni nič hudega!«</p>
+            <p>Blaže zopet ni vedel, kaj bi si mislil: ali bi verjel Tinčetu in mu zavidal srečo, ali pa neverjetno zmajal z glavo in ga zavrnil. Tinčetove besede so sicer zvenele lepo, toda srajca je pričala — kako bi rekel — črno ...</p>
+            <p>Vendar je Blaže še dolgo stal na mestu in gledal za Tinčetom, ko se je ta odpeljal po grapi. In neka zavistna misel mu je vstajala v duši, polagoma kakor se dviga ob poletni vročini na jasno nebo hudouren oblaček ...</p>
+            <p>In ko je prišel nazaj v mlin in ga je sprejel Andrej z bučnim smehom, češ: »Ali si videl, da se je poznalo na vsaki vreči najmanj šest njegovih reber?« se mu Blaže sprva ni smejal. Prav tisti trenutek mu je prišlo na misel, da morebiti tak-le človek, kakoršen je Petelinov Tinče, ki však dan vozi v mesto in nazaj, vidi in izkusi še največ ... No pa ta misel je obvladala Blažeta samo za hip. Takoj nato je izprevidel, da je neumno, sploh misliti o tem. Zato se je rajši nasmehnil ter pritrdil Andrejevi opazki, rekoč:</p>
+            <p>»Prav gotovo: — šest reber se mu je poznalo in še pleča povrh ...«</p>
+         </div>
+         <pb facs="#WIKI00464-043" n="43" xml:id="pb.043"/>
+         <div xml:id="wv-XVII.">
+            <head xml:id="head.17">XVII.</head>
+            <p>Nedelja je prišla — semanja nedelja — in Blaže je bil mož-beseda. Andreju je kar naravnost povedal, da gre na ples, in ta mu ni branil. Micona pa mu je dala denarja in mu tudi ni branila ... In šel je.</p>
+            <p>Mrak se je delal in pivska soba Lovrinova je bila do mala polna, ko je vstopil Blaže. Kadilo se je po izbi in fantje so že plesali in razbijali, da so deske odskakovala od tal. Dekla je bila ravnokar poškropila po tleh; zato se je para, pomešana s prahom, dvigala proti stropu in odsevala v luči, ki so jo bili ravno tedaj prižgali. Z vinom in pivom prenasičeni zrak je puhtel pri durih in oknih na prosto.</p>
+            <p>Blaže je obstal na pragu. Tesno mu je prišlo pri srcu in za tisti hip se je pokesal, da se je držal obljube in prišel ... Tolike druščine ni bil vajen in v takem hrušču in trušču še ni bil ... Že se je hotel vrniti in, če treba, se tudi zameriti Bolantačku in drugim ...</p>
+            <p>Toda namenjeno je bilo drugače.</p>
+            <p>Bolantaček, ki je sedel v kotu za mizo in je bil prav tedaj odložil harmoniko, ga je zapažil pri durih.</p>
+            <p>»Blaže, pit pojdi, pit!«</p>
+            <p>In pokazal mu je z roko na prazno mesto poleg sebe.</p>
+            <p>Ta opomin je vzbudil v Blažetu hipoma srčnost in samozavest. Preril se je skoz sredo sobe in prisedel k Bolantačku.</p>
+            <p>Potem je pa bilo vse dobro. Bolantačka je imel poleg sebe in raz svoje mesto je mogel videti po vsej sobi. To je bilo dovolj; več si Blaže ni želel.</p>
+            <p>Fantje, ki so dotlej plesali, so med tem posedli po klopeh in dekleta tudi. In potem so peli, pili, smejali se, nagajali si itd.</p>
+            <p>Pa kaj je Blažeta brigalo vse to! Njemu je bilo dovolj, da je videl pred seboj vesele obraze in da je bil sam vesel med njimi.</p>
+            <p>Sicer je pa imel Bolantačka poleg sebe in ta mu je razložil, kar mu je bilo treba vedeti. Ta ga je po potrebi seznanjal s fanti, s katerimi se Blaže dotlej še ni poznal. In vsakdo izmed fantov se je Blažetu prijazno nasmehnil, ali mu vsaj namignil v pozdrav. In to je bilo Blažetu dovolj.</p>
+            <p>Kaj bi pravil — dosti rečeno: ni minilo pol ure in Blaže je bil toliko kot domač v družbi ... In to ni mala stvar!</p>
+            <pb facs="#WIKI00464-044" n="44" xml:id="pb.044"/>
+            <p>Pa to kar je bilo došlej, to še ni bilo vse. Najlepše je imelo priti. Najlepše je bilo tedaj, kadar je vzel Bolantaček harmoniko v roke in zagodel. Hej, kako je tedaj Blažetu burno zaplalo srce in kako je bil hipoma ves drug; kakor bi mu bil človek ognja nalil v žile namesto krvi ... Pa tudi na druge je delovalo. Kako je tedaj vselej završalo v družbi in kako je vse rinilo po koncu in tiščalo na prostor sredi izbe, zbirajoč se v vrste in pare za ples!</p>
+            <p>Saj je pa bila tudi godba, ki jo je Bolantaček takorekoč čaral iz harmonike, kakor nalašč za to, da je živ človek ni mogel pozabiti vse življenje, ako jo je poslušal le enkrat ... To so bili glasovi: ubrani, okrogli, globoki, glasno doneči ... Ti glasovi so ob enem jokali in vriskali, bobneli in doneli, pojemali in usihali ... In s temi glasovi so v Blažetovem srcu oživele neke nove strune, ki so tudi vriskale in jokale, pojemale in usihale, pa zopet naraščale in se smejale ...</p>
+            <p>Blaže se je smejal. — Poslušal je ... bil je vesel prek vse mere ... gledal je in gledal ... To mu je bilo nekaj novega, došlej še nepoznanega.</p>
+            <p>Pari po sobi so se drevili in se sukali kakor v vihri in Bolantačkova harmonika jih je drevila huje in huje ...</p>
+            <p>In tako je tekel večer.</p>
+            <p>Blaže je pil ... Polagoma je sicer srkal dobro kapljico, a vztrajno. Žejen je bil in denar je tudi imel ... Sicer pa, saj so drugí tudi pili!</p>
+            <p>In čim dalje je potekal večer, tem bolj domačega, tem bolj prostega se je čutil. Prijaznost fantov ga je vzpodbujala; bil je vedno zaupnejši, vedno veselejši, vedno glasnejši. Vino je storilo svoje in godba ga je navduševala bolj in bolj ... Naposled si je upal celó izza mize. Kadar niso plesali, je celó stopil parkrat po sobi gori in doli in izpregovoril par besed s tem ali onim. In ker je bilo naposled vroče v sobi, je šel tudi ven, postal nekoliko na vežnem pragu, gledal v tiho noč ali pa na nebo, ki je bilo na gosto posejano z zvezdami — in potem je šel zopet nazaj med družbo, med fante, med sebi enake ...</p>
+            <p>Blaže se ni kesal, da je prišel. Blagroval je samega sebe, v duhu objemal ves svet in bil dobre volje, da bi se ne bil jezil niti nad Posečnikovim dekletom, ko bi bilo v tistem hipu stopilo predenj.</p>
+            <p>»Pleši!« ga je opomnil enkrat Bolantaček in mu že hotel izbrati plesalko ...</p>
+            <pb facs="#WIKI00464-045" n="45" xml:id="pb.045"/>
+            <p>»Tistega pa ne — plesal pa ne bom!« je rekel Blaže odločno in sila čudno bi se mu bilo zdelo, ko bi mu bil Bolantaček res pripeljal plesalko in bi se bil zavrtel z njo sredi sobe, če tudi le parkrat ... Ne, za ples Blaže ni bil — to si je priznal sam.</p>
+            <p>Vendar tisti hip se je navzlic temu pokesal, da ne zna plesati, kakor znajo drugi ...</p>
+            <p>Sicer pa je tudi to bilo dovolj, kar je imel. Saj mu je tudi brez plesa bila duša polna in mu je radosti prekipevalo srce.</p>
+            <p>Pil je ...</p>
+            <p>In čudno, pijača ga niti omamljala ni — kakor se mu je zdelo ... Res se mu je jezik že zapletal nekoliko, a komu bi se ne bil — saj je bilo treba govoriti toliko in z vsakim ... Vendar trezen je bil Blaže pri vsem tem in prav dobro je vedel, kaj dela, in zdelo se mu je, da bi lahko dajal račun od vsake besede, ki jo je govoril.</p>
+            <p>Le sem pa tja je bil malo preveč domač — se mu je zdelo — in upal si je nekoliko preveč. Tako na primer, ko je videl, da so silili drugi v Bolantačka in mu oponašali njegov »meh«, ga je tudi Blaže enkrat podražil nekoliko ... Zdelo se mu je, da Bolantačku to ni bilo prav ... Sicer pa — ali je bil Blaže na koga navezan? Ali ni bil kakor drugih kdo?</p>
+            <p>Sploh se Blaže naposled ni bal nobenega in zdelo se mu je, da bi se bil postavil po robu vsakemu, ki bi mu bil zinil žal besedo ...</p>
+            <p>Petje in ples sta se menjavala med seboj, veselje je naraščalo, vik in krik se je razlegal burneje. Šlo je na polnoč ...</p>
+            <p>Bolantaček je godel, da so ga bolele roke, a fantje se niso utrudili; plesanja in drsanja ni bilo ne konca, ne kraja.</p>
+            <p>Blaže je naročil Bolantačku, naj zagode »ceparle«. Ni mu sicer dal v gosli, saj ni mislil plesati; vendar »ceparle« je hotel slišati še enkrat, predno gre, zakaj ravno tega je znal zagosti Bolantaček kakor malokdo.</p>
+            <p>In res je zagodel.</p>
+            <p>Hej, to je veselilo Blažeta! Dvignil se je za mizo, krilil z rokami po zraku, smejal se in dvigal rame po taktu ...</p>
+            <p>In zraven je silil v Bolantačka:</p>
+            <p>»Le godi! Hej, Bolantaček, le godi! Ceparle godi ... godi ...«</p>
+            <pb facs="#WIKI00464-046" n="46" xml:id="pb.046"/>
+            <p>Pri tem se je primerilo, da je včasi omahnil na stran in se zadel ob Bolantačkovo ramo. To pa je Bolantačka motilo. Pogledal je Blažeta po strani, češ, naj miruje ...</p>
+            <p>A Blaže tega ni zapažil.</p>
+            <p>Ceparle je pel in fantje so plesali ...</p>
+            <p>Blaže je sedel, ker noge ga niso več držale. In še sedé je tiščal in rinil v Bolantačka, češ:</p>
+            <p>»Poglej, Bolantaček, kako plešejo ... hej!«</p>
+            <p>Bolantaček pa ga je zopet gledal po strani in to pot se mu je jeza brala v očeh ...</p>
+            <p>»Miruj!«</p>
+            <p>Blaže pa ga ni niti slišal, niti razumel.</p>
+            <p>In kaj je moralo še priti!</p>
+            <p>Blažetu je prišla na um neka nova misel in takoj jo je bilo treba povedati Bolantačku. To ga je pokopalo.</p>
+            <p>»Slišiš, Bolantaček! Slišiš: ti mi ne boš naročal harmonike z Dunaja ... Slišiš!« — in zraven je cukal Bolantačka za rokav. — »Slišiš: ti mi boš prodal svoj meh, zato ker tako lepo poje ... Slišiš!«</p>
+            <p>Bolantaček je znova zavpil: »Miruj!« in godel dalje.</p>
+            <p>Toda Blaže ni miroval ...</p>
+            <p>Tedaj pa je bilo Bolantačku dovolj.</p>
+            <p>»Kaj hočeš —?« je zavpil na enkrat tja v Blažeta in ustavil harmoniko — — —</p>
+            <p>Pari so obstali v diru in tišina je zavladala po sobi prvi hip.</p>
+            <p>Bolantaček pa je škrtal z zobmi in divje ter nepremično upiral pogled v Blažeta. Oči so mu sijale jeze in grda, prsti so mu podrhtavali ob »knofkih« in »basovih«.</p>
+            <p>»Kaj hočeš —?!«</p>
+            <p>Blaže je obsedel kakor vkopan. Bled je bil kakor smrt in usta so se mu odprla od razočaranja in srce se mu je krčilo strahú — —</p>
+            <p>Toda kakor sodna trobenta je donel oni grozničavi glas: »Kaj hočeš —?« in prevpil ves hrum in šum, ki je bil znova nastal med plesalci in gledalci.</p>
+            <p>»Kaj je, kaj je?« so izpraševali fantje in silili v ospredje. »Zakaj ne godeš, Bolantaček? — Godi!«</p>
+            <p>Bolantaček pa je vpil znova in vpričo fantov tiščal v Blažeta:</p>
+            <p>»Zdaj povej, kar imaš! Kaj hočeš —?«</p>
+            <p>Blaže je hotel govoriti, toda glas mu je zastal v grlu; in namesto glasú je privrel na dan piskajoč kašelj ...</p>
+            <pb facs="#WIKI00464-047" n="47" xml:id="pb.047"/>
+            <p>Bolantaček pa je le vpil, da je odmevalo od sten:</p>
+            <p>»Zdaj govori!«</p>
+            <p>Kaj je hotel govoriti, ko mu pametna stvar ni prišla na misel in ko je mislíl, da se udirajo tla pod njim!</p>
+            <p>Plesalci so vpili znova in že malo ne kričali in grozili Bolantačku:</p>
+            <p>»Godi! — Kaj imata?! — Ako ne zaigraš takoj ...«</p>
+            <p>In tudi kletvica se je čula vmes.</p>
+            <p>Bolantaček pa se ni dal oplašiti. Kričal je venomer:</p>
+            <p>»Pri miru naj me pusti! Čemu sploh pride ... Za napotje je, pokveka nerodna! Niti plesati ne zna ... V hribih naj bi ostal pri ovcah in kozlih — za ondi je ...«</p>
+            <p>In še je vpil — še dolgo je vpil!</p>
+            <p>Blaže ni več vedel jasno, kaj se godi okrog njega. Videl je sicer vse, a razumel ni vsega; poslušal je, a besede so hitele brez vtiska mimo njega ...</p>
+            <p>Miza, soba, strop, okna — vse se je zasukalo pred njim in le on — zdelo se mu je — je ostal miren, med tem ko je krog njega vse vršelo in kričalo, vpilo in ruvalo.</p>
+            <p>To so bili grozni trenutki za Blažeta, navzlic temu, da se jih ni zavedal popolnoma. In to je trpelo celo grozno večnost ...</p>
+            <p>Kar zahrešči harmonika znova Bolantaček je nadaljeval svoj »ceparle«.</p>
+            <p>Blažetu je odleglo a obenem mu je bilo dovolj.</p>
+            <p>Segel je v žep, treščil pest drobiža na mizo, pustil klobuk in kamižolo, ki jo je bil odložil takoj pri vstopu, in odbežal venkaj na prosto.</p>
+            <p>In tam zunaj je bila polnoč. Po okolici se je razgrinjal lunin svit kakor čisto srebro in voda je bobnela tja v tiho noč, in veter, ki je bil narastel, je tudi pihal tja v tiho noč ...</p>
+            <p>Blažetu je bilo, kakor da se je prebudil iz sanj — mučnih in težkih ...</p>
+            <p>Obstal je spodaj pod stopnicami. Zazijal je, potegnil zraka vase — in izprevidel hipoma vso groznost in usodnost nocojšnjega večera.</p>
+            <p>»Sramota! O gorje, gorje mi!«</p>
+            <p>In poklical si je dogodke površno zopet v spomin.</p>
+            <p>»Torej ne za med ljudi, ampak —.«</p>
+            <p>Tega mu ni bilo prenesti — to je bilo pregrozno.</p>
+            <pb facs="#WIKI00464-048" n="48" xml:id="pb.048"/>
+            <p>Zavrtelo se mu je v glavi, noge so se mu pošibile in moral je sesti na stopnico.</p>
+            <p>Glavo je podptral z roko; a jasno ni mogel misliti.</p>
+            <p>Vse misli so se mu v groznem neredu drevile krog nekega središča, krog neke misli, ki je bila izmed vseh najhujša in ki se mu je divje in brezsrčno rezala v obraz zopet in zopet ...</p>
+            <p>»Ne za med ljudi, ampak za v hribe —. Za v hribe ... za med ovce in kozle ...«</p>
+            <p>Stresnilo ga je.</p>
+            <p>Hotel se je dvigniti, toda grozna zavest, da mu je en trenutek podrl vse, vse — ta zavest ga je tiščala kakor môra proti tlom.</p>
+            <p>Vendar — vstati je hotel, je moral, ker je sapa pihala in mraz je bilo ...</p>
+            <p>Dvignil se je s silo in s težavo.</p>
+            <p>Kam je hotel?</p>
+            <p>Sam ni vedel, kam je hotel. Proti domu bi bil šel; proti Andreju je hotel. Storil je par korakov, opotekal se je ... a zgrešil je pot in zašel na stransko stezo. In steza je peljala nekam navzgor. Po koncu ni mogel ... Sesedel se je sredi pota in obsedel v bregu za Lovrinovo hišo. Iz Lovrinove sobe pa je sijala luč skoz okna in Blaže je videl v izbo, kjer so plesali in ukali dalje.</p>
+            <p>»Čemu sem šel med nje, čemu!?«</p>
+            <p>Tako je vzdihoval sam pri sebi; toda mesec na nebu mu ni odgovarjal in voda je brezčutno drevila po grapi mimo njega ...</p>
+            <p>»Čemu si prišel?« — tako mu je govoril neki tajen glas — »čemu si prišel, ko bi bil lahko vedel, da nisi za to, da nisi za družbo.«</p>
+            <p>In zopet so mu prišli pred dušo spomini — spomini, ki jih je obnavljal že tolikokrat, ki ga pa navzlic temu še niso bili spametovali: spomini na brata Franceta ...</p>
+            <p>O, nima ga — nima ga Francetovega srcá, in to je grozno! — Kaj bi bil na primer France odgovoril nocoj, kako se obnašal proti Bolantačku?</p>
+            <p>Ha, France bi se ne bil vdal kar tako; France bi bil ravnal drugače!</p>
+            <p>»Kaj hočem —!?« tako bi bil vprašal France Bolantačka in ga pogledal nazaj takisto jezno: »Kaj hočem!? To hočem, da godi! Ali si za kaj drugega tukaj, kakor <pb facs="#WIKI00464-049" n="49" xml:id="pb.049"/>da godeš? Čemu smo te najeli, če ne za to, da godeš? In ako se bojiš, da ti ne bom dal v gosli — tu imaš!«</p>
+            <p>In France bi bil vzel krono iz žepa in jo vrgel Bolantačku pod nos. In vsi fantje bi ga bili pohvalili zato!</p>
+            <p>Kaj pa Blaže? Ali je on zinil katero? Niti ene! In to je bilo grozno.</p>
+            <p>Prevara! Čemu se je silil med fante, čemu je sanjaril o Bog ve čem, za kar ni ustvarjen, za kar nima niti zmožnosti, niti poklica ...</p>
+            <p>Da tega ni vedel poprej!</p>
+            <p>Kako bo prenesel udarec, kako bo pozabil sramoto! Zdaj je prepozno ...</p>
+            <p>»Prepozno —?« je vpraševal zopet drug glas, »prepozno? Saj ni prepožno ... Ako ga fantje ne marajo, ako za ples ni in za vpitje in krik — ali potem sploh za ljudi ni?«</p>
+            <p>Blaže je dvignil glavo in novo upanje mu je podžgalo ogenj v očeh. To so bile nove misli, ki so mu zopet ogrele srce in dajale novo moč potrti in izmučeni duši njegovi ...</p>
+            <p>»Ali ga je gnalo samo med fante, ko se je trgal od Posečnika in od Žirovskih hribov, hrepeneč v dolino? Ali ne med ljudi sploh? — In ali so samo fantje ljudje? ... Ako ga ne marajo fantje — dobro! Ga pa marajo drugi! Saj mara zanj Andrej, njegova sestra Micona — saj mara zanj Petelinov Tinče ...«</p>
+            <p>Petelinov Tinče —.</p>
+            <p>Blaže si je v duhu poklical v spomin zadnji pogovor, ki ga je imel s Petelinovim Tinčetom. Pretehtal je vsako besedo njegovo. Jasno ga je videl pred seboj, kako sedi na vozu visoko gori vrh ogljenih vreč in kako igra na »orglice«. Zdelo se mu je, da sliši celó, kako se okna odpirajo ob cestah in kako ljudje potikajo glave na prosto, čudeč se in ugibajoč, kako more kdo na tako malo orodje igrati tako lepo ... In Petelinov Tinče — tako se je zdelo Blažetu — se napol smeje skoz orglice in oči se mu svetijo veselja in ponosa, češ: »O, meni ni nič hudega!« ...</p>
+            <p>Ob teh mislih že ni več Blažetu klonila glava na prsi, roka se mu ni tresla in kolena se mu niso šibila. Nasprotno, začutil je novo moč po udih in življenje se mu je vračalo v dušo.</p>
+            <p>Dvignil se je ... Zavedel se je popolnoma pred dušo mu je bilo jasno.</p>
+            <pb facs="#WIKI00464-050" n="50" xml:id="pb.050"/>
+            <p>Poiskal je pot, ki pelje od Lovrina proti Andreju, in se napravil naravnost proti mlinu, da domá v postelji še enkrat in še natančneje razmisli vso stvar.</p>
+            <p>Hitel je — in lahko mu je bilo hiteti ... Veter, ki je vel po grapi, mu je hladil razgreto čelo, in na pot mu ni bilo treba pažiti, saj je luna sijala in noč je bila tako svetla, tako jasna ...</p>
+            <p>Hitel je — pohitel bi bil lahko na konec sveta, ko bi bilo treba. Hitel bi bil, pohitel bi bil naravnost k Tinčetu, objel ga in mu povedal, da se ne bo norčeval iz njegove črne srajce nikdar več; da se ne bo smejal Andrejevi šali nikdar več in da bi se črne srajce ne sramoval niti sam, ko bi imelo priti do tega.</p>
+            <p>V tem je dospel do mlina — brez klobuka in brez kamižole. Toda kaj! Ali je imel Blaže čas, misliti na klobuk in na kamižolo? In ko bi bil tudi opazíl, da nima klobuka in kamižole — kaj bi mu bilo zato? Nič! Blaže je imel novo misel, novo nado, ki mu sicer še ni bila popolnoma jasna, katere se je pa navzlic temu že oklepal z vso silo, z vso strastjo in z vsemi močmi svoje duše ... In ta misel, ta nadá je zadostovala Blažetu popolnoma.</p>
+            <p>»Kje sem vendar?« se je vpraševal in se čudil, ko se je zavedel ter videl pred seboj Andrejevo hišo in mlin; »ali sem domá?«</p>
+            <p>Gledal je krog sebe in videl, da je voda tekla po rakah kakor po navadi, da je veliko kolo stalo kakor vselej po noči in da so valovi bruhali visoko, zaletavajoč se v lopate kakor vselej.</p>
+            <p>»Hvala Bogu — domá sem!« je vzdihnil Blaže in pri srcu mu je bilo, kakor da se je po dolgem trudu rešil iz valov, ki so ga že požirali in ga z neodoljivo močjo tirali v globino.</p>
+            <p>Dá — bil je domá!</p>
+            <p>In mesec je sijal še vedno in listje, kar ga je bilo še po vejah, je šuštelo in veter je vel ... Izza gorá pa so vstajale nove zvezde in pričenjale dolgo, dolgo pot po nebesnem svodu ... A mlado jutro je še spalo in niti zarja se še ni bila dvignila na obzor ...</p>
+         </div>
+         <pb facs="#WIKI00464-051" n="51" xml:id="pb.051"/>
+         <div xml:id="wv-XVIII.">
+            <head xml:id="head.18">XVIII.</head>
+            <p>Drugo jutro je bil Blaže bolan, resno bolan ...</p>
+            <p>Vzbudil se je bil zgodaj.</p>
+            <p>Saj spati ni mogel vso noč. Vsa noč, kolikor je je bilo, mu je potekla nemirno. Ko je legel v posteljo, mu je bilo, kakor bi mu bila padla megla na dušo, in nič več ni mogel jasno razbrati svojih mislij. V nekem polsnu so se mu mešale ražne podobe pred očmi: zdaj je bil na plesu v Lovrinovi gostilni, zdaj je govoril s Petelinovim Tinčetom, zdaj se je poslavljal od Andreja in se odpravljal nekam silno daleč po svetu, a nikomur ni smel povedati, kam ... In pri tem ga je polival pot in ga kuhala vročina, da je zmetal raz sebe malo ne vso odejo in naposled odprl okno ob postelji ...</p>
+            <p>Zaspal je še le proti jutru in še to le za silo.</p>
+            <p>A zjutraj se je vzbudil bolan, resno bolan ...</p>
+            <p>Hotel se je dvigniti na postelji, a zabolelo ga je v sencih, da je brez moci zopet omahnil na posteljo ... In glava ga je bolela, da mu je hotela razpočiti, in mrazilo ga je ...</p>
+            <p>Stegnil je roko, ki pa se mu je tresla in bila skoro brez moči, ter zapri okno; zakaj megla je silila v sobo. Potem pa je ležal nekaj časa utrujen in kakor brez življenja in z zaprtimi očmi.</p>
+            <p>A pred oči so mu stopili vsi dogodki pretekle noči s posledicami vred. In to ga je hudo razburjalo ...</p>
+            <p>»Moj Bog! Kaj bo? Ali sem bolan?«</p>
+            <p>Spomnil se je, da bi se bil utegnil prehladiti po noči; dá, prišlo mu je celo na misel, da bržkone pri odhodu iz gostilne ni bil vzel niti klobuka, niti kamižole ...</p>
+            <p>Pogledal je na stol poleg postelje — in tam kamižole in klobúka ni bilo.</p>
+            <p>Blaže ni več dvomil, da se je prehladil sinoči. In zaskrbelo ga je.</p>
+            <p>»Kaj bo, kaj bo?«</p>
+            <p>Odprl je oči in poslušal, ali sta Andrej in Micona že vstala — mimogredé mu je prišlo na um, kaj sta si neki sinoči mislila o njem Andrej in Micona — in želel je, da bi bila vsaj Micona že po koncu.</p>
+            <p>In res so se spodaj čuli koraki — tihi in pridržani. Zdaj in zdaj so se imela odpreti velika vrata in Micona je imela stopiti na prag.</p>
+            <pb facs="#WIKI00464-052" n="52" xml:id="pb.052"/>
+            <p>Tedaj jo mora poklicati — tako je sklenil Blaže. In potem naj mu skuha zdravil.</p>
+            <p>Zopet je zatisnil oči in spanec se ga je hotel polastiti. Že so mu vstajale pol jasne podobe pred dušo — také, ki tvorijo prehod iz zavesti v spanje — in že je bil na tem, da bi zaspal — kar ga vzbudijo stope, ki so prav tedaj začele svoje delo.</p>
+            <p>Blaže je stegnil roko, pótrkal na okno in izustil s slabotnim glasom — tudi glas je imel na sebi znak bolezni —:</p>
+            <p>»Micona!«</p>
+            <p>Ali ga je čula, ali ne? Takoj nato je prišla v sobo in vprašala, kaj je.</p>
+            <p>»Bolan sem ...«</p>
+            <p>»Ali res?« se je začudila in zasmilil se ji je Blaže; »kaj, ali si se prehladil?« je nadaljevala s plašnim glasom, ko je videla Blažetovo bledo lice. »Pa ne da bi bilo nevarno?«</p>
+            <p>»Vstati ne morem ... Glava me boli, v prsih me boli, povsod me boli ...«</p>
+            <p>»Moj Bog, kaj bo iz tega!«</p>
+            <p>Micona je mislila, kaj bi ...</p>
+            <p>»Bezgovca ti bom skuhala, Blaže.«</p>
+            <p>Blaže je prikimal.</p>
+            <p>Potem mu je popravila odejo, prinesla še koco in obljubila, da hoče zakuriti v peč. Nato pa je odhitela, da skuha čim prej zdravilo.</p>
+            <p>Ne dolgo potem je stal »bezgovec« pred Blažetom.</p>
+            <p>Blaže je pil in dobro mu je delo ... Gorkota mu je silila po telesu in moči je čutil. Neka lahkota mu je legla na ude.</p>
+            <p>Vendar vstati bi še ne bil mogel in tudi ni hotel poskušati.</p>
+            <p>»Danes moraš ostati v postelji!« mu je rekla Micona in ga zadelala v odejo.</p>
+            <p>Blaže je ležal in gledal v strop. Bolečin ni čutil; zeblo ga ni več — in neka omotica se ga je prijemala. Pol jasne podobe so mu zopet vstajale pred dušo ...</p>
+            <p>Ko je kmalu nato prišel še Andrej v sobo in vprašal, kako mu je, ga je še razumel in mu odgovoril:</p>
+            <p>»Dobro.«</p>
+            <p>In tudi je razumel, ko je Andrej rekel Miconi:</p>
+            <p>»Če bo le slabo, bomo morali poslati po mater in po zdravnika.«</p>
+            <p>Drugega ni več čul. V naslednjem ga je že objemal spanec in sanje so ga ponesie proč odtod v drug delokrog ...</p>
+         </div>
+         <pb facs="#WIKI00464-053" n="53" xml:id="pb.053"/>
+         <div xml:id="wv-XIX.">
+            <head xml:id="head.19">XIX.</head>
+            <p>Kako je bilo to vse čudno, neumevno!</p>
+            <p>Blaže je kar na enkrat stal pred Pučnikom, nevedé, kako je prišel tja, in nevedé, ali hoče Pučnik kaj od njega, ali on od Pučnika.</p>
+            <p>In Pučnik je dvignil levo brko — to je navadno privzdigoval, kadar je govoril — ter vprašal:</p>
+            <p>»Si li prišel služit? Hm! Hm! Služit, služit!«</p>
+            <p>Zraven se mu je tolsti obraz zategnil v tisoč gub, pol resnih, pol smehljajočih. In male oči so mu bodle v Blažeta, kakor želo ...</p>
+            <p>Zadi za Pučnikom pa je stal Petelinov Tinče v črni srajci ter z roko migal Blažetu, naj odgovori, naj pritrdi.</p>
+            <p>In Blaže se je čutil prisiljenega in je rekel:</p>
+            <p>»Služit sem prišel!«</p>
+            <p>»Služit —« je ponovil Pučnik in tiste gube, ki so bile dotlej prijazne, so hipoma izgubile vso mehkobo in postala resne in odurne ...</p>
+            <p>»Idita!« je zapovedal Blažetu iri Tinčetu ter pokazal na vrata; »oglje je pripravljeno!«</p>
+            <p>Tinče je prijel Blažeta za roko in šla sta.</p>
+            <p>Pred hišo sta stala dva vozová, do vrha napolnjena z ogljem, in dva mršava konja sta bila vprežena spredaj ...</p>
+            <p>»Kaj bo —?« se je zavzel Blaže, gledajoč pred seboj konja in vozova. Nič dobrega ni slutil ... S plašnim pogledom se je ozrl na belo srajco, ki mu jo je bila Micona oprala in izlikala pri odhodu od Andreja. Kamižole ni imel in klobuka tudi ne.</p>
+            <p>»V mesto bova peljala — na kolodvor!« mu je razlagal Tinče s prijaznimi besedami, kakor bi hotel s prijaznostjo popraviti slab vtisk, ki sta ga na Blažeta napravila konja in vozova.</p>
+            <p>»Ali bom tudi jaz peljal, kali?«</p>
+            <p>»Tudi. Vozila bova skupaj: jaz s prvim, ti z drugim.«</p>
+            <p>»Pa jaz imam belo srajco,« se je izgovarjal Blaže, dasi je slutil, da mu vsi ugovori ne bodo pomagali.</p>
+            <p>»Nič ne dé. Jaz sem jo tudi imel — še včeraj. A poglej me danes ... Sicer pa bela srajca ni vse.«</p>
+            <p>»Vendar, kaj bi rekla Micona, ko bi videla? In Andrej bi se norčeval ...«</p>
+            <p>»Zató se ne brigaj, Blaže, in potolažen bodi;« — pri teh besedah je Tinče posegel v žep — »poglej, tukaj imam orglice; igrala bodeva po poti.«</p>
+            <pb facs="#WIKI00464-054" n="54" xml:id="pb.054"/>
+            <p>»Ali bodeva?«</p>
+            <p>In Blaže je bil takoj voljan.</p>
+            <p>Sedla sta na vozove in pognala ...</p>
+            <p>Toda ta vožnja — ta ni šla počasi, kakor bi bil človek mislil prej, sodeč po težkih vozovih in mršavih konjih. Hu! To je drevilo že takoj s početka kakor za stavo! Šlo je kakor veter in strela — in vrh tega še v klance, ki so se vlekli od Pučnika navzgor.</p>
+            <p>Tinče je sedel na prvem vozu visoko vrh vreč. Z bičem je švigal po konju, da je odskakoval in letel kakor lastovica. In čim huje je drevil Tinčetov konj, tem huje je Blaže priganjal svojega. Nekaj mu je reklo, da mora Tinčeta na však način preteči. A ravno preteči se Tinče ni dal. Kadar je bil Blaže že blizu in menil smukniti mimo njega, vselej se je ozrl Tinče nazaj, počil z bičem in udaril konja. In takoj je bila razdalja med njima najmanj deset metrov dolga.</p>
+            <p>»Tinče, Tinče!« je vpil Blaže z drugega voza in sapa mu je zastajala vsled hitre vožnje. »Počasi vozi! Sicer se nama vse razbije ... Tinče!«</p>
+            <p>Toda Tinče je drevil huje in huje in vozova sta odskakovala. Pokrajina je kar plesala pred njima.</p>
+            <p>Pridrevila sta do vrh klancev.</p>
+            <p>»Zdaj —? Kaj bo zdaj?« je mislil Blaže.</p>
+            <p>Pot je držala navzdol in ako bosta drevila še dalje s tako naglico —</p>
+            <p>Blažeta je izpreletela groza. Že je mislil skočiti raz voz, že je bil iztegnil nogo — kar se obrne Tinče nazaj in zavpije:</p>
+            <p>»Zdaj bom zaigral na orglice — in okna se bodo odpirala ...«</p>
+            <p>To je pridržalo Blažeta. Nogo je potegnil nazaj in se sklonil med vrece, da ne bi videl na cesto pod seboj in na kolesa, kako so odskakovala in tria kamenje po tleh.</p>
+            <p>Na prvem vozu pa je zadonel poskočni »ceparle«. Tinče je igral tako milo, tako globoko, tako mogočno ... Blaže še ni čul kaj takega. To je bila godba! Ti glasovi so doneli in bobneli tja v jasni zrak, da so oglušili ropot vozov in hrskanje konj ...</p>
+            <p>Blažeta je mamilo. Sedel je vrh voza — a ni vedel, kje je; voz je odskakoval, a Blaže tega ni čutil. Videl in slišal je samo — Tinčeta! In niti ni opazil, da so se odpirala okna pri hišah zaporedoma drugo za drugim in da <pb facs="#WIKI00464-055" n="55" xml:id="pb.055"/>so na vseh oglih tiščale radovedne glave na piano. Še le ko se je začul šklefet šipe prav poleg njega, še le tedaj se je ozrl Blaže in videl, da je nespretna roka, odpiraje okno, ubila steklo in da so ostanki popadali na tlak pred hišo.</p>
+            <p>»Blagor tebi, Tinče! O, tebi ni hudega!«</p>
+            <p>Pa Tinče ga ni slišal. Pihal je v orglice, da so se mu napenjala lica in da se mu je čelo rdečilo, in ni se menil za vso slavo in za vse priznanje.</p>
+            <p>In »ceparle« je donel dalje. Blaže bi ga bil poslušal vso večnost ...</p>
+            <p>Toda nekaj je bilo, kar je obrnilo Blažetovo pozornost drugam.</p>
+            <p>Blaže je z grozo zapažil, da odskakujejo ogljene vreče na vozu; in kolikor bolj odskakujejo, tolikanj večja globel se dela pod njim; on pa se pogreza v voz niže in niže; in vreče se kopičijo okrog njega ... Pogreznil se je bil že nizko. Vreče so ga bile pokrile do pasu; in od pasu dalje se je že mazala bela srajca ... Krog njega pa se je še vedno vse gibalo in odskakovalo, grozeč ga pokriti črez in črez ...</p>
+            <p>Blaže si je hotel opomoči. Napel je moči ter se hotel izvleči iz votline. A ni šlo. Vreče so ga pritiskale s silo. Vse je tiščalo proti središču, se skladalo više in više. In ga zakrivalo bolj in bolj ...</p>
+            <p>»Kaj, če me pokrije popolnoma?«</p>
+            <p>Obraz se mu je zategnil groze in strahú. Že se mu je omazala srajca do ramen; že mu je šel v nos ogljeni prah ter ga dušil in silil h kašlju, a Blaže se ni mogel ganiti; noge so mu tičale globoko nekje notri med vrečami ...</p>
+            <p>»O Bog, zadušilo me bo!«</p>
+            <p>Blaže je obupaval. Menil je, da se bori s smrtjo ...</p>
+            <p>Voza pa sta drevila ih Tinče je godel in vreče so odskakovale po taktu ...</p>
+            <p>Blaže je zavpil na pomoč.</p>
+            <p>Tinče ga ni slišal.</p>
+            <p>Blaže je hlastal po sapi. Bili so že zadnji trenutki. Zdaj in zdaj je imelo biti konec vsega — —</p>
+            <p>Toda — upanje!</p>
+            <p>Blaže je pogledal še enkrat krog sebe; oči so mu še služile ...</p>
+            <p>In kaj je videl? Ali je videl prav? Glej, mestno zidovje se je kazalo iz daljave ... Zvoniki so štrleli navpik in nad kolodvorom se je kadilo — —</p>
+            <pb facs="#WIKI00464-056" n="56" xml:id="pb.056"/>
+            <p>O Bog, o da bi ga še ne pokrile vreče! Da bi vztrajal še dotlej!</p>
+            <p>O Bog, o Bog — že so ga tiščale v lica; oglje ga je bodlo v brado in prah ga je dušil — —</p>
+            <p>Kar utihne »ceparle« in vozova obstaneta. Bila sta na kolodvoru ...</p>
+            <p>»Pomagajte!« je še zavpil Blaže ter se onesvestil.</p>
+            <p>Tinče in kolodvorski delavci so ga slišali. Šest rok se je stegnilo in ga s trudom in naporom izvleklo izmed vreč ...</p>
+            <p>Blaže je izpregledal. Zadihal je prosteje in moč se mu je vračala v ude. A po koncu se ni mogel držati. Noge ga niso nosile in glava mu je lezla na prsi.</p>
+            <p>»Ali boš mogel razkladati pa ga je vprašal Tinče s sočutjem in neznansko mu je bilo žal radi Blažeta.</p>
+            <p>In skoro jokal je.</p>
+            <p>Blaže pa je sedel na kup hlodov, ki so bili zloženi na kolodvoru, in vzdihnil:</p>
+            <p>»Bolan sem!«</p>
+            <p>A kolodvorski delavci so se mu grohotali v obraz.</p>
+            <p>»Bolan. Ha-ha-ha! Od česa neki?«</p>
+            <p>»Kaj ne bo bolan,« ga je zagovarjal Tinče; »saj je lahko bolan, ker klobuka in kamižole ni imel!«</p>
+            <p>»Klobuka in kamižole, ha-ha-ha!« se je norčeval zopet nekdo!</p>
+            <p>»In pa vajen ni takega dela!« ga je zopet opravičeval Tinče; »ko se privadi nove službe, mu tudi oglje ne bo škodovalo ...«</p>
+            <p>»Ha-ha-ha!« je ugovarjal prvi. »Kako sem pa jaz vajen? Jaz, ki dan na dan požiram oglje za kosilo in za večerjo — a?«</p>
+            <p>»Pa ti si od mladosti pri tem!« je rekel Tinče.</p>
+            <p>Nato se je oglasil drug delavec in se potegnil za Blažeta. Rekel je:</p>
+            <p>»Res, kdor je vajen, za tistega je tako delo. In kdor je ustvarjen za to, ta se tudi privadi takega. A za vsakega ni ... In za kogar ni, ta se ne privadi vse življenje.«</p>
+            <p>Kako pametno in kako lepo so donele te besede!</p>
+            <p>Blaže je postal pozoren.</p>
+            <p>Kdo je govoril te besede, ki so donele kakor godba na uho? Kdo?</p>
+            <p>Dvignil je glavo, a ni mogel ločiti nikogar med delavci. - Vsi so bili enaki, vsi enako napravljeni ...</p>
+            <pb facs="#WIKI00464-057" n="57" xml:id="pb.057"/>
+            <p>Vendar ta glas, s katerim je govoril oni, ta glas se je zdel Blažetu tako znan, tako domač ...</p>
+            <p>»Ali ne govori Muha z Bačen tako?«</p>
+            <p>Blaže je verjel, da je čul samega Muho, in pritrjeval mu je:</p>
+            <p>»Jaz nisem za to, jaz nisem za to!«</p>
+            <p>Tinče je med tem že odgovarjal in ugovarjal, češ:</p>
+            <p>»To zadnje pa zopet ni res! Privadi se človek vsega, vsega!«</p>
+            <p>Toda oni je trdil še vedno svojo. In ko je Tinče videl, da je zaman však ugovor, je umolknil tudi on.</p>
+            <p>Razložili so bili in Tinče in Blaže sta se obrnila proti domu.</p>
+            <p>»Nič ne verjami onemu!« se je obrnil Tinče s prvega voza in mislil pri tem na delavca z Muhovim glasom; »oni ne vé nič. Ti moraš meni verjeti. Jaz vem, da se boš privadil in da boš lahko obstal pri Pučniku.«</p>
+            <p>Tinčetov glas je donel zapovedujoče in Blaže se mu ni mogel ustavljati. Sam je naposled verjel Tinčetu in mu pritrdil, češ:</p>
+            <p>»Res, jaz tudi vem, da se bom privadil in da bom lahko ostal pri Pučniku.«</p>
+            <p>Vozila sta počasi, zložno; Tinčetov voz je bil za deset metrov pred Blažetovim.</p>
+            <p>Cesta se je vlekla. Ob cesti je tekla voda; na obeh straneh pa so se kopičile gore, kakor da stražijo dolino. Burja je vlekla in hrastovje ob cesti je šumelo.</p>
+            <p>Blaže se je prepustil veselim mislim. Nadejal se je da bo lahko in brez težave obstal pri Pučniku, ako bosta s Tinčetom vozila vedno takó-le zložno in počasi. In zadovoljnost se mu je brala na obrazu.</p>
+            <p>Pa ga doteče France — brat France ...</p>
+            <p>Dà, brat France ga je dotekel in mu kar na enkrat podrl vse vesele misli in mu jih obrnil drugam.</p>
+            <p>Brat France se je namreč vracal iz Amerike. Lepo je bil oblečen; zelen telovnik je imel in srebrna veriga mu je visela od žepa. Blaže ga je komaj spoznal.</p>
+            <p>»Oj, ali si ti, France? Ali prideš iz Amerike?«</p>
+            <p>France se je čudil, kdo ga kliče tako domače, in debelo je gledal Blažeta; ni ga bil spoznal. Zato mu je Blaže sam priskočil na pomoč.</p>
+            <p>»Jaz sem!« mu je rekel; »ali me ne poznaš? Tvoj brat Blaže sem!«</p>
+            <pb facs="#WIKI00464-058" n="58" xml:id="pb.058"/>
+            <p>»Ti —? Moj brat —?«</p>
+            <p>»Res! Jaz sem Rotijin Blaže!«</p>
+            <p>Še le potem ga je France spoznal. A sramoval se ga je — sramoval se ga je radi črne srajce in pa radi zakajenega obraza.</p>
+            <p>»Kje si zdaj —? Kaj delaš —?«</p>
+            <p>»Pri Pučniku sem in oglje vozim — —«</p>
+            <p>»Kako to, da si pri Pučniku? — Zakaj pri Posečniku nisi več?«</p>
+            <p>»Gori ni záme, ker je v gorah. Gori po ves teden ne prídem med ljudi. A tukaj — ne veš, kako je pri Pučniku prijetno! S Petelinovim Tinčetom voziva v mesto in s kolodvorskimi delavci govoriva ... Koliko človek vidi in sliši takó-le po svetu!«</p>
+            <p>»Vidi in sliši, ha-ha-ha!« se je zagrohotal France na vse grlo in pozabil celó, da ima pred seboj Blažeta, ki bi se ga imel sramovati - »vidi in sliši ... Takó-le po svetu ... Teh par ur od doma ...«</p>
+            <p>»Saj je daleč v mesto,« si je upal ugovarjati Blaže.</p>
+            <p>»Ha-ha-ha! Se ti vidi, da ne veš, kaj je daleč ... Ali veš, kje je Amerika? Ko bi vedel, kje je Amerika, bi ne govoril tako ... Ha, v Ameriki se kaj vidi in sliši — to ti rečem!«</p>
+            <p>»V Ameriki —. V Ameriki —.«</p>
+            <p>Tako je ponavljal Blaže sam pri sebi in mislil Franceta še nekaj vprašati.</p>
+            <p>Toda France je bil že deset korakov naprej in jo hitro mahal proti domu. Menda se je bil spomnil, da se mora sramovati Blažeta.</p>
+            <p>»Čakaj! Ne boš me zaničeval!« je zamrmral Blaže in dvignil pest za Francetom; »ne boš me! Tudi jaz nekaj premorem, to ti hočem pokazati ... Jaz bom šel v Ameriko!«</p>
+            <p>V Ameriko! To je bil sklep, ki ga je naredil Blaže hitro in ga imel izvršiti v kratkem in práv gotovo ...</p>
+            <p>V Ameriko —.</p>
+            <p>In v hipu mu je bilo jasno, da se pri Pučniku ne bo privadil tudi pri počasni vožnji ne.</p>
+            <p>V Ameriko —.</p>
+            <p>In kar naravnost bi bil najrajši povedal Tinčetu, da pri Pučniku ne bo več dolgo in da bo šel po svetu daleč, daleč ... tja, kjer se kaj vidi in sliši.</p>
+            <p>To bi bil povedal Tinčetu — in kar naravnost; toda vozova sta obstala in Blaže in Tinče sta bila domá.</p>
+            <pb facs="#WIKI00464-059" n="59" xml:id="pb.059"/>
+            <p>»No, ali sta prišla, ali sta prišla?« ju je sprejemal Pučnik s smehljajočim obrazom stoječ na pragu; zopet je v kratkih presledkih dvigal levo brko; »ali sta prišla? Da sta le! Dolgo sta vozila — no, pa naj bo za prvič ... A sedajle bo še čas, Blaže, da boš peljal v mlin ... K Andreju boš peljal.«</p>
+            <p>»Kaj —? K Andreju?« se je zavzel Blaže in jeza mu je vstajala in upor se mu je budil.</p>
+            <p>»K Andreju. Je že naloženo; kar preprezi, ker se mudi. Večer bo.«</p>
+            <p>»K Andreju —? V tejle črni srajci?«</p>
+            <p>»Zakaj ne? Saj Andrej se ti ne bo posmehoval. Obljubil je, da se ti ne bo ...«</p>
+            <p>Blaže je omahoval ...</p>
+            <p>»Ali se mi res ne bo posmehoval?«</p>
+            <p>»Res se ti ne bo!«</p>
+            <p>In Blažeta je premagalo. Zapregel je in odpeljal.</p>
+            <p>Dolgo, dolgo se je vlekla pot proti Andreju. Konj je bil izmučen, voz nenamazan. Pot je bila razorana od zadnjega deževja in ogibati se je bilo treba voznikom.</p>
+            <p>Blažeta je vso pot skrbelo, kaj bo rekel Andrej. Že ga je videl v duhu pred seboj, kako nabira usta v posmeh in kako prešteva črna rebra po vreči ... Jasno je bilo, da se bo Andrej norčeval navzlic temu, da je obetal Pučnik, da se ne bo.</p>
+            <p>Blažetu je šla kri v lica ...</p>
+            <p>»Kaj bi storil —?«</p>
+            <p>Že mu je prišla misel, da bi obrnil, a bal se je Pučnika.</p>
+            <p>Šlo je naprej. Bil je na pol poti. Pri srcu mu je bilo tesneje in tesneje ...</p>
+            <p>Ljudje so ga srečevali in se mu posmehovali. Celo Bolantaček ga je srečal in se ga sramoval ...</p>
+            <p>Blaže bi bil najrajši izginil s površja, udri se v zemljo ...</p>
+            <p>A konj je vlekel dalje, dalje ...</p>
+            <p>Že se je videl mlin ... stope so ropotale ...</p>
+            <p>Blaže je ločil, kako se je vrtelo veliko kolo ter brizgalo vodo daleč pred se. Tudi je videl, da nekdo stoji na pragu in ga pričakuje.</p>
+            <p>»Kdo je oni? Kdo ga pričakuje?«</p>
+            <p>Napenjal je oči, da bi ga spoznal. A ni videl prav natanko. Toliko je ločil, da Andrej ni ... Ne; to je bila ženska ...</p>
+            <p>»Ali je Micona?«</p>
+            <pb facs="#WIKI00464-060" n="60" xml:id="pb.060"/>
+            <p>Tudi Micona ni bila. In vendar se mu je zdela tako znana, tako domača.</p>
+            <p>Blaže se je približal za dvajset korakov. Postava na pragu se je zganila ... hitela mu je naproti.</p>
+            <p>»Ali je —?«</p>
+            <p>Dà, to je bila Rotija, mati Blažetova, ki mu je pritekla naproti, sklenila roke nad glavo ter vzkliknila presenečenja:</p>
+            <p>»Ah, Blaže, kakó — kakó si zdelan!«</p>
+         </div>
+         <div xml:id="wv-XX.">
+            <head xml:id="head.20">XX.</head>
+            <p>Blaže je odprl oči. Čudil se je in gledal krog sebe. Ležal je na svoji postelji pri Andreju in voda je šumela in stope so ropotale pod njim ... Spoznal je, da se je vzbudil z dolgih in kakor môra težkih sanj.</p>
+            <p>Ob zglavju je stala Rotija, ki je bila prišla prav tedaj. Tarnaje je vila roke in zrla v prepadlo obličje Blažetovo.</p>
+            <p>»Ah, Blaže, kakó — kakó si zdelan! Blaže, ali je bolje?«</p>
+            <p>»Bolje,« je odgovoril Blaže in glas mu je bil slaboten.</p>
+            <p>Skušal se je obrniti na postelji; a moči ni bilo prave. Oči so mu lezie skupaj; odeja ga je težila in pot ga je polival.</p>
+            <p>Hotel si je pomagati; a Micona, ki je bila tudi v sobi, je pristopila in ga zadelala znova.</p>
+            <p>»Vroče je!« je izpregovoril Blaže in zopet odprl oči.</p>
+            <p>»Blaže, le potrpi; bo kmalu bolje,« ga je tolažila Micona.</p>
+            <p>In Rotija je plakala znova:</p>
+            <p>»Ali je bolje, Blaže? Je li, da je bolje!«</p>
+            <p>Micona je odšla. Rotija pa je sedla na stol poleg zglavja in z očesom ni trenila od Blažeta.</p>
+            <p>Blaže je dihal počasi, a globoko. Čelo mu je bilo rosno, in kadar se mu je orosilo popolnoma, tedaj je segla Rotija po robec in mu obrisala kapljice.</p>
+            <p>»Blaže, ali boš zaspal? Le zaspi, Blaže!«</p>
+            <p>Blaže ni zaspal več. Mežal je; a bdel je in zdelo se mu je, kakor bi ga bil kdo nenadoma potegnil v življenje, katero je bil pozabil in izgubil v omotici ...</p>
+            <p>»Mati!«</p>
+            <p>»Kaj je, Blaže? Ali si žejen?«</p>
+            <p>»Ne.«</p>
+            <p>»Kaj bi pa rad? Ali ti je slabo?«</p>
+            <p>»Ne. — Mati, ali sem dolgo spal?«-</p>
+            <p>»Ne, nisi spal dolgo ... Blaže le zaspi zopet!«</p>
+            <pb facs="#WIKI00464-061" n="61" xml:id="pb.061"/>
+            <p>»Mati, hude sanje sem imel.«</p>
+            <p>»Revež! Da je moralo priti tako daleč ... Blaže, tukaj ne boš več! Domov boš šel, kakor hitro ozdraviš ... In potem boš domá!«</p>
+            <p>Blaže je molčal. Razumel je sicer, kar je rekla mati, a da li bo res tako, kakor je rekla, o tem ni mogel preudarjati; preslab je bil.</p>
+            <p>Proti večeru je prišel zdravnik. Po dvakrat na teden se je vozil skoz dolino. In ko se je ta dan pripeljal mimo, ga je poklical Andrej in ga pripeljal k Blažetu.</p>
+            <p>»Kakó je —?« je vprašal zdravnik in potipal žilo.</p>
+            <p>»Bolan sem,« je odgovoril Blaže.</p>
+            <p>»To vidim, da si — he! No, nevarno ne bo! Prehlajenje ni bilo popolno ... hm, hm! A razburjenost, ta je zakrivila mnogo ... Mirú treba, mirú!</p>
+            <p>»Hvala Bogu!« je vzdihnila Rotija in težek kamen se ji je odvalil od srca; »mirú ti je treba, Blaže! Le miren bodi in molči! Nič se ne vznemirjaj!«</p>
+            <p>Zdravnik je odšel.</p>
+            <p>Rotija pa je še nadalje sedela ob zglavju in molčala. Molčala je samo radi Blažeta, ki mu je bilo treba mirú in ki se ni smel vznemirjati ...</p>
+            <p>Prva noč je bila dolga. Blaže ni spal. Ležal je znak in opazoval sence, ki so se delale na stropu in migljale, kakor je migljal plamen svetilke, ki je brlela na mizi. Mati je dremala ob zglavju. Od spodaj gori pa se je čul stokajoči glas Špelin, ki tudi ni mogla spati po noči.</p>
+            <p>»Voda, oh voda ... Včasi je zelena — huš! — v taki tonejo ljudje ...«</p>
+            <p>Blaže je poslušal in se zamislil v ta tožni in zategli glas ... In bilo mu je kakor takrat, ko se je pogrezal v Pučnikove vreče globokeje in globokeje ...</p>
+            <p>»Včasi je rjavkasta, penasta, ki mehurčke žene ...«</p>
+            <p>In potem mu je bilo, kakor bi ga kolodvorski delavci vlekli izmed vreč in kakor bi zopet dihal prosteje ...</p>
+            <p>»Oh, da bi ozdravel — da bi le ozdravel!« je vzdihnil in neznanska želja se ga je polastila, da bi vstal, da bi bil zdrav, da bi —.</p>
+            <p>»Kaj bi potem ?« se je vpraševal.</p>
+            <p>In tu je že nastopala slutnja, skrb — in dogodki zadnjih dnij so mu silili v spomin ...</p>
+            <p>Toda vznemirjati se ni smel!</p>
+            <pb facs="#WIKI00464-062" n="62" xml:id="pb.062"/>
+            <p>In Blaže je znova poslušal Špelo ter se zatapljal v njen glas.</p>
+            <p>Drugi dan je bilo bolje. Ležal je laže in sopel je mirneje. Tudi zaspal je črez dan.</p>
+            <p>Micona mu je kuhala in mu postregla kakor mu je mogla. Tudi Andrej se je brigal in pobrlgal, kolikor je bilo mogoče. Rotija, ki se dotlej ni ganila od postelje, se je poslovila zvečer in šla domov z obljubo, da pride zopet, in s prošnjo, da naj naznanijo prav gotovo, ko bi se imelo obrniti na slabše.</p>
+            <p>Minil je prvi dan, drugi dan — pa se ni obrnilo na slabše. Zdravila, ki jíh je bil zapísal zdravnik, so imela svojo moč. Blažetu se je obračalo na bolje. Ni bilo več dvoma, da je nevarnost pri kraju. Vsi so se veselili. Le Blaže se ni veselil tako, kakor bi bilo pričakovati.</p>
+            <p>Oni nesrečni dogodek v Lovrinovi gostilni je bil nekako središče, okrog katerega so se sukale zdaj vse misli Blažetove. Srce se mu je trgalo ob spominu na ta večer, a Blaže ga je prešel v mislih še enkrat od konca do kraja.</p>
+            <p>Grozen in usodepoln je bil ta večer ...</p>
+            <p>Blaže je pretehtal tudi posledice, ki bodo sledile, ki morajo vsekako slediti dogodkom onega večera ...</p>
+            <p>In tudi té niso bile prijetne!</p>
+            <p>Ali bo poslej mogel pogledati mirno v oko kateremukoli izmed tovarišev, ki so bili oni večer pri Lovrinu? Ne! Ali se ne bo — oziroma ali se ni raznesel oni dogodek sploh med ljudi? In ali ga ne bo zasmehoval vsakdo in ga preziral? Po tej sramoti, ki si jo je nakopal oni usodni večer — ali mu je Se sploh mogoče bivati tu v dolini, tu med ljudmi? ...</p>
+            <p>In že se mu je rodila mísel, ali bolje, ni se mu rodila, zakaj Blaže se je je bil oprijel že takoj prvi trenutek, ko se je bil vzbudil iz onih strašnih sanj; zdaj mu je le vstajala znova in jasneje — misel, da pusti vse skupaj: dolino in ljudi, ter se omeji zopet in izključno le sam náse.</p>
+            <p>In kakor glas iz nekih višjih svetov so mu donele v spomin besede onega delavca z Muhovim glasom:</p>
+            <p>»Kdor je vajen, za tistega je ... In kdor je ustvarjen za to, ta se tudi privadi ... A za vsakega ni ... In za kogar ni, ta se ne bo privadil vse življenje ...«</p>
+            <p>In te besede so Blažeta vlekle in vabile bolj in bolj.</p>
+            <p>Nove misli se je oprijemal ... Saj je čutil v sebi, da je v bolezni postal nekako drug, nekako nov človek ...</p>
+            <pb facs="#WIKI00464-063" n="63" xml:id="pb.063"/>
+            <p>One strahovite sanje so pustile v njegovi duši vidnih sledov. Tista neukročena želja, ki se mu je javila dotlej brez prestanka — želja po ljudeh, po družbi, po izvenrednih dogodkih: ta želja je minila kar hipoma in na njeno mesto je stopila neka hladnost, neka premišljenost ... Blaže je postal mož — mož, ki preudarja resno in presoja mimo in trezno ...</p>
+            <p>In ko je stopila predenj prihodnjost z vprašanjem: »Kaj sedaj?« — tedaj je bilo pač treba presoditi stvar mirno in trezno.</p>
+            <p>»Kaj sedaj —?«</p>
+            <p>Dolinsko življenje, t. j. življenje v vihrah in vrtincih v hrumu in šumu, se mu je pristudilo do grla.</p>
+            <p>Torej: Kaj sedaj?</p>
+            <p>Proč odtod, proč iz teh razmer — kamorkoli že!</p>
+            <p>»Kam —?«</p>
+            <p>Ali nazaj k Posečniku?</p>
+            <p>K Posečniku ne! Posečnik mu je zameril — in kadar Posečnik zameri, tedaj ne odpusti zlepa. Posečnik bi ga ne maral.</p>
+            <p>»A kam sicer —?«</p>
+            <p>Ali v Žire?</p>
+            <p>Blaže je bil prepričan, da Žire niso zanj in Vilfanova prodajalna tudi ne. — V Žire ne!</p>
+            <p>Ali k Pučniku?</p>
+            <p>Ob spominih na Pučnika in na Tinčeta ga je streslo in vselej, kadar se je spomnil onih groznih trenutkov v sanjah, ga je izpreletelo po vsem životu. Ne, k Pučniku ne, ko bi ga prosila Tinče in Pučnik na kolenih!</p>
+            <p>Kaj pa v Ameriko?</p>
+            <p>V Ameriko —. V Ameriki ima očeta; tega bi poiskal in dobro bi mu bilo ... In ljudem in pa opravljivim jezikom bi se umaknil. Toda trezno je bilo treba to premisliti! Kako dobiti očeta v Ameriki in — kar je glavno — kje je denar za v Ameriko? In kje bi si upal Blaže sam v Ameriko? — Nič, nič! Tudi na Ameriko ni da bi mislil!</p>
+            <p>»Kam pa? Kam pa?«</p>
+            <p>In tu se je Blaže spomnil, kaj mu je rekla mati v bolezni. »Tukaj ne boš več! Domov pojdeš, kakor hitro ozdraviš. In potem boš domá!« Tedaj je bil Blaže preslab, da bi bil mogel misliti o teh besedah. A sedaj mu je bil duh zopet krepak in lahko se je zaglobil.</p>
+            <pb facs="#WIKI00464-064" n="64" xml:id="pb.064"/>
+            <p>Kaj ko bi šel domov, ko ozdravi nekoliko? In kaj, ko bi ostal potem stalno domá? V grapi bi bival; drva bi cepil in kaj drugega malega bi storil ... In mir bi imel pred ljudmi, mir pred samim seboj ... In na peči bi ležal in gorko bi bilo ...</p>
+            <p>Le nekaj ga je zaskrbelo pri tem.</p>
+            <p>Kaj, ko bi mu domá zopet ne bilo povšeči in bi si želel zopet proč, proč —? In potem bi mu mati zopet in po pravici očitala, da je izbirčen ... Tega bi mu ne bilo prenesti!</p>
+            <p>No, pa ta skrb mu je prišla le mimogredé. Blaže se je potolažil takoj, češ:</p>
+            <p>»Kam si bom neki želel? Ali nisem ízkusil dobrega in hudega dovolj?«</p>
+            <p>A nekaj drugega mu je delalo skrbi in mu težilo srce.</p>
+            <p>Kako se ločiti od Andreja? Mlina se je bil privadil v teh dneh in Andreja tudi in Micone tudi. Kaj bosta rekla Andrej in Micona pri slovesu? Ali ga ne bo Micona vprašala: »Ali ti ni bilo lepo pri nas? Zakaj nas zapuščaš?« Ali mu ne bo Andrej očital na tihem, da ne dela lepo, ko jima vso prijaznost in vso postrežbo plačuje takó-le? In na vse to Blaže niti pravega vzroka ne bo mogel povedati. In ko bi ga tudi povedal, saj bi ga ne razumel niti Andrej, niti Micona ...</p>
+            <p>To je bilo hudo in to je težilo Blažetu srce bolj ko vse drugo.</p>
+            <p>In tako je bil pri misli na bližajoče se zdravje vesel, pa zopet ne vesel; in misli so se mu menjavale, vesele in tožne, prav kakor tam zunaj jesenski dnevi, lepi in deževni.</p>
+         </div>
+         <div xml:id="wv-XXI.">
+            <head xml:id="head.21">XXI.</head>
+            <p>Rotijin Blaže je ozdravel.</p>
+            <p>Slab je bil sicer še, a toliko vendar, da je mogel biti po koncu in pomagati po mlinu. Zopet je sipal v stope, presejal moko in tudi zatvornico je mogel odpreti. Težavnejša dela seveda je moral opravljati Andrej.</p>
+            <p>Zunaj je bil lep dan. Mrazovi, ki so bili zadnje čase nastopili, so se prevlekli in solnce je sijalo in pogrevalo zemijo. Brezlisto drevje ni več delalo sence, le veje so tvorile posamezne, krepko očrtane obrise, kadar je solnce posijalo. Tla, ki so že skoro zmrzovala, so se otajala in delo na polju je šlo lahko izpod rok.</p>
+            <pb facs="#WIKI00464-065" n="65" xml:id="pb.065"/>
+            <p>Blaže in Andrej sta delala v mlinu. Menila sta se poleg drugega tudi o vremenu. Blaže je sodil, da so ga ravno lepi dnevi vzdignili in mu pomagali na noge. Andrej pa je pristavil, da bodo zopet lepi dnevi storili svoje ter okrepili in ozdravili Blažeta popolnoma. In Andrej se je tega veselil.</p>
+            <p>Saj je pa imel tudi vzrok za to!</p>
+            <p>Koliko načrtov je bil sestavil za časa Blažetove bolezni, ki sta jih imela sedaj izvršiti z Blažetom skupno! Po mlinu je bilo treba popraviti to in ono. Onstran vode, kjer je uhajal potok v sosednjo grapo, je bilo treba sezidati škarpo, in to vse še do zime. Potem se je bilo izrabilo par stop v tolkalu; okovati jih bo treba! Nekaj lopat v velikem kolesu je bilo strohnelo; pajkelj v mlinu je puščal; stopnice, ki vodijo v mlin, so kamenite in nerodne: vse to je čakalo popravila. Skratka, Andreja in Blažeta je čakalo dela dovolj ...</p>
+            <p>Žal, da se Blaže ni mogel veseliti z Andrejem vred! Danes ta dan je bilo treba govoriti odločilno besedo.</p>
+            <p>Večkrat je že menil začeti in povedati Andreju, da bo šel proč, in to že jutri, a vselej mu je zastala beseda v grlu in obmolknil je. Tesno mu je bilo pri srcu. Vedel je, kaj dela, ali kaj bi vsaj moral delati; vendar ko je pogledal skoz vráta in videl, kako je voda bleščala v solncu In kako so se žarki lomili v penah, ki so pršale od kolesa: tedaj ga je tesnilo še posebijo in ni se mogel sprijazniti z mlslijo, da bi bil ta dan njegov zadnji pri Andreju.</p>
+            <p>»Bom pa zvečer povedal — pri večerji!«</p>
+            <p>Tako je sklenil naposled in odložil do večera. Zvečer je bila vselej tudi Micona poleg in treba ne bo tega praviti vsakemu posebej ...</p>
+            <p>Minilo je popoldne.</p>
+            <p>Zvečer pa ni kazalo odlašati več. Blaže je začel kar naravnost:</p>
+            <p>»Proč pojdem —.«</p>
+            <p>Andrej ga je pogledal; tudi Micona se je začudila.</p>
+            <p>»Kam —? Ali res?«</p>
+            <p>»Domov moram iti.«</p>
+            <p>»A — domov? Tisto že ... Kdaj boš pa nazaj prišel?«</p>
+            <p>Andrej in Micona ga nista umela. Blaže je moral razlagati natančneje:</p>
+            <p>»Ne vem, kdaj bom prišel ... Saj mislim ostati domá za vselej. Sem dejal, da ne bom več služil nikjer, zato ker ni záme, da bi služil ...«</p>
+            <pb facs="#WIKI00464-066" n="66" xml:id="pb.066"/>
+            <p>»Zakaj? Ali —? Blaže, ali morebiti nisi zdrav?«</p>
+            <p>»Tisto ne, zdrav sem. Vendar — zdi se mi najbolje, da sem domá ... Mati je že stara —.«</p>
+            <p>»A — tako?« je rekel Andrej.</p>
+            <p>»Pa vendar —« je začel zopet Andrej po kratkem molku; »za kak dan boš lahko prišel nazaj ... Takó-le, kadar bi bilo v mlinu dela veliko ... Ali bi mogel?«</p>
+            <p>»Lahko, o tisto pa lahko!« In Blaže je bil vesel, da je mogel obljubiti vsaj toliko.</p>
+            <p>No in potem je bilo tudi Andreju prav.</p>
+            <p>»Vidiš,« je rekel, »jaz sem sodil, da misliš v Žire ... Po pravici povem, žal bi mi bilo po tebi, ko bi šel v Žire. — Ali veš, da je šel France v Ameriko?«</p>
+            <p>»Ne vem. Ali je res šel?«</p>
+            <p>»Res, pred par dnevi ... No in potem sem mislil, da so te pregovorili k Vilfanu. — In zato bi mi bilo žal ...«</p>
+            <p>»O, tisto pa ne!« je dejal Blaže, vesel, da more potolažiti Andreja; »v Žire ne grem, ko bi me silil ne vem kdo!«</p>
+            <p>»Nič ne rečem,« je dejal zopet Andrej, »nič ne rečem; rad sem te imel, rajši kakor koga drugega. In težko mi bo ... No, pa črez zimo ne bom drugega iskal.«</p>
+            <p>In dobro je bilo.</p>
+            <p>Samo Micona še ni mogla umeti, zakaj bi moral Blaže hoditi proč. Skoro verjeti ni mogla, da bi Blaže govoril resno.</p>
+            <p>»Morebiti pa le ne misliš iti, Blaže?«</p>
+            <p>»Moram iti, res moram iti!«</p>
+            <p>»Pa bi ostal vsaj toliko, da se pozdraviš.«</p>
+            <p>»Saj sem zdrav! Saj mi nič ni.«</p>
+            <p>»Vendar ... kuhala bi ti, kakor sem ti v bolezni, in postregla bi ti; morebiti ti pa postrežba ni bila všeč!«</p>
+            <p>»Oh ne misli tega!« jo je zavrnil Blaže in zopet mu je bilo hudo; »ne misli in ne verjami tega! Kako bi mi postrežba ne bila všeč, ko boljša biti ni mogla! Vedno bom rad prišel, gotovo! A zdaj, zdaj moram iti ...«</p>
+            <p>Nadalje ga nista izpraševala niti Micona, niti Andrej. Verjela sta mu; a hudo je bilo obema. In tudi Blažetu ni bilo lahko pri srcu, Kako rad bi ju bil prepričal, kako rad bi jima bil povedal vse, vse ... a ni mogel — in Bog ve ali bi ju bil tudi prepričal s tem, ali ne?</p>
+            <p>Spodaj pa je šumela voda mimo mlina. Drsela in polzela je prek skal in z glasnim bobnenjem padala v tolimun pod jezom.</p>
+            <pb facs="#WIKI00464-067" n="67" xml:id="pb.067"/>
+            <p>In ko je nora Špela zapažila, da zastaja pogovor za mizo, jo je kar na enkrat navdušilo vodno šumenje in začela je s svojim piskajočim glasom:</p>
+            <p>»Voda, oh voda ... Včasi je penasta, ki mehurčke žene in se s sipo kali ... To je voda ...«</p>
+            <p>Nato je počakala nekoliko, kakor bi hotela vprašati: »Ali boste govorili?« — in ko je bilo za mizo le tiho, je začela znova:</p>
+            <p>»Voda, oh voda ...«</p>
+            <p>Blažetove misli pa so letele tja v grapo in po grapi dalje do Rotije ... Saj je mati morebiti prav tedaj mislila nanj, želeč, da naj bi nikar ne odlašal več in prišel, prišel ...«</p>
+         </div>
+         <div xml:id="wv-XXII.">
+            <head xml:id="head.22">XXII.</head>
+            <p>»No, ali si prišel, Blaže?« ga je pozdravila Rotija po stari navadi, ko je prišel drugi dan proti poldnevu; »prav, da si prišel! Ali si zdrav, Blaže? Popolnoma še nisi, je-li? Kaj boš jedel?«</p>
+            <p>Blaže ni mogel ob enem odgovarjati na vsa vprašanja. In Rotija tega tudi ni zahtevala. Peljala ga je v hišo in postavila kosilo predenj.</p>
+            <p>Potem še le sta se oddahnila oba in se pogovorila o tem in onem.</p>
+            <p>»Prav, da si prišel!« je dejala Rotija zopet, »prav! In po pravici ti povem, rajši vidim, da si domá, kot bi si drugje kvaril zdravje in zapravljal denar ...«</p>
+            <p>Poslednje je donelo malo očitajoče; zato je Rotija popravila takoj in pristavila prijazno:</p>
+            <p>»Le jej, Blaže, le jej!«</p>
+            <p>In Blaže je jedel.</p>
+            <p>»Kaj pa —?« je vprašal Blaže črez malo časa; »kaj pa, ali je France res šel v Ameriko?«</p>
+            <p>In tedaj je bilo prvič, da je Blaže sam napeljal pogovor na ta predmet.</p>
+            <p>»Res je šel,« je odgovorila Rotija na kratko in na čelu, ki se ji je stemnilo, je bilo videti, da ji ni čisto prav, da je šel.</p>
+            <p>»Ali ste kaj vedeli naprej, da bo šel?«</p>
+            <p>»Kaj bom vedela,« je povzela Rotija; »malo ali pa nič nisem vedela ... Pred par tedni so že govoričili ljudje o tem; pa kdo bi se zanesel na ljudi! Oni dan pa je prišel Francè sam in povedal, da gre ... Pogovarjala sem ga, naj se premisli. A zavračal me je tako jezno, tako surovo, <pb facs="#WIKI00464-068" n="68" xml:id="pb.068"/>češ, da ne razumem tega ... O Bog — in za táko-le deklino gre! Za táko-le, ki ne bo imela niti krajcarja in ki jih je izpeljala že toliko ... Popolnoma se bo izgubil po svetu, to vem! Še naredil si bo kaj, ker nagel je in njegova mora obveljati vselej!«</p>
+            <p>Rotija je sklenila roke in pogledala kvišku. Na obrazu se ji je brala žalost in v očeh so ji igrale solze.</p>
+            <p>Tudi Blažetu je bilo hudo — radi matere ... Zinil bi bil kaj, a ni vedel, kaj bi. O „deklini“ ni hotel izpraševati natančneje; o takih rečeh se Blaže ni rad menil z nikomer, najmanj pa z materjo. O čem drugem pa tudi ni vedel govoriti.</p>
+            <p>»Pravijo, da mu je Vilfanka dala denar,« je rekel naposled, ko sta bila pomolčala nekoliko.</p>
+            <p>»Nič mu ni dala!« ga je zavrnila Rotija; »saj je sam imel. Kako bi mu Vilfanka dajala denar, ko je sama nevoljna, da je šel! Včeraj sem bila tamkaj in tožila je črezenj, češ, da je bil čim starejši, tem ošabnejši ...«</p>
+            <p>»Kaj pa Vilfan?«</p>
+            <p>»Vilfan se jezi, da se bolj ne more. Preti, da mu ne bo dal niti krajcarja, ako se vrne z ono deklino. In pa nad Vilfanko vpije, češ, da mu je ona dajala potuho ... Kaj mu je dajala potuho! Nič mu je ni dajala! Morebiti je bila nekoliko predohra in premehka — drugega nič!«</p>
+            <p>Rotija je obmolknila in zrla v tla. Morebiti ji je očitala vest, da niti Vilfanka, niti ona nista brez krivde. Morebiti je morala priznati sama proti sebi, da po lastni krivdi ni opazila slabih kalij, ki so poganjale v Francetu že kot otroku in se razvile počasi v napuh in ošabnost ... Morebiti pa je mislila na Blažeta in na krivico, ki mu jo je delala, da ga je vedno in vedno tiščala v ozadje in ga cenila vse premalo ...</p>
+            <p>Blaže pa je mirno jedel in molčal. Kaj je mislil prav ta hip, se ne vé.</p>
+            <p>»Blaže, bolj sem te vesela ko Franceta!« je izpregovorila Rotija naposled; »po pravici ti povem, prav je, da nisi hotel ostati v Žireh ... Ni vselej tako, kakor se vidi na zunaj ... Nič več te ne bom silila nikamor. Če hočeš biti domá — bodi; si vsaj pošten ... Če pa ne, si izbiraj službo sam. Star si dovolj — in če rabiš pamet, lahko spoznaš, kaj je prav in kako je prav.«</p>
+            <p>Blaže je zopet molčal. Za žlico je gledal, ki mu je vedno enakomerno hodila od ust v skledo in nazaj. Bilo <pb facs="#WIKI00464-069" n="69" xml:id="pb.069"/>je kakor bi se niti ne brigal za Rotijine besede, a se je. Ko je videl materine solze, tedaj je prišlo tudi njemu trpko pri srcu in zopet se je meral premagovatl kakor vselej, da se ni spominjal Franceta z jezo in sovraštvom.</p>
+            <p>Ta hip mu je tudi — kakor vselej, kadar se je spominjal Franceta — prišla na mar razlika med njim in med Francetom. In čudno, ta hip Blaže ni bil žalosten, ko je primerjal sebe s Francetom ... Ne, ta hip je bil prvič v svojem življenju samega sebe vesel, sam s seboj zadovoljen.</p>
+            <p>Na tisto pa, kar mu je rekla mati: da naj si izbira službo sam, ako hoče — na tisto Blaže tedaj ni hotel misliti. Čemu bi bil mislil na tisto? Saj je bilo domá dobro in za prvi čas že celo ni kazalo izbirati; na zimo delavca nihče ne potrebuje. Na pomlad pa — o svetem Juriju, ko se seli družina — tedaj se bo že videlo. No, toliko je pa vedel Blaže že sedaj, da, če bo iskal službe je ne bo iskal niti po dolini, niti kje v mestu, najmanj pa v Ameriki. Toda sedaj ni bilo treba premišljati o tem.</p>
+         </div>
+         <div xml:id="wv-XXIII.">
+            <head xml:id="head.23">XXIII.</head>
+            <p>In vendar je bilo treba, da je Blaže mislil o tem prej, kakor je sodil, da bo.</p>
+            <p>Ni bil še celi teden domá, ko pripelje nekoč — takó-le popoldne je bilo; Blaže je drva cepil na tnali, Rotija pa je bila šla v delo — Posečnikov Štefuc doli po grapi in se ustavi pri Blažetu.</p>
+            <p>»Ali si domá, Blaže?«</p>
+            <p>»Domá sem —. Kaj pa ti, Štefuc, no?«</p>
+            <p>»O nič! V mlin peljem, pa je dejala Posečnica, naj se oglasim pri vas, ker je zvedela, da si bil nekaj bolan; ali si še?«</p>
+            <p>»Zdaj nisem. — Ali je Posečnica rekla, da se oglasi? Kaj je pa pri Posečniku kaj novega?«</p>
+            <p>»Novega ni nič. Saj nima biti kaj novega« — in Štefuc se je popraskal za ušesi — »jaz sem sedaj za volarja ...«</p>
+            <p>»Kdo pa pase?«</p>
+            <p>»Pase pa sedaj tisto Drolovo Reze — saj poznaš otroka?«</p>
+            <p>»Poznam —. Kaj pa sedaj kaj pridelujete?«</p>
+            <p>Vsake vrste ... Krompir smo že zdavna pokopali; repo smo spravili; zelje je pa še na njivi ... O, dela je dosti — ljudij je premalo ...«</p>
+            <p>»Ljudij —? Saj vas je dosti!«</p>
+            <pb facs="#WIKI00464-070" n="70" xml:id="pb.070"/>
+            <p>»Ni nas ne! Posečnica je naročila, ko bi ti hotel priti nazaj ... Radi bi te vzeli ... In ko bi ne maral biti za volarja, bi pa bil za malega hlapca. Tako mi je naročila!«</p>
+            <p>Blaže je obstal. Iznenadilo ga je.</p>
+            <p>»Ali je res tako naročila?«</p>
+            <p>»Res.«</p>
+            <p>To, kar je govoril Štefuc, to je bilo tako vabljivo, tako prijetno ... To je bila godba ... »K Posečniku —.« To bi bil vrhunec želja njegovih; to bi bilo tisto, po čemer mu je hrepenela vsa duša že toliko čaša, ne da bi bil vedel za to ... Dà, k Posečniku, k Posečniku.</p>
+            <p>Blaže je pustil sekiro in polena in gnal Štefuca v hišo in mu prinesel sadja in ga silil, naj jé.</p>
+            <p>In potem je hotel čuti zagotovilo še enkrat.</p>
+            <p>»Tako praviš, da ti je Posečnica naročila, je li?«</p>
+            <p>»Pošečnica.«</p>
+            <p>Kaj je Štefuc vedel, kakšnega pomena je za Blažeta novica, ki mu jo je prinesel! Niti sanjalo se mu ni o tem!</p>
+            <p>»Kaj je pa Posečnik rekel?«</p>
+            <p>»Tudi Posečniku bi bilo prav, ko bi prišel,« je odgovoril Štefuc in zadnje jabolko mu je izginjalo pod zobmi; »on je tudi naročil, da pridi. Dela boš imel, če tudi bo zima. In v nedeljo po maši boš lahko ostal domá pri materi ... Tudi med tednom te bo pustil domov za kak dan, če boš hotel. Tako mi je naročil.«</p>
+            <p>To je bilo zopet nekaj za Blažeta. Hej, potem bo imel nedeljo prosto, potem bo celó med tednom — — hm, celo v Brode mu ne bo zaprta pot in Andreju bo lahko izpolnil besedo, ki mu jo je dal ...</p>
+            <p>»Tedaj tudi Posečnik je naročil?«</p>
+            <p>»Tudi. Ali boš prišel?«</p>
+            <p>»Kdaj bi pa imel priti?«</p>
+            <p>»Kadar ozdravíš popolnoma. Če si pa zdrav, pa lahko takoj jutri.«</p>
+            <p>»Ali so rekli, da takoj jutri?«</p>
+            <p>»Rekli.«</p>
+            <p>»No, pa pridem; le povej, da pridem!«</p>
+            <p>Ko je odhajal Štefuc, je zri Blaže še dolgo za njim. Pri tem so se mu menjavala čuvstva tako različna, tako vesela ... Bilo mu je, kakor da je še le ta trenutek dosegel tisti rešilni drog, po katerem je segal že toliko čaša, a zaman ... In tega se je veselil. Pri srcu mu je bilo lahko, da bi bil poletel kakor ptič. Najrajši bi bil objel ves svet <pb facs="#WIKI00464-071" n="71" xml:id="pb.071"/>ob enem in povedal vsakemu posebej, da bo šel zopet k Posečniku — in to takoj jutri ...</p>
+            <p>Ko je izginil Štefuc za ovinkom, je hodil Blaže s hítrimi koraki po sobi gori in doli. Mirovati mu ni dalo. Predstavljal se je zopet sredi med Posečnikovo družine. Mislil je na to, kaj mu bo rekel Posečnik, kaj drugi. Posečnik bo sicer vesel, a skrival bo veselje in se držal resno. Posečnica bo malo ne jokala in mu stregla, kakor bo vedela in znala. Hlapec bo molčal, morebiti se bo celo grdo držal; a spoštoval ga bo. Tudi dekle bo molčalo, ker si ne bo upalo dražiti ga vpričo Posečnika in Posečnice. In Štefuc — ta bo ponosen na svojo volarsko službo, do katere je prišel tako zgodaj in na tako lep način ... Hej, to bo lepo!</p>
+            <p>— Blaže se je čudil, kako da mu je moglo kdaj presedati življenje vrh Žirovskega vrhá in kako da ga je mogla obvladati nezadovoljnost in mržnja do Posečnikovih ljudij. O, ta dan, ta trenutek je videl stvari v drugi in lepši luči kakor sicer!</p>
+            <p>Ko je prišla Rotija proti večeru domov, je imel Blaže vsaj koga, da mu je mogel povedati vse, kar mu je ogrevalo dušo in mu polnilo srce.</p>
+            <p>Materi je povedal ves dogodek in ves pogovor s Štefucem — in tudi o svojem namenu ni molčal.</p>
+            <p>In kaj bi bil mogel povedati Rotiji veselejšega kakor to! Saj mu je že sama mislila prigovarjati k Posečniku, pa se je bala, da bi ga ne razdražila. No in sedaj jo je prehitel Blaže sam.</p>
+            <p>»O le k Posečniku, Blaže! Nikamor drugam kakor k Posečniku!«</p>
+            <p>Razume se, da sta po večerji sedela še dolgo ter govorila in ukrepala o Blažetovi sreči.</p>
+            <p>In ko je naposled prišel Blaže v zidanico, kjer je imel ležišče, še dolgo, dolgo ni legel k počitku. Kdo bi mislil na spanec, če je to njegov zadnji večer domá in če vé, da se ima pričeti z drugim dnevom zanj staro, a vendar tako novo življenje!</p>
+            <p>Blažetu se ni dalo spati. Ogrnil se je, odprl okno in gledal venkaj v mesečno noč.</p>
+            <p>Zadnji krajec je svetil na nebu in lep večer je bil tam zunaj.</p>
+            <p>Iz okna se je videlo naravnost na Žirovski vrh. Gozde, ki so se vlekli proti vrhu, je osvetljeval mesec le za silo. Na vrhu pa, kjer so gozdi ponehali in se pričeli travniki <pb facs="#WIKI00464-072" n="72" xml:id="pb.072"/>in senožeti tam je izdala mesečna luč; tu se je ločila vsaka senca, vsako drevesce, ako je stalo na samem. Prav po vrhu najvišje senožeti se je vlekla podolgovata senčnata poteza: to je bilo sadno drevje okrog Posečnika. Izmed sence pa se je nekaj belilo, in to je bila Posečnikova hiša ... Blaže je slonel in gledal.</p>
+            <p>Pa ne le oko njegovo, tudi duh mu je rajal gori po Žirovskem vrhu, gori okrog Posečnika.</p>
+            <p>Kako je bilo lepo takó-le ob mesečnih večerih tam gori! Ob takih večerih je Blaže vselej slonel na lini gori na Posečnikovih svislih, in pozno v noč zrl venkaj v prirodo. Kako bi se z veseljem ne spominjal tistih večerov! A najlepše je bilo takrat, kadar je sijal zadnji krajec — kakor nocoj. Tedaj so vpadali lunini žarki bolj na redko in napošev. Ob takih prilikah niso osvetljevali predmetov povse jasno, ampak le bolj v nedoločnih, razmočenih obrisih. In vendar je odsevalo po drevesnih listih, ako je bil zrak miren, ali da vsaj ni pihala burja. Kadar pa je bilo vetrovno, tedaj so se peresa zibala in tedaj je bilo lepo! Seveda — vse kaj bolj posebnega je bilo, pogledati ob takih prilikah ob rebrih doli proti dolini. Ta se ni majala in zibala ob vetru — ta se je raztezala tako mirno in tako tiho v velikem loku sem od Žirov, pa daleč tja doli proti Brodem in še dalje. Sredi po dolini se je plazila reka. Zdaj pa zdaj je zalesketala v mesečini, in to v daljši ali v krajši progi, kakor je naneslo. Tudi cesto je bilo ločiti, ki se je vzporedno z reko vila proti mestu; in pogled je plul za njo daleč tja doli, dokler ni izginila dolina in dokler se nista reka in cesta izgubili v megli, ki se je počasi dvigala izmed vasij in gričev ... Dà, to je bil lep prizor ob takih večerih!</p>
+            <p>In nocoj je bil prav tak večer.</p>
+            <p>Kdo bi tak večer mislil na spanje! Kdo bi se ne mudil pri tako lepih spominih!</p>
+            <p>Blaže je slonel na oknu še dolgo — sam ni vedel kako dolgo ... Še le ko mu je spanec silil na oči in ko je začel bití nočni hlad občutljiv, je zapri okno in zlezel v posteljo.</p>
+            <p>Potem pa so ga ponesle sanje kakor na perotih na Žirovski vrh — tja gori, kjer se na Posečnikovih svislih ziblje pajčevina med ožganimi tramovi; tja gori, kjer se bleskeče drevesno perje ob mesečnih nočeh; tja gori, kjer <pb facs="#WIKI00464-073" n="73" xml:id="pb.073"/>žive ljudje življenje lepo in mirno, še vse lepše in mirnejše nego tu spodaj.</p>
+            <p rend="center">* * *</p>
+            <p>Ne bom vam pravil dalje; ako bi vas zanimal še konec, prosím pojdite in govorite z Blažetom samim. On še živi — in rad vam bo povedal svojo povest od konca do kraja.</p>
+            <p>O, Blaže še živi, dasi je minilo od teh dogodkov, ki sem vam jih pripovedoval, nič manj ko trideset let.</p>
+            <p>Vrh Žirovskega vrha dobite Blažeta še vedno. Če vas bo kdaj pot pripeljala na Žirovski vrh, le pojdite tam mimo Posečnika in stavim, da boste naleteli na Blažeta. V bregu nad potjo bo stal in pasel sedem ovac: tri bele in štiri črne — in ko boste šli mimo, se bo obrnil in čudeč se gledal za vami, kakor bi hotel vprašati: »Kako da vas je pot zanesla sem gori?« In tedaj vam svetujem, da se ustavite pri njem ter ga nagovorite.</p>
+            <p>»No, ali pasete?« tako ga vprašajte.</p>
+            <p>In odgovoril vam bo takoj in z največjim veseljem:</p>
+            <p>»Pasem, pasem! Tri bele pasem in štiri črne.«</p>
+            <p>In potem sem prepričan, da vam ne bo zmanjkalo pogovora, Blaže bo govoril rad in o vsem. Ne bo dolgo, ko bo začel govoriti tudi o sebi. Pripovedoval vam bo na dolgo in široko svojo povest in povedal približno vse to in tako, kakor sem vam povedal jaz, samo da še bolje. In ko bo končal tam, kjer sem končal jaz, potem ga izprašujte še dalje:</p>
+            <p>»Kaj pa sedaj?« — tako mu recite — »ali vas še kdaj zamika v dolino?«</p>
+            <p>»Kaj vam vse ne pride na mar?« tako vam bo odgovoril in vas pogledal z začudenjem; »ali ne vidite, da imam svojo družinico tukaj: tri bele in štiri črne? Ali bi jih mogel pustiti kar tako? In dolina —? Ali se ne vidi dolina najlepše raz Žirovski vrh? Rečem vam: vse lepše kot od blizu! O, rad gledam tja doli, a le od daleč; v dolino me ne mika ... Pač! V nedeljo grem k maši in pred mašo se rad ustavim pri družbi tam pod kostanjem. Zakaj ne — saj so dolinci tudi ljudje in ne sovražim jih! A vendar — po pravici povem — kadar mine maša, tedaj že zopet rad pohitim sem gori proti Žirovskemu vrhu. Res, tako je!«</p>
+            <pb facs="#WIKI00464-074" n="74" xml:id="pb.074"/>
+            <p>»Ali ste bili od tistega čaša vedno pri Posečniku?«</p>
+            <p>»Vedno. Kaj sem hotel drugače! Sprva sem služil za malega hlapca, potem za velikega. In ko je Posečnik umrl in se je dekle omožilo, sem bil še vedno za hlapca.«</p>
+            <p>»In sedaj?«</p>
+            <p>»Sedaj sem sam svoj. Pred leti mi je umrla mati in mi zapustila bajto v grapi in pa nekaj denarja. Bajto sem prodal; kaj bi počenjal tam doli? Za denar pa sem si kupil kôt pri Posečniku in pa tó-le družinico sem si napravil: tri bele in štiri črne. Pasem in pa v dolino gledam, kadar je vreme jasno. Kadar je pa megjeno, tedaj sedim v izbi in si preganjam dolg čas s harmoniko, ki sem jo bil ono leto narofil z Dunaja.«</p>
+            <p>»Torej Rotija je umrla?«</p>
+            <p>»Umrla.«</p>
+            <p>»Kaj pa France?«</p>
+            <p>»France — Hm! Tinačeva Marica ga ni hotela. Dirjal je menda za njo po vsej Ameriki in tako zapravil denar, kar ga je ímel. Potem pa pravijo, da še dostojne službe ni mogel dobiti. Moral se je udinjati v rudnike, kakor kdo drug. Domov ni pisal nič; mislili smo, da je že davno mrtev. A ono leto, ko je nastala v Ameriki tista velika stavka, smo zvedelí, da on vodi stavko in da ga zato zasledujejo, in pa da je v nevarnosti za življenje. Po tistem pa nismo čuli o njem nič več.«</p>
+            <p>Tako vam bo pripovedoval Rotijin Blaže in rad bo govoril. Vprašajte ga, kar ga hočete, na vse vam bo odgovarjal. Samo o Francetu, vam svetujem, ga ne izprašujte veliko; zakaj o bratu Francetu Blaže še vedno ne govori rad.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

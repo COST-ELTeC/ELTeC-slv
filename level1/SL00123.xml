@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SL00123">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Vzgoja.  : ELTeC edition</title><author>Regali, Josip (?-?)</author>
+            
+            <respStmt>
+               <name>Domen Kermc</name>
+               <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
+            </respStmt>
+         </titleStmt>
+         
+         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <sourceDesc>
+            <bibl><title>Vzgoja</title><author>Regali, Josip</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Vzgoja</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-DBE6H24U</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
+         <langUsage><language ident="sl">slovenščina</language></langUsage>
+         
+      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc>
+      <revisionDesc xmlns:t="http://www.tei-c.org/ns/1.0"><change when="2018-10-11"><name>Lou Burnard</name>: converted to ELTeC
+           </change>
+         <change when="2015-09-26">
+            
+            <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
+         <change when="2013-11-29">
+            
+            <name>Domen Kermc</name>: pretvorba v TEI P5.
+      </change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text xml:lang="sl">
+      
+      <body xml:lang="sl">
+         <pb facs="#WIKI00123-001" n="1" xml:id="pb.001"/>
+         <div xml:id="wv-I.">
+            <head xml:id="head.1">I.</head>
+            <p>Šumeča godba je zvenela, zdaj burno zdaj lahkotno in mirno ... Osem do dvanajst godcev je drgnilo po taktu na svoja godala z napetimi loki ... V restavraciji »pri Karlu V.« je bil mestni ples.</p>
+            <p>Električna žarnica je švigala iz orkestra, kjer je bilo najsvetlejše, tja doli do vrat, zavitih v motno-rdeče zavese, ki so visele od stropa, ki se je bleščal belih in zlatih štukatur — ter se izgubljala po gladkem, povoščenem parketu. V ozadju je bila razprostrta velika svilena narodna zastava, ovita s svežim smrečjem, na nji je pa visel mestni grb.</p>
+            <p>Zrak v dvorani je bil tako gost in prenasičen od močnih parfumov, ki so puhteli iz šumečih oblek, in od preobilne svetlobe s kandelabrov, da je legal težko na prsi ...</p>
+            <p>Med bele toalete ščebetajočih in koketujočih mestnih krasotic so se pomešavale tesne, kakor vlite svetlomodre suknje častnikov ter zategnjeni fraki nižjih in višjih uradnikov in zasebnikov, kateri so z oficirji vred vračali fingirane koprneče poglede in druge gracioznosti gospodičnam. Ob stranskih vratih so stali mestni očetje, postarnejši trgovci i. t. d. z damami v poletju ali pa tudi že v jeseni svoje dobe.</p>
+            <p>Uverturo so bili končali.</p>
+            <p>Gibanje po plesni dvorani je postalo še živahnejše. Spredaj se je bila ustavila skupina častnikov, ki so skomizgavali s črno pobarvanimi brkami; glasno se krohotaje, so se zopet drug za drugim oddaljevali.</p>
+            <p>»Gospodična, prosim, dovolite mi prvi valček«, se je nekako boječe oglasil ob strani srednjerasle devojke s kipečimi boki in napetimi prsmi simpatični bariton vladnega koncipista Semena.</p>
+            <p>»Ne, ne! — ne uganete, gospica, res ne uganete, za stavo, da ne uganete! No, pa vam povem sam. — Veste, včeraj je bilo, ravno ob petih popoldne na peronu, ko sem pričakoval dunajskega vlaka«, je govoril hitro, kolikor mu je dajal zaspani temperament, nadpo-ročnik Sturm, obrnivši se zopet h gospodični, s katero je bil očividno precej znan, ko je bil zaslišal, da ona govori z nekom.</p>
+            <pb facs="#WIKI00123-002" n="2" xml:id="pb.002"/>
+            <p>Ozrla se je v nadporočnika s svojimi pijanimi, svetlikaj očimi se očmi ter mu dela mehko roko pod pazduho, da jo je vodil po parketu.</p>
+            <p>»Sterna ste videli, hoteli ste reči, ne?«</p>
+            <p>»Da, da, njega! Kakšen je bil; skoro ga nisem poznal. V svetlem površniku, kakor kak židovski agent; pa sam je nosil majhen kovčeg... Ti presneti Stern! — —</p>
+            <p>Toda, čujte gospica, vas ni li sitni koncipist Semen nadlegoval ravno sedajle?«</p>
+            <p>»Pač, pač.«</p>
+            <p>Dvorana se je praznila polagoma. Ostali so le plesavci. Ples se je pričel. Godba je udarila burno; na godalih so škripali vijaki, in mišice godcev so utripale, loveč se za taktom. Čulo se je lahno drsanje pološčenih črevljev. Pluča in prsi so se zapehovale, obrazi čimdaljebolj rdeli in telesa se potila. Nad glavami je pa vel nekak lahen prepih.</p>
+            <p>Stranska vrata so ločila dvorano od restavracijskih prostorov. Tu se je vil že gost dim cigar in cigaret; v sredi je visela bolj majhna obločnica s prenehujočim tokom — bila sta oglja preoddaljena. Odmev godbe se je čul in premikanje stolov med glasnim govorjenjem in hohotanjem. Ob kamenitih mizicah so sedeli realni, debeluhasti ljudje ter metali taroke predse. V kotu so vzdigovali natakarji jedila, likerje, pivo, vino, domače in inozomsko iz kleti in iz jedilne shrambe z mehaničnim vzdigačem.</p>
+            <p>K rjavi peči je sedel koncipist Semen sam pred stožčasto steklenico, poleg katere je stala podobna kupica, le do polovice napolnjena. Noge je iztegoval od sebe ter gledal od stropa na obločnico, odtod v zlate prsne gumbe natakarjev, v pisane taroke sosedov, ki so igrali, in zopet v strop in obločnico — malomarno, kolikor so mu dopuščale globoke, temne oči. V istini ga je pa trlo v prsih in med rameni; bil je silovito razjarjen.</p>
+            <p>Potihoma si je naslikal vso bodočnost dveh nesrečnikov, katera preganja božja roka, vse boli zapuščene, nesrečne, nepremišljene ženske v tako živih barvah in tako slastno, da je bil skoro zadovoljen ... takoj nato ga je zabolelo v srcu, in iznova je začel razvijati svoje fantazije, včasih je zagodrnjal ali namrdal nervozno z ustnicami, včasih se hipoma premaknil na stolu, kakor da bi hotel vstati ... In zopet od konca je gledal v obločnico, taroke, v gumbe... in zopet iznova ...</p>
+            <pb facs="#WIKI00123-003" n="3" xml:id="pb.003"/>
+            <p>»Gospod, dovolite!« in prišlec je sedel k njegovi mizi. V tem je ples minil, in sobana se je polnila; Semen je pa stopil v dvorano in odtod na ozki hotelski koridor po vrhnjo suknjo, cilinder ter debelo palico s srebrnim, krogli podobnim držajem.</p>
+            <p>Šel je domov. Stanoval je v Jenkovih ulicah, št. 18, v prvem nadstropju. Kmalu se je ustavil pred dvonadstropno, rumeno pobarvano hišo ter odklenil vrata in odšel po stopnicah. Ko je dospel v svojo sobo, je brzo vrgel suknjo, za vratom s kožuhovino pošito, na stol, postavil cilinder na mizo ter odprl okno; oknici sta močno zadeli ob levovo glavo iz malca, kakršna je kitila prazni prostor med vsakima dvema oknoma. Potem pa je legel po dolgem na divan ter zapalil smodko.</p>
+            <p>Zunaj je vel mehek južen veter ter vedno premikal oknice in pihal tudi v sobo. Sneg se je topil po strehah, trda skorja po cesti se je lupila in privzdigovala prav na lahko; ledene sveče ob strehah so se krajšale, in snežnica je kapljala v drobnih kapljah in v debelejših curkih v pločevinaste žlebove ter se odtakala po malem, v trotoar zasekanem vodotočku v kanal. Po cesti je tudi šumelo curkov, ki so hiteli izpod snežene skorje.</p>
+            <p>Semen se je preobrnil na otomani na desno stran in prekrižal noge. V glavi so se mu vzdigovale le megle brez vsake določene oblike; jezil se je sam nad seboj. Smodko je vlekel krčevito.</p>
+            <p>»Ti vražji Sturm, ti vražji Sturm«, je siknil cesto med zobmi.</p>
+            <p>Preklinjal je ples, preklinjal oficirsko kasto kot črva družabnega življenja, vse oficirje kot zapeljivce nedolžnih deklet, kot postopače ter preklinjal vse, kar mu je prišlo na misel.</p>
+            <p>Prav živo je menil slišati uverturo, prav živo valček, skoro objeti jo je menil črez pas ter strmeč gledal, kako se je obrnila proti Sturmu, ko jo je mimogrede nagovoril — njemu pa ni niti odgovorila.</p>
+            <p>»Vse na nji je ponarejeno«, je dejal v hlinjeno zaspani jezi; »pod očmi se maže s črnim barvilom, po obrazu s chremo, obrvi si tudi barva ... Metulj je, muha-enodnevnica, katera danes še pohotno leta, jutri pa že zvene in premine. Vsi njeni čari so našemljeni; ni je škoda ... nesrečen vsakdo, kogar ljubi ... ostane mu po par letih zakonskega življenja grdobno, grbasto ženišče, bolehno in slabotno — imel bo v hiši vedno bolezen, jok ... ni najboljša ... hvala Bogu, da sem jo spoznal ...«</p>
+            <p>Polagoma pa ga je zaspanec vendarle preobladal; le še včasih je odprl oči, okrožene s črnikastimi obročki, in izpregovoril kako <pb facs="#WIKI00123-004" n="4" xml:id="pb.004"/> neumljivo besedo med čeljustmi, katere je krčevito stiskal, a naposled je popolnoma zaspal. V snu pa se mu je izvil večkrat dolg, pretrgan zvok iz prsi.</p>
+            <p>Smodka mu je že davno padla iz ust ter je na tleh še dolgo dalje tlela ...</p>
+            <p>Drugo jutro se je zbudil Semen — v salonski obleki na divanu. Skoz odprto okno je pihal občuten hlad. Po ulicah se je vlačila debela, bela megla v neprodirni skupini. Curki s streh so še vedno žuboreli, in voda se je odtakala po žlebovih.</p>
+            <p>Semen je močno zakašljal.</p>
+            <p>V možganih je čutil silno praznino, in vendar mu je bilo obenem tako, kakor da bi mu bil kdo svinca nalil v črepinjo. Kite na vratu so ga sklele.</p>
+            <p>Spomnil se je minolega večera ... zopet je zakašljal.</p>
+            <p>»No, to je vendar silno čudno, da se vedno tako razgrevam radi te punce. Kaj jih ni še mnogo drugih na svetu — tudi takih, ki imajo denarja? — — A zlodej pomagaj! Moje sanje, moje sanje — ta brezdna, ki jih vidim včasih celo po dnevu! ... Vendar Sturma si zapomnim, zapomnim na veke ... ta človek je še popoln barbar poleg vse svoje nadutosti.«</p>
+            <p>In odšel je v kavarno na čašo čaja, da bi si utešil ščegetanje v prsih, katero mu je bil provzročil ponočni prehlad.</p>
+            <p rend="center">* * *</p>
+            <p>Ivan Javor je bil uradnik pri banki »Donau«. Z mesečnimi 100 forinti stalne plače in s slučajnimi dohodki večjih ali manjših provizij si je vzdrževal stanovanje s tremi sobami, iz katerih je bil razgled na ulico, in kuhinjo, ki je bila obrnjena na majhno, temačno, s kamenitimi ploščami potlakano dvorišče.</p>
+            <p>Gospa Javorica je imela pač že štirideset let, vendar pa so bile njene poteze na obrazu še tako sveže in tako pravilne, da bi se vanjo lahko zagledal gigerl s petindvajsetimi leti. Vsako jutro si je okusno spletla dolge, debele kite v dva pramena in si umila s finim milom bele roke, vrat in obraz.</p>
+            <p>Javor sam ni živel ravno razkošno; vsako opoldne je použil krožnik juhe, nekaj mesa ter prikuhe, vino je pa pil v gostilnici, kamor je hodil po obedu. Tudi glede obleke je bil gospod Javor jako skromen; nosil je zimski havelok rjavkaste barve po pet let. Pazil je nanj, kar je mogel, toda že drugo ali tretje leto je jelo po ljubem haveloku neusmiljeno udrihati: bil je bledejši in redkejši ter <pb facs="#WIKI00123-005" n="5" xml:id="pb.005"/> bolj in bolj pomečkan in obnošen. Pušil je le malo in pa samo cenene »kratke« cigare, doma pa je vlekel iz smrdljive pipe navadni »fürstenfeldovec«.</p>
+            <p>Več nego Javor pa sta potrošili soproga njegova in gospodična hčerka, Angela. Ta je letala v materinem spremstvu po vseh plesih, čitalniških, mestnih, garnizijskih, po vseh veselicah in koncertih. Pa tudi pela je Angela pri diletantskih koncertih — ne iz ljubezni do umetnosti ali radi krasnega glasu, ampak radi svojih krasno oblikovanih rok, svilenega obrazka, rimskega noska, rubinastih ustnic in pa svojih oči, katere so se svetlikale v mokri luči — kratko: spričo svojih telesnih čarov.</p>
+            <p>Angela je zahtevala vsaki mesec kaj novega za toaleto, mama pa tudi; in Ivan Javor je dajal petak za petakom, dokler jih je kaj bilo v usnjati listnici v omari ...</p>
+            <p>Angela si je najbolj želela moža, ki bi bil prav lep, vitek, s črnimi brčicami, kateri bi nosil tudi tenko, žvenkljajočo sabljico ob mečih; toda — toda takega ni hotelo biti, ki bi bil imel toliko tisočakov v žepu, da bi bil mogel vložiti kavcijo. Angela je sklenila počakati, dokler ne pride huzarski poročnik, grof z Ogrskega, jo zaprosi za ročico in jo odvede v rezidenco. Medtem pa se je hotela kar najboljše zabavati z gospodi častniki domačega polka. In sreča ji je bila mila! Neki Sturm ji je povedal nekoč na skrivnem, da se gotovo z njo poroči, da sam preskrbi kavcijsko vsoto; zabičil ji je pa, naj nikomur ne pravi o tem nego svoji materi, ker mu ne bi bilo ljubo, ako bi se stvar pred časom raznesla, zlasti ker hoče presenetiti očeta svojega in pa ostale sorodnike ... Angela Javorjeva je bila poleg tega po mestu najbolj znana krasotica. Po ulicah so se ji vsi moški vprek klanjali, odkrivali ter salutirali. Razstaviti je dala tudi svojo barvno fotografijo na »Promenadnem trgu« v izložbi fotografa Myrtha. Vsaki paglavec, ki je tod mimo tekel, je vedel, da je gospica z velikimi, črnimi lasmi in rimskim noskom Javorjeva. Osebno je bila znana z vsemi mlajšimi členi mestnega razumništva.</p>
+            <p>Mati se je pa trudila, da bi ujela kakega moža s trdno eksistenco in prijetno zunanjostjo za soproga svoji hčerki, dočim je le-ta mislila, da je rojena le za oficirje. Gospa Javorjeva je torej vabila na posete uradnike, kateri so ji ugajali. Hodili so radi, in marsikateri izmed njih je imel resno voljo, da vzame Angelo, češ, da dobi ženo, katera mu bo vdana, tem bolj, ker ne bo imela denarja — kar je tudi nekaj vredno; saj denar tudi ni vse.</p>
+            <pb facs="#WIKI00123-006" n="6" xml:id="pb.006"/>
+            <p>Semen je pogosto zahajal k Javorjevim; zašel je bil v njih druščino, da še sam ni vedel, kako, a spominjal se je, da se je izprva za njih naklonjenost s čudno vztrajnostjo potezah ščebetali sta z njim na posetih hči in mati; oče je šel navadno že pol ure prej na izprehod, kadar je vedel, da ga kdo hčerinih znancev poseti; pravil je, da se mu ne ljubi klanjati, in da se mu vsa etiketa mrzi. Vesel je bil pa vedno, kadar je čul, da je bil kak soliden človek njegov gost. Semen se je ponižno in vdano odkrival. Le-temu je to ugajalo, in občeval je mnogo z Angelo, a ta se mu je včasih smehljala, včasih ga je pa nalašč prezirala.</p>
+            <p>Semen je bil — a ne on edini — s čudno strastjo navezan na gospodično Angeliko, da se je moral krotiti na vse pretege, kadar je videl, kako ona koketira, da, kako se vsiljuje častnikom, dočim njega prezira ter se ga usmili samo, kadar se ji zljubi, ter mu milostno dovoli, da ji s tem ali onim pokaže svojo naklonjenost ... Semena je to vselej grozovito dirnilo. —</p>
+            <p>Med mestnimi devojkami in materami je pa Angela prišla polagoma na glas »oficirske ljubice«, kokete brez sramu in značaja, a vkljub temu se je vse klanjalo njeni lepoti ...</p>
+            <p>Na koncertu elitnega pevskega društva je Semena Angelino vedenje močno poparilo. Ljubkovala je brez ozira le z nadporočnikom Sturmom, možem, ki je bil na glasu kot osebno čeden, kavalirski človek, s plavimi brkami, ozkimi ustnicami, pa mnogimi grehi.</p>
+            <p>Zapomnil si je Semen ta nastop. Neodoljiva sila ga je bila gnala na »mestni ples«, a »oficirska ljubica« ga je ondi javno blamirala; tedaj pa je sklenil, da uniči in zatre ono silo v sebi, naj stane, kar hoče.</p>
+         </div>
+         <div xml:id="wv-II.">
+            <head xml:id="head.2">II.</head>
+            <p>Opoldne v nedeljo je dobil nadporočnik Sturm v majhni kuverti vizitko od gospe Javorjeve; odtrgal je ovitek bliskoma, se zasmejal ter si zasukal dvakrat, trikrat brke.</p>
+            <p>»Hm, gospa Javorjeva me vabi na popoldanski izlet! Imam sicer danes še počakati proti večeru tovariša v restavraciji — torej, skoro ne utegnem ustreči Angeli — hm — toda vendar pojdem, če že tako želi ona mucka — bodi!«</p>
+            <p>Nato je vrgel plašč na obešalnik, si odpasal sabljo ter posegel v pisalnikovo miznico, iz katere je privlekel knjigo, podobno kakemu albumu, ter jo začel ogledovati, ironski motreč pisma, katera so tičala zapored zložena v nji.</p>
+            <pb facs="#WIKI00123-007" n="7" xml:id="pb.007"/>
+            <p>Toliko jih je torej od lanjske jeseni, ko sem bil prestavljen semkaj, v tole naše mestece. Pikantno! — morebiti bi rekel naš major celo amusantno! Parfumovani papirček gospe odvetnikove — poleg sličice trgovke Lebnove — oj, pa še tako imenitno dekoltirana je tale dama — in lase si je izborno uravnala, ko se je dala fotografovati! — Oj in tule zopet ena: gospa, pravzaprav vdova pokojnega Jančnika, ki je imel baje tudi drugih ljubic obilo. — No — in — haha: tule vidim pisemce hišnice gospe Jančnikove, kateri se je tudi nekdaj bledlo o meni: pisano je pa prav nerodno, res prav sentimentalnoin to meni le redkokdaj ugaja, ne morem pomagati...«</p>
+            <p>Prižgal si je svaljčico in premetaval še dalje pisma, naposled pa jim je priložil še vizitko gospe Javorjeve. In potem se je parkrat pretegnil, zamahnil z rokami, poklical služabnika ter mu naročil, naj bode doma danes popoldne, dasi je nedelja.</p>
+            <p>»Tu imate smodk; kadite, če se vam ljubi! Kadar pride gospod nadporočnik — saj ga poznate, oni, ki je bil že zadnjič pri meni — mu recite, naj oprosti. Vizitka moja je na mizi. Povejte mu, da sem imel nujno pot.«</p>
+            <p>»Razumem, gospod nadporočnik. Ali naj sobo zaklenem?«</p>
+            <p>»Kakor vam drago; do tedaj morate počakati, da oddaste vizitko.«</p>
+            <p>In Sturm je odšel obedovat na zasebno stanovanje, kjer so bili naročeni nekateri častniki na kosilo.</p>
+            <p>Točno ob treh je bil pa pri Javorjevih.</p>
+            <p>Angela je ravno gledala pri oknu ter mu prihitela na stopnice nasproti; on jo je prijel za roko ter se ji priklonil.</p>
+            <p>»Gospod nadporočnik, hvala vam, hvala, da ste se odzvali! Recite, ali ni naša misel izvrstna, poleteti zopet enkrat na Pristavo; saj je ravno danes prav ugodno vreme!«</p>
+            <p>»Res, res, kaj naj počnemo celo popoldne v mestu! Da, oprostite gospica, zahvaliti sem se pozabil na vabilu.«</p>
+            <p>Za četrt ure so odšli gospa Javorjeva, Angela in Sturm na Pristavo.</p>
+            <p>Po drevoredu je bilo dokaj ljudi, ki so se izprehajali gori in doli jako hitro radi mraza, ki se je bil zadnje dni pojavil zopet z vso krutostjo, tako da so slabo oblečenim revežem kar šklepetali zobje.</p>
+            <p>Tla so bila trdo zmrzla; silna megla se je vlačila po travnikih poleg golih, starih kostanjev, kateri so bili vsi polni ivja. Rdečkasto zimsko solnce se je zaman trudilo razgnati te neprodirne hlapove.</p>
+            <pb facs="#WIKI00123-008" n="8" xml:id="pb.008"/>
+            <p>Od daleč se je pa slišala godba, ki je svirala na dirkališču, katero je rabilo po zimi za drsališče.</p>
+            <p>Sturm in Angela sta hodila ob straneh, v sredi pa je stopala gospa.</p>
+            <p>Vsi trije so tiščali roke k sebi; nadporočnik je stiskal sabljo ter mencal roke v žepih; dami sta imeli velika mufa, na katerih črni dlaki so se srežile ivnate dlačice.</p>
+            <p>»Gospod nadporočnik, kje ste bili pa danes zjutraj? — Kaj ne, da je dolgočasno v našem mestu?«</p>
+            <p>»Baš nasprotno, milostljiva gospica. Dopoldne sem bil pri štabu; imel sem službenega opravka toliko, da nisem utegnil ničesar drugega uganjati. A kaj pa vi, gospica?«</p>
+            <p>»Jaz? Kaj se res toliko zanimate zame?«</p>
+            <p>»Da, seveda se; saj niste užaljeni!«</p>
+            <p>»Veste, če ste že ravno toliko radovedni: bila sem v konditeriji! No, in kaj je potem?«</p>
+            <p>»Gospod, nadporočnik, ste li že kdaj občevali z gospo pokojnega poslanca Jančnika?« se je oglasila sedaj mati.</p>
+            <p>»Da — nekoliko pač — prejšnje čase — to se pravi lanjsko zimo. Seznanil me je z gospo njen sorodnik Viljem, ki je v Gradcu na politehniki študiral.«</p>
+            <p>»Menila sem vas nji predstaviti, ker pride tudi ona, kakor mi je pravila zjutraj, ko sva se srečali na trgu, na Pristavo nekoliko pogledat.«</p>
+            <p>»Tako — tako! Veselilo me bo, če bo družba večja.«</p>
+            <p>»Mene tudi, mama«, je rekla Angela.</p>
+            <p>Stopali so medtem že mimo gozda, ki se je razprostiral zadaj za drevoredom. Sneg je polzel in škripal pod nogami, da se je ta ali oni lovil, ko mu je izpoddrsavalo po tleh.</p>
+            <p>Šlo je mnogo inteligence; gospodje v težkih zimskih suknjah, dame pa odete okolo vratu s kožuhovino, a nožice so jim tičale v svetlih galošah.</p>
+            <p>Kmalu se je pokazala Pristava. Na leseni ograji, narejeni iz latnikov, je ležal trd sneg; po njem so čivkali gladni vrabci. Nad ograjo so molele redke smreke svoje dolge, pod sneženim bremenom se šibeče veje, a za smrekami so stale na vrtu jablane, nizke in skrivljene ter metale senco, kolikor so je mogli provzročiti premrli solnčni žarki. Po gozdu je bilo tiho. Gaz je peljala do gostilnice; izhodih so jo bili gostje, ki so prihajali semkaj takoj po eni uri.</p>
+            <pb facs="#WIKI00123-009" n="9" xml:id="pb.009"/>
+            <p>Tik hiše, v švicarskem slogu zidane — nje zameteni stolpički so slikovito moleli iznad strehe — je bil postavljen steklen salon, katerega šipe so bile rumene, rdeče in bele.</p>
+            <p>Gospa in gospica Javorjeva z nadporočnikom Sturmom sta šli najprvo v hišo. Takoj v veži, potlakani z rdečo, zamazano opeko, na kateri so se poznale snežene stopinje, so srečali gostilničarico Medvedovko, ki jih je vljudno pozdravila, a obenem s ključi poropotala po predpasniku. Skozi vrata pa se je zakadil tačas naravnost gori pod obok, oškropljen modrikasto in sivo, zamazan vrabec ter začivkal »čiv, čiv!«, Medvedovka pa je siknila »šu, šu«.</p>
+            <p>»Je li še dovolj prostora v salonu?« je vprašal Sturm.</p>
+            <p>»Dovolj, dovolj! Še pri dveh mizah je prostora! — Gospoda, s čim postrežem?«</p>
+            <p>In gospa Javorjeva je naročila prašičje pečenke z rumeno salato, ki je po zimi tako priljubljena.</p>
+            <p>Stopili so v stekleni salon, v katerem je s stropa visela velika, bela »bliskovna« svetiljka prav nizko doli med mize, tako da je marsikateri gost zadel z glavo vanjo, ker je ni poprej opazil. Tu je bila zbrana že precejšnja družba.</p>
+            <p>Jančnica je sedela ob okrogli mizi ter ravno mrcvarila piščanca — sredi številnega omizja gospodov in gospic. Levico je vdovi deželnega poslanca Jančnika zaslanjal gladkoobriti komptoarist Sender ter se priklanjal vedno in vedno dami na desni, pridno pregibajoč svoje suhe čeljusti; na tleh pa je sedel med Jančnico in Senderjem rjav pes-jazbečar ter glodal kosti, ki mu jih je metala vdova na papir nemškega humorističnega lista »Kikiriki«.</p>
+            <p>Ko je Jančnica prišlece zagledala, je takoj vstala in kriknila: »So že tu — prosim, sedaj pa kar k nam.«</p>
+            <p>Posedli so okolo mize. Sturm se je z visokostno vojaško vljudnostjo poklonil damam, zlasti gospe poslančevi ter pozdravil tudi drugo zbrano družbo. Nato je prisedel k Angeli ter skoro izključno le z njo govoril ter ji neusmiljeno dvoril, a kadar mu je gospa Janč- nikova zastavila kako vprašanje, se je delal, kakor da je ne čuje ter ne vidi njenih strupenih pogledov. Tem več pa je govorila s poslančevo vdovo Javorica, ki se je le malo mešala v zabavo mlajših ...</p>
+            <p>»Gospa, ste li že prejeli najnovejšo številko dunajske »Mode«? Zlasti mnogo je mantilj za spomlad ...«, je omenila Jančnica proti Javorici.</p>
+            <pb facs="#WIKI00123-010" n="10" xml:id="pb.010"/>
+            <p>»Jaz nimam, verujte mi, gospa poslančeva, prav nobenega veselja za nove toalete, le prisiljena se vdajem modi — kaj pa hočem; ko se ji vsi pokoravajo, naj bodem li jaz izjema?«</p>
+            <p>»Potrebuje pa gospodična tem več, ki je mlada in lepa — čestitam vam, pravijo, da je najdražestnejša med venčkom, ki se je letos zbral pri plesnih vajah v čitalnici. — — Gospodična Angela, oprostite, kako pa vam ugaja pomladanska številka »Mode«?«</p>
+            <p>»Hvala, izborno! — Sploh mi je dunajski kroj bolj všeč nego pariški.«</p>
+            <p>Jančnica ji je pritrdila.</p>
+            <p>»Ah, kaj moda!« se je vtaknil brzo Sturm vmes, »bodi taka ali taka, ne škoduje itak nikomur ne, koristi pa kvečjemu tvrdkam v prestolnici. Moj princip je pravzaprav: živimo filistrsko — ne filistrsko po naše, nego bodimo velikomestni filistri! Jaz pravim: prijatelj, uživaj, dokler imaš, kaj ti mari vse drugo — moda in podobne fraze, katere nekateri toliko cenijo. Gospoda, jaz sem epikurejec ...«</p>
+            <p>Jančnica se je namrdnila o teh duhovitih opazkah Sturmovih, a silno so imponirale komptoaristu in pa suplentu, ki je sedel poleg njega, in oba sta hitela Sturmu pritrjevati.</p>
+            <p>»Ha, ha — in ni li to pravo načelo? Zakaj ne bi bilo — prosim vas — ko se po njem ravna ogromna večina sedanje inteligence — hm, in pa tudi — praktično je najbolj!«</p>
+            <p>»Pravzaprav je res«, je pripomnila Jančnica, »a da bi vsakomur ugajalo, jako dvomim.«</p>
+            <pb facs="#WIKI00123-011" n="11" xml:id="pb.011"/>
+            <p>Sturmu je postalo dolgčas ob dolgem razpravljanju vdove Jančnice, katera se je bila razgrela ter začela svoje nazore dobrotno razlagati na desno in levo; kakor po naključju se je zadel ob Angelo ter ji je šepnil, naj gre z njim.</p>
+            <p>Opravičil je njo in sebe, ji ogrnil fini plašček pa jo povedel skoz vrata ...</p>
+            <p>»Gospa Javorjeva, dovolite, kje si poiščete novo stanovanje? Čula sem, da se selite.«</p>
+            <p>»Tako, tako? Tega ne vem, jaz saj nisem rekla ničesar nikomur; sedanje stanovanje mi ugaja.«</p>
+            <p>»Na Vodnem trgu so bile zadnjič v časopisih oglašene tri sobe s kuhinjo in pritiklinami«, je dejal dolgi, suhi zasebnik Pretnar, ki je običajno molče poslušal ščebetajočo družbo ...</p>
+            <p>Medtem sta pa nadporočnik in hčerka gospe Javorjeve flirtovala konec švicarske hiše, tam, kjer je bil vhod v ledenico, okoli katere je stalo še dokaj voz, naloženih z ledom, katerih še niso izpraznili.</p>
+            <p>Sturm je objemal Angelo ter jo poljubljal in ji stiskal roke. A tudi ona ni bila skopa ter mu je vse ljubeznivosti primerno vračala.</p>
+            <p>Ko pa sta se naveličala tega ljubkovanja, sta se dostojanstveno vrnila v salon. Sturm je sedel k peči ter začel pripovedovati zanimive slučaje iz zadnjih vojaških vaj na Ogrskem ter kritikovati prvi ples letošnje zime, katerega je bil priredil trgovski klub, in zatem domače venčke.</p>
+            <p>Polagoma se je pa zunaj mračilo, in ko je pogledala Jančnica na svojo zlato urico, je spomnila, da je že pet, in da bo treba oditi.</p>
+            <p>Za gospo in gospico Javorjevo je plačal Sturm sam, nato jima je tudi pomagal obleči pelerini ...</p>
+            <p>Zunaj se je vlačila že tako debela megla, da bi jo bil lahko rezal, in mrzla vlaga se je srežila gospodom po brkah, damam pa po laseh in mufih.</p>
+            <p>Dame so takoj dalje odhitele, a se ustavile, ker so gospodje zaostali, prižigaje smodke. Pari so se v gosti temi in v še bolj gosti megli kar poizgubili.</p>
+            <pb facs="#WIKI00123-012" n="12" xml:id="pb.012"/>
+            <p>Poslančeva vdova je odskakovaje stopicala poleg komptoarista, pripovedujoč mu, da ga osreči saj črez eno leto, če že prej ne — s svojo roko — in razlagaje mu mične dogodbice o prošlosti nadporočnika Sturma. Nato pa jo je vprašal koščeni spremljevavec: »Od kdaj pa poznaš tako intimno tega Sturma, hm ...?«</p>
+            <p>»Oj, ne norčuj se iz moje tragične preteklosti! Srce človeško je izpostavljeno tako mnogim izkušnjavam, da ni nič čudnega, če zaide na kak nepremišljen pot — ah!«</p>
+            <p>In začela mu je vdova z glavnico štiridesetih tisoč govoriti na dolgo in široko pretresljivo in ganljivo o slabostih ženskega srca, katero tako rado zapelje moška poželjivost, moška strast, kateri je ženska le igrača ... In sramežljivo je obljubila Jančnica komptoaristu večno zvestobo v zakonu, katerega skoro skleneta.</p>
+            <p>Le-ta je pa bil kmalu popolnoma potolažen, zlasti ko mu je začela praviti dalje še o treh državnih srečkah iz leta 1864., katere stoje baš sedaj nenavadno visoko, in katerih eno gotovo ona zadene pri prvem žrebanju, ker ji je tako prorokovala neka znanka iz kart. Z dobitkom si bosta zidala vilo izven mesta, napravila si pa tudi ekvipažo ... Vmes se je vdovica vedno spominjala častnika Sturma, čigar vrline, zlasti telesne ji menda niso hotele iz spomina, dasi ga je pri vsaki priliki ironizovala napram ljubčku svojemu.</p>
+            <p>Drugi izletniki so se zopet drugače zabavali med seboj; nadporočnik je imel z Angelo opraviti, a mama je hodila kot gardedame blizu njiju.</p>
+            <p>Hodili so dosti dolgo po zmrzlem snegu, preden so dospeli do vil, katere so stale ob glavni cesti proti Pristavi. Tu so svetile luči po sobah, iz katerih se je čulo, če je stalo poslopje prav tik ceste, celo ropotanje posode, ko so napravljali za večerjo.</p>
+            <p>Pri prvih hišah v mestu so bile že tudi plinove svetiljke nažgane, zadelane po vrhu s snegom, kakor bi bile pokrite s častitljivo zimsko kučmo ruskega batjuške.</p>
+            <p>Gospoda se je jela razhajati. Pri gledališču, kjer se predstava še ni bila pričela — imela se je pričeti ob polsedmi uri radi poseta z dežele — sta se ustavila Jančnica in Sender ter si šla kupit vstopnici za ložo.</p>
+            <p>Poslovili so se ter razšli; ostali sta samo Javorjevi s častnikom.</p>
+            <p>Pred vežnimi vrati se je oprostil tudi nadporočnik, proseč pa, da ju sme v kratkem posetiti na domu.</p>
+            <p>Ko sta prišli Angela in mati v stanovanje, je sedel soprog, gospod Javor, na zofi poleg mize, kašljal ter kadil kratko smodko; pred <pb facs="#WIKI00123-013" n="13" xml:id="pb.013"/> seboj je imel debelo knjigo na kolenih, »krščansko moralo« nekega slavnega jezuita.</p>
+            <p>Javor je mater in hčer nekaj vpraševal, a ker mu ni nobena hotela odgovarjati, je pušil dalje, dasi sicer ni bil hud kadivec; sempatja je tudi zahropel tako naporno, da je bil ves zaripel v obraz. Ko je šel Javor za trenotek iz sobe, je skočila Angela gledat, kaj je čital oče; prebrala je naslov: nji se je zdela, čudna in nenavadna ta asketična pobožnost očetova, in mati se je celo prezirljivo smejala.</p>
+            <p>Potem so večerjali.</p>
+         </div>
+         <div xml:id="wv-III.">
+            <head xml:id="head.3">III.</head>
+            <p>Sezona se je bližala koncu. Zopet je bilo postalo vreme južno.</p>
+            <p>Sturm je pogosto zahajal k Javorjevim; včasih je prišla, ne da bi bila mati vedela, tudi Angela k svojemu dvoritelju.</p>
+            <p>Neki solnčni dan popoldne je odprla vrata Sturmovega stanovanja njegova ljubica, in ker ga ni bilo v sobi, je sedla kar sama na divan, misleč, kako se je danes tako zakasnil.</p>
+            <p>Na oknu je kazal toplomer že precej nad ničlo. Zamislila se je, kako bo po leti, ko jo bo spremljal vitki nadporočnik po promenadi in vrtnih veselicah ... mislila je, kako ji bodo zavidale znanke, češ, vsakoga ujame, ako mu le z malim prstom namigne ...</p>
+            <p>Ni trajalo ravno dolgo, ko se je vrnil Sturm iz vojaščnice, niti se ni preveč začudil, da jo je našel samo v sobi. Sedel je poleg nje in jo pričel grliti.</p>
+            <p>»Novi čreveljčki — ha, res si si dražestne omislila.«</p>
+            <p>Nato je vstal in začel žvižgati koračnico, roke uprl v boke in stopil k oknu, odkoder je gledal na cesto.</p>
+            <p>Angela se mu je približala, mu položila roko na ramo; polagoma se ga je oklenila in mu zrla v oči.</p>
+            <p>Njemu se ni mnogo ljubilo; v očesnih jamicah so mu ležale skrbi.</p>
+            <p>»Oj, ne bodi tako učen, Edvard, saj si lep; kaj bi si izmišljeval, kakšno toaletno milo in krtačice bi si še oskrbel«, mu je rekla v šali.</p>
+            <p>»Ti si danes res razpoložena, mucka; jaz, žal, nisem.«</p>
+            <p>Počasi ga je pa vendar pripravila, da je sedel k njej na divan in si prižgal svaljčico.</p>
+            <p>Pripovedovala mu je o toaletah in različnih gospicah, kaj počne ta, kaj ona. Sturm se je pa malomarno iztezal po divanu in pušil svoj pot; videlo se mu je, da ga nekaj tlači v duši.</p>
+            <pb facs="#WIKI00123-014" n="14" xml:id="pb.014"/>
+            <p>Angela mu je zatrjevala, da je lep, interesanten in podobne stvari. Gladila ga je po licih ter vlekla za ušesa, se mu koketno muzala, da ga je slednjič predramila iz skrbi, da se je je oklenil okoli pasu in se ji tudi začel laskati.</p>
+            <p>»Oj, oj, Angelica, smrček sladki, vidim, da ti je ob meni prav lepo, kaj ne? Rada si tukajle, rajša celo nego pri mami. Le pridna bodi!«</p>
+            <p>In grlila sta se in grlila.</p>
+            <p>»Gospodična Angela, čuj, ondile imam pa še nekaj vanilije v buteljki; blagovoli jo z menoj pokusiti!«</p>
+            <p>Nerada se je odpravila od njegove strani. Potem sta sedla vsaki na svoj fotelj k mizi ter pila. Angela se mu je še vedno malce muzala in mu nagajivo namežikovala s črnimi očesci, on je pa drezal z rokami v zrak in se pretegoval, da je siva bluza poknila včasih komaj znatno.</p>
+            <p>»Angela,« se je oglasil nepričakovano častnik. »Nekaj mi je prišlo na misel — neka povestica — saj jih rada poslušaš?«</p>
+            <p>»Kar povej jo ti, don Juan, ti!» mu je rekla.</p>
+            <p>»No, poznala si morda večnega poročnika Sterna — onega, ki je bil še pred letom pri vojaški oskrbovalnici?«</p>
+            <p>»Seveda, bilo je o njem še pred petimi meseci precej govorice ... Čakaj, videl si ga celo ti sam nekoč meseca februarja na peronu — tako si saj sam pravil.«</p>
+            <p>»Res je, in tačas je bil tak, da ga skoro nisem poznal, v ovršniku — po zimi — je bežal s kovčegom v roki na vlak. Rad bi ga bil nagovoril, toda ravnokar je bilo odzvonilo, in vlak se je že pomikal.«</p>
+            <p>»Nihče ni za gotovo vedel, zakaj je tedaj izginil, dasi so mnogo ugibali —«</p>
+            <p>»Pa nihče ni zadel pravega! Bilo je nekoč po leti, tedaj, ko je Stern še služboval v našem mestu. Vsaki dan smo po kosilu posedevali na verandi »Narodne kavarne«, in Stern je tudi zahajal v to družbo. Kar ga je nekoč zmanjkalo in ga ni bilo nekaj dni nikjer videti! Neki reservni poročnik — lekarnik Lavrič — ga je šel v pisarnico iskat, in tu so mu povedali, da je Stern naznanil, da leži opasno bolan.«</p>
+            <p>»In kaj je pri tem čudnega«, je vzkliknila Angela.</p>
+            <p>»Lavriču smo se potem smejali, ker sem bil baš jaz ravnokar povedal tovarišem, da ima Stern ljubico v mestu, ljubico — neko šiviljo, ki je baš vzrok, da njega ni toliko časa na izpregled.«</p>
+            <pb facs="#WIKI00123-015" n="15" xml:id="pb.015"/>
+            <p>Dalje je Sturm Angeli obširno pripovedoval o Sternu, kako je polkovnik ovedel to Sternovo razmerje, in kako mu je zategadelj in radi mnogih upnikov, ki so se vedno nestrpneje oglašali, namignil, da — ostavi vojaško službo — in kako je neko noč Stern izginil iz mesta kakor duh, ne da bi bil komu povedal, kam — niti svoji ljubici.</p>
+            <p>»In ona, ona?!« je z grozo vprašala Angela.</p>
+            <p>»Pravzaprav je on propadel radi nje; dolgovi bi ga bili tudi uničili — radi nje.«</p>
+            <p>»Tako ti misliš?! Oh, in ljubezen?!«</p>
+            <p>»Hm!« je zagodrnjal nadporočnik.</p>
+            <p>»Morda, morda,« zastoka zardela Angela, »morda tudi ti mene ne ljubiš!«</p>
+            <p>»Ha, ha!« se je zasmejal Sturm, da so se mu beli, močni zobje zalesketali za rdečimi ustnicami — »veš, da jaz nisem nikdar samo koketoval — jaz te ljubim, Angelica — ljubim te — o tem si se lahko tudi že sama prepričala! Ravno s tem, da sem ti povedal to povest, sem te hotel še bolj potrditi v veri, da sem ti v resnici zvest ... Saj mi veruješ — kaj ne, da mi?«</p>
+            <p>Angela je bila nekoliko užaljena. Pod črnimi, ozkimi očmi sta se ji zarezali dve fini, komaj vidni črti.</p>
+            <p>Z ulice se je zdajci začul semkaj v sobo žvenk lopat in krampov, s katerimi so razsekavali ledeno skorjo, solnčni žarki so bili z belo-modrega obzorja na zidove nasprotne hiše ter odtod odsevali v Sturmovo stanovanje.</p>
+            <p>»Dokažeš mi to — poprej ti ne verjamem,« je jezno odgovorila ter ga trmasto pogledovala. »Dokažeš mi — le brž si izmisli kako!«</p>
+            <p>»Dvomiš? — Bodi torej: poljub ti dam.«</p>
+            <p>Prijel jo je za krasni ličci ter ji z navidezno strastjo pritisnil mnogo poljubov.</p>
+            <p>»To ne zadostuje! Še ti ne verujem!« je odgovorila trdovratno.</p>
+            <p>»Kar hočeš, ti storim — le izmisli si, in videla boš!«</p>
+            <p>»Čakaj, gledat pojdem, kaj imaš tamle po predalih skritega. — Če res kaj maraš zame, mi moraš razodeti vse intimnosti; če pa ne pustiš, potem vem, da ti nisem mari — ker imaš gotovo kaka pisemca ali pa še kaj drugega.«</p>
+            <p>Skočila je k predalniku iz orehovega lesa ter začela odklepati predalčke. Vse je odprla ter pregledala: Sturmovo perilo, paradno uniformo z zvezdami; v spodnjem predalu so bile nametane vojaške strokovne knjige; vse to je preteknila.</p>
+            <pb facs="#WIKI00123-016" n="16" xml:id="pb.016"/>
+            <p>»Aha, zgorenji predal — tu hraniš svoje skrivnosti!« je kriknila Angela ter naglo potegnila.</p>
+            <p>Sturm pa se je hudobno in zadovoljno, dasi skoro nevidno namuzal.</p>
+            <p>Toda predal se ni dal takoj odpreti; pomagal ji je tudi on ter začel iskati ključ po pohištvu. Odprl je črno kaseto, pogledal v miznico zelene garniture, skočil zopet k obešalniku za obleko in potipal v vrhnji plašč — pa nikjer ni mogel najti ključa. Delal se je razburjenega ter se ji začel opravičevati; nato pa je zopet poskušal predal odpreti.</p>
+            <p>Nič in zopet nič.</p>
+            <p>Angela se je bila že naveličala in utrudila; pokusila je požirek vanilije. Zazdehalo se ji je.</p>
+            <p>»Pusti sedaj; saj ti verjamem, da si priden, da umeš slušati.«</p>
+            <p>»Dobro, to mi je všeč ... Toda, veš, Angela ... veš; jaz moram danes vsekakor ključ imeti, ker ga neobhodno potrebujem!«</p>
+            <p>Angeli se je zdel Sturm docela osupel: obrvi so se mu bile nad nosom zbližale in nad očmi še bolj izbočile.</p>
+            <p>»Čemu pa potrebuješ? — povej!«</p>
+            <p>»Ah, to so zadeve ... važne vsekakor. V predalu imam denar.«</p>
+            <p>»Čemu neki potrebuješ sedajle denarja!«</p>
+            <p>»Ob šestih v polkovni restavraciji — še dobro uro je časa — ravno ob šestih moram prinesti petdesetak poročniku Plemlju — izgubil sem opoldne pri igri — nikdar več ne prisedem k igralni mizici! Danes zadnjič!«</p>
+            <p>»Saj sicer nisi bil nikdar igravec, kolikor je meni znano.«</p>
+            <p>»Seveda ne in tudi nikdar ne bom! Ali prinesti mu moram denar — točno — — drugače — niti misliti ni — za Boga! Brez denarja!«</p>
+            <p>»In kaj boš storil sedaj? A — a?«</p>
+            <p>»Imeti moram denar vsekakor, naj ga vzamem, kjer hočem! Strl bi gorenjo desko, a popraviti se ne bi dala več — in predalnik ni moj! Poslal bi strežnika po ključarja — kaj, ali ne?«</p>
+            <p>»Kje je prvi ključar? Ali je blizu?«</p>
+            <p>»V dveh bližnjih ulicah vem, da ga ni — kje naj bi bil, ko so pred hišami predvrti ob Ferdinandovi cesti kakor tudi na Nabrežju! Da, res — ne mogel bi mi odpreti ta čas — nikakor ne! — Jaz ne vem, kaj naj storim. Svetuj mi, če mi moreš, prosim te, Angela! Grozen položaj! Ko sem prišel včeraj po oni veliki burji domov, sem lepo zvil šop bankovcev in jih položil v veliko listnico!«</p>
+            <pb facs="#WIKI00123-017" n="17" xml:id="pb.017"/>
+            <p>»Kje drugod dobi za ta čas!« je zinila Angela, kateri se je Sturm čimdalje bolj smilil. »Pa brzo!«</p>
+            <p>»Kje?! Kam morem sedajle nenadoma planiti in zahtevati tako vsoto — kaj misliš!«</p>
+            <p>Sturm je pogledal na skrinjico, kjer je hranil orožje.</p>
+            <p>Potem se je zopet obrnil ter začel z velikimi koraki sobo meriti.</p>
+            <p>»Veš kaj, če ni drugače — morda ima mama ravno pri rokah toliko; pojdi z menoj domov, govorila bom že jaz z njo —« je dejala z mehkim glasom Angela.</p>
+            <p>Sturmu se je nekaj za ušesi pregenilo, in po licih mu je za trenotek šinil nasmeh, ki je izražal misel: Tako se je zgodilo, kakor sem pričakoval.</p>
+            <p>»Res! Glej, zakaj mi nisi že prej tega svetovala, pojdiva! Srečna misel!«</p>
+            <p>Sturm je oblekel dolgi, ohlapni plašč ter zaklenil vrata svojega stanovanja.</p>
+            <p>Na ulici je bilo že skoro popolnoma mračno, in gorele so že svetilnice.</p>
+            <p>Angela je jela tožiti, da je zdaj na večer postalo mraz; Sturm ji je uslužno popravil beli šal ter ga ji je bolj tesno privil k obrazku. Šla sta roko v roki. Svit njenih oči se je prav lepo ujemal s črnimi, dolgimi trepalnicami.</p>
+            <p>Po cesti so metali delavci lopate na vozove, preobložene s sneženimi, umazanimi skorjami, od katerih je curljala grda, rjava voda. Na oglu ulic so se razločevali posamični velikanski lepaki v rdečih, modrih, rumenih in mavričnih barvah: gledališki listi in vabila k plesom, katerih sezona se je bližala koncu. Prešla sta dve ulici, šla mimo banke »Dunav«, odkoder so prihajali uradniki, prihuljeno se držeč, s smodkami med zobmi; zatem sta zavila po ovinku na Javorjev dom.</p>
+            <p>»Če boš priden —« mu je dejala Angela še enkrat pred vrati in se šegavo zasmejala, kakor bi se hotela ponorčevati z njegovo dozdevno zadrego.</p>
+            <p>V sobi je pregledovala Javorica sama toaleto z zadnjega plesa. Prižgala je luč, ko je zagledala Sturma, ter vzela iz predala novce, ko sta ji on in Angela razložila položaj.</p>
+            <p>»Takoj jutri prinesem, milostljiva! Oprostite, da sem se predrznil nadlegovati vas s tako stvarjo — silna naglica in značaj stvari naj me opraviči, milostljiva!«</p>
+            <p>»Ali brez opravičevanja, gospod nadporočnik!«</p>
+            <pb facs="#WIKI00123-018" n="18" xml:id="pb.018"/>
+            <p>Sturm ji je poljubil roko ter odšel. Na stopnicah v prvem nadstropju je srečal starega Javorja, kateri je šel s težkimi koraki domov. Dihal je kakor stara cerkvena ura ter kašljal; raskavi obraz se mu je napenjal krčevito; bil je jako slab.</p>
+            <p>Takoj je zavil Sturm v polkovno restavracijo, naročil dobro večerjo ter plačal s petdesetakom. Kar mu je po računu ostalo denarja, je spravil ter odhitel z njim k znanemu oderuhu v Gosposko ulico, kateri ga je danes dopoldne imel že v škripcih, mu vrgel s srditim obrazom štiri desetake, prejel menico ter jo pred njim raztrgal. Po cesti pa se je navzlic svoji slabi volji smejal svoji igravski umetnosti; prepričan je bil o sebi kakor cesar Neron, da je velik umetnik — glumač.</p>
+         </div>
+         <pb facs="#WIKI00123-019" n="19" xml:id="pb.019"/>
+         <div xml:id="wv-IV.">
+            <head xml:id="head.4">IV.</head>
+            <p>»Ah, to vendar ni tako — ah, gospa — — jaz si ne morem misliti kaj takega.«</p>
+            <p>»Uh, oprostite, gospa, jaz bi pa skoro glavo stavila, da ni izmišljeno. Prosim, gospa Javorica, saj ste ga sami večkrat videli, kako preplašen je pribežal k vam v poset. Sama se spominjam, ko sem bila ravno pri vas, kako je bil popolnoma prepadel ... Kaj ne bi bil, prosim vas, draga moja! Vsak teden stoje po dva, trije upniki pred vrati in mu groze, da ga naznanijo.«</p>
+            <p>»Čudno, čudno!« je mrmrala Javorica, presenečena. »Grajščakov sin je s Češkega, bogate starše ima, ki lahko založe zanj, kolikor hoče; vse je obrekovanje, kar se govori o Sturmu. Jaz nisem še nikjer ničesar čula.« —</p>
+            <p>»Ali se gospod soprog že bolje počuti, če smem vprašati?«</p>
+            <p>»Soprog — soprog? Nikdar mi ni še tožil, da bi bilo kaj posebnega, bolj slaboten je bil pa vedno, kar sva poročena.«</p>
+            <p>»Ah, tako,« se je ugriznila Jančnica v ustnico; nekoliko jo je le veselilo, da je počasi vznemirila Javorjevo soprogo, ki je bila danes prišla po dolgem času zopet k njej v vas.</p>
+            <p>Obe gospe sta nekaj časa molčali. Javorica je opazovala opravo svoje prijateljice.</p>
+            <p>Salon bogate Jančnice je bil precej majhen, a visok. Po stenah so visele slike samih planinskih pokrajin v rjavih, grčavih okvirih; rožnata ampola se je zazibavala lahkotno nad mizo, pokrito z dolgim, pramastim pregrinjalom; vsa garnitura je bila temnordeča, in tudi stene so bile opete s tapetami iste barve. Skozi okna se je videlo na vrt gospe Jančnikove; ravno pod oknom je štrlel star oreh strahotno proti šipam.</p>
+            <p>»Da, že večkrat sem čula,« je začela iznova gospodarica, »da je ta nadporočnik dolžan po mestu veliko več, nego bi smel biti, in kakor sem že rekla, celo samim oderuhom — toda ne vem, če je vse res!«</p>
+            <p>»Jaz pravzaprav kar ne morem verjeti — da, pa čemu bi neki rabil?«</p>
+            <pb facs="#WIKI00123-020" n="20" xml:id="pb.020"/>
+            <p>»Oh, čemu bi rabil? Cele noči igra, in če izgublja, le mislite si, gospa — — pa ženske ima tudi take; no, jaz ne vem, če je vse res, kar se govori.«</p>
+            <p>»Čudno, toliko se menda ne izpozabi kavalir — gospa, pomislite, častnik iz boljše rodbine!«</p>
+            <p>»Bežite, bežite — to je prav lahko. Lani je imel celo mojo bivšo hišno tako-le, saj veste — kaj mu je neki zato! Seveda sem jo takoj odslovila. Še več jih ima, ne le eno naenkrat.«</p>
+            <p>Javorico je kar privzdigovalo.</p>
+            <p>»Celo tako nesramen je bil, da je pripovedoval, da ga jaz pogostoma vabim. Navadno je pa tedaj prišel, ko je vedel, da mene ni doma. In, gospa Javorica, čujte, nekoč sem ga pa celo pri njej zasačila ... Šla sem kar natihoma mimo teh-le vrat, ker sem zaslišala znotraj govorico in tlesk in premikanje stolov. Mislila sem, da je prišel stari stric, oni plešasti, s svojega posestva na Dolenjskem, pa da čaka mene v salonu in cmoka z ustnicami, kakor ima navado po jedi. Nisem pa hotela, da bi me motil, češ, prej naj se preoblečem. Šla sem v svojo sobo ter klicala njo: »Kati, Kati« in zopet »Kati, Kati,« kar sem mogla; pogledala sem še v kuhinjo, toda nikjer je ni bilo, niti ondi — — huj! tedaj pa stopim proti salonu, odprem vrata in vidim — Sturma na tem-le divanu, ravno tukajle, poleg njega pa njo.«</p>
+            <p>»Sturm se je seveda opravičeval ter prosil, da ne ...?«</p>
+            <p>»Škandala nisem hotela večati, radi svoje hiše ne; pokazala sem mu vrata, rekoč: »Tukajle, gospod Sturm, na cesto!« Kati sem pa poslala na Štajersko k sorodnikom za par mesecev, ali ti so jo kmalu odslovili.« —</p>
+            <p>»Kako vam pa ugaja, gospa, sedanja hišna?«</p>
+            <p>»Lena je kakor vse druge, takih mi pa vendar ne uganja, kakor jih je ona Kati s Sturmom. Ne morem za to, Bog ve, da ne! — Ali v gledališče kaj zahajate, gospa?«</p>
+            <p>»Ne mnogo, ne utegnem, in prenapeti patos igravcev mi je zoprn,« je odgovorila Javorica.</p>
+            <p>»Jaz pa grem skoraj k vsaki predstavi; no, patos — čitala sem v kritiki, da imajo glumci res navado, da govore prepatetično. Imam ložo, včasih koga povabim s seboj, Senderja ali koga drugega; kaj pa hočem sama — to vendar ni nič hudega.«</p>
+            <p>V tem je prišla hišna z belo čepico na kuštravi glavi.</p>
+            <p>»Pa res,« se je oglasila Jančnica, »danes popoldne sem se menila peljati nekoliko na deželo, samo tja in nazaj; vreme je precej gorko... <pb facs="#WIKI00123-021" n="21" xml:id="pb.021"/> Mari, teci po izvoščka! — Gospa, vi se popeljete z menoj — saj utegnete; v poldrugi uri bodeva zopet doma.«</p>
+            <p>»Ah, bodi torej; hvala vam, gospa!«</p>
+            <p>Obe prijateljici sta govorili še dalje o finem vedenju advokata dr. Jeriča, o njegovi gosti, črni bradi in o donečem glasu njegovem. Javorica je le bolj odgovarjala — očividno jo je bila potrla novica o ljubčku njene koketne hčerke; tembolj je pa zahajala poslančeva vdova konec vsakega stavka v višje sfere glasovnih oktav.</p>
+            <p>Ko se je ustavil voz pred hišo, je stekla Jančnica v drugo sobo gledat, če je že prišel izvošček.</p>
+            <p>»Je že tu!« je zaklicala uradnikovi soprogi. »Saj ima čas čakati, da se še napravim.«</p>
+            <p>In res je preteklo četrt ure, in še ni odrinil voz izpred hiše. Fijakar je hodil v obnošeni suknji po trotoarju; izpod podkovanih peta se je kar kresalo, tako je zakrevsal včasih.</p>
+            <p>»Vražje babnice gosposke,« je glasno zagodrnjal, ko se je vendarle prikazala na veznem pragu skrbno zavita okrogla Jančnica. Jedva polovico obraza se je videlo, prifrknjeni nos se je ščeperil med svetlimi očmi, a mišja ušesca so deloma zakrivali rjavi lasje. Za njo je stopila Javorica.</p>
+            <p>Voz se je izprva pomikal počasi, ker cesta ni še bila popolnoma suha. Peljali so se mimo visokih hiš, zatem so zavili na kamenit, obokan most, pod katerim je šumela umazana voda. Tuintam je vlekla stara ženica voziček butaric, poleg nje je pa capljalo po zmrzlem blatu otroče s kosmato kučmo, dasi bi mu je radi mraza že ne bilo treba. Po imovitejših hišah so imeli okna odprta, da so vetrili stanovanja.</p>
+            <p>»Pa počasi vozi — ne vem, ali je konj tak, kali,« je dejala poslančevka.</p>
+            <p>»Jaz tudi ne vem, kako je to; mogoče se fijakarju ne ljubi.«</p>
+            <p>»Pijan je,« je zatrdila Jančnica.</p>
+            <p>Po par ovinkih je zavila kočija v ožjo ulico, ob kateri je bilo mnogo prodajalnic. Kočija je pa počasi drdrala proti koncu mesta, kjer so se že začenjali med hišami vrtovi, ograjeni s črnikastimi krajniki. Kmalu se je odprl svet, in na desno in levo je bilo videti rjavo prst, s katere je bil jedva zlezel sneg. Pivnice, pred njimi golo drevje in jasli, v katerih je bilo tuintam zrno ovsa ali bilka krme, so se poredko prikazovale. Po blatnih jarkih ob cesti se je cedila snežnica, ki je solzela izpod travnikov in curela s ceste. V daljavi, sredi polja, je dvigalo tuintam kako drevo otožno veje proti nebu, <pb facs="#WIKI00123-022" n="22" xml:id="pb.022"/> po ledinah pa so se svetlikale luže, prav harmonizujoč z bledino, ki je sijala z neba, a najdalje tam na obzorju so se potezale komaj vidne črte rjavih klancev in hribov. Bilo je prav tiho in mirno, le kak vran je sfrfotal iz gostih smrekovih vej v goščavi, ki je rasla na desni strani ceste, ter zahreščal otožni »krakra«, zatem pa je padel dolg storž na zemljo. Niti veter ni vlekel po premrli ravnini.</p>
+            <p>»Kaj, ko bi pa le res bilo,« si je mislila Javorica — »in bi bil Sturm v istini tak propalica — — mogoče je! In ako bi ljudje izvedeli o škandalu pri Jančnici in o dolgeh — — oj, če bi izgubil službo — — ne, skoro ni mogoče. Pravil je vedno, da vzame Angelo, da je z očetom v najboljšem razmerju. — — Če bi hotel zvoditi Angelo, bi ji saj natvezel, da oče ne dovoli v zakon, da naj počaka, da umre, in da se šele potem zaroči z njo. Rekel je le, da hoče presenetiti starega očeta, in naj zato Angela o vsem še nekaj časa molči. Vsekakor ima Sturm še nekaj časti, tako zelo ni legal, ni!... Ali, kaj pa, če bi Jančnica govorila vse le iz zavisti; kako neki bi mogla ona poznati tako natanko vse razmere?«</p>
+            <p>Jančnica je bila med vožnjo že skoraj zadremala na mehkih blazinah, pri sunku, ko je kočija odskočila preko kamena, se je pa predramila in vprašala z zaspanim naglasom:</p>
+            <p>»Kako pa, da se nismo peljali mimo vojaščnice? — Da, gospa, oprostite, ali Angela še kaj občuje z onim Sturmom?«</p>
+            <p>To vprašanje je imela Jančnica že dolgo pripravljeno.</p>
+            <p>Javorica se je zgenila in počasi odgovorila, kakor bi se bala povedati resnico: »Še nekoliko.«</p>
+            <p>Kočija je ravno tedaj drsnila mimo belega znamenja, v katerem je stal zlat svetnik z neznanskim mečem.</p>
+            <p>Zopet je umolknila vdova ter zrla sanjavo v kočijažev hrbet, ki se mu je venomer zibal.</p>
+            <p>Javorica pa se je iznova zamislila; iznova so se ji začele težke misli poditi za nizkim čelom. — Kaj pa, če je vse res! Saj se da popraviti; pustiti bo moral Angelo ... če se pa morda ne da popraviti — in mogoče se res ne da, oj, da bi le stvar še ne bila pritirana tako daleč ...</p>
+            <p>Prepričana je bila za trenotek o krivdi Sturmovi. A če je že predaleč? ... Ali ni hodila Angela v poslednjem času večkrat sredi popoldneva k Sturmu na stanovanje in sama? Zakaj jo je pustila! In pa skupaj sta hodila sama, tudi zvečer, kaj, če dobi Angela — — dete!? Kaj potem, kaj poreče njen soprog, kije že sedaj tako slab! —</p>
+            <pb facs="#WIKI00123-023" n="23" xml:id="pb.023"/>
+            <p>Javorici je polagoma duh splaval tja nekam v daljavo, tja nekam, kamor pravimo nikamor; mislila ni na čisto nobeno stvar več.</p>
+            <p>Hipoma se ji je oglasilo nekaj v duši, in predramila se je: »Kaj poreko ljudje? Gotovo so že opazili, da je Angelino občevanje preintimno z moškim, mladim moškim ... morda se pleto govorice tudi o Angeli« ... Nekaj se je zasvitalo v Javoričini duši, in prednjo je stopil javni ugled ...</p>
+            <p>Že se je pa začel pred vozom dvigati zvonik z rdečo streho in z zlatim križem, in kmalu se je prikazal še cerkveni krov z mnogimi zarezami. Okoli cerkve, ki je stala na griču, so vstajala nizka poslopja s slamnatimi strehami med krivim, polomljenim sadnim drevjem. Javorica je pogledala sosedo na desnici ter ji hotela nekaj reči, a ta je sladko dremala, in le njen privihani nosek je piskal visoko melodijo »o jari kači«.</p>
+            <p>Voznik se je sedaj prvič obrnil rekše: »Tukaj so Strmine, ono je župna cerkev. Ali naj peljem še naprej?«</p>
+            <p>V tem hipu se je zdramila vdova, zaspano pogledala in se začudila, da se vozi v kočiji in da je dan.</p>
+            <p>Voznik je ponovil vprašanje.</p>
+            <p>»Obrnite,« je ukazala.</p>
+            <p>Pred vaško gostilnico je ustavil voznik in nakrmil konja. Dami nista hoteli iz voza, in zato je voznik kar zunaj izpil merico vina.</p>
+            <p>Iz hiše je med tem, ko je stala kočija, stopila družba treh gospodov. Plačali so še debelemu gostilničarju, potem pa zlezli po strmih lesenih stopnicah na cesto. Gledali so nekaj časa v kočijo, eden pa, slok, mlad mož, je stopil bliže ter pozdravil.</p>
+            <p>»Oh, gospod Semen, tukaj! Kako ste zašli danes sem v Strmine!« se je začudila Javorica.</p>
+            <p>»Uraden posel, milostljiva,« je dejal ter se damama priklonil.</p>
+            <p>»Ah, pa peš ste hodili, gospod koncipist! Kako to? Saj je pot menda slaba, jaz je sicer nisem videla,« je rekla Jančnica, kateri je prijateljica ravnokar predstavila Semena.</p>
+            <p>»Zakaj nas nič več ne posetite, gospod Semen? Včasih ste bili skoraj naš vsakdanji gost; premišljevala sem že, kaj vam ne ugaja. Dva meseca se odtegujete, kakor da bi bili popolnoma tuji ... meni je jako žal, gospod Semen.«</p>
+            <p>»Ah, nisem imel prilike,« je odnikaval koncipist ter si privihal kratke brke. Nikakor ni pričakoval takega vprašanja; saj ji je gotovo bilo znano razmerje med njim in njeno hčerko.</p>
+            <pb facs="#WIKI00123-024" n="24" xml:id="pb.024"/>
+            <p>»Posetite nas skoro zopet, pa gotovo. Z veseljem vas bo pričakovala tudi Angela ...«</p>
+            <p>»Hvala, milostljiva, hvala! Torej prihodnji teden. — Oprostite, gospe, sedaj pa moram za tovarišema,« in dolga zimska suknja je izginila za oglom, na katerem je visel dolg smrekov vršiček.</p>
+            <p>Tudi Jančnica je ukazala pognati proti mestu. Zopet so se vlekle one dolgočasne poljane brez konca, brez premembe, tako dolgočasne, da bi se človek skoraj zjokal. V Strminah je pa udarila ura štiri, in le-ti glasovi so se razlegali na polje.</p>
+            <p>Jančnica ni več zaspala, nego govoričila je prav neznosno po svoji stari navadi. Hotela je vedeti vse podrobnosti, izpraševala je za vsako družinsko stvar, slednjič se je mastila z novico o ubeglem vojaškem uradniku.</p>
+            <p>V mesto so se pripeljali po drugi cesti, ki je držala med visokimi topoli; tod je zapeljal voznik naravnost na trg sv. Jožefa in potem črez most pred hišo, kjer so stanovali Javorjevi. Jančnico je zahvaljevala Javorica ter jo vabila, naj jo kmalu obišče, da ji nekoliko povrne svoj dolg.</p>
+            <p>Ko je dospela poslančeva vdova domov, ji je srce igralo, češ, maščevala sem se nekoliko Sturmu, pravzaprav Angeli: »Pa naj še kdo poskusi pustiti mene na cedilu, jaz ga izplačam.«</p>
+            <p>A Javorica ni našla Angele doma. »Gotovo je že zopet šla s Sturmom — danes ji povem, kar mislim, kar je resnica. Če že poslančevka tako pripoveduje, je vsaj nekaj opravičenega, ker ne popusti niti za las; onega dneva ne počakam, ko nastane cel škandal — polom,« je godrnjala skozi bele zobe. »Ali ne bil bil boljši Semen,« si je mislila; »domač človek je, lep je tudi, o njem ne bi si upal nihče ničesar govoriti. Morda še pride, in potem je — naš. Sturma mora vsekakor Angela pustiti.«</p>
+            <p>Kmalu je pritekla domov Angela, ljubko se smejoč; v mufu je pa imela cel zavitek bonbonov, s katerimi sta se poprej sladkala s Sturmom.</p>
+            <p>»Ah, ah, mama, danes sem se pa res izvrstno zabavala, tako še nikdar ne — Edvard je ljubezniv, lep, duhovit, vse ima, prav vse...«</p>
+            <p>Mama ni vedela, kaj naj reče.</p>
+            <p>»Čuj, mama, celo popoldne sva pohajala. Bila sva v konditeriji, v restavraciji in v čitalnici, potem sva se peljala na Pristavo in nazaj. Ah, kako lepo je bilo! Vse gospice so mi zavidale; Edvard je pa tudi kavaiir, in pa rasti kakšne je, mama!«</p>
+            <pb facs="#WIKI00123-025" n="25" xml:id="pb.025"/>
+            <p>»Angela, Angela, bodi tiho,« je rekla Javorica z bolj strogim glasom, a kmalu je bila stara duša. Dobro se ji je zdelo, da hčeri zavidajo sovrstnice, kakor je sama pravila; končno se je pa docela potolažila ter se zatopila v prejšnje svoje iluzije, ki so jo ovijale kakor mehke tenčice, in kar ji je popoldne po opravljivem in tudi pretiranem govoru prijateljice Jančnice morilo dušo, se je razblinilo v pravi nič. Pozabila je, da je povabila Semena, pozabila je seveda tudi Angeli povedati, da pride, in pripravljala se je potem, kako sprejme prihodnji dan nadporočnika, če pride zgodaj zjutraj, kakor se je navadil v zadnjem času. Ni povedala, kar je čula od poslančevke, na Semena ni niti mislila ...</p>
+            <p>Ta pa ni zatisnil oči tisto noč dolgo časa. Utrujen je bil, ker je komaj dohitel uradnika - tovariša, in potem so korakali brzo, kar se je dalo. Po poti mu je vedno po glavi šumelo neko vprašanje: »Ali bi šel ali bi ne šel?« Že dolgo si je izkušal iz glave izbiti misel na Angelo — toda oglašala se mu je vedno neka strast, katera ga je gnala, da bi kar vse razgrizel, da bi prišel do nje, da bi izravnal ono čudno brezno, kamor so se valile vse simpatije in antipatije do Angele. Enkrat je bil že popolnoma na trdnem; prepričal je bil sam sebe, da Angela ni vredna, da bi jo on objel, ker ni prav nič drugega nego vsakdanja ženska. Preverjen je bil, da se oprime vsakogar, ki ji ume razburjati strasti. Neki večer ga je raztogotila. Dolgo je potem ni videl, parkrat jo je sicer pozdravil na ulici, a gledal je v tla. Drugikrat zvečer, ko jo je videl z Sturmom stati pred razsvetljeno izložbo, bi bil oficirja najrajši butil pri tej priči, tako ga je bilo razjadilo ... Potem je hodil oni večer dolgo po gostilnicah ter pil neznansko dosti; šel je tudi dvakrat mimo Javornikovega stanovanja ter klel, grozno klel ... Z Javorico je sicer govoril, a ni ga vabila, ni mu rekla, zakaj ne pride. Pa saj bi tudi ne šel nikdar, nikakor! A danes? Dva dni mu zopet ni dalo miru. Bog ve, ali je ni Sturm že ...? Kako, da ga vabi Javorica sedaj kar nenadoma ... Angelo bi kar zadavil! ...</p>
+            <p>Burne misli so se podile Semenu po glavi, ko je stal zvečer doma v sobi, in prijel se je za glavo ter zmočen glasno dejal: »Da sem ravno jaz tak — drugi so vendar včasih pametni; nikdar še nisem čul, da bi kdo tako počenjal kakor jaz. Včasih se kar sam sebe bojim. Sem li podedoval to — bolezen? Mati moja je bila najlepša žena in najkrepkejša mati, kar sem jih poznal ...!«</p>
+            <p>V tem se je naredil v Semenovi sobi trd mrak. Le z ulice so lili posamični mehki prameni skozi okna ter se lizali po temnih <pb facs="#WIKI00123-026" n="26" xml:id="pb.026"/> zavesah. Koraki so odmevali po kamenitem tlaku, in vrata so se zapirala okoli in okoli njegovega stanovanja, nad njim in pod njim. Semen je zgrabil zimsko suknjo, obšito s kožuhovino, pa vzel cilinder in debelo palico in oddivjal, ne da bi bil za seboj zaklenil. Po temnih stopnicah se je lovil na roke ob zid, ker še ni bilo razsvetljeno, a hitel je, kar je mogel. V glavi mu je vrelo vprašanje: »Ali bi šel ali bi ne šel?« ... Včasih jo zajecljal sam sebi: »Zakaj sem ravno jaz tak ...«</p>
+            <p>Neznanska moč ga je gnala dalje in dalje.</p>
+         </div>
+         <pb facs="#WIKI00123-027" n="27" xml:id="pb.027"/>
+         <div xml:id="wv-V.">
+            <head xml:id="head.5">V.</head>
+            <p>Neko aprilsko noč proti jutru je potrkala na okno pri Javorju bela smrt s koščenimi prsti prav rahlo in potihoma.</p>
+            <p>Zjutraj je šele opazila Javorica, da ni šel soprog v pisarnico, in je hitela gledat, kaj mu je; spal je namreč v sosednji sobi in si je vsako jutro sam kuhal čaj na samovaru. Rolete so bile še spuščene, in Javorica ni razločila, ali soprog spi ali le leži. Šele ko je posvetil dan v sobo, je odskočila, meneč, da ga lomi krč. Prijela ga je za roko, pa bila je mrzla in trda ter se ni dala premekniti. Glava mu je ležala daleč nazaj sklonjena, zakopana v blazine, brada pa, katero so preprezale že goste srebrne niti, je štrlela kvišku; telo je bilo skoro nepremično, le desnica je bila, kakor bi se hotela oprijeti posteljne končnice.</p>
+            <p>Gledala ga je nekaj časa, potem se ji je oglasilo v srcu: mrtev je. — Odhitela je brez misli, mehaniško v sobo, kjer je Angela še snivala. Ustavila se je med vrati ter strmela predse, ne vedoč, ali bi kaj rekla ali ne, nato se je pa zadela ob stol, da je padel ter provzročil ropot. Hčerka se je prebudila ter se hotela baš znesti radi materine nerodnosti, ker jo moti v spanju, momljaje: »Kaj hočeš? Pusti me spati!«</p>
+            <p>Tedaj je odgovorila mati z monotonim glasom: »Umrl je.«</p>
+            <p>Angela je ni razumela, zato je mati ponovila: »Umrl je po noči, slišiš!« Sedaj se ji je beseda malce tresla.</p>
+            <p>Angela se je preobrnila na ležišču ter vprašala malomarno: »Kdo — umrl?«</p>
+            <p>»Papa — popolnoma je trd.«</p>
+            <p>Beseda »papa« je elektrizovala malo koketo, in nekaj jo je sunilo v prsih; skočila je izpod odeje ... »Papa — umrl — utrinja se ti, mama, ne zameri,« in odhitela je v nočni obleki gledat.</p>
+            <p>Ko se je približala mrliški sobi, je počakala nekoliko na pragu, in ko je videla mučni prizor na postelji, se ji je spustilo nekaj po vratu; grozno grenkobo je nato začutila v ustecih, in hotela je iz v strahu zbežati, pa skoro se ni mogla geniti. Šele, ko je prišla mati, <pb facs="#WIKI00123-028" n="28" xml:id="pb.028"/> se je ujunačila ter se začela bližati mrtvemu roditelju ... Verjela je šele sedaj, da ga ni več med živimi.</p>
+            <p>Obe sta odšli iz sobe preplašeni; loteval se ju je čimdalje večji strah pred smrtjo. Stopili sta v sosednjo sobo in začeli pospravljati. Hipoma se je pa Angela kar zgenila in trepetaje je vprašala mater, je li zaprla očetovo sobo. Ta ji je zatrjevala, da jo je, Angela je pa hotela, da gresta gledat, če jo je res — sama si ni upala iti.</p>
+            <p>Stekli sta v svojo spalnico, se nekoliko opravili ter brzo šli iz stanovanja v pritličje k stari, brezzobi ženski, katera je zdela neprestano v cerkvenih klopeh z velikanskim molitvenikom poleg prižgane sveče.</p>
+            <p>Butnili sta v čumnato, iz katere je zapuhtel vlažen, gorak in pokvarjen vzduh; starka je bila slučajno doma.</p>
+            <p>»Oh, Liza, Liza, kaj se je zgodilo — pri nas po noči! Oh, usmiljeni Bog, strah naju je.«</p>
+            <p>»Hvaljen bodi Jezus Kristus — ali je gorelo?« Imela je pri tej priči zamazani molitvenik v roki ter hotela oditi, pri tem je pa rinila pred sabo Javorico ven.</p>
+            <p>»Papa je — umrl,« je zunaj zacvilila Angela.</p>
+            <p>Starka je široko odprla brezzobe čeljusti in čudeč se vprašala: »Ali so bili gospod prevideni?«</p>
+            <p>»Po noči je umrl; šele zjutraj ga je našla mama mrtvega,« je hitela Angela.</p>
+            <p>Ženica se je zgenila, pomajala z ogromno glavo in pristavila: »Bog jim daj večni mir in pokoj,« potem je pa prekrižala roke.</p>
+            <p>»Liza, kaj naj počnem, kaj naj storim?!« je izpregovorila Javorica vsa iz sebe.</p>
+            <p>»Vdova so zdaj, gospa; v božjo voljo se moramo pač vsi vdati, radi ali neradi.«</p>
+            <p>»Svetujte nama, svetujte,« je hitela nervozno Angela.</p>
+            <p>»A — kar k Sv. Andreju bo treba sporočiti, bo že cerkovnik oskrbel pogreb in svete maše. — Oj, ubogi gospod, še prevideni niso bili — ne bila bi rada na njih mestu. Bog nam daj srečno zadnjo uro in večno zveličanje; vsi ga niso deležni.«</p>
+            <p>Starka je brezbrižno odkrevsala pod otemnelimi obloki v cerkev, šepetaje z zabreklimi ustnicami. Angela in mati sta ostali sami.</p>
+            <p>»Jaz pojdem k Sv. Andreju — pa vprašam po cerkovniku,« je rekla Angela, ker se je bala zopet iti k mrliču; naposled sta pa obe odšli.</p>
+            <pb facs="#WIKI00123-029" n="29" xml:id="pb.029"/>
+            <p>Cerkovnik pri Sv. Andreju je prišel proti poldnevu k Javorjevim. Tačas sta bili pa Angela in mati že okolo treh znank. Skoro srečali sta se s cerkovnikom na stopnicah. Ko je ta odprl sobo, kjer je ležal mrtvi uradnik, se je oglasila vdovi zopet zavest, da je njen mož mrtev. — Zdaj je šele spoznala, da ga odneso, da nikdar več ne prikrevsa hropeč po stopnicah ter zleze v svoj kot, ne meneč se zanjo, niti za hčer, in zajokala je; njen tenki glas je pa odmeval od starih sten tako čudno in nenavadno, kakor bi se v tej hiši nikdar ne glasil jok — jokala je z ono naivnostjo, kakor če vzameš otroku igračo. In Angela je zrla na svojo še vedno brhko mater, in zasmilila se ji je.</p>
+            <p>Cerkovnik je pa šel v sobo ter preoblekel Javorja v črno salonsko obleko, ki je po poroki ni bil več oblekel.</p>
+            <p>»Bomo peljali v mrtvaščnico k Sv. Andreju?« je vprašal surovo cerkovnik.</p>
+            <p>Javorica mu je zmedena odgovorila: »Kakor veste.«</p>
+            <p>In res, za eno uro so prišli z vozom in pripeljali črno krsto s seboj; vanjo so položili mrtveca, ki je strmel s steklenimi očmi v strop, in jo pahnili v črni voz. Skozi odprto okno je pihal sever v sobo ter izganjal iz nje neki neprijeten vonj, ki se je začel razširjati.</p>
+            <p>Javorica je prišla iz svoje sobe ter se čudila, da so odpeljali mrliča v mrtvaščnico; ihtela je in se jezila, češ, saj bi imel vendar tukaj prostora.</p>
+            <p>»Sama si ukazala, mama,« jo je tolažila Angela; »slišala sem, ko te je oni vprašal.«</p>
+            <p>»Popolnoma sem zmedena; pa da bi saj doma ležal na odru, najbolj mi je to hudo.«</p>
+            <p>»To je pač vse eno. Pazila bi bila, mama; jaz ne morem pomagati, ko je prepozno.«</p>
+            <p>Pozneje je prikrevsala stara Liza ter hotela Javorja pokropiti; presenečena se je vrnila.</p>
+            <p>Proti trem popoldne sta šli obe na grobišče. Oblekli sta bili črni toaleti, ki sta ju imeli še od lanjskega leta, ko je umrl Javoričin svak, poštar in posestnik v bližnjem trgu.</p>
+            <p>Po prašnih mestnih cestah je pihal še vedno kakor zjutraj mrzlikasti sever ter zanašal okoli oglov impozantnih trinadstropnih hiš z vretenastimi stolpiči prah, papir, perje ... Na cerkvenem pragu pri kapucinih se je stiskal velikanski, črnosiv pes k vratom; otroci so ga drezali z nogami, velika mrcina se pa še zmenila ni zanje, nego venomer prihuljeno iztegovala vrat. Solnce je pokazovalo kroglasto <pb facs="#WIKI00123-030" n="30" xml:id="pb.030"/> lice izza sivih megel ter dajalo obupanim filistrom prve upe bodočih gorkih dni, ko ne bo treba kuriti mrzlih stanic. Ob Pokopališki cesti so stale na lesnih skladiščih lesene lope, pred njimi so se spenjali visoki, vitki topoli proti nebu, s svojimi šibkimi vejami proseč nečesa, česar ni najti v cestnem prahu, ki se je z neznanskim veseljem podil okoli hrapavih debel.</p>
+            <p>Javorica je hodila prav malomarno ter zrla vedno proti tlom, kakor bi jo hotelo biti sram, da ji je umrl soprog, Angela je pa opazovala s črnimi, od bedastoč blaziranimi očmi mimo idoče častnike, meneč, da sreča Sturma. Niti zmenila se ni, da gre na kraj, kjer leži njen roditelj, ki se je trudil zanjo in vedno mislil, kako bi se izognil hrupnim nastopom in pregnal bojazen pred lastno hčerjo in soprogo.</p>
+            <p>Grobi so bili še popolnoma zapuščeni, ker je sneg baš zlezel z njih; ciprese in tuje so stale v slamo zavite nalik strašilom med žitom, in spomeniki so bili tuintam obdani z lesenimi zaboji, da ne bi popokali v strupenem zimskem mrazu. Po vsem grobišču je vladala tihota, prav tiha tihota, katera dela človeka nervoznega.</p>
+            <p>Ko je stopala Javorica s hčerjo proti mrtvaščnici v nasprotnem kotu ob zidu, se ji je začelo nekaj oglašati v duši; začutila je, da se je minolo noč zgodilo nekaj važnejšega, nego kadar gre z Angelo na ples. Počasi so ji začela vzdrhtevati čuvstva, in ko je stopila pred zaprto mrtvaščnico in zagledala od daleč skozi šipe trepetajočo svečo, tedaj je začutila bolest, obšlo jo je čuvstvo, kakršno jo zadnja leta niti v sanjah ni vznemirjalo, a to bolest je občutila v srcu, globoko v srcu. — Hotela je pritisniti na kljuko — skoro ni imela toliko moči — odprl ji je pa star, sključen dedec z modrikastim nosom, ki je prilezel iz nekega kota v mrtvaščnici. Javorica se ga je tako ustrašila, da je Angelo s hrbtom odrinila. Dedec je pa zarenčal s hripavim glasom: »Ali hočeta kropiti?« ter izginil nekje za oglom.</p>
+            <p>V tem je zagledala vdova soprogovo krsto na kameniti mizi. Strahotna se ji je bližala in zapazila, da leži Javor v družbi s staro, izsušeno ženico, ki je s koščenimi, orumenelimi rokami stiskala črn križec, in s komaj rojenim detetom, kateremu se je komaj poznalo, da je človeško bitje. Angela si je s parfumiranim robcem mašila nosek in se branila neokusnim mrliškim duhovom, vsled katerih je bil strop kar rumen ter se je zamazano svetil.</p>
+            <p>Javorjev obraz se je bil že precej premenil; oči so se mu že pričele vdirati, da je obličje dobivalo oduren izraz.</p>
+            <p>Javorica je zrla nekaj časa nepremično na mrliča in ga poškropila. In zopet se ji je začel vračati neki strah; kar zbežala bi <pb facs="#WIKI00123-031" n="31" xml:id="pb.031"/> najrajša, a čutila je čimdalje bolj one železne, nepremične okove, v katere jo je bila kar črez noč vkovala smrt zakonskega moža.</p>
+            <p>Angela se je pa že naveličala; poškropila je sicer očeta, še skoro na jok se ji je storilo, češ, da bi le nihče ne videl, da leži njen roditelj v taki družbi z babnico, katera je morda še prosjačila — smejal bi se ji vsakdo ... Zopet se je zamislila na Sturma ter si dejala: »Gotovo pride izrazit sožalje; saj je najbrže zvedel, da je umrl oče.«</p>
+            <p>»Mama, pojdiva — slišiš — pojdiva!« je rekla slednjič, ko ji je že silil zoprni duh v usteca. »Papa je itak mrtev, ne čuti takorekoč ničesar.«</p>
+            <p>Javorica se je res počasi premeknila ter šla drsajočih korakov za hčerjo; vrata sta pustili odprta, da je sever bril mrtvece po spačenih obrazih in upihoval sveče, katere so svetile v mračnem prostoru. Ugasil je tudi svetiljko pred velikim razpelom, v katero so bili mrliči obrnjeni.</p>
+            <p>Domov prišedši, sta hodili ena za drugo iz sobe v kuhinjo, iz kuhinje v sobo in naposled sta obsedeli v svoji spalnici, druga nasproti drugi. Malo sta govorili, mislili še manj, le Javorici se je včasih premenila ona osuplost, ki jo je občutila takoj ob smrti, v sočutje, katero jo je prevzelo na pokopališču. Bali sta se večera, bali noči, katera je imela zanju sedaj nekaj groznega ...</p>
+            <p>»Kako da se danes še nihče ni oglasil?« je boječe vprašala hči.</p>
+            <p>»Ah — jaz ne vem — čudno se zdi tudi meni — menda še ne vedo vsi o smrti, ki naju je zadela,« je odgovorila mati.</p>
+            <p>»Mama, saj res ne vedo; kje naj bi zvedeli! Veš, inserirati bi morali dati pogrebni list — zakaj se nisva prej spomnili!«</p>
+            <p>»Pozabila sem; saj ti pravim, vsa sem zmešana.«</p>
+            <p>»Cerkovnik gotovo ne oskrbi tega. — Zakaj nisva naročili pogreba pri pogrebnem zavodu?«</p>
+            <p>»Pusti me, Angela, s temi malenkostmi! Meni se ne ljubi o tem govoriti, rajši molčiva; jaz nisem vsega kriva ...«</p>
+            <p>»Jutri pride morebiti kdo kondolovat,« je dejala hčerka. Javorica je molčala ter počasi vezla; obe sta bili kakor prirasli k stoloma. Večerjali sta le salamo, ki je ležala v jedilni shrambi.</p>
+            <p>V mraku pa, ko se je začel krčiti dan in so se na stropu zarisavale sence, je menila Javorica, da čuje stopinje in globoko kašljanje v sosednji sobi, kjer je umrl Javor. Skrbno je še enkrat poskusila, ali je spalnica dobro zaklenjena, predno sta šli spat, pa tudi <pb facs="#WIKI00123-032" n="32" xml:id="pb.032"/> pod odejo se je mati včasih zdrznila, kot bi jo polil po hrbtu z mrzlo vodo.</p>
+            <p>Zjutraj sta čutili obe nenavadno žejo in zato sta pili čaj mesto kave. Kmalu po zajtrku pa je prirogovilil po stopnicah cerkovnik Sv. Andreja ter zavpil najprej v prazno Javorjevo sobo, da bo pogreb ob petih popoldne. Nato se je pojavila na pragu Angela, in njo je vprašal, kam naj raznese pogrebne liste, ki so bili šele davi dotiskani.</p>
+            <p>Mati se je čutila nekako bolno, nič se ji ni ljubilo; hčerki je celo rekla, da bržkone ne pojde niti k pogrebu.</p>
+            <p>Po enajstih je pa prišla Jančnica v elegantni mantilji. Uradnikova vdova je povedla prijateljico v veliko sobo, v kateri je stalo par foteljev.</p>
+            <p>»Ah, ah,« je pričela poslančevka, »kaka nesreča! Včeraj še živ, danes mrtev in — tako priljubljen človek, tako dober in skromen — gospa, jaz žalujem z vami ...«</p>
+            <p>»Hvala, hvala, da ste se naju spomnili; sočutje saj nekoliko potolaži srce in ublaži nesrečo.«</p>
+            <p>»A pogreb?«</p>
+            <p>»Popoldne ob petih, gospa.«</p>
+            <p>»Pa čudno — tako naglo je pobralo gospoda soproga! Kašljati sem ga čula sicer vedno, pa menda ni bilo nevarno ...«</p>
+            <p>»Kašljati!« sedaj se je spomnila Javorica, da je soprog res že nad leto dni močno kašljal, da je polegal po zofi ter da je bil popolnoma apatičen, ako je bil kdaj brez večerje, ko je odšla ona z Angelo in Sturmom pred časom na izprehod in se vrnila šele pozno zvečer. Kašljal je pač vedno, nikdar pa ni tožil — saj je bil tako sam svoj; sploh je govoril doma kaj malo, drugod pa menda še manj.</p>
+            <p>»V poslednjem času sem ga videla tuintam, ko je čital nabožne knjige — meni se je to zdelo jako čudno,« je opomnila Angela. »Zdi se mi, da je hodil celo k izpovedi, kajti v postu sem čula včasih ropot v njegovi sobi.«</p>
+            <p>Ker se je Javorici obraz nekam požalostil, je ubrala Jančnica druge strune, zlasti ker se ji je zazdelo, da se itak preveč vtika v rodbinske razmere, katere ji niso nič mari.</p>
+            <p>»Torej, gospa, za poletje sem že dobila ponudbo za letovišče v popolnoma planinskem kraju, v vili nekega bankirja. Doma imam fotografijo vse okolice; bila je priložena ponudbi.«</p>
+            <p>Angela je postala živahnejša in je radovedno vprašala:</p>
+            <p>»Je li jako romantično?«</p>
+            <pb facs="#WIKI00123-033" n="33" xml:id="pb.033"/>
+            <p>»Seveda, gospica. Okoli in okoli kipe zasneženi vrhunci Alp, pod njimi pa raste gosto borovje in smrečje, in ta galerija obdaje dolinico, ki je pravi kotel, nad katerim se razpenja visoko gori le nebo. Kraj je samoten, v okolici pasejo planšarji goved, a vila je na novo sezidana in lepo odičena s klasičnimi kipi; poleg vile je pa tudi samoten, tih park, katerega že par let ni nihče uporabljal. Studenci teko mrzli kakor led.«</p>
+            <p>»Kar vzemite, gospa, če ni cena previsoka; gotovo je krasen kraj,« je živahno dejala Angela.</p>
+            <p>»Pa tudi zdrav,« je pristavila sedaj Javorica. »Čestitam, gospa, prijetno bo; mestne vročine ne boste čutili in ne dihali prahu.«</p>
+            <p>»In vi, gospa, ali ste že kaj izbrali? Najamete li tudi kje v gorah ali rajši v okolici kakega trga?«</p>
+            <p>Javorici se je zdelo to vprašanje izprva samo čudno, potem jo je pa zabolelo. Nikdar še ni bila na letovišču s hčerko, le za kak teden je šla k sorodnikom v bližnji trg, a z njimi je bila že skoraj leto dni razdvojena. Spoznala je ironski naglas Jančničinega vprašanja, in to jo je speklo. Mesto nje je odgovorila brzo Angela.</p>
+            <p>»Mama ni še nič o tem mislila. Ah, za naju je še dovolj časa; minila je komaj Velika noč, in sedaj še ni čutiti neznosne vročine ne sopare.«</p>
+            <p>Ko se je Jančnica začela odpravljati, češ, da noče dalje motiti, je vprašala vkljub temu, da si je že prvič zapomnila, še enkrat, kdaj bo pogreb.</p>
+            <p>»Ob petih,« je odgovorila Angela.</p>
+            <p>Na cesti se je ozrla Jančnica na okna v nadstropju, kjer so stanovali Javorjevi, in na svetlo lice ji je priplaval lahen smehljaj ter ji zarezal nad ustnicami dve zlobni črti. Očividno je privoščila poslančevka katastrofo, ki je bila zadela mater in hčer ter ju uničila popolnoma. Pa Sturm sam je tudi zadet s tem — njen nekdanji ljubimec, ki jo je sramotno izdal, in ki bi ga rada zadavila kakor nje debela kuharica kokoš. In Angela, ona Angela, ki je uživala vso slast, kolikor je more dati Sturm, in radi katerega ji je zavidala ter črtila to koketno gospico — ona je sedaj uničena ... Jančnici je zopet nekaj poskočilo v prsih, in da ni bila na cesti, bi se bila glasno zasmejala škodoželjnosti. Prav, prav, si je mislila.</p>
+            <p>Ono dopoldne pa ni prišel k Javorjevim vkljub slutnji debele, osvetljive vdove poslančeve nihče drugi izrazit sožalja. Zaman sta čakali obe zapuščenki do opoldne, in šele tedaj je začela mati pripravljati kosilo.</p>
+            <pb facs="#WIKI00123-034" n="34" xml:id="pb.034"/>
+            <p>Kmalu po obedu je prišla ona Liza, da bi zvedela, kdaj bode pogreb. Ko sta ji povedali, je grdo pogledala, poropotala z molkom in izginila zopet zdihujoč v oblokano luknjo v pritličju.</p>
+            <p>K pokopu se je odpravila vendar tudi vdova Javorjeva. Skoro pol ure prekmalu je dospela s hčerjo na grobišče.</p>
+            <p>Po dolgem času je prišel odpirat vrata oni sključeni starec, katerega sta prejšnji dan naleteli pri mrličih v mrtvaščnici. Duh, ki je zdaj puhnil iz nje, bi bil obe skoro vznak podrl. Le od daleč sta še pogledavali soprogovo in očetovo obličje, katero je bilo že popolnoma neznano. Stare ženice ni bilo več v mrtvaščnici, le poleg otročička je še brlel majhen košček sveče.</p>
+            <p>Pred mrtvaščnico se je nabralo že nekaj ljudi, ki so hoteli spremiti Javorja do jame, kjer bodo počivali njegovi zemeljski ostanki. Bile so večinoma ženske v rdečih in temnih rutah. Stale so v majhnih gručah ter pogledovale vedno in vedno na vdovo in na hčer ter govoričile glasno, kar se je dalo, ali so pa prebirale napise na bližnjih kamenih, ugibajoč imena počivajočih. Liza iz pritličja je stala sredi ženic, katere so imele vse v rokah molke, ter jim razlagala smrt Javorjevo, češ, ni čudno, če človek umrje, ako ima tako ženo in tako hčer. Moških je bilo malo. Pozneje so prišli v cilindrih in črnih oblekah kolegi Javorjevi, med njimi celo šef. Z Javorico ni bil nobeden navzočnih uradnikov toliko znan, le šef je k njej pristopil in ji izrazil sožalje. Pravil ji je, kako prisrčen njegov prijatelj je bil rajnik, ter ji zatrjeval, da ni njemu nič manj bridko nego njej, soprogi Javorjevi. Prišla je pa tudi Jančnica ter se pridružila Javorici.</p>
+            <p>Ura je odbila pet v prihuljenem zvoniku sv. Andreja, in starikav duhovnik je počasi prikorakal. Nosači so začeli zabijati rakev. Ti udarci so provzročili vdovi neko bol, da je prav milo zajokala in potegnila črno rutico iz žepa ter začela brisati solze, ki so ji kapljale po lepem, zadnja dva dneva močno uvelem licu. Tudi Angela si je otirala solze. Stopila je materi na levo ter začela pogrebce očetove natančno motriti; gledala je, je li prišel Sturm; iskala ga z očmi med gospodi in med gručo drugih znancev, toda vojaške uniforme ni opazila.</p>
+            <p>Rakev so postavili pred mrtvaščnico ter položili nanjo par vencev, katere so poklonili kolegi Javorju, in enega, ki ga je bil naročil cerkovnik mesto Javorice. Duhovnik je snel črni baret ter zapel z žalostnim glasom latinski napev in zmolil očenaš za dušo pokojnikovo, poškropil Javorja z blagoslovljeno vodo in ga pokadil s kadilnico. Dim se je kadil skozi nizka vrata v mrtvaščnico ter jo polagoma napolnil.</p>
+            <pb facs="#WIKI00123-035" n="35" xml:id="pb.035"/>
+            <p>Nato se je izprevod začel premikati med grobovi. Za krsto je stopala vdova ter jokala, resnično jokala s hčerjo, katera je pa le bolj opazovala vso stvar, milujoč očeta, da ima tako skromen pogreb. Odzadaj se je čulo mrmljanje ženic, ki so molile za rajnikovo dušo, in to godrnjanje se je zdelo, kakor da hoče prepoditi pare, katere so dvigali solnčni žarki iz še mokre zemlje med grobovi.</p>
+            <p>Izprevod je zavil na vzhodno stran prostranega pokopališča ter se ustavil pred izkopano jamo. Kopači so na vrveh spustili krsto v globino. Vdova je zopet glasno zajokala, in celo nekatere preproste ženice v ozadju so si brisale solze. V prihuljenem zvoniku je turobno klenkalo, in duhovnik je opravil molitve za dušo rajnikovo in za vse, ki počivajo na pokopališču. Po molitvi se je župnik pokril z baretom ter odšel s cerkovnikom. Nosači so pometali nekaj vencev na krsto, pogrebci so pa začeli metati prst v jamo kot v spomin pokojniku. Nekaj pobožnih ženic je imelo s seboj steklenico blagoslovljene vode sv. treh kraljev, in to je ena vlila, da je v dolgem curku tekla v grob.</p>
+            <p>Javorica je nekaj časa to od daleč opazovala, Jančnica je pa medtem že izginila, in ko se je uradnikova vdova zavedela iz žalosti, je stala le še hči poleg nje in ji venomer govorila: »Mama, pojdiva, da se ne boš še bolj žalostila — pogreb je že minil.« Mati pa ni hotela oditi, dokler niso prišli hlapci z lopatami ter začeli zasipati jamo.</p>
+            <p>Domov prišedši, sta se dolgo razpravljali. Uboga Javorica je v prižgala luč, sedla za mizo ter strmela predse. Čim dalje je mislila, tem bolj je postajala otožna, tem bolj jo je skelelo okoli srca, in zajokala je zopet prav milo, z ono bolestjo in notranjo žalostjo, ki je prirojena le ženskam. Angelo je materin jok dirnil; kar zgenila se je in je zaprosila, naj nikar po nepotrebnem ne plaka, ker tudi njo razburja jok, da trepeče po vseh živcih.</p>
+            <p>»Saj ti je vse eno, mama; pomiri se,« je prosila zopet.</p>
+            <p>»Angela, ti nič ne misliš; pusti me!«</p>
+            <p>Zamislila se je iznova. Prišla ji je na um Jančnica, ki se je danes pri pogrebu tako malo zanjo zmenila, da se je kar meni nič, tebi nič odstranila. Spomnila se je njenega vprašanja, če pojde kam na letovišče — vstala ji je v duši slika ozke, samotne dolinice — spomnila se je nje ironije, in hipoma ji je kar završalo po zmučeni glavi. Kdo bi neki dal denarja, kdo bi neki plačal najemnino za kako vilo — in ravno to, se ji je zdelo, je hotela reči Jančnica s svojo ironijo ... Javorici je bilo, kakor bi se potapljala v majhnem <pb facs="#WIKI00123-036" n="36" xml:id="pb.036"/> čolnu v globok, temen ribnik. Zavedela se je šele sedaj docela, da je uničena, popolnoma uničena gmotno. Sedaj je izprevidela, da je oni, ki je nosil stotake domov, šel odtod, in da jih v bodoče ne bo prinašal nihče več. Začutila je, da je pahnjena med beraško kasto ... Šele sedaj se je tega domislila! Zdelo se ji je, da ima sapnik prerezan, in onesvestila se je.</p>
+            <p>Angela, ki je ravno gledala svojo fotografijo izza zadnjega koncerta, na katerem je pela kratek solo, je vzkriknila in zagrabila v naglici mater, da ni padla s stola, pa jo začela klicati:</p>
+            <p>»Mama, oh, mama, kaj ti je? — Ne plaši me — ali naj grem po zdravnika?«</p>
+            <p>Mati je pa zajecljala, naj ji da vode. Pila je v dolgih požirkih in se slednjič deloma zavedela. Gledala je hčerko s steklenimi očmi in pravila, da je uničena, da ji ni živeti, da je bolna, ter jo prosila, naj ji pomaga v posteljo, ker sicer se zgrudi še enkrat na tla.</p>
+            <p>Angele se je lotil strah, da izgubi še mater, ki jo je sicer bolj ljubila nego očeta; saj ji je mati vedno pritrjevala, jo vedno negovala in jo hvalila in — ni čuda, da ji za očeta ni bilo čisto nič.</p>
+            <p>Hude sanje so nadlegovale vdovo po noči. Zmedeni prizori so ji blodili po glavi, vse megleno, brez zmisla in zveze, in ko se je bila zjutraj prebudila, se ji je zopet oglasila ona skrb, zopet je spoznala, da je uničena. Planila je z ležišča ter šla gledat v omaro; imela je še tri desetake, katere je pokazala Angeli.</p>
+            <p>»Ali ti je Sturm že vrnil petdesetak?« je Angela vprašala malomarno.</p>
+            <p>Javorico je vnovič zaskelelo; res, sedaj je šele videla — oh, zakaj se ni prej spomnila! — da je Sturm v istini tak, kakršnega je slikala Jančnica ... Že mesec dni je minilo, in še ni vrnil; če bi bil imovit, bi ga ji bil drugi dan prinesel — a ona si mu še opomniti ni upala ... Gotovo ni imel tedaj denarja, pa ga ji je izvabil na tak sleparski način.</p>
+            <p>»Ali je bil Sturm včeraj za pogrebom, ali si ga kje videla?« je vprašala mati Angelo.</p>
+            <p>»Ne,« je Angela odgovorila počasi; »gledala sem, pa ga ni bilo.«</p>
+            <p>Javorica je molčala. Ravnanje Sturmovo jo je še bolj ogorčilo. Ha, ha! Res, slepar je — sedaj se niti ne prikaže; sožalja ni prišel izrazit, denarja tudi ni prinesel, denarja, katerega ji je uplenil. Norčeval se je iz Angele, samo norčeval; sedaj, ko ve, da bi ga opomnila, naj brž preskrbi kavcijo ter naj se zaroči z Angelo, sedaj ga še blizu ni. Ali ni to slepar? Kaj, da bi se samo norčeval iz Angele — popolnoma <pb facs="#WIKI00123-037" n="37" xml:id="pb.037"/> jo je pokvaril! ... Pokvaril, on? Sama jo je tudi nekaj pokvarila; zakaj jo je pustila, da je toliko občevala s častniki, zakaj ni pazila nanjo? — V srcu jo je zabolelo, tako zabolelo, da je skoraj zavpila.</p>
+            <p>Pokvaril jo je. Kam bo z njo! ... sedaj, sedaj, ko nima prav ničesar, ko nima niti — mesečnih dohodkov. Spomnila se je svoje mladosti, v glavo ji je šinila slutnja: Gotovo je Angela razvpita, ker je toliko in sama občevala s Sturmom, in kaj, če bi bilo res, kar ji je Jančnica pripovedovala, da je sleparski Sturm Angelo že — onečastil? Uh!</p>
+            <p>Vso nesrečo je valila na Sturma. Spočetka je celo mislila, da je on kriv tudi soprogove nenadne smrti; zdelo se ji je v bolni razburjenosti, kakor da bi bil Sturm s svojim orožjem prebodel soproga njenega, hoteč s tem kar največ zla spraviti nanjo kakor sovražen demon.</p>
+            <p>Tedaj je prišla hčerka v sobo ter se sklonila skozi odprto okno. V stanovanje, kjer je bilo še vse v jutranjem neredu, se je čul cestni šunder. Angela se je zgenila; na cesti je zapazila nekaj, kar je nanjo napravilo nepričakovan vtisk; zaklicala je veselo-poredno:</p>
+            <p>»Sturm prihaja, mama, je že stopil v vežo!«</p>
+            <p>Mater je pretreslo, kakor bi jo bil dejal na kolovrat; skoro zazijala je. Brž nato je rekla:</p>
+            <p>»Počakaj v sobi, jaz mu pojdem sama naproti.«</p>
+            <p>»Kaj boš hodila, mama, pusti mene; saj je Sturm meni menda le bolj mari nego tebi.«</p>
+            <p>Mati je pa bila že izginila med vrati; popravila si je lase ter obstala.</p>
+            <p>Sturm je prihajal po stopnicah; ravno je hotel vstopiti, ko je Javorica zapahnila vrata v prednji sobi.</p>
+            <p>Potrkal je.</p>
+            <p>Hotela je kar molčati. Saj je gotovo videl Angelo na oknu, ona pa njega; dovolj mu bo, če mu še vstopiti ne pusti; najlepše ga odžene in napravi mu s tem največjo blamažo.</p>
+            <p>Sturm je zopet potrkal.</p>
+            <p>Sedaj se je v hipu premislila; povedala bi mu par rezkih besed, tako rezkih, da bi jih pomnil celo življenje — toda spomniti se ni mogla prav ničesar. V tem se je pa po naključju zadela ob stol; padel ji je na nogo, da je nehote zacvilila, ko je častnik iznova potrkal. Sedaj jo je pa razburilo; odprla je vrata na stežaj z vso silo ter pogledala osuplega Sturma z divjim pogledom.</p>
+            <pb facs="#WIKI00123-038" n="38" xml:id="pb.038"/>
+            <p>»Milostljiva, milostljiva, kaj vas motim morda? Oprostite mi!« je govoril Sturm in stiskal sabljo k sebi. »Včeraj, ko sem zvedel nesrečo, katera je vas tako nenadno zadela, sem hotel takoj priti, pa ob najboljši volji sem se komaj danes odtrgal, milostljiva.«</p>
+            <p>Vdova je gledala elegantnega častnika od nog do glave in naposled dejala jezno: »Tako, tako!«</p>
+            <p>Sturm je nadaljeval počasi, neljubo presenečen: »Niti pogreba se nisem mogel udeležiti pri tolikih poslih — naš vojaški stan je res vojaški; zvedel sem, da se je vršil pokop gospoda soproga ob petih.«</p>
+            <p>»Da,« je rekla vdova ter se obrnila, kakor da bi hotela iti v sobo.</p>
+            <p>Sturm je stopal za njo oprezno, skoro boječe in jo komaj slišno vprašal: »Milostljiva, oprostite, ali je gospodična doma, da še njej izrazim sožalje?« Hotel je stopiti za Javorico v sobo, ta mu je pa zaloputnila vrata ravno pred nosom s silnim truščem, da je častnik kar prepadel in obstal sam.</p>
+            <p>Za hrbtom pa se mu je zdajci zopet oglasila Javorica.</p>
+            <p>»Gospod Sturm!«</p>
+            <p>»Prosim.«</p>
+            <p>»Lepo, lepo, kavalir! Jaz sem vdova, uradniška vdova brez pokojnine, gospod nadporočnik! — Tamle so vrata, vidite! ... Spravite se! Sram vas bilo; premišljujte sami; vprašajte še gospo Jančnico!«</p>
+            <p>Nadporočnik je ostrmel vrhu stopnic, Angela se je pa prikazala na pragu ter okamenela pred materjo. Vedela ni, kaj naj stori; najrajša bi bila izginila in se izpremenila v popolnoma drobno točko; vse se ji je zdelo neumljivo.</p>
+            <p>Sturm je pa salutiral ter odšel s sabljo ropotaje.</p>
+            <p>Spodaj na ulici je začel razmišljati: »Čemu me podi ta škatla? Je li užaljena radi včerajšnjega dneva, ali jo skeli, ker je sedaj popolnoma na suhem? Vraga! ... Lej, lej, še nekaj sem dolžan — to bode gotovo. Ali takega sprejema se nisem nadejal; katastrofa ji je gotovo nekoliko zmešala pamet ...«</p>
+            <p>Prižgal si je cigareto ter pričel iznova: »Jančnica, tudi to je menda imenovala, če sem prav slišal; prokleto, saj sem bil kar raz sebe. Ta kokla, ali je intrigovala ali se je hotela znesti? To bode; škodovati mi je hotela ljubosumna poslančeva babnica, toda obrnilo se je ravno narobe; prokleto se je opekla! Tako uslugo mi je storila, <pb facs="#WIKI00123-039" n="39" xml:id="pb.039"/> kakor še malokdo; še fraz mi ne bo treba tratiti, da bi se odtrgal od Angele sedaj, ko bi malo drugače pogledali, če bi hotel imeti še ljubico za kratek čas ...«</p>
+            <p>Skoro zavriskal bi bil, ko je šel, s sabljo ob tlak se zadevajoč, po trotoarju: »Živela, Jančnica! Ljubic dobim sedaj druzih obilo, tudi takih, da mi ne bo nikdar dolgčas!«</p>
+         </div>
+         <pb facs="#WIKI00123-040" n="40" xml:id="pb.040"/>
+         <div xml:id="wv-VI.">
+            <head xml:id="head.6">VI.</head>
+            <p>Gospa vdova uradnika Javorja in nje čudovita hčerka Angela sta šli peš z železniške postaje v trgu, kjer so prebivali njiju sorodniki. Obe sta imeli v roki majhen kovčeg in črezenj pogrnjen sivkast pled; jako težko pa je stopala mati, saj je hčerki pri vsaki stopinji potožila, da ji srce neznansko bije ...</p>
+            <p>Tisti dan, predno sta se bili odpravili na pot, je bil prepir med njima. Angela namreč kar ni hotela zapustiti komodnih sob in je ves dopoldan zatrjevala materi prav pod zobe, da pojde že kako. Naposled se je pa gospa Javorica vendarle ujunačila ter odločno nastopila proti hčerki.</p>
+            <p>»Hodi za Sturmom, pojdem pa sama, če je tako,« ji je velela.</p>
+            <p>»Ali si ti mati? Kaj meniš, da je častnik tvoj hlapec, da se bo zdaj zopet okoli tebe klečeplazil, ko si ga skoro vrgla po stopnicah. Veš, menda si bila obsedena kali ... Sturm me niti ne pogleda več ... Sama včasih praviš, da je nevest povsod preveč.«</p>
+            <p>»Noriš, dete neumno. Molči mi!« Pri teh besedah so se materi zopet zaiskrile oči v onem ognju, ki pomeni grenek jad v srcu.</p>
+            <p>»Pojdeš ali ne pojdeš, sedaj se odloči; meni je vse eno. Ne! Ako ne greš, mi je ljubše. Povedala sem ti.«</p>
+            <p>Drugo jutro se je pa hčerka vendar tiho opravila ter šla za materjo na kolodvor.</p>
+            <p>V kupeju je Angela govorila o zimskem mrazu in poletni vročini; mati ji je molče pritrjevala, in šele tedaj, ko se je prikazala dolga streha postajališča, kjer jima je bilo izstopiti, ji je rekla: »Sedaj pa pojdeva doli. Kar meni daj v roke oni pled, kovčeg mi pomoliš potem iz voza; izstopim jaz prva.«</p>
+            <p>Skozi peron sta prišli naravnost na cesto, kjer je ležalo v obilici črnosivega blata. Kakih tristo metrov je bilo do prvega trškega poslopja. Po trgu samem so se tiščale v vegastih vrstah pritlične in enonadstropne hiše; pred župno cerkvijo je stal vodnjak, kjer je curljala voda iz žrela kamenitega, z mahom poraslega zmaja. Rodbinski dom Javoričinih sorodnikov je stal blizu župnišča.</p>
+            <pb facs="#WIKI00123-041" n="41" xml:id="pb.041"/>
+            <p>Angela je rekla na pragu materinega doma: »Mama, gotovo ni nikogar doma, ker je vse tiho. Kaj storiva sedaj?«</p>
+            <p>»Vstopi vendar, pa pojdiva v gorenje sobe; gori je gotovo kdo.«</p>
+            <p>In res, komaj sta bili v prvem nadstropju, so se že odprla neka vrata; v istem hipu se je začul tudi klic, in pojavila se je debela oseba Javoričine za deset let starejše sestre.</p>
+            <p>»Vendar sta zopet pri nas,« je začela sorodnica ter si pogledala po obleki, če je vsa v redu, in si pritisnila že nekoliko osivele lase k čelu.</p>
+            <p>»Vstopita no! Gospodična — no, pa saj smo si v rodu — Angela, vstopi! Sama sem doma, ker sta odšla oba večja bratranca tvoja kupovat živino na Tirolsko; kakih deset repov pripeljeta s seboj.«</p>
+            <p>»Ko bi vedela, kaj je meni prizadela ta smrt, oh!« jo je prestrigla Javorica, potem ko so se bile vse tri spravile v sobo.</p>
+            <p>»Verjamem, verjamem,« je hitela teta.</p>
+            <p>»Kako sem nervozna! Vedno se bojim, pa ne vem česa. Zrak mi tudi ne prija — oh, pa kaj to, to so malenkosti. Toda veš, Ana, zdaj nimam miru, zdaj si moram vse iznova urediti.«</p>
+            <p>»Hudo je, da, če se tako nameri in usoda v eni noči vse pahne v brezno. Ako ti je prav, pa ostani nekaj časa pri nas, da se umiriš.«</p>
+            <p>»Hvala ti! jako rada«, je odgovorila Javorica, čutila je pa, kakor bi si sama sebi nasprotovala, ker obe rodbini sta si bili že leto dni neprijazni.</p>
+            <p>Javorico in Angelo je nastanila sorodnica Ana v sobi na desnem oglu domače hiše, obrnjeni na dvorišče, kjer jima je pod oknom vsako jutro pel velik, čopast petelin, iz hleva pa mukale krave in ves dan se dvigali pari gori ob zidu. Jedli sta z drugimi domačimi vred v spodnjih prostorih, kjer so bila v dolgih vrstah po omreženih oknih naložena jabolka. V kotu jedilnice je stala ura v omarici.</p>
+            <p>Angela je skoro ves dan presedela v sobi ter gledala hudomušno na dvorišče, a mati njena je šivala ter govoričila s sestro v družinski sobani. Ta ju je gledala ravno za silo; posebno nadležni ji baš nista bili, simpatizovala pa tudi ni z njima. V široka, rdečkasta lica se ji je zarisal izraz, ki je najbolj pričal o dobrovoljnosti, kakršna je prirojena debelemu človeku brez načrtov in naklepov.</p>
+            <p>Šele drugi dan po prihodu sta se sestri dotaknili kočljivega vprašanja: Kaj pa zdaj?</p>
+            <p>»Pri nas ni primernega posla zate. Pa ti bi že bila pri nas za par mesecev, da bi si premislila, ali Angela, Angela.«</p>
+            <pb facs="#WIKI00123-042" n="42" xml:id="pb.042"/>
+            <p>»Res je; prav praviš.«</p>
+            <p>»Ko bi se bila izobrazila na učiteljišču, bi se lahko nadejala kake skromne službice, bodisi tudi v kakem zakotju — bilo bi vendar nekaj, s čimer bi se živila. Ali da je vešča francoščine, bi šla za učiteljico v kak zasebni zavod. Pa zakaj je nisi toliko vzgojila?« je vprašala trdo Ana svojo sestro.</p>
+            <p>Javorici se je zopet oglasila stara struna v prsih, kes, a ta se je prelevil polagoma v jezo.</p>
+            <p>Ozrla se je na sestro in ji odgovorila: »Ti bi morala biti pri njej, in spoznala bi, kako je ... Tako dekle svojeglavo te ne posluša; klanjati se ji moraš ti in jo sama v pogubo pehati.«</p>
+            <p>»Oh, tako hudo pa vendar ni,« je začela v drugem tonu Ana, »tako lepega obraza kakor Angela jih ni prav mnogo. — Gotovo se še kdo oglasi ter jo zasnubi, in potem sta obe na konju.«</p>
+            <p>Javorica je molčala, skomizgujoč z ramami.</p>
+            <p>»Morda si je pa že koga izbrala, in ta se oglasi gotovo kmalu, če bo hotela; toliko moči ima že ženska do zaljubljenega moškega.«</p>
+            <p>Javorica pa ni odgovorila; gledala je v tla.</p>
+            <p>Isti dan popoldne sta prišla domov sina s Tirolskega. Starejši, ki mu je bilo ime Ivan, je imel velike rjave brke, ki so mu visele zmršene izpod nosa. Nosil je debelo srebrno verigo pri uri in zelenkast klobuk s krivci. Mlajši je bil prav podoben materi; kakor ona je imel rdeča, okrogla lica in sive oči.</p>
+            <p>Obe sestri sta sedeli v gorenji sobi, ko je vdova Ana zaslišala na dvorišču krik in vik. Ivan je vpil nad hlapci, naj spravijo živino takoj v hlev, mrve da že potem namečejo.</p>
+            <p>Mati se je ob tem robatem sinovem glasu zgenila ter je bila v nemali zadregi napram Javorici. Ko je stopil Ivan v sobo, kjer sta sedeli, še skoraj pogledal ni Javorice. Vrgel je klobuk na obešalnik in želel materi kratko: dober dan, potem pa odšel v sosednjo sobo in pometal žvenketajoče novce v kositrno skledo ter jo zaprl v ogromno hrastovo omaro. Odtod je prišel zopet nazaj, in sedaj se je ujunačila mati ter ga poklicala:</p>
+            <p>»Ivan, glej, glej! Ali nisi prej zapazil naših gostov? Teta je prišla iz mesta in sestrična tvoja, Angela.«</p>
+            <p>Zdaj šele se je ozrl proti mizi, pri kateri je sedela Javorjeva vdova, in ji ponudil desnico.</p>
+            <p>»Slišal sem,« je rekel z glasom neolikanega človeka, »da je umrl stric. Škoda ga. Kje je pa Angela, mati?«</p>
+            <p>A mesto nje je odgovorila Javorica, da je gotovo v spalnici.</p>
+            <pb facs="#WIKI00123-043" n="43" xml:id="pb.043"/>
+            <p>Šel je ponjo, potem je pa prinesel liter rumenega vina ter začel točiti, češ, saj ga je obilo v kleti, žejen pa da je tudi, ko se je vrnil s tako dolge poti.</p>
+            <p>Angeli se je zdelo čudno, ko je zabelil Ivan včasih tudi kako robato besedo; tega ni bila vajena. Toda vendar se je delala, kakor bi ji ugajal njegov značaj.</p>
+            <p>Ivan je pripovedoval, kako je hodil po semnju, kako lepa živina se dobi ondi, in bahal, da je jako dobro izbral, pa da ga niso še preveč odrli.</p>
+            <p>Mlajši brat Tine je hodil medtem po dvorišču in je tudi zvedel, da sta prišli sorodnici. Blizu pa ni hotel iti; nekoliko sram ga je bilo.</p>
+            <p>Pozneje so se šle izprehajat ven na polje Javorica, nje sestra Ana ter Angela. Krenile so tudi v park starega grofovskega gradu, ki je ležal dobre četrt ure zunaj trga. Pod grmovjem ob poti so zvonili beli zvončki, poleg njih so trobile žolte trobentice in rasli podleski, te blede bolne cvetke. V solnčnem siju so se ob potoku, ki je vršel skozi park, gugali dolgi cvetni stremeni leskovi ter raztresali zlati prah v veter. Vdova Ana je hodila v sredi ter kazala s prstom vsako stvar, čudeč se, da krilijo že sedaj sredi aprila metulji, oni rumeni, ki se zibljejo kakor v sanjah.</p>
+            <p>Ko so prišle vse tri zopet domov mimo vodnjaka pred cerkvijo, je sklicala Ana dekle, da so šle kuhat večerjo. Kmalu se je kadilo iz dimnika v redkih oblačkih, kajti večino dima je ostajalo v kuhinji vsled vetra, ki je pihal južnovzhodno.</p>
+            <p>K večerji ni bilo Ivana. Brat Tine je pravil, da je šel v gostilnico »k peku«, z njim sta pa bila tudi dacar ter notarjev solicitator. Nekoliko so počakali, ker je Javorica tako hotela, potem so vendar pričeli sami. Po večerji so se domači kmalu spravili spat.</p>
+            <p>Mati je z Angelo govorila skoro do polnoči v svoji sobi o različnih stvareh. Ravno sta hoteli leči, in Javorica je še zatrdila: »Dober mesec ostaneva še tukaj, potem bo že kako,« ko so se odprla vežna vrata s silnim hruščem, da je hčerka strahu vzkriknila. V veži se je oglasila kletev, precej za njo druga in tretja.</p>
+            <p>»Nekdo je vinjen prirogovilil domov,« je rekla mati.</p>
+            <p>Vinjenec je pa opotekaje se prirobantil v prvo nadstropje.</p>
+            <p>»In sedaj še to — še tuje babnice — ki jih komaj — poznam — bom redil — če jih sem spravi stara,« se je hudo val na glas ter nerodno štorkljal.</p>
+            <pb facs="#WIKI00123-044" n="44" xml:id="pb.044"/>
+            <p>Kar se je zaletel v vrata sobe, kjer sta stali ob posteljah Javorica pa Angela, in jih sunkoma odprl. V sobo je skoraj padel Ivan; komaj se je še ujel na stol.</p>
+            <p>Obema je sapo zaprlo, vendar mu je Javorica preplašena voščila dober večer.</p>
+            <p>Ivan se je zadrl: »Kaj dober večer! Nič, nič! Kaj mi mari« ter se zavalil reže na drugi stol.</p>
+            <p>Javorica se je bala, da ne bi na mestu zaspal, ter ga prijela za ramo, da je komaj čutil.</p>
+            <p>Sedaj je bil ogenj v strehi. Pijani Ivan se je spel pokoncu ter zarjovel: »Kaj imate z menoj? Pusti me! Kdo te je sem klical?! Ali je kaj tvojega?«</p>
+            <p>»Nič, nič, Ivan, ne huduj se«, je zinila Angela, stoječ v kotu.</p>
+            <p>»Kaj še ti! Meniš, da se te bom ogibal? Jutri se spravi s poti. Veš, veš — ne misli, da sem pijan, ne — nikdar — nikakor ne — nikoli!«</p>
+            <p>Klobuk mu je obležal na tleh, sam se je pa počasi spravil iz sobe, opotekaje se na široko. Sedaj je zapazila Angelina mati na nasprotni strani, da gleda pri skrbno priprtih durih nje sestra preplašena, pred sina si pa ni upala stopiti.</p>
+            <p>Angela je za Ivanom brž zaprla vrata ter obrnila ključ v ključalnici. Niti besedice ni nobena več izpregovorila. Hči je stopila k nizkemu oknu, potegnila z njega zaveso ter ga odprla, kajti po sobici je plul neznosen, gnusen duh po použitem vinu kakor v kaki beznici. Ugasnila je luč, ker je zunaj sijala luna ter dovolj razsvetljevala spalnico. V hlevu na dvorišču je kako živinče zateglo zamukalo, v obližju je zalajal kak pes v mrzli pomladni vzduh. Ko je Angela zopet zaprla okno, sta šli k počitku ...</p>
+            <p>Prihodnje jutro je bilo tiho po vsej hiši. Tiho sta zapustili sobo in šli v kuhinjo, kjer je pri velikem, čednem ognjišču jokala Ivanova mati.</p>
+            <p>Pili so kavo.</p>
+            <p>Ana je povabila po zajtrku sorodnici v svojo sobico, proseč ju, naj stopata nalahno.</p>
+            <p>»Videla sem, kaj se je zgodilo sinoči. Oh, in danes, ko vstane — ležal bo gotovo do dveh ali treh popoldne — bo zopet vrišč in hrup, da bo vse na kup letelo. Ravno tako je razsajal, ko je bila pri nas par dni stara teta rajnega moža, njegovega očeta. Zgrabil je steklenico vina, ki je bilo zanjo pripravljeno, jo treščil skozi okno in ji potem pokazal vrata. Oh, oh!« Zatisnila si je oči z rokami.</p>
+            <pb facs="#WIKI00123-045" n="45" xml:id="pb.045"/>
+            <p>»In potem vpije nad mano cele tedne, češ, kako razsipam premoženje, sam se pa privleče vsako noč pijan domov; in pijačo plačuje po gostilnicah še drugim. Danes me še otepe in vaju tudi, ako mu stopita pred oči ... Bog se usmili!«</p>
+            <p>»Kaj, kaj?« je rekla sestra vsa raz sebe. »Da sem vedela, da je Ivan tak ...«</p>
+            <p>»Kakor sem rekla — pa oprosti mi, da ti razlagam take stvari; ti nisi videla še vsega. Mislim, da so otroci tako vzgojeni. Rajnik je bil tudi tako neotesane narave, in po njem je posnel Ivan. Mene poznaš, da nisem kriva; hodili sva skupaj v nunsko šolo. On je bil sicer imovit, bil pa ni nikdar v drugačni družbi nego med hlapci in pastirji.«</p>
+            <p>»Mama, najboljše je, če se odstraniva,« je šepnila Angela.</p>
+            <p>»Ah, najboljše; jaz ne morem zato, oprosti mi. Ne bi strpela, da bi tudi tebe metal iz hiše,« je dejala vdova Ana. »Mislila sem, da to pot ne vzroji — pa je.«</p>
+            <p>In Ana jima je šla sama pomagat v stanico, da sta pospravili. Obljubila jima je, da ponese prtljago hlapec za njima na kolodvor; konj da je sicer pet v hlevu, pa si ne upa dati napreči.</p>
+            <p>»Piši mi, če bi ravno kaj potrebovala; rada ti dam, ako bom le mogla,« je rekla ob slovesu Javorici sestra Ana ter stiskala Angeli in njej roke.</p>
+            <p>Uradnikovi vdovi se je zdelo, da je že drugič poražena, da se ji že drugič izmičejo tla pod nogami. Po dolgem ukrepanju je menila, da najde saj za nekaj časa zaslombe pri sorodnikih, ako jo sploh sprejmo, ako so že pozabili prejšnje razpore. Sprejela jo je Ana, in zasvetil ji je up nalik majhni iskrici. Tem huje jo je sedaj bolelo; čutila se je dvakrat ponižano po nastopu pijanega Ivana napram sebi. Kaj, je li res beračica ...?</p>
+            <p>Angeli se je zdel bratranec surov in neolikan kakor pravi gorjanec, ničesar pa ni opomnila napram materi svoji.</p>
+            <p>Proti desetim sta se odpeljali z vlakom v popolnoma praznem kupeju nazaj v mesto. Lačna in utrujena je izstopila Javorica. Pred postajo na cesti so ju obsuli postreščki in izvoščki, katerih se je hčerka kmalu ubranila. Molče, v tla gledaje, je stopala uradnikova vdova poleg hčere, držeče kovčeg v roki, ki jo je vlekel proti tlom. Vprašala se je, čemu gre pravzaprav domov: ali gre kosit, ali gre počivat, ali gre negovat Angelo, ali gre, da bo hodila na posete, na promenado po tejle široki cesti ...?</p>
+            <pb facs="#WIKI00123-046" n="46" xml:id="pb.046"/>
+            <p>Prišli sta mimo fotografske izložbe. Med množico manjših in večjih slik je še vedno visela velika salonska slika Angelina izza prvega velikega koncerta, ki je bil konec januarja meseca.</p>
+            <p>Angela se je ozrla vanjo kakor vselej, kadar je šla mimo. Instinktivno je obrnila zmučeno, zdvojeno glavo tja tudi mati. Oblilo jo je. Torej: ali bo spremljala hčerko sedaj vedno le na koncerte, da bo pela zvonko, koketujoče?</p>
+            <p>Na koncerte? Kam?</p>
+            <p>Zavedela seje tako živo, tako v dušo, in skoro na glas je rekla:</p>
+            <p>»Berač, berač! Prosjačit pojdem! ...«</p>
+            <p>Za nekaj časa je dejala hčerki:</p>
+            <p>»Angela, sedaj več ne vem, kaj naj storiva. Kar hočeš. Radi mene lahko skočiva v vodo — sploh — kar — hočeš ...«</p>
+            <p>»Mama,« se je nevoljno odzvala hčerka, »ni še julij niti avgust, da bi se kopala.«</p>
+            <p>Počasi, opotekajoč se je stopala Javorica po stopnicah do drugega nadstropja. Stenska ura je brenčeče bila eno, ko sta stopili v svoje stanovanje. Ubogi vdovi so se zaznale poteze od ustnih jamic do nosu razločno kot ženski petdesetih let. Oči so ji mirno gledale v tla.</p>
+            <p>Angela je brž prinesla kos šarklja, ki je bil pečen pred enim tednom; očitala pa je materi, da bode morala sama kuhati, ker se njej ne ljubi.</p>
+            <p>Javorica je molče šla v sobo, kjer je bil umrl soprog. Hodila je semtertja ter oči napenjala. Prav tako ji je bilo, kakor bi ji kdo polagoma jemal vid. Stopila je k oknu ter vlekla rolete gori in doli nalik majhnemu otroku, ki se igra, ko je brez varuhinje. Odprla je okno na široko in pogledala na cesto. Hipoma se je sklonila, in — tako peklensko se ji je dopadlo, ko se je ravno tik nje spustil golob proti tlaku.</p>
+            <p>»Mama,« se je oglasilo iz sosednje sobe, takoj so se pa odprla vrata, in hči je poklicala mater kosit.</p>
+            <p>Po kosilu je šla Angela k neki prijateljici v vas. Mati je legla na star divan, na katerem je rajni soprog tolikrat pušil najslabše smodke, ter strmela v strop. Ležala je tako celo uro ter zasnula z odprtimi očmi v razjedajoči bolesti, ko se je vrnila Angela.</p>
+            <p>Angela je sedla k oknu, razgrnila več časopisov ter jih pričela čitati.</p>
+            <p>Mati se je nehote obrnila proti njej in jo vprašala: »Kje si bila?«</p>
+            <p>»Uh, šla sem po zadnje tri številke časopisa, ker jih še nisem pregledala.«</p>
+            <pb facs="#WIKI00123-047" n="47" xml:id="pb.047"/>
+            <p>Javorica je vstala z divana, kakor bi ji bil kdo kaj nenavadno važnega povedal na ušesa.</p>
+            <p>»Angela, Angela, poglej inserate!«</p>
+            <p>»Čemu; bom že potem, ko pregledam druge reči.«</p>
+            <p>»Inserate, inserate!« je ponavljala mati ter vzela list, ki je ležal na mizi. Gledala je vanj in nervozno preobračala strani, kakor bi šlo za življenje in smrt. Vzela je drug list, katerega tudi ni čitala Angela. Brzo je preletela prvo stran oznanil, na drugi se je ustavila; vstala je, kakor bi jo bil kdo rešil gotove smrti.</p>
+            <p>»Tukaj —«, je rekla zamolklo hčerki, »beri!«</p>
+            <p>Naznanilo je slulo:</p>
+            <p>»Trafika z dobrimi dohodki v Sodnih ulicah se prepusti prostovoljno. Več ondi.«</p>
+            <p>»Opravi se! Pogledat pojdeva,« je dejala mati.</p>
+            <p>»Kaj, prevzeti hočeš? Jaz trafikantinja, jaz! Ali se ti blede?«</p>
+            <p>Angeli so se usipali na belo čelce črni kodri, in z rokami je udarila po zraku.</p>
+            <p>»Jaz, jaz ne grem!«</p>
+            <p>»Dobro, pojdem sama. Še en desetak imam. Zvečer se prekopicni z okna — sploh, kar hočeš. Edino nit prerežeš, na kateri se morda rešiva. Več ni nikogar, ki bi te redil.« Prijela jo je za ramo ter jo potegnila za seboj.</p>
+            <p>»Jaz, jaz ne. Kaj poreko znanke?! Da, rajša se usmrtim, če je tako,« se je hudovala Angela po stopnicah.</p>
+            <p>»Molči, prismoda!« —</p>
+            <p>Ura je bila štiri. Javorica je odprla nizka steklena vrata v Sodnih ulicah ter voščila dober dan grbasti devici, ki ji je poganjalo pod velikim nosom nekaj kakor brke. Trafikantinja se je začudila, da je prišla tako dobro napravljena mlada gospa k njej, da bi prevzela trafiko.</p>
+            <p>Javorica in trafikantinja sta se dolgo časa domenkovali; naposled je ta obljubila, da ne prepusti nikomur drugemu trafike nego njej. Ker so pa začeli prihajati ljudje, izvečine sodni sluge, rokodelski učenci, delavci in bosopetci, sta se Javorica in Angela počasi odpravili z zagotovilom, da ostane vse, kakor so se dogovorili.</p>
+            <p>Ko sta bili na cesti, se je Angela sramovala, tako grozno sramovala, da ni vedela, kaj naj stori. Tako ji je bilo, kakor kadar so jo v otročjih letih kaznovali v šoli. Polastila se je je nekaka maščevalnost. Tudi Javorica je stopala potrta, toda ne tako kakor s kolodvora; prav tudi njej ni bilo. —</p>
+            <pb facs="#WIKI00123-048" n="48" xml:id="pb.048"/>
+            <p>Za par dni sta bili že v novem lokalu; stanovali sta v isti hiši na dvorišču v dovolj svetli sobici. Nobena ni hodila z doma, zlasti Angela ne, ker se je bala, da ne bi srečala kake znanke.</p>
+         </div>
+         <div xml:id="wv-VII.">
+            <head xml:id="head.7">VII.</head>
+            <p>Mrak se je že spuščal na mehkih perotih na zemljo in izmikal posamične predmete meščanom izpred oči. Med visokimi hišami so se zarisavale prve sence in se povečavale ter raztegovale vedno bolj in bolj.</p>
+            <p>Zunaj mesta po cesti proti bližnji vasi je pa hitel Semen. Njegova duša je bila zdvojena ... Vroče mu je prihajalo; potil se je po sencih, da mu je stopala drobna rosa po obrazu, a hitel je vkljub temu vedno dalje.</p>
+            <p>Srečal je ženico s črnim, ponošenim klobukom, ogrnjeno v starodavno mantiljo iste barve. Zaskelelo ga je in kri mu je gnalo po žilah z vso silo, ko je videl prihajati nasproti to postavo; ko se mu je pa popolnoma približala, ga je zazeblo po hrbtu, in umaknil se je na stran ceste. Izpregovoril je med zobmi: »Angela!«</p>
+            <p>Videl je od daleč v razgreti domišljiji one črne kodre, lahno zaokrožene ob belem čelcu, one krasne oči v pijanem svitu, okroglo, bajno bradico, fini nosek in po obrazu črte, v katerih je ležalo zanj nekaj diabolskega, nekaj neodoljivega, izraz, katerega bi molil v onih februarskih nočeh, ko se je pošalila z njim Angela ...</p>
+            <p>Zopet je bil premišljal Semen celo popoldne, zopet ga je mučilo tako čudno in neusmiljeno nekaj v njegovi duši; spravilo ga je že docela s tira.</p>
+            <p>»Sam vrag mora to biti«, je dejal, ko je šel ves obupan z doma.</p>
+            <p>»Štirinajst dni je — ne, skoro bo dva meseca, da, dva meseca, ko sem bil na komisiji ... Tedaj sem jo izkupil, da sem obležal za teden dni, tedaj, ko sem bežal po brvi na močvirju pozno v noč, v svoji zdivjanosti niti na desno niti na levo ne gledaje, ter padel v jarek, da sem se komaj splazil iz vode in ilovice, ves moker in umazan. Proti polnoči sem prišel po stranskih potih do mesta, a mrzlica me je tresla čimdalje huje in huje. V svitu petrolejske svetiljke, ki je brlela na oglu v neki zagati, me je pa opazoval stražnik; že se mi je bližal — komaj sem mu ušel, hiteč, kar sem mogel. Okajeni plamen mi je švigal vedno pred očmi, in v bolezni se mi je prikazoval v vročici, samo da je bil ozek in visok kakor okraski gotiških cerkva. In sanjal sem, ko se mi je bledlo, da se dvigam vedno više in više v nedosežne kraje. Po vseh takih sanjah pa so <pb facs="#WIKI00123-049" n="49" xml:id="pb.049"/> mi mučile ubogo glavo bolečine, kakor bi razbijali po možganih, in prikazni v svetlih, visokih cilindrih, okoli njih pa tako neznansko hrapovo dračje ovito, so hodile pod okni ...«</p>
+            <p>»Angela!« mu je švignilo zopet po glavi.</p>
+            <p>Da, Angela! Ko jo je bil prvič videl nekoč na promenadi, ga je iznenadila nje krasna toaleta in nenavadna frizura. Dopadla se mu je res, a da bi čutil zanjo kakšno čuvstvo, katero bi ga vleklo k njej, ne — tega nikdar ne.</p>
+            <p>Tedaj je prišel v ožjo dotiko z mestno družbo. Zapazil je kmalu, kako se klanja Javorjevi Angeli vse od kraja, da jo česti ves krog mlajših moških kakor cvetko ženstva vsega mesta, da jo obožujejo nad vse druge.</p>
+            <p>Semen je gledal, in polagoma se mu je jelo vzbujati čuvstvo, čudno čuvstvo, ko je videl, da je Angela središče, da je prava vzvišenost. In ko je hodil po plesih zgodaj v jutro domov, odičen s kotiljoni na črnem, elegantnem fraku, tedaj mu je bilo tako prazno v prsih, v duši pa se mu je zdelo, da se premika neka stvar, kateri se bo moral vsekakor ukloniti, če ne ga stre docela. In bal se je nečesa ...</p>
+            <p>Bilo je proti koncu prejšnjega leta. Sneg je naletaval gosto, ko je šel Semen iz čitalnice. Tam so se menili o prihodnjem koncertu, ki ga priredi glasbeni in pevski zavod. Neka dama mu je pripovedovala, da nastopi letos nova sopranistovka, Javorjeva hčerka. Bil je skoro otrpel vsled te novice, toda že spodaj na pragu ga je prav ista razveselila. In potem je stal celo popoldne do mraka pri oknu ter pušil cigarete — sneg se je pa kopičil in kopičil po cestah, in zvečer je tudi on čutil, kakor bi se mu bile naselile težke plasti v dušo.</p>
+            <p>Tisti koncertni večer, ko se je oder napolnil s pevkami in pevci, je slednjič nastopila Angela z bajnimi, črnimi, na obeh straneh nekoliko na čelo počesanimi lasmi, v svetlozeleni toaleti, nekoliko dekoltirana, s šopom »sekiric« med drobnimi prstki, in sedla pred dirigentom —. Takrat je Semenu poskočilo srce.</p>
+            <p>Ko je izpela partijo in ji je zadonel plosk po dvorani, je nastalo Semenu hipoma tako, kakor bi se spomnil nečesa, kar je že davno, davno minilo. Zdelo se mu je, da se mu je oglasil v duši globok, črn bas, ki se je vedno krepil ter se bližal Angeli.</p>
+            <p>In res, kmalu je začel z njo občevati, zahajati na njen dom, kjer so ga lepo sprejemali. Ako je pa videl koga, kateremu bi bila Angela enako naklonjena, je gledal, da bi ga čim preje odpravil. <pb facs="#WIKI00123-050" n="50" xml:id="pb.050"/> Bil je mnogokrat z Angelo sam, a nikdar ji ni zinil kaj o ljubezni, kaj o zaroki ali kaj podobnega. Le nekoč, ko je napeljala Javorica tako, kot da bosta Semen in Angela kmalu zaročenca, takrat se je hudoval par dni, kako da ga vlečejo v zakon, češ, maram za žensko.</p>
+            <p>In potem se je prikazal Sturm. Sedaj mu je bilo, kakor bi mu trgal dušo iz telesa. Prav nič čudnega ne bi bilo, ako bi bil vzel samokres ter pozval Sturma na dvoboj; zahteval bi bil pravzaprav, naj kar pusti, da ga ustreli ...</p>
+            <p>»Hotel sem jo imeti ... Zato morda, ker je bila lepa, zato, ker je bila strastna? Ne, nikdar ne — uh, bedastoča!«</p>
+            <p>Spomnil se je, da je tudi tedaj, ko je hodil še v gimnazijo, gojil blazno idejo v mladih možganih, da bi zlezel na zvonik mestne župne cerkve, prav na zadnjo točko, ter bi gledal okoli — zdelo se mu je to nekaj veličastnega. Posrečilo se mu je pač nekoč, ko je hodil okoli cerkve, da so bila vrata v stolp odprta. Brž je stekel gori, prispel do velikih zvonov, plezal potem naprej po tramovih, priplazil se do slepih lin, kjer je visel navček, in odtod gledal v strmoglave globine pod sabo. Nekaj ga je vleklo, da bi zlezel na jabolko. Z eno nogo je že bil stopil iz line — ves se je tresel, misleč, da doseže svojo utopijo — ravno tedaj je pa zapel navček; potegnil ga je sam z drugo nogo. Vzbudila se mu je pamet, ustrašil se je sam sebe ter jo popihal doli, da ne bi kdo opazil. Sredi zvonika se je skril za neko navlako in nestrpno čakal, če pride kdo gledat, kaj je ... Na Dunaju je lezel v sanjah po strelovodni žici na sv. Štefana stolp, ker so mu po dne pravili, da je nemogoče nanj splezati. In tedaj je prvič premišljeval docela resno, zakaj hrepeni po neizmernostih; tega sicer ni dognal, vedel je pa, da zblazni, ako ne bi dosegel svoje namere ...</p>
+            <p>Semenova duša je bila zdvojena. Nekaj mu je reklo v majnikovem mraku, ko se je odmikal daleč od stare, okajene pivovarnice, da je to prav ista misel, prav ista utopija, katere se je nekdaj tako bal — in res, v tem hipu je začutil, kakor bi se mu nekaj trgalo v duši, v možganih ...</p>
+            <p>Nič več ni mislil na Angelo; čutil je, da je ravno nocoj čas, ko se mu je potegniti za zadnjo korenino, da ne zdrkne v nedogledne globočine.</p>
+            <p>»Pomagaj — pomagaj! Da bi si mogel pomagati! Ko bi vedel le nekoliko, vsaj malo, kako bi si pomagal ...!«</p>
+            <p>Sedaj mu je šinila brez logičnega prehoda v glavo misel, katera se mu je zdela čudno nizka, neizrečeno ploščata: »Kaj je vzrok?«</p>
+            <pb facs="#WIKI00123-051" n="51" xml:id="pb.051"/>
+            <p>Pospešil je korake kar mehanično, nevede; zopet mu je stopil pot na visoko čelo, in odskočil je večkrat, ko se je zaletel ob kak kamen, ki je ležal na cesti. Zravnal se je, in bilo mu je, kakor bi se mu počasi jasnilo, kakor bi mu misli zopet vstajale normalnejše. Ogledal se je: čisto sam je bil na nekoliko prašni cesti.</p>
+            <p>Vzrok? Koliko romanov in novel je čital z naslovom: »Kaj je krivo?« Da, kaj je krivo — to je treba vedeti, prav jasno vedeti, prav natanko vedeti! Z nervozno nestrpnostjo je hotel to dognati. V istem hipu je pa tudi začutil, da ne more tega izvedeti, da je prerazburjen za premišljevanje. Zganil se je in obstal v svojem diru. V glavo mu je šinila misel, katera se čuje za vsakim oglom: atavizem.</p>
+            <p>Grozno, grozno! To besno nasilje, katero ga sili z neodoljivo silo za vsako stvarjo, ki se mu zazdi v čudnih trenotkih nenavadna in mu polagoma postane nad vse vzvišena — ta besnost, da je prirojena, dediščina?!</p>
+            <p>Korake je silno pospešil ter se zadrevil zopet naprej.</p>
+            <p>Ni pomoči — ni izhoda — strašno!</p>
+            <p>Blaznica! V obupu so se mu porajale različne neurejene misli. Začel je premišljevati prošlo življenje ...</p>
+            <p>Oče mu je bil trgovec, ki je pa kmalu opustil trgovino, ker si je v neki zimski noči zlomil nogo, ko se je vračal s kupčijskih potov. Na misel je prišla sedaj Semenu domača hiša, imovita, skoro najlepša ob celi ulici, v pritličju s širokimi vrati, skozi katera so vozili dan na dan blago v skladišča. Mati z vedno dobrosrčnim smehom na licih se je vrtela v gorenjih prostorih in nadzorovala kuharice in dekle, ko so pripravljale hrano trgovskim sotrudnikom in hlapcem. A on je gledal, ko so ga še pestovali, vedno skozi okno, kako prihajajo konji z vozmi, in kako hodijo ljudje iz očetove prodajalnice ven in noter — bil je nenavadno živo, zdravo dete ...</p>
+            <p>Ravno v srednje šole je bil vstopil, ko je prinesel neki večer pismonoša brzojavko. Mati se je takoj ustrašila in osupla poklicala sinka, naj bere. Mati je omedlela ... Ob njeni postelji je postaval naslednji dan, boječ se, da ne bi še nje izgubil, dokler niso pripeljali očeta s kočijo do hiše. Črna, dolga brada mu je bila zmršena, oči vdrte, in ječal je, da se je slišalo na hodnik, ko sta ga nesla dva postreščka po stopnicah. Okreval je le polagoma, ozdravel pa ni nikdar več. Za dobro leto je opustil trgovino. Odslej je ždeval na velikem fotelju ter gledal skozi okno; redkokdaj je pa šel z velikimi bolečinami na izprehod. Kadar je bilo deževno vreme, je cele dni in noči vzdihoval in tožil ter se grabil za zlomljeno nogo, češ, <pb facs="#WIKI00123-052" n="52" xml:id="pb.052"/> da ga neznansko trga po kosteh. In tedaj je bil Semen v drugem gimnazijskem razredu. Oče se je začel intenzivneje zanimati za sina ter je pri vsaki priliki poudarjal, da hoče imeti potomca, ki bo presegal z umom vse pradede ...</p>
+            <p>Semenu se je začela razvijati neka slika vedno določneje, tako da se mu je zazdelo, kakor bi je pričakoval.</p>
+            <p>Vsak večer proti devetim ga je poklical oče v svojo sobo, v kateri je imel cele skladanice knjig; šolskih predmetov se je moral naučiti sin po dnevi z inštruktorjem. Nad mizo je visela svetiljka s širokim zelenim senčnikom nizko med knjige, ki so ležale po mizi. Oče ga je redno že pričakoval na koncu mize ter imel pripravljeno knjigo, katero mu je potem ukazal čitati. Izprva sta čitala na glas do desetih, oče mu je le razlagal posamična mesta in celotno snov. V peti šoli mu je pa začel dajati Byrona in Goetheja ter mu ju ne le teoretično pojasnjeval, nego ga seznanjal z vsemi idejami pesnikov in ga navduševal zanju, tako navduševal, da je sinu gorelo v prsih. In Heineja sta potem čitala pozno v noč; in ko je hromemu očetu stopala rosa na čelo, tedaj se je dvignil s sedeža ter govoril in govoril toliko časa, da je skoro onemogel, in večkrat sta legla spat, ko je bil posijal prvi rdeči žar na vzhodu. In potem sta se lotila Lenaua; natančno mu je oče popisoval, kako je zblaznel genialni pesnik, kako je nekoč še kot deček pripovedoval na vrtu svoji sestrici, da čuti bližajočo se katastrofo, a da je pričakuje neustrašeno, da zre z melanholiškim navdušenjem v usodo. Tedaj se je zazdela Semenu ob ugasli svetiljki, ki je visela v očetovi sobi, blaznost nekaj velikega, imenitnega. Očetu njegovemu so se pa zarisale v bolestnem obrazu črte, ki so ga docela izpremenile; in zopet je zabičeval sinu, naj podre vse, da doseže, kar je veličastnega, kar je lepega ... Semen se je zjutraj tresel, ko je hodil v šolo, in v duši so se mu narodih načrti, pravzaprav le neko temno pričakovanje ga je odslej vedno polnilo, a ta čut se ga je polaščeval nevede tako, da mu je zašel v meso in kri. Ob očetovi smrti pa se mu je ta nrav zopet vzbudila s podvojeno močjo ...</p>
+            <p>Semen je prekinil misli. Stopinja mu je zastala. Atavizem ? — Težko. Saj je bil izprva zdrav, zdrav je bil oče kot trgovec, mati je bila zdrava! Sorodniki —? Zadnji je umrl osemdeset let star, popolnoma trden in — normalen! Za Boga, kaj je torej! Oče, oh, oče! Res, samo on je vzrok njegovega prenapetega dušnega stanja, njegove nenormalnosti, vseh njegovih peklenskih muk, katere je skrivaj pretrpel.</p>
+            <pb facs="#WIKI00123-053" n="53" xml:id="pb.053"/>
+            <p>Nekaj mu je kakor planilo v dušo: »Vzgoja je kriva, vzgojil me je tako!« ...</p>
+            <p>Iz težkih, svinčenih misli ga je zdramil ropot voza, ki se je pomikal bliže in bliže. Kmalu mu je donelo na ušesa petje neubranih pesmi, katere so prepevali s hripavimi glasovi vračajoči se romarji. Semen jih je debelo gledal; zapazil je, kako daleč je že zunaj hiš; obrnil se je, čudeč se sam sebi, ter počasi odkorakal nazaj.</p>
+            <p>V notranjščini mu še ni potihnilo; spominjal se je raznih dogodkov, spomnil se je tudi Javorjeve hčerke.</p>
+            <p>Da se mu ni uklonila, da ni dosegel svojega namena, ki mu je vladal vse živčevje! Hm, umrl ji je oče, Sturm je šel; Angela je ponižana — dobro! Skoro demonska hudobnost se ga je sedaj polotila.</p>
+            <p>Kako? Gotovo seje že drugemu vdala. Ha, ha ... Toliko hujše, potem se niti ne bo mogel tolažiti, da je poražena, kakor bi se mu zdela, da je ostala stara devica ...</p>
+            <p>Posvetil je z vžigalico na uro, nato pa pospešil korake. Posamezni ljudje so ga že srečavali, ob poti so se začele vrstiti ograje, braneče vhod na predmestne vrtove. V daljavi so se svetile luči, katerih vrsta se je proti koncu združevala ter premenila v ost. Polagoma kot prikazni so se dvigala ozka, visoka poslopja iz teme; streh ni mogel razločiti.</p>
+            <p>Sklenil je roke na hrbtu. Iz cinične pustobe, ki je bila nastala v njem, se je zopet oglasila ona brutalna moč kot izza daljne gore. Zadel je ob črevljarskega učenca, ki je žvižgaje zrl v nasprotno stran; niti zmenil se ni. Po ozkih ulicah se je širil duh po razbeljeni masti, s katero so belili večerjo, in z gostilniškega vrta, ki je bil obzidan z nizkim zidom, če je čulo govorjenje in žvenket čaš, a listje divjih kostanjev se je svetilo nalik zlatu od sveč, ki so gorele po mizah.</p>
+            <p>Semena je nekaj tiralo naprej, toda sam ni vedel, kam. Nehote je krenil proti oglu, kjer je zavil na širšo cesto. Bil je že blizu doma, a iznova se je obrnil: šel je proti »Sodnim ulicam«.</p>
+            <p>Že dolgo ga ni bilo ondi — morda že cel mesec ne, kajti njegov urad se je nahajal ravno na nasprotni strani mesta.</p>
+            <p>Ondi je — Angela, mu je šinilo v glavo! »Ha, dobro,« se je zarežal, »ravno tja poj dem. Nalašč stopim v trafiko, ha — v trafiko.« Pri tem mu je postajalo vroče.</p>
+            <p>Gledati je začel po hišah, kje je pravzaprav ona prodajalnica — stal je skoraj pred njo — in planil je vanjo, kakor bi ga bil kdo butil...</p>
+            <p>Za prodajalno mizo je sedela v obnošeni bluzi vdova Javorica, Semen se je neznansko začudil.</p>
+            <pb facs="#WIKI00123-054" n="54" xml:id="pb.054"/>
+            <p>Javorica je skočila s sedeža, lica ji je sramu zalila kri, med stranskimi vrati pa se je pojavila Angela.</p>
+            <p>Semen je stal še vedno pokrit sredi trafike; lice mu je bilo zmučeno in bledo, oči steklene.</p>
+            <p>Sedaj šele je izpregovorila Javorica:</p>
+            <p>»Dober večer, gospod koncipist.«</p>
+            <p>Odkril se je.</p>
+            <p>»Prosim smodk, gospa!«</p>
+            <p>Z nizkim, skoraj hripavim glasom je vprašala:</p>
+            <p>»Kakšnih izvolite, gospod koncipist?«</p>
+            <p>»Havank«, je odgovoril.</p>
+            <p>Medtem je Angela vstopila. Zapazil je hčerko. Na tilniku je začutil par debelih potnih srag. Nehote se ji je priklonil, ona je pa skoraj z roko zatisnila oči.</p>
+            <p>»Ah,« je začela Angela, skoro tako, kakor če bi govorila z neznanim človekom, »kako lepo vreme imamo!«</p>
+            <p>Na zamazanih škatljah, polnih cigar, in po popljuvanih tleh, koder je ležalo dokaj tobačnih odpadkov, so se igrali svetlobni prameni.</p>
+            <p>»Seveda, tudi prahu, prahu,« je rekel, »pa ne moremo za to; v ozidju tukaj vam menda ni vroče, gospica?«</p>
+            <p>»Gospod koncipist,« je rekla takoj nato Javorica plašno, »zdite se mi nekako prepadli, slabi. Oprostite, ali ste bolni?«</p>
+            <p>»Ne, nisem, gospa; a vi ste zdravi? Zlasti gospodična se mi zdi zdrava.«</p>
+            <p>»Hvala, hvala, še precej; toda v tej ozki ulici, kamor skoraj nikdar ne prisijejo solnčni žarki, ni posebno prijetno. Soba je sicer dosti prostorna, ali ker je pri tleh, je temna,« je tožila mati.</p>
+            <p>»Pa je že, že; saj je solnca dovolj zunaj. Kaj bi ti neki rabilo! Beži, beži!«</p>
+            <p>Semen se je čutil v tem trenotku kakor v zadregi ter vprašal, ali škrope tod mimo obilo.</p>
+            <p>Izbral si je smodke ter hotel eno prižgati, pa ni bilo nikjer vžigalic. Javorica je skočila ponje ter mu ponudila ognja, Angela pa ga je povabila, naj nekoliko sede, ako utegne.</p>
+            <p>Ko je mati to zaslišala, je rekla: »Gospod koncipist, prosim, blagovolite tu poleg v sobi.«</p>
+            <p>Semen je mehanično sedel. Angela je prižgala luč ter govorila o različnih rečeh, brbljaje kakor potok; on ji je odgovarjal čudovito kratko, Javorica je pa stala v trafiki.</p>
+            <pb facs="#WIKI00123-055" n="55" xml:id="pb.055"/>
+            <p>Za nekaj minut je prišla tudi vdova v sobo. Tožila je izprva o najnavadnejsih rečeh — navzela se je bila že docela manire starih babnic, s katerimi je skoraj izključno občevala — polagoma je začela iztresati intimnosti in svojo sedanjo revščino. Semen jo je jel pazljiveje poslušati, dasi je bil tako razburjen, da mu je stal pot pod lasmi. Pripovedovala mu je tudi nekaj o Sturmu — tedaj bi bil skoraj skočil s stola.</p>
+            <p>Potem je šla proti omari in vzela kup aktov iz nje; v oči so ji prilezle solze.</p>
+            <p>»Gospod koncipist, vidite, tukajle imam še polico. Veste, moj mož je bil zavarovan za življenje — za pogrebne stroške bi bilo to dovolj, — oh, gospod koncipist, in pogrebni stroški še sedaj niso plačani; zavarovane vsote mi noče izplačati zavarovalni agent. Kaj naj storim! — Pravijo, da mi bodo rubili še to, s čimer si služim slabo skorjo ...«</p>
+            <p>Proseč je dvignila roke pred Semenom: »Svetujte mi, gospod koncipist! Rekli so, da ste izvrsten pravnik.«</p>
+            <p>»Vzemite si odvetnika!«</p>
+            <p>»Oh, kje neki naj vzamem toliko, gospod koncipist!«</p>
+            <p>Angela je sedela poleg, zardela do ušes; sramovala se je materinega beračenja.</p>
+            <p>Semen je izpod velikih obrvi gledal stekleno le Angelo; čudno mu je postajalo v duši.</p>
+            <p>»V enem tednu bom na cesti, gospod koncipist, ako mi te stvari ne uravnate!«</p>
+            <p>A sedaj je začela Angela: »Gospod Semen, vidite, samo svetujte mami, samo svetujte; vsaj nekaj navodil ji dajte.«</p>
+            <p>Semen je pa vstal, se zravnal in vzel klobuk v roke pa ji rekel:</p>
+            <p>»No, storim uslugo. Gospa, pojdite v torek, ko je sodni dan, na sodišče; ne stane vas nič.«</p>
+            <p>Pogledal je na žepnico.</p>
+            <p>»Devet bo — oprostite, gospa, gotovo zaprete sedaj.«</p>
+            <p>Priklonil se je in odšel; Angela ga je spremila do vrat.</p>
+            <p>Na pragu je hotel sam odhiteti, a ona ga je prijela za roko ter mu zašepetala: »Slišite, jaz vas prosim, prosim; saj boste, kaj ne, da boš?« — Položila mu je roko na ramo. »Pridi kmalu zopet, da se dogovorimo natančno. Videl si, kako je sedaj pri nas strašno žalostno. Pridi no, pridite!«</p>
+            <p>Semen se ji je izpulil iz rok ter odhitel. Par korakov proč ji je dejal na videz malomarno: »Lahko noč!«</p>
+            <pb facs="#WIKI00123-056" n="56" xml:id="pb.056"/>
+            <p>Bilo mu je tako nenavadno čudno v duši kakor še nikdar. Čutil je, kakor bi se velikanske barikade podirale, kakor bi se razmikale strahovite, v nebo kipeče Alpe na stran, po sredi bi se pa zabliskavala nova dežela, zasevalo novo solnce.</p>
+            <p>»Hahú!« se je zasmejal z bolestnim grohotom. »Tako je! Dosegel sem — sama ravnina se razprostira pred menoj ... Hahú: močvirje — spremljati me je hotela — Angela, kakor delajo predmestne natakarice. Hahú, hahú!«</p>
+            <p>Začutil je, kakor bi se mu nekaj trgalo v notranjščini in padalo strani, kar ga je tako neznansko mučilo in tlačilo ... Le nekaj ran, se mu je zdelo, da še čuti.</p>
+            <p>Semen je bil ozdravel.</p>
+            <p>Videlo se mu je vse njegovo prejšnje dušno življenje blazno, neumno ... Slabosti je čutil vsled svoje čudne vzgoje, katere se je zopet spomnil, in siknil je med zobmi:</p>
+            <p>»Ne rodimo se za to, da bi trpeli radi neumnosti roditeljev, ki niso umeli svojih dolžnosti« ...</p>
+            <p>Prekasna ura je brnela v nočni čas iz zvonika mestne župne cerkve, ko se je ustavil pred svojim stanovanjem ter motril velikanske levje glave iz malca, ki so se dvigale iz zidu med okni ...</p>
+         </div>
+      </body>
+   </text>
+</TEI>

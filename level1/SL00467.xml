@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SL00467">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Kovač in njegov sin.  : ELTeC edition</title><author>Bohinjec, Peter (?-?)</author>
+            
+            <respStmt>
+               <name>Domen Kermc</name>
+               <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
+            </respStmt>
+         </titleStmt>
+         
+         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <sourceDesc>
+            <bibl><title>Kovač in njegov sin</title><author>Bohinjec, Peter</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Kova%C4%8D_in_njegov_sin</idno><idno type="urn">http://archive.org/details/slovenskeveerni01svgoog</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
+         <langUsage><language ident="sl">slovenščina</language></langUsage>
+         
+      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/></textDesc></profileDesc>
+      <revisionDesc xmlns:t="http://www.tei-c.org/ns/1.0"><change when="2018-10-11"><name>Lou Burnard</name>: converted to ELTeC
+           </change>
+         <change when="2015-09-26">
+            
+            <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
+         <change when="2013-11-29">
+            
+            <name>Domen Kermc</name>: pretvorba v TEI P5.
+      </change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text xml:lang="sl">
+      
+      <body xml:lang="sl">
+         <pb facs="#WIKI00467-001" n="1" xml:id="pb.001"/>
+         <div xml:id="wv-I.">
+            <head xml:id="head.1">I.</head>
+            <p>V gostilni Popustkovi je bilo živahno.</p>
+            <p>Velika izba je bila polna gostov. Pili so, da je krčmarju srce poskakovalo. Na zapečku je sedel šegavi Diguž in raztegal harmomko. Izba se je komaj videla iz dima in prahu. Plesali so, jedli in pili, peli in kričali, da so rosna okna šklepetala.</p>
+            <p>Bil je Šentjanžev dan — dan poslov. Hlapci in dekle so se selili od gospodarja do gospodarja, vozili svoje skrinje in preštevali pa zapijali zaslužene denarce.</p>
+            <p>Zunaj je bil mrzel zimski dan. Sneg je pokrival dol in plan in sani so cvrčale po ledeni cesti. Lačne vrane in čopasti vdebi so brskali po česti, vsiljivi vrabci so trkali na okna in se stiskali pod podstrešjem.</p>
+            <p>Pri mizi za durmi je sedel človek pri petdesetih letih. Obleka in lica so kazala, da je moral biti kovač. Črno zamazana srajca je gledala izpod rjavega rokavnika in začrnela lica so bila zabuhla in na obrvih so se lesketale sajaste pičice. Izpod trepalnic je gledalo dvoje živih oči, ki so znale človeka očarati. Črna, polna brada je slonela na prsih, nad bledimi ustnicami so štrlele neglajene brke tja v beli svet in izpod kape s strešico so se kodrali razmršeni lasje. Svoje noge je molel po izbi, tako da se je marsikateri plesalec zadel ob nje. Ena hlačnica je bila zavihana, druga je opletala po raztrganih opankah.</p>
+            <pb facs="#WIKI00467-002" n="2" xml:id="pb.002"/>
+            <p>Bila je miza polna pivcev, in marsikateri se je obrnil do znanega kovača. Toda ta je le malo govoril, prikimaval in odkimaval, majal z ramami in migal, tem hitrejše pa nosil kozarce na usta. Zamišljeno je zrl po izbi in videlo se je, da nekoga išče ali pričakuje. Večkrat mu je pogled ušel skozi okno.</p>
+            <p>Kar zažvenketajo zvonci na česti. Pridirjal je čil konj v saneh. Na njih pa sta sedela na živo pobarvani skrinji dva človeka. Eden je bil fant pri petindvajsetih letih. Drugi deček pri petnajstih letih. Ta je držal vajeti v roki in ustavil pred gostilno.</p>
+            <p>Kovač je že stal na pragu in klical prihajajočega fanta. „Martin, pojdi pit!“ reče kovač. „Ti pa, Lojzek, kar pelji skrinjo domov, da se konj ne prehladi.“</p>
+            <p>In Lojzek požene konja, Martin, novi hlapec Rebrov, pa vstopi s kovačem.</p>
+            <p>Kovač je bil samski in je koval kmetu Rebru v njegovi kovačnici že izza mladih let. Klicali so ga navadno za „Čmoka“, a da se je pisal Reber, kakor njegov gospodar, in da mu je bilo ime Urh, to je malokdo vedel. Sploh je bilo njegovo rojstvo zavito v temo in vedelo se je le toliko, da je svojemu gospodarju v sorodstvu. Priimek „Čmok“ je pa dobil še kot otrok. O veliki noci so otroci „štručali“ s pirhi. Ako je kdo drugemu jajce z jajcem ubil na „peti“ in „špiculji“, so takemu pirhu rekli „čmok“. Urh je rad klical o velikonočnih praznikih po maši: „Celo jajce!“ Pa so mu odgovarjali: „Špiculjo navrzi!“ „Štručali“ so ali „tilkali“, in če ni bil „penj“, pa je bil „čmok“. In Urh je znal dobro štručati. Če je nasprotnik še tako tiščal jajce z roko, je že prišel Urh kako do njega in od strani udaril jajce in tako dobil stavo. Po cele peharje je tako nabral čmokov, ubitih pirhov, in jih dal sekati z novci. Kadar so bili že precej od krajcarjev razsekani, jih je pa dal v „soldate“, kakor je rekel, to se pravi, da jih je snedel. Urh se je še ves teden mastil s temi čmoki. Tako so mu otroci nekaj iz zavisti, nekaj iz nagajivosti dali ime Čmok. To ime mu je ostalo vse življenje. Urh se ga je navadil in ljudje tudi, in nihče ga ni drugače klical kakor Rebrov Čmok.</p>
+            <p>Ko stopita v izbo, hlapec in Čmok, sta se kmalu začela vrteti. Čmok je pribijal s peto, da se je pod potresal, toda plesati ni znal dosti. Plesal je bolj drugim v zabavo kakor sebi. Martin pa je poprašal najprvo Kolenčevo deklo <pb facs="#WIKI00467-003" n="3" xml:id="pb.003"/>Barbo, če gre na okrog. In šla je rada, saj bosta zdaj z Martinkom najbližja soseda. Brž sta si imela toliko povedati in Barba mu je naslikala vse razmere v Rožnem dolu, seveda po svoje.</p>
+            <p>„Le tega Cmoka se drži, ta ima veliko moč,“ mu je rekla naposled.</p>
+            <p>In Martinek je zopet sedel k mizi poleg kovača.</p>
+            <p>„Le čvrst bodi, pa mene se ne boj,“ mu reče kovač, „Črn sem res, pa kaj se hoče? Danes zjutraj sem že tri konje podkoval in ni se mi ljubilo preoblačiti. Saj nisem šel v cerkev. Za te krčmarje, ki nas skubejo, je pa že dovolj rokavnik črez rame. Črn sem, Martinek, kakor sam peklenšček. Človek ne more drugače pri takem delu, da se ne umaže. Ali pod kožo pa imam tudi jaz srce, in sicer srce tako, da se gre meriti z najnedolžnejšo deklico. „Ha, ha, ha!“ se je Čmok prisrčno nasmejal in udaril na prsi. Gostje pri mizi so se tudi smejali: „Hi-hi, hi!“ Hlapec Martinek pa je zamišljeno slonel na mizi in poslušal. Ni razumel svojega sopivca. Otresne z glavo in zakliče godcu, kateremu vrze stan štirec na harmoniko: „Polko!“</p>
+            <p>Brž so se jeli pariti na sredi izbe. Martinek je na besedo Čmokovo stopil k bližnji mizi, kjer je sedela lepa, mlada deklica poleg svojega očeta.</p>
+            <p>„Uršika, ali greš?“</p>
+            <p>In dekle je zardelo, pogledalo očeta, Rebrovega mlinarja. Ta pa je dvignil glavo potrjevaje.</p>
+            <p>Uršika je bila res lepa deklica, kakor ravnokar razcvetel makov popek. Ni čuda, da je bila Martinku povšeči. Kakor vrtalko jo je sukal po izbi in vseh oči so bile na nju obrnjene. Marsikdo je zavidal Martinku in marsikomu je bilo žal, da se ni že prej obrnil do Uršike. Niso si upali, ker je bil oče poleg nje. Ali Čmok je znal vselej pravo struno zadeti. Hlapec je s hvaležnim očesom pogledal najprvo kovača, potem pa mlinarja. Prisedel je in dal za stari bokal.</p>
+            <p>„Ti si našega prejšnjega oljarja brat, kaj ne da?“ povpraša mlinar Martinka.</p>
+            <p>„Ste zadeli, oče! Ali sem mu podoben?“</p>
+            <p>„Kakor brat bratu,“ odgovori smejaje se mlinar.</p>
+            <p>„Tako priden je bil tisti oljar, pa dober kakor dobcr dan v letu,“ poseže Uršika vmes. „Kadar je odkod prišel, selej mi je prinesel malisnih jagod.“</p>
+            <pb facs="#WIKI00467-004" n="4" xml:id="pb.004"/>
+            <p>„Ti imaš rada melisne, Uršika?“ vpraša hlapec ljubeznivo in upre svoje modre oči v dekličje.</p>
+            <p>„Takrat sem bila še otrok in tudi volk na sladkor, zdaj pa ne več,“ odvrne Uršika, kakor bi se sramovala otročjih let</p>
+            <p>„Pa kaj imaš zdaj najrajši?“</p>
+            <p>„Naj oče povedo.“</p>
+            <p>„Le povej, le, Uršika, da imaš pomaranče in medene potico najrajši.“</p>
+            <p>Takoj je Martinek poklical krčmarja, ki je kmalu prinesel medeno potico na mizo.</p>
+            <p>Zopet je Martinek prisedel Čmoku. Ta pa se je delal, kakor bi nič ne videl in ne slišal.</p>
+            <p>„Kolenčevo Barbo spet noge srbe, Martinek!“</p>
+            <p>„Ali meniš, da mi Uršika ne bo zamerila?“</p>
+            <p>Pri tem vprašanju so se Čmoku oči zabliskale. Zabliskale so se tako, da je Martinek mislil, da vidi pred seboj samega vraga. Kakor bi ga strela zadela, tako ga je zadel ta Čmokov pogled. Nikoli več ni zaželel kovaču nasprotovati. Kar dvignilo ga je nekaj izza mize in brž je stal pred Barbo.</p>
+            <p>Diguž je zagodel „balcar“.</p>
+            <p>Barba je bila že črez tridesetkrat Šentjanževi dan na svetu preživela, služila je že črez dvajset let v Rožnem logu, nekaj čaša pri Rebrovih, zadnjih osem let pa pri Kolenčevih. Bila je močna, trdna, pa zgovoma ženska. Dobro se ji je zdelo, da jo Martinek že drugič vabi na ples, in zato je odprla nekaj več svojega srca.</p>
+            <p>„Veš, Martin, ta-le Cmok ima veliko moč,“ je ponavljala, ko sta se počasi sukala po izbi. In Martin je bil ravnokar o tem prepričan, ko ga je Čmok pogledal s svojimi očmi. Zato je hitro potrdil Barbi:</p>
+            <p>„To je pa res, Barba! Že danes sem skušal. Ali ne zna tudi čarati?“ povpraša jo prav na tihem.</p>
+            <p>„Martine, tebi se obetajo še zlati dnevi. Že vidim, da me razumeš. Povem ti pa, da se Reber in Kolenec ne moreta živa videti. Zato tudi nimata rada, da se posli med seboj kaj menijo. Pa tako-le, veš, tam doli pri Reberci, pri potoku, kamor prat hodimo, precej nad kovačijo, tam pa se že da katera reči. Ti boš konje napajal, jaz bodem pa cunje prala. Saj me razumeš?“</p>
+            <p>Diguž je močno pritisnil harmoniko.</p>
+            <pb facs="#WIKI00467-005" n="5" xml:id="pb.005"/>
+            <p>„Sedi in pij,“ reče kovač hlapcu. Ta je z veseljem prijel za kupico in močno potegnil. Potem pa je nesei kozarec še k Barbi in rekel: „Pij, Barba, ki znaš tako dobro plesati!“</p>
+            <p>In Barba je nastavila Martinov kozarec na usta in pokusila.</p>
+            <p>„Kar zvrni ga, Barba, saj nima kosti.“</p>
+            <p>Precej časa je preteklo, da je Barba izpraznila kozarec.</p>
+            <p>„Ali znaš „štajariš“, Martine?“</p>
+            <p>„Znam že, pa ga že davno nisem.“</p>
+            <p>„Pa poskusi. Nekaj ti imam še povedati“</p>
+            <p>Martin je bil v zadregi.</p>
+            <p>„Počakaj,“ pravi in se vrne h kovaču.</p>
+            <p>„Barba bi rada „štajariš“ plesala.“</p>
+            <p>„Saj ga ne zna,“ odvrne hitro kovač. „Če hočeš „štajariš“ plesali, pleši ga z mlinarjem. To znajo le stari ljudje.“</p>
+            <p>In Martin je bil takoj pripravljen. Barbi je na tihem povedal, naj počaka, sam pa stopi k mlinarju in ga popraša, če gre štajariš plesat.</p>
+            <p>„Veš, Martine, jaz sem že prestar za to in se mi ne ljubi Uršika pa ga je v mlinu že večkrat plesala z oljarjem in ga zna ravno tako kakor jaz. E, kje so čaši, ko sva ga rajala s tvojo rajno materjo. Na marsikateri svatbi so naju občudovali.“</p>
+            <p>Kdo je bil bolj vesel tega odgovora kakor Martin. Takoj je potihnilo po izbi. Diguž je stresel par „jodelnov“ iz harmonike, zaukal in štajariš se je pričel.</p>
+            <p>Martinek in Uršika sta se sama gugala in zvijala na plesišču. Kolikorkrat sta zavila roke nad glavami, sta si kaj povedala na uho.</p>
+            <p>„Ali ti je Barba kaj pravila?“ popraša Uršika.</p>
+            <p>„O je, je, dosti vem.“</p>
+            <p>„Veš, Kolenec bi rad mene spravil v svoj mlin, pa sama ne grem. Tistemu Juriju, Kolenčevemu mlinarju, pa kar nič ne zaupam. Saj je že prileten, vdovec je, pa je tako neumen.“</p>
+            <p>„Aha, tistega Jurija pa poznam. Pravil mi je moj brat včasih o njem. Služila sta skupaj v Kačarjevem mlinu.“</p>
+            <p>„Pa nič pošten ni ljudje se vedno pritožujejo, da jemlje preveliko merico.“</p>
+            <p>„Nič se ne boj, Uršika! Dokler sem jaz na Rebri, se le na me zanesi.“</p>
+            <pb facs="#WIKI00467-006" n="6" xml:id="pb.006"/>
+            <p>„Vedno lazi za mano. Če le ženem goved napajat, brž mi je za petami. Enkrat mi je poslal po pastirici svileno ruto, pa sem mu jo nazaj poslala.“</p>
+            <p>„Prav si imela, Uršika.“</p>
+            <p>Pa sta se zmotila, Martin in mlinarjeva hči. Nekateri so se zasmejali, Uršika je ušla s plesišča k očetu, Martin pa je sam ostal na sredi izbe. Proti Barbi se je ozrl. Ta pa se je že zasukala ob mizi, namignila z roko, in ploskala sta z rokami.</p>
+            <p>„Diguž, drugo kito,“ zakliče Rebrov hlapec in „štajariš“ se je nadaljeval.</p>
+            <p>„Bravo, Martine,“ se oglasi Čmok za mizo in pohvali hlapca, ki si je znal tako dobro pomagati iz zadrege.</p>
+            <p>Dim se je valil v kolobarjih iz izbe, kolikorkrat je kdo odprl duri, prah se je polegel po mizah in klopeh, Diguž je položil harmoniko za peč, sam pa se je postavil na sredo izbe in uganjal vsakojake burke.</p>
+            <p>Ravnokar je stopil v hišo Rebrov pastir Lojzek.</p>
+            <p>Diguž se razkorači pred njim, ga ogleduje in zine s povzdignjenim glasom:</p>
+            <p>„Poslušajte! Kdor mi pove, koliko knofov ima Lojzek pri hlačah pa mu bodem eno prav fletno zapel in zagodel.“</p>
+            <p>Vsi pivci obmolknejo in ogledujejo Rebrovega pastirja. Eden pravi, da štiri, drugi šest, tretji cnega. Toda nihče ni uganil. Kar se oglasi koveč in pravi:</p>
+            <p>„Lojzek pri hlačah nima nobenega knofa, zato ker je včeraj popoldne vse zaigral.“</p>
+            <p>Vsi se zasmejejo in Diguž takoj potegne Lojzku rokavnik raz hrbet, da se prepriča, ali je Čmok resnico govoril in dobil stavo. Zasuče ga okrog in okrog in glej — res je imel Lojzek svoje naramnice na lesenih klincih, ki so mu držali hlače po koncu.</p>
+            <p>Smehu ni bilo ne konca ne kraja, Lojzek se je malo sramoval, pa naposled le pove, po kaj je prišel.</p>
+            <p>„Martin pa Čmok, pojta domov, so oče rekli. Bosta konja še danes podkovala, ker gredo jutri z njim v mesto.“</p>
+            <p>„Lojzek, pij! Očetu pa povej, da ga bova že jutri zjutraj podkovala, Danes je naš dan, jutri pa gospodarjev.“</p>
+            <p>In Lojzek je izpraznil kozarec, pa stekel zopet domov, da opravi Čmokovo naročilo.</p>
+            <p>Diguž je že držal v rokah harmoniko, sedeč na zapečku. Zahrkal je s hripavim glasom, zinil in zapel s spremljanjem harmonike:</p>
+            <pb facs="#WIKI00467-007" n="7" xml:id="pb.007"/>
+            
+               <l xml:id="l.1">Komar pa z muho pleše, tralala!</l>
+               <l xml:id="l.2">Da se zemlja trese, hopsasa!</l>
+            
+            <p>Na sredi izbe pa se je vrtil kovač sam, plesal po taktu držeč kozarec v roki in spremljajoč Diguža s svojim tenkim glasom:</p>
+            
+               <l xml:id="l.3">Muha se spotakne, tralala!</l>
+               <l xml:id="l.4">Nogo si izmakne, hopsasa!</l>
+            
+            <p>In Čmok se nalašc zavali po tleh, držeč kozarec kvišku. Brž skoči godec iz zapečka, pojoč:</p>
+            
+               <l xml:id="l.5">Gredo po zdravnika, tralala!</l>
+               <l xml:id="l.6">Sila je velika, hopsasa!</l>
+            
+            <p>Čmok leži na tleh in pije, pa izpije vino. In zopet pojeta:</p>
+            
+               <l xml:id="l.7">Preden on priteče, tralala!</l>
+               <l xml:id="l.8">Muhi kri odteče, hopsasa!</l>
+            
+            <p>Tako so uganjali posli burke pozno v noč. Dekle so že šle zvečine domov ob solnčnem zahodu, hlapci pa so še pili in peli vso noč.</p>
+            <p>Ko pa je Kleniški mežnar zazvonil beli dan, sta se Čmok in Martin vlekla proti domu. Kregala sta se, ker ni bilo mesca na nebu, a podkovala sta vendarle pri luči Rebrovcga šarca. Nato sta legla k počitku. Martin v hlev, Čmok na senico.</p>
+            <p>Tepeskanje sta zamudila.</p>
+         </div>
+         <div xml:id="wv-II.">
+            <head xml:id="head.2">II.</head>
+            <p>To je bilo lepo, pa je še, tam v Rožnem logu. Pod Slemenskim vrhom, tam ob turškem taboru, je izvirala Reberca, ki je požirala sproti vse studence na levo in desno in ob deževnem vremenu je narastla v dolini v velik potok, ki je že preplavil polje in loge. A to je bilo le včasih, nekatera leta spomladi. Sicer pa je Reberca ubirala precej redno svojo strugo in le v največji suši so usahnili studenci v toliko, da ni bilo več mogoče mleti in rezati.</p>
+            <p>Potok se je torej zvijal po Rožnem dolu, na levo in desno, tudi poševno. Kakor srebrna luskinasta kača se je videl s Slemena, in beli prodovi ob suši so se zdeli kakor bele štrene, po zelenem logu raztegnjene. Na levo se je stegal breg, ki se je izgubil polagoma v ravnini, a na tem bregu — Reber so ga klicali — je domoval kmet Reber. Dokler je segalo oko, od zelenega podnožja ob potoku, pa tja črez greben, poln razoranih njiv, in gori do Slemenskega <pb facs="#WIKI00467-008" n="8" xml:id="pb.008"/>vrha, zaraščenega s hosto, je segalo zemljišče Rebrovo. Z gozdom vred ga je bilo črez dvesto oralov. Ob potoku sočnati travniki, zasajeni z vrbami, jelšami, jagnedi, pod bregom vrsta njiv, a nad njivami breg, ki je izgledal spomladi kakor raj. Drevo pri drevesu, zdaj črešplje, zdaj hruške, zdaj črešnje, zdaj breskve, zdaj jablani, zdaj orehi so se vrstili skozi in skozi, od pomolja pa do podolja, od podnožja pa do grebena, ki je nosil na svojem hrbtu dve dolgi vrsti ozkih njiv. Onostran grebena, gori proti Slemenu je oko zagledalo le jelko na vrhu, bukev po bregu, vmes pa so bili posamič nasajeni hrasti, mecesni, borovci in lipe. Od obeh strani so držala pota navzdol in navzgor in ena glavna cestica, ki se je ovijala grebena, nasuta z belim gramozom, se je videla in svetila oddaleč kakor srebrn pas nevestin.</p>
+            <p>Misli si, dragi bralec, v sredi te skupine, tam nad pisanimi njivami, med cvetočimi drevesi, hišo enonadstropno, z dvema vrstama zelenokrižastih oken naokrog, s hrastovimi škodljami krito ostrešje, tam na desno dolgo poslopje, ozko, koder se skriva do petdeset glav živine, nad levo vezan kozolec z dvajsetimi okni in desetimi peroti. Tvoje oko se spusti malo niže in vidi pod hlevom še hleve, koder prebiva do trideset prašičev, na drugi strani pa skednje in senice, široke in visoke, da je lahko z vozom v njih obnil. Kajpada pri Rebrovih niso pogrešali sušilnice za sadje, ne uljnjaka, ne terilnice.</p>
+            <p>Na to posestvo je torej prišel Prahov Martin iz Ajdovega zrna za velikega hlapca. Zato se naj bralec ne čudi, da smo precej prvo poglavje začeli s pribodom Martina, ki je prišel jeseni od vojakov in je že kot dvanajstleten deček kake pol leta v kovačnici pri Čmoku pomagal, pa smrt očetova ga je vlekla domov, ker je bolehna mati sama težko izhajala, starejši brat pa je bil za oljarja izučen in je služil. Črez dve leti mu je pa umrla mati. Doma sta brata dala v najem, Martin je šel tudi služit. Bil je do vojaškega nabora pri kmetu Suknetu na Ajdovem zrnu za hlapca. In zdaj ga je Čmok nagovoril, naj se vdinja pri Rebru. Pa se je.</p>
+            <p>Toda lepota Rožnega dola ni še pri kraju. Onstran potoka je tudi breg, toda greben njegov ni tako ozek kakor na Rebri. Če stopiš na vrh, se ti odpre cela planina in kmet Kolenec, ki je tu domoval, je imel največ svojih njiv na ravnem in travniki so se mu ob potoku le malo <pb facs="#WIKI00467-009" n="9" xml:id="pb.009"/>namakali, Vsa skupina te tokave je imela nekako podobo upognjenega kolena, in odtod menda hišno ime Kolenec. Cesta iz dola na breg se ni ovijala, ampak se je vlekla naravnost ob bregu navzgor. Po bregu je bilo tudi obilno sadnega drevja, a ta drevesa so bila še primerno mlada in poznalo se je, da je novodoben gospodar na posestvu. Zdaj se je vrstila vrsta jablan, samih rajnet, zdaj zopet se je križala vrsta samih parmen, angleških in spet francoskih. Tudi kos drevesnice z lepim uljnjakom smo našli tam na obronku; za hišo, z opeko krito, se je odpiral lep, okusno ograjen in s stezami posut vrtec, v njem pa poleg domačih zelenjav mnogo dišečih rožic. V prvi vrsti so se zibali naglji, dišal je majaron, dišala meta, se barvile georgine in se drobile marjetice. Druga vrsta je kazala po gredicah salato za salato, od motovila do endivije; tretja vrsta je obsegala česenj in čebuljek, južni in debeli koren, repico in redkvico. In spet se je pokazala vrsta rdečih in rumenih vrtnic, ki so ves vrt začarale s svojim puhom in duhom. Toda kdo bi našteval vse te vrste in vse te razlike, kdo bi opisal ves ta red in vso to lepoto? Saj je že hladnica vsa premrežena in preprežena z divjo vinsko trto, na oknih se skušajo pravilno izpeljani žeravci, sloneči na lesenih treščicah, pred vratmi pa se vrste na levo in desno v velikih posodah košati oleandri. Pa kaj še? Celo ljuba vinska trta, prava trta, z amerikansko cepljena, se solzi v deseterih brajdah po vrsti in daje priliko, poskusiti se tudi v vinogradništvu.</p>
+            <p>Tudi njegovi gozdi so se raztezali tja gori do vrha Slemena, toda tako obsežni niso in tudi tako zaraščeni ne. Govedi niso imeli toliko kakor pri Rebrovih, toda lepša je bila in hlevi so bili vzomo urejeni. Njiv je bilo več, a travnikov manj kakor pri Rebrovih.</p>
+            <p>Tak je bil torej Kolenčev dom.</p>
+            <p>Kmeta Reber in Kolenec sta kraljevala v Rožnom logu. Kmetovala sta in vladala, kosala se in pravdala, nagajala in spet mirovala.</p>
+            <p>Toda v dolini, v Rožnem logu, je bilo še več družin. Precej pod Slemenom je imel Reber svoj mlin in svojega mlinarja, malo bolj v nižavi spet Kolenec svojega. Kolenec je imel tudi žago, Reber pa kovačnico že na koncu loga ob potoku. Tudi nekaj bajt je bilo posejanih ob vznožju, nekaj na to stran, nekaj na ono stran potoka. Reberca je bila naravna meja obeh kmetov.</p>
+            <pb facs="#WIKI00467-010" n="10" xml:id="pb.010"/>
+            <p>Od kovačnice dalje se je Reberca spustila po ravnini in četrt ure od tam je bila vas Klenica z župnijsko cerkvija in s šolo.</p>
+            <p>Ko se naša povest pričenja, sta bila Reber in Kolenec v razporu. Zidali so novo mežnarijo, ker so staro hišo porabili za šolo. Mežnar je imel sicer svoje tesno stanovanje v šoli, toda vedno sta se prepirala z učiteljem in možje so začeli uvidevati, da bode treba mežnarju umisliti novo stanovanie, zlasti še, ker sta imela mežnar in učitelj oba vedno večjo družino. Tudi višja gosposka je pritiskala na to, in župan kakor župnik sta oba podpirala to zadevo. Največji nasprotnik novi mežnariji je bil Kolenec. Njegova stranka je pri občinskem odboru poudarjala, da ni nikoli dala mežnarju dovoljenja za ženitev, da naj se mežnarija izroči staremu mežnarju, ki ima svojo hišo, in ki ga je župnik radi pijančevanja in nereda v cerkvi odslovil, orglanje pa naj prevzame učitelj. Novi mežnar je bil namreč obenem organist Več let se je vlekla ta zadeva, naposled pa je vendarle Kolenec propadel. Zato pa je nagajal, kjer je le mogel, župniku in županu, in je tudi z neko pritožbo dosegel toliko, da ni plačal vseh doklad, ki so bile zanj določene, da jih plača za novo mežnarsko poslopje. Ker dovoljena vsota namreč ni zadoščala za novo stavbo, je občinski odbor še napravil novo naklado, pa brez konkurenčne obravnave. In te Kolenec ni hotel plačati, češ, da je občinski sklep neveljaven, ker take naklade ne spadajo v občinsko področje.</p>
+            <p>Župan Rogelj in prvi občinski svetovalec Pavel Reber sta torej na vso moč pazila, da Kolenca kod drugod pristrižeta za tistih 30 kron, katerih Kolenec ni hotel plačati.</p>
+         </div>
+         <div xml:id="wv-III.">
+            <head xml:id="head.3">III.</head>
+            <p>Oče Reber je stal dopoldne po Šentjanževem z bičem v roki in čakal, da Martin napreže konja. Namenjen je bil v mesto, ki je bilo uro vožnje oddaljeno od Rožnega loga. Bil je mož pri petinpetdesetih letih, čokat, srednje velikosti. Gladko obrit obraz ga je delal čednega in vidrovka na glavi, nekoliko na stran obrnjena, ga je kazala srčnega. Visoke golenice so mu segale črez kolena, žametast telovnik se je svetil z dolgo, gosto vrsto belih gumbov, višnjeva „cafra“ mu je visela okrog vratu in oblečen je bil v kožuh s tankimi rožami ob robeh in po šivih.</p>
+            <pb facs="#WIKI00467-011" n="11" xml:id="pb.011"/>
+            <p>„Martin, kar je bilo, je bilo. Včeraj je bil tvoj dan, a zdaj se pa le drži, kakor se to za takega fanta podá. Danes imaš še dan za počitek, konje pa le opravi.“</p>
+            <p>„Je že prav tako, oče,“ odgovori Martin, vesel, da ni bilo hujše nevihte.</p>
+            <p>V tem pride hišna gospodinja iz hiše. V roki je imela zelen, kosmat koc, ki ga lepo razgrne po vozičku, da so rese visele navzdol. Bila je to velika ženska, srednje rejena, pa čednega obraza. Malo je govorila, pa veliko povedala. Oblečena v sivo krilo in črno kočemajko, je stopala počasi po dvorišču.</p>
+            <p>Oče Reber naredi z bičem križ pred konjem, sede na voz, potegne za zavoro, nategne vajeti in bič položi poleg sebe.</p>
+            <p>„Ne pozabi kupiti vreče soli. Srečno!“</p>
+            <p>„Bog daj,“ odvrne gospodar in šarec je potegnil.</p>
+            <p>„Ata, štruce ne pozabite prinesti,“ oglasi se petnajstletna deklica na pragu. Bila je bosa in je hitro zopet stekla v hišo in gledala skozi okno za odhajajočim očetom.</p>
+            <p>„Micek, brž, brž za peč, da se ne prehladiš,“ pokrega Reberna mati ljubeznivo svojo hčerko in ustnice se ji zadovoljno potegnejo na smeh. Nato se obrne do hlapca, ki je nesel kolomaz v kolamo, in pravi:</p>
+            <p>„No, Martine, kako pa je bilo včeraj? Ali ti je Čmok dosti novega povedal?“</p>
+            <p>Hlapec je bil skoro v zadregi.</p>
+            <p>„Dobro smo pognali včerajšnji dan, vendar me glava boli in ne ljubi se mi jesti. Ko bi pa imeli, mati, kaj črnega, bi mi prav ustregli.“</p>
+            <p>Gospodinja se je nasmejala in je vedela, kako moškim postreči. Zato je rekla:</p>
+            <p>„Le pojdi z mano, Martine!“</p>
+            <p>Malo čudno je gledal hlapec, ko mu gospodinja iz kuhinje prinese korec.</p>
+            <p>„No, vodo že zunaj dobim,“ si je mislil. Ali vzel je vendarle korec v roke. In glej! V korcu je bila — črna kava.</p>
+            <p>„Mati, vas bodem vselej rad ubogal. Vi poznate moške.“</p>
+            <p>„Bolj kakor ti ženske, Martine!“</p>
+            <p>Hlapec je malo čudno pogledal. Kaj, Reberna že morda ve, kaj se je včeraj godilo? Najbolje je, da sem odkritosrčen, si misli, in takoj začne pripovedovati precej na drobno, kako je bilo prejšnji dan pri Popustku.</p>
+            <pb facs="#WIKI00467-012" n="12" xml:id="pb.012"/>
+            <p>Gospodinja se je včasih nasmejala, včasih srpo pogledala, naposled pa dejala:</p>
+            <p>„Martine, Čmoka le rad imej, toda vselej ga pa ni treba poslušati. Je dober človek, toda gorje mu, kdor se mu zameri.“</p>
+            <p>In hlapec je šel iz veže, osnažil in ogladil konje, pa jih gnal na vodo.</p>
+            <p>Tam pri potoku ga je že čakal Čmok, ki je ravnokar odprl svojo kovačnico.</p>
+            <p>„Martine, danes še ne bomo delali. Grkovtu podkujem konja na ojstro, ker gre še danes v gozd, drugega nič. Potem gremo piko dret k Popustku. Pridi popoldne za menoj.“</p>
+            <p>In tako je bilo. Gostilničar Popustek je tisti dan še veliko pijače iztočil.</p>
+            <p>Tudi Reber se je nazaj grede oglasil pri Popustku. Pa z voza ni šel. Na vozu sta pila s krčmarjem bokal vina. Pravil mu je, da je sin premeščen k nadomestni rezervi in da na pomlad že pride domov. Vesel je bil Reber te novice, Popustek pa mu ni dal odloga, dokler ni Martin sedel na voz in se odpeljal s konjem domov. Reber stopi v gostilno in tam je dobil tudi svojega prijatelja, župana Roglja.</p>
+            <p>„Eh, veš kaj, danes sem pa vesel, kakor že davno ne. Vesela bode šele moja ženska, ko ji hlapec pove, da Jožek pride domov. Kaj meniš, ali ni to veliko? In sem prepričan, da je to največ tvoja zasluga, ljubi moj prijatelj, oče župan! Fant ti bo hvaležen. Mlad si še, mlajši od mene, toda zagotovim te, da bode moj sin še večja tvoja opora, kakor sem jaz. Saj jaz ne bom več dolgo gospodaril. Naveličal sem se in leva noga mi zmerom nagaja. Ko bi gospod župnik danes mene v roke dobili, rečem ti, da bi jim veliko obljubil.“</p>
+            <p>In oče Reber je dal še za več bokalov. Toda dolgo čaša se ni mudil v gostilni, kakor tudi njegov prijatelj Rogelj ne. Ob solnčnem zahodu sta odšla domov, dasi je bila na ono strán hiše med mladimi še godba in ples. Po potu pa je Reber Roglju povedal še to-le:</p>
+            <p>„Veš, v kratkem bodeš imel ogled za mojo žago. Kolenec se bode upiral na vse kriplje, pa ne bode nič opravil. Sem že govoril danes v mestu z odvetnikom.“</p>
+            <p>„Jaz bodem storil vse, kar je v moji moči.“</p>
+            <p>In prijatelja sta se razšla.</p>
+            <pb facs="#WIKI00467-013" n="13" xml:id="pb.013"/>
+            <p>Reber je imel devet otrok, pa vsi so pomrli, največ jih je vzela nalezljiva bolezen griža. Ostala sta le dva pri življenju: Jožek, ki je bil pri vojakih, in pa najmlajša, Micika. Reber je imel še dva brata in dve sestri. Oba sta bila oženjena, eden v Ajdovem zrnu, eden pa v Žeravici Tudi sestra je bila omožena v Porečju, druga sestra je bila neomožena doma, pa je pred tremi leti umrla. Bila je najstarejša. Agata ji je bilo ime. Pred petdesetimi leti je bila že zrela za možitev. Pravili so, da bi jo bil Kolenčev oče rad vzel. Pa stari Reber je bil odločno zoper to in ni hotel nič slišati o tem. Rebrova in Kolenčeva hiša se že od nekdaj nista mogli Stari Kolenec, ki je bil takrat komaj dvajset let star, se je oženil drugod. Vendar pa je Agata povila nezakonsko dete, ki so ga krstili za Urha. Toda krščen ni bil v Klenici, ampak daleč tam blizu Trsta, koder je imel Reber neko daljše sorodstvo. Agate takrat ni bilo kake dve leti domov in ljudje so govorili, da se je šla učit kuhat in šivat. Ženske pa ti govorici niso dosti verjele in so se na tihem posmehovale. Toda Agata se je vrnila in nihče več ni mislil na pretekle dogodke.</p>
+            <p>Kakih deset let potem pa je Reber dobil v kovačnico nekega dečka iz daljnih krajev. Stric njegov, stari Miha je že lezel v dve gubi in ni mogel več sam opravljati težkega kovaškega posla. Nekega dne torej je Spančkov Jurij, ki je však teden vozil v mesto, pripeljal v kovačnico štirinajstletnega dečka Urha. Bil je živahen, priden in prebrisan. Stari Miha ga je imel rad in izučil se je pri njem popolnoma kovaškega posla. Ko pa je bil dvajset let star, ga je Reber poslal tudi v podkovsko šolo za eno leto, da se je izučil dobro konje kovati, pa tudi živino zdraviti. Kmalu, ko se je vrnil, so ga napravili tudi za občinskega mesogleda. V tem pa je umrl stric Miha in Urh je postal samostojen. Oženil bi se bil rad, pa Reber mu ni dovolil, češ, da se mu ne mudi. Popustkova Franica mu je bila zelo všeč, pa niti Popustek, niti Reber nista hotela nič slišati o tem.</p>
+            <p>Franica se je kmalu potem omožila drugam, Urh pa ni hotel več ostati v kovačnici in je odrinil po svetu. Kake dve leti ni nihče vedel zanj, dasi so večkrat po njem popraševali. Reber je dobro vedel, da mu je Urh mnogo odlegel, in s kovačem, ki ga je dobil namesto njega v kovačnico, so bili ljudje malo zadovoljni. Urh, ali kakor so mu ljudje navadno rekli „Čmok“, je popotoval po raznih <pb facs="#WIKI00467-014" n="14" xml:id="pb.014"/>krajih. Naposled pa se je naveličal in vrnil se je domov močno izpremenjen. Prej tako vesel, odkritosrčen, potrpežljiv, zdaj pa zadirljiv, otožen in potuhnjen. Tudi pijače se je močno navadil in popil je vse, kar je prislužil. Toda delavec je bil še vedno dober. Zaupal ni nikomur razen svoji materi, Rebrovi Agati, ki je stanovala v bajti nad Rebrijo. Tja je zahajal najrajši po noči in z materjo sta se najbolj razumela in pomenila. Toda revica je bila že stara in bolehava, tako da ni mogla Urha voditi tako, da bi bilo prav. Nekaj jo je premagala slepa materina ljubezen, nekaj pa staro maščevanje nad tistimi, ki so ji zagrenili življenje. Tudi je Urha že toliko premagala strast, da ni bil več zmožen, nastopiti pot možatosti in poštenega življenja. Postal je navaden pijanček, ki je delal rad za kozarec vina ali kupico žganja. Največje njegovo veselje je bilo, da je koval, zdaj konje, zdaj zopet spletke. Ljudje, ne tuji, ne domači, ga niso spoštovali, toda bali so se ga; mladi ljudje pa so ga imeli radi, ker je rad zabaval in zabavljal, spletkaril in varil. Ako mu je kdo kaj plačal, je bilo prav, ako pa ne, je bilo tudi prav. Samo da je imel za vino in žganje. Le če se mu je kdo zameril, o takem je vedel dovolj slabega povedati in mu nagajal, kjer in kakor je mogel. Ali mu je poslal račun na zaostalem dolgu, ali pa mu ni napravil, kar je obljubil, zlasti takrat, kadar je naročeno orodje najbolj rabil. Rebru ni plačeval nič najemščine, le koval mu je zastonj.</p>
+            <p>Pred tremi leti je umrla Agata. Bil je lep pogreb, pogrebščina velika. Pa Urh ni prišel blizu. Le pokropit je prišel po noči svojo mater. Od tistega časa naprej je bil Urh cel Čmok. Sedem dni ni pokúsil nobene jedi, razen pijače. Pa tudi v kovačnico ni šel. Reber ga je mislil pognati, pa ni se ga upal. Bal se ga je. Vrhutega mu je bil dober pomočnik proti Kolenčevi hiši.</p>
+            <p>Nihče ni tako težko videl Čmoka kakor Kolenec. Kadar je namreč s paragrafi ugnal svojega nasprotnika, takrat se je pokazal Čmok in mu naredil križ črez račune. Ko postavim ni hotel plačati tistih trideset kron za mežnarijo, brž mu je Čmok eno zasolil. Naznanil ga je, da mu je svinja poginila za nalezljivo boleznijo, pa jo je sam pokopal. Dobil je šest dni zapora ali šestdeset kron kazni. Tako mu je podvojeno vrnil. Občina pa je dobila dvakrat trideset kron v ubožno blagajno.</p>
+            <p>In tako se je pesem nadaljevala.</p>
+         </div>
+         <pb facs="#WIKI00467-015" n="15" xml:id="pb.015"/>
+         <div xml:id="wv-IV.">
+            <head xml:id="head.4">IV.</head>
+            <p>Bilo je po Svečnici. Topli, solnčni dnevi so nastopili. Sveče ob strehah so se tajale in sneg je že skoro izginil.</p>
+            <p>Stari Kolenec je mislil, da ne dočaka več spomladi. Ni bil ravno bolan, toda star je bil. Črez osemdesetkjrat je že gledal spomladi v naročje. Lep, jasen, topel solnčni dan ga je privabil iz zapečka na jasno. Tam pred uljnjakom je sedel in zri na čebele, ki so kukale iz prašnice. Videlo se je doli po Rožnem logu. Pogled mu je uhajal tja proti kovačnici. Bridek nasmeh se je vrtil na njegovih izsušenih ustnicah.</p>
+            <p>Topli solnčni žarki so ga spravili v dremoto. Trepalnice so se stisnile in stari mož ni slutil, da stoji tam za vrtno ograjo njegov — sin.</p>
+            <p>„Oče, ali se grejete?“</p>
+            <p>Mož pogleda in se prestraši. Ozre se, pa pravi bolestno:</p>
+            <p>„Kaj me boš mučil do zadnje sape?“</p>
+            <p>„Nič vas ne mučim, oče! Samo poglejte to-le, pa od daleč, od blizu ne. Ali vam je znana ta pisava?“</p>
+            <p>Čmok je bil. Izpod srajce je privlekel v rdečo cunjo zavit papir in ga razgrnil.</p>
+            <p>Starcu so se noge šibile. Hitro vstane, kakor bi bil mladenič, in skoči za papirjem. Toda Čmok smeje odskoči in pritisne papir na hrbet. Stari Kolenec zopet sede na klop in globoko vzdihne.</p>
+            <p>„Čemu ti bo to,“ zopet začne. „Daj sem ali raztrgaj. Saj ves, da ti nič ne koristi!“</p>
+            <p>„Pa zakaj vam je toliko za ta papir, ako nič ni vreden?“</p>
+            <p>„Saj veš, da je za take reči najbolje, da se pozabijo.“</p>
+            <p>„Pa se ne bodo, oče moj! Na smrtni postelji mi je dala mati ta papir in je rekla: »To je tvoja dota!« Te črke, četudi so pisane z vašo krvjo, so mi ljube, so mi edini spomin moje matere. Te črke so moja moč, moje imetje, moja kri, moje vse. In te bi vam dal?“</p>
+            <p>„Jaz sem pisal, ko nisem vedel, kaj delam. Strast me je vodila. Tvoja mati me je prisilila.“</p>
+            <p>„Prisilila? Ni res! Vi ste jo prisilili, ko ste ji obetali, da jo vzamete. Vi ste jo zapeljali, vi ste jo storili nesrečno.“</p>
+            <p>„Saj bi jo bil vzel, pa niso pustili.“</p>
+            <p>„Ni res! S povzdignjenimi rokami vas je prosila, da ji ne napravite te sramote. Takrat je bil čas. Pa vi se <pb facs="#WIKI00467-016" n="16" xml:id="pb.016"/>niste zmenili za njo. Norčevali ste se in ste rekli, da jo bodete tožili, če le zine, da ste ji vi vzeli poštenje.“</p>
+            <p>„Zdaj ti tako nič ne pomaga ta papir, ker je pisanje na njem že zastarano.“</p>
+            <p>„To bodo odločili drugi, ne vi.“</p>
+            <p>„Pusti me pri miru, saj vidiš, da sem že na robu groba.“</p>
+            <p>„To vidim. Toda poravnati se mora vse na tem svetu. Tudi vi morate popraviti, kar ste zagrešili, drugače vas bo ta papir tožil pri sodbi božji.“</p>
+            <p>Starec se je zganil. Roke in noge so se mu tresle. Pa reče: „Urh, kaj naj poravnam?“</p>
+            <p>„Ali se vam jaz nič ne smilim, — vaš sin?“</p>
+            <p>„Kaj želiš? Ivan ti napravi kovačnico, če hočeš, na ti strani vode.“</p>
+            <p>„Naj bi bil bratov hlapec, kaj ne? Drugega nimate za me?“</p>
+            <p>„Kaj hočem jaz, saj veš, da imam samo kot izgovorjen.“</p>
+            <p>„Pa pritisnite, saj veste kako!“</p>
+            <p>„Ali naj storim celo družino nesrečno?“</p>
+            <p>„Saj ste jo že davno. Toda dovolj besedi, da vas preveč ne potarem. Rečem vam samo to: Moj sin je živ, čvrst, pri vojakih je zdaj. Pa pride kmalu od tam. In tedaj mu sporočim: Le pridi, da enkrat vidiš, kje je tvoj oče doma, ne doma, kje stanuje.“</p>
+            <p>„Ti imaš sina?“ začudi se oče.</p>
+            <p>„Bog že za to skrbi, da se greh kaznuje. In povem vam: ako vašo Reziko obljubite mojemu Janku, no, potem raztrgam ta papir, drugače ne.“</p>
+            <p>„Urh, ali ne veš, kaj je sorodstvo?“</p>
+            <p>Kovača je zadnja beseda preplašila. Ni mislil na to. Pa brž se domisli:</p>
+            <p>„To se že da tudi napraviti s spregledom. Pa z Bogom! Srečno večnost, če se ne vidiva več na tem svetu, moj oče!“</p>
+            <p>In Čmok se obrne po dolini Za debelo hruško postoji in gleda, kaj se premika tam doli po cesti. Več možakov je.</p>
+            <p>„Aha,“ si misli, „županski ogled je danes za Rebrovo žago. To bo pa zopet nekaj za me.“</p>
+            <p>In odkuri jo za potokom proti mlinu.</p>
+            <p>Stari Kolenec pa je še sedel na klopi pred uljnjakom. Zima ga je tresla in slabo mu je bilo. Do dna srca ga je <pb facs="#WIKI00467-017" n="17" xml:id="pb.017"/>pretresla novica, da ima Urh sina. Morda pa ni res? Morda je Urh le lagal, da ga je strašil? Na stara leta, pa take težke poskušnje!</p>
+            <p>Čmok se je že v mlinu pogovarjal z mlinarjevo Uršiko, ko so možje prišli na lice mesta.</p>
+            <p>Spredaj je korakal župan Rogelj in njegov drugi svetovalec Škopnik, za njima je šcl Kolenec. Bil je siv na glavi, strast se mu je brala na obrazu in v rokah je držal cel zavoj papirjev. To so bili prepisi aktov, katere mu je napravil brat Anton, notar v mestu. Tam onostran Reberce pa je mahal Reber, njegov sin Jožek, ki je prišel pred štirinajstimi dnevi od vojakov, in hlapec Martin.</p>
+            <p>Župan prebere ulogo Rebrovo za napravo nove žage in popraša mejaša Kolenca in žagarja njegovega, ali ima kdo kaj ugovarjati?</p>
+            <p>Kolenec takoj razgrne svoje papirje in začne naštevati različne vodne postave.</p>
+            <p>„Kdo izmed nas to razume? To je stvar višje gosposke. Danes se gre samo za to, ali imate vi, Kolenec, kako škodo pri svojem mlinu ali žagi, ako Reber naredi svojo žago?“</p>
+            <p>„Seveda jo imam. Kolikor bode Reber zreval, toliko zaslužka meni uide,“ odvrne Kolenec.</p>
+            <p>„To meni nič mar,“ se zadere Reber. „Na žago lahko vozi vsak, kamor hoče. Saj ni več tlake.“</p>
+            <p>„Pa vode ne bode dosti pri moji žagi in mlinu. Zapri mi bode Reber vodo, kadar se mu bode zljubilo.“</p>
+            <p>„Tega ne sme storiti in če stori iz škodoželjnosti, ga lahko naznanite.“ odvrne župan.</p>
+            <p>„Vi držite z Rebrom in jaz ne potrdim današnjega ogleda,“ odreže se Kolenec.</p>
+            <p>„Zakaj pa nas potlej kličete, če ne potrdite?“</p>
+            <p>V tem hipu stopi iz mlina Čmok. Tudi mlinar in več žensk se pokaže na pragu.</p>
+            <p>„Tega pa ne smemo trpeti, da bi kdo zasramoval našega župana, ki ga vsak pozna, da je pravičen in poštenjak,“ se oglasi Čmok z močnim glasom.</p>
+            <p>„Kaj to tebe mar?“ odvrne še Kolenec, toda zdaj ni bilo moč več mirno govoriti. Ženske so začele vpiti nad Kolencem in ga zmerjale: „Požeruh, slepar, norec!“ Martin ga je sunil v rebra. V tistem hipu ena izmed žensk vrže škaf vode nanj. Začel se je pravi pravcati pretep. Zablisknil se je celo nož v roki Kolenčevega žagarja. Martin pa je že <pb facs="#WIKI00467-018" n="18" xml:id="pb.018"/>pobral krepelec in mafanil po žagarjevi roki. Toda nesreča je hotela, da je udaril Rebrovega Jožka, ki je v tistem hipu skočil za žagarjem, in sicer po glavi z vso močjo. Jožek se je zgrudil na zemljo. Vsi so se prestrašili. Ženske so jele rjuti, Kolenec in žagar pa sta tekla, kar sta mogla, ob potoku proti domu.</p>
+            <p>Močili so Jožka z vodo, kri mu le tekla curkoma po licih.</p>
+            <p>Malo se je zavedel pa zopet padel v nezavest, ko ga prineso v hišo. Takoj je letel mlinar po konja, napregel in se peljal v mesto po zdravnika.</p>
+         </div>
+         <div xml:id="wv-V.">
+            <head xml:id="head.5">V.</head>
+            <p>Rebrovega Jožka so prinesli na smrekovih vejah domov. Položili so ga na posteljo in opazovali. Nič se ni zavedel. Poslali so po župnika, ki si je vse prizadel, da bi mladeniča oživel. Dejal ga je v sv. olje, mu dal odvezo in papežev blagoslov, toda zavedel se Jožek vendarle ni.</p>
+            <p>Hipoma se je zvedelo na okrog, kaj se je pripetilo. Stari Kolenec je padel v omedlevico. Tresli so ga in tresli, dokler se ni zavedel. Brž je izrazil željo, da želi s sinom sam govoriti. In govorila sta precej čaša sama v hiši. Potrt, bled, preplašen se je mladi Kolenec pokazal v vežo. Rekel je dekli, naj brž gre po župnika, ker oče ne bodo dolgo.</p>
+            <p>Ko pa je v Klenici zazvonilo za večerno molitev, se je stari Kolenec že poslovil od tega sveta.</p>
+            <p>Nič boljše skoro ni bilo pri Rebru. Zdravnik se je pripeljal iz mesta in Jožka vendar-le napravil, da se je zavedel. Poslali so še enkrat po župnika, da ga je obhajal. Jožek je imel veliko rano na sencih in črepinjo prebito. Zdravnik je svetoval odločno, naj ga peljejo v bolnico. Tam ga bodo operirali.</p>
+            <p>Tako se je tudi zgodilo. Jožku so zdravniki dvakrat prežagali lobanjo. Črez dva dni so mu že dali upanje, da ozdravi.</p>
+            <p>V tem pa so orožniki stikali za Kolenčevim žagarjem. Ta je bil brat mlinarja Jurija in sila oduren pa surov človek. Zato so se ga ljudje bali. Kolenec pa ga je imel rad, ker mu je dostikrat pomagal pri kaki spletki do Rebrové hiše. Še celo Čmok, ki se ni bal nikogar, se je žagarja Matevža najrajše izognil. Bil je Matevž hudoben človek.</p>
+            <pb facs="#WIKI00467-019" n="19" xml:id="pb.019"/>
+            <p>Edini, ki se Matevža ni bal, je bil Martin, Rebrov hlapec. Ta namreč je bil sila močan in je Matevža nekoč tako opral ob tla, da je ta tri dni čutil posledice padca. Žagar se ni bal nikogar in se je zanašal le na svojo pest in če treba — tudi na svoj nož. Toda Martin mu je bil kos.</p>
+            <p>Ali tisti dan Martin ni miroval. Peklo ga je, da je udaril po Jožku. Strašno mu je bilo hudo in Rebrovka ga je komaj potolažila, češ, da on ni kriv. Težka je bila taka tolažba, toda Rebrovka je bila modra in junaška žena, ki je znala tudi také družinske udarce prenesti.</p>
+            <p>Kajpada so bile tudi Martinu ure preštete. Orožniki so prišli ponj. Dasi jim je po pravici povedal, da je po nesreči udaril po Jožku, je vendar moral v ječo.</p>
+            <p>„To se bode pozneje izkazalo, kdo je kriv,“ zavrne ga orožnik. Vendar so mu dovolili, da je šel z orožniki iskat žagarja. iskali so ga do večera, pa Bog ve, kod je že bil žagar Matevž. Martin je sam šel v ječo.</p>
+            <p>Pri Rebrovih je bila doma velika žalost Tako so se veselili edinega sina, da pride od vojakov. In zdaj? Komaj je bil štirinajst dni doma; pa taka nesreča! Oh, kako se je Reber kesal, da ni Jožek ostal pri vojakih. Kako ga je skrbelo, ako ne okreva. Micika pa se kar ni mogla potolažiti. Še celo pošli so jokali in želeli Jožku skorajšnjega zdravja. Vrhu tega je bil zdaj še ob hlapca. In kdo je pobijalec Jožkov? Njegov hlapec Martin.</p>
+            <p>Tam na Kolencu pa je bilo dvoje bitij, ki je vendar le imelo sočutje do Rebrovih. Dekla Barba se je močno kregala nad žagarjem, ravno tako hči Rezika nad očetom.</p>
+            <p>„Čemu vedno te zdražbe? Kaj je tega potreba, da se sovražimo, kakor bi ne bili kristjani? Oh, kakšna sramota se napravlja obema hišama! Nič več ne ostanem doma, ako ne bo tega prepira enkrat konec. Naj naredi žago, če jo hoče!“</p>
+            <p>„Saj veš, da stric ne dovoli tega.“</p>
+            <p>„Kaj stric! Njemu je lahko, ki ga ni doma. Ali morate res strica vedno poslušati? Samo nemir dela v občini. In koliko ste plačali in boste še, ker ste tako trmasti.“</p>
+            <p>„Tiho,“ se zadere Kolenec proti hčerki.</p>
+            <p>Rezika pa le nadaljuje: „Ne morem molčati in dolžnost moja je, da vam povem.“</p>
+            <p>Pa Kolenec odide iz hiše.</p>
+            <p>Nič veselega, mimega življenja ni bilo pri Kolenčevih. Ni ga bilo prej, a zdaj ga je še manj. Tudi posli niso radi <pb facs="#WIKI00467-020" n="20" xml:id="pb.020"/>ostajali pri hiši in celo Barba je napovedala, da gre proč. Prej je bilo še, ko je Martin gonil živino na vodo. Z njim se je marsikaj pomenila, pa mu tudi marsikaj potožila, Ali zdaj Martina ni bilo vec. Le pastir Lojzek je gonil živino na vodo.</p>
+            <p>Kolenka je bila sitna in čemerna. Bila je bolehava in zato malokdaj dobre volje. Le Reziko so posli radi imeli in ona je bila pravzaprav gospodinja. Kolikokrat se je že ta ali oni posel napovedal, da odide, toda ljubeznivost in dobro srce Rezike ga je ustavilo. Tako je tudi Barba na njeno prošnjo še ostala pri hiši.</p>
+            <p>Pri Rebrovih se je spomladi obmilo na bolje. Jožek je okreval toliko, da je prišel iz bolnice domov. Ali močno se je izpremenil. Shujšal je, zadovoljnost je izginila iz njegovega obraza in zamišljeno je hodil okrog. Ljudje so dejali, da se mu včasih malo meša.</p>
+            <p>Stari Reber pa vendarle ni odstopil od svojega namena. Še enkrat je vzdignil županski ogled in potom začel staviti žago. Kolenec ni vec ugovarjal. Tudi on je postal zamišljen in otožen, odkar mu je oče umri. Žena ga je večkrat poprašala, zakaj je tak. Toda Kolenec je zkomizgnil z ramama in molčal. Kar mu je oče povedal na smrtni postelji, to ga je peklo v dno srca. Nič vec ni imel nobenega pravega veselja in česarkoli se je lotil, vse se mu je zdelo pusto in dolgočasno.</p>
+            <p>Le kovač Čmok je živel tako, kakor bi se nič ne bilo zgodilo. Še celo Jožkova bolezen ga ni ganila in zdelo se mu je, da je božja volja tako, da Jožko ne bode gospodaril na Rebri. Smilil se mu je edino hlapec Martin, ki je moral radi svoje gorečnosti dva meseca prebiti v ječi. Toda na poletje se je povrnil k Rebrovim in zopet se je začelo staro, dasi močno izpremenjcno življenje.</p>
+            <p>Tudi žagar Matevž se je zopet pokazal v Rožnem logu. Skrival se je, pa so ga vendarle zasačili. Toda dobil ni niti toliko zapora, kolikor Martin. Na jesen je zopet hodil po Kolenčevi žagi, ali jezilo ga je močno, ko so kmetje vozili mimo njena na Rebrovo žago. Prav malo je imel hlodov na žagi, Rebro vega mlinarja fant, ki je prišel od vojakov, pa je žagal na Rebrovi žagi. Bilo je prijetno v žagi in v mlinu, zakaj na žagi se je sukal France, Uršikin brat, v mlinu pa je pomagala očetu Uršika. Martin in Jožek sta rada zahajala na žago in Martinu je bilo žal, da ni izučen žagar ali mlinar.</p>
+         </div>
+         <pb facs="#WIKI00467-021" n="21" xml:id="pb.021"/>
+         <div xml:id="wv-VI.">
+            <head xml:id="head.6">VI.</head>
+            <p>Bil je topel spomladni dan.</p>
+            <p>Barba je z lopato premetavala zemljo v vrtcu, Rezika pa je z grabljami rahljala zemljo, da poseje vanjo salato, motovilčtik in druge zelenjave.</p>
+            <p>„Ali si slišala, Rezika, da je Rebrov Jožek že doma?“</p>
+            <p>„Ata so pravili, da je. Ali je popolnoma zdrav?“</p>
+            <p>„Ko bi bil Martin še, bi ti jaz že vedela povedati. Tako pa ta Rebrov Lojzek malo ve povedati. Rekel je, da je čisto zdrav. Čmok pa je pravil pri Popustku, da so se mu možgani močno pretresli in da nikdar vec ne bo popolnoma okreval.“</p>
+            <p>„Božec! Meni se smili! Dober fant je bil in lepega vedenja. Jaz sem ga tako rada imela.“</p>
+            <p>„Pa zdaj ga nimaš vec?“</p>
+            <p>In Barba se je naslonila na lopato pa pomenljivo pogledala Reziko. Ta je otmila z očmi in rekla:</p>
+            <p>„Barba, ti si poredna!“</p>
+            <p>„Kar nič ne obupaj, Rezika! Če je Čmoku po volji, gotovo ti ne uide. Ali Čmok je Čmok in sam peklenšček ne ugane njegovih misli. Zdi se mi, da bode Čmok še marsikatero izkuhal, dokler, dokler ...“</p>
+            <p>Barba si ni upala izreči stavka do konca. Rezika pa je le vlekla z grabljami po gredici, dasi je bila prst že davno zrahljana. Zamislila se je globoko in skrbi so ji polnile trpečo dušo.</p>
+            <p>Bila je sloke, nežne rasti, kakor iz voška vlit obrazek je žarel izpod pisane rute in rdeče ustnice so trepetale kakor razcveli mak v rži, ko ga veter zmajuje. Že je jeseni štiriindvajsetkrat praznovala svoj god. Do štirinajstega leta je bila gojenka uršulinskega samostana, od takrat pa je vedno bivala doma, le nekaj mesecev je prebila v mestu pri svojem stricu notarju, kateremu je stregla in kuhala njena starejša sestra Ivana. Na potezah obrazovih se ji je poznalo, da je trpela mnogo na telesu in na duhu. Tudi roke so bile zdelane na dlanih. Bila je pridna in modra gospodinja ter je svojo mater daleč prekašala.</p>
+            <p>„Barba, ali je res, da se Uršika in Martin rada vidita?“</p>
+            <p>„To pa to, Rezika! Tudi mlinar vé za to in gotovo bi bila drug predpust na svatbo povabljena, da ni prišel ta preklicani ogled zavoljo žage.“</p>
+            <p>„Pa kar na roko se bi vzela?“</p>
+            <pb facs="#WIKI00467-022" n="22" xml:id="pb.022"/>
+            <p>„Saj ima Martin svojo hišo v Ajdovem zrnu. Pa zdaj jo ima v najemu. Sicer pa bi ga Rebrov mlinar vzel pod svojo streho. Martin bi bil za hlapca, kakor je bil doslej. Uršika bi pa pomagala v mlinu in — zibala.“</p>
+            <p>„Rezika, pojdi gori!“ oglasi se materin glas iz hiše.</p>
+            <p>Deklica takoj nasloni grablje na ograjo ter steče iz vrta v hišo.</p>
+            <p>Kolenka je bila že petdeseto leto prekoračila. Suha, visoka in upognjena žena je kazala izpod obrvi dvoje živih oči, ustnice pa so izražale grenkobo in bolest.</p>
+            <p>„Rezika, ali veš, da je Jožek doma?“</p>
+            <p>„Ravnokar sem slišala.“</p>
+            <p>„In ti je znano, da Jožek ni vec pri pravi pameti?“</p>
+            <p>Dekle se je prestrašilo.</p>
+            <p>„Poglej, kako Bog kaznuje zavist in škodoželjnost,“ nadaljuje mati. „To ti povem zato, da ne boš več mislila nanj, na tega norca Jožka.“</p>
+            <p>Rezika je prebledela.</p>
+            <p>„Vem pa, da niti meni niti Kolencu ne bode mogoče dolgo čaša gospodariti. Oba sva bolehna in ne več zmožna voditi tako veliko gospodarstvo. Ti pa imaš tudi že vso pamet skupaj in čas je, da si poiščeš ženina.“</p>
+            <p>Rezika sede na klop in zre materi v oči.</p>
+            <p>„Rezika, oče ve že za ženina. Gotovo ti bo všeč, ker je tudi njemu všeč.“</p>
+            <p>Rezika vzdihne in vpraša:</p>
+            <p>„In kdo je ta, mama?“</p>
+            <p>„Iz mesta je. Učen človek in čeden. Kakšnih trideset let mora imeti.“</p>
+            <p>„Pa kako ga morete tako hvaliti, ker ga niti ne poznate?“</p>
+            <p>„Saj ga tudi oče ne pozna. Nekdo mu je pravil od njega in rekel, da tebe pozna. Najbrže te pozna še od takrat, ko si bila tri mesece pri stricu.“</p>
+            <p>Rezika se zgane. Vstane in gre po svojih opravkih. Bil je čas, da pristavi kosilo.</p>
+            <p>„Torej ženina imajo za me pripravljenega. In jaz ga niti ne poznam ne. To bo zopet nekaj lepega.“</p>
+            <p>Rezika pogleda skozi kuhinjsko okno tja črez Rožni log in debele solze se ji vdero po licih.</p>
+            <p>„Moj Bog! Kako sem jaz nesrečna!“ Izjokala se je kakor otrok, mislila na levo in desno, naposled pa sklenila, da piše v mesto svoji edini sestri, naj ona prevzame <pb facs="#WIKI00467-023" n="23" xml:id="pb.023"/>Kolenčevo posestvo. Same pa se je polaščala misel, da bi dala slovo domači hiši pa odšla v samostan. Toda stariše pustiti kar tako? In ali bode Ivana sprejela njeno ponudbo? Ali bo hotela iz mesta zopet na kmete? Ali bode Ivana tako skrbna za očeta in mater kakor ona?</p>
+            <p>Brez odločitve je skuhala kosilo.</p>
+            <p>Bilo je po južini. Rupert, hlapec Kolenčev, daljnji sorodnik njegov, je sedel na sodu, ležečem na dvokolesnih garah. Žvižgal je nalahkoma in brezskrbno zri tja po travnikih. Velik vol je vlekel vodo po klancu navzgor, vprežen v ojnice. Vol je zavil okrog vogla in se ustavil pred hišo v hruškini senci. Bil je navajen, ker je že tolikokrat pripeljal vodo iz Reberce.</p>
+            <p>Pred hišo na klopi je Rezika razkladala v zavitkih spravljena razna semena.</p>
+            <p>„Rezika, ali boš sejala?“</p>
+            <p>„Posejati mislim nekaj semen po vrtu. Pa zdi se mi še malo prezgodaj.“</p>
+            <p>„Ne bo prezgodaj, ne, saj že drevje tako brsti in videl sem včeraj v gorah že črešnjo cveteti.“</p>
+            <p>Rupert je izpregel vola, nato pa je sedel na klop poleg Rezike. Bil je zal mladenič.</p>
+            <p>„No, Rezika, kako je že kaj?“</p>
+            <p>„Tako, tako, Rupert. Kdaj bo že prišel dan, da bi mogla enkrat zopet tako veselo peti, kakor si ti ravnokar žalostno žvižgal?“</p>
+            <p>„Ali veš, katero sem žvižgal?“</p>
+            <p>„Kako bi ne vedela? Saj se mojemu srcu tako prilega.“</p>
+            <p>Rupert je umolknil. Nato je zopet zažvižgal tisto, ki pravi:</p>
+            
+               <l xml:id="l.9">Ko ptičica sem pevala,</l>
+               <l xml:id="l.10">sem sladke sanje sanjala;</l>
+               <l xml:id="l.11">oh, zdaj pa nikdar, nikdar več,</l>
+               <l xml:id="l.12">veselje preč je, preč ...</l>
+            
+            <p>Rezika in Rupert sta se dobro razumela. Rupert je bil že več let pri hiši in je veljal za velikega hlapca. Zato se je Rezika v vseh gospodarskih zadevah z njim posvetovala, dasi je bil Rupert bolj potreben šole, kakor Rezika. Mati se je za gospodinjstvo malo brigala zadnja leta, pa tudi Kolenec je ostajal dostikrat od doma ter se je največ mudil pri delavcih gori v gorah, kjer je že par let bukve in hraste sekal in vozil na žago. Za kmetijstvo se ni dosti menil. Le prodajal je in kupoval. Obdelovanje polja pa je prepuščal Rupertu.</p>
+            <pb facs="#WIKI00467-024" n="24" xml:id="pb.024"/>
+            <p>„Rezika, ali bodeš še dolgo čaša taka?“ popraša zopet Rupert deklico in se poredno nasmeja.</p>
+            <p>„Eh, Rupert, tisto me je malo mar. Mati bi radi videli, da bi se omožila. Tudi oče bi mi ne branili. Pa — “</p>
+            <p>„Pa — “ poprime Rupert, „pa — kaj je?“</p>
+            <p>„Pisati sem že mislila sestri Ivani, naj ona pride domov, jaz bi pa — “</p>
+            <p>„Pa — no kam?“</p>
+            <p>Rezika se je nasmehnila, pa ni odgovorila.</p>
+            <p>„Kaj skrivaš pred mano, Rezika, saj veš, da ti dobro želim.“</p>
+            <p>„Ne upam se ti povedati. Hud boš.“</p>
+            <p>„Ali morda misliš zopet na samostan?“</p>
+            <p>Rezika zardi, pa potrdi.</p>
+            <p>„Ne vem, če bode kaj kruha iz te moke. Mislim pa, da te je to najbolj užalilo, ker Jožek ni več to, kar je bil.“</p>
+            <p>„Jožka imam rada, kakor sem ga imela, tudi ko bi bil res prišel ob pamet, kakor pravijo. Toda na Jožka ne mislim, ker ves, da stariši moji tega ne bi nikdar dovolili. Pac pa mi nekega drugega nasvetujejo, ki ga ne poznam niti jaz, niti stariši. Čmok ga menda pozna.“</p>
+            <p>Rupert skoči po koncu in nevoljen zakliče:</p>
+            <p>„Že zopet je ta Čmok vmes! Čudno je vender to, da brez tega človeka ne more nič miniti.“</p>
+            <p>Pa se zamisli, mladi Rupert, zroč v tla. Nato sede poleg Rezike, jo poboža po licih, in pravi:</p>
+            <p>„Ne boj se, Rezika! Jaz bodem že zvedel zanj.“</p>
+            <p>„Nikar, Rupert! Pusti Čmoka pri miru. To je nevaren človek. Ne poznaš ga še, četudi zna biti hudoben, toda dobrega srca je pa vendarle, za kogar je. Morda dobro misli. Poprašaj Barbo in ta ti bo več vedela povedati.“</p>
+            <p>Rezika je odšla za voglom na vrt, koder je Barba še z lopato rezala zemljo.</p>
+            <p>„Oh, Rezika, tako dolgo te ni! Mati so že prašali za te.“</p>
+            <p>Deklica se ozre in zagleda mater na klopi pred uljnjakom.</p>
+            <p>„Ali vam je hladno, mama? Pojdite rajši v hišo, da se ne prehladite. To solnce je še premalo toplo za vas.“</p>
+            <p>„Dobro mi dene, Rezika! Samo slabosti me obhajajo. Prinesi mi malo vode.“</p>
+            <p>„Ali vam prinesem tudi Marijaceljskih kapljic?“</p>
+            <p>„Pa jih prinesi.“</p>
+            <pb facs="#WIKI00467-025" n="25" xml:id="pb.025"/>
+            <p>In deklica je stekla v hišo, pa prinesla materi vode in kapljic.</p>
+            <p>Nato je Rezika mater odpeljala v hišo.</p>
+            <p>Rupert pa je prišel s škarjami v roki na vrt. Namenil se je obrezati trte ob brajdnikih na koncu vrta.</p>
+            <p>„Vroče je, Barba, vroče, kajneda.“</p>
+            <p>„Pa še kako, Rupert! Mislim pa, da je bilo tudi tebi vroče, ko si sedel pred hišo na klopi.“</p>
+            <p>Rupert postane rdeč kakor kuhan rak, pa se zadere nad deklo:</p>
+            <p>„Molči, baba, kaj je bilo kaj napačnega?“</p>
+            <p>„Jaz nisem baba, ampak Barba.“</p>
+            <p>„Ti imaš res povsod svoj nos. Zato si tako malo prekopala.“</p>
+            <p>„No, Rupert, le potolaži se, saj razumeš šale. Prav je, da potolažiš Reziko. Ona je revica.“</p>
+            <p>„Torej si poslušala za voglom, ko sva se midva pogovarjala?“</p>
+            <p>„Ne ža voglom, čemu neki? V hiši sem bila in pri odprtem oknu sem vaju gledala in poslušala.“</p>
+            <p>„No, kaj je bilo kaj posebnega? Po licih sem jo pobožal. Ali je to pregrešno?“</p>
+            <p>„Nič hudega, Rupert! Samo to mi povej, kdo neki je ta ženin Rezikin, ki ga tako skrivajo?“</p>
+            <p>„To bodeš ti boljše vedela kakor jaz, ker se s Čmokom razumeta.“</p>
+            <p>„Midva se s Čmokom toliko razumeva, kakor vidva. Povem ti pa, da bodem že zvedela, kako in kaj je s to stvarjo.“</p>
+            <p>„No, le pozvedi, Barba! Hvaležen ti bom za to.“</p>
+            <p>In Rupert je šel na delo.</p>
+            <p>Tiho je bilo po logu, le iz kovačnice so se čuli udarci kladiva, ki je je Čmok vrtel nad razbeljenim železom.</p>
+         </div>
+         <div xml:id="wv-VII.">
+            <head xml:id="head.7">VII.</head>
+            <p>Veliki teden je kovač Urh rad vzel v roko sak in vilice ter šel lovit ribe po Reberci. Seveda ni imel pravice, toda za to se je Čmok malo zmenil, kadar je hotel kaj doseči ali ponagajati. Prepričan je bil v dnu svoje duše, da ima na Rebrovem pravice kot služabnik in kot sorodnik, skrivno pismo pa mu daje pravico na Kolenčevini, da stori lahko marsikaj, česar drugi ne more.</p>
+            <pb facs="#WIKI00467-026" n="26" xml:id="pb.026"/>
+            <p>Kolenec je vedel, da Čmok lovi ribe, dasi ima on ribji lov v najemu. Jezilo ga je in večkrat že je mislil naznaniti Čmoka kot ribjega tatu. Toda tisto, kar mu je oče povedal na smrtni postelji, tisto ga je vselej ustrašilo, da ni storil kaj takega proti Čmoku. Bal se ga je.</p>
+            <p>Ni se ga pa bal Rupert Ko je zvedel, da je Čmok zopet ribe lovil, je to povedal orožnikom. Ti so prišli do kovača, toda Čmok je tajil. Poprašal je orožnike, kdo jim je to naznanil? Povedali so mu sicer, da Kolenec ni ovadil, toda ovadnika mu niso povedali. Pa kaj takega se kmalu izve. Rupert je bil v gostilni pri Popustku in malo vinjen se je pobahal, da bode Čmoka spravil v ječo.</p>
+            <p>Čmok je odločno tajil, da je kradel ribe v Reberci. Ko mu orožniki povedo prico — Rebrovega Lojzka — se Čmok še ni vdal in zahteval je ime ovadnika, češ, da ga bode tožil radi krive obdolžitve. Čmok se je namreč popolnoma zanesel na Lojzka, da ga ne izda, in res se je Lojzek čisto potajil.</p>
+            <p>Prišel je dan, da gresta Čmok in Lojzek v mesto k sodišču. Po poti pa sta imela tak-le pogovor:</p>
+            <p>„Lojzek, žagar Kolenčev pravi, da si ti rekel njegovemu fantu: »Jaz sem pa vašo ribo jedel«.“</p>
+            <p>„Res sem rekel tako,“ odvrne Lojzek.</p>
+            <p>„Ako te sodnik vpraša, potrdi le, da si tako govoril, toda ne pozabi pristaviti, da pravimo tistemu mesu, ki ga ima prašič ob hrbtišču, tudi riba, in tako meso si ti jedel, reči.“</p>
+            <p>„Bom že, stric! Toda kaj, če bodem moral priseči?“</p>
+            <p>„Prisege ti ne bodo dali, ker nisi še zadosti star. Samo v roke boš segel sodniku in mu obljubil, da bodeš po resnici govoril.“</p>
+            <p>Čmok je dobro naučil svojega Lojzka. Kar čisto so mu verjeli pri sodišču in Čmok je bil oproščen.</p>
+            <p>Še tisti dan pa je Čmok vložil tožbo zoper Ruperta radi krive obdolžitve. Pa Rupert je bil tudi oproščen.</p>
+            <p>Kolencu ni bilo po volji, da se je Rupert zapletel v pravdo s Čmokom radi ribolova. Saj je dobro vedel, da s Čmokom najbolje izhaja, ako se ga izogiblje. Toda dolgo ni trajalo, da se je Čmok maščeval nad Rupertom. Kolenčev pastir namreč je gonil krave na vodo. Pa kdo ve, da so se živali zadnje čase naenkrat navadile hoditi črez vodo na Rebrov travnik. Spoznalo se je, da so sočnati travnik že znatno popasle. Čmok je še s soljo poštupal ob napajališču <pb facs="#WIKI00467-027" n="27" xml:id="pb.027"/>travo, da so krave še z večjo slastjo žrle. Nič ni pomagalo, da se je pastir jokaje jezil in tepel krave, odganjajoč jih s travnika. Živali je silno dišala solnata trava in še preden so pile, so hitele nekatere onkraj potoka.</p>
+            <p>Seveda je Čmok gospodarju pokazal popašeni travnik in naznanil županstvu. Dva cenilca sta prišla cenit popašeno travo. Cenila sta škode trideset kron. Kolenec je moral plačati trideset kron odškodnine.</p>
+            <p>Kolenec se je jezil nad Rupertom, da ga je zopet zamotal v prepir z Rebrovo hišo in pil je še bolj kakor prej, dasi bolj na tihem. Doslej je pil vino, odslej se je vdal tudi žganim pijačam. Vendar v gostilne ni zahajal. Mati in hči ga je večkrat popraševala, kaj mu je, da ni nikdar dobre volje, toda pravega odgovora ni dobila niti hči niti mati.</p>
+            <p>Zopet se ga je lotila stara strast, da ne odneha, in jel je pogostoma letati v mesto k bratu. Pripovedoval mu je po svoje, toda skrivnost, ki mu jo je oče izročil na smrtni postelji, ni hotel ali smel razodeti bratu. Hči Ivana ga je sicer pregovarjala, da naj pusti sosedove v miru, toda brat ga je potrjeval v misli, naj le vrača sosedu.</p>
+            <p>Ko je nekega dne prišel iz mesta domov, je poklical zidarja Špalka in ga vprašal, za koliko bi mu postavil kovačnico tam doli ob Reberci. Hotel je Čmoku postaviti tekmeca.</p>
+            <p>Ni bilo dosti neprilik. Jeseni je že stala Kolenčeva kovačnica ob Reberci in tudi kovača so hvalili, da zna posebno dobro pluge podstaviti. Toda Čmok se ni dosti zmenil za to. Pač pa je sklenil, Kolenčevega kovača nekoliko poskusiti.</p>
+            <p>Čmok je dal namreč na kovačnico nabiti z velikimi črkami popisan papir, na katercm se je bralo to-le: „Vsak posestnik, ki bode v Rebrovi kovačnici dajal delat celo leto, mu bode Čmok konje zastonj koval.“</p>
+            <p>Posestniki so se tega polakomnili in res je Čmok obdržal vse boljše posestnike.</p>
+            <p>Kolenčev kovač je tarnal gospodarju, da nima dovolj dela in še preden je prišlo novo leto, jo je kovač odkuril.</p>
+            <p>Kolenčeva kovačnica je ostala prazna. Prej je tudi Kolenec dajal delat Čmoku, zdaj pa je uro daleč — v Žeravico gonil konje k podkovanju.</p>
+            <p>Nič ni bilo zadovoljnosti pri Kolenčevih. Tudi Rupert se je naveličal, in ko bi ne bilo radi Rezike, potegnil bi <pb facs="#WIKI00467-028" n="28" xml:id="pb.028"/>jo bil že strani. Rezika pa je vedno težje prenašala gospodinjske skrbi. Vedno bolj se je je polaščala misel, da bi pustila dom in šla v samostan. Sicer je vse neprilike prenašala z neko zunanjo hladnostjo, toda v srcu ni bilo miru, sreče in zadovoljnosti. Ves svet se ji je zdel tako pust, in da ni bilo Ruperta, kar poslovila bi se bila od doma za vselej. Vendar starišem še ni resno razodela svojega načrta za prihodnjost.</p>
+            <p>Bilo je o prazniku sv. Rešnjega Telesa. Došlej je bila navada, da je bil ob procesiji vselej prvi blagoslov pri Kolenčevi kapelici. Letos pa se je tudi to zasukalo drugače. Kolenčeva hiša je bila zadnja leta proti župniku, ker je bil ta na Rebrovi strani, zato se je župnik Kolenca izogiba. Reber ga je že prej nagovarjal, da takoj napravi kapelico, ako mu župnik obljubi, da bode prvi blagoslov pri njegovi kapeli. Pa župnik ni hotel procesije v strankarske namene izkoriščati. Ko pa je Kolenec jel zabavljati ne samo pri občinskih sejah, ampak tudi javno, po gostilnah in doma črez duhovnike, se je župnik odločil. Brž so zložili nekaj stotakov za novo kapelico lurške Matere božje. Reber pa je zvozil potrebne stvari, in ob praznilru sv. Rešnjega Telesa je že bil blagoslov pri Rebrovi kapelici, dasi ni bila še docela izgotovljena. Prizadel si je za njo zlasti Rebrov brat, ki je bil župnik v Ajdovem zrnu.</p>
+            <p>Ta dogodek je Reziko najbolj zbodel v dno duše.</p>
+            <p>„No, zdaj smo prišli tudi pri župniku v zamero. Meni ni več prestati. Povem vam, mati in oče, da jaz ne ostanem več doma. Kdo bi živel tako kakor v peklu? Jaz pojdem v samostan.“</p>
+            <p>„Aa, ti v samostan,“ se Kolenec divje zasmeja. „Nikdar ne — moja hči v samostan. Doma boš in moža boš dobila.“</p>
+            <p>„Ali ti je toliko za svoje stariše, Rezika?“ nadaljuje mati. „Dokler si bila mlada, sva bila dobra. A zdaj, ko sva se midva postarala, pa naju hočeš zapustiti? Tako srce imaš ti?“</p>
+            <p>Tudi doma ni bilo vec pravega sporazumljenja od tistega časa.</p>
+            <p>Rupert in Rezika sta kovala nove naklepe, toda brez upa do zmage. Le Barba se ni dosti zmenila za vse to in je bila vesela, da je Martin zopet prišel domov.</p>
+            <p>„S tem se da kaj govoriti,“ je dejala, ko je šla s perilom z vode.</p>
+            <pb facs="#WIKI00467-029" n="29" xml:id="pb.029"/>
+            <p>„Saj je Martin tudi mož na svojem mestu,“ je dejala Rezika. „Vse ga uboga, kar reče on, in odkar je domači Jožek bolehav, le njega vse posluša. No, Čmok je njegov prijatelj in to je dovolj.“</p>
+            <p>„Bodi še ti, Rezika?!“</p>
+            <p>In Barba se je zlovoljno nasmejala.</p>
+            <p>Rezika pa je bila notranji boj, valovi so se zaganjali v barko njenega srca, potopiti so jo hoteli —. Oh, ali ni več rešilne deske?</p>
+         </div>
+         <div xml:id="wv-VIII.">
+            <head xml:id="head.8">VIII.</head>
+            <p>Bilo je avgustove dneve. Pri Rebrovih so pričakovali strica župnika. Že mnogo let ga ni bilo doma; letos pa je obljubil, da pride za teden dni domov. Željno so ga pričakovali. Oh, toliko so mu imeli povedati, potožiti!</p>
+            <p>Marsikaj se je izpremenilo tekom leta. Reber je bolehal, Reberna je postala zamišljena, Jožka je zapuščal spomin, le Micika se je brzo razvijala.</p>
+            <p>Že so mislili, da bode Jožek veselje in ponos starišev in hiše. Toda nesrečni prepir s sosedovimi je tako zagrenil mirno življenje na Rebri.</p>
+            <p>Jožek sam je šel po strica. Župnik se je prestrašil svojega nečaka. Tako je bil čvrst, močan, zdrav, vesel, bistre glave, ko se je poslavljal pri njem, odhajajoč k vojakom. In zdaj? Suh, bled, z brazgotino na čelu, zamišljen, slabega spomina. Pogovarjala sta se na vozu, pa župnik je takoj opazil, da ga spomin trenotno zapusti. Komaj je povedal, da ima Kolenec svojo kovačnico, že je zopet črez pet minut ponavljal taisto. Vesel se je župnik vsedel na voz, češ, da za teden dni odloži svoje skrbi, toda pogovor z Jožkom ga je užalostil.</p>
+            <p>„Ta že ne bo gospodaril na Rebri,“ si je mislil.</p>
+            <p>Kmalu sta obstala z vozom pred domačim pragom. Vsi so župnika-strica z otroško vdanostjo pozdravili in mu poljubili roko, le oče Reber mu je molče podal žuljavo desnico.</p>
+            <p>Najprvo se je oglasila Micika in hitela pripovedovati stricu vsakojake domače novice. Povedala mu je, koliko imajo piškov, koliko pujskov, kazala mu je, kakšna oblačilca so ji kupili mama, kako so čebele rojile, kako so kapelico ovenčali ob procesiji.</p>
+            <p>Mati Rebrna je zopet potožila, kako so jim Kolenčevi nasprotni, kako je postavil kovačnico, kako se Čmok <pb facs="#WIKI00467-030" n="30" xml:id="pb.030"/>čudno vede, kako gre sosedovim vse narobe, kako je z Jožkovo bolno glavo.</p>
+            <p>Globoko je vzdihnila naposled žena, rekoč: „Bog nas poskuša!“</p>
+            <p>Brat je zopet razkladal svoje težnje in skrbij tako da je hitro preminil prvi dan počitnic.</p>
+            <p>Župnik Reber je bil že blizu sedemdesetleten, pa še vedno trden možak. Sivi lasje so mu venčali glavo, ki je že lezla med rame. Bistre, črne oči pa so še vedno veselo in živahno gledale v beli svet. Najrajši je sedel na vrtu pri čebelah, ali pa je korakal pred novo kapelico lurške Matere božje in snoval načrte, kako bi se lepo in okusno dovršila. Stanoval je v hišici, koder je prebivala pred leti njegova umrla sestra Agata. Odkar je ona umrla, ni nihče stanoval v nji. Le Čmok je včasih zlezel skozi duri v podstrešje.</p>
+            <p>Župnik je že prej večkrat imel misel, in tudi zdaj je ponavljal, da bi se dal upokojiti in stara leta preživeti v domačem logu. Postaral se je, opešal je, in da ni imel pomočnika, bi že davno ne bil več mogel opravljati svojih službenih poslov. Že parkrat je izrazil željo po pokojnini, toda sosedni tovariši so mu odsvetovali, češ, saj ima pomočnika.</p>
+            <p>V domačem krogu so dnevi hitro potekali. Vse se je nekako predrugačilo s stričevim dohodom. Zdelo se je, kakor bi častitljiv starček donesel mir v Rožni log. In res se je za to tudi prizadel. Nič ni pomagalo, da so mu domači ugovarjali, naj ne hodi za Kolenčevim. Povabil je s pismom Kolenčevega brata notarja, da pride za kak dan iz mesta v Rožni log, ker se ima z njim več važnih stvari pomeniti. Notar se je odzval povabilu in napovedal dan prihoda. Tudi njemu se je zdelo, da brat ne hodi več pravih potov in skoro mu je bilo žal, da je preveč netil ogenj sovraštva med sosedoma. Pisal je župniku, da se ta in ta dan popoldne ustavi pred Popustkovo gostilno in tam naj ga počaka.</p>
+            <p>Tako je tudi bilo.</p>
+            <p>V nedeljo popoldne so se pozdravili v stranski sobi pri Popustku župnik Reber in notar Kolenec, župnik Kleniški in župan Rogelj.</p>
+            <p>Najprvo se je oglasil za besedo župnik Reber in predlagal, da sprejmejo povabilo domačega župnika, ki je želel, da gredo v župnišče na razgovor.</p>
+            <pb facs="#WIKI00467-031" n="31" xml:id="pb.031"/>
+            <p>Domači župnik jih je posadil okrog kamenite mize na vrtu v hladnici in kuharici ukazal prinesti dobrega vina. Jeziki so se kmalu razvozljali, od vremena in letine so prišli na razmere v Rožnem logu, in takrat je poprijel besedo domači župnik ter v ognjenih besedah dokazal škodljivost večletnega prepira med Kolencem in Rebrom.</p>
+            <p>Župnik Reber vstane in pomoli roko notarju: „Ali ste voljni prevzeti ulogo pomirjevalca, gospod notar?“</p>
+            <p>„Jaz sem za spravo, ker tudi sam uvidevam, da je treba temu enkrat konec napraviti. Toda ulogo pomirjevalca sprejmite vi, gospod župnik, ker to bolj pristoji vašemu stanu kakor mojemu.“</p>
+            <p>„Ali jaz tudi težko pomirjujem, ker sem brat Rebrov, kakor tudi vi, ker ste brat Kolenčev. Prosil bi torej domačega župnika in župana, da bi prevzela to nalogo.“</p>
+            <p>Župnik je bil zadovoljen posredovati, župan Rogelj pa se je branil, češ, da je njemu težko tako delo. Naposled je pa vender obljubil, da bode župniku šel na roko.</p>
+            <p>In tako se je zgodilo. V tem ko so na župniškem vrtu trkali s kozarci v znamenju sprave, se je tam za gostim grmovjem ob vrtni ograji premikala človeška podoba.</p>
+            <p>„Že mislijo, da je vse poravnano in poglajeno, kakor tlak v župnikovi veži. Mislijo, pravim, toda korak do izvršitve je še velik. Teh mož, ki so zbrani ob kameniti mizi, nima nihče tako velikega koraka. Račun delajo brez krčmarja. In ta krčmar sem jaz!“</p>
+            <p>Človeška podoba se je zasukala in sklonila po koncu. Kakih petkrat se je prestopila in že je bila na cesti.</p>
+            <p>Mrak se je delal in zavladala je precejšnja tema. Vendar je bilo dobro poznati, da ta podoba ni bil nihče drugi kakor kovač Čmok. Saj župnikova kuharica ga je dobro poznala, ko je korakal po česti mimo okna.</p>
+            <p>Dosti je bilo govorjenja po vaši tisti dan popoldne. Kaj takega pa že davno ni bilo, da bi notar stopil v župnišče. Ko so se pri župniku poslovili, je notar še obiskal svojega brata. Dobil ga je že pri Popustku. Nekaj mu je pošepetal, potem pa se kmalu odpeljal nazaj v mesto.</p>
+            <p>Čmok se je zadovoljno zibal v veži, ko so prihajali in odhajali gostje. Delal je proti vsakemu gostu slane in neslane opazke. Ko je odhajal notar, je zaklical kovač:</p>
+            <p>„Star človek se ne predela. Pa če se, kmalu umrje.“</p>
+            <p>Neprijetno so dimile te besede odhajajočega notarja, in še dolgo v noč je pretehtaval Čmokove besede.</p>
+            <pb facs="#WIKI00467-032" n="32" xml:id="pb.032"/>
+            <p>„Resnico je govoril, toda ni nobenih pravil brez izjem,“ zaključi notar svoje premišljevanje.</p>
+            <p>Barba Kolenčeva pa bi bila rekla, ko bi bila slišala kovačeve besede: „Čmok veliko ve, več kakor drugi ljudje.“</p>
+            <p>Toda Barbe ni bilo tisto popoldne v vasi, da bi kaj slišala. Pac pa jo je drugo jutro — bil je sopraznik in ljudje so prišli k Sv. maši — župnikova kuharica ustavila pred cerkvijo in ji povedala, kakšne želje imata Reberov in Kolenčev gospod.</p>
+            <p>„Le ne skrbi, Anica, še danes bodem govorila z Martinom. Nekaj dni pa naj gospod župnik le še počakajo s svojo mislijo. Me ženske znamo tako stvar veliko bolje napeljati.“</p>
+            <p>Opoldne je Martin napajal kobile. Malo čudno se mu je zdelo, da Barba danes opoldne hodi prat, zato reče že od daleč:</p>
+            <p>„Kaj imate plenice za prati, da se ti tako mudi?“</p>
+            <p>„Kaj, plenice, Martin! Teh pri nas še ne bo tako kmalu. Bodo prej v mlinu.“</p>
+            <p>„Barba, le počasi,“ reče Martin, vendar se mu je videlo, da je rad slišal o plenicah.</p>
+            <p>„Martin, ali veš nekaj novega?“</p>
+            <p>„Vem, vem, pa bode težko kaj kruha iz te moke.“</p>
+            <p>„Pa zakaj? Ali ti nisi za to?“</p>
+            <p>„Jaz sem, toda ...“</p>
+            <p>„No, toda ... Čmok, kaj ne, ni za to?“</p>
+            <p>„Uganila si.“</p>
+            <p>„Pa misliš ti, da župnik in notar nimata take moči kakor kovač?“</p>
+            <p>„E, ne verjamem. Čmok ostane Čmok. Kdo bi bil njemu kos?“</p>
+            <p>„Pa kaj hoče kovač?“</p>
+            <p>„On mi je rekel, da naj le počakam, da župnik odide.“</p>
+            <p>„Boji se ga torej vendarle, župnika.“</p>
+            <p>„Tega ravno ne. Toda noče župnika žaliti.“</p>
+            <p>„Hm, to so čudne reči!“</p>
+            <p>„So, so,“ zamrmra Martin in zamišljen odide.</p>
+            <p>Barba ni bila zadovoljna s hlapčevim odgovorom. Ko pride domov, stopi v kuhinjo k Reziki.</p>
+            <p>„Rezika, z Martinom ne bo nič. Boji se Čmoka.“</p>
+            <p>Rezika je bila silno vesela, kakor že davno ne, ko je izvedela, kaj sta strica uganila. Zato ni mogla iztrpeti, da ne bi sama začela spravo izvrževati.</p>
+            <pb facs="#WIKI00467-033" n="33" xml:id="pb.033"/>
+            <p>Drugi dan po sv. maši, ki jo je daroval Reberski stric, gre sama v zakristijo in pove mežnarju, da bi rada nekaj govorila z Reberskim gospodom.</p>
+            <p>Župnik Reber odgovori mežnarju, naj pride Rezika v župnišče.</p>
+            <p>Po zajtrku sta bila župnik in Rezika sama v hištrni.</p>
+            <p>„Gospod župnik! Kdo je bolj vesel te novice kakor jaz, da mislite odpraviti staro sovraštvo med sosedi. Ako vam morem kaj postreči, sem na razpolago in prosim, da bi jutri maševali na dober namen.“</p>
+            <p>„No, Rezika, ti si bila vedno pridna deklica,“ reče župnik in jo potrka po rami. „Zato sem preverjen, da mi bodeš tudi v tej stvari stala na strani. Povej očetu in materi, da imam jaz dobre namene in da naj po vesta, kaj bi rada, da se jima ustreže.“</p>
+            <p>„Nič drugega, gospod župnik, da vi kovača Čmoka odpravite od hiše. Ta je, ki dela zgago in zdražbo.“</p>
+            <p>„Tako? Je verjetno? Če se prepričam, da je res to, kar si zdaj govorila, bodi uverjena, da bom to storil, seveda če bode v mojih močeh. Oglasi se črez par dni zopet pri meni in povedal ti bom, kaj sem opravil.“</p>
+            <p>Še tisto dopoldne je župnik govoril z bratom. Ta je bil takoj pri volji.</p>
+            <p>„Le odpravi ga, če ga moreš, jaz ga ne morem.“</p>
+            <p>„Bi tudi ne bilo lepo, ko bi ga zapodil od hiše na stara leta. Toda obljubi mu, da mu kupiš kod drugod kovačnico.“</p>
+            <p>Reber se zamisli, pa izjavi: „Tudi to bi storil.“</p>
+            <p>„Dobro,“ reče župnik. Ko pa so opoldne pokosili, namigne župnik kovaču, naj pride po obedu k njemu.</p>
+            <p>Čmok je nekaj zagodmjal, toda prišel ni župniku na obiske. Mislil si je, da ga bode župnik najbrž prijemal zaradi pijančevanja, in zato ni šel.</p>
+            <p>Župnik naroči hišni gospodinji, da naj ga ona privabi k njemu. Pa Čmoka le ni bilo.</p>
+            <p>Na večer pa se župnik, idoč na izprehod, sam odpravi, da poišče Čmoka v kovačnici.</p>
+            <p>Ravno sam je bil pri delu.</p>
+            <p>„Kaj želite, gospod župnik?“</p>
+            <p>„Pridi vendar k meni, da bodeš popravil ključavnico, ki se je potrla pri vežnih vratih.“</p>
+            <p>Govorila sta še to in ono in kovač je obljubil, da pride h gospodu župniku.</p>
+            <pb facs="#WIKI00467-034" n="34" xml:id="pb.034"/>
+            <p>Drugo jutro, ko je župnik maševal, res pride Čmok v stričevo stanovanje in hitro popravi ključavnico.</p>
+            <p>Župnik se vme, opazi takoj popravljeno ključavnico, toda Čmoka ni bilo, da bi govoril s stricem.</p>
+            <p>Župnik ga zopet obišče v kovačnici. Dolgo čaša je sedel na klopi in čakal, da so odšli vsi, ki so imeli kaj opraviti v kovačnici. Nato pa pristopi župnik in pravi resno:</p>
+            <p>„Urh, ali si zadovoljen v Rožnem logu?“</p>
+            <p>„Sem.“</p>
+            <p>„Ali bi šel kam drugam, ko bi ti kdo kovačnico podaril?“</p>
+            <p>„Ne.“</p>
+            <p>„Pa prav zadovoljni niso tukaj s tabo!“</p>
+            <p>„Kdo je to rekel?“</p>
+            <p>„Reber že.“</p>
+            <p>„No, če ni, se to lahko pomaga.“</p>
+            <p>Župnik ni več izpraševal kovača. Ta pa je zvečer šel po klancu navzgor in se ustavil pred hlevom Kolenčevim. Ta je ravno konja izpregel, prišedši iz gozda.</p>
+            <p>„Pa ti tukaj, Urh? Kaj te je prineslo semkaj?“</p>
+            <p>„Ali me hočeš v svojo kovačnico?“</p>
+            <p>„Tebe? Kaj sta se z Rebrom skregala?“</p>
+            <p>„To tebe nič mar. Povej, ali me hočeš?“</p>
+            <p>Kolenec je z veseljem sprejel Čmokovo ponudbo.</p>
+            <p>Drugo jutro na vse zgodaj je Čmok zmetal vse svoje kovaško orodje črez potok, in ko so ljudje dohajali, jih je vabil, naj gredo črez most na to stran Reberce.</p>
+            <p>Čmok je bil Kolenčev kovač.</p>
+         </div>
+         <div xml:id="wv-IX.">
+            <head xml:id="head.9">IX.</head>
+            <p>Župnik Reber ni dosegel zaželjenega uspeha. Potrtega srca se je vračal na svojo župnijo. Tudi pri Rebrovih niso bili zadovoljni, da jim je Čmok pobral kopita. Zdaj bode zopet Rebrova kovačnica stala prazna. Pa nič ne dene, saj Reber ni bil ravno gladoven človek, da bi le Čmok dal mir.</p>
+            <p>Kolenec je imel sicer resno voljo, pomiriti se s sosedom. Toda ko se mu je na enkrat Čmok ponudil za tovariša, ga je hitro minila volja, pogajati se s sosedom. Zdaj bo Čmok na moji strani, si je mislil, in to je meni dovolj. Tisti nadležni duh, ki ga je mučil noč in dan v podobi črnega kovača, tisti duh je stopil v ozadje, in Kolenec <pb facs="#WIKI00467-035" n="35" xml:id="pb.035"/>se je tolažil z upom, da se Čmok poda in ne zavira vec njegovih naklepov.</p>
+            <p>Toda Čmok je ostal stari kovač tudi na desnem bregu Reberce. Kolencu sicer ni dosti segal v njegove račune, pač pa je Rebru grenil življenje. Martin je bil še vedno njegov prijatelj, toda skriven. Nasprotno pa ga Rupert ni mogel in z Reziko sta bila še vedno te misii, da Čmok nič dobrega ne namerava.</p>
+            <p>Mir pa se je vendarle naselil v Kolenčevi hiši, v tem, ko je na Rebri dan na dan Čmok igral kako skrito ulogo.</p>
+            <p>Nekega jesenskega dne je prikorakal v vas popotni človek. Ustavil se je pri Popustku, naročil steklenico vina ter odložil svojo culico.</p>
+            <p>Bil je čednega obraza, nekoliko začrnelega, pod nosom se je vihalo dvoje močna nasvedranih brk in ob ušesih se je kodralo dvoje črnih zaliscev. Plave, pa mogočne oči so zrle po hiši, na rokah pa se je poznalo, da je mladenič delaven človek. Star je moral biti okrog petindvajset let.</p>
+            <p>„Odkod pa ti, decko,“ popraša ga krčmar.</p>
+            <p>„Bil sem po svetu in sem izučen kovaški pomočnik. Prihranil sem si nekaj novcev in zdaj bi rad na kmetih prevzel kako kovačnico.“</p>
+            <p>Popustku pride takoj na um Rebrova prazna kovačnica, toda ne pove mu precej tega, ampak ga radovedno še nadalje poprašuje:</p>
+            <p>„Kje si pa doma?“</p>
+            <p>„Doma sem pa precej daleč od tod. Le nekaj ur hoda je še do Trsta.“</p>
+            <p>„Pa zakaj nisi šel domov?“</p>
+            <p>„Mati mi je umrla. Oče pa je Bog ve kod. Nimam svojega doma.“</p>
+            <p>Krčmarju je bil mladenič vedno bolj povšeči in kar žal mu je bilo, da nima sam kovačnice. Črez dalje čaša pride Popustek zopet v izbo in reče:</p>
+            <p>„Veš, ti, četrt ure odtod je kmet, ki ima prazno kovačnico. Morda ti jo on da v najem.“</p>
+            <p>„Kako se pravi tam?“</p>
+            <p>„V Rožnem logu. Kmetu pa je ime Reber.“</p>
+            <p>Ko bi bil Popustek pri teh besedah strogo v oči pogledal rokodelcu, bi jih bil ta gotovo umaknil. Tako pa Popustek ni dosti opazoval mladeniča. Pokazal mu je na pragu pot v Rožni log in še pristavil:</p>
+            <pb facs="#WIKI00467-036" n="36" xml:id="pb.036"/>
+            <p>„Še to ti moram povedati, da je tam v Rožnem logu še en kmet, po imenu Kolenec. Ta ima tudi kovačnico onstran potoka. Ima pa kovača, ki mu pravijo Čmok. Ta bode tvoj nasprotnik. Prej namreč je ta bil v Rebrovi kovačnici.“</p>
+            <p>„Je že dobro; zahvalim za pojasnilo.“</p>
+            <p>Rokodelec je hitro odšel proti Rožnemu logu.</p>
+            <p>Zamišljeno je stopal po bregu navzgor in srce mu je močno udarjalo. Dasi ni še nikoli stopal po ti dolini, vendar se je vedel, kakor bi mu bilo vse znano: kraj in ljudje.</p>
+            <p>Pred kapelico Matere božje postoji, se odkrije in opravi kratko molitev. Nato pa hiti urnih korakov proti Rebri.</p>
+            <p>„Dober dan, mati! Ali je gospodar doma?“</p>
+            <p>Rebrna stoji v veži pred popotnikom in ga pogleduje. Čudno se ji zdi, da ne prosi daru, ampak poprašuje po gospodarju.</p>
+            <p>Gospodinja mu veli, naj stopi v izbo.</p>
+            <p>„Kaj bi pa radi?“ ga brž popraša.</p>
+            <p>„Izučen kovaški pomočnik sem in sem slišal, da pri vas potrebujete kovača.“</p>
+            <p>„Odkod si pa?“</p>
+            <p>„Tam od Krasa. Učil sem se po mestih kovaškega dela, sem odslužil vojake in kmetijsko šolo sem izdelal.“</p>
+            <p>Rebrna ga strmé ogleduje in nezaupljivo reče:</p>
+            <p>„Ne vem, če bosta kaj napravila z gospodarjem. Zdiš se mi preučen za našo kovačnico.“</p>
+            <p>„Le pokličite gospodarja!“</p>
+            <p>In Rebrna gre iskat moža, ki je bil v hlevu. Brž mu pove, kdo ga čaka v hiši. Obenem mu razodene, da ji fant prav ugaja, samo ne verjame, da bi bil za kmečko kovačnico. Je pregosposk, je dejala.</p>
+            <p>Rebra je gnala radovednost v hišo.</p>
+            <p>„Torej ti bi rad prevzel kovačnico?“</p>
+            <p>„Da, oče, ako se pogodiva. Koliko pa zahtevate na leto najemščine?“</p>
+            <p>„Mislim, da bode najbolje, ako nekaj tednov poskusiš. Potom se že pogodiva. Zakaj, ne maram, da bi se prenaglil. Zdiš se mi še premlad, da bi na leto prevzemal.“</p>
+            <p>„Kaj mi ne zaupate?“</p>
+            <p>In popotnik potegne iz malhe listnico ter jo položi na mizo ter reče: „Tu notri sta dva stotaka. Spravite jih, ako mi ne zaupate.“</p>
+            <pb facs="#WIKI00467-037" n="37" xml:id="pb.037"/>
+            <p>Reber se je začudil.</p>
+            <p>„No, no, že vidim, da si moški človek. Zato ti pa rečem: najemščine ne boš dal nič, samo orodje bodeš sam napravljal, ako ga kaj polomiš, in meni bodeš zastonj delal, kar bode kovaških del pri moji hiši. Velja pa naj to za pol leta. Za nadalje se bomo še pomenili. Kaj pa hrana?“</p>
+            <p>„Ali bi je ne mogel imeti pri vas?“</p>
+            <p>„Ko bi bil ti kmečke hrane navajen, ne rečem. Tako pa si služil po mestih in jedel samo meso. Pri nas ga pa ni vsak dan, ampak samo o praznikih. Poprašaj doli v gostilni pri Popustku.“</p>
+            <p>„Pa če sem zadovoljen z vašo hrano?“</p>
+            <p>„No, če si, pa poskusi. Saj si lahko pozneje prebereš.“</p>
+            <p>„Velja, oče!“</p>
+            <p>Segla sta si v roke.</p>
+            <p>„Kako ti je ime?“</p>
+            <p>„Vsak dan Janez. Po mestih so mi rekli tudi Ivan ali Janko. Kakor hočete, pa me kličite.“</p>
+            <p>„Katero ime pa najrajše slišiš?“</p>
+            <p>„Najrajše Janko. Tako se tudi podpisujem.“</p>
+            <p>„Torej, Janko, le pameten bodi! Ne bo ti žal. Imel bodeš tudi soseda onstran potoka. Gotovo ti bode nagajal. Pa se ne zmeni dosti zanj. Je izgubljen človek.“</p>
+            <p>Janko je globoko izdihnil pri zadnjih besedah. Pa premaga se in pravi:</p>
+            <p>„Ali bi mi precej pokazali kovačnico?“</p>
+            <p>„Listnico le spravi v malho. Že vidim, da si varčen človek. Pa pojva!“</p>
+            <p>Ko je debeli ključ zarožljal v ključavnici, se je takoj pokazal iz Kolenčeve kovačnice Čmokov obraz. In ko sta Reber in Janko zopet odšla iz kovačnice proti Rebri, se je Čmok oziral za njima. Čisto izpremenjen mu je bil obraz, in kdor bi ga bil tisti hip opazil, bi ne mogel verjeti, da je to srpi pogled in ježaste brke Čmokovega obraza. Čisto mile poteze so se zbirale na njegovih licih, ustnice so se držale na smeh in iz oči so prilezle debele solze.</p>
+            <p>Gledal je za svojim novim sosedom, in ko se je Janko ozrl — hote ali nehote — sta se srečala s pogledi — oče in sin.</p>
+         </div>
+         <div xml:id="wv-X.">
+            <head xml:id="head.10">X.</head>
+            <p>Precej drugi dan se je že novi kovač sukal po Rebrovi kovačnici. Ljudje so hitro zvedeli po Popustku, da <pb facs="#WIKI00467-038" n="38" xml:id="pb.038"/>je Reber dobil novega kovača. Janko se je vedel prijazno, pridno delal in ljudem brzo postregel. Sicer so pravili, da dražje računi kakor Čmok, toda dela je imel vedno dovolj. Kdor pa ni takoj dela plačal, ga je Janko zapisal v svoj zapisnik.</p>
+            <p>Kmalu so začeli hvaliti mladega kovača. Bil je tudi umen in vsako orodje je znal spretno popraviti ali novo napraviti. Najbolj so ga kmetje cenili zato, ker je umel konje tako izvrstno podkovati. Če je bil konj še toliko ravnodilec, mu je Janko že vedel rog tako izpodrezati in podkov tako pribiti, da ni konj šepal.</p>
+            <p>Janko pa se je razumel tudi na druga dela. Kmetijska dela so mu šla od rok, kadar je bila sila, kakor ob košnji ali mlatvi, in je rad pomagal na polju. Najbolj pa so ga cenili pri živalskih boleznih. Če je komu kaka goved obolela, brž so prišli Janka vprašat za svet. Imel je na polici v kovačnici vsakovrstne rože, mazila in štupe. Imel je tudi knjige, iz katerih je zajemal svojo vednost.</p>
+            <p>V nekaj mesecih je bil Janko najpriljubljenejša oseba v vasi. Le nekaj se je ljudem čudno zdelo. Mislili so namreč, da bode kovač onstran potoka zopet napovedal svojemu tekmecu konkurenco. Pa to se ni zgodilo. Čmok je privoščil svojemu sodrugu vso čast in zaslužek, ter se ni nikoli jezil črezenj. Še celo hvalil ga je in večkrat sta se črez potok pogovarjala. Včasih je prišel Čmok tudi v kovačnico k Janku in sta imela prav živahne pogovore.</p>
+            <p>Seveda to ni bilo po volji Kolencu. Pa kaj je hotel? Vedel je, da se Čmok ne bode dosti menil za svete svojega gospodarja.</p>
+            <p>Reber je bil jako vesel, da je dobil dobrega in spretnega kovača. Rad ga je imel, skoro rajši kakor svojega sina. Janko je bil pri Rebrovih kakor domač in z Jožkom sta si bila dobra prijatelja. Vendar tudi Rebrovi niso radi videli, da sta Janko in Čmok tako prijateljsko med seboj občevala.</p>
+            <p>„Paži, Janko! Ta Čmok zna biti tudi hudoben. Nikar se preveč ne pečaj z njim.“</p>
+            <p>Mladi kovač se na te besede Jožkove bridko nasmehne, in pravi:</p>
+            <p>„Nič se ne boj za me. Moj sosed onstran potoka se bode še poboljšal.“</p>
+            <p>„Pijanec se spreobme, kadar se v jamo zvrne, pravi pregovor.“</p>
+            <pb facs="#WIKI00467-039" n="39" xml:id="pb.039"/>
+            <p>Janko je molčal. Bolelo ga je, da imajo ljudje Čmoka za pijanca. Kakor je bil vedno zadovoljen in vesel, tako pa se vendar ni mogel ubraniti misli, da zanj ne cveto rožice v Rožnem logu. Dostikrat se je na tihem razjokal in obžaloval, da ima takega očeta. Toda čut spoštovanja in ljubezni je vselej prevladal v njegovem srcu.</p>
+            <p>„Vi, ljudje, ne poznate mojega očeta!“ je zdihnil in se potolažil.</p>
+            <p>Kovač Janko je kmalu zaslovel daleč na okrog. Hvalili so ga, da mu ga ni para, in res je bil mojster v svoji stroki. Tudi ključavničarska dela je skoro vsa znal izvršiti. Vrhu tega ga je zanimalo vsako drugo delo. Brigal se je tudi za kmetijstvo, in ko je na pomlad dobil tudi učenca, Rebrovega Lojzka, se je tem bolj zanimal za živinozdravništvo in za kmetijska opravila. Vedno bolj se ga je laščala želja, da bi kupil kako zemljišče in da bi bil sam svoj gospodar. Ali kolikorkrat je to omenil svojemu očetu, je ta odmajal z ramami in rekel:</p>
+            <p>„Le počakaj, Janko! Čakajo to še lepi čaši v Rožnem logu. Le potrpi in bodi tak, kakor si bil došlej. Tam gori na Rebri in tam za Kolenom bodo kmalu iskali mladega gospodarja.“</p>
+            <p>Janko je umolknil, toda zdelo se mu je, da so vse to le očetove sanje. Preskromen je bil, da bi gojil take misli. Res je, da bi bil Rebrov Jožek težko da za gospodarja, res je, da bode Kolenčeva Rezika gospodinja, toda zanj so to previsoki načrti, skoro nedosežni.</p>
+            <p>Zlasti je Janka peklo, da so zadnje čase ljudje že nekaj govorili, kakor da bi bil Janko podoben kovaču Urhu. Kakor se je hitro udomačil, tako ga je skrbela prihodnjost in ugibal je, da on ni rojen za Rožni log.</p>
+            <p>Bilo je v mesecu, ko vse poganja iz tal in raz drevje. Žita in trave so zelenele, drevesa so cvetela, trta je odganjala, ptiči so žvrgoleli, sinje nebo se je raztegalo nad zemljo in solnčni žarki so se lomili nad vodo.</p>
+            <p>Janko je prišel od nauka in sedel za kovačnico ob potoku, tam na hrastovi klopici pod orjaškim orehom. Plave oči njegove so se zibale nad jablano, ki je stala ob potu in se odela v samo belo cvetovje. Že so cvetovi odletavali in plavali v zraku ter padali na travo. Cvetoča jablana je zazibala Janka v kipeče misli.</p>
+            <p>„Cvet za cvetom odpada, pa ga ni več. Le nekaj dni je, kar so oživeli na vejah lepe jablane, ti belo-rdeči <pb facs="#WIKI00467-040" n="40" xml:id="pb.040"/>cvetovi, pa že odpadajo, že so izpolnili svojo nalogo v življenju. Kako je to hitro! Tak cvet si tudi ti, pa — “</p>
+            <p>Janko je pogledal pod jablano, se sklonil in videl ...</p>
+            <p>Človeška podoba se je zazibala tam za grmovo mejo.</p>
+            <p>Pisano krilo je zašumelo za mejo, bel, mrežast robec je zajadral v zraku, nežna roka se stegne gori na zeleno rušno, ki je na pol tičala, na pol lezla po strmi pečini navzdol. Roka se je stegnila visoko, tako da je Janko videl celo telesce mlade deklice, toda rušne in jelenovega jezika na rušni ni mogla doseči.</p>
+            <p>Plaho se ozre okrog, kakor da bi želela kakega pomočnika.</p>
+            <p>Komaj se ozre, že vidi mladeniča, ki brzih korakov meri pot do pečine.</p>
+            <p>Janko stoji pred Rebrovo Miciko.</p>
+            <p>„Aha, si ti tukaj, Janko! Dobro, mi bodeš pomagal. Veš, nabrala sem že vsake vrste cvetlic po travniku in za grmovjem. Toda ta jelenov jezik, ki moli doli s pečine, se mi zdi tako lep. Mislim, da bi Mamka božja ne bila popolnoma zadovoljna z mojimi šopki, ko bi ne bilo vmes jelenovega jezika. Tako lepo se poda vmes, ta divja zel med nežnimi travniškimi cvetlicami.“</p>
+            <p>Janko je poslušal zgovorno deklico. Saj jo vidi vsak dan, še po večkrat, toda danes, ko se je stegala za rožami, se mu je zdela vsa drugačna. Kar očaran je bil in tako ljubko se ji je smejal, ko mu je pravila o svojih negovankah. Toda brž se zave svoje zadrege in skoro ga je bilo sram, da je stal pred njo kakor kak štor in zateleban gledal vanjo.</p>
+            <p>„Micek,“ reče resnobno „nikar tako predrzno ne stegaj roke tu gori po skalovju. Ali ne veš, da gadje domujejo tu gori?“</p>
+            <p>Deklica se prestraši in zardi.</p>
+            <p>„Na to res nisem mislila,“ pravi ter odstopi za par korakov od pečine. Brž pobere na tleh ležeče cvetlice in jih pomeče v košarico.</p>
+            <p>Janko pa ubere stezo, ki je držala za pečino navzgor. Hotel je od zgoraj doli priti do zaželjenih rož.</p>
+            <p>Micika je sedla h košarici in jela viti cvetlice v venec. Obljubila je Majnikovi kraljici, da ji vsako nedeljo splete svež venec v kapelici.</p>
+            <p>Bila je še čisto mlado, nedolžno dekle, dasi precej visoko, toda šibko, saj je bilo šele šestnajst let staro. <pb facs="#WIKI00467-041" n="41" xml:id="pb.041"/>Brezskrbno, vendar pa zavedno je zrlo tja po Rožnem logu in na pol kleče, na pol sede je izbiralo z eno roko cvetlice, z drugo je držalo začeti venec. Dvoje modrih oči je motno gledalo izpod trepalnic in skozi mrežasti robec so kukali gosti, kostanjevi lasje. Bel obraz kakor vosek, sicer pa nič izrednega na obraznih črtah. Nos, usta, podbradek, lica vse pravilno, pa navadno. In baš ta skrajna pravilnost je delala dekličji obraz čeden.</p>
+            <p>„Janko, paži, da ti ne izpodleti,“ zakliče Micika in skoči po koncu. Toda Janko je že vrgel jelenji jezik z rušo vred Miciki ravno v košaro.</p>
+            <p>„Zadeneš pa dobro, Janko!“</p>
+            <p>Ali mladenič je le še stal na robu pečine in nekaj opazoval. Zrl je pod skalo. Zdelo se mu je, da je nekaj živega pod njo. Brž odreže palico, ki je molela doli od drenovega drevesa, jo prekolje in podreza z njo pod rjavo skalo.</p>
+            <p>„Micika, beži v stran!“</p>
+            <p>Dekle odskoči, Janko, pa na palici privleče izpod skale modrasa.</p>
+            <p>„Le poglej ga, kakšen rožiček ima na glavi,“ pravi Janko. Modras piha in pomalja jezik proti njemu.</p>
+            <p>Micika pa je že pred kapelico klečala in molila. Docela je bila prepričana, de je sam angel varih poslala. Ko bi se bila ona le še stegala za rožami, gotovo bi jo bil gad pičil. Iskreno je molila in zahvaljevala nebeško kraljico za odvrnitev nesreče. Ko pa je kovač vrgel modrasa na tla in tudi sam zopet splezal navzdol, je Micika s hvaležnim srcem zrla za Jankom.</p>
+            <p>„Ali si videla, Micika, kaj te je čakalo? Sama Mati božja te je varovala, ker jo imaš rada.“</p>
+            <p>„Res je, Janko! Pa tebe tudi ne bom pozabila nikoli.“</p>
+            <p>Kovač je videl, kako ga je deklica pogledala s hvaležnim očesom. Ginjen je bil tudi on, srce mu je bilo tako, kakor če bi s kovaškim mehom vanj pihal.</p>
+            <p>„Nekaj ti bom dala za spomin, kaj hočeš, Janko?“</p>
+            <p>„Micika, le spleti vse rožice za Marijo, meni pa odstopi ta-le jelenov jezik.“</p>
+            <p>In Micika prime za jezik, sname Janku klobuk, ter mu ga pripne za trak.</p>
+            <p>Kakor sablja tako je mahal jezik Janku raz klobuk ter se zibal v zraku.</p>
+            <p>„Divje rože — divjemu možu, kajne da, Micek?“</p>
+            <pb facs="#WIKI00467-042" n="42" xml:id="pb.042"/>
+            <p>In deklica se je nasmejala, pa je stekla proti domu.</p>
+            <p>Mladi kovač je slonel ob skali, ki je štrlela izpod brega, in s palico pritiskal v precepu se zvijajočega modrasa. Zamišljeno je zri vanj in črne pošasti so se vrtele pred njegovimi očmi. Zli duh ga je napadal in zdelo se mu je, da njegovo življenje ni nič vredno. Kaj, ko bi to glavo v precepu pritisnil na svoja prsa?</p>
+            <p>Pa brž se zave, stopi s črevljem modrasu na glavo, pritisne dvakratj trikrat, potem pa zatakne palico s kače v luknjičasto skalo — v spomin vsem mimogredočim.</p>
+            <p>Nato stopi h kapelici in iskreno moli. Kip lurške Matere božje je ves v vencih in šopkih. Dišeče mošnjice se menjavajo z zvezdnatimi marjeticami, mušje kukovice so pomešane z rumenim šebenikom, višnjeve velikonočnice se vrste z divjimi repnicami, ponosna preslika stoji med drobno vrholiko, poljsko smiljko in pomladanskim petoprstnikom.</p>
+            <p>Janko moli, pa ogleduje te različne cvetke. Trudi se, zbrati duha, toda roka, ki je spletala te cvetlice v vence, roka, ki se je stegala na skalnato pečino za jelenovim jezikom, roka, ki se je tresla pred modrasovim jezičkom, ta roka je motila zbrano molitev mladega kovača.</p>
+            <p>Solnce se je skrilo za okrogli oblaček. Janko vstane, pogleda na klobuk z dolgim zelenim peresom, pa krene po česti, ki vodi v vas.</p>
+            <p>Tam onostran mostu je stala kapelica sv. Jozefa. Tudi ta je bila ozaljšana s cvetlicami — pa suhimi. Iz suhih rož spleten venec je visel pod obokom, le na oltarčku sta stala dva zelena žeravca in dve vazi z vijolicami in šmarnicami.</p>
+            <p>Janko postoji, pa zakliče s ceste: „Rezika, še zame en očenaš!“</p>
+            <p>V kapelici se obrne deklica, visokostasa in bleda. Bila je Kolenčeva.</p>
+            <p>Stopi na prag in gleda za mladim kovačem: „Torej, ta naj bi bil moj ženin?“</p>
+            <p>Bisernate kapljice so zletele po licih navzdol. Rezika je stala in gledala, dokler se Janko ni skril za voglom Popustkove gostilne.</p>
+            <p>Nato je zopet pokleknila in gledala nepremično sedaj na sliko sv. Jozefa v dolbini, sedaj na sliko žalostne Matere božje nad oltarčkom.</p>
+            <p>Molila je pobožno — molila tudi za mladega kovača.</p>
+         </div>
+         <pb facs="#WIKI00467-043" n="43" xml:id="pb.043"/>
+         <div xml:id="wv-XI.">
+            <head xml:id="head.11">XI.</head>
+            <p>Janko je sedel pri Popustku. Sedel je med možmi pri javorjevi mizi. Pomenkovali so se o lepih žitih in brstnih drevesih, o vremenu in o kupčiji, o živini in ženitvah.</p>
+            <p>„Martin bode vendarle vzel mlinarjevo Uršiko, kajne da, Janko,“ reče dolgi možak na voglu mize.</p>
+            <p>„Tisto pa. Gospod župnik želé, da bi bila še do kresa poroka,“</p>
+            <p>„Kaj pa ti, Janko? Ali se tebi kaj mudi?“ zopet začne dolgi mož z rdecimi lasmi.</p>
+            <p>„Meni pa se še nič ne mudi. Moja nevesta mora še rasti,“ odvme Janko šaljivo.</p>
+            <p>„Najbolje bi bilo, da bi Reber kovačnico vzdignil za eno nadstropje,“ poseže vmes spet drugi.</p>
+            <p>„Čemu to, saj ima Reber bajto prazno.“</p>
+            <p>„Ta je za Rebrovega gospoda.“</p>
+            <p>„Pa ko bi župnik vedel, kakšen fant je Janko, bi mu rade volje prepustil bajto.“</p>
+            <p>„Pustimo to, možje! Povedal vam bom rajši, kako sem jaz danes modrasa ubil.“</p>
+            <p>Vsi so poslušali, Janko pa pripoveduje.</p>
+            <p>„Nevesta mora še rasti, kajne da, Janko,“ pristavi dolgi mož z rdečimi lasmi, ko mladi kovač konca svoje pripovedovanje.</p>
+            <p>Mladenič je zardel, pa takoj se ojunači in pravi:</p>
+            <p>„Oče, vi imate pa strašno veselje, koga ženiti. Povejte mi torej, katero ste meni namenili?“</p>
+            <p>Dolgi možak se nasmehne, pomisli, pa počasi izusti:</p>
+            <p>„Tiste, ki slišijo na ime »Rezike« so najbolj pripravne za take fante, kakor si ti.“</p>
+            <p>Možje se spogledajo, eden pa reče karajoče:</p>
+            <p>„Ti, Kvatrnik, imaš predolg jezik.“</p>
+            <p>„Odkritosrčnost je lepa čednost,“ odvrne mož z rdečimi lasmi.</p>
+            <p>Janko pa je spreminjal barve na licih, stiskal ustnice, pa zaklical: „Popustek, jaz bom plačal!“</p>
+            <p>In mladi kovač je odšel. Možje so mu sicer rekli, naj ne zameri, češ, da se je Kvatrnik le šalil, toda Janko takih šal ni rad poslušal. Vsak sum na preteklost njegovega sorodstva ga je užalil.</p>
+            <p>Janko je srečal na česti svojega očeta. Vračal se je s hribov, kamor je šel gledat neko bolno goved.</p>
+            <pb facs="#WIKI00467-044" n="44" xml:id="pb.044"/>
+            <p>„Že domov, Janko? Pojdi, greva nazaj.“</p>
+            <p>„Nisem dobre volje danes, oče! Tisti rdečelasi Kvatrnik me je užalil.“</p>
+            <p>„Že vem, zakaj, Janko! Ne ženi si kaj takega k srcu. Le počakaj še do druge pomladi. Zdaj se bode oženil Martin, potlej pa prideš ti na vrsto. Vse po vrsti, kakor so hiše v Trstu.“</p>
+            <p>„Vas ne razumem, oče! Saj veste, da mi ni toliko za ženitev, kolikor za dobro ime.“</p>
+            <p>„Dobro ime — ha! Kaj pa imaš ti za dobro ime?“</p>
+            <p>„Ali bi mene toliko cenili, ko bi ne imel dobrega imena?“</p>
+            <p>„Zakaj pa mene cenijo, ali bolj prav, so me cenili, dasi nimam, po človeški sodbi, dobrega imena?“</p>
+            <p>„Vas cenijo zaradi sposobnosti in dobrotljivosti, ne cenijo vas pa radi — no, saj veste, kaj mislim.“</p>
+            <p>„Prav imaš, sinko. Jaz vsem pijanec in nekdaj sem bil tudi pol babjeka. Zato me ne cenijo. Pri tebi tega ni in to je prav za te. Saj veš, da sem ti v vsakem pismu poudarjal: Pri tisti mizi ne posedaj, koder pijo iz bokala, in tistih žensk se izogibaj, ki letajo same za moškimi. Glej, da izvršiš nalogo, katero ti je dal tvoj oče. Jaz bi jo bil lahko izvršil, pa po tvojem povedano — dobro ime me je oviralo. Tebi pa dobro ime ni na potu, samo glej, da si moder in odločen, in da izvršiš načrt, ki ti ga je odkazal Bog, kakor ga je meni. Rožni log je bil nekdaj eden, pa greh ga je razklal, krepost ga naj zopet zedini. Kolenec si po rojstvu, Reber bodi po — saj veš, kaj mislim.“</p>
+            <p>Janko je poslušal kosa, ki je žvižgal v bližnjem leščevju, pa se mu je zdelo, da ne žvižga prav.</p>
+            <p>„Oče, vi mislite predaleč. To ne gre.“</p>
+            <p>„Fant, meni ne ugovarjaj. Nisem navajen na to. Stori tako, kakor sem rekel — pa mir besedi!“</p>
+            <p>In Čmok je lezel dalje, počasi v vas, posnemajoč z žvižganjem pevajočega kosa v grmovju.</p>
+            <p>Janko je gledal za njim. Marsikomu se je zdel ta Čmok uganka, pa tudi Janko je začel sumničiti, ali misli res dobro z njim.</p>
+            <p>Počasi je stopal tudi on proti domu in premišljeval očetove nakane.</p>
+            <p>„Saj dober je moj oče, komur hoče biti. Zlasti jaz sem užival doslej od njega dobrote, kakršnih je deležen med sto komaj eden otrok takega pokolenja kakor sem <pb facs="#WIKI00467-045" n="45" xml:id="pb.045"/>jaz. Tudi to vidim, da ima on veliko moč v Rožnem logu. Zato se mi zdi verjetno, kar on namerava. Toda čudno je vendarle, da bi tak človek, ki mu je dobro ime deveta skrb, premogel toliko. Tudi si razlagam, odkod ta njegova moč. Saj mi je pismo, ki ga hrani vedno pri sebi, že pokazal. Pa vendarle, ali Reber nima toliko moči, da bi ga obvladal? Če je nima Kolenec, imeti bi jo vendarle moral Reber. Zdi se mi, kakor bi ležalo neko prokletstvo nad Rožnim logom. Pa — kdo ve, ali ni beseda mojega očeta opravičena? Ali nima tudi on svojega deleža na Rebri? Seveda ga ima. Toda zakaj potem igra tako ulogo? Ali ne bi mogel biti pošten človek kakor Reber? Ali morda ni sposoben? In če vendarle živi tako tja v en dan, tedaj mora vendar vzrok temu biti ta, da nima dobrega imena. In če oče odklanja sebi nalogo, katero mora, kakor pravi, izvršiti, tedaj je to vendarle znamenje, da je izgrešil svoj poklic — pogreša dobrega imena. In če on meni nalaga, da izvršim njegov načrt, je to zopet znamenje njegove onemoglosti. Vse potrebne lastnosti ima, še več jih ima kakor jaz, pa vendarle se ne čuti sposobnega. Res, poštenost, to je prva stvar, da človek more izvršiti kaj velikega.</p>
+            <p>In ta moj oče, ki sam prizna, da je pijanec, da je bil nekdaj tudi pol babjeka, ta moj oče me je vedno tako lepo učil. Kolikokrat me je opomnil, naj se varujem žensk, kolikokrat mi je zapisal v pismo: bodi pošten! Sam pijanec, pa je tako skrbel, da se nisem poprijel pijančevanja. Spoznam tudi, da me zato toliko čaša ni poklical k sebi, ker se je bal, da bodem pri njem videl preveč slabih zgledov.</p>
+            <p>Dober mož, poln lepih čednosti je ta moj oče, toda dostojno živeti, krščansko živeti pa noče. Kdo ve, zakaj?“</p>
+            <p>Janku so se porajale nove, vedno težje misli.</p>
+            <p>„Morda pa moj oče ni prepričan v svojem srcu, da je prav tako, kakor nas uči naša sv. vera? Morda se mu zdi vse bolj zunanja stvar, le bolj tako za parado? Morda misli, da je vera samo zato na svetu, da se ljudje lažje krotijo. Ah, skrbi me, da je moj oče mož brez vere.“</p>
+            <p>Janko je hodil hitreje. Pa se ni obrnil po cesti na Reber, ampak po stezi v gozd. Mučne misli so se ga lotile in ni se jih mogel iznebiti. Hotel jim je priti do dna.</p>
+            <p>„Moj oče je torej izgubil vero? Meni jo pa vendarle privošči. To je torej dokaz, da želi meni to, česar sam nima. On šteje srečnega tega, ki je veren, pa on ni veren, ni srečen. Čudno to! Sebi ne privošči, drugim pa. Ali je <pb facs="#WIKI00467-046" n="46" xml:id="pb.046"/>to verjetno? V šoli so nam duhovniki pravili o indiferentistih, to je o ljudeh, ki se ne brigajo za vero, kakršno kdo ima. Pravijo, da je človek le pošten, naj bode v ti ali oni veri, to je vse eno. Ali je moj oče indiferentist? Ne more biti, ker sam ne živi pošteno. Zame pa mu tudi ni vse eno, kako živim in verujem.“</p>
+            <p>In zopet ni mogel Janko razvozljati vozla. Že daleč je prišel na vrh rebri. Mesec se je zibal nad glavo in nebroj zvezdic je bilo posutih po nebesu.</p>
+            <p>Janko sede na smrekov štor in gleda skozi meglo, ki se je razvlekla po dolini.</p>
+            <p>„Učili so nas tako in tako. Izkušnja pa dostikrat drugače pokaže. Tudi moj oče je zajemal modrost od matere in krščanskih učenikov. Pa izkušnja ga je predrugačila. Toda zakaj ne uporablja svoje izkušnje tudi pri meni?“</p>
+            <p>Janku se je zasvitalo. Vstane. Zebsti ga je začelo.</p>
+            <p>„Volje ni, volje! Da bi moj oče imel voljo, kakor jo imam jaz, bilo bi drugače. Preveč so ga strasti dobile pod se — in zdaj ne more drugače, pravi sam. Volje ni. Srce mu je preveč pokvarjeno, razjedeno od strasti.“</p>
+            <p>Janko je stopal hitrih korakov po stezi navzdol, zopet poln lepih misli, med katerimi se je svetila tudi ta, da hoče očeta spraviti na pravo pot.</p>
+            <p>Mesec se je zakril za oblake. Pa le nekaj čaša. Ko je Janko stopal po česti na Reber, je bilo svetlo skoro kakor po dnevu.</p>
+            <p>Pri Rebrovih so še imeli luč.</p>
+         </div>
+         <div xml:id="wv-XII.">
+            <head xml:id="head.12">XII.</head>
+            <p>Tam ob Reberci za mostom so napajali živino in prali.</p>
+            <p>Barba Kolenčeva je pribijala s perilom na perilnik, da je odmevalo daleč na okoli. Tudi Rebrova Micika je prala cunje na široki, kameniti plošči.</p>
+            <p>„Ali boste kmalu svatovali, Micek,“ popraša Barba mlado deklico.</p>
+            <p>„Martin pravi, da še to pomlad. Oče pa pravijo, da na jesen.“</p>
+            <p>„Uršika bode dobila dobrega fanta.“</p>
+            <p>„Res dober fant. Pa črez Jankota ga ni.“</p>
+            <p>„Prav imaš, Micek! Veš kaj, jaz bi nikoli drugega ne hotela kakor kovača, ko bi bila v tvoji koži.“</p>
+            <p>Deklica se veselo nasmehne, pa pravi: „Res je, pa saj veš, da na to ni misliti.“</p>
+            <pb facs="#WIKI00467-047" n="47" xml:id="pb.047"/>
+            <p>„Zakaj pa ne? Kaj meniš, da mora Janko ravno kovač ostati? Vaš Jožek se tako ne bo nikoli ženil. In dom boš imela ti, nihče drugi. Oče so tudi že stari in bolehavi, mati se bodo naveličali, in mislim, da ni več daleč čas, da bodo jeli snubači hoditi okrog vaše hiše.“</p>
+            <p>„Barba, Barba! Ti si poredna,“ reče deklica. Toda besede dekline so ji bile po volji.</p>
+            <p>Barba je gledala izpod čela in opazovala Rebrovo Miciko.</p>
+            <p>„Le drži se Jankota, ne bo ti žal, Micek!“</p>
+            <p>„Pojdi no, pojdi! Kaj misliš, da ne vem, da me izkušaš? To ni nobena skrivnost, da bode vaša Rezika vzela Jankota.“</p>
+            <p>„Kdo je to rekel?“</p>
+            <p>„Saj vsi ljudje govore o tem.“</p>
+            <p>„Ljudje že govore, pa se motijo. Le zapomni si, dekle, da Barba več ve kakor ljudje.“</p>
+            <p>In dekla prestane s pranjem, se nasloni na perilnik, ter zašepeče deklici:</p>
+            <p>„Micek! Jaz ti to povem, da Rezika nikoli ne bo Jankotova. Čmok vse ve in ve tudi to, kar jaz vem. Čmok ima veliko moč in vem dobro, da on hoče, da bode Janko tvoj!“</p>
+            <p>Deklica je zardela do ušes. Umolknila je in z opranim perilom odšla domov. Zamišljeno je stopala po stezi mimo kovačnice.</p>
+            <p>„Micek, ali si že oprala?“</p>
+            <p>„Sem že, Janko.“</p>
+            <p>„Ali greš pogledat, kakšne pante sem napravil na svojo skrinjo?“</p>
+            <p>In deklica stopi v kovačnico. Začudeno ogleduje pocinjene pante na poslikani skrinji z lepimi okraski.</p>
+            <p>„Kaj pa boš deval v to skrinjo, Janko?“</p>
+            <p>„Vse tisto, kar mi je najdražje in najljubše.“</p>
+            <p>Deklica se zasmeje in pravi:</p>
+            <p>„Kaj neki je tebi najljubše?“</p>
+            <p>„Težko bi ti povedal, Micek!“</p>
+            <p>„Najbrž prihranjeni novci!“</p>
+            <p>„Za novce mi ni toliko, dasi je tudi teh potreba. Pa poglej, no!“</p>
+            <p>In Janko obrne ključ v ključavnici ter odpre skrinjo.</p>
+            <p>Na pokrovu je visel — jelenov jezik.</p>
+            <p>„Divja roža za divjega moža,“ vzklikne deklica in pobegne iz kovačnice.</p>
+            <pb facs="#WIKI00467-048" n="48" xml:id="pb.048"/>
+            <p>Plaho se je ozrla na okrog. Nihče je ni videl. Le tam od one strani potoka v kovačnici se je zdelo, da nekdo pokašljuje.</p>
+            <p>Rebrova Micika je bila tisti dan jako raztresena. Parkrat jo je pokarala mati, češ, da je vsa razmišljena.</p>
+            <p>Obešala je parilo na vrti.</p>
+            <p>„Ali ne vidiš, da se zbirajo gosti oblaki na nebu in da bo kmalu dež?“</p>
+            <p>Micika je zopet pobirala perilo in nešla sušit pod streho.</p>
+            <p>Napravljala je krmo za pujske. Stresla pa je boljšo mlečno jed v korito, kjer so jedli veliki prašiči, namesto prascem.</p>
+            <p>In ko je opoldne prinesla kosilo na mizo, so rekli, da je kaša plovka. Micika jo je pozabila osoliti. Martin pa je takoj ponagajal:</p>
+            <p>„Micek, kaj to pomeni, da kaša ni osoljena?“</p>
+            <p>„Najbrž ima uroke,“ pristavi dekla.</p>
+            <p>„Rože je nabirala pri kovačnici,“ reče zopet kravji pastir.</p>
+            <p>Pa Micek zadnjih dveh stavkov ni slišala. Najbrže bi jih tudi ne prenesla iz ust pastirjevih in deklinih.</p>
+            <p>Oče Reber in mati sta med tem sedela v hramu pri mizi in kosila.</p>
+            <p>„Nekamo čudno se mi vidi,“ pravi gospodinja, „da je Micika danes tako razmišljena.“</p>
+            <p>„Že dalje čaša opažam tudi jaz, da je nekaj,“ pristavi Reber in odloži žlico. „Slišal sem govorico, da Janko gleda za njo, pa ne morem verjeti. Fant se mi zdi premoder, da bi mislil na kaj takega.“</p>
+            <p>„Veš, Pavle, žensko srce je uganka. Res je mlada, naš Micek, pa zdi se mi, da je prišel tisti čas, ko mlad človek začne premišljevati, zakaj sta dva spola na svetu.“</p>
+            <p>„Toda v takih zadevah je treba ostro nastopiti. Ako se enkrat taka reč začne, jo je težko ustaviti.“</p>
+            <p>„Res je to! Pa treba se je prej dobro prepričati.“</p>
+            <p>„Saj tega ti ni treba praviti, da na kaj takega niti misliti ni, da bi se Janko ženil — pa pri nas. Kovač pa gruntarsko hčer — ha! Razen tega je Janko nezakonski, oče njegov nezakonski, pa taka izguba.“</p>
+            <p>„Urh je res izgubljen človek, toda Janko je pa mladenič, ki ga je treba iskati daleč na okoli. Tako moder, pošten, pa razumen, in vsako delo mu stoji k rokam. <pb facs="#WIKI00467-049" n="49" xml:id="pb.049"/>Srečna bo pa vendarle, katera ga dobi, in tisto ni, da bi mu branili ženiti se. Saj lahko stanuje v bajti, ali pa se kovačnica vzdigne za eno nadstropje, kar že davno nameravaš.“</p>
+            <p>„No, no, ti bi bila pa že brž pripravljena. Le počasi. Ne rečem, da fant ne zasluži ženske, toda ženili ga bomo mi. In to bi bila moja želja, da bi Janko vzel mlinarjevo Uršiko. Sicer pa ne verjamem, da bi Janko ostal v naših krajih. Ko bi Čmoka ne bilo, kdaj bi jo že bil odpihal.“</p>
+            <p>„Pavle, nikar ne segaj predaleč! Saj veš, da prisiljena reč ni dobra, in ko bi to bilo, da bi Janko vzel Uršiko, bi si Martina nakopal za sovražnika. Saj je Martin tudi dober fant in zdi se mi, da sta Uršika in Martin že davno odločena za skupaj. Zato tudi ne zadržuj tega zakona in ubogaj župnika, ki žele, da se ta dva poročita. Martin ti bo zvest še bolj kakor prej in zakon obeta biti srečen. Ženske tudi marsikaj ugibajo in zdi se mi, da je najbolje, ako se Martin poroči še to pomlad.“</p>
+            <p>„Tega pa že ne. Kdo pa bo delal po letu? Martin je vdinjan za celo leto pri meni.“</p>
+            <p>„Naj le bo; saj lahko ostane pri nas. V tem pa se novi hlapec lahko vsega privadi in ne bo ga treba zopet tebi učiti celo leto.“</p>
+            <p>„Ta je pametna, mati! Naj bo. Toda povem ti, da paziš strogo na Miciko. Povej ji tudi, če še ne ve, da sta Janko in Micek v bližnji žlahti, četudi od nezakonske strani. Kri je kri. Ako ji to razodeneš, tedaj ji niti na misel ne pride več, akoravno bi utegnil Janko kaj takega misliti.“</p>
+            <p>Odmolila sta in Reber je šel za delom. Reberna pa je pospravljala po mizi in premišljevala, kako bi hčerki pogledala na dno srca.</p>
+            <p>Micika je pomivala.</p>
+            <p>„Micek, Martinova svatba bode kmalu.“</p>
+            <p>„Ali res? Kaj pa oče? Ali ne bodo več branili?“</p>
+            <p>„So rekli, da ne.“</p>
+            <p>„Kdo pa bode potem pri nas za velikega hlapca?“</p>
+            <p>„Katerega pa misliš, da bi bil pravi? Groga je prestar, Miha pa za to ni. Novega bo treba poiskati.“</p>
+            <p>„Veste kaj, mati? Najboljše bi bilo, da bi bil Janko.“</p>
+            <p>Mati začudeno pogleda. Hči pa brezskrbno nadaljuje:</p>
+            <p>„Janko razume vsako delo in očetu se ne bode treba prerekati z družino. Jožko bode tudi zadovoljen z Jankom, <pb facs="#WIKI00467-050" n="50" xml:id="pb.050"/>ker sta prijatelja. V kovačnici bode pa lahko delal Lojzek, Janko ga bode nadziral in včasih tudi sam malo pomagal. Vrhu tega je Janko domač človek, torej zanesljiv vse drugače kakor tujec.“</p>
+            <p>„Domač človek — kako to misliš?“ In mati pogleda hčerko v oči.</p>
+            <p>„I no, saj veste, da je naša kri.“ In deklica se poredno nasmeje.</p>
+            <p>„Kdo ti je to povedal?“ popraša mati še resneje.</p>
+            <p>„Zakaj pa skrivate pred mano, kar že skoro vsi ljudje vedo? Saj je vendar Janko Čmokov sin, Čmok pa je moj bratranec.“</p>
+            <p>Mati je bila vsa iz sebe. Ni pričakovala, da hči tako dobro vse ve. Zato ji le še reče:</p>
+            <p>„Ako veš, da je tako, potem se pa nikar ne obnašaj do Janka tako, da že ljudje slabo govore o tebi.“</p>
+            <p>„Kaj govore?“ Hči je vprašala skoro osorno, tako da je materi pošla vsaka beseda. Hči pa nadaljuje:</p>
+            <p>„Nikar ne verjemite vsaki ženski, kar vam prinese na ušesa. Proti domačemu človeku se menda vendar ne smem osorno obnašati. Saj je pošten človek in ali nama more kdo kaj napačnega očitati? Ako imam rada Jožka, zakaj bi ne smela tudi Janka?“</p>
+            <p>Materi so se lasje ježili in ni slutila, da je hčerka v kratkem času postala tako zavedna. Prej še tako otročja tako krotka, tako vesela, zdaj pa tako zavedna. Saj bi kmalu več vedela kakor mati.</p>
+            <p>Reberna je pogledala hčerki v srce, kakor je želela. Ni se varala v svoji slutnji in prepričana je bila, da brez nič ni ta Mickina naklonjenost do Jankota. Pa kdo jo je tako poučil? Janko? Menda vsaj ne. Morda je zopet Čmok zadaj?</p>
+            <p>Gospodinja je sedla na klop pred hišo in potresala piščancem proso. Premišljevala je, kako hoče možu razodeti svoje izkušnje.</p>
+         </div>
+         <div xml:id="wv-XIII.">
+            <head xml:id="head.13">XIII.</head>
+            <p>Bil je tisti teden po binkoštih. Martin in Uršika sta bila binkoštne praznike oklicana drugič in tretjič. Svatba se je izvršila. Janko in Micika sta bila drug in družica.</p>
+            <p>Dva dni so kolesa mirovala v mlinu. Pili so in jedli, plesali in peli, da se je tlak potresal in okna šklepetala.</p>
+            <pb facs="#WIKI00467-051" n="51" xml:id="pb.051"/>
+            <p>Drug in družica sta se že štirinajst dni prej vadila plesati. Na podu sta se vrtela in poskušala vsakojake plese, kakor polko in valjček, mazurko in celo »štajariš«. Stari Groga jima je bil učitelj.</p>
+            <p>„Stari mlinar je posebno spreten plesalec. Če boš znal dobro plesati, se mu boš posebno prikúpil. Tudi Uršika je spretna plesalka.“</p>
+            <p>Tako je hlapec Groga dajal srčnost Janku, kateremu se je ples zdel pravzaprav nespametna igra. Pa kakor povsod, tako je Janko tudi na svatbi hotel veljati kot prvi fant</p>
+            <p>Skoro vsak večer sta se vrtela na podu, seveda brez vednosti očeta in matere.</p>
+            <p>In ko je Janko tako vrtel svojo sorodnico po podnicah, se mu je zdela vedno lepša.</p>
+            <p>„Veš kaj, Micek, ko bi se jaz ženil, ne vzel bi nikdar druge kakor tebe.“</p>
+            <p>„No, no, Janko, le počasi! Ali ne veš, da sva si močno v žlahti?“</p>
+            <p>„To že vem. Pa tudi to vem, da imajo naš župnik veliko moč. Če gospod župnik hočejo, pa se midva lahko poročiva.“</p>
+            <p>Micika se je zamislila.</p>
+            <p>„Nekaj drugega je, Micek! Jaz sem kovač, ti si pa gruntarska hči in tvoji stariši ne bodo nikoli dovolili, da bi jaz tebe vzel.“</p>
+            <p>„Ali stariši lahko zadrže tako stvar?“</p>
+            <p>„Lahko, dokler si ti še mladoletna.“</p>
+            <p>Deklica sloni na dverih podovih in gleda pred se. Pa pravi, uprši svoje oči vanj:</p>
+            <p>„Ali misliš ti, da jaz ne bi mogla čakati sedem let na te?“</p>
+            <p>Janko se nasmeja, pa pravi:</p>
+            <p>„Tisto že verjamem, toda nekaj drugega je.“</p>
+            <p>„Kaj ne, da ti ne bi mogel čakati sedem let?“</p>
+            <p>Dekle upre živo oči v Jankota, ta pa povesi trepalnice, in pravi otožno:</p>
+            <p>„Micek, kaj me imaš tako za slabega?“</p>
+            <p>Oba sta obmolknila.</p>
+            <p>Groga pa je poslušal za podom ta pogovor. Pokazal se je v tem hipu izza vogla in zaklical:</p>
+            <p>„Kaj se tako učita plesati? Eh, vidva ne bosta za skupaj. Mlada kri je nevarna, je lahkomišljena. Ali mislita, <pb facs="#WIKI00467-052" n="52" xml:id="pb.052"/>če sedem let čakata drug na drugega, da vama bode Reber potem prepisal svoje posestvo? Prej bode Reberca nazaj gori po strugi tekla, kakor boš ti, Janko, po Rebri gospodaril. Le zapomni si to!“</p>
+            <p>Oba sta se prestrašila osornega pogleda in trde besede hlapca Groge.</p>
+            <p>„Groga ne boj se! Nisva tako neumna, kakor si ti pameten. Če se človek pripravlja na svatbo, se že sme tudi malo pošaliti.“</p>
+            <p>„To niso šale, Janko! Le pameten bodi, kakor si bil doslej.“</p>
+            <p>„Groga, imaš že prav, saj nekaj. Samo to te prosiva, da nikomur ne zineš o tem, kar sva govorila, tudi Čmoku ne,“ pravi deklica.</p>
+            <p>„Ah, Čmok ve več, kakor mi vsi trije vemo.“</p>
+            <p>Micika jo je pobrala za podom in hlevom v kuhinjo, Groga je namešaval slamo in seno, Janko pa je postavljal slamoreznico, pilil kline in z oljem mazal vijake.</p>
+            <p>„Veš, Janko, tvoje misli niso prenapačne, in ko bi bil jaz toliko mlad in bi toliko vedel kakor ti, bi se tudi ne branil, vgrizniti v tako potico. Toda povem ti še enkrat, da bodi pameten in nikar ne kaži, da bi ti bilo kaj za Miciko. Ona je še otrok, ti pa imaš že vso pamet vkup in zato pusti, molči, čakaj! Le glej, da bodeš gospodinji ustregel, kakor si doslej. Kar ona poreče, to bo.“</p>
+            <p>„Je prav tako, Groga! Toda vedi, da meni ni toliko za Rebrovo zemljišče, kolikor za Miciko. Živela bodeva tudi brez Rebri.“</p>
+            <p>„Ti pa vedi, da je Bog iz Adamovega rebra ustvaril Evo. Micek bo na Rebri, drugod ne. Jožko pa je tako vedno bolj ob um in ni za to. Stari Reber se je že tudi naveličal in ne bo čakal, da bi Micek postala polnoletna. Samo pravi človek naj se oglasi in takoj mu bode Miciko porinil.“</p>
+            <p>„Meni torej je ne bi privoščili?“ vpraša kovač otožno.</p>
+            <p>„Ko bi Čmoka ne bilo in ko bi bil ti od grunta doma.“</p>
+            <p>„Groga, ti govoriš pametno. Pa čakajmo boljših časov,“ reče Janko in odide v kovačnico.</p>
+            <p>Svatba se je izvršila. Bilo je res prijetno in Janko pa Micika sta se vrtila v mlinu, kakor bi bila najeta. Tudi mlinar se je nazadnje razkoračil ter plesal s Kolenčevo Barbo svoj »štajariš«. Ta je namreč skrivaj zvečer odšla <pb facs="#WIKI00467-053" n="53" xml:id="pb.053"/>na svatbo. Bila je rada včasih dobre volje, a še rajši je kaj novega slišala in gledala.</p>
+            <p>Čmok je sedel v veži pri javorjevi mizi in delal opazke na mimoidoče mlade ljudi. Nekaj starejših in nekaj mlajših fantov je sedelo okrog njega in so zbijali vsakojake šale.</p>
+            <p>Hipoma so izginili iz veže. Nekaj minut pozneje pa so že Čmoka posadili v lesene gare ter ga vozili ob Reberci navzdol proti vasi.</p>
+            <p>Čmok je sedel mimo v dvokolnici in pušil tobak. Dva fantalina sta vozila voziček, dva druga sta privezala srobrot ob sori in držala za dolge konopce. Dva sta stopala ob strani in držala roki ob Čmokovih ramah. Kovač sam je imel na glavi veliko papimato kapo v obliki krone. Ob rami mu je visela velika mrežasta mantila in v roki je držal visoko palico.</p>
+            <p>„Kralja peljemo, našega kralja, kralja iz Rožnega loga,“ so klicali fantje.</p>
+            <p>Ljudje pa so se zbirali v gruče in se smejali. Starejši so se umikali za vežna vrata, mlajši pa, zlasti otroci, so tekali za »kraljem«.</p>
+            <p>Čmok je pokadil in nasadil pipo na vrh palice.</p>
+            <p>„Umaknite se, kralj se pelje,“ so zopet klicali.</p>
+            <p>Pred Popustkom se ustavijo in spredaj še dva fanta priprežejo na dolgi srobrot. S smrekovimi vejami so obsuli sedež na »kraljevem vozu«, ob vznožju pa so nastlali polno kopriv.</p>
+            <p>Čmok se je držal strašno imenitno na svojem vozu. Čmikavi obraz mu je srpo gledal izpod pozlačene krone, le ustnice so se držale na smeh. Čmok je ljubil to veselje, ljubil tako, kakor nobeno drugo na svetu, kadar se je hotel poveseliti. Biti je morala že posebna priložnost, da se je dal za kralja voliti in voziti. Takrat on ni varčeval z denarjem in dal je fantom za pijačo, da se je miza kopala v vinu.</p>
+            <p>Že nekaj let je preteklo, odkar se je zadnjič vozil v »kraljevem vozu«. Starejši ljudje so ga imeli za norca, toda Čmok je hotel s tem pokazati, da stori v Rožnem logu, kar hoče.</p>
+            <p>„Rožni kralj, kaj zapove vaša milost?“ ga popraša eden izmed fantov.</p>
+            <p>„Sodček piva mojim zvestim služabnikom,“ odzove se kraljeva milost na vozu.</p>
+            <pb facs="#WIKI00467-054" n="54" xml:id="pb.054"/>
+            <p>In Popustek je postavil sodček pred hišo na klop, ga nastavil in pili so, da se je »kralju« brada majala.</p>
+            <p>„Ali odrinemo, vaša milost?“ popraša ga kovačev Lojzek.</p>
+            <p>„Lojzek, nazaj na svatbo!“</p>
+            <p>In zopet se je kraljevi voz pomikal ob Reberci navzgor. Kralj pa je delil milosti.</p>
+            <p>„Lojzek, ti si zvest moj služabnik. Zato ti obljubim, da bodeš še prvi adjutant mojega sina.“</p>
+            <p>Tam ob česti se je smejal hlapec Groga.</p>
+            <p>„Groga, ti si namenjen še za velike reči, čeprav si že star. Prvi skrivni svetovalec boš mojemu sinu.“</p>
+            <p>Onstran Reberce je stopala proti mlinu dekla Barba.</p>
+            <p>„Barba, ti pa boš kuharica na kraljevem dvoru.“</p>
+            <p>Smejali so se, da so skoro popokali, in večkrat so se kraljevi služabniki ustavili, pričakujoč, da kralj zopet podeli kako milost.</p>
+            <p>Kolenčev žagar Matevž se je tudi prikazal pri vratih.</p>
+            <p>„O, starih grešnih kosti Matevževih tudi ne smemo pozabiti. Žagar Matevž bo povišan za rablja v mojem kraljestvu.“</p>
+            <p>„Norec, le počakaj, te bo že konec.“</p>
+            <p>Matevž se je umaknil, fantje so se zasmejali, pa ne vsi. Vedeli so, da Matevž ne pozna šal in da je silno hudoben.</p>
+            <p>Hlapec Groga je dobro vedel, kaj so pomenile besede, ki jih je imel Čmok navado govoriti, kadar se je vozil na garah kot kralj že precej vinjen, in njegove besede so se navadno tudi izpolnile.</p>
+            <p>Zato sta jih Groga, pa tudi Barba dobro pretehtala.</p>
+            <p>Kralja so peljali dalje. Vse se je smejalo, vsi svatje so prihiteli naproti Rožnemu kralju. Le eden je bil, ki se je umaknil. Drug Janko ni mogel v takih okolnostih gledati svojega očeta.</p>
+            <p>Bili so veseli, zbijali so šale, toda Janko je stal za stopami v mlinu in gledal skozi okno kaplje, ki so kapale skozi leseno strugo na dno potoka.</p>
+            <p>Noč se je napravila, temna noč. Nebo so prepregli oblaki in droben dežek je rosil na zemljo. Svatje so se umaknili pod streho in rajali dalje. Tudi fantje so se pomešali med plesalce.</p>
+            <p>Čmok pa se je splazil v skedenj in se zaril v slamo. Sanjal je kraljeve sanje. Ko pa je že odbila polnoč, se je prebudil. Vstal je in korakal proti domu.</p>
+            <pb facs="#WIKI00467-055" n="55" xml:id="pb.055"/>
+            <p>Noč je bila, temna noč in droben dežek je rosil na zemljo. S težko glavo je kovač Urh lezel za potokom.</p>
+            <p>Ko je prišel do brvi, se je plazil po vseh štirih črez ujo. Klel je in govoril sam sebi: „E, tako življenje pa nič. Norec sem, mi je rekel včeraj Matevž. Hm, tak norec! Menjam pa vendar ne z nobenim, z Matevžem pa že celo ne. Umorov pa vendar nimam na vešti, kakor ta-le Matevž, ta rabelj!“</p>
+            <p>Čmok je prilezel črez brv in stopil zopet na noge.</p>
+            <p>Stopal je mimo lesene hišice žagarja Matevža. Poprijemal se je za zid — tema je bila kakor v rogu. Tisina je vladala naokrog, le tam od mlina doli so se čuli glasovi harmonike in hripavih svatov. Voda v potoku je šumela in v temi so se iskrile vodene kaplje, padajoče iz lesene stnige v potok.</p>
+            <p>Urh je stopal dalje za potokom, počasi, vedno poskušajoč s stopali, če še stoji na trdih tleh. Zdelo se mu je, da je nekaj zasuštelo za njim. Ozre se, pa ni ničesar opazil. Že je zopet na stezi. Umejših korakov se bliža kovačnici.</p>
+            <p>„Tako se kralj vrača domov. Ha, kralj, Rožni kralj!“ In zasmejal se je divje, da se je razlegalo v temno noč.</p>
+            <p>Čmok! Čmok! Čmok!</p>
+            <p>Trikrat se je čul, pa ne glas, ampak udarec.</p>
+            <p>Urh se je zgrudil na zemljo pred svojo kovačnico.</p>
+            <p>„Matevž, rabelj!“ zakliče Urh in ni se več zavedel. Čule so se le stopinje bežečega človeka.</p>
+         </div>
+         <div xml:id="wv-XIV.">
+            <head xml:id="head.14">XIV.</head>
+            <p>Že se je petelin oglašal na plotu in naznanjal jutranjice.</p>
+            <p>Urh se je prebudil. Sklone se po koncu, pa ne more vstati. Silno ga je zabolela glava. Kar črno se mu je delalo pred očmi. Krvave lise so se poznale na čelu in sencih. Klobuk je ležal na tleh.</p>
+            <p>Z velikim trudom se splazi do potoka in si spere rane na glavi. Strjena kri se je odmakala.</p>
+            <p>Dvakrat mu je prišlo slabo. Pa trdna Čmokova narava je premagala. Počasnih korakov se priplazi do vrat kovačnice in sede na klop k mizi, ki je stala pod lopo.</p>
+            <p>„Za rablja sem ga postavil v svojem kraljestvu, pa meni je najprvo vrat zavil. Ha!“ Čmok poseže za srajco in privleče umazano cunjo na dan. „Dobro, da me ni <pb facs="#WIKI00467-056" n="56" xml:id="pb.056"/>oropal, ta rabelj! Hu, kako me glava boli! Črepinjo imam prebito. Pa kako me zebe, da se ves tresem. Pa naj bo, saj enkrat mora tudi kralj umreti.“</p>
+            <p>Počiva na mizi, pa zopet se zdrami, potegne papir iz cunje in začne brati:</p>
+            <p>„Jaz podpisani Franc Kolenec, posestnik v Rožnem logu, izjavljam, da je po moji smrti vse moje imetje, pohištvo in zemljišča, prava in edina last Urha Rebra, nezakonskega sina Agate Reber z Rebri, tako da nima nihče drugi pravice do mojega premičnega in nepremičnega imetja kakor moj nezakonski otrok Urh Reber.“</p>
+            <p>Čmok prebere ter se zamisli. Hudi duhovi mu obletavajo dušo.</p>
+            <p>„Čemu bi še živel na zemlji? Za nobeno rabo nisem več. Danes ali jutri, je vseeno.“</p>
+            <p>In privleče iz žepa nož, s katerim je konjem kri puščal. Hladnokrvno pritisne noževo klino na žilo odvodnico na levici. Curkoma je kri bruhnila, potem pa polagoma tekla iz prebodene žile.</p>
+            <p>Urh obrne nož in ga pomoči v kri.</p>
+            <p>S svojo lastno krvjo je še napisal z debelimi črkami pod pisanjem Fr. Kolenca naslednjo oporoko:</p>
+            <p>„Moj glavni in edini dedič je Janko, moj sin nezakonski, kovač v Rožnem logu.“</p>
+            <p>Čmok se je podpisal in zopet zavil papir v cunjo ter potisnil za srajco.</p>
+            <p>Kri pa je le tekla počasi. Pa Čmok stisne z desnioo žilo na levici in kri se je ustavila. Hotel je zaspati, pa ni mogel. Mraz ga je tresel, da so mu zobje šklepetali. Silne bolečine so ga napadale. Pa na Boga se ni spomnil.</p>
+            <p>Čmok je začel sanjariti.</p>
+            <p>„Tako torej umira Rožni kralj! Ha! Prav je imel Matevž, ki mi je rekel, da sem norec. Pa dvorni norec ne bom jaz, ampak Jožek z Rebri. Ta rabelj Matevž misli, da me je s svojim udarcem ubil do smrti, pa me ni. Reči pa vendar ne bodo mogli, da je on ubil Rožnega kralja. Vzel si je življenje sam! Ha! Ha! Kako me boli! Kdo bo držal, ker tako zebe. Roka mi je utrpnila. Vrag vzemi vse vkup, samo Jankota naj varuje Bog! ...</p>
+            <p>In Urh izpusti žilo. Kri je tekla po mizi.</p>
+            <p>„Hi, hi ah, Marija!“</p>
+            <p>Urh se je ozrl proti kapelici lurške Matere božje.</p>
+            <p>Prepozno!</p>
+            <pb facs="#WIKI00467-057" n="57" xml:id="pb.057"/>
+            <p>Zopet prime krčevito za žilo. Barve na licih so izginile, oči so steklenele, ustnice so se stiskale, sapa je pojemala.</p>
+            <p>„Marija, če je mogoče! ... Milost! Smrt je huda! Pa moja smrt, kaj bo? Milost! Ah, da me je satan premotil! Tekel bi, letel bi do župnika, ko bi mogel. Odvezo, odvezo! Angeli božji, vsi svetniki in svetnice božje, pomagajte! Ne morem več ... Milost, o Marija ... Marija ... Marija ...“</p>
+            <p>Urh je zaspal — za vselej ...</p>
+            <p>Tiho je bilo naokrog, le kos je žvižgal v grmu in v daljavi je še skovikala sova. Jutranja rosa je škropila tla in jutranji zvon je naznanjal beli dan.</p>
+            <p>Svatje pa so še rajali, brez skrbi in veselo.</p>
+            <p>Le eden je bil, ki ni spal, pa tudi ne plesal v Rožnem logu. Žagar Matevž se je počasi plazil za mejo in ozirajoč se oprezno šel pogledat, ali Čmok še leži v svoji krvi. Kol je ležal na tleh, toda Čmok je sedel pred kovačnico.</p>
+            <p>„Glej, vraga, ni se še iztegnil.“</p>
+            <p>Že je Matevž hotel stopiti po kol in še enkrat udariti po Čmoku, kar začuje stopinje. Prestraši se in zbeži.</p>
+            <p>Tam onstran potoka je stopical kovač Lojze s svatbe. Delal se je dan in treba bode iti na delo. Saj konje mora podkovati, kar jih priženo to jutro.</p>
+            <p>Približavši se kovačnici je čul neke stopinje onstran potoka. Pa se ni za to zmenil. Pač pa zagleda pred kovačnico Urha, sedečega in slonečega za mizo. Že od daleč je videl lužo krvi na mizi in pod mizo.</p>
+            <p>Hitro zakliče: „Čmok, alo, po koncu!“</p>
+            <p>Pa tisti hip, zagleda vši kri, se prestraši in boječe zakliče črez potok: „Čmok, kaj pa je?“</p>
+            <p>Brž skoči v potok, prebrede vodo v črevljih in stoji pred Urhom. Potrese ga za rame, dvigne mu glavo, kliče ga — nič glasu, nič znamenja — Urh je mrtev.</p>
+            <p>Brž steče na Reber, povedat žalostno novico: Gospodinja je omedlela. Reber pa brž pošije Lojzeta do mlina, da Janku počasi sporoči nenadno vest.</p>
+            <p>Lojze pokliče Jankota iz hiše in pravi: „Brž pojdi domov. Čmok šedi pred kovačnico s krvjo oblit in ne vemo, ali je živ, ali je mrtev.“</p>
+            <p>Janko prebledi, pogleda Lojzeta v oči, pa teče do kovačnice. Bilo je tam že polno ljudi, ki so govorili: „Ubil ga je nekdo.“</p>
+            <pb facs="#WIKI00467-058" n="58" xml:id="pb.058"/>
+            <p>„Sam se je ubil.“</p>
+            <p>„Žilo si je prerezal.“</p>
+            <p>Bil je to tužen, neznosen trenotek za sina.</p>
+            <p>„Moj oče, moj oče!“ je klical in objemal mrtvega očeta.</p>
+            <p>Ljudje pa so se zgražali: „Janko — pa sin Čmokov?“</p>
+            <p>Napravili so nosilnico iz vej in položili na njo mrtveca. Janko pa je posegel očetu za srajco in umazano cunjo vtaknil v svojo malho.</p>
+         </div>
+         <div xml:id="wv-XV.">
+            <head xml:id="head.15">XV.</head>
+            <p>Pri Kolenčevih so sedeli Janko, Rezika in stara dva Kolenca okrog javorjeve mize.</p>
+            <p>Stara Kolenka je pokašljevala, Kolenec se je držal grdo, Rezika je zrla nepremično v steno, Janko pa je sedel trdo na stolu in govoril:</p>
+            <p>„Prebral sem vam torej še enkrat to pismo. Pokazal tudi in prepis imate v roki. Želim torej, da se v kratkem izvrši prepis posestva.“</p>
+            <p>„Počakaj še, Janko, da pride moj brat notar in hči Ivanka domov.“</p>
+            <p>„Ne morem čakati. Drugače meni ni več obstanka v Rožnem logu,“ reče odločno kovač.</p>
+            <p>„Pa notar utegne oporoko ovreči in kaj potlej, Janko,“ vpraša Kolenec.</p>
+            <p>„Me ne skrbi. Moj oče se je že pri več odvetnikih posvetoval o tem in vsi so mu rekli, da je pravica na njegovi strani,“ odvrne zopet kovač.</p>
+            <p>Rezika se je odstranila.</p>
+            <p>„Najlepše bi se izteklo, ko bi Janko snubil Reziko,“ pravi mati.</p>
+            <p>„Nimam nič zoper to, mati! Toda Rezika se ne misli možiti, in rekla mi je sama, da pojde v samostan.“</p>
+            <p>„E, kaj tisto, ženske se hitro premislijo, ako kaže,“ odvrne Kolenec.</p>
+            <p>Poznalo se je postaranemu možu, da zadnja leta njegova niso bila vesela. Zaupno in koprneče je obrnil svoje mokre oči v mladega kovača.</p>
+            <p>Ta pa mirno odgovarja:</p>
+            <p>„Prisiljena reč ni dobra, oče! Ne skrbite za njeno prihodnjost. Ako se omoži, ji že jaz preskrbim tako doto, da je ne bo sram. Tudi Rupert lahko ostane pri meni. Vama bodem napravil lepo stanovanje, tudi Ivana ima vedno pot odprto proti domu. Mene se nikar ne bojte.“</p>
+            <pb facs="#WIKI00467-059" n="59" xml:id="pb.059"/>
+            <p>„Morda imaš pa že katero izbrano, da se Rezike braniš?“</p>
+            <p>In Kolenka ostro pogleda Janku v oči.</p>
+            <p>„Pustimo ženitev. Kakor sem rekel: V osmih dneh se odločite, ako ne, nastopim tožno pot z Bogom!“</p>
+            <p>In Janko odide v svojo kovačnico. Ozira se po polju in bregu okrog in vse mu je tako ugajalo, kakor še nikdar ne. Pa je pogledal svet na ono stran potoka: iz drevja je zrla Rebrova hiša.</p>
+            <p>„Lep je ta Rožni log in srečen bi bil, ko bi bil ves moj. Morda so moje misli predrzne, pretirane, lakomne, toda kaj hočem? Oče mi je rekel, naj izpolnim nalogo, katere on ni mogel.“</p>
+            <p>Ptiči so žvrgoleli v meji, vinske jagode so se že pokazovale v vinogradu, tu pa tam je še cvetela kaka zapoznela jablana.</p>
+            <p>Janko je korakal po klancu navzdol. Visoko leteče misli so mu polnile dušo, prihodnjost se je razgrinjala pred njim, tako bujno, tako srečno, tako bogato. Tam gori za kapelico pa se je svital obraz izvoljene device, ki naj ga osreči za vse življenje.</p>
+            <p>„Morda ve, da sem tukaj? Morda sanja o zlati sreči? Morda ji je oče privolil v zakon?“</p>
+            <p>Tako blizu se mu je zdela vsa sreča, pa vendar še tako negotova. Kaj pa, ko bi notar vendarle ometaval oporoko? Pa naj se mu posreči? Pa naj ostane Janko na cedilu? Ali je potem še kaj upanja na Rebrovo deklico? Saj je še tako negotovo, da bi se stari Reber podal. Visoko leteče misli so ga hipoma potrle na tla. Moreče skrbi so zopet razjedale njegovo dušo.</p>
+            <p>„Pa kaj zato? Ali gre ali ne gre? Po pošteni poti sem prišel v Rožni log, po poštenem potu zopet odjadram tja v beli svet Bog naj obrne, kakor se mu prav zdi!“</p>
+            <p>Janko je zopet ves teden pridno delal v kovačnici in premišljeval očetovo smrt.</p>
+            <p>„Saj je morda še bolj prav, da grem odtod. Ljudje ne bodo pozabili nikdar, da sem Čmokov sin. Saj tako drugega ne delajo, kakor obirajo mojega očeta in se norčujejo iz njega, ga zasramujejo in preklinjajo. Tudi pri Rebrovih me nimajo več tako radi. Pa kaj? Moj oče je vendarle bil Čmok in želel mi je dobro, skrbel za me, kakor malokateri oče za svojega sina. Bog bodi milostljiv njegovi duši. Morda pa vendar ni pogubljen? Zadnji trenutki <pb facs="#WIKI00467-060" n="60" xml:id="pb.060"/>človeka radi izpreobnejo. Morda je umrl s kesanjem v srcu? In če je imel popolni kes? Res leži pokopan med samomorilci tam za mrtvašnico. Toda človeška sodba je zmotljiva. Nekaj mi vedno pravi, da moj oče ni obupal, Saj ni bil tako hudoben. Življenske razmere so ga tako daleč pripeljale. Bog bode že presodil pravo.“</p>
+            <p>Tolažilne misli so prevevale Jankotovo dušo.</p>
+            <p>Prišel je mesec majnik. Trava je odcvetela in žita, so jela rumeniti. Janko je pomagal Rebrovim pri košnji. In takrat se je večkrat primerilo, da sta bila Janko in Micika sama.</p>
+            <p>„Veš, Micika, Kolenec se je vdal brez tožbe. Na jesen se mislim jaz preseliti h Kolencu.“</p>
+            <p>„Hvala Bogu! Toda kaj bode z Reziko?“ brž popraša deklica.</p>
+            <p>„Jeseni gre v samostan. Je že vse dogovorjeno.“</p>
+            <p>„Božica!“</p>
+            <p>„Zakaj božica? Tudi jaz bi šel precej, ko bi mogel.“</p>
+            <p>„Ti, Janko? Kaj pa jaz?“</p>
+            <p>„Ko bi mogel pravim. Toda zdi se mi, da brez tebe ne bi mogel živeti.“</p>
+            <p>„Janko, Janko! Ti se šališ.“</p>
+            <p>„Nič se ne šalim, Micika! Na jesen stopim pred tvojega očeta in mu porečem: Ali mi dajte Miciko, ali pa grem od tod.“</p>
+            <p>Deklica povesi oči in obmolkne. Solnčni žarki so se lomili pod robcem na njenih licih in rdeče ustnice so zatrepetale v tajni ljubezni.</p>
+            <p>„Micika, ali si moja?“ In Janko jo prime za roko.</p>
+            <p>Micika pa odgovori: „Saj veš, da sem, ako le oče ne bodo branili.“</p>
+            <p>In Janko je zopet hitel metati seno na kopice, Micika pa grabiti. Bilo je še precej sena za pospraviti v kopice in mrak se je delal.</p>
+            <p>Tam v bližnjem grmovju se je že slavec oglašal.</p>
+            <p>Pa tudi na drugem koncu travnika sta hitela pospravljati seno v kopice dva človeka. Martin in Uršlka sta se smejala in pogovarjala.</p>
+            <p>„Veš kaj, Uršika! Tako se mi zdi, da ta-le par na onem koncu travnika tudi ni kar tako brez nič. Pri Rebrovih sicer na to niti ne mislijo, toda kaj vse se na svetu ne zgodi. Janko je tako že gospodar pri Kolencu, kakor sem slišal,“ pripoveduje Martin.</p>
+            <pb facs="#WIKI00467-061" n="61" xml:id="pb.061"/>
+            <p>„Jaz sem pa tudi slišala, da Rezika ne mara za Janka,“ reče brž Uršika.</p>
+            <p>„Seveda ga ne mara, ker ima Janko že drugo izbrano.“</p>
+            <p>Uršika je pogledala proti onému koncu. Janko je ravno v roke segal Miciki.</p>
+            <p>„Poglej, poglej, Martine, kaj imata!“</p>
+            <p>„Ali nisem rekel, Uršika, da ni tako brez nič vse to? Ej, stari Čmok je poznal ljudi in od njega sem se jaz marsikaj naučil. Tudi za te se imam zahvaliti Čmoku.“</p>
+            <p>„Ali res, Martine? Pa kako to?“</p>
+            <p>„Kar namignil mi je, ko sem prišel prvikrat v vas. Saj veš, to je bilo takrat, ko smo pri Popustku Šentjanževca poganjali. »Ta-le bo za te,« je rekel, pa je pokazal na te.“</p>
+            <p>„Škoda je bilo vendarle tega Čmoka,“ pravi Uršika. „Kako, da je tako žalostno končal?“</p>
+            <p>„E, božja pota so čudna. Pustiva to, Uršika! Bog daj pokoj njegovi duši!“</p>
+            <p>Skoro ju je bilo strah. Obmolknila sta oba.</p>
+            <p>Tam iz gozda se je oglašala sova in skovikala svojo mrtvaško pesem.</p>
+         </div>
+         <div xml:id="wv-XVI.">
+            <head xml:id="head.16">XVI.</head>
+            <p>V Klenici so praznovali tisti dan farnega patrona, Sv. Jerneja. Pri Popustku je bilo na obeh konceh hiše polno gostov. Tudi Diguž je vlekel svoje harmonike. Na levo so se vrteli mladi, na desno pa so modrovali možakarji.</p>
+            <p>Tudi Janko je bil pri Popustku. Z Lojzetom sta sedela v kotu pri rdeče pobarvani mizi. Lojze je bil ta dan silno dobre volje, zakaj Janko ga je napravil za kovaškega pomočnika.</p>
+            <p>Ni pa bil vesel Janko. Zamišljen je sedel za mizo in vlekel na ušesa besede možakov, ki so v kamri prerešotavali dnevne novosti.</p>
+            <p>„Kaj mi je danes pravila moja stara! Čudnoje, skoro neverjetno, pa mogoče je vendarle,“ pravi rdečelasi Kvatrnik.</p>
+            <p>„Kaj pa takega, sosed,“ ga poprašujejo.</p>
+            <p>„Mladi kovač, o katerem pravijo, da je Čmokov sin, je postal gospodar pri Kolencu.“</p>
+            <p>„Kolenec mu bode dal Reziko?“ se čudijo možakarji. „Pa vendar ne. Tak gruntar, kakor je Kolenec, pa bi dal svojo hčer kovaškemu pomocniku?“</p>
+            <pb facs="#WIKI00467-062" n="62" xml:id="pb.062"/>
+            <p>„Rad bi jo mu dal, rad,“ pravi rdečelasi sosed, „pa je Janko ne mara.“</p>
+            <p>„Kako pa drugače? Saj se mora vendar priženiti, drugače ni mogoče,“ ugibajo drugi.</p>
+            <p>„Je mogoče, je. Tako je, da bode Janko izbiral, ne pa Rezika.“</p>
+            <p>„Oho, kako to?“</p>
+            <p>„Vse Kolenčevo je kovačevo,“ pravi Kvatrnik. „Barba, Kolenčeva dekla, je pravila moji sosedi, ta pa moji ženi, da je Čmok imel pismo, ki spričuje, da je bil Čmok gospodar pri Kolencu, ne pa Kolenec. Saj se morda še spominjate, da je bil stari Kolenec oče tistega otroka Urha, nezakonskega sina Agate, Rebrove sestre. Porodila ga je tam nekod pri Trstu, pri svojih sorodnikih. In ta kovač Janko je zopet nezakonski sin Urhov ali Čmokov. Ujel ga je nekod, ko je popotoval po svetu kot kovaški pomočnik.“</p>
+            <p>„Čujte, čujte, kaj pride vse na dan. Včasih sem že slišal nekaj takega zvoniti, pa kdo se je dosti zmenil za take govorice o preteklosti pijanega Čmoka,“ zopet modruje drugi.</p>
+            <p>„Aha, zdaj pa vemo, zakaj sta se Reber in Kolenec Urha tako bala. Nič čudnega, saj je imel obadva na vrvici,“ zine, sosed Kvatrnikov.</p>
+            <p>„Srečen je pa vendarle ta kovač!“</p>
+            <p>„E ja, srečen pa nesrečen. Saj veš, Čmokov sin pa vendarle ostane.“</p>
+            <p>„Ali moč njegova bode še večja kakor je bila moč starega. Pošten človek, priden in razumen. E, ta bo še marsikaj obrnil v Rožnem logu.“</p>
+            <p>„Pa to še ni vse, kar je pravila moja stara,“ pravi zopet Kvatrnik in popije kozarec vina. „Zdaj pride še nekaj, kar vas bo osupnilo. To ji je pravil žagar Martin, ki še vedno zahaja k Rebrovim na delo.“</p>
+            <p>„No, no, Kvatrnik, kaj takega?“</p>
+            <p>„Janko se ženi pri Rebru.“</p>
+            <p>„E spaka, pa saj ni res?“</p>
+            <p>„Tako je! Danes dopoldne ga je kovač vprašal za Miciko.“</p>
+            <p>„O, o, o, kaj vse se ne zgodi na svetu. Ali pa jo mu bode stari Reber tudi dal?“</p>
+            <p>„Strašno je hud. Ves dan leta okrog hiše in kolne. Reberna se je skrila pred njim, dekle pa je ušlo, najbrž k stricu na Ajdovo zrno.“</p>
+            <pb facs="#WIKI00467-063" n="63" xml:id="pb.063"/>
+            <p>„Oh, oh, kaj poreče župnik, brat Rebrov?“</p>
+            <p>„No, no, ko bi bil jaz v Rebrovi koži, bi je mu tudi ne dal. Tak prihajač, pa bi zapovedoval po vsem Rožnem logu. Reber naj se le drži in prav ima, če se drži. Tudi možje moramo zoper to nastopiti. Rogelj naj mu ne da županskega dovoljenja za to ženitev. Kovač naj že vzame Reziko, ako ni drugače, Micike pa ne,“ konča postarani možak.</p>
+            <p>„Rezika gre v samostan, pravijo.“</p>
+            <p>„Ha, tako? E, to se bode še vse preobrnilo.“</p>
+            <p>„Kaj pa Rupert? Ali bodo tega kar tako zapodili od hiše? In Rebrov Jožek? Ali res ni za nobeno rabo?“</p>
+            <p>Tako so modrovali, ugibali in svetovali možakarji pri kozarcu vina. Postajali so vedno glasneji.</p>
+            <p>Pa tudi v drugi sobi so bili podobni pogovori. Rupert je dajal fantom za pijačo, da je teklo od mize. Barba se je vrtela še vedno urno po podnicah ter pripovedovala Rupertu vsakojake stvari. Tudi Rebrov Jožek je čepel tam v kotu in se neumno smejal plesalcem.</p>
+            <p>„Ti, Rupert, le nikar se ne jezi. Veš, meni Micika dosti pove in kar ve Micika, to ve tudi Janko,“ pošepeče Barba potrtemu Rupertu.</p>
+            <p>„In kaj ti je Micika povedala?“ vpraša brž Rupert in zvedavo upira oči v Barbo.</p>
+            <p>„Toliko že, da ti rečem: bodi pameten in nikar ne nasprotuj Jankotu, kakor si nasprotoval Čmoku,“ pravi Barba in pogleda zraven sedečega Jožka. Temu pa pravi:</p>
+            <p>„Pa tudi ti bodi pameten, Jožek, in rad imej Jankota. On je dober človek.“</p>
+            <p>„Dober, res,“ odvrne Jožek, smejoč se neumno. „Midva sva tako prijatelja. Že trikrat me je danes klical pit.“</p>
+            <p>„Kaj ti veš, Jožek,“ odvme Rupert. „Ali jaz vem, Barba, da Janko snubi Miciko.“</p>
+            <p>Barba se malo zlobno nasmeje, pa pravi:</p>
+            <p>„Rupert, Micika je sedaj res Jankotova, pa ne bo dolgo. In da je tako, je tô tvoja sreča,“ reče Barba kratko in odločno.</p>
+            <p>Rupert se zatopi v mladostne spomine. Z Miciko Rebrovo sta skupaj hodila v šolo, ker je bil Rupert že iz mladega pri Kolenčevih. Stariši so mu zgodaj pomrli. Stanovali so v Žeravici. Njegov brat je s štiriindvajsetimi leti prevzel domačijo, on pa je ostal pri svoji teti Kolenki. Micika mu je bila že od nekdaj precej všeč, vendar ni <pb facs="#WIKI00467-064" n="64" xml:id="pb.064"/>nikomur tega pravil. Na ženitev seveda došlej ni mislil. Bil je premlad za to, pa še v vojaških letih. Sicer je imel precejšnjo doto od doma, toda teta mu ni došlej še ničesar obljubila. Odkar je Janko postal gospodar pri Kolenčevih, se je Rupertu ohladila mržnja do Čmokovega sina. Ko pa je izpazil, da Janko lazi za Rebrovo Miciko, je zopet vzkipela stara mržnja. Dasi sam ni imel dosti upanja, da bi kdaj zasnubil Miciko, ali Jankotu je pa tudi ni privoščil. On je bil vendar gruntarski sin, Janko pa prihajač brez doma.</p>
+            <p>Barbine besede so Ruperta nekoliko pomirile. Začel je postajati dobre volje in tudi prisedel k Jankotu. Ta pa je malo govoril, zamišljeno zri po hiši, poslušal pa molčal. Le Lojzetu je privoščil več besedi. Vedno še mu je šumel po ušesih dopoldanji pogovor z Rebrovim očetom. Ni pričakoval, da ga tako sprejme. Toliko, da ga ni vrgel črez prag. Nič več mu ni obstanka pri Rebrovih. Niti za račun si ga ne upa iti vprašat.</p>
+            <p>Reber je divjal kakor razkačen lev in vse je bežalo pred njim.</p>
+            <p>„Ali naj se preselim v svojo kovačnico na desno stran Reberce? Ah, saj ne bo več mini. Preblizu je. Ali naj se kar preselim h Kolencu? Tudi težko kar tako na nagloma.“ Ti dve vprašanji sta Jankotu največ belili glavo tistega popoldne.</p>
+            <p>Ko pa se je naredil večer, so Jankota pogrešali pri Popustkovih. Nikomur ni povedal, kam da gre, razen Lojzetu. Ta je bil sedaj njegov edini prijatelj. Ljudje so ga zavidali, odkar je tako hitro obogatel in niso ga več tako cenili, odkar se je pokazal kot Čmokov sin. Pri Kolenčevih so ga gledali po strani, pri Rebrovih pa se je tako zameril.</p>
+            <p>„In Micika? Kaj hoče, kaj more ona, revica? Saj je rekla, da bo moja, ako ji oče ne bodo branili. In sedaj vem, pri čem da sem.“</p>
+            <p>Počasi je stopal Janko po stezi, ki je držala v gozd. Bilo je jasno. Zvezde so sijale na nebu, mesec je kazal prvi krajec, nobena sapa ni pihala po polju.</p>
+            <p>Janko sede na hrastov štor in gleda v dolino. Ni bilo megle nad Reberco. Belila se je v drevju Rebrova hiša, luč je svetila pri Kolenčevih, potok je šumel po dolini. Tako lepo se je Jankotu vselej zdelo, kadar je z višave gledal v nižavo, z rebri v log. Danes pa se mu je videlo pusto in prazno.</p>
+            <pb facs="#WIKI00467-065" n="65" xml:id="pb.065"/>
+            <p>Nič ni slišal, nič ni videl; glavo je stisnil v pesti in motal globoke misii V bližnjem grmu je slavec cijikal in drobikal svojo večerno pesmico.</p>
+            <p>„Kam grem? Že sem dospel do vrha griča, že sem se mislil obmiti, povzpeti, pa — glej! Kamen je izpodletel in padel sem ... Pač, še bi se pobral, ko bi le tista-le deklica tam doli v Rebrovi kamrici ostala stanovitna. Pa kaj? Ne morem ji zameriti. Samostojna ni, kakor sem jaz. E, Micika ne bo znorela zaradi mene, meni pa se je tako prigabilo življenje, vsaj v Rožnem logu. Kaj bi še lazil tu okoli, ko me vse zaničuje. Kaj mi pomaga lepi Rožni log, ako pa ni mini, ni sreče v srcu. Dosegel sem skoro svoj namen, izvršil nalogo, katero mi je oče naložil, toda srce je prazno, ni srečno, želi si nazaj časov, ko sta še strah in up pretresala moje drobovje.</p>
+            
+               <l xml:id="l.13">Sem dolgo upal in se bal,</l>
+               <l xml:id="l.14">slovo sem upu, strahu dal —</l>
+               <l xml:id="l.15">Srce je prazno, srečno ni,</l>
+               <l xml:id="l.16">nazaj si up in strah želi.</l>
+            
+            <p>„Ne, ne morem se pritožiti, da mi sreča ni bila mila. Bogu moram biti hvaležen za njo. Ali tega nisem dosti premislil, da stalne sreče ni najti na zemlji. Srečen je le tisti, ki srečo pričakuje onstran groba.</p>
+            <p>Kaj me še veže na ta svet? Ali mati? Kdaj jo že krije črna prst tam daleč za gorami. Ali oče? Tudi on je sklenil svoje nemimo življenje. Brata nisem poznal nobenega, sestrna roka ni božala moje glavice.</p>
+            <p>In sedaj so me pustili na cedilu tudi tisti, ki so me radi imeli. Radi imeli? Pač, ker sem jim pridno in zvesto služil. Ni ga več, ki bi ga mogel pritisniti na svoje srce. Le hvaležna dušica Lojzetova se še lovi okrog mene.</p>
+            <p>Sam sem, tako sam pod božjim solncem. Brez doma brez svojcev, brez prijateljev sedim tu in ne vem, kam bi se obrnil.</p>
+            <p>Tri križe dobim o božiču na svoj hrbet. Že sem menil, da se za vselej ustanovim v Rožnem logu. Sladkozveneče misli so omamljale mojo dušo, srečna prihodnjost se je odpirala pred mano, že sem mislil, da držim srečo za pas, pa mi je izdrknila. Kaj naj samotarim tam gori pri Kolenčevih, ko me ljudje ne marajo. Saj bi me še Rezika ne hotela pogledati z lepim očesom. E, kaj!</p>
+            <p>Mlad sem še, zdrav tudi, imetja ne pogrešam. Prodal bom svoje zemljišče, pa pojdem zopet po svetu. Pa vendarle! <pb facs="#WIKI00467-066" n="66" xml:id="pb.066"/>Čemu bi grenil življenje tem ljudem v Rožnem logu? Saj so vendar kri moje krvi. Rajši naj se ločim mimo od tod, kakor sta se ločila Abraham in Bog. Pa Rezika pač ne zasluži, da bi ji zagrenil življenje. Dobro dekle je.</p>
+            <p>In Miciki naj kalim veselo življenje? Naj si izbere ženina, kakršnega hoče! Tudi Rupert ni napačen fant, in Jožek je revež in usmiljenja vreden. Pa ta Reberna! Ta modra žena! Ali ni bila ves čas tako dobra do mene? Bog ve, če je ne boli srce hujše kakor mene? In zopet Kolenka? Ta je že tako z eno nogo v grobu, Kolenec pa tudi ni srečen, dasi ni on zagrešil grehov svojega očeta.</p>
+            <p>Res, dobri ljudje prebivajo v ti dolini, četudi so starci trdi možje. Pa naj bodo, saj imajo morda vendarle prav. Izkušeni so bolj kakor jaz in že vedo, kaj delajo.</p>
+            <p>Mesec se je skril za oblak. Janko vstane in odhiti v dolino. Naravnost gre proti kovačnici, prižge luč, pospravi vse najpotrebnejše stvari v kovčeg, sede k mizi in začne pisati.</p>
+            <p>Napisal je dolgo pismo, pa je je zapečatil in spravil v malho.</p>
+            <p>Janko odide proti vasi.</p>
+            <p>Pri Popustku so še rajali.</p>
+            <p>Kovač pokliče Lojzeta iz hiše, mu nekaj zašepeče na uho in izroči zapečateno pismo.</p>
+            <p>Segla sta si v roke. Lojzku je priplavala debela solza na lice.</p>
+            <p>„Do svidenja v mestu, Lojzek!“</p>
+            <p>„Bog vas sprejmi, mojster!“</p>
+            <p>Janko hitro odrine iz vasi. Pred cerkvijo se globoko prikloni, prekriža, pa se zopet povrne v Rožni log.</p>
+            <p>Ustavi se pred kapelico. Precej časa iskreno moli, pa odhaja proti Rebri.</p>
+            <p>Stopil je za hišo, potrkal na okno, pa zaklical:</p>
+            <p>„Micika, brez zamere, z Bogom!“</p>
+            <p>Ni čakal odgovora. Brž stopi zopet na cesto, ki je peljala v vas.</p>
+            <p>Šel je skozi in ni se ustavil poprej, dokler ni zagledal nad mestom zvonikovih streh, ki so se žarile v prvih žarkih jutranje zarje.</p>
+            <p>Še je čul petelina v bližnji vaši, nato so se oglasili mestni zvonovi, naznanjajoč beli dan.</p>
+            <p>Bil je prvi dan meseca septembra.</p>
+            <p>Janko je začel novo življenje.</p>
+            <p rend="center">* * *</p>
+            <pb facs="#WIKI00467-067" n="67" xml:id="pb.067"/>
+            <p>Še so prihajala pisma v mesto za Jankom. Pa Janko jih ni vec čital. V par tednih je odpotoval gori na Štajersko.</p>
+            <p>Vstopil je kot brat pri očetih kapucinih.</p>
+            <p>V Rožnem logu je še treskalo nekaj tednov. Kolenčev notar se je pokazal v Rožnem logu in pretil, da vrže Čmokovo oporoko. Rebrov župnik je pisal bratu, da naj le dobro paži na hčerko, ljudje pa so govorili toliko in toliko, se čudili in hudovali, se smejali in hvalili ...</p>
+            <p>Jankotovo pismo so hranili v lepi škatlici pri Rebrovih. V pismu je stalo, da naj je Rupert gospodar pri Kolenčevih, Micika pa njegova gospodinja ...</p>
+            <p>Pa se je res tako zgodilo.</p>
+            <p>Rezika je šla k uršulinkam.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

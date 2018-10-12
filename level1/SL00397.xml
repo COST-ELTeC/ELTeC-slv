@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SL00397">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Kurent.  : ELTeC edition</title><author>Cankar, Ivan (?-?)</author>
+            
+            <respStmt>
+               <name>Domen Kermc</name>
+               <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
+            </respStmt>
+         </titleStmt>
+         
+         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <sourceDesc>
+            <bibl><title>Kurent</title><author>Cankar, Ivan</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Kurent</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-3750VHXR</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
+         <langUsage><language ident="sl">slovenščina</language></langUsage>
+         
+      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/></textDesc></profileDesc>
+      <revisionDesc xmlns:t="http://www.tei-c.org/ns/1.0"><change when="2018-10-11"><name>Lou Burnard</name>: converted to ELTeC
+           </change>
+         <change when="2015-09-26">
+            
+            <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
+         <change when="2013-11-29">
+            
+            <name>Domen Kermc</name>: pretvorba v TEI P5.
+      </change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text xml:lang="sl">
+      
+      <body xml:lang="sl">
+         <pb facs="#WIKI00397-000" n="0" xml:id="pb.001"/>
+         <pb facs="#WIKI00397-001" n="1" xml:id="pb.002"/>
+         <div xml:id="wv-I.">
+            <head xml:id="head.1">I.</head>
+            <p>Saj veste vsi, kako se je ta zgodba začela: Kurent je bil siromak, da mu ga še v tej deželi siromakov ni bilo enakega. Spočet je bil ob vinu in razuzdanem veselju, porojen pa v bridkosti in hudih nadlogah. Ko je mati ugledala cmeravo nebogljenče, se je razjokala še sama.</p>
+            <p>„Saj ne bo živelo!“ so rekle sosede.</p>
+            <p>„Da bi le ne!“ je vzdihnila mati.</p>
+            <p>Cmeravo nebogljenče pa je živelo in krstili so ga za Kurenta.</p>
+            <p>Komaj je Kurent shodil, je bilo že očitno, da ni za nobeno rabo na svetu. Namesto da bi gazil blato po vseh štirih, ali da bi se valjal v prahu, kakor drugi krščeni otroci, je sedel na peči, gledal debelo ter gulil svoj desni palec, dokler mu ga niso s cunjo obvezali. Rastel je zelo počasi, redil pa se še celo ni; edino lasje so poganjali tako čudežno hitro, da mu jih je mati nazadnje zvezala v šop na temenu; ker je takrat še krilo nosil, je bil čisto podoben bledikastemu dekletu.</p>
+            <pb facs="#WIKI00397-002" n="2" xml:id="pb.003"/>
+            <p>„Gospod bo, za drugo rabo ni!“ so rekle sosede; mati pa se je močno razveselila v svojem srcu.</p>
+            <p>Ali kazalo je, da mu tudi lemenat ni bil sojen ob rojstvu. Ko je dopolnil dvanajsto leto, je vprašala mati Kurenta, če bi rad bil župnik in škof in kaj da bi drugače rad bil. Kurent je dolgo pomislil, nato pa je rekel:</p>
+            <p>„Cesar!“</p>
+            <p>Mati ga je zlasala ter se je napotila do bližnje in daljne žlahte. Ta je dal par tolarjev, oni platna za perilo, tretji pa dober svet. Jeseni so naložili Kurenta na voz. Mati se je jokala in ga je za slovo pobožno pokrižala, oče pa ga je krepko potegnil za uho, zato ker je bil z novimi škornji stopil v lužo. Staremu hlapcu Andrejcu je bila dana zapoved, da naj se nikar ne napije spotoma in da naj pošteno odloži Kurenta pri teti samici, ki je živela v mestu, zato ker je bilo tam več cerkva in spovednikov nego na fari.</p>
+            <p>Hlapec Andrejec je storil vse, kakor je bilo zapovedano. Odložil je Kurenta pri teti samici, nato pa je šel v krčmo in se je napil že v mestu, zato da bi spotoma ne bilo potreba. Ko se je o mraku vrnil na faro, je bil Kurent že pred njim doma. Andrejec je spravil konja v hlev, pred hišo je oče obdelaval Kurenta s tenko brezovko, po dvorišču pa se je izprehajal košat petelin in je časih pomežiknil v sonce, ki je gledalo komaj še z enim očesom izza hriba.</p>
+            <pb facs="#WIKI00397-003" n="3" xml:id="pb.004"/>
+            <p>„Če za župnika nisi, pa bodi pastir!“ je rekla mati.</p>
+            <p>Kurent pa tudi za pastirja ni bil ustvarjen. Namesto da bi se brigal za živino, je ležal v travi in je gledal v nebo. Kolikor dalj je gledal, toliko bolj je razločil, da nebo, tista lepa božja plahta, ni privezana in pribita na vekomaj, temveč da neprenehoma gre svojo veličastno pot — sam Bog vedi kam! Gledal je in je zadremal; časih se mu je sanjalo, da ne leži na zemlji, temveč visoko na lepi božji plahti in da gleda zviška na pašo, kjer so se bile očetove in sosedove krave pravkar napotile v deteljo. Ko se je vzdramil, so bile krave resnično v detelji.</p>
+            <p>Nekoč se je vrnil s paše brez živine, ki se je bila v hosto poizgubila. Oče ga je najprej naklestil, kakor se spodobi, nato pa mu je rekel:</p>
+            <p>„Kurent, nadloga vseh nadlog, kaj bi s tabo! Za gospoda nisi, ne za pastirja, ne za hlapca. Ali naj te vbogajme redim že na mlada leta? Sam povej, kaj bi rad bil!“</p>
+            <p>„Papež!“</p>
+            <p>Oče ga je do dobrega zlasal in je zavzdihnil v svojem srcu:</p>
+            <p>„Za kateri greh, o Bog, si me udaril s to grenko palico!“</p>
+            <p>Odtistihdob je rastel Kurent, kakor raste kopriva ob plotu. Nihče se ni zmenil zanj, on pa za nikogar. Po teden dni ga ni bilo do hiše, pa <pb facs="#WIKI00397-004" n="4" xml:id="pb.005"/> ne mati ni vprašala, ne oče ni vprašal: „Kje pa je naš Kurent? Ali je lačen naš Kurent?“ — In kadar se je povrnil, razcapan, bos in gologlav, kakor je bil, ga niso vabili: „Prisedi, Kurent; skleda je na mizi in tvoja žlica tudi!“ Nič ga niso vabili; v veži je Kurent južinal, kakor popotnik iz tuje dežele; kadar je pojužinal, pa je šel, kakor gre veter: le Bog sam mu kaže pot in cilj.</p>
+            <p>Vasi in ljudi se je Kurent ogibal; samota je bila njegovo cesarstvo. Gledal je, kako teče potok skozi polje, v senci belih vrb: poslušal je dolgo in natanko njegovo pesem in navsezadnje jo je razločil tako čisto, da je slišal besede in človeški glas. Poslušal je, kako pošumeva polje v rahlem vetru, in to tiho pesem polja in njiv je razločil izmed vseh drugih. Preromal je prostrane gozdove in je verno poslušal, ko so mu pripovedovali svoje žalostne ponočne zgodbe; vse bolj bučeča in vse bolj nedeljska je bila njih pesem nego tista, ki so jo prepevale cerkvene orgle, kadar jih je gonil gluhi organist.</p>
+            <p>Tako se je klatil Kurent brez doma, brez pota in brez posla, sebi v sramoto, ljudem v spotiko in v nagnus.</p>
+            <p>Če ga je srečal kmet, je pogledal hudó in je pljunil debelo:</p>
+            <p>„Fej te bodi! Fant pohajkuje, mož bo kradel in požigal, starec bo beračil!“</p>
+            <p>Kurent še slišal ni takih besed, žvižgal je in je bil vesel.</p>
+            <pb facs="#WIKI00397-005" n="5" xml:id="pb.006"/>
+            <p>Ne le možjé, tudi hlapci in pastirji so se zgledovali nad njim; ženske pa ga še celo niso pogledale, ker je bil bos, kuštrav, umazan in cunjast, da se Bog usmili.</p>
+            <p>Pripetilo pa se je ob tistem času, da je Kurenta veter zanesel v vas, ko so se vračali farani od vélike maše. Dolga vrsta jih je bila. Posamez, po dva in po štirje so šli zložno in počasi po beli cesti nizdol, proti vasi, ki se je senčila v dolini; vsi so bili prazniško oblečeni in sonce je sijalo. Kurent je skočil s ceste na poljsko stezo, da bi se ne zadeval ob ljudi.</p>
+            <p>Komaj pa je tako skočil, je zastrmel z očmi in z usti ter je stal na polju, kakor do kolen ukoreninjen.</p>
+            <p>Tako mu je bilo kakor človeku, ki je prespal leto in dan, pa se vzdrami ter ugleda ves osupel nove ljudi in nove kraje. Kurent si je trikrat pogladil z dlanjo preko oči, nato šele je do dobrega izpregledal.</p>
+            <p>Šlo je po cesti prelepo dekle. Vse se je žarko svetilo v soncu: oči, lica, ustnice, rdeča ruta okoli vratu, pisano krilo in celo beli robec, ki ga je držala v roki ob pasu. Najbolj in najlepše pa so se svetile oči in Kurent je takrat spoznal: tam, v tistih očeh je življenje, kakor mu ga na vsem božjem svetu ni enakega.</p>
+            <p>Daleč že so bili farani; celo zakasnele, pobožne kmetice, ki po maši obredejo še stranske oltarje in ves križev pot, so prišle z drobnimi <pb facs="#WIKI00397-006" n="6" xml:id="pb.007"/> koraki mimo in so se križale, ko so ugledale Kurenta. Kurent pa je stal, kamor je bil prirastel, dokler se ni sonce nagnilo do hriba.</p>
+            <p>Ko so priromale sence s klanca ter upihavale luči po dolini, počasi in tiho, kakor o veliki noči cerkovnik s kajfežem sveče pred oltarjem, se je napotil Kurent proti gozdu, ki je bil njegov dom. Od jutra do večera ni pil ne jedel, pa ni občutil ne gladu in ne žeje. Kraj gozda je legel v travo in je gledal v nebo, ki je bilo zmerom višje in zmerom svetlejše, kolikor dalj je gledal; človeške oči bi ne bile ugledale ne še ene zvezde, Kurent pa jih je videl že brez števila.</p>
+            <p>V gozdu je šumelo, topel veter je šel v dolino; Kurent je gledal v nebo, in kakor je pelo na nebu, v gozdu in na polju; tako je prepevalo v njegovem srcu.</p>
+            <p>„Rdeče so tvoje ustne, kakor ruta okoli tvojega vrata, kakor mak, ki se priklanja v polju, kakor nageljni na tvojem oknu. Vesele in bistre so tvoje oči, kakor oprano nebo, kadar odseva na njem svetla rosa od polja; globoke so, kakor jezero nad zakletim gradom in kakor je nebo, kadar se božja streha vzdigne do nebes in se zvezde tiho približajo gozdu; pogleda človek vanje, pa sliši pesem, ki jo je takrat slišal, ko se mu je sanjalo, da je prečudno odrešen vseh bridkosti in da z angeli prepeva Materi božji na čast. Tvoja lica so lepša, bolj so rdeča in dišeča nego rože na Marijinem vrtu. Lahke so tvoje noge; kakor <pb facs="#WIKI00397-007" n="7" xml:id="pb.008"/> hodiš, ne hodijo sence v gozdu tako mehko in tiho ... Ali joj meni! Vesele so tvoje oči, moje srce pa je žalostno in pusto, kakor polje ob suši. Joj meni! Mehak in tih je tvoj korak in v sonce gre; težak pa je moj, samote in noči željan! Joj meni — nikoli ni zima svatovala s poletjem, nikoli ne dan z nočjo, nikoli ne bo gledal grešnik nebes!“ ...</p>
+            <p>Tako je Kurent prepeval in vzdihoval; ko se je znočilo, se je napotil v vas.</p>
+            <p>Pred svojo bajto je sedel stari Jernejec in si je godel na harmoniko. Kurent je poslušal, nato pa je stopil do Jernejca in je rekel:</p>
+            <p>„Daj še meni, da poskusim!“</p>
+            <p>„Če ne pobegneš z njo, razbojnik!“</p>
+            <p>„Ne pobegnem!“</p>
+            <p>Komaj je harmonika začutila Kurentove roke, je zapela, kakor ni pela nikoli poprej.</p>
+            <p>„Kako godeš?“ je vzkliknil Jernejec. „Take žalostne pesmi še nisem slišal. Pogrebcem godeš, svatom ne!“</p>
+            <p>„Harmonika ni jezik, ne ve za hinavščino; pesem ni beseda, ne laže!“ je rekel Kurent.</p>
+            <p>Šel je v vas in je stopil v hišo svojega očeta.</p>
+            <p>„Oče, harmoniko smo imeli pri hiši. Dajte mi jo za doto in delež!“</p>
+            <p>Oče pa se je zasmejal:</p>
+            <p>„Vzemi si harmoniko, Bog ti jo blagoslovi! Za gospoda nisi bil, ne za pastirja, ne za hlapca; tudi za godca ne boš!“</p>
+            <pb facs="#WIKI00397-008" n="8" xml:id="pb.009"/>
+            <p>Kurent pa je vzel harmoniko in je šel po svoji poti. Ogledaval si je hiše, ogledaval okna. Njegove oči, vajene gozda, so videle bistro ponoči in podnevi. Za plotom je ugledal vrt, nad vrtom zeleno okno; od okna pa so viseli košati nageljni skoraj do tal.</p>
+            <p>Komaj je ugledal tisto okno, je vedel, da je tam njen stan; zakaj njegovo srce je bilo polno ljubezni in koprnenja; táko srce pa je vsegavedno, pot najde brez kažipota, cilj vidi s slepim očesom.</p>
+            <p>Kurent je nagnil glavo in je bil močno žalosten. Za plotom je stal, kakor grešnik pred nebeškimi vrati.</p>
+            <p>„Še vreden nisem, da bi ti adijo rekel; vreden komaj, da me gledajo tvoji nageljni!“</p>
+            <p>Tako je pomislil v svojem potrtem srcu. Od nekdaj pa je taka postava na svetu, da se pesem porodi iz ljubezni in iz koprnenja. Zato je Kurent v svojem srcu še nadalje rekel:</p>
+            <p>„Nisem vreden, da bi vasoval pod tvojim oknom, kaj šele, da bi pomislil na vse druge sladkosti, ki jih bo deležen, kdor nekoč zadobi tvoje dopadenje! Ali če grešnik ni vreden, da bi stopil v paradiž, mu ni prepovedano, da gleda na vrata. Če mi ni dano, da se prikažem pred tvojim usmiljenim obličjem, pa mi je dano, da prepevam tvojo čast in slavo ter da jo oznanjam po vsem prostranem svetu. Kdo ve, če ne boš kdaj ob tem oknu zaslišala moje daljne pesmi; in <pb facs="#WIKI00397-009" n="9" xml:id="pb.010"/> morda bom takrat deležen tvojega pozdrava in tvoje dobre misli!“</p>
+            <p>Ko se je Kurent tako lepo poslovil od plota, od okna in od nageljnov, se je napotil po svetu. Ali očetova beseda nikoli ne zgreši; prej nego tista bi se motile šembiljske bukve. „Tudi za godca ne boš!“ je rekel oče; in Kurent ni bil za godca.</p>
+            <p>Romal je križem od svatbe do svatbe, od sedmine do sedmine, od žegnanja do žegnanja, pa je bil siromak bolj siromašen nego ob rojstvu.</p>
+            <p>„Kdo bi plesal, kadar Kurent gode?“ so rekli. „Razjokal bi se človek ob njegovih pesmih — sušo in povodenj nam gode, bridkost in smrt!“</p>
+            <p>Pa so ga pretepli ter pognali na cesto.</p>
+            <p>Kurent je bil žalosten.</p>
+            <p>„Iz srca gre koprnenje v roke, iz rok v harmoniko, iz harmonike med ljudi — kaj bi ljudje z mojim koprnenjem, ko so veselja polni?“</p>
+            <p>Tako je šel žalosten po svoji žalostni poti, pa je ponevedoma prišel do svatov, ki niso imeli godca.</p>
+            <p>„Zagodi nam, Kurent!“ je ukazal ženin. Kurent je pogledal ter je spoznal nevesto in ženina. Pred svate je stopil, šel je pred njimi, kakor križ pred procesijo. Komaj je stisnil harmoniko, so zavrisnili svatje in so zaplesali; nikoli še uho ni slišalo take pesmi, upijanila je kakor močno vino.</p>
+            <pb facs="#WIKI00397-010" n="10" xml:id="pb.011"/>
+            <p>Tri noči so pili in plesali svatje, tri dni so spali. Tretjo noč je rekel Kurent:</p>
+            <p>„Tudi jaz bi rad plesal z nevesto!“</p>
+            <p>Takrat so ga vsi pogledali in smejali so se, da so se okna tresla. Smejala se je tudi nevesta in solze so ji tekle po rdečih licih.</p>
+            <p>„Daj, zapleši z njim!“ je rekel ženin ter je od smeha in od pijanosti omahnil pod mizo.</p>
+            <p>Kurent je stisnil harmoniko pod pazduho in je zlezel tiho s toplega zapečka; takrat je vedel, kdo da je. Bos je bil; ogoljene in razcefrane hlače so mu segale malo do kolen; namesto jermena jih je držala debela vrv, ki jo je bil našel nekoč ob cesti; drugo njegovo oblačilo je bila platnena srajca, vsako soboto v potoku oprana in na soncu posušena. Kuštrav je bil, bledikast in majhen, napol še otrok.</p>
+            <p>„Naj zapleše Kurent, naj zapleše z nevesto!“ so kričali veseli svatje. Kurent pa je pobegnil skozi odprte duri ves plah in osramočen. Šel je skozi vas, šel je iz vasi, njegovo srce pa ni več prepevalo, temveč jokalo je od same bridkosti. Napotil se je v gozd, zakaj tam je bil njegov pravi dom; nastlana praprot mu je bila postelja, nebo mu je bila streha; črni borovci so mu bili bratje, bele breze so mu bile sestre.</p>
+            <p>Zato se je napotil proti svojemu domu, da bi legel na svojo posteljo, pod svojo streho, med svoje sestre in brate, ter umrl.</p>
+            <pb facs="#WIKI00397-011" n="11" xml:id="pb.012"/>
+            <p>Šel je, šel, pa se je nenadoma razmaknil gozd pred njegovimi očmi in prikazala se je prostrana jasa. Temni borovci so stali vse naokoli, ali sence niso dali od nobene strani; tako jarka mesečina je lila na jaso, da je razločil Kurent vsako bilko v travi.</p>
+            <p>Na štoru kraj jase je sedel pritlikav grbec, ki je bil ves po škratovsko našarjen: čepico rdečo, jopič zelen, petelinje hlače pa židane šolne. V roki je imel odprto zlato tabakiro, njuhal je tobak, kihal je ter pomežikoval Kurentu.</p>
+            <p>„Kako je, Kurent, kako že na svetu?“ je vprašal.</p>
+            <p>„Da bi ne bilo, kakor je!“ je vzdihnil Kurent.</p>
+            <p>„Če ti ni postlano, si postelji!“ je svetoval nevernik.</p>
+            <p>„Postiljal sem si od rojstva, pa sem si nazadnje le smrtno posteljo postlal.“</p>
+            <p>Nevernik je kihnil, nato je Kurentu veselo pomežiknil in je rekel:</p>
+            <p>„Saj veš, Kurent, za tisto starodavno šego! Besedo reci, pa ti bo pernica postlana!“</p>
+            <p>Kurent je legel v travo, v svetlo mesečino, in je ves žalosten zavzdihnil.</p>
+            <p>„Kaj bi meni starodavna šega? Moja duša ni vredna snetivega zrna; le v nadlego bi ti bila, kakor je meni. Da jo nesem na semenj, ne skupim zanjo plesnivega oreha!“</p>
+            <p>Ali modro je govoril nevernik:</p>
+            <pb facs="#WIKI00397-012" n="12" xml:id="pb.013"/>
+            <p>„Če bi se mi zdelo, glej, o Kurent, kako lahko bi te zdajle opeharil! Za plesniv oreh bi dobil srebrn tolar, če ne cekin. Ampak še je pravica in je poštenje v naših krajih! Zakaj preudari: kar je temu v neprid, je onemu dota; kmet je vrgel v blato vrv, ti pa si jo pobral in si hlače prevezal z njo! Zadnjič sem primešetaril dušo, ki je bila tako sajasta, da bi je nobena božja perica več ne oprala, pa se vendarle nisem ukanil!“</p>
+            <p>Kurentu se je čudno zazdelo, pomislil je in je rekel:</p>
+            <p>„Prišel sem, da bi si na praproti postlal svojo zadnjo posteljo. Blizu je moja žalostna ura, kaj bi zdaj še barantal za to poslednje uboštvo? Kdo ve, morda sem si le kdaj ponevedoma pridobil tako ali inako zasluženje pred Bogom; čemu bi ga zapravljal po nepotrebnem?“</p>
+            <p>Nevernik je pokimal.</p>
+            <p>„Pametno si povedal, Kurent! Če pride k tebi slepar in pravi: Daj mi te škornje, še za med smeti niso več! — mu nič ne veruj ter poreci: Kaj pa bodo tebi, če še za med smeti niso? — Blagó táko ali táko, svoje cene je vredno! Kar povej ceno, jaz povem svojo!“</p>
+            <p>Kurent se je uprl s komolci v travo, stisnil je lica med pesti in je premišljeval.</p>
+            <p>„Ni mi sile do te kupčije, saj veš,“ je rekel. „Ena sama cena je; tisto plačaj, pa si vzemi, kar je tvojega! — Odkar sem izpregledal, nisem videl veselega obraza; odkar sem shodil, so me tepli; <pb facs="#WIKI00397-013" n="13" xml:id="pb.014"/> ko je prišla v moje srce ljubezen, so me zasramovali, v srce so mi pljuvali. Ti pa stôri, da bodo vsi veseli, kadar stopim mednje; stôri, da poljubim nekoč tiste ustnice, ki jaz sam vem zanje.“</p>
+            <p>Nevernik se je prijetno zasmejal.</p>
+            <p>„Saj sem vedel za tvojo ceno, Kurent; poštena cena je, blagu primerna. Ná te gosli, Kurent, pa nič se ne boj! Stare gosli so in oglajene, rok mnogotero jih je že zibalo; plesalcev brez števila je že romalo za njimi, dolge procesije, rodovi in ljudstva! — Kadar jih objamejo tvoje roke, zapleše lok po strunah, bodo pijana vsa srca, pijane vse oči. Ljubili te bodo in gostili; kadar pojdeš, bodo jokali za teboj. Same se ti bodo ponujale tiste rdeče ustnice; ne boš se spenjal do jablane, veja se bo sama pripognila in trgal boš, kadar se ti bo hotelo. Kdor bo slišal tvojo sladko pesem, bo zavriskal in zaplesal in bo zapil vse svoje bridkosti; veselje pred tabo, za tabo koprnenje; tako boš imel plačilo za plačilo, paradiž za paradiž!“</p>
+            <p>Ko je slišal Kurent take besede, je zagledal v mesečini tiste svetle oči, tiste rdeče ustnice in tudi ruto pod vratom.</p>
+            <p>„Daj gosli!“ je rekel.</p>
+            <p>Neutegoma sta kupčijo dognala, zapisala in potrdila. Nevernik se je izgubil v gozd, neslišno, kakor ugasne kresnica v grmu, Kurent pa je ležal v travi, gledal je v nebo in še pomislil ni, da je bil dušo prodal za gosli. Od nikoder ni bilo vetra, <pb facs="#WIKI00397-014" n="14" xml:id="pb.015"/> še tistega rahlega ne, ki se ponoči naskrivaj poigrava z mladimi vršički, tako visoko in tako tiho, da se zdi človeku: zvezde šepečejo onkraj mesečine. Mesečina pa je bila tako bela in jarka, da se ne ena zvezda ni prikazala. Nepremični, silni in mrki so stali v krogu črni borovci, kakor molčeči vojščaki ob grešniku-jetniku, na smrt obsojenem.</p>
+            <p>Kurentu je bilo sladko in milo pri srcu, da je koj zadremal. Sanjalo se mu je, da se je visoka senca vzdignila izza hriba. Noge so lomastile po zemlji, glava pa se je s kuštravimi lasmi dotikala samega neba. Silne gosli je zibala v levici, desnica pa je lok držala. Tako je lomastila senca preko zemlje, iz doline v dolino; en sam korak, pa je prestopila hrib; in če se je po nerodnem spotaknila obenj, se je prevalil kakor krtina. Pred njo in za njo so mrgolele črne procesije, vojska zbeganih mravelj. Časih je senca ponevedoma stopila mednje s težko nogo in je pomendrala celo faro, tako da so bili črni škornji oškropljeni že do gležnjev: kri se jih je držala tako na debelo, da jo je Kurent celo v sanjah natanko razločil.</p>
+            <p>„Počemu gazijo za njim, počemu se motovilijo okoli teh nog?“ se je čudil.</p>
+            <p>Ali procesije so gazile in so motovilile, prerivale so se in premetavale s klanca v dolino, iz doline v klanec, dokler ni senca ugasnila onstran mesečine ...</p>
+            <p>Tako se je začela in nehala Kurentova mladost.</p>
+         </div>
+         <pb facs="#WIKI00397-015" n="15" xml:id="pb.016"/>
+         <div xml:id="wv-II.">
+            <head xml:id="head.2">II.</head>
+            <p>Vzdramil se je Kurent, ozrl se je ter je videl, da je svet lep in življenja vreden. Koliko bogastva je nasul Bog na to zemljo! Brez števila rodov je živelo in uživalo, pa niso použili tega bogastva, še zmerom več ga je! Po nebu roma sonce, kakor je romalo od nekdaj, zato da so deležne njegovega blagoslova vse dežele po vrsti. Pod njim hite oblaki, da rosijo od vzhoda do zahoda; obrnejo se na jug, ali na sever, kadar se spomnijo navsezadnje še na siromakovo leho. Zemlja rodi, neutrudna mati; sedemdesetkrat sedemkrat sinov je že pokopala, vnuki pa sesajo na njenih prsih. Nepregledno žitno polje se zvrstoma priklanja pod vetrom; gozdovi, črna straža njegova, gledajo nanj iz visoke daljave, temno in zvesto, kakor gleda mož na doječo ženo ... Ljudje, svatje, za nas vse je miza pogrnjena; nikomur ni sila, da bi stal na pragu, še godec naj prisede! ...</p>
+            <p>Velika radost je bila v Kurentovem srcu, ko se je napotil v dolino. Občutil je, da je ves od vrha do tal tako močan in poln zaupanja, kakor ni bil nikoli poprej. Pod mesečino je prespal vso svojo mladost. Ni vedel več, kje da se je rodil, kdo da mu je bil oče in kdo da mu je bila mati, <pb facs="#WIKI00397-016" n="16" xml:id="pb.017"/> na vse bridkosti je pozabil in tudi spominjal se ni, odkod mu gosli v rokah in veselje v srcu. Iz pozabljenega življenja je ostalo v njegovem spominu le eno samo obličje; tako ga je videl, kakor da se mu je nekoč, pred davnimi časi, sanjalo o njem. In kadar ga je ugledal v spominu, je rekel, da mu nikoli ne bo videl enakega, pa če bi romal za njim do devete dežele; nikoli ne takih rdečih ustnic, je rekel. nikoli ne takih svetlih oči! ...</p>
+            <p>Ko je stopil iz gozda, je pogledal na rosno jutranjo pokrajino pod seboj in spreletela ga je neznana sladkost ob toliki lepoti. Z živimi očmi je videl cvetočo dolino, ki se je na obzorju topila v srebrno luč, z očmi svojega srca pa je videl vso domovino, od štajerskih poljan do morja.</p>
+            <p>— O domovina, ko te je Bog ustvaril, te je blagoslovil z obema rokama in je rekel: „Tod bodo živeli veseli ljudje!“ Skopo je meril lepoto, ko jo je trosil po zemlji od vzhoda do zahoda; šel je mimo silnih pokrajin, pa se ni ozrl nanje — puste leže tam, strmé proti nebu s slepimi očmi in prosijo milosti. Nazadnje mu je ostalo polno perišče lepote; razsul jo je na vse štiri strani, od štajerskih goric do strme tržaške obali ter od Triglava do Gorjancev, in je rekel: „Veseli ljudje bodo živeli tod; pesem bo njih jezik in njih pesem bo vriskanje!“ Kakor je rekel, tako se je zgodilo. Božja setev je pognala kal in je rodila — vzrasla so nebesa pod Triglavom. Oko, ki jih ugleda, obstrmi pred tem čudom božjim, <pb facs="#WIKI00397-017" n="17" xml:id="pb.018"/> srce vztrepeče od same sladkosti; zakaj goré in poljane oznanjajo, da je Bog ustvaril paradiž za domovino veselemu rodu, blagoslovljenemu pred vsemi drugimi. Vse, kakor je rekel, se je zgodilo; bogatejši so pač drugi jeziki; pravijo tudi, da so milozvočnejši in bolj pripravni za vsakdanjo rabo — ali slovenska beseda je beseda praznika, petja in vriskanja. Iz zemlje same zveni kakor velikonočno potrkavanje in zvezde pojo, kadar se na svoji svetli poti ustavijo ter se ozro na čudežno deželo pod seboj. Vesela domovina, pozdravljena iz veselega srca! —</p>
+            <p>Ves veličasten, kakor prerok in glasnik, je stopil Kurent v dolino.</p>
+            <p>„Živ med živimi, vesel med veselimi, svat med svati!“</p>
+            <p>Tako je rekel in se je napotil v vas, ki je ležala v dolini med košatimi vrtovi.</p>
+            <p>Do prve hiše je prišel, tista hiša pa je bila prazna in mrtva; vrat ni bilo, trava je rasla v veži; okna so zijala kakor slepe, strmeče oči. Hiša in hlev in vrt, vse je strmelo in je izpraševalo:</p>
+            <p>„Kje si, gospodar, kam si šel?“</p>
+            <p>Kakor kane črna kaplja na belo cesto, tako je kanilo v Kurentovo srce. Nagnil je glavo, zazibal je v desnici lok in je zagodel. Takoj se je zganilo v mrtvi hiši, kakor da se je bil vzdramil netopir pod streho, in v veži se je prikazala zgrbljena starka; izpod rute je gledal devetdesetleten obraz, roke pa <pb facs="#WIKI00397-018" n="18" xml:id="pb.019"/> so se oklepale črnega molka. Njena beseda je šla s tistim korakom, kakor je šla Kurentova pesem.</p>
+            <p>„ Je že res, je že res! Jaz sem Drmaška, Drmaška, Drmaška! Pa stopimo, se koj zavrtimo! Kdo bi jokal — saj je še vina! — Stari je šel v Ameriko — le ga nalijmo! Mladi je šel v Vestfalijo — le ga nalijmo! Tone utonil, Jurij je zgorel, Tine obležal, od vina pijan! Ali Marjanca, kje je Marjanca, šla je Marjanca v ta lepi greh. Le ga nalijmo!“</p>
+            <p>Komaj še je Kurent dobro slišal in razločil to prečudno pesem, se je ozrl in je videl, da se mu je bilo nabralo veselih svatov že lepo število. Kakor je ukazal, tako so peli, kakor je godel, tako so plesali; moški in ženske, betežni starci in samosrajčniki.</p>
+            <p>Vsi pa so ga pozdravljali, slavili in blagrovali.</p>
+            <p>„Blagoslovljen, Kurent, da si nam zagodel, da si nam veselja prinesel!“</p>
+            <p>Kurent je gledal, nič ni vprašal; gosli so pele veselo pesem, tako jim je bilo zapovedano.</p>
+            <p>Vas je ležala med zelenimi holmi, kakor od Boga samega posajena v rodovitno dolino. Ali zaspano in trudno so gledale hiše izza jablan — sive starke, ob palici sloneče, v grob strmeče. Tam je bila streha od vetra oskubena, kakor vrabčevo perje, tam je bil porušen kozolec, nihče ga ni vzdignil; tam so bila okna sneta, tam so ležala vrata na pragu, tam je rasla na vrtu visoka praprot.</p>
+            <pb facs="#WIKI00397-019" n="19" xml:id="pb.020"/>
+            <p>„Tod bodo živeli veseli ljudje!“ je pomislil Kurent; godel je in gledal, nič ni vprašal. S svojimi veselimi svati je prišel do svetle, bogate hiše; tista hiša pa je bila krčma. Takoj je bila polna, ko se je prikazal Kurent s svojo procesijo; vse duri so sneli, še v vežo in na dvorišče so postavili mize. Kurent pa je sedel na zapeček, kakor se spodobi, in je godel brez nehanja. Na ljudi je gledal, ki so plesali pod njim, in zazdelo se mu je časih, da jih je vse videl nekoč — v daljnih, žalostnih sanjah.</p>
+            <p>Primajal se je starec med svate; v levici je držal kozarec, z desnico je objemal starko. Njegov obraz je bil trd, opaljen od sonca in od skrbi, pijane oči pa so se gorko svetile.</p>
+            <p>„Zaplešiva, mati, zavrtiva se!“ je kričal. „Še to uro plešiva, saj več ne bova!“</p>
+            <p>Kurentu se je zazdelo, da je videl nekoč tega starca in tudi njegovo starko — obadva kakor v daljnih, žalostnih sanjah. Od starosti in od vina so se jima opletale noge, starcu so se razgalile črne prsi, starki je zdrknila ruta na rame in sivi lasje so viseli na oči.</p>
+            <p>„Ročno, mati, nikar se ne kujaj!“</p>
+            <p>Starka je bila zardela in potna v lica, sopla je težko in je plesala.</p>
+            <p>„Kje sem vaju videl?“ je pomislil Kurent in se ni domislil.</p>
+            <p>Pijan kmet mu je vrgel na zapeček kup srebrnikov.</p>
+            <pb facs="#WIKI00397-020" n="20" xml:id="pb.021"/>
+            <p>„Eno so mi oderuhi vzeli, drugo so mi vzeli davki, tretje vzemi ti!“</p>
+            <p>Kurent je godel, ali zdelo se mu je, da je že videl nekoč tistega pijanega kmeta. Tam je stala bela, vesela hiša z zelenimi okni, vrt pred njo, prostrano polje za njo — kje, kdaj? Kurent je godel in je gledal, izpraševal ni nič.</p>
+            <p>Sredi izbe je plesal upognjen starec, tako suh, siv, krivenčast in betežen, kakor da je bil ob belem dnevu iz groba vstal. Ko je bil stopil v izbo, je imel harmoniko pod pazduho, ali komaj je zaslišal Kurentovo pesem, je zalučal harmoniko v kot, da je zastokala in se razsula.</p>
+            <p>„Kdo bi godel, kadar gode Kurent? Godi nam, Kurent, do sodnega dne, da ne ugasne veselje v srcu, da ne izpregledajo te pijane oči!“</p>
+            <p>Vrtil se je v kolobarju, krilil je z rokama, vzdigal je tenke stare noge do pasu, nazadnje pa je telebnil ter obležal.</p>
+            <p>„Tudi tebe sem že videl, bratec, in tudi tvojo harmoniko sem slišal!“ je pomislil Kurent.</p>
+            <p>Zmerom več je bilo svatov, kolikor bolj se je nagibal dan. Dekleta so prišla s polja, prišli so hlapci in prišle so dekle. Kdor je zaslišal Kurentovo pesem, je zavrisnil in je bil pijan, še preden si je ustne omočil z vinom. Fantje so bili s petami ob tla, dekletom so lica gorela. Kurent je godel neutrudoma, po vsej dolini se je razlegala njegova pesem in zvezde na nebu so ji odpevale.</p>
+            <pb facs="#WIKI00397-021" n="21" xml:id="pb.022"/>
+            <p>Pod njim se je v prahu in vinskem vzduhu prerivala in gnetla pijana fara. Eden se je vrnil, namesto njega pa se je vzdramil drugi ter je zakolovratil s težkimi nogami. Gneča se je bila tako zagozdila, da Kurent ni več razločil posameznih parov; njih ples ni bil več ples, temveč bilo je omahovanje, vrtoglavo opotekanje in prešuštno prerivanje. Smrad je puhtel od potnih teles, osteklele oči so komaj še gledale, težki jezik se je komaj še ganil v napol odprtih, hropečih ustih. Grla pa so kričala zmerom glasneje, skoraj so že prekričala Kurentovo pesem.</p>
+            <p>„Zagodi nam, godi nam, Kurent, od Boga nam poslan! Tvoj je ta dan, ta ura je tvoja! Dežnico smo lokali čez leto — vina na mizo, krčmar! Ovsenjak smo glodali, da se je krhal zob — svinine prinesi, krčmar! Tovore smo vlačili, da se je hrbet krivil — zdaj bodi pa ti moj tovor, dekle! Dolgo je leto, kratek je praznik — Kurent, zagodi!“</p>
+            <p>Iz gneče se je zasvetila rdeča ruta; Kurenta je spreletelo kakor spomin iz daljnih sanj. Rdeča ruta se je zazibala v urnem plesu, približala se je Kurentu in vesel obraz se je zasvetil pred njim. Na potno čelo so viseli črni kodri, črne oči so mežikale in pozdravljale, rdeče ustnice so vabile; vrat je bil razgaljen globoko do belih prsi.</p>
+            <p>„Tudi tebe sem že videl, — ti lepo, pijano dekle — kdaj sem te pač videl?“ je pomislil Kurent.</p>
+            <pb facs="#WIKI00397-022" n="22" xml:id="pb.023"/>
+            <p>Stopila je do njega in se ga je oklenila z vročimi rokami.</p>
+            <p>„Kako sladka je tvoja pesem, o Kurent! Vesela je tvoja pesem, veselo ljubezen oznanja! Kam gre tvoja pot, Kurent? Kamorkoli gre, daj, da pojdem s teboj! Moj pijani mož leži na gnoju — da bi se ne vzbudil več! Spi in smrči vsako dolgo, pusto noč; sirota stojim ob oknu in prilivam nageljnom s svojimi solzami. Grenko je življenje, grenko meni; pa si ti prišel in zdaj je moje srce vse polno veselja in ljubezni. Nikar ne hodi od tod, da ne umrjem od samega koprnenja; in če moraš na pot, ne goni me, kadar pojdem za teboj. Lepo ti bom stregla in ubogala te bom, kakor se spodobi!“</p>
+            <p>Kurent je nagnil glavo, godel je veselo pesem in ni ne pogledal ne govoril.</p>
+            <p>Ona pa je prosila in vzdihovala.</p>
+            <p>„Vsaj lepo besedo mi daj, vsaj prijazen pogled! Veselje si nam prinesel, še meni ga dodeli na vekomaj! Boljše nobenega praznika nego v letu en sam! O stokrat grenkejša grenkost, če je srce sladkost občutilo! Kje me je rodila mati, nesrečnica! Ozri se po dolini, Kurent, ozri se na ljudi — smrt je blizu, jaz pa bi ne umrla rada! Bosa pojdem za teboj, pa če se nameriš v deveto deželo!“</p>
+            <p>Dolg fant, pijan in prešeren, jo je zgrabil tako krepko, da ji je razparal jopo do pasu. Treščila sta med svate in sta se viharno zasuknila, <pb facs="#WIKI00397-023" n="23" xml:id="pb.024"/> rdeča ruta je utonila v gneči; Kurent se je ozrl in je ni več videl.</p>
+            <p>Njegova pesem je šla, kakor gre veter po svobodni poljani: jagnedi trepečejo ob cesarski cesti, žito šumi in se priklanja do tal, tepke ob razoru sklepajo in razklepajo stokajoč svoje dolge temne veje in nazadnje, kakor vzdramljen in ranjen, zabuči v daljavi črni gozd ...</p>
+            <p>Vse križem kakor snopje so padali pivci in plesalci. En sam je nazadnje še kolobaril med spečimi, smrčečimi svati, dokler ni telebnil nanje dolg in širok. Nihče več se ni ganil. Ležali so tam, vsi nečedni, razgaljeni in potni, usta odprta, lica nabrekla. Časih je kdo v vinskem spanju zakričal ali zastokal. Od stropa je visela svetilka; gorela je že rdeče in dimasto ter je ugašala.</p>
+            <p>Kurent je stopil z zapečka med svate.</p>
+            <p>Starka, ki ga je bila najprej pozdravila, je slonela pod pečjo; glava ji je klonila do kolen, v rokah pa je tiščala črni molek. Kurent je snel svetilko s stropa ter je posvetil starki v obraz.</p>
+            <p>„Videl sem te že nekoč!“ je rekel. „Ali sem te videl v sanjah, ali pa v drugem življenju, ki več ne vem zanj. Kaj nisi bila ti moja botrica, kaj me nisi na kolenih zibala, božala me, nebogljenca, s temi rokami? Bog s teboj in milost njegova! Dobrega ti ni bilo veliko na svetu; ne bo te podil nebeški vratar, kadar se vinska primaješ!“</p>
+            <p>Posvetil je v obraz sosedu in sosedi in tudi tistemu kmetu, ki je bil odrešil biriču in oderuhu <pb facs="#WIKI00397-024" n="24" xml:id="pb.025"/> zadnje svoje srebrnike, zato da jih je veselo zapil in zaplesal. Ležal je na trebuhu, vse štiri od sebe, tako da ga je Kurent šele obrnil kakor mrtvo klado.</p>
+            <p>„Kje sem te že videl in kdaj?“ je rekel Kurent. „Ali nisi bil ti moj bogati boter, ki je stal na pragu svojega belega doma širok in debel ter cvenketal s srebrniki, kadar sem šel mimo, Kurent-siromak? Ali me nisi stresel za lase ter mi dal svetlo desetico, zato da nisem kričal? Bog s teboj in milost njegova! Če si bil boter moj, ali če nisi bil, če sem te videl kdaj, ali ne videl — nič ti nikar ne bodi žal, da si pod moje noge zalučal poslednje srebrnike! Le kdor je bridkost užil, se upijani od veselja; takih pijancev ne pode od nebeškega praga!“</p>
+            <p>Kurent se je razgledoval po smrčečih snopih in je prišel do starke in starca, ki sta se še na tleh držala za roko. Vzel je kamižolo, ki je ležala na klopi, in jo je podtaknil starki pod glavo. Posvetil jima je v obraz, dolgo je gledal na obadva in obšla ga je žalost.</p>
+            <p>„Kje sem vaju srečal in kdaj, sivolasa nebogljenca? Ne poznajo vaju moje oči, moje srce pa je zavzdihnilo. Kako je bilo mogoče, da sta doživela to sramotno uro, to razuzdano noč? Trudoma skrita, nikoli speča bridkost je rodila to noč in to uro. Bog vama dodeli sladko spanje, pa naj ga dodeli do poslednjega jutra; povodnji ne bo treba, da izpere greh te noči!“</p>
+            <pb facs="#WIKI00397-025" n="25" xml:id="pb.026"/>
+            <p>Dalje je šel Kurent, dalje je svetil, oprezno je stopal med snopi. Pa je prišel do onih dveh; tik pred pragom sta ležala, kamor sta bila butila v prešernem plesu, in še zmerom sta bila objeta — njen pas je objemala njegova desnica, njena levica je ležala pod njegovim vratom.</p>
+            <p>Kurent se je sklonil globoko in jima je posvetil v obraz. Takrat so trenile njene črne trepalnice, tudi njene ustne so se ganile in so tiho izpregovorile.</p>
+            <p>„Kamorkoli pojdeš, ne pozabi name, ne goni me ... grenko je moje življenje, oj!“</p>
+            <p>Še nižje se je sklonil Kurent, iztegnil je roko in je pobožal tista rdeča, vroča lica. Takrat se je lok ponevedoma dotaknil strune in jeknilo je, kakor spomin iz daljne davnine.</p>
+            <p>Rdeče ustne so se v spanju nasmehnile.</p>
+            <p>„Kako sladka je tvoja pesem!“</p>
+            <p>Kurent se je vzdignil, posvetil je na obadva in hudo se mu je storilo.</p>
+            <p>„Za eno močno koprnenje ti bodo vsi grehi odpuščeni! Zakaj ni je bridkosti hujše, nego je tista, ki rodi koprnenje. Zdi se mi, da sem te videl; v svojih najlepših sanjah videl — kdaj da je bilo, Bog sam razsodi! Če videl, ali ne videl — tvojo besedo sem slišal in v tvoje srce sem pogledal, v to srce žalostno. Tisočkrat bodi pozdravljena; če je božja sodba, se srečava še kdaj!“</p>
+            <pb facs="#WIKI00397-026" n="26" xml:id="pb.027"/>
+            <p>Postavil je svetilko na zapeček in jo je upihnil; nato je šel. Oprezno je stopal med hropečimi, smrčečimi snopi, ki so ležali vse križem po široki veži, kakor jih je bilo telebnilo. Ležali so tudi pred hišo, na prostranem dvorišču, in celo na cesti; Kurentu se je zdelo, da vidi črne sence tudi na polju in na loki. Zamolklo je hropela in smrčala v pijanih sanjah vsa dolina; zvezde so gledale nanjo, mežikale so in so se čudile.</p>
+            <p>Počasi je stopal Kurent po beli cesarski cesti. Že je hladilo zgodnje jutro, zvezde so mežikale zmerom hitreje in so tiho ugašale, nad hribom se je belilo. Kurent je pospešil korak, da bi stopil v gozd pred svetlim jutrom. Begotne sence so iskale mraka, tiho so izpod neba tonile za hrib — coprnice so se vračale s Kleka. Za njimi je zapihal veter, čist in bister; zašumelo je v drevju in rosa je padala.</p>
+            <p>Ko je stal Kurent kraj gozda, se je ozrl. Temna je bila dolina; zvezde ji niso več sijale, jutro je še ni pozdravilo. Zadušen, težek vzduh je puhtel iz nje, kakor iz strupenega močvirja. Črni so bili vrtovi, temnejši od noči same; nobene hiše ni razločilo oko, uho ni slišalo pesmi ne besede; sive megle so se vlekle ob rebri; do neba niso mogle, do zemlje te črne si niso upale.</p>
+            <p>Kurent je gledal v dolino, do prsi mu je klonila glava.</p>
+            <p>Iz gozda so ga pozdravljali in klicali vsi po vrsti, bratje in sestre, prijatelji in ljubice.</p>
+            <pb facs="#WIKI00397-027" n="27" xml:id="pb.028"/>
+            <p>„Kam strmiš, Kurent, kam v to skrb? Pogrnjeno ti je!“</p>
+            <p>„Kam misliš, Kurent, kam v to bridkost? Postlano ti je!“</p>
+            <p>„Pridi, da ti nalijem!“</p>
+            <p>„Hiti, da te objamem!“</p>
+            <p>Kurent je gledal v dolino. Nobena senca se ni še ganila, ne na dvorišču, ne na cesti, ne na polju. Noben jarek izza hriba še ni pogledal tja, celo veter se je vzdignil, šel je od hriba do hriba in se ni dotaknil doline.</p>
+            <p>Takrat je premislil Kurent vse od začetka do kraja in oko se mu je zameglilo, kakor prej nikoli.</p>
+            <p>„Tod bodo živeli veseli ljudje!“</p>
+            <p>Tako je rekel in je stopil v gozd, njegovo srce pa je bilo tako polno bridkosti, da so se mu ulile solze po licih.</p>
+         </div>
+         <pb facs="#WIKI00397-028" n="28" xml:id="pb.029"/>
+         <div xml:id="wv-III.">
+            <head xml:id="head.3">III.</head>
+            <p>Danilo se je, ko se je Kurent vzdramil v gozdu ter nastopil svojo romarsko pot. Mah je bil vlažen, rosilo je od temnega vejevja. Beli oblaki so hiteli od juga, razprostirali so se po nebu in so zagrnili sonce, ko se je komaj prikazalo.</p>
+            <p>„Kaj sem spal in prespal leto in dan?“ se je Kurent začudil. „Pomlad je bila, zdaj pa se mi zdi, da je že pozna jesen!“</p>
+            <p>Ozrl se je na ravno pokrajino pod gozdom — senožeti so bile pokošene, njive požete.</p>
+            <p>Kurent se je poslovil od svojega doma.</p>
+            <p>„Zbogom, bratje, adijo, ljubice! Dolga in vesela je moja pot!“</p>
+            <p>Veter je zapihal od juga, v gozdu je zašumelo in zavzdihnilo.</p>
+            <p>„Kaj te nismo srčno ljubili, kaj ti nismo toplo postlali?“</p>
+            <p>„Nikar ne vzdihujte, ljubi moji!“ je tolažil Kurent. „Popotnik ve, kje je pravi njegov dom, in ga ne zgreši nikoli.“</p>
+            <p>Šel je, kamor je držala cesta; ni se oziral, nič ni ugibal, nikogar ni vprašal za pot. Z lahko nogo je romal nizdol in vkreber, v hrib iz doline, <pb facs="#WIKI00397-029" n="29" xml:id="pb.030"/> v dolino s hriba. Pridružil se mu je kmet, ali komaj je dobro pozdravil, je ostal daleč zadaj s svojimi težkimi škornji; pridružil se mu je popotnik, ali preden je prosil vbogajme, je stal že sam na cesarski cesti, truden in lačen, kakor je bil. Nebo je bilo oblačno, soparica pa je žgala. Ko je zazvonilo poldan od vseh mnogoštevilnih cerkva naokoli, se je odkril tudi Kurent in si je obrisal z rokavom potno čelo. Tedaj se je ozrl in je ugledal človeka v razoru kraj ceste.</p>
+            <p>Starec je bil, bos in golorok. Glava je visela v razor, gole noge, črne od cestnega praha, pa so štrlele kvišku.</p>
+            <p>„Ali je zapel že svojo zadnjo pesem, ali je še ni?“ je pomislil Kurent. Vzdignil je gosli, narahlo se je lok dotaknil strune; kakor iz velike daljave, od onstran neba, je zavzdihnila pesem; zavzdihnila je, vzdramila se je in je veselo zavrisnila.</p>
+            <p>Starec se je zganil, trudoma je odprl oči, napol oslepele od prahu in sonca. Gledal je, videl ni; njegova duša pa je verno poslušala. Prvikrat v življenju so se nasmehnile njegove oprašene ustne.</p>
+            <p>„Zaslužil sem te, z bridkostjo sem te zaslužil, ti pozdrav iz paradiža.“</p>
+            <p>Siva glava se je zibala, zibaje je spremljala pesem prelepo, nikoli zaslišano.</p>
+            <p>„Prisodil si bridkosti petinsedemdeset let, vrhano mero in prevrhano ... zdaj pa si videl <pb facs="#WIKI00397-030" n="30" xml:id="pb.031"/> sam, da to vedro več ne drži ... služil sem, doslužil po pravici, zahvaljen za to zadnjo milost!“</p>
+            <p>Tako je rekel in se je nasmehnil, duša pa je šla poslušat pesem še lepšo.</p>
+            <p>Kurent je stal ob razoru in se je sklonil preko starca.</p>
+            <p>„Kdo si? Odkod si prišel in kod si hodil, da si omahnil truden in prašen na to nerodno posteljo? Ali si bil za sužnja v daljnem mestu, pa si se napotil na stara leta domovino nadlegovat? Ali si bil za hlapca okrutnemu gospodarju, ki te je pognal na cesto, ker ti je bila segla bolezen v stare noge? Ali so ti pobegnili sinovi na vse štiri strani, pa nisi več zmogel, da bi obdelal kamniti laz, in se ti je sesula bajta nad glavo? Ali pa si morda romal od rojstva, nikjer doma, povsod nadloga? — Na hrbtu se ti pozna, da si nosil obilno; milost božja bo s teboj, če z nikomer drugim!“</p>
+            <p>Vesel je šel Kurent po svoji poti in nič ga ni skrbelo, ko je nenadoma razpuhnil soparico hladen veter in so debele kaplje udarile v cestni prah. Stopil je pod kozolec, ki je stal kraj ceste vegast in prazen. Prve kaplje so udarile za spomin in znamenje popotnikom, nato pa se je usulo na gosto iz sivih oblakov. Čez dobre pol ure je bilo na cesti blata za pol pedi, po jarkih in razorih pa se je pretakala rumena dežnica. Ko se je ploha polegla, je zagledal Kurent otroka na cesti. Šel je kakor starec, upognjen, s težkim korakom, ni <pb facs="#WIKI00397-031" n="31" xml:id="pb.032"/> se ogibal ne luž, ne blata; bos je stopal, čevlje je nosil na hrbtu. Vekal je s pustim, cvilečim glasom, kakor lačen pes na gmajni. Naravnost pod kozolec se je nameril, tam je sedel na mokra tla, v dve gubi se je sključil, obraz je prislonil na kolena ter je vekal neutrudoma.</p>
+            <p>Kurent se je ozrl nanj, le z rahlim prstom je vzdramil struno tolažnico; otrok je vztrepetal.</p>
+            <p>„Odkod, fant, in kam?“ je vprašal Kurent.</p>
+            <p>„Med ljudi, ki so me tepli; tepli me bodo na vekomaj!“</p>
+            <p>Ko je slišal Kurent take besede, se je sklonil k otroku in gosli so zapele pesem nadvse veselo.</p>
+            <p>„Oče, kje si? Kje si, o mati, da me ne vidiš?“ je rekel otrok.</p>
+            <p>„Črni gozd bodi tvoj oče, tvoja mati zelena njiva!“ so pele gosli.</p>
+            <p>Otrok je slišal pesem in sladkost mu je prešinila srce.</p>
+            <p>„Glej, velik je svet! Če so ljudje hudobni vsaj eden med njimi je blag. Pojdem, da ga poiščem!“</p>
+            <p>Tako je pomislil otrok.</p>
+            <p>„Velik je svet in lep neizmerno! Eden med vsemi, eden je blag! Pojdi in išči, Bog te bo vodil — kadar ga najdeš, drugim povej!“</p>
+            <p>Tako so pele gosli.</p>
+            <p>„Pojdem, poiščem!“ je rekel otrok. Obšla ga je sladka dremavica, zleknil se je na mokra <pb facs="#WIKI00397-032" n="32" xml:id="pb.033"/> tla, roke je sklenil pod vratom in je zasanjal; tiho, še tišje je pela pesem, utihnila je.</p>
+            <p>Kurent se je sklonil nad otroka, pogledal mu je v lice, prezgodaj usahlo od vsega hudega.</p>
+            <p>„Odkod prihajaš in kam si se nameril? Ali si vinski sin hlapca in dekle, v svet poslan za božjo srečo? Ali si kajžarjev sin, materin edinec, v črno šolo obsojen, med krivičnike in rablje? Ali pa nisi videl ne očeta ne matere, na to cesto postavljen, kakor kamen in kakor z veje list? — Kdorkoli, Bog ti bo milosten; ob prvi uri ti je križ naložil, ob zadnji ti ga bo odvzel!“</p>
+            <p>Nebo se je zvedrilo, Kurent je šel, kamor je pot držala. Klanci so bili zmerom bolj strmi in kamniti, holmi zmerom višji; globeli so se ožile in stiskale, komaj še je bilo prostora za potok in stezo. Ko je stal Kurent na najvišjem hribu, je zaukal od radosti. Tik pod njim strme rebri, črne globeli; vse naokoli šumeči, rumeni gozdovi, daleč pod svetlim nebom ravan brez konca; srebrna megla je puhtela iz nje naravnost proti nebu, kakor sveta Abelova daritev. Zemlja je prepevala, zamaknjena sama v svojo lepoto.</p>
+            <p>„Tod bodo živeli veseli ljudje!“ je vzkliknil Kurent; sladak spomin je spreletel njegovo srce ...</p>
+            <p>Šel je dalje, kakor je držala kamnita pot.</p>
+            <p>Komaj pa je dobro stopil, se mu je zazdelo, da so se zaprla vrata za paradižem in da je prišel v deželo bridkosti. Sam ni vedel, kdaj je ugasnila <pb facs="#WIKI00397-033" n="33" xml:id="pb.034"/> nebeška luč; nebo se je omračilo, ko sonce še ni bilo za hribom.</p>
+            <p>Kurent se je ozrl in strah ga je bilo vsega, kar je videl.</p>
+            <p>Pokrajina pred njim je bila črna in žalostna. Kurent je rekel: „Tukaj je Bog zaprl dlan, ko je trosil svoj blagoslov!“</p>
+            <p>Črno blato je ležalo na cestah, črn prah na polju, na vaseh; črne so bile vode, črno je bilo nebo. Oblak je visel nad pokrajino in se ni ganil; ne veter ga ni razmaknil, ne sonce ga ni raztopilo.</p>
+            <p>„Kje so domovi, kje so vrtovi, kje so veseli ljudje?“</p>
+            <p>Strmel je Kurent in se je čudil; najbolj se je čudil, da še cerkve ni ugledal, niti kapelice, kakor se je oziral. Le tam daleč, skoraj že tik neba, se je belilo na holmu, zamolklo je vzdihovalo iz večerne daljave.</p>
+            <p>„Otroci, ljubi moji, sirotni, kam ste se razbegnili, kod nosite svoj križ?“</p>
+            <p>Tako je vzdihovalo.</p>
+            <p>Kurent je ugledal vas pod seboj; vila se je skozi vso široko zaseko, dolga je bila, da ji ni videl kraja. Hiše, temne in mrke, so se vrstile brez konca.</p>
+            <p>„Komaj plohi bi pobegnil pod tako streho!“ je rekel Kurent. „Spal ne bi tam, sanjal ne bi, tudi ne kosil in večerjal; kaj šele, da bi praznoval ter prižigal božično luč!“</p>
+            <pb facs="#WIKI00397-034" n="34" xml:id="pb.035"/>
+            <p>Niso bili domovi tam, temveč kamen je bil ob kamnu — kantoni kraj cesarske ceste, križi na grobovih. Grenko bi bilo živeti pod tako streho, grenkejše umreti. Ni bilo ne jablan ne orehov, da bi prikrivali to žalost; na oknih ni bilo ne rožmarina ne nageljnov.</p>
+            <p>Kurent je stal na klancu.</p>
+            <p>„Ali ste pomrli vsi, ki ste hodili tod, ali pa vas je Bog do črnih tal ponižal, da vas poviša do nebes?“</p>
+            <p>Ko je stopil na cesto, se mu je do gležnjev pogreznila noga v črno blato. Od blizu je videl puste domove, prazni so bili, neprijazni; slepo in topo so gledala okna; na tistem zidu, od tujih rok postavljenem, ni bilo ne spomina ne ljubezni.</p>
+            <p>Še Kurentu samemu, botru vsega veselja, je segla v srce bridkost.</p>
+            <p>„Hudo je človeku, če vidi žalost tako veliko, da še na svojo ne pomisli več!“</p>
+            <p>Tako je rekel Kurent.</p>
+            <p>In je šel, da bi videl ljudi, od bridkosti potrte, veselja željne.</p>
+            <p>Človek mu je prišel naproti, ki ni bil ne otrok ne starec. Siv in vel je bil njegov obraz; leta niso bila zapisana na njem, pač pa je bilo zapisano topo trpljenje. Opotekal se je ter spotikal, ob zgodnjem mraku že pijan; kuštravi lasje so mu viseli na čelo, klobuk je bil izgubil, obleka <pb facs="#WIKI00397-035" n="35" xml:id="pb.036"/> je bila povaljana. Z obema rokama je mahal in je govoril naglas.</p>
+            <p>„Pa kaj se jeziš, pa kaj da bi ne pil, kaj da ne bi vsega zapil? Ljuba duša, privošči mi žganja, še sama ga pij! Za koga bi stiskal? Povej po pravici! Ná jih, te groše, le varno jih spravi, pa razodeni, kaj da boš z njimi! Kdo bo odrešen — ti, ali jaz, ali najini otroci? Kdo bo oblečen, kdo bo nasičen? Ljuba duša, nič ne jokaj — kdor je obsojen, bo obešen, pa mir besedi! Kadar bom rdeče pljunil, takrat bom odrešen — sodba je taka! Le daj jih, te groše, le sem jih daj; narôči, nalij! Kdor bo legel nocoj, bo jutri počival ta dolgi počitek, oddahnil si bo na vekomaj! — Privošči mi žganja, ljuba duša, privošči počitka!“</p>
+            <p>Kurent je poslušal to žalostno pridigo; zazibal je gosli, vzdignil je lok. Pesem je zapela preko črne doline.</p>
+            <p>Pijanec je obstrmel, nato je zavrisnil od radosti in je zaplesal. Ne on sam; prišli so, Bog sam vedi odkod, kakor krti izpod krtin, in komaj je Kurent zagodel, je vodil procesijo.</p>
+            <p>Bila je procesija, kakor je Kurent še nikoli ni videl. Strašna bi bila ob belem dnevu, strašnejša je bila v mraku, pod nizkim, temnim nebom. Ali so se bili izkopali iz zemlje, pa se jih je še držala črna prst na licih, na rokah, na obleki? Ali so grešniki, na smrt obsojeni, preglodali železne verige ter planili na cesto, da plešejo v blatu, svobode pijani?</p>
+            <pb facs="#WIKI00397-036" n="36" xml:id="pb.037"/>
+            <p>„Zagodi nam, Kurent, upijani nas žejne, veselja daj žalostnim!“</p>
+            <p>Kurent je godel in je šel pred njimi. Prišli so do hiše velike in mogočne; vrt je bil pred njo, drevje pa je bilo pritlikavo in golo, ne dalo bi sence ne za dlan.</p>
+            <p>Stopil je v hišo evangelist veselja. Težka, strupena soparica mu je bušila v obraz, njemu, Kurentu, ki je bil vajen svatb in sedmin.</p>
+            <p>Ozrl se je in je rekel:</p>
+            <p>„Ne duh življenja, duh smrti je tukaj!“</p>
+            <p>Prostorna je bila izba, in za prvo še druga, za drugo še tretja; strop je bil nizek in črn, rdeča svetilka je visela od njega, ali svetila je komaj, da se je lice razločilo od lica. Vsi obrazi so bili bledi, pod dremotno svetilko še bolj bledi in bolni.</p>
+            <p>Obraz do obraza, telo do telesa; materam in sestram v naročju so sedeli otroci; bledi in postarni so bili, gledali so stekleno in pili so žganje.</p>
+            <p>Kurent je zatisnil oči in je zagodel pesem tako veselo, da je vztrepetal sam težki, strupeni vzduh, kakor da je bela roka mahnila vanj. Krik je planil iz vseh trudnih, ožganih grl, da se je stresel črni strop.</p>
+            <p>„Zagodi nam, Kurent, veselja nam daj!“</p>
+            <p>Kurent je stopil na klop, kakor se spodobi godcu, in je pogledal na blede grešnike; pogledal je in zazdelo se mu je, da se je celo zaspana svetilka sama vzdramila ter se začudila.</p>
+            <pb facs="#WIKI00397-037" n="37" xml:id="pb.038"/>
+            <p>Grešniki na smrt obsojeni so se bili nenadoma preoblekli v razuzdane, pijane svate. Nič več vdanosti v očeh, nič več bridkosti; ogenj je gorel v njih, planil je siloma izpod težkega pepela; na sivih licih so se prikazale rdeče kaplje, kakor rane od noža. Vsa gneča, sama v sebe zagozdena, se je sukala v jadrnem plesu; vseh sto potnih, vročih teles je bilo eno samo telo, ki se je sukalo v črnem kolobarju hropeč in vriskajoč. Tam se je zasvetil obraz pod rdečo svetilko, dolg obraz, napol že mrtev; prikazala se je roka, rumena in koščena — čigav je obraz, čigava je roka? Kdo bi razločil!</p>
+            <p>„Zagodi nam, Kurent, to noč! Oj bodi nam poslednja noč!“</p>
+            <p>Godel je pesem najbolj veselo.</p>
+            <p>„Bridkost najgloblja, radost najvišja! Bodi vam, kakor veleva ukaz!“</p>
+            <p>Zgrudil se je eden vznak, drugi se je zgrudil na obraz, tretji pošev. Gneča je plesala po razlitem žganju in po truplih.</p>
+            <p>Takrat se je prikazalo dekle pred Kurentovimi očmi. Majhna je bila in tenka, lica so bila ozka in bela, v očeh pa se je svetil ogenj iz nebes. Stopila je predenj, stopila je k njemu, okoli vratu se ga je oklenila.</p>
+            <p>„Kdaj sem te videl in kje, kdaj sem te ljubil?“ je pomislil Kurent. „Ali v življenju, pa v katerem življenju, ali v sanjah, v katerih sanjah?“</p>
+            <pb facs="#WIKI00397-038" n="38" xml:id="pb.039"/>
+            <p>Oklenila se ga je okoli vratu, rekla je in je prosila:</p>
+            <p>„Kako je sladka tvoja pesem. Nisem je slišala nikoli do nocoj, le moje žalostno srce jo je občutilo! Ti pa si prišel in si zapel in si rekel: pojdi z menoj, pri meni je veselje! S teboj pojdem, kamorkoli drži tvoja pot!“</p>
+            <p>Kurent je nagnil glavo; prešerno pesem so prepevale gosli.</p>
+            <p>Ona je prosila.</p>
+            <p>„Prijazno me poglej, lepo se mi nasmej! Prišel si kakor božja luč v ta neblagoslovljeni kraj, v to moje grenko življenje. Grenkoba je, oj, od začetka do konca, umrla sem, glej, še preden sem živela! Črni prah je moj kruh, črni prah moje delo, črni prah moje veselje in moja mladost in moja ljubezen. Kadar sem jokala, sem mislila nate — zdaj pa si prišel! Ne hodi več od mene, in če pojdeš, te primem za roko in te ne izpustim!“</p>
+            <p>Tako je prosila; njene besede so bile kakor tista vesela, v nebesa koprneča pesem, ki so jo prepevale Kurentove gosli.</p>
+            <p>Takrat se je opletel ob zidu sajast fant, zgrabil je dekleta okoli pasu in je planil v gnečo. Kurent se je ozrl za njo in je videl, da se je utopila kakor svetla kaplja v lužo. Gneča se je sukala, zibala se je in majala, eno samo pijano telo.</p>
+            <p>Ko je odbila polnoč, je Kurentova pesem nenadoma umolknila; tišina, strašnejša od smrti, <pb facs="#WIKI00397-039" n="39" xml:id="pb.040"/> je udarila v izbo. Gneča je vztrepetala, sunkoma je omahnila ter se zgrudila. Kakor so bili objeti, tako so padli, vprek drug preko drugega. Kurent je pogledal nanje in bilo mu je, da je stopil med mrliče, ki jih je bila kuga vzela in so jih pometali v smrdečo, strupeno jamo. V nobenem licu ni bilo krvi, nobena roka se ni ganila; izpod trepalnic so belo strmele oči, usta so bila odprta, pa še hropela niso. Nad njimi je umirala rdeča, sajasta luč.</p>
+            <p>Stopil je mednje in groza ga je bilo; njega je bilo groza, ki se še smrti ni bal.</p>
+            <p>Starec sivolasec je ležal pod njim; glava mu je počivala na blatnih sosedovih čevljih. Kurent se je sklonil do njega; brezzoba usta so bila na široko odprta, ena sama kost je bil obraz.</p>
+            <p>„Ali si mislil na svojo mladost, na kmečki dom in na svetlo polje, ko si mojo pesem slišal?“ je rekel Kurent. „Nič nisi mislil! Tako malo kakor slepi konj, tvoj tovariš-suženj pod zemljo; in tako malo kakor slepi osel, ki vleče vodo iz vodnjaka in bo vlekel, dokler vklenjen ne pogine. Prepeval si, da bi prekričal svojo bridkost — kako boš jutri prepeval, ko boš vlekel svojo verigo? — Bog ti bodi vsaj toliko milosten kakor slepemu konju — dodeli ti ovsa na stare dni!“</p>
+            <p>Še nižje se je sklonil, da bi razločil culo, ki je ležala kraj mize v luži razlitega žganja. Tista cula je bil otrok; njegova lica, siva in starikava, so bila mokra od žganja, svetli lasje so se mu <pb facs="#WIKI00397-040" n="40" xml:id="pb.041"/> sprijemali na čelu in so zakrivali oči; s tankima, otroškima rokama je tiščal steklenico k prsim.</p>
+            <p>Kurent mu je položil glavo na prsi ženske, ki je ležala poleg, pogladil mu je mokre lase raz oči.</p>
+            <p>„Kaj bi te vprašal, dete, kdo da si? Iz bridkosti za bridkost porojeno! Ali rudnik, ali fabrika — suženjstvo bo tvoj delež do konca dni! V ječi rojeno, ječe vajeno, ne boš videlo sonca; komaj še, da boš zakoprnelo po soncu, pa zatopilo to nespametno koprnenje v vriskanju in žganju. — Bog se usmili tebe in tistih, ki so te obsodili!“</p>
+            <p>Čez trupla je stopal Kurent; nobeno truplo pa se ni zganilo, ko je šel upognjen, gosli v roki, šel čez noge, čez prsi in čez obraz, kakor po tramovih trhlega mosta.</p>
+            <p>„Vajeni so!“ je rekel Kurent. „Vajeni so podkovanih podplatov na svojih prsih!“</p>
+            <p>Prišel je do onih dveh. Tesno objeta sta ležala v črni mlaki, glavo ob glavi, roko v roki. Sajasti fant je bil v obraz teman in zabuhel, obrvi je mršil, kakor da je v sanjah že gledal svoj sužni dan. Njena glava je slonela ob njegovih prsih. Dolge, temne trepalnice njenih oči so ležale na ozkih licih, ustnice, tenke in od strupa ožgane, so se držale na jok.</p>
+            <p>Kurent se je do kolena sklonil in jo je pobožal po tistih ozkih licih.</p>
+            <p>„Dekle ti, odkod si prišla in kam gre tvoja pot? Prišla si iz bridkosti in tvoja pot drži v bridkost <pb facs="#WIKI00397-041" n="41" xml:id="pb.042"/> še večjo! Čista duša, veselja vredna — strašno te je Bog blagoslovil, ko je dal hrepenenje tvojemu srcu! Tvoje trpljenje bo veliko, še večje bo tvoje zasluženje!“</p>
+            <p>Preko čela jo je pobožal, od senca do senca. Takrat se je v spanju zganila, ustne so se nasmehnile.</p>
+            <p>„Šla bi s teboj!“</p>
+            <p>Tudi Kurent se je nasmehnil; prigovarjal ji je, kakor mati plahemu otroku.</p>
+            <p>„Saj si že na poti z menoj, saj te že za roko držim! Kamorkoli pojdem, pojdeš z menoj.“</p>
+            <p>„Do veselja!“ se je nasmehnila.</p>
+            <p>„Do večnega!“ je rekel Kurent.</p>
+            <p>Ko je stopil Kurent do duri in na prag, je svetilka vzplamenela visoko, dim se je razbegnil po stropu, sence so švignile od zida do zida, luč je ugasnila.</p>
+            <p>V veži se je spotaknil ob truplo, tudi se je spotikal na cesti, zakaj v blatu so ležali črni snopje; tako črna je bila cesta, da bi še v mesečini oko ne razločilo teh zakasnelih, trudnih svatov.</p>
+            <p>Zgodilo pa se je čudo: nenadoma se je vzdignila od kraj poti visoka črna senca; zazibala se je od jarka do jarka, zmerom višja je bila — temen plamen je rastel do neba. Vsi, ki so ležali na polju in na cesti, v veži in na dvorišču, so vztrepetali in so se dramili; klical jih je glas iz noči.</p>
+            <pb facs="#WIKI00397-042" n="42" xml:id="pb.043"/>
+            <p>„Le vkup, ti uboga gmajna! Baklo prižgimo, prižgimo jih sto, da nam bodo svetile do rabljev, do biričev. Naše meso jih je nasitilo, naša kri jih je napojila — terjajmo svoje meso in svojo kri! Mi smo sejali, naša je žetev, sužnji, vstanite! Le vkup, uboga gmajna!“</p>
+            <p>S ceste, s polja so vstale črne, omahujoče sence. Vzdramili so se glasovi, kakor da je tiho zagrmelo za hribom.</p>
+            <p>Kurent je s prstom pobožal struno, grenkost je segla v njegovo srce.</p>
+            <p>„Grešniki, siromaki, predolgo ste poslušali to lepo pesem o paradižu, pregloboko je vzdihnila vaša bridkost, na Golgoto gre vaše koprnenje. Mir vam bodi in zlato jutro!“</p>
+            <p>Kakor so se bile sence vzdignile, tako so se zgrudile druga za drugo. Tiha pesem ene same je šla preko doline, umiralo je zamolklo grmenje za hribom.</p>
+            <p>„Svatje, bratje, vzdramite se! Da kopljemo zase, da zidamo zase, da zase trpimo!“</p>
+            <p>Zajecalo je, v pijanih sanjah je še zavzdihnilo in je umolknilo.</p>
+            <p>Ne več glasu, ne sence več. Zemlja je bila tiha in črna, črno je bilo nebo nad njo. Kurenta so zabolele oči; ni videl več doline, ni videl ljudi, tudi njih sanj ni slišal. Njegovo srce pa je videlo vse od začetka do konca; in to srce samo, studenec veselja in hrepenenja, je občutilo težko bolest.</p>
+            <pb facs="#WIKI00397-043" n="43" xml:id="pb.044"/>
+            <p>Nagnil je glavo in močno je bil žalosten.</p>
+            <p>„Svatje, kdaj bo vaš kelih do vrha poln? Ti črna dolina, kdaj ti bo sijalo tisto jutro, ko bo ozdravljeno vse koprnenje, ko bo žarka resnica ta pesem o paradižu?“</p>
+            <p>Noč je bila nad njim in vseokoli njega; on pa je šel, kakor je držala pot. Noga se mu je pogrezala v blato, rosa mu je umivala obraz.</p>
+            <p>Od bogvedi kod, ali od polja, ali s hriba, ali od neba ga je klicalo, vabilo.</p>
+            <p>„Kod romaš, Kurent, kod skozi noč in bridkost? Trudna je tvoja noga, žalostno je tvoje srce, pod bori pa ti je mehko postlano!“</p>
+            <p>„Lačen in žejen si, Kurent, na jasi ti je pogrnjeno!“</p>
+            <p>„Ljubezni željan si, Kurent! Tudi jaz sem je željna, nikar ne odlagaj, hiti in pridi!“</p>
+            <p>„Da ti natočim!“</p>
+            <p>„Da te poljubim!“</p>
+            <p>Kurent pa je komaj slišal to prijazno pesem; šel je skozi dolino, stopil je na klanec, stal je na hribu. Tam je bilo nebo svetlejše, v daljni daljavi se je dramila zarja, čudežno lepa.</p>
+            <p>Kurent jo je pozdravil s svetlimi očmi in žalost je zadremala v njegovem srcu.</p>
+            <p>„Ne múdi se predolgo, ti svetla zarja! Oči so že trudne, ki se ozirajo po tebi, duše so trudne, ki čakajo nate! Hiti, ne odlagaj več, blagoslovi to črno zemljo!“</p>
+            <pb facs="#WIKI00397-044" n="44" xml:id="pb.045"/>
+            <p>Slišala ga je zarja, že so gorele daljne gore ...</p>
+            <p>Iz gozdov pa je klicalo, zmerom lepše je prosilo.</p>
+            <p>„Kod romaš, Kurent, kje se mudiš?“</p>
+            <p>„Bogato ti je pogrnjeno, mehko ti je postlano!“</p>
+            <p>Odzdravil je v srcu tej prijetni pesmi ter je šel, kamor je vabila.</p>
+         </div>
+         <pb facs="#WIKI00397-045" n="45" xml:id="pb.046"/>
+         <div xml:id="wv-IV.">
+            <head xml:id="head.4">IV.</head>
+            <p>Ob topli jeseni, ob prelepem dnevu se je napotil Kurent v to staroslavno ljubljansko mesto, v to prestolnico veselega pijančevanja ...</p>
+            <p>V noben kelih ni točil Bog samega pelina; celo svojemu sinu Odrešeniku je poslal na križev pot Simona Cirenskega. Ni je noči tako temne, da bi tam kje v daljavi ne trepetala ponižna rdeča luč, tolažba srcu; ni ga kraja tako pustega, da bi se med kamenjem ne skrivala zelena jasica. Mnogo in mnogovrstnih težav in nadlog je izkusil slovenski narod, oj, in jih bo še več; za tolažbo in povračilo v teh hudih časih pa mu je Bog dodelil Ljubljano.</p>
+            <p>Človek roma po slovenskih deželah, malodušen klone glavo in žalostno je njegovo srce. Narod, enkrat blagoslovljen, devetkrat obsojen, kako si živel, kaj si doživel? Tvoja dolga povest je povest o siromaku betežnem, ki vstaja, vstati ne more. Kolikor je dolin in kotlin po teh lepih deželah, ne držale bi vse tiste krvi, ki je bila tod prelita; in koliko je bo še prelite! Komaj si stopil na svet, si bil, ti narod sužnjev, suženj med narodi. Otrok si bil, pa že suženj! Psovka ti je nauk delila, palica ti ga je vtepala. Suvali so te <pb facs="#WIKI00397-046" n="46" xml:id="pb.047"/> od vseh strani, očmi in mačehe, botri in botrice. Časih si zajokal, časih si omahnil, ves truden, časih pa si tudi planil. Ali komaj si planil, so te podrli na tla, zvezali so te še tesneje in celo usta so ti zaklenili. V curkih je tekla kri iz tvojih žil, napojila je zemljo za več klafter globoko; zato je ta zemlja rodila; in kadar si jedel sužni kruh, si jedel sam svoje meso in pil svojo kri. Močan si, o slovenski narod! Tisoč in petsto let krvaviš, izkrvavel nisi! Narod mehkužnik bi dušo izdihnil, še sveče bi mu ne žgali, še bílj bi mu ne peli — ti pa, tisočkrat ranjen, v trpljenju utrjen, ti komaj zmaješ z rameni pod težko sovražno pestjo in praviš: „Nikarte! Ta burka je stara že tisoč let!“</p>
+            <p>Tako roma človek, premišljuje, in zmerom bolj je malodušno njegovo srce.</p>
+            <p>Dolgo si trpel, ti sužni narod, stanovitno si nosil svoj križ; toda Kristus sam se je zgrudil na klancu; On sam, ki je bil rojen za posodo trpljenja, je zajokal na križu. Kaj niso tudi tebi že dnevi šteti; kaj ni morda že blizu tista grenka ura, ko boš zaklical proti nebu: „Moj Bog, zakaj si me zapustil?“ Ali bi človek zajokal, ali bi hvalil Boga, da je že konec te žalosti polne tisočletne križeve poti, da je že blizu Golgota, že blizu ura tretja?</p>
+            <p>Grenke in grenkejše so misli romarjeve. Tako mu je pri srcu, da bi molil: „Ne daj mi dočakati, o Gospod, da bi se glasila tuja govorica po teh krajih! Ne daj mi dočakati, da bi storil suženj suženjsko smrt! Moč mu dodéli, da raztrga <pb facs="#WIKI00397-047" n="47" xml:id="pb.048"/> vrvi — če je treba, da umrje, naj umrje svoboden!“</p>
+            <p>Malodušno srce je bilo žalostno, ko je pogledalo v davne dni; plaho je bilo, ko je pogledalo v prihodnje dni.</p>
+            <p>Pa se napoti romar v Ljubljano — kje žalost, kje plahost? Vesela je preteklost, še veselejša je prihodnost! Komaj zazvoni iz daljave resnobno veseli šenklavški zvon, se oči zasvetijo, se ustne nasmehnejo. Utrujenost mine, bridkost je za gorami, korak je lahak in poskočen. Romar stopi v krčmo, z levico objame natakarico, z desnico si natoči cvička, pa — „Kaj bi tisto! Saj je vseeno!“</p>
+            <p>Vse blagoslove tebi, Ljubljana! Večja in lepša mesta so na svetu — ali vendar ni ti ga enakega pod nebom! Pozdravljena, ti kraljica veselja, ti mati vseh sladkosti, ti botrica prešernih ur! Prav na sredo vseh nadlog te je postavila nebeška modrost, luč v temo, zeleno trato v pustinjo! Devetkrat obremenjen popotnik pride in te pozdravi; ko se poslavlja, si mu odvzela osmero bremen. Romar se čudi in srce mu poje: obraz do obraza, nikjer bridkosti, nikjer hudih misli; romar gleda: hiša do hiše, smejó se prijazno, nekatere celo mežikajo; romar posluša: beseda do besede, pesem do pesmi, vse so prešerne. Tako romar gleda, posluša ter se čudi in njegovo srce je potolaženo ...</p>
+            <p>Ko se je Kurent približal mestu ljubljanskemu, ga je pozdravljalo z vsemi tremi od vseh <pb facs="#WIKI00397-048" n="48" xml:id="pb.049"/> deveterih cerkvá. Iz zgodnjega mraka so se luči smejale; celo zvezde so se opotekale po nebu ter so se majale, omamljene od tobakovega dima in od vinskega duha.</p>
+            <p>Kurent je stopil v mesto in je zažvižgal od prijetne osuplosti; hiše so gledale ošabno in prazniško, kakor ob cesarjevem godu, nekatere so bile celo pobeljene; izpod streh so visele dolge zastave.</p>
+            <p>„Zahvaljen, ti klošter veselih čednosti, da pozdravljaš spodobno svojega patrona!“</p>
+            <p>Tako je vzkliknil Kurent ter se je nameril, kamor je držala najbolj zložna pot.</p>
+            <p>In kakor je šel, in kamor je stopil — od te strani in od one strani so pozdravljala svetla okna, so vabile poskočne pesmi.</p>
+            <p>Kurent se je nasmehnil in je bil zadovoljen v dno srca.</p>
+            <p>„Tako sem želel, da te zagledam, prestolnica moja; tako sem ukazal, da me pozdraviš; čula si željo in ukaz!“</p>
+            <p>Prišel mu je naproti človek, navsezgodnji večer že vesel; oblečen je bil slovesno, klobuk pa mu je visel postrani na kuštravih laseh.</p>
+            <p>„Kaj praznujete nocoj, ljudje prešerni?“ je vprašal Kurent.</p>
+            <p>Človek se je naslonil ob zid in je bil močno vesel takega prijaznega odgovora.</p>
+            <p>„Kaj da praznujemo?“ je vprašal in je zamahnil z obema rokama, da bi zgrabil misli, hiteče v urnem kolobarju. „Praznujemo pač! Ampak <pb facs="#WIKI00397-049" n="49" xml:id="pb.050"/> kaj, to je drugo in zelo imenitno vprašanje! Zakaj človek, kadar piješ, ne pozabi nikoli, čemu da piješ in zaradi katere prilike! Red mora biti, red je podlaga narodnemu življenju ... Nocoj bomo slavili Prešerna; prosimo torej vse tiste, ki bi morda raje Jurčiča slavili, da naj odlože to svojo namero ... pijan je človek danes kakor jutri, saj je vseeno!“</p>
+            <p>Kurent je bil v dno srca vesel takih modrih besed; ampak vprašal je:</p>
+            <p>„Kdo je nocojšnji svetnik?“</p>
+            <p>„Potrpite!“ je rekel modrijan in je lovil z obema rokama; lovil je, našel ni.</p>
+            <p>„Kaj pa je tebi, tujcu, potreba te učenosti?“ je vprašal. „Prijatelj te povabi na godovino — godovina ali ne, kosilo je tečno, pijača koristna, pa kaj vse drugo! Nocoj slavimo — stoj, popotnik iz daljnih krajev!“</p>
+            <p>Modrijanu se je prečudno razžaril obraz in oči so mu zasijale.</p>
+            <p>„Nocoj praznujemo sami svojo radost! Nekdo, kaj vem kdo — tu ali tam stoji njegov kamen ob oglu, Bog mu ga blagoslovi — ta nas je spomnil na to lepo praznovanje! Kdor že bodi, ajd ali kristjan, Bog mu daj sveta nebesa, mi pa smo pili!“</p>
+            <p>Hvaležen in ginjen je Kurent stisnil roko modrijanu ter je šel po svoji poti.</p>
+            <p>Prav resnično in odkritosrčno je bil ginjen Kurent.</p>
+            <pb facs="#WIKI00397-050" n="50" xml:id="pb.051"/>
+            <p>„Spomenik so postavili — komu so ga postavili? Narod molči, ne ve imena: ampak pije in je vesel. Tam na visokem kamnu stoji kamnit vojskovodja, ali pa morda učenjak, ali pa morda umetnik; stoji ter misli, da je slaven in da se vrši zaradi njega ta vesoljni vinski potop. Ošabno se ščeperi na svojem kamnu, pod svojo muzo; narod pleše in vriska ter se ne zmeni zanj. Svetilke ugašajo, zvezde umirajo v megli, mrzla noč zeha od ulice do ulice — kamniti junak stoji tam, čuti roso na svojih licih in se čudi: Odkod ta tišina, odkod ta samota? Saj sem slaven! Muza dremlje nad njim, pod njim venejo zeleni venci. Pozno v noči, blizu jutra že se primajè črn gost, leže na vence ter zasmrči. Ko se vzdrami v hladni megli, se okrene na to in na ono stran ter vzklikne: Kdo pa je to? Kdo pa je to reč sem postavil? Se včeraj je bil ta prostor lep in čeden, zdaj pa je ta nesnaga tukaj! — Ves jezen je zaspani gost in se odziblje godrnjaje v mesto. Junak na kamnu pa je do srca užaljen: V mojem imenu in na mojo čast si pil, zdaj pa bi še zmerjal, negodnik? — Tako kliče in očita, ali nikogar ni, ki bi mu odgovoril. Zdavnaj že so krčme zaklenjene; za okni, za durmi pa pleše življenje; le malokdaj se po nerodnosti odgrne zastor, da plane svetel žarek na ulico ter ugasne plah v tej neprijazni megli; le malokdaj zaškripljejo duri ter zalučajo na cesto perišče svetlobe, zato da vidi kasni svat, kod in kam in kako ...“</p>
+            <pb facs="#WIKI00397-051" n="51" xml:id="pb.052"/>
+            <p>Hudo zadovoljen je bil Kurent ob takih sladkih mislih in podobah. Zgoden je bil še večer, komaj da je prva zvezda zaspano pogledala na frančiškanski most. Zato je rekel Kurent: „Vodi me, noga, kamor se ti zdi! Od vseh strani pozvanja, nobene maše ne bom zamudil!“</p>
+            <p>Nič se ni Kurent zlagal, prav zares je pozvanjalo od vseh strani. Od koder je zvonilo najglasneje, tja se je napotil.</p>
+            <p>Šel je skozi ozke, toplo prijetne, ljubeznivo mračne ulice. Skoraj ni srečal človeka; zakaj taka je v Ljubljani postava, da bodi kristjan v krčmi, ne na cesti, kadar se nagne sonce za hrib. Le časih se je prikazalo dvoje tihih senc, tesno objetih; zaspanec bi pogledal in bi rekel: „Saj je le eden!“ Ampak nato bi stopil bližje in bi se začudil: „Pa vendarle sta dva!“</p>
+            <p>Kurent je prišel do gosposke, visoke hiše in je stopil naravnost vanjo. Kdo bi popisal vso lepoto, ki so jo takrat ugledale njegove oči? Dvorana se je vrstila za dvorano, druga lepša od druge; brez števila žarkih luči je sijalo od stropa, kakor da je bilo sonce v gostih; v čisti belini, v prešernem zlatu so se bahale stene. Kaj bi človek še nadalje govoril? Kurent je zamižal, ker se mu je bilo premočno zableščalo pred osuplimi očmi.</p>
+            <p>Svetli pari so šumeli mimo njega; toliko mladosti in toliko lepote ni videl Kurent še nikoli. Obrazi žareči, bleščeče oči, vitka telesa v belih <pb facs="#WIKI00397-052" n="52" xml:id="pb.053"/> oblekah, rdeče rože v sončnih laseh — ali so ljudje, ali so angeli božji, na zemljo poslani? — Prepevale niso gosli same; Kurentu se je zdelo. da poje dišeči zrak, da zvone in prepevajo luči na stropu, da pojo tudi žareča lica in bleščeče oči in bela, šumeča krila in rože v laseh ... Mladost, ne postoj v tem svetlem plesu! Ustne rdeče, da bi se na vekomaj smehljale, oči bleščeče, da bi se nikoli ne zasolzile, lica, da bi ne obledela!... Žalostna misel, kaj si oskrunila ta sveti kraj? ... Glej, kdaj sem videl ta obraz in te oči? Kurent je vztrepetal in je strmel, za njo je strmel, ki je bila prišumela mimo, kakor žarek iz nebes.</p>
+            <p>„Kdaj sem videl ta obraz in te oči?“</p>
+            <p>Nad širokim čelom bujni lasje, temno rjavi, motno žareči, kakor z zlatom prepleteni; iz las se je bila izvila rumena roža in je visela globoko na goli, od luči opaljeni tilnik; lica ozka, zamolklo bela. Prišumela je mimo in se je ozrla nanj; ob tistem pogledu je Kurent vztrepetal.</p>
+            <p>„Teh oči nisem gledal v sanjah; takih sanj ne daje Bog vernemu kristjanu, kaj šele meni grešniku!“</p>
+            <p>V tistih rjavih očeh je bilo hrepenenje, ki tiho sanja, kadar se ustne smejó in posluša uho veselo pesem; pogledale so in srce je zaječalo, pa ni vedelo, če od bolesti ali od sreče.</p>
+            <p>„Mladost, ne postoj v tem plesu! Grenka misel, ne čez ta prag!“</p>
+            <pb facs="#WIKI00397-053" n="53" xml:id="pb.054"/>
+            <p>Kurent je vzdignil gosli — svetli pari so zašumeli v jadrnem krogu, da oko ni več razločilo ne obrazov ne teles; ena sama žarka luč je bila, sama pred seboj bežeča. Le s srcem še je gledal Kurent en sam obraz — veselje brez mere je bilo v njegovi pesmi in koprnenje brez mej ...</p>
+            <p>Vzdramile so se njegove oči in so spoznale strahoma, da so telesa trudna in že skoraj upognjena, da so lica potna in upala, oči motne in zameglele. Na tleh so ležale pohojene rože; luči na stropu so težko dihale, dremalo se jim je.</p>
+            <p>Mladost je bila ustavila svoj veseli korak, oči so se ozrle ter so se zamislile. Kurenta je spreletelo kakor spomin na starost, na bridkost in smrt. Povesil je glavo, njegova pesem je utihnila.</p>
+            <p>„Kje si ti, kam si pobegnila?“ je vzkliknil v svojem srcu. Ni je več bilo; na pragu je ležala rumena roža, začrnela, oskrunjena, od stoterih nog pohojena.</p>
+            <p>Kurent je šel s tihim korakom skozi vse dvorane; iz trudnega veselja, iz umirajoče svetlobe je strmelo kakor vzdramljena bolest. Prašni, zaspani in zlovoljni so bili poslednji svatje; njih obrazi so se mahoma postarali, oči so gledale temno in sovražno. Radost je ugasnila, kakor da je bila smrt pihnila vanjo — nobenega žarka ni bilo več, le črne saje so planile do stropa ... Kurenta je bilo strah te bridkosti; zato se je nameril tja, odkoder je slišal pesem in veselo besedo.</p>
+            <pb facs="#WIKI00397-054" n="54" xml:id="pb.055"/>
+            <p>Pod širokimi, svetlimi stopnicami je stala ženska, v črn plašč zavita; njen beli obraz se je okrenil do njega, njene temne oči so se ozrle nanj; v tistih očeh je bilo žalosti za tisočero src. Tako se je ozrla nanj in je stopila v noč ...</p>
+            <p>Kurent je šel, kakor mu je bil dan ukaz — godec do veselja, škrjanec do sonca. Pa je prišel tja, kjer so slavili svoj praznik bojarji in imenitniki te blagoslovljene dežele. Nad njimi, v zlatih izbah, so že vzdihovale hude sanje, so luči umirale in so bile rože pohojene. Njim, bojarjem in imenitnikom, pa je sveta polnočna ura oznanjala začetek vseh sladkosti.</p>
+            <p>O, kdo bi po pravici in po resnici govoril o ljudeh, ki stoje tako rekoč na visokem hribu ter sipajo koristne nauke v dolino? Še umetnik podobar, ki je vsega hudega vajen, obstrmi pred mogočnikom; glava mu klone, plaha roka omahuje. „Kako bi te častil, ko nisem vreden?“ Tako zavzdihne ter se milo razjoka. Nato pa se napoti v svojo žalostno izbo, z dlanjo se udari na čelo ter vzklikne ves osupel: „Saj je le suknja, jaz pa sem mislil, da je človek v nji!“ — Od spoštovanja in ponižnosti se je bila umetniku pamet omračila.</p>
+            <p>Kurent je stopil med prešerne svate. Pogledal jih je povrsti in je ves radoveden rekel v svojem srcu:</p>
+            <p>„Kaj bi jim godel, kako prepeval? Lica jim pričajo, oči in besede, da je veselje njih oče in radost njih mati!“</p>
+            <pb facs="#WIKI00397-055" n="55" xml:id="pb.056"/>
+            <p>Za mizo je stal trebušen, postaven mož; poln kozarec je držal v roki, gledal je z lenimi očmi, govoril je s trudnim jezikom, njegov glas pa je bil sladak in prijeten. Kolikor dalj je Kurent poslušal, toliko bolj se je čudil.</p>
+            <p>„Sladak in prijeten je njegov glas, besede pa so polne bridkosti!“</p>
+            <p>Postavni mož je govoril:</p>
+            <p>„Slovenski narod, siromak nad siromaki! Tvoja zgodovina je zgodovina tisočletnega trpljenja. Ubog si bil in ubog ostaneš, suženj si bil in suženj ostaneš; to je tvoja sodba, nepreklicna, neizpremenljiva! Planine in poljane, ki so tvoja domovina, so napojene s krvjo in solzami. In kadar nekoč pogineš od vsega hudega, bo tvoja smrt, kakor je smrt obnemoglega delavca — brez tolažnika pojdeš na oni svet, tvoja poslednja postelja bo jarek ob cesti! Tvoj spomin pa bo živel na vekomaj, zakaj eno te razlikuje od vseh drugih narodov na svetu: prepeval si v bridkosti! Pozabljen bo tvoj grob, ali z zlatimi črkami bo zapisano in daljna tisočletja bodo brala: Tako je pel narod, ki ga ni več! — Naše veselje in naša tolažba je taka misel ob današnjem dnevu, ko slavimo spomin Koseskega, slavca v gaju naše umetnosti!“</p>
+            <p>Zmotil ga je debel glas.</p>
+            <p>„Ne Koseskega, temveč Prešerna!“</p>
+            <p>Moj govornik je srdito pogledal, zduškoma je izpraznil kozarec ter ga je treščil na mizo, da se je žvenketaje zakotalil na tla. Čisto nenadoma <pb facs="#WIKI00397-056" n="56" xml:id="pb.057"/> se je izpremenil njegov glas, nič več ni bil sladak in prijeten.</p>
+            <p>„Preklete duše, kaj pa se vtikate v mojo besedo! Koseski ali Prešeren — beračija je beračija! Saj se nismo zbrali, da bi rešetali zgodovino in vse prirepke njene, temveč zbrali smo se, da se krščansko napijemo, da zapojemo ter da kvantamo! — Ná, ták je zdaj moj govor, pa si ga zapiši in še drugim ga povej!“</p>
+            <p>Kolikor jih je bilo veselih bojarjev, vsi so vstali ter so si prisrčno napivali. Še vedrejši so bili obrazi, še svetlejše so bile oči. Smejale so se tiste oči in so prijazno govorile: „Saj smo si bratje, kaj bi tulèč molčali! Poslednje tenko zagrinjalo se je pretrgalo od vrha do tal; poglejmo si iz lica v lice, pomenimo se od srca do srca, brez dolgih besed in krvavih klicajev!“</p>
+            <p>Ob tisti uri se je pričela poglavitna slovesnost. Jeziki, prej že težki in neokretni, so bili nenadoma prečudno gibki. Smeh se je prelival v smeh, beseda je skokoma lovila besedo, pesem je brez obotavljanja odzdravljala pesmi. Če je bila beseda majhna ali velika, ponižna ali imenitna, vsaka je bila odkritosrčna in vsaka je bila vesela.</p>
+            <p>Kurent je gledal, poslušal je in je pomislil:</p>
+            <p>„Zrahljali so si pentlje, odpeli so si ovratnike, vrhnje suknje so slekli, celo pasove so si olajšali in glej, bližji so mojemu srcu! Nič več ni vklenjen njih smeh, nič več ne laže njih pesem. Vesela kvanta se je bila našemila za kapucinca, <pb facs="#WIKI00397-057" n="57" xml:id="pb.058"/> pa se ji je kmalu dolgčas zazdelo in ob prijetnem večeru je gola planila iz kute! Kakor si gola, pozdravljena bodi!“</p>
+            <p>Nič več ni bilo spomina ne o bridkosti ne o trpljenju, ne o sužnjih in ne o hlapcih, ne o krvi in ne o solzah. Noetov studenec je žuborel in šumljal iz steklenice v kozarec, iz kozarca v grlo. Zmerom višje so plezale besede po strmi lestvici prešernosti in razposajenosti, dokler niso priplezale tako visoko, da se je začudil Kurent sam.</p>
+            <p>Modroval je v svoji pameti:</p>
+            <p>„Veliko je število tvojih čednosti, slovenski narod! Nadvse lepa je tvoja domovina — ali, bogvedi, morda so kje na svetu še lepši kraji, nam nepoznani! Milozvočen je tvoj jezik — ali, kdo bi prisegal, morda je tam kje onkraj morja še slajša govorica.! Tvoja pesem je potrkavanje nebeških zvonov — ali do srca segajo tudi ciganske pesmi! Brez števila blagoslovov ti je dobrotni Bog dodelil, ampak le enega je dodelil tebi edinemu! Ni je kvante, ki bi bila tako krepka, sočna in izdatna, kakor je ta slavna slovenska kvanta!“</p>
+            <p>Komaj je Kurent tako preudaril in premislil, se je moj govornik naslonil ob mizo, pomežiknil najprej z levim, nato z desnim očesom ter je zinil navsezadnje táko prečudežno besedo, da so debelo pogledali utrjeni svatje in da se je Kurentu zazibalo pred očmi. „Zlodej sam bi se potuhnil!“ je rekel ves prestrašen.</p>
+            <pb facs="#WIKI00397-058" n="58" xml:id="pb.059"/>
+            <p>Tudi možá govornika je prešerna misel tako omamila, da je položil lice na mokro mizo ter neutegoma zadremal. To početje so ugledali bojarji imenitniki, beseda jim je polagoma ugasnila na ustnah in lotil se jih je nevzdržen spanec ...</p>
+            <p>Domovina, sladko počivaj, nič se ne boj! Tudi dvakrat, v tistih zdavnih, hudih časih, ko nisi še imela ne velikih besed in ne velikih besednikov, tudi takrat Bog ni pozabil nate! Kako bi pozabil dandanašnji, ko se ti poraja leto za letom dolgo število vnetih vojskovodij. Nič ne skrbi, o domovina; zadremali so trudni vojskovodje, zvestoba v njih srcu pa ni zadremala; slavno se bodo vzdramili ob slavnem jutru in črno oblečene, gosposke besede se bodo izprehajale pod soncem! —</p>
+            <p>Kurent je stopil na samotno cesto. Tihe in temne so bile ulice, svetilke so komaj sebi svetile. Kurent je ukazal koraku: „Tja me vodi, kjer je veselje najbolj prisrčno!“</p>
+            <p>Šel je po dolgih, ozkih ulicah, pa je prišel do neke hiše, podobne vaški krčmi. Ker je bil Kurent takih krčem vajen, je z veselim korakom stopil v vežo ter je odprl duri.</p>
+            <p>Ljudje, ki jih je ugledal v zakajeni izbi, so mu bili že zdavnaj znani in tako prijetno mu je bilo pri srcu, da bi jim vsem po vrsti segel v roke za bratski pozdrav. Njih pentlje niso bile prazniške, njih obrazi niso bili slovesni, njih besede niso bile črno oblečene. Obraz, besedo in srce jim je poznal Kurent, toda vedel ni, kdo <pb facs="#WIKI00397-059" n="59" xml:id="pb.060"/> da so, odkod da so prišli in kam da so se namerili.</p>
+            <p>„Suknja vas razodeva, romarji, siromaki pred Bogom! Iz bridkosti ste prišli, v bridkost ste se namerili!“</p>
+            <p>Ali na licih ni bilo bridkosti in ogenj je sijal iz oči.</p>
+            <p>Ko je stopil Kurent mednje, so ga vriskaje in prepevaje pozdravili. Kislo je bilo vino, ali Kurent ga je okusil; pijane so bile besede, ali Kurent jih je poslušal. Za mizo je sédel, koleno je položil čez koleno ter je zagodel, kakor je bil njegov posel. Pesem je pela, svatje so ukali, plesali in pili, Kurent pa je gledal in polne blagega usmiljenja so bile njegove misli.</p>
+            <p>„Ti tam, ki se komaj še prestopaš, ki komaj še držiš kozarec v leni roki, kdo si? Tvoja pentlja je dolga, ali umazana je, tvoj obraz je vesel, ali bled je in lačen, tvoj pogled je svetal, ali skrb vzdihuje globoko pod njim! V zvezde gledaš, zato da bi zemlje ne videl! Dodeli ti Bog, da bi nikoli ne povesil glave! — Ti dolgi korenjak, ki plešeš v zimski suknji, s pipo v ustih, kdo si? Za kmeta si rojen, pa te je veter zagnal ali v črno šolo, ali v črno fabriko. Bog ti blagoslovi to veselo noč, ne boš jih mnogo doživel! — Ali kdo si ti, ki sem te videl že zdavnaj in že zdavnaj ljubil?“</p>
+            <p>Daleč je sedela, za poslednjo mizo, v dimu in mraku. Slonela je globoko na razmočeni prt, <pb facs="#WIKI00397-060" n="60" xml:id="pb.061"/> roké so bile nad čelom sklenjene; izpod dlani pa je strmela naravnost na Kurenta, z živimi, žalostnimi, hrepenečimi očmi. Kurentu je vztrepetala desnica, ki je držala vitki lok; zapela je pesem tako vesela, kakor jo le koprnenje rodi.</p>
+            <p>„Iz globine najnižje hlepi oko najvišje nad zvezde!“ je rekel Kurent. „Iz najtežje bridkosti plane najslajša radost — redka je ura, ne vrne se morda, izpijmo do dna!“</p>
+            <p>Srce je odgovarjalo srcu, misel je odzdravljala misli — dolgi korenjak je odstavil pipo ter je vzdignil kozarec.</p>
+            <p>„Koga, pravite, da častimo nocoj, katerega svetnika, dobrotnika in imenitnika? Sebe častimo, bratje v Kristu, sebe in svoj spomin! Dobro nam je v tej uri, ali kako nam je bilo včeraj in kako nam bo šele jutri? Sto tisoč jih je trpelo in hrepenelo, enega izmed njih pa smo postavili na kamen, da priča poznim rodovom, kdo da smo bili in kako smo živeli. Kaj bi izpraševali za njegovo ime, za stan in za letnico? Naš je bil, naše življenje je živel: za tisoč ur bridkosti ena ura veselja; ovsenjak ob cestnem jarku, po smrti pa sveta nebesa! Kdorkoli je že bil, ki stoji na kamnu, naš patron je bil, pijmo na njegov spomin!“</p>
+            <p>Take resnobne besede je govoril korenjak, kozarci so zažvenketali in so bili zduškoma prazni. Ali korenjak je vzdignil svoj kozarec še vdrugič.</p>
+            <p>„Tisoč ur bridkosti! Blagoslovljena bridkost: če bi nje ne bilo, odkod hrepenenje, ljubezen in <pb facs="#WIKI00397-061" n="61" xml:id="pb.062"/> lepota? Če bi uboštva ne bilo, kako bi oko spoznalo bogastvo? Preljubi svatje, toliko smo užili nadlog in težav, da bi v skrbeh bil Bog, če bi ga terjali za vse to bogastvo, ki smo ga v sanjah gledali! Zato še eno kapljico na čast bridkosti, materi vseh občutkov!“</p>
+            <p>Kozarci so bili prazni, ko so komaj zapeli. Toda korenjak ni odnehal ter je izpregovoril še vtretjič.</p>
+            <p>„Tisoč ur bridkosti, le ena ura veselja in še ta je skopo odmerjena! Bratje moji, mi smo kakor kaplja v vodi — potok teče, kaplja teče z njim in po njegovih postavah! Sto let trpi slovenski narod, nato pa mu je za en dan dodeljeno, da zavrisne ter da razobesi pisano platno. Malo je en dan za dolgo stoletje — ali kdo bi se z Bogom prerekal? Nam, ponižnim kapljicam v tem ponižnem potoku, je za tisoč ur prisojena ena ura! Za bogatina malo, za siromaka silno bogastvo! Lepo pozdravimo to uro dobrotnico, koristno jo zaužijmo, hvaležno ji napijmo, dokler je še med nami!“</p>
+            <p>Globoko so nagnili tretji kozarec, ali tudi glava se je nagnila globoko. Kristjan, nezvesta ti bo ljubica, kadar ji zapoješ slavo; umrla bo radost, kadar ji napiješ!</p>
+            <p>Komaj se je Kurent tako prestrašil, ga je topla roka objela okoli vratu</p>
+            <p>„Oj, ena sama ura — te ure me je strah! Ali mi večno veselje daj, ali mi daj večno bridkost! <pb facs="#WIKI00397-062" n="62" xml:id="pb.063"/> Rajši mi daj noč brez nehanja, nego da mi prižigaš eno samo zvezdo! Saj je zadosti, da, je koprnenje v srcu; ali ga na vekomaj izpolni, ali pa naj bo lačno in žejno na vekomaj! Ti si večno veselje in večna bridkost, daj mi eno, ali daj mi oboje, za roko me primi, da pojdem s teboj!“</p>
+            <p>Korenjak si je bil slekel zimsko suknjo, pohodil je pipo z nerodnimi škornji ter je omahnil do nje, vzdihujoče od koprnenja. Objel jo je z dolgima rokama, do pasu jo je vzdignil, skoraj je opalil njene lase ob svetilki.</p>
+            <p>„Zapleši z menoj, še minuto je časa, le še minuto! Kar nam je dal Bog, do kaplje použijmo, do dna izpijmo!“</p>
+            <p>Zaplesala sta, plesala sta komaj minuto in sta obadva omahnila; zgodilo se je po njegovi besedi. Kakor da so nenadoma vse luči ugasnile — ne pesmi več, ne smeha; topo in belo so gledale oči; trudna vdanost je bila na tistih ustnicah, ki so se pred eno samo minuto prešerno smejale. Modri korenjak je slonel ob stolu, roke so mu ležale na umazanih tleh, glavo je klonil globoko in ves bled je bil.</p>
+            <p>Tiho je vstal Kurent in je stopil na ulico.</p>
+            <p>„Siromaki, popotniki, izgubljenci — miloval bi vas, ali kako bi? Ni ga človeka v tej deželi, ki bi v svojem srcu ne bil popotnik!“</p>
+            <p>Jutranja megla je rosila na lica, tako hladna in tuja, da je srce vztrepetalo od mraza. Težka vrata so zaškripala, iz veže je stopila sključena <pb facs="#WIKI00397-063" n="63" xml:id="pb.064"/> starka; majala je z glavo, nikamor se ni ozrla, molek je rožljal v njenih rokah. Z betežnimi, drobnimi koraki je hitela, vzdihovala je po strmih stopnicah, stopila je v cerkev. Pod stopnicami je ležal pijanec, spal je trdno in je govoril v sanjah.</p>
+            <p>Kurentu se je mudilo; zakaj od nikoder več ni vabila luč, od nikoder ni pozdravljala pesem. Mesto je bilo mrtvo in nemo — po trohnobi je dišalo.</p>
+            <p>„Za tisoč ur le ena ura!“ je pomislil Kurent; in njemu samemu se je hudo storilo pri srcu.</p>
+            <p>Prišel je iz mesta, šel je v hrib. Od kostanjev je rosilo, rahlo se je zganilo v listju, zavzdihnilo je v sanjah. Ko je stopil Kurent na hrib, se je ozrl.</p>
+            <p>V belo jezero je bilo potopljeno to lepo ljubljansko mesto. Tiho je bilo to jezero; vzdigali so se valovi ter so se pogrezali; glasu ni bilo. Kurent je razločil obadva črna stolpa frančiškanske cerkve, tudi se je časih prikazal resnobni Šenklavž; nato pa so beli valovi vzkipeli vse do gradu. Nad tem jezerom so sijale tiste žarke zvezde, ki se približajo zemlji ter pokažejo vso svojo lepoto, kadar je blizu jutranja ura; zakaj najsvetlejše in najmilejše gledajo oči ob slovesu.</p>
+            <p>Valovi so se tiho zganili, upadali so; tedaj se je prikazalo kakor črna roka utopljenca, ki se vzdigne še poslednjikrat, zamahne ter izgine. Kurentu se je zdelo, da je videl bledi obraz korenjaka, slonečega ob stolu.</p>
+            <pb facs="#WIKI00397-064" n="64" xml:id="pb.065"/>
+            <p>Zazeblo ga je, ali od mraza, ali od tihe žalosti.</p>
+            <p>„Pridi, zarja, usmili se!“ je vzkliknil. „Trikrat petsto let že hrepenim po tebi, z željnim srcem te pričakujem vsako jutro! Ne múdi se, brž se napoti, da ne boš svetila slepim očem!“ ...</p>
+            <p>Tam je zvezda zelo urno in zapored pomežiknila, kakor da se ji je bilo od vzhodne strani zableščalo; begotna senca je hušknila preko nje in ni je bilo več. Komaj je ugasnila ena, je ugasnila druga in glej, že tretja; kakor lastovke so švigale sence pod njimi.</p>
+            <p>Kurent se je prijetno nasmehnil. Kajti spoznal jih je, svoje mile družice, lepe coprnice, ki se ves božji dan ukvarjajo s pustim copranjem, da uživajo ponoči svoj grenko zasluženi greh. Vračale so se od veselega vasovanja ter so spotoma upihavale zvezde, kakor je njih jutranji posel.</p>
+            <p>Na vzhodni strani se je belilo nebo, hladen veter je zazibal bele meglene valove.</p>
+            <p>„Zahvaljena, zarja, da si vsaj od daleč pozdravila!“ je rekel Kurent; zavil se je tesno v suknjo, ker mu je bilo mraz ter se je nameril — kam? Ali je bil Bog veselja njegov kažipot, ali je bila smrt in trohnoba? Ali drži njegova cesta v svetlo zarjo, ali v brezdanjo noč? ...</p>
+         </div>
+         <pb facs="#WIKI00397-065" n="65" xml:id="pb.066"/>
+         <div xml:id="wv-V.">
+            <head xml:id="head.5">V.</head>
+            <p>Kurent ni bil rad sam; kadar je stopal po samotni, blatni cesti, ali kadar je ležal v travi ter gledal v nebo, so frfotale misli nad njegovo glavo kakor zlohotni črni netopirji. Zato se je na svoji poti vesel pridružil pobožnim romarjem.</p>
+            <p>Iz vseh slovenskih krajev so se bili zbrali v pisano procesijo. Šli so globoko upognjeni, trudni, prašni in blatni do pasu, kakor poslednji popotniki, namerjeni v dolino Jozafat. Največ je bilo starcev in stark, ali tudi otroci so bili med njimi in celo lepa dekleta je videl Kurent. Stopali so zvrstoma, par za parom, lesen križ se je majal pred njimi. Po zeleni slovenski deželi se je razlegala tista stara in lepa pesem, kakor klic bridkosti in hrepenenja.</p>
+            
+               <l xml:id="l.1">„Marija, k tebi uboge reve</l>
+               <l xml:id="l.2">mi zapuščeni vpijemo!“ </l>
+            
+            <p>Razlegla se je pesem prav do neba hripavo in žalostno ter je vzdihovaje ugasnila nad požetim poljem.</p>
+            <p>Nato je vzkliknil tenki, trepetajoči glas starke, ki je visoko izpodrecana in do pasu upognjena stopala koj za križem.</p>
+            <pb facs="#WIKI00397-066" n="66" xml:id="pb.067"/>
+            <p>„Sveta Marija! — Sveta Mati božja! — Sveta devic Devica!“</p>
+            <p>Odgovarjalo je sto glasov, trudno pojočih, kruha in tolažbe prosečih.</p>
+            <p>„Za nas Boga prosi!“</p>
+            <p>Še v Kurentovo srce je segla tista topa, vdana, milo proseča bolest; in njegova misel je bila žalostna.</p>
+            <p>„Iz vseh teh lepih krajev ste se zbrali, pravi in izvoljeni poslanci svojega naroda! Vaša beseda je vdana prošnja, vaša pesem je plaha molitev. Koliko je bilo pač nasute bridkosti v ta srca, da še upanju in zaupanju, ne kletvi in rotenju ni več prostora? Pahnili so v ječo nedolžnega hlapca, pa se ni branil, še kričal ni; pokleknil je in je prosil: Daj, o Bog, da mine to trpljenje, da se odpro te zaklenjene duri! — Delal je hlapec, vsem gospodarjem tega sveta je služil, nazadnje pa sklene roke ter prosi: Dajte mi kruha! — Ozrle se bodo nate usmiljene oči Matere božje z Brezij in potolažen boš, hlapec!“</p>
+            <p>Žalostna je bila Kurentova misel in zmerom žalostnejša.</p>
+            <p>„Koliko časa je romal Kristus na Golgoto? Pač ne trikrat petsto let! Trikrat se je zgrudil na kolena — kolikokrat si se zgrudil ti, narod suženj, in kolikokrat si vstal vdan, ukazu božjemu poslušen, ter si zadel svoj križ na ranjene rame? Kristu je pomagal mož iz Cirene — kdo je pomagal tebi, kadar si ležal na obrazu in je bilo <pb facs="#WIKI00397-067" n="67" xml:id="pb.068"/> trpljenje večje od tvoje moči? — Kje je začetek tvoje poti in kdaj ti je bila sodba govorjena? Kje je konec tega strašnega romanja in kdaj bo sodba dopolnjena?“</p>
+            <p>Pesem je vzdihovala preko poljane, molitev je kipela do neba.</p>
+            <p>„Zdravje bolnikov —“</p>
+            <p>„Pribežališče grešnikov —“</p>
+            <p>„Tolažnica žalostnih —“</p>
+            <p>„Za nas Boga prosi!“</p>
+            <p>Zmerom bolj trudna je bila molitev, hripavi glasovi so ihteli in stokali. Na desno in na levo se je zibal leseni križ pred procesijo; starec ga je držal trdno z obema rokama, ali koščene roke so se tresle in so omagovale. Dan je bil soparen, sonce je žgalo; s ceste se je vzdigal ilovnat, zadušen prah; usta so bila suha, žolta skorja se je držala lic, oči so komaj še razločile pot.</p>
+            <p>Takrat je bilo Kurentovo srce do vrha polno usmiljenja. Njegova blagoslovljena roka se je dotaknila srebrne strune in zgodilo se je, kakor da je kanil žarek nebeški na črno močvirje. Glave, ki so že do pasu klonile, so se vzdignile; zaprašene oči so pogledale bistrejše, trudni korak je lahkotnejše stopil. Na srce je potrkalo tiho upanje, v žalostne misli je z dobrotljivo lučjo posvetilo veselje.</p>
+            <p>Še večje čudo se je zgodilo: pesem, prej tako ihteča in bridkostna, se je vsa izpremenila. Besede so bile kakor poprej, ali glasile se niso <pb facs="#WIKI00397-068" n="68" xml:id="pb.069"/> kakor prošnja in molitev, temveč kakor poskočna napitnica. Objokanim očem je bila Marija resnobna kraljica na zlatem prestolu, potolaženim očem pa je bila vesela družica.</p>
+            <p>Celó nebo je milejše zasijalo in od daljnih gozdov je zahladil prijazen pozdrav. Kurent je odzdravil s pesmijo tako zvonko in veselo, da so gore zašumele od radosti in da so visoko nad poljem zapeli škrjanci, Bogu na čast in Kurentu na slavo.</p>
+            <p>Kakor se je prej izpremenila popevka, da se je iz molitve rodila poskočnica, tako se je zdaj izpremenila še beseda sama. Bog nebeški vedi, kako se je to zaobrnilo — ne vdanosti več ni bilo, ne vzdihujočih prošenj, ne romarskih pesmi in ne litanij. Telesa, tako globoko upognjena, so se korenjaško zravnala; noge so bile gibke in lahke, kakor na plesu; oči so se prešerno smejale.</p>
+            <p>In čuj, proti nebu veselemu je vriskaje planila vesela pesem.</p>
+            
+               <l xml:id="l.3">„Lepših fantov na svetu ni,</l>
+               <l xml:id="l.4">kot so ti mladi furmani,</l>
+               <l xml:id="l.5">ti mladi furmani!“ </l>
+            
+            <p>Prečudno lepo so bili ubrani glasovi. Kurent je natanko razločil moški, brneči bas tistega starca, ki je nosil križ; ta križ pa se ni več majal visoko nad procesijo, temveč leno se je pozibaval na rami; tudi je spoznal Kurent glas izpodrecane starke: prav tako tenak je bil in trepetajoč kakor takrat, <pb facs="#WIKI00397-069" n="69" xml:id="pb.070"/> ko je prepeval litanije Matere božje. Nadvse prijetni in milozvočni pa so bili glasovi otrok in deklet; poprej, ko je vzdihovala proti nebu ihteča molitev, ni slišal Kurent mladih glasov, ob prešerni poskočnici pa so zvonki in zaupljivi vzkipeli do samih svetih nebes. In nebo se je prijazno nasmehnilo — slišalo ni ihtenja in vzdihovanja, pač pa je milostno sprejelo veselo daritev.</p>
+            <p>V hrib je šla procesija; od tam gori, iznad gozda, je že pozdravljala bela cerkev, pozdravljala je poleg cerkve bela krčma. Romarjem se je storilo ob teh pozdravih kakor lačnemu, kadar je miza pogrnjena, kakor žejnemu, kadar je čaša napolnjena, kakor jetniku, kadar so vrata odklenjena. Njih pesem je bila prej vesela daritev, zdaj pa je bila svatovsko vriskanje. Kurent sam ni videl, kdaj in kako je bil prehitel procesijo: šel je pred njo in pred križem. In procesija sama ni videla križa več; srca niso več poznala bridkosti, noge niso čutile strme poti; kakor svetla luč je šlo veselje pred romarji in jim je kazalo pot ...</p>
+            <p>Dolgo je hranil in spravljal siromak svoje trpljenje, dokler ni bil skedenj poln in prepoln. Nazadnje pa si je naložil to črno breme in se je napotil, da bi potožil Materi božji svojo bridkost. Ali namesto da bi stopil prednjo globoko upognjen, proseč in vzdihujoč, je skoraj zaplesal do oltarja, pokrižal se tako malomarno, da je bilo komaj križu podobno, pomolil svojo molitvico tako urno in <pb facs="#WIKI00397-070" n="70" xml:id="pb.071"/> viharno, da je izpustil najmanj polovico besed, in ko je godrnjal češčenamarije, ni mislil ne na Mater božjo in ne na svojo žalost, temveč na krčmo. Pod Marijo pa je slonel angel, tiščal je lica v pesti in je mežikal: „Bratec, saj te poznam! Nisi prišel, da bi molil in pokoro delal, ampak prišel si, da bi se brez skrbi napil in da bi zraven še odpustkov bil deležen!“</p>
+            <p>Stopili so romarji v cerkev — ali kaj bi v cerkvi, ko ni bilo v srcu bridkosti več? Pokleknili so pred oltar — ali kaj bi pred oltarjem, ko ustnice niso rade molile, ker bi rajši prepevale? — Ali je Mati božja že spotoma storila ta čudež? Vse je pozabil romar — polje ni rodilo, živina je pocepala, davki tarejo, vojska žuga ... pa naj bo, kakor je božja volja! Romar vstane ter se napoti v krčmo. „Mati božja, ti že imaš, kar ti je treba, še meni privošči kruha in vina!“ Pokriža se romar ter je vesel, da je zadobil odpustek in milost.</p>
+            <p>Ko stoji pred cerkvijo, začuti, da je lačen in žejen ter počitka potreben ... Čudo prečudno! Polno vrečo bridkosti je nesel romar na strmi hrib, da bi jo tam odložil; vzdihoval je in jokal in prosil, da je bil strmi klanec že ves gladek in razmočen od njegovih solza; pa glej, ni mu ga enakega ne v žeji ne v vriskanju!</p>
+            <p>Pobegnili so romarji iz temotne cerkve ter so se rešili v krčmo, kakor da je bila zunaj ploha in povodenj. Ne plohe ni bilo in ne povodnji, nebo je bilo brezmadežno, sonce pa se je nagibalo <pb facs="#WIKI00397-071" n="71" xml:id="pb.072"/> proti večeru. Krčma je bila pretesna, še v travo so romarji polegli, vse do strmega brega.</p>
+            <p>Najprej so pili; in Bog jim je vino tako blagoslovil, da je bila steklenica prazna, ko se je komaj nagnila; iz roke v roko je šel kozarec tako urno, da ga je trebušna steklenica trudoma dohitevala. In kolikor slajše je bilo vino, toliko lajše je bilo srce, toliko prešernejša je bila pesem. Vesela je bila od začetka, nato je bila poskočna, nazadnje je bila razuzdana. Že je oko mežikalo očesu, že se je tiho lovila želja za željo; kmalu je roka stiskala roko, kmalu že so bile ustne na ustnah. Topla in zapeljiva je bila noč.</p>
+            <p>Kurent je legel v travo, da bi se pogovarjal z zvezdami. Ali komaj je ležal, je pritajeno zašepetalo od leve strani, od desne strani, izpod gabra, izza grma; šepetanje pa je bilo kakor tiha, sramežljiva pesem o ljubezni. Ni je še natanko razumel, ko je zaslišal glas:</p>
+            <p>„Kako je mila tvoja pesem, kako je sladka noč s teboj!“</p>
+            <p>Ugledal je temno žareče, proseče oči, lica rdeča, ustne kipeče in pisano ruto pod belim vratom. Pa je ovil z desnico tisti beli vrat in se je nagnil do tistih kipečih usten in do rdečih lic.</p>
+            <p>„Dolgo sem čakala nate, zmerom sem nate mislila! Dolgo in pusto je romanje, ni mu konca ne kraja; ali, oh, tako kratka je vesela noč! In ko se vzdramijo te uboge oči, je bridkost devetkrat bridkejša, nobena zvezda ne sije več temu <pb facs="#WIKI00397-072" n="72" xml:id="pb.073"/> srcu koprnečemu. Ti si prinesel veselje, ti ga ohrani na vekomaj! Objel si me s to blago roko, nikar me nikoli več ne izpusti! Tvoja pesem je segla v moje srce, da bi nikoli ne utihnila!“</p>
+            <p>Tako je prepevalo njeno hrepenenje, dokler niso ustne umolknile ob ustnah; zvezde so sijale nad njima in so jima pele svatovsko pesem ...</p>
+            <p>Ko se je Kurent vzdramil, je hladno jutro vstajalo iznad gora. Romarji so spali kakor snopje, ki jih je bila ploha razmetala po strnišču. Upali in bledi so bili njih obrazi pod sivim nebom. Ugasnila je rdečica tudi v licih Kurentove neveste; sklenjene roke je tiščala na prsi in poihtevala je v sanjah; že je bila v njenem srcu groza prihodnjih dni.</p>
+            <p>Tiho se je vzdignil Kurent ter se je ozrl po razmetanih snopih.</p>
+            <p>„Kakšen bo vaš korak v dolino, romarji, siromaki? Noga bo težka, glava bo klonila, v srcu pa žalost in strah! Ni vam bil rodoviten Marijin blagoslov; ni umrla, le zaspala je bridkost, vina in ljubezni pijana, in vzdramila se bo grenkejša in živejša. Zakaj tak je ukaz, ki še na Golgoti ne bo prevržen!“</p>
+            <p>Speči romarji so slišali v sanjah njegovo črno besedo; vztrepetali so in zastokali, ko je šel mimo.</p>
+            <p>Tudi njemu je bila noga težka in neokretna, tudi njemu je klonila glava in tudi njegovo srce je bilo do vrha polno grenkobe.</p>
+            <pb facs="#WIKI00397-073" n="73" xml:id="pb.074"/>
+            <p>„Doklej še boš romal, kam boš priromal, suženj? Ali je tvoj cilj gora poveličanja, ali je gora poslednjega trpljenja?“ ...</p>
+            <p>Ves žalosten je stopil Kurent v dolino; šel je in šel, pa se je pridružil drugim romarjem, ki niso prepevali pobožnih pesmi in tudi ne molili Marijinih litanij.</p>
+            <p>Došel jih je na prašni cesti, že blizu kraj mesta. Težke cule so nosili, život je klonil v pas. Obrazi so bili opaljeni od sonca, nobeno oko bi ne razločilo, če so mladi ali stari, zakaj temni in grenki so bili vsi do zadnjega. Debel prah je bil na suknjah, na licih, na očeh.</p>
+            <p>Kurent sam se je prestrašil.</p>
+            <p>„Kaj sem došel procesijo, ki se je napotila naravnost na Golgoto?“</p>
+            <p>Stopil je do starca, ki je težko sopel.</p>
+            <p>„Kam?“ je vprašal Kurent. Vprašal je, pa je sam že vedel odgovor v svojem srcu.</p>
+            <p>„Le na pot, le na pot, kamorkoli! Kadar odpre jetnik železna vrata — ali vpraša, kam da cesta drži? Le iz ječe, le iz trpljenja — pa kamorkoli!“</p>
+            <p>Kurent je pogledal vso procesijo od začetka do konca; videl je starce in otroke, fante in dekleta; in na vseh obrazih je bilo napisano: „Le od tod, le iz ječe, pa kamorkoli!“</p>
+            <p>„V Ameriko!“ je rekel starec.</p>
+            <p>„Na Nemško!“ je rekel fant.</p>
+            <p>„Kamorkoli!“ je reklo dekle.</p>
+            <pb facs="#WIKI00397-074" n="74" xml:id="pb.075"/>
+            <p>Težko je stopal korak, život je klonil, potna in prašna so bila lica.</p>
+            <p>Pa je starec govoril, kakor da bi prepeval žalostno pesem:</p>
+            <p>„Šestdeset let življenja, šestdeset let trpljenja, vedro je polno! Gnojil sem to zemljo s krvjo iz svojih ust, s solzami iz svojih oči, s potom od svojega čela, pa mi ni rodila kruha. Morda je dežela na svetu, ki je bolj blagoslovljena; ali če je ni — smrt je tolažnica doma in drugod!“</p>
+            <p>Rekel je fant:</p>
+            <p>„Zbogom, ti črna domovina, ti lačna in žejna mati, ki stojiš na pragu, gledaš za svojimi sinovi in si ne upaš, da bi jih klicala! Nate bom mislil, dokler bo še v srcu kaplja krvi. Če umrješ, bom za mašo dal in te bom hranil v zvestem spominu; če pa se kdaj povrnem, ti prinesem kruha in vina, mašne bukve in pisano ruto. Vse sem ti dal in vse bi ti dal, le svoje mladosti ti dati ne smem!“</p>
+            <p>Dekle je reklo:</p>
+            <p>„Ne glej me tako žalostno, ti lepa domovina, nikar se ne jokaj ob slovesu! Dala sem ti srce in vse najmilejše misli — zakaj bi terjala, o domovina, še moja rdeča lica in moja mlada leta? Kakor zadnja postelja si, domovina, in kakor pokopališče: v daljne kraje se napoti romar, da užije življenje; povrne se k tebi, kadar je bolan, večnega počitka željan!“</p>
+            <p>Kurent je poslušal te pesmi in grenko se mu je storilo pri srcu. Nikoli še ni videl domovine <pb facs="#WIKI00397-075" n="75" xml:id="pb.076"/> tako puste in žalostne; kamor se je oko ozrlo — samo sivo, od neprijaznega sonca opaljeno kamenje; gomila ob gomili, brez konca. Žgalo je sonce z neba, Kurenta pa je zeblo od groze.</p>
+            <p>Cesta se je nagnila, spustila se je v breg. Globoko doli, tam daleč v sončni svetli megli se je zalesketalo mesto. In za mestom — pripogni se, koleno; obstrmi, oko; beseda, blagruj Gospoda! za mestom brezkončno morje, veselje brezkončno, brezkončna svoboda! Kakor okamnela je procesija — vse oči so zamaknjene hlepele v daljavo, zakoprnela so srca v odrešenje. Takrat, v najvišjem hrepenenju, so romarji občutili in spoznali vso svojo bridkost.</p>
+            <p>„Od tod — pa če v smrt ali v paradiž!“</p>
+            <p>In Kurent sam je vzkliknil z njimi:</p>
+            <p>„Na pot! Še črna smrt bi bila temu srcu paradiž.“</p>
+            <p>Šel je pred njimi kakor apostelj pred učenci. In njegove gosli so pele.</p>
+            <p>„Na pot! Nič ne izprašuj — ali na desno ali na levo, ali na sever ali na jug! Ne vprašaj, romar, za ljubezen, ne za vdanost, ne za zvestobo; le eno imaš, kar je tvoje; to ohrani: življenje! Vse si izgubil, vse si zapravil, gol si in lačen; reši to zadnje bogastvo, ne mudi se, beži!“</p>
+            <p>Lahke in urne so bile romarske noge, veselo upanje jih je priganjalo. Oči so bile svetlejše, zvedrila so se lica.</p>
+            <p>„V Ameriko!“</p>
+            <pb facs="#WIKI00397-076" n="76" xml:id="pb.077"/>
+            <p>„V odrešenje!“</p>
+            <p>„Kamorkoli!“</p>
+            <p>Pesem, mladost, upanje — kakor svetel plamen je planilo do neba. Več ni bilo nagubanih lic, ne objokanih oči, ne trepetajočih nog. Napotili so se bili črni pogrebci; ko so prišli do cilja, so bili beli svatje. Sonce pred njimi in brezkončna svoboda, za njimi ječa in noč.</p>
+            <p>„Na barko! Na pot!“ ...</p>
+            <p>Kurent je gledal za njimi, za veselimi romarji, ki so jadrali v deveto deželo. Še je slišal njih vriskanje, še je videl sončna jadra. Ali prišel je po nebu siv oblak in je zasenčil barko. In takrat je Kurent videl: oči romarjev, življenja željnih, so bile vse solzne, strmele so na puste laze, na goli kamen. In slišal je Kurent njih pesem: „Še zadnjikrat se nam nasmej, o domovina, uboga, nadvse ljubljena! Nasmej se nam mrtvim! Kaj je brez tebe veselje, mladost in življenje?“</p>
+            <p>Temnejši je bil oblak, vsa črna je bila barka. Oči so ugasnile, pesem je utihnila; v sivo meglo je utonila barka — tako utone upanje v bridkosti.</p>
+            <p>Kurent je pokleknil, z vsem životom se je zgrudil, udaril se je s čelom na sivi kamen.</p>
+            <p>„Zemlja, zemljica, mati! Če nimaš kruha, daj mi kamen; še ob kamnu bom prepeval!“</p>
+            <p rend="center">* * *</p>
+            <pb facs="#WIKI00397-077" n="77" xml:id="pb.078"/>
+            <p>Tisto noč, ko se je Kurent v samoti razjokal, so planile temne sanje čez slovensko deželo. Oči so se nenadoma odprle in so obstrmele, lica so obledela in mraz je segel v srce.</p>
+            <p>Žarko je sijala mesečina. Izza tujih gora pa se je vzdignila senca tako mogočna, da je zatemnila vse nebo. Sama smrt je bila, črna in gola, na glavi pa je imela veseljaški klobuk. S silnimi koraki je šla od hriba do hriba, v levici je zibala gosli, v desnici je držala lok. In njena pesem je bila kakor posmehovanje ubogim, zaničevanje žalostnim, zasramovanje upajočim. Trdo je šla od hriba do hriba in njene noge so bile do kolen oškropljene od nedolžne krvi. Kamor je stopila, so se bajte rušile, je trava venela, so padali gozdovi.</p>
+            <p>Za njo pa je stopal, natanko po njenih stopinjah je hodil bosjak nebogljenec. Hlače so mu segale komaj do kolen in prevezane so bile z vrvjo, na cesti pobrano. Gologlav je bil in golorok, v lica bled in bolan; pod pazduho je tiščal harmoniko. Njegove oči so gledale žalostno in solza za solzo je kapala iz njih. Kamor je taka solza kanila, je vela trava ozelenela, so gozdovi zašumeli, so mrtve bajte čudežno oživele.</p>
+            <pb facs="#WIKI00397-078" n="78" xml:id="pb.079"/>
+            <p>Šla je senca s silnim korakom preko vse dežele; tisoč plahih oči je strmelo nanjo, tisoč prestrašenih src je molilo. Obadva, smrt in godec, sta tiho utonila v daljno noč. Hladen veter je zapihal od severa, zamolklo je v gozdovih zabučalo ... Kaj je že minila polnoč? Kaj je čas in ura, da se izpolni to trudno tisočletno hrepenenje? ... Glej, oko, razveseli se in upaj — ali se ne drami zarja na vzhodu? ...</p>
+            <p>
+               
+            </p>
+            <pb facs="#WIKI00397-079" n="79" xml:id="pb.080"/>
+            <p>„Za tisoč ur le ena ura.“</p>
+            
+               <l xml:id="l.6">Zgodilo se je včeraj — védi Bog,</l>
+               <l xml:id="l.7">če včeraj ali če pred tisoč leti:</l>
+               <l xml:id="l.8">nebó se žarko nad menoj zasveti;</l>
+               <l xml:id="l.9">zvonovi zazvoné, vse naokrog</l>
+            
+            
+               <l xml:id="l.10">puščava prej, zdaj spomladanski log —</l>
+               <l xml:id="l.11">o Bog, ki si mi velel koprneti,</l>
+               <l xml:id="l.12">o Bog, ki si ukazal mi trpeti,</l>
+               <l xml:id="l.13">spoznal sem tvoj ukaz. Jaz, ves ubog</l>
+            
+            
+               <l xml:id="l.14">od vekomaj — kdo bogatejši zdaj</l>
+               <l xml:id="l.15">od mene? Bratje, jaz sem gledal raj!</l>
+               <l xml:id="l.16">In če ugasne luč na vekomaj</l>
+            
+            
+               <l xml:id="l.17">in če se vse noči razgrnejo</l>
+               <l xml:id="l.18">in če se zvezde vse utrnejo,</l>
+               <l xml:id="l.19">ostane v srcu mojem njen sijàj.</l>
+            
+            <pb facs="#WIKI00397-080" n="80" xml:id="pb.081"/>
+            
+               <l xml:id="l.20">Na vekomaj ostane, kar je bilo,</l>
+               <l xml:id="l.21">kar je svetilo en trenotek sam. —</l>
+               <l xml:id="l.22">Odkar je Bog ukazal tem nogám:</l>
+               <l xml:id="l.23">Hodíte! — se je sonce omračilo</l>
+            
+            
+               <l xml:id="l.24">in oslepelo je oko blodilo,</l>
+               <l xml:id="l.25">strmelo v noč, prosilo: kjé pot, kam?</l>
+               <l xml:id="l.26">Molčala noč! — Oj truden! Oj, od rám</l>
+               <l xml:id="l.27">ni padla butara! Še je molilo</l>
+            
+            
+               <l xml:id="l.28">to srce verno: saj ni tvoj ukaz,</l>
+               <l xml:id="l.29">o Bog, da moja trdna vera mine;</l>
+               <l xml:id="l.30">daj luči! — Noč molči! — In na obraz</l>
+            
+            
+               <l xml:id="l.31">sem pal in sredi gluhe te noči</l>
+               <l xml:id="l.32">je srce vzkriknilo od bolečine,</l>
+               <l xml:id="l.33">zavpilo je v nebesa: luči ni!</l>
+            
+            <pb facs="#WIKI00397-081" n="81" xml:id="pb.082"/>
+            
+               <l xml:id="l.34">Luč je in Bog je, radost in življenje!</l>
+               <l xml:id="l.35">Svetlejši iz noči zasije dan,</l>
+               <l xml:id="l.36">življenje mlado vrè iz starih ran</l>
+               <l xml:id="l.37">in iz trohnobe se rodi vstajenje.</l>
+            
+            
+               <l xml:id="l.38">V nečisto noč, v sramoto in ihtenje</l>
+               <l xml:id="l.39">zapel je glas od angelskih poljan —</l>
+               <l xml:id="l.40">en žarek je iz večnosti poslan,</l>
+               <l xml:id="l.41">svetlobe večne slavno oznanjenje. —</l>
+            
+            
+               <l xml:id="l.42">Vsi vi, skoz mrak pod križem vzdihujoči,</l>
+               <l xml:id="l.43">vsi vi, strmeči nemi v črna tla —</l>
+               <l xml:id="l.44">prišlo je znamenje! V tej zadnji noči</l>
+            
+            
+               <l xml:id="l.45">zablisnilo se je od vrh nebá —</l>
+               <l xml:id="l.46">vstanite, vriskajoči in pojoči:</l>
+               <l xml:id="l.47">pozdravljena, nebeška glorija!</l>
+            
+         </div>
+      </body>
+   </text>
+</TEI>

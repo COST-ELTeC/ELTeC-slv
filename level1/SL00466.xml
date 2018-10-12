@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SL00466">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> Glagoljaš Štipko.  : ELTeC edition</title><author>Bohinjec, Peter (?-?)</author>
+            
+            <respStmt>
+               <name>Domen Kermc</name>
+               <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
+            </respStmt>
+         </titleStmt>
+         
+         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <sourceDesc>
+            <bibl><title>Glagoljaš Štipko</title><author>Bohinjec, Peter</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Glagolja%C5%A1_%C5%A0tipko</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-3UDQWKRR</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
+         <langUsage><language ident="sl">slovenščina</language></langUsage>
+         
+      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/></textDesc></profileDesc>
+      <revisionDesc xmlns:t="http://www.tei-c.org/ns/1.0"><change when="2018-10-11"><name>Lou Burnard</name>: converted to ELTeC
+           </change>
+         <change when="2015-09-26">
+            
+            <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
+         <change when="2013-11-29">
+            
+            <name>Domen Kermc</name>: pretvorba v TEI P5.
+      </change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <text xml:lang="sl">
+      
+      <body xml:lang="sl">
+         <pb facs="#WIKI00466-001" n="1" xml:id="pb.001"/>
+         <div xml:id="wv-I.">
+            <head xml:id="head.1">I.</head>
+            <p rend="indent small">Čreteški gospodje delajo v županiji Zagrad težave cerkvi.</p>
+            <p rend="align(right) italic small">Zahn, Cod. Fris. 191, fol. 6 in 7.</p>
+            <p rend="indent small">Brižinski škofje so posedali županijo Zagrad z 28 vasmi v okolici trga Gotnega brda.</p>
+            <p rend="align(right) italic small">Zahn, Cod. Fris. Nr. 241, l. 44—55, odd. „Liber praedialis in Marchia“.</p>
+            <p rend="indent small">Zakonik „Saško ogledalo“ obsega nekaj stavkov, ki so vsekako polni protislovij in nespametni ali se celo upirajo naravnemu pravu.</p>
+            <p rend="align(right) italic small">Emil Michael, Geschichte des deutschen Volkes im 13. Jahrhundert, str. 298.</p>
+            <p>Tam gori na Krtinvrhu, doli pod vasjo, na zeleni grivi, pod belo-rdeče cvetočo črešnjo, je slonel Fric, čreteški gospod. Slonel je na malem, turškem konjiču, ki je stal nepremično poleg črešnjevega debla in zrl tja doli po dolini. Njegov gospodar pa je gledal tja gor črez gorski greben na sivo, staro zidovje, svoj rojstni dom. Leva noga mu je slonela na desni, ob petah pa so se blesketale srebrne ostroge. Usnjate golenice, lepo nabrane na gube, so se potezale tja gor do kolen, na prsih se je lesketal srebrn, z zlatom obdelan oklep, ob ramah pa mu je visel modro-zelenkast <pb facs="#WIKI00466-002" n="2" xml:id="pb.002"/> plašč. Šlem je držal v levici, sloneči na sedlu, z desnico pa je trgal belo-rdeče cvetove raz vejo ter jih pritiskal na nosnice. Dolgi, plavi lasje so se mu vsipali po tilniku, rdeče ustnice so kazale nekoliko grenak, pa drzen nasmeh. Zagorela lica so razodevala krepkost in utrjenost, šilast nos se je dvigal nad rmenimi brkami, in izpod belih obrvij so modre oči sijale tja v spomladni svet tako živo, pa zamišljeno. Čreteški vitez je bil mož pri tridesetih letih.</p>
+            <p>Solnce je že davno prekoračilo svoj jutranji krog, ko se je Fric še oziral na Čreteški grad. Videlo se mu je, da razmišlja težko vprašanje. Dostikrat je z dlanjo pomel zagorelo čelo, kakor bi hotel ohladiti prevroče možgane. Naposled stisne pest, zavrti roko, jo stegne in zapreti proti sinji daljavi:</p>
+            <p>„Nikoli! Preje se obrne potok Radulja, kakor obrnem jaz. Filipu gre pravica, Otokarju palica!“</p>
+            <p>Cvetje se je usulo raz vejo, ob katero je vitez zadel s svojim šlemom, sedlajoč svojega ljubljenca, turškega šarca. Bilo je res spomladi, nove spomladi, ko je čreteški Fric zažarel v novi zarji novega upanja. Uklonila se je bliskoma njegova glava pod košato vejo, a ni se uklonila njegova volja, in zakletev, ki jo je izustil, je blagoslovilo črešnjevo cvetje. Tri čebele so se usule iz črešnjevega cvetja in se pognale za odjahavšim vitezom, kakor bi mu hotele odvzeti blagoslov. Toda čebele so se vrnile v cvetje na črešnjo, vitez pa je podil svojega šarca tja dol v ozko dolino.</p>
+            <p>Hitro je bežal skozi Kakenc ob potoku, pri Poljancah pa je zavil navzgor, jahal mimo cerkve sv. Tomaža in kmalu se je ustavil v Zagradu.</p>
+            <p>Prostorna lesena hiša je imela več pivcev. Ob mizi pri vratih je sedelo nekaj kmetov, pri mizici v kotu pa sta sedela krčmar Libenštajnar in domači vikar „oče Štipko“. Vsi so osupnili, ko zagledajo pri oknu čreteškega gospoda. Krčmar hitro steče iz hiše, pozdravi viteza z globokim poklonom in prime konja <pb facs="#WIKI00466-003" n="3" xml:id="pb.003"/> za povodce, da ga spravi v hlev. Vitez pa prirožlja skozi vežo v hišo. Kmetje ga spoštljivo pozdravijo, oče Štipko pa mu hiti nasproti in mu poda svojo desnico.</p>
+            <p>Krčmar se vrne z lepo pisano majolko, kmetje plačajo in odidejo, Čreteški gospod pa sede poleg male mize, odloživši šlem in ščit.</p>
+            <p>„Dobro vince in dosti pivcev, kaj ne Libenštajnar?“ začne vitez.</p>
+            <p>Krčmar z orjaško postavo in širokim klobukom se ponižno skloni, pa ne obrne očij v nagovarjalca.</p>
+            <p>„Že gre, že, milostivi gospod, pa le počasi, ker imam veliko družino, pa premalo zemlje.“</p>
+            <p>„Zemlje dovolj, obdelane in neobdelane,“ odgovori vitez in potegne iz majolke.</p>
+            <p>„Ta-le Mate iz Hrastja ima lepo njivo poleg moje za vasjo. Pa bi jo prodal, toda ne sme je, ker je Sloven. Sloveni pa ne smejo prodajati svoje zemlje, samo mi Bavarci in Karantanci,“ nadaljuje krčmar.</p>
+            <p>„Čegav podanik pa je Mate?“</p>
+            <p>„Brizinskih škofov.“</p>
+            <p>„To ni nemogoče,“ odvrne spet Čreteški, „saj veš, da je travnik v Zalogu tudi moja last, pa prej je bila last škofova.“</p>
+            <p>Pri teh besedah dvigne Libenštajnar svoje sive oči, ki se ujamejo z vitezovimi. Razumela sta se.</p>
+            <p>A tudi oče Štipko dvigne svoje črne oči in jih zapiči v krčmarjeve.</p>
+            <p>Pa krčmar je spet gledal v tla, kakor po navadi. Udomačeni volk, privezan na lanec pri hišnih vratih, je nekaj zagodel, ko krčmar odide po drugo majolko.</p>
+            <p>„Zakaj si zamišljen, oče Štipko?“</p>
+            <p>„Gospodine, glej da ne delaš krivice,“ odvrne zagrajski vikar.</p>
+            <p>„Ne skrbi za-me, oče Štipko! Veš, jaz sem bil mnogo let vazal češkega kralja Otokarja, in tam gori v Pragi smo se učili tudi prava in tisti saksonski in <pb facs="#WIKI00466-004" n="4" xml:id="pb.004"/> švabski zakonik sem dobro premlel. Zato nikar ne misli, da nimam vesti.“</p>
+            <p>„Ali meni je pravil moj dobrotnik, moj župnik in naddijakon Tiberij v Beli cerkvi, da so papeži obsodili več poglavij saksonskega postavodajalca,“ odvrne vikar.</p>
+            <p>„Le nikar meni ne pravi tega, oče Štipko! Ti ne razumeš dosti o saksonskem zakoniku, ti si samo slišal nekaj o tem govoriti. V mladih letih si pasel koze po Gorjancih in ker si bil priden deček, te je župnik Tiberij vzel k sebi. Tisti pop v Gorjancih te je naučil brati glagolske črke in slovenske liturgije. Škof te je mazilil in tako si postal mašnik „glagoljaš“. Pa ne zameri: Teh študij nimaš kakor moj stric Nikola, ki je gotnobrdski vikar.“</p>
+            <p>Vikarju je plalo srce pri vitezovih besedah. Potegnil je globoko iz majolke, se premagal in odgovoril mirno: „Seveda si ti bolj učen kakor jaz, še učenejši je tvoj stric Nikola, pa tudi on ti ne bo drugače povedal kakor jaz, k večemu v drugačni obliki. Resnica božja pa le ostane ista.“</p>
+            <p>„In ta resnica je, oče Štipko?“</p>
+            <p>„Da krivice ne sme nihče delati, tudi kralj ne.“</p>
+            <p>„III. knjiga, člen 57, § 1. „saksonskega zrcala“ govori: „Cesarja ne sme niti papež niti kdo drugi prokleti, kakor hitro je posvečen, izvzemši tri slučaje: ako je sumljiv krive vere, ako zavrže svojo pravo ženo ali cerkve podira.“</p>
+            <p>V tem vstopi krčmar. Vitez pa nadaljuje:</p>
+            <p>„Ali ni res, Libenštajnar? Moj stric ima dovolj imetja od doma, ima lep vikarijat in mu je že svetokrižka župa zagotovljena, ta moj prijatelj Štipko pa nima drugega kakor da je posvečen na naslov brižinskih škofov in da pobira tista zrna okrog kmetov in tiste piščance okrog kmetic. To vendar ni pravica?“</p>
+            <p>„Nikakor ne, milostivi gospod! Naš dobri oče Štipko zasluži kaj boljšega. In bode tudi sprejel, ako <pb facs="#WIKI00466-005" n="5" xml:id="pb.005"/> mu jaz preskrbim boljšo nadarbino, kaj ne da, oče Štipko?“</p>
+            <p>Skromni glagoljaš ni spoznal hinavščine v vitezovih in krčmarjevih besedah. Zato tudi ne odgovarja naravnost, ampak samo pristavi:</p>
+            <p>„Vsak bodi s svojim stanom zadovoljen. Jaz se čutim čisto srečnega v zagrajski župniji in želim le, da bi duh sv. očeta Frančiška prodrl v vsako srce kristjanovo. Tri želje pa imam vendar-le, ki so mojemu srcu posebno prirastle, a ne vem, bodo-li izvedljive?“</p>
+            <p>Čreteški in Libenštajnar radovedno odpreta svoje oči in prvi popraša:</p>
+            <p>„Katere so neki te želje?“</p>
+            <p>„Prva želja je, da bi ne bilo nobenega pogana več v zagrajski duhovniji, predno jaz umrjem. Druga želja je, da bi videl Asisi in bi bil deležen odpustkov Porcijunkule, cerkve blaženega očeta Frančiška, ki je umrl v duhu svetosti 1226. In tretja želja je, da bi se pridružil križarjem, da bi videl sveto deželo in da bi tam umrl za sv. vero Kristovo.“</p>
+            <p>Nekak svet sijaj je potegnil črez obličje Štipkovo, njegova dva tovariša pa sta ostrmela nad njegovimi besedami in spoštovala sta ga v dnu srca še bolj kakor poprej, dasi jima posvetne skrbi niso pripustile, da bi glagoljaš Štipko osvojil srca neznačajnega viteza in propalega krčmarja.</p>
+            <p>„Koliko poganov pa je še po naših hribih?“ popraša Libenštajnar, da bi pretrgal molk.</p>
+            <p>„So še, ali najbolj trdovratna je vdova Jela tam na Jelendolu,“ odvrne vikar. „Ta ima največ veljave in če bi ta krenila in njeni dve hčeri, tedaj bi kmalu začeli krščevati.“</p>
+            <p>„A Jela, to poznam dobro. Kupil sem že večkrat ovce od nje,“ pristavi krčmar. „Gotnobrdski Kočijan je njen brat.“</p>
+            <p>„Pa ta je kristjan,“ reče vikar.</p>
+            <pb facs="#WIKI00466-006" n="6" xml:id="pb.006"/>
+            <p>„O, tega poznam dobro, še bolj pa njegovo hčer Nilo, ki je lepa kakor gorska vila.“</p>
+            <p>In Čreteškemu so se zaiskrile oči kakor orlu, ki razpne svoje peruti nad nedolžnim plenom.</p>
+            <p>Oče Štipko pa se dvigne s stola in pravi:</p>
+            <p>„Libenštajnar, koliko sem dolžan? Moram iti po opravilih.“</p>
+            <p>„Ti ne plačaš ničesar, oče Štipko! Bog te obvaruj!“ reče vitez.</p>
+            <p>„Pa tudi vaju Bog blagoslovi!“</p>
+            <p>Vikar odhaja, pri vežnih vratih pogladi priklenjenega volka, ki se mu prijazno dobrika in liže njegovo belo roko.</p>
+            <p>„Tako so bile Frančišku Asiškemu pokorne divje živali,“ premišljuje oče Štipko, korakajoč proti domu. „Pa on jih ni priklepal na verige kakor ta Libenštajnar.“</p>
+            <p>A tudi čreteški Fric je kmalu za vikarjem odjahal proti Škocijanu. Tam se zglasi v mlinu.</p>
+            <p>Škocijanski mlinar Amalrik je bil njegov podložnik. Tega mlina se je po krivici polastil čreteški gospod. Ljudje so ga podarili cerkvi sv. Nikolaja na Otoku. Bil je nekak zadružni mlin, in vsi kmetje v bližini so imeli pravico do njega. Imeli so natančno postavo, po kateri so mleli. Od takrat in od te postave tudi prihaja pregovor: „Kdor prej pride, prej melje.“</p>
+            <p>„Amalrik, ali poznaš brodarja v Grotnem brdu?“ popraša Čreteški.</p>
+            <p>„Kaj bi ga ne poznal, Kocijana? To je brat tiste velike vdove na Jelendolu.“</p>
+            <p>„In poznaš Kočijanovo hčer?“</p>
+            <p>„Kaj bi je ne, milosti vi gospod. Kolikokrat sem že pil v Kocijanovi gostilni. Prav dobra vina ima.“</p>
+            <p>„Pa hči stanuje onkraj mosta; ali veš za hišo?“</p>
+            <p>„Kaj bi ne! Majhna hišica je, kakor tičnica. Pa tam je samo po noči. Po dnevu je takraj mosta, v gostilni.</p>
+            <pb facs="#WIKI00466-007" n="7" xml:id="pb.007"/>
+            <p>„In kdo je še po noči v tisti tičnici?“</p>
+            <p>„Kaj bi ne vedel? Neka stara dekla je. On pa spi po navadi v brodarski hiši.“</p>
+            <p>„Dobro. Danes teden ob tej uri bodi pripravljen! V rimskem gradišču pri Stari vasi bodeta pripravljena konja. Hlapec te bo tam čakal. Jaz pa bom vaju čakal do polnoči v gradišču pri Zloganju. Drugo veš.“</p>
+            <p>„Vse se zgodi, kaj bi se ne?“</p>
+            <p>Nekaj zlatov se je zasvetilo v Amalrikovi roki, jezdec pa je že dirjal proti Gotnemu brdu.</p>
+         </div>
+         <div xml:id="wv-II.">
+            <head xml:id="head.2">II.</head>
+            <p rend="indent small">V slovenski marki je bil kraj Gotnobrdo (Gutenwert), ki je zraslo pod brižinsko vlado (1251) v trg in v katerem se 1254 in 1267 sodnika Gebhard in Uzold imenujeta.</p>
+            <p rend="align(right) italic small">Dimitz, Geschichte Krains, I., str. 173.</p>
+            <p>Fric je bil drugi sin Otlina, čreteškega gospoda. Starejši Ortolf je prevzel Čreteški grad po svojem očetu, Fric pa je bil malo doma in še ob očetovi smrti — takrat mu je bilo 22 let — je odšel od doma ter se je največ mudil v Pragi pri češkem kralju Otokarju, ki je posebno rad sprejemal pod svojo streho tuje plemenitaše, zlasti Nemce. Tako je bil tudi Fric Čreteški njegov zvesti vazal ali podanik ter mu je kot vdan dvornik stal na strani v državnih in vojnih zadevah. Prišel je v Prago 1255. leta ter se je udeleževal vojske zoper Pruse. Odlikoval se je v ti križarski vojski s hrabrostjo in spretnostjo, razbijal poganske malike na tistem kraju, kjer so Prusi nekoč ubili sv. Vojteha. Ravno tako se je 1260. leta odlikoval v vojski zoper ogrskega kralja Belo, ki ga je češki kralj Otokar popolnoma premagal in mu vzel štajersko deželo.</p>
+            <p>Leta 1269. 27. oktobra je umrl koroški vojvoda Ulrik, ki je zapustil Koroško in Kranjsko s Slovensko <pb facs="#WIKI00466-008" n="8" xml:id="pb.008"/> marko vred češkemu kralju Otokarju. Lastil si je pa te dežele tudi Filip, brat Ulrikov, ki se je pripravljal na duhovski stan in je bil že imenovan za oglejskega patrijarha. Pa češki kralj je premagal Filipa, se polastil Ljubljane in postal gospodar črez Koroško, Kranjsko in Slovensko marko. Tudi v tem boju je stal Fric, kakor tudi njegov brat Ortolf, na strani Češkega kralja. Pa ne ves čas. Ko je šla kraljeva vojska od Slovenjega gradca črez Savinjsko dolino v Slovensko marko, se je Fric postavil na stran Filipovo. Spoznal je, da se Filipu godi krivica in da bi le on moral biti postavni naslednik Ulrika, svojega brata, ki je umrl brez otrok. Še bolj važen razlog pa je bil ta, da so bili brižinski škofje na Otokarjevi strani. S temi so si bili čreteški gospodje vedno v laseh. Ti roparski vitezi niso radi gledali mirnega razvoja posestev brižinskih škofov. Ortolf je sicer ostal na strani Otokarjevi, a proti svojemu bratu ni postopal tako, kakor se je kazal pred kraljem, in je dostikrat na skrivnem odobraval nastop brata Frica, roparskega viteza in pustolovca. Zlasti so Čreteški radi gazili pravice brižinskih škofov, ki so imeli svoja posestva v Slovenski marki. Klativitez Fric pa je bil kakor nalašč za orodje, s katerim so Čreteški posegali v pravice brižinskih škofov.</p>
+            <p>Takrat državno-pravno razmerje ni bilo tako urejeno kakor dandanes, in vsak si je moral pravico sam priboriti. Veljala je bolj pravica pesti kakor kaki stalni državno pravni zakoni. Le mesta in trgi so imeli že bolj urejene razmere in so svoje podložnike sodili po gotovih zakonih.</p>
+            <p>Središče Slovenske marke je bil takrat trg Gotnobrdo. Krka je pred sedemsto leti ubirala drugo strugo na sedanjem Otoku, in hiša pri hiši se je kopičila ob njenih bregovih. Kamenit most je vezal reko, in okrog hiš se je raztezal visok zid z dvojnimi vratmi. Proti severu so stala „karantanska“ vrata, proti jugu pa <pb facs="#WIKI00466-009" n="9" xml:id="pb.009"/> „hrvaška“. Ob obojnih vratih je slonel močan stolp, po zidovju so bile narejene široke odprtine in na šesterih vogalih so čepeli podolgovati pomoli kakor lastavičja gnezda.</p>
+            <p>Proti severa zunaj trškega ozidja se je raztezala vasica Dobrove s starodavno rimsko cesto, pred karantanskimi vratmi je bil zarezan globok pa širok jarek. Na bregu je stala lesena hiša, stanovanje brodarjevo, hrastov brod je prevažal vozove in ljudi črez kanal v trg, po strugi pa so drčale tudi večje ladje pod visokim, kamenitim mostom.</p>
+            <p>Trg je imel dve cerkvi. Na vzhodni strani je blestel zvonik sv. Nikolaja, varuha čolnarjev, na zahodni strani je stala cerkvica sv. Katarine. Okrog sv. Nikolaja so trgovci in rokodelci imeli svoje hiše, tudi župnišče in občinska hiša je stala pred cerkvijo. Okrog sv. Katarine so bile hiše skoro vse zidane. V tem koncu trga je stanoval Eberhart, oskrbnik brižinskih škofov, tu so stale palače nekaterih plemenitašev, tudi čreteški Fric je imel tu svojo hišo.</p>
+            <pb facs="#WIKI00466-010" n="10" xml:id="pb.010"/>
+            <p>Trg Gotnobrdo je stal na otoku, deloma tudi ob južnem obrežju Krke ter je bil last brižinskih škofov, v cerkvenem oziru pa je spadal, kakor vsa Slovenska marka, pod Oglej. Podaniki brižinski so bili Slovenci in Nemci (Bavarci in Karantanci). V Slovenski marki je bilo največ Slovencev, ki so bili koloni, Karantanci so smeli svojo zemljo tudi prodajati. Imeli so v Zagradu svojo župnijo, h kateri je spadalo 28 vasi, ki so zvečine sedanje vasi škocijanske fare. Škocijan je bil takrat še podružnica s kapelo sv. Magdalene. Fara je v 13. stoletju imela svoj sedež še v Beli cerkvi. Župnik Tiberij je bil l. 1269 ob enem naddijakon za vso Slovensko marko. Gotnobrdo je imelo svojega vikarja z dvema pomočnikoma. Vikar Nikolaj je bil sin Bertranda, čreteškega gospoda. Pa tudi podružnica sv. Tomaža v Zagradu je imela svojega vikarja — glagoljaša Štipka.</p>
+            <p>Trg Gotnobrdo je imel od l. 1251 tudi sodno oblast. Gotnobrdski sodniki so smeli soditi ubijalce, roparje, tatove, nasilnike. 1269. leta je nosil sodniško žezlo Uzold. Sodnik je bil čislana oseba, in ko so ga svetovalci po izvolitvi spremljali domov, je zvonilo pri obeh cerkvah in so mu napravili veliko pojedino. Za tistih časov, ko je odločevala dostikrat samovoljnost bolj kakor pravica, so dobila mesta in trgi od deželnih knezov s sodno oblastjo najdragocenejšo svoboščino.</p>
+            <p rend="center">* * *</p>
+            <p>Pa vrnimo se k našemu jezdecu iz čreteškega gradu.</p>
+            <p>Gost mrak je že bil, ko se ustavi na Bregu pred brodarjevo hišo.</p>
+            <p>„Hej, Grga kje si?“</p>
+            <p>Iz male kolibe pomoli glavo brodar Grga.</p>
+            <p>„Mha, milostivi gospod, gremo črez, mha?“</p>
+            <p>„Priveži kam mojega konja pa mu daj zobati.“</p>
+            <p>„Mha, takoj, milostivi gospod!“</p>
+            <p>„Ali je Nila še tu?“</p>
+            <p>„Mha, je, milostivi!“</p>
+            <p>„Mha, Grga ni tako neumen, kakor se dela. Ponirek je že na oni strani, a zdaj grem po putko in to putko pa spravim v čoln, v tisti čoln, ki ima malano streho nad sabo.“</p>
+            <p>Tako govori Grga sam s sabo, pa ko priklepa brod, že čuje droben glas.</p>
+            <p>„Mha, gospodarica moja, veselje moje, dobrota moja, golobica krasna! Le sem pod malano streho, da te rosa ne zmoči, da te jastreb ne zagleda, da te Krka ne oškropi.“</p>
+            <p>Tako je govoril skrbni, zvesti Grga, Kocijan in Nila pa sta še govorila na vežnem pragu.</p>
+            <p>„Ah oče, mene tako nekaj skrbi, reče Nila in zre v zeleno Krko. Mesec se je prikazoval izza oblakov <pb facs="#WIKI00466-011" n="11" xml:id="pb.011"/> in ribe so pomaljale svoje glavice izpod površja. Po trgu je bil še šum, zunaj pa je vladala smrtna tišina.“</p>
+            <p>„In kaj te skrbi, ljuba moja hčerka?“</p>
+            <p>„Ta čreteški Fric je res ljubezniv mladenič, pa se ga bojim. Tako se dela domačega, pa čenča vsake vrste pametne in nespametne.“</p>
+            <p>„Kaj pa pravi?“</p>
+            <p>„Pravi, i no, pravi, da bi morala biti njegova. Za rožo me je prosil, pa mu je nisem hotela dati.“</p>
+            <p>Deklici se je glas tresel, oče ji je pogledal v oči.</p>
+            <p>„Pa mu zaupaš?“</p>
+            <p>„Nič hudega ne mislim, pa zdi se mi, da bi umrla, ko bi tebe ne bilo poleg mene.“</p>
+            <p>Hči objame očeta.</p>
+            <p>„Nila, nič se ne boj. Prav, da nimaš skrivnosti brez mene. Saj veš, da matere nimaš več, teta tvoja pa je poganka. Toda povem ti, da bodi resna in kratkih besedi. Mlado srce se hitro vname! Iz gostilne ga ne morem zapoditi. Pa bom že jaz skrbel za njegovo družbo. Saj veš, da s tako ženitvijo ni nič. Vodi te le za nos. Bog ve, koliko jih je že šlo na njegov lim!“</p>
+            <p>„Hudega mu nikar ne stori. Dober človek je in kar nič podoben čreteški gospodi.“</p>
+            <p>Nila je posegla v žep in metala drobtinice ribicam v Krki.</p>
+            <p>„Ali je rekel, Nila, da bi te vzel v zakon?“</p>
+            <p>„Ni rekel, govoril pa je tako.“</p>
+            <p>„Pa bi ga ti vzela?“</p>
+            <p>„Oh, to mi ni prišlo niti na um. Od tebe ne grem nikamor, ljubi moj tatica! Lahko noč!“</p>
+            <p>Deklica poljubi očeta na lice in hitro stopi v čoln, ki so ga nazivali „oblak“.</p>
+            <p>„Grga, spremi jo do hiše in povej Marti, naj pride jutri pred nočjo semkaj,“ naroča Kocijan.</p>
+            <pb facs="#WIKI00466-012" n="12" xml:id="pb.012"/>
+            <p>„Mha, gospodar moj dobrotljivi, vse se zgodi po tvoji volji, samó to ne, da bi jaz za ponočnico nazaj grede ne dobil bučo vina.“</p>
+            <p>Nalahno je brodnik sukal vesli in na lahko pel kitico:</p>
+            
+               <l xml:id="l.1">Plavaj, plavaj, oblak moj,</l>
+               <l xml:id="l.2">Plavaj, kamor drago —</l>
+               <l xml:id="l.3">Samo da mi privedeš spet</l>
+               <l xml:id="l.4">Dete moje blago ...</l>
+            
+            <p>Mesec se je skril za oblake, oblaki pa so se zgostili in prve kaplje dežja so padale na površje zelene Krke. In te kaplje so bili samo mehurčki, ki so se prikazovali na vodi, pa so trenotno izginjali ... Kakor bi jih ne bilo.</p>
+         </div>
+         <div xml:id="wv-III.">
+            <head xml:id="head.3">III.</head>
+            
+               <l xml:id="l.5">Je v hlevu dosti živinice,</l>
+               <l xml:id="l.6">V kleti sladko vinčice,</l>
+               <l xml:id="l.7">Denarjev v skrinji je lepo,</l>
+               <l xml:id="l.8">V hiši pivcev vse polno.</l>
+            
+            <p rend="align(right) italic small">Štrekelj, N. p. 616.</p>
+            <p>Kocijan je bil doma na Jelendolu in po rojstvu pogan. Prišel je pred dvajsetimi leti v Gotno brdo. Izpočetka je bil čolnar, pa si je napravil imetje in je bil sprejet v trško zvezo. Seveda se je dal tudi krstiti in je dobil za ženo Teklo, sestro gotnobrdskega sodnika Gebharda, prednika Uzoldovega. Nenavadna čast je bila to za katehumena Kocijana, in to čast si je tudi pošteno prislužil. Tekla mu je povila hčerko Kancijanilo, ki je izgubila svojo mater v otročji postelji. Kocijan se ni drugič ženil; bilo mu je dovolj, da je ostala hčerka pri življenju. Kocijanova sestra Jela je imela za moža Markanta, ki pa je sprejel krščansko vero in se ločil od svoje žene. Pribežal je v Gotno brdo, je ostal samec, si tudi pridobil trške pravice, pa je kmalu umrl. Sin Henrik je prišel za njim v Gotno brdo, sprejel z očetom vred krščansko vero in je postal <pb facs="#WIKI00466-013" n="13" xml:id="pb.013"/> trški rabelj, ko je trg Gotno brdo dobil sodno oblast.</p>
+            <p>Kocijan je točil novo vino. Zadaj za hišo je imel velik vinski hram, koder so se radi ustavljali potniki in tržani, pijoč mošt iz debelih buč. Tisti večer je bilo več trških mojstrov prihitelo na sladki mošt. Zdelo se jim je posebno prijetno, da so sedeli v vinski kleti po sodeh in tramovih.</p>
+            <p>Črevljarski mojster Juraj je sedel na velikem sodu, da so mu noge visele navzdol. Debelo so gledale njegove oči tja po kleti in poznalo se mu je, da rad ima veliko besedo. Na leseni legi med dvema kadema je čepel pekar Tomo in vrtel v roki bučin rep. Na nizkem sodu je držal bučo nočni čuvaj Vid, in ob nizki mizici pri vratih je stal krojač Janko ter obiral mastno kost. Tudi čolnar Grga se je povrnil iz trga in na pragu čakal gospodarjeve volje.</p>
+            <p>Krčmar Kocijan je zajemal iz globoke kadi in kolikor je zajel, toliko je ponudil. Danes ni meril natanko.</p>
+            <p>„Le pijte, možje! saj je novina — na pol zastonj, na pol za denar. Kdor pa hoče prigrizniti, naj poseže na mizo.“</p>
+            <p>Svinjska gnjat je ležala na mizi in ovčji sir z domačim kruhom.</p>
+            <p>„Le poglej, Juraj, zine krojač, včeraj je to svinjče še letalo po krakovski hosti za želodom, danes pa že nam grlo maže.“</p>
+            <p>„Naj reče kdo, kar hoče, taka-le stvar se pa strašno prileže. Le daj ga še eno bučo, Kocijan!“ izpregovori Tomo.</p>
+            <p>„Nič se ne bojte, dobra letina je. Iz mojega vinograda v Vinvrhu sem ga dobil sedem kadij, in ta mošt zdaj pijemo. Ali ni dobra roba to?“</p>
+            <p>„Mha, pa kako dobra, da se kar goltanec mehča, moj dobri gospodar! Ali meni se bolj prileže pečen kostanj kakor sir in gnjat, kadar mošt pijem,“ izpregovori brodnik Grga, na praga sedeč.</p>
+            <pb facs="#WIKI00466-014" n="14" xml:id="pb.014"/>
+            <p>„Prav, da si spomnil, Grga. Nila tudi na to ni pozabila. Pojdi k ognjišču, Grga, pa prinesi ga. Kar žrjavico razkoplji.“</p>
+            <p>Grga odide po pečeni kostanj, Kocijan pa stopi v kot in poseže v nizko kad. Zarožljalo je v kadi in krčmar prinese polno perišče orehov ter jih vsuje na mizo.</p>
+            <p>„Tudi orehi diše pri moštu; komur se poljubi, sezi po nje,“ reče hišni gospodar in stisne debel oreh s palcem in kazalcem, da se je strl.</p>
+            <p>„Močan si v rokah,“ reče krojač krčmarju.</p>
+            <p>„Kaj to,“ odvrne ta, „moja sestra Jela prime telce za smrček in ga dvigne od tal.“</p>
+            <p>„Tristo bliskov, ta babna je pa od vraga. Ni čuda, da se ji še poganski črt pase po drobovju,“ se čudi črevljar Juraj. „Saj bi nas vse pometala na tla, če bi se spoprijeli.“</p>
+            <p>„Posebno danes,“ pravi pekar Tomo, „ko nam mošt leze v lase.“</p>
+            <p>„In veste, prijatelji moji, komu se imam zahvaliti za tako dobro vince? Našemu dobremu očetu Štipku. Ta mi je prinesel trte, da sem jih sadil. Takrat je bil še v službi pri župniku Tiberiju v Beli cerkvi. Ta je dobil sadež iz nemških dežela, in Štipko mi je trte zasadil in pocepil ...“</p>
+            <p>„Bog mu daj dobro, očetu Štipku!“ oglasé se vsi, „Bog mu daj!“</p>
+            <p>„Ali ne pride nič na obiske oče Štipko?“</p>
+            <p>„Pride skoro vsak mesec k vikarju Nikolaju in takrat se oglasi tudi pri meni. Pričakujem ga vsak čas, reče krčmar samozavestno.“</p>
+            <p>„Visoko se je pospel — iz pastirja pa duhovnik,“ reče Janko.</p>
+            <p>„Ima glavo za to,“ deje Tomo. „Saj je skoro gotovo, da pride še enkrat v Gotno brdo za vikarja. Našemu očetu Nikolaju je že zagotovljena svetokriška fara.“</p>
+            <pb facs="#WIKI00466-015" n="15" xml:id="pb.015"/>
+            <p>„Ali je res, da se Štipko s Čreteškimi ne razume?“ popraša nočni čuvaj Vid.</p>
+            <p>„E, Štipko ni prazne glave, ker so mu dali vikarijat v Zagradu. On že ve, kaj dela. Res pa je menda, da je Ortolf polovico dohodkov vikarjevih obdržal zá-se. To pa se pravi kupčevati s cerkvenimi stvarmi. Naddijakon Tiberij to ve, samo škof brižinski še ne. Pa Tiberij, saj veste, se boji zamere pri vikarju Nikolaju, ki je čreteške krvi. Štipko bi se bil že davno do cela spri z Ortolfom, pa tega brat, Fric je njegov prijatelj in ta mu vse skrivaj povrne, kar mu pristoji,“ pojasnuje po svoje krčmar.</p>
+            <p>„To je greh, ki mu pravijo „simonija,“ ako kdo kupčuje s cerkvenim imetjem. Gorje, ko bi škof to vedel ... Ti čreteški roparji ...“</p>
+            <p>„Pst, tiho, noč ima svojo moč,“ pogovarja Kocijan.</p>
+            <p>„Noč ima ušesa, dan pa oči,“ mhm! izpregovori brodnik Grga, ki je prinesel v perišču pečenega kostanja.</p>
+            <p>„Kaj si kaj slišal ali videl, Grga?“ boječe vpraša gospodar.</p>
+            <p>„Mhm, videl in slišal. Tam v jelševju je nekdo držal dva konja. Eden pa je v čolnu pri veslal po Krki gori. Predno so se moje noge nehale tresti, že nisem videl drugega kakor dva človeka jahati v najhujšem diru za vasjo.“</p>
+            <p>„Kaj to pomeni?“</p>
+            <p>„To je dobro, da nisem jaz nocoj na vrsti za nočno stražo,“ oglasi se najprvo Vid.</p>
+            <p>„E, kakšni ponočnjaki so, ki lazijo za dekleti,“ reče črevljar Juraj.</p>
+            <p>„Ponočnjaki na konjih, to ne bo šlo,“ reče Janko.</p>
+            <p>„Mhm, pa na kakšnih konjih! Zlate ovratnice, medenaste uzde, srebrne podkve — to niso vsakdanji ponočnjaki.“</p>
+            <p>„Ogleduhi, kaj?“</p>
+            <pb facs="#WIKI00466-016" n="16" xml:id="pb.016"/>
+            <p>„E, bratje, pijmo, pa pojdimo! Jaz že komaj stojim. Še jutri ne bom videl šivanke vdeti,“ jeclja krojač Janko.</p>
+            <p>„Pod mano se tudi sod maje,“ pristavi črevljar Juraj.</p>
+            <p>„Nič strahu, saj imamo močnega čuvaja pri sebi,“ norčuje se črevljar dalje. „Vid nam bo še zapel pol-nočnico, pa gremo spat.“</p>
+            <p>Pa Vid je že zlezel na tla, s hrbtom naslonjen na sod. Veselje, da ni bil tisto noč čuvaj, ga je zazibalo v sladko, glasno spanje.</p>
+            <p>„Meni je vseeno, če tu spim,“ reče Tomo, „saj sem vdovec.“</p>
+            <p>Črevljar Juraj je zdrknil s soda, pa se mu je zavrtelo v glavi. Godlja sam sebi:</p>
+            <p>„Kaj bi hodil domov, ko ne bom imel mirnega spanja. Žena bo regljala celo noč. Kje je kaj slame?“</p>
+            <p>„Kočijan, pelji me na seno,“ reče krojač Janko. „Mene rado zebe po noči.“</p>
+            <p>„Mha, le z mano, ljudje božji!“ začne brodnik Grga in jih posamično zvodi z večjo ali manjšo težavo na senico.</p>
+            <p>„Tebe, šivankar, sem že večkrat nesel pod pazduho. Lahak si kakor pajčevina, smrdiš pa kakor dihur.“</p>
+            <p>„Ljubi moj Vid, kolikokrat si me že podil spat, ali vendar so tvoje noge predolge, da bi te celega naložil na rame. Mha! Noge kvišku, pa bo šlo.“</p>
+            <p>„Mha, ta boben pekarski pa misli, da bo še sam prišel na senico.“</p>
+            <p>„Mha, Juraj je pa čisto kratek. Tebe pa lahko nesem v rokah kakor otroka za plot, kadar se mudi.“</p>
+            <p>Krčmar je že spal v izbi, ko je Grga stiskal tleči stenj v olju in tudi sam stopical čez dvorišče, noseč v roki ključ od težkega kletnega zapaha. Še je pogledal okrog sebe, pogledal v bližnje jelševje potem pa zaprl vrata za sabo in legel v nizki kolibi na slamnato posteljo. Napravil je še velik križ — pa ga ni bilo več med bdečimi.</p>
+            <pb facs="#WIKI00466-017" n="17" xml:id="pb.017"/>
+            <p>Mesec je spet pogledal izza oblakov in se zabaval z ribicami, ki so poskakovale na zeleno površje reke.</p>
+            <p>Vitez pogleda skozi okence. Trska je brlela na čelesniku. Izba je bila prazna. Stopi v vežo. Ogenj je plapolal na ognjišču, pri njem pa je slonela brodarjeva hči. Vitez je bil očaran, v zadregi in ni videl, kako je brodarjev hlapec stegal za njim svojo glavo proti veži in mrmral sam sebi:</p>
+            <p>„Mha, temu vitezu diši bolj ženska glava kakor Kočijanova buča z dobro vinsko kapljico. Pa se moti. Grga je star in je videl že dosti nespametnih devic, ki niso imele olja sabo, Nila ga pa ima. Ej vitešče, tvoj trud je zaman, moj pa ne bo, če ti napasem in napojim tvoje turško kljuse. Mha!“</p>
+            <p>Zamišljena je bila Nila in niti opazila ni prihoda vitezovega. Temu pa so se iskrile oči in pohlepno je zrl v mlado deklico. Srce mu je utripalo, sapo je vlekel va-se. Pa to je bilo le za hip. Deklica se ozre, se strese, zagledavši svitlo opravo vitezovo.</p>
+            <p>„Ne boj se, deva moja! Ne prinašam nesreče. Prinesi mi majolčico sladkega vina, da pogasim žejo.“ Dekle zbeži pa prinese vina in postavi posodo na mizo v kotu.</p>
+            <p>Vitez sede, deklica pa se suče dalje ob ognjišča, pomeša v kotlu, ki je visel nad ognjem, popravlja žrjavico z drenovim količkom in odgovarja radovednemu vitezu.</p>
+            <p>Deklici je bilo 18 let. Bila je visokostasa, širokopleča, bujne rasti, bledo-rmenih lic, belih zob, širokih obrvij, visokega čela, živih, pa mirnih očij. Bila je modra v besedi, hitra v kretanju, oblečena priprosto, pa lepo. Podal se ji je vezeni nederc in dolga bela halja, pristojali so ji dolgi lasje po vitkem hrbtu in pisana čepica na glavi. V laseh je nosila trtno pero, v nedrijah cvetlico rožnico.</p>
+            <pb facs="#WIKI00466-018" n="18" xml:id="pb.018"/>
+            <p>„Koliko bi zahtevala, Nila, da bi smel vsak dan enkrat pogledati v tvoje oko?“</p>
+            <p>„Žlahtni gospod, ali ste že slišali, kako je revež bolan, tisti Tomo, ki ga je konj sunil v ledja? Obiskala sem ga, tako se mi smili ...“</p>
+            <p>„Tudi jaz grem s tabo obiskat ubogega Toma, če mi podariš rožo iz svojih nedrij.“</p>
+            <p>„Pozno je že nocoj. Ali vas ni nič strah, če pojdete sami domov?“</p>
+            <p>„Ostanem v trgu. Tam zadaj pa so veseli pivci.“</p>
+            <p>„Stari gostje očetovi, ki se najrajši spravijo v klet.“</p>
+            <p>„Nila, kaj res nimaš nobenega pogleda, nobene rože, niti besede ne za čreteškega viteza, ki koprni ljubezni do tebe?“</p>
+            <p>Nila se ozre v pivca in vprašajoč izgovori:</p>
+            <p>„Kaj se ženite, milostivi, po tako priprostih hišah?“</p>
+            <p>„Meni ni za stan, meni govori samo srce, kadar gre za ženitev.“</p>
+            <p>„Pa sem slišala od modrih mož, da mora razum vedno hoditi pred srcem.“</p>
+            <p>„Vedite, da jaz dozdaj nisem dosti razmišljala o tem. Morala bi tudi očeta poprašati za svet.“</p>
+            <p>„Govorila sva z očetom Štipkom in on je tudi teh misli, da si ti kakor ustvarjena za-me. Pravi, da se vselej zmisli na tvojo teto Jelo, kadar vidi tebe.“</p>
+            <p>Dekle je viteza pogledalo pomenljivo, ostro, da je ta povesil svoje oči. Zavedal se je, da laže in da mu Nila ne verjame, kar je zdaj povedal.</p>
+            <p>Za trenotek izgine deklica, pa se prikaže krčmar in brodar Kocijan. Lep mož, visoke rasti, z dolgo črno brado, prijazno pozdravi viteza in se opravičuje, da mora hči domov, ker se ob deveti uri zapro karantanska vrata in ona prenočuje v trgu.</p>
+            <p>Vitezu je postalo kmalu dolg čas in se tudi poslovi. Upal je, da dohiti deklico na brodu. Pa brodnik Grga je bil star lisjak, ki je dobro poznal muhe takih klativitezov.</p>
+            <pb facs="#WIKI00466-019" n="19" xml:id="pb.019"/>
+            <p>„Mha, milostivi gospod, Nila je že v svojem hramu. Škoda, da niste stopili za njo. To Vam je, kakor bi pil medico, če navaden človek govori z njo. Kaj pa še-le vi, milostivi! To vam je, kakor bi sv. Katarino snel raz oltar! Srečen bo, kdor jo dobi.“</p>
+            <p>Tako je Grga kratkočasil in begal zaljubljenega viteza. Vedel je, da ne bo zastonj. Onkraj kanala je spustil v hlačni rob svitlo desetico.</p>
+            <p>„Mha, kaj misli ta čopasti ponirek, da mu jaz prinesem na brod lepo vodno putko?“</p>
+         </div>
+         <div xml:id="wv-IV.">
+            <head xml:id="head.4">IV.</head>
+            
+               <l xml:id="l.9">Prva je b’la Zarika,</l>
+               <l xml:id="l.10">Druga je b’la Solnčica.</l>
+            
+            <p rend="align(right) italic small">Štrekelj 71.</p>
+            <p>Tam gori na Jelendolu je stanovala vdova Jela. Imela jo ovac do sto, pa tudi brez goveje živine in prešičev ni bila. Lesena hiša z belimi progami, s hrastovimi škodljami pokrita, se je skrivala med sadnim drevjem. Nebroj črešenj je rastlo po bregu, kostanji so stali za poslopjem, lesena, široka ograja se je raztezala pred hišo, hlevi, z ilom zamazani, so čepeli pod bregom ... Povsod se je poznalo, da je vdova Jela imovita.</p>
+            <p>Ravno na pragu je stala, visoka, širokopleča žena. Poleg nje se je motal na lancu priklenjen lisjak in zalajal, ko je Jela samozavestno zaklicala, da so se ji beli zobje zalesketali v ustih:</p>
+            <p>„Zarika, ali ni še Solnčica prignala domov? Solnce zahaja za goro.“</p>
+            <p>„Eh, Solnčica, ta je samosvoja. Kar ji ukažeš, stori narobe. Črti jo vladajo.“</p>
+            <p>Te besede je govorila deklica pri dvajsetih letih. Prikazala se je izza hlevovega vogla, lepa kakor zarja, ki je žarela za gorami pod nebesnim svodom. Z zelenim pasom je bila opasana okrog ledij in bele proge <pb facs="#WIKI00466-020" n="20" xml:id="pb.020"/> na svitlomodrem nedercu so se nabirale v gube, kakor bi bila prevezana s samimi trakovi. Črne obrvi nad črnimi očmi, pa belo lice in belo čelo izpod črnih kodrov. Oster nos je gledal iz podolgovatega obraza in tri jamice, dve na licih, ena na bradi, so se tako podale močni deklici ... Bila je postavna, odločna, zapovedujoča kakor mati.</p>
+            <p>Zvonci so zažvenketali ... Čreda se je bližala domov. Ovce so beketale, kozli so meketali, spredaj pa je velik kosmat pes gonil goved. Tam ob strani je stopala oslica z osličkom in prav zadaj za pastirico so gagale gosi, ki jih je gonil majhen pes jazbičar.</p>
+            <p>Pastirica je stopala za ovcami, je skakala na desno in levo, se zavrtela in spet obstala pa udarila z nogo ali s palico ob tla. Za njo je stopal mlad medved, ki se je vselej postavil na zadnje noge, kolikokrat je obstala.</p>
+            <p>Kar groza je bilo pogledati to veliko, pa tako raznovrstno družbo! Pa vse je bilo pokorno pastirici. Kar zaklicala je: Belin! In veliki kosmatin se je takoj zakadil v muhastega, mladega bika, ki ni dal miru sosedi telici.</p>
+            <p>Pasun! je zagromelo po dolini, in lepo pisani jazbičar je zgrabil razposajenega gosaka, ki je vlekel nazaj za rep staro gosko.</p>
+            <p>In to njeno oko! Kako je bilo živo, hudo, da je kar prebodlo človeka. Njen pogled je bil jastrebov, njena roka pa je zavihtela gorjačo po objestnem mrkaču, da je ta kar počenil na tla.</p>
+            <p>Solnčica je bila pastirica, Zarikina sestra, črn pas je oklepal belo haljo, v laseh pa so bile zataknjene tri rože ... Rmeni lasje so plavali po zraku in deževni plašč, iz bičja spleten, ji je visel na levi rami. Solnčica je bila dve leti mlajši od Zarike. Bila je živahna, nagla, pa hitro spet dobra, dobra tako, kakor malokdo, blaga kakor jutranja rosa, mila kakor večerna zarja. Mati je ljubila Zariko očitno, Solnčico je <pb facs="#WIKI00466-021" n="21" xml:id="pb.021"/> ljubila skrivaj. Jezila se je nad Solnčico za vsako malenkost in kadar se je, takrat ji je bilo šele dobro pri srcu, ker je Solnčico videla v njeni hudobnosti in njeni dobroti. Zelo ji je ugajal Solnčičin vzorni red pri živini in zato je malokdaj zamudila priliko, ko je deklica mnogoštevilno čredo sama obvladala.</p>
+            <p>Čreda se je v najlepšem redu razdelila in vsako živinče, kakor tudi drobnica je šla v svojo stajo.</p>
+            <p>„Bes te plentaj, kaj pa tako dolgo paseš? Saj vidiš, da je solnce za goro. Vedno je treba za te posebej večerjo na stran postavljati,“ kara mati hčerko.</p>
+            <p>„Môra vas tlači, ker ste tako sitni. Ali mislite, da je sto tako lahko voditi kakor deset?“</p>
+            <p>„Si pa že spet tistega krščenega žrca imela poleg sebe, pa si na čredo pozabila. Boginja Živa ti je bolj po volji, kakor bog pastirjev.“</p>
+            <p>„Črt vas muči! Zakaj mi očitate to, česar ne morete dokazati. Meni je celo malo mar za boginjo ljubezni. Karajte rajši Zariko, ki vsak dan bogovom zažiga kadilo, pa krščanski mladci v hlev k nji v vas hodijo.“</p>
+            <p>„Solnčica, kadar Zarika molze, takrat Uroke časti, da ji mleka ne izkvarijo.“</p>
+            <p>„Pojte ribam gost s tistimi vašimi bogovi, ki že nihče za-nje ne mara. Jaz poznam in častim samo Peruna, ki zemljo stresa, v oblakih treska, strele vžiga, solnce premika. Samo eden Bog je.“</p>
+            <p>„A tako, ljuba moja! Zdaj vidim, da ti je tisti zagrajski črnec vso glavo zmešal. Menda te bo vzel za gospodinjo! Takrat bo pa spet boginja Živa dobra. Le glej, Solnčica, da pomiriš bogove, drugače gorje ti!“</p>
+            <p>„Mamica, le hitro večerjo zame in za moje sotrudnike. Belin, Pasun, Godež, le sem!“</p>
+            <p>Solnčica sede na klop pod košati kostanj, oba psa in medvedek pa se ji laskajo. Psa cvilita, medved gode.</p>
+            <p>„Godež, pleši!“ zakliče mlademu medvedu, ki se postavi na zadnje noge in se začne vrteti. Solnčica <pb facs="#WIKI00466-022" n="22" xml:id="pb.022"/> ga pogladi po smrčku, in lep kos bravine je zletel v medvedje žrelo.</p>
+            <p>„Belin, pod trebuh Godežu!“ In Belin se splazi pod medveda, pa dobi kos kruha.</p>
+            <p>„Pasun, zajahaj!“ Jazbičar se spravi na medveda, Solnčica pa mu da v šape leseno skledico, iz katere je Pasun posrebal dekličje ostanke.</p>
+            <p>Sestra je gledala od hleva sem in se smejala poslušnim živalicam.</p>
+            <p>„Solnčica, ali ti ni nič Perun pretil, ko se je popoldne napravljalo k nevihti? Tako pozno jeseni, pa taka sopara!“</p>
+            <p>„E, kaj bi! Moje ovčice so nedolžne; ko bi pa volk prilomastil, ga z Belinom tako premikastiva, da bi tri tedne zdihoval pod krivim gabrom. Ljuba moja sestrica, sedi semkaj poleg mene!“</p>
+            <p>Zorika je prisedla in deklici sta kramljali, ko je mati že trdno spala. Medved se je umaknil v skalnato duplino pod hlevom, psa pa sta polegla v travo in dremala.</p>
+            <p>„Ali res lazi za tabo tisti mlinar iz Stare vasi, Zorika?“</p>
+            <p>„Res, pa to so samo šale. Saj veš, da mati ne privoli, da bi vzela krščanskega človeka. Sicer pravi mlinar, da bi se jaz dala krstiti, pa to ne gre. Kaj bi mati rekla, ako se ji še midve izneverive? Saj je že tako vsa naša žlahta krščanska.“</p>
+            <p>„Eh, Zorika, samo naša hiša ne bo kljubovala. Koliko pa nas je še, da verujemo starim bogovom? Komaj deset kmetov je v vsem našem pogorju. In če bi naša mati krenila, krenili bi kmalu vsi.“</p>
+            <p>„Pa ne bo, Solnčica! Le verjemi mi, da ne.“</p>
+            <p>„Pa naj ostane pri svojih lipovih bogovih, midve pa se dajve krstiti. Jaz sem premišljevala na vse strani in ti povem, da bi se prav kmalu odločila. Ta le zagrajski vikar ali kako mu že pravijo, je poštena duša, dober, kakor je dober dan v letu, goreč za svojo <pb facs="#WIKI00466-023" n="23" xml:id="pb.023"/> vero kakor solnce, čistega srca kakor brušen kamen — jaz mu zaupam. Ponižen kakor vijolica, ima potrpljenje s slabostmi, kakor nihče drugi. Oštela sem ga tako že, da bi ga Pasun ne povohal, pa on vse voljno sprejme, on išče samo zveličanje duš, kakor pravi.“</p>
+            <p>„Tudi jaz sem že govorila z njim in ne morem zanikati, kar si ti o njem povedala. Samo to mi ne ugaja, ker je prijatelj s temi Čreteškimi. To so vendar ljudje, ki so vse prej kakor kristjani. Ne poznajo poštenja, ne poznajo mejnikov, ne poznajo zakonskih dolžnosti, z eno besedo, to niso kristjani, še slabejši so kakor mi. Čemu bi torej vero menjavali?</p>
+            <p>„Ljuba moja, kaj so samo Čreteški v krstni vodi oprani? Kaj pa drugi ljudje po okolici?“</p>
+            <p>„Ne tajim, da je veliko dobrih, kakor tudi v naši veri niso vsi enaki, pa zdi se mi, kakor bi bila krščanska vera samo za ubožne, tlačane, zaničevane ljudi. Še o duhovnikih ne moremo reči, da bi bili vsi dobri. In če ima krščanska vera tako moč, zakaj pa se duhovniki vedno naslanjajo na posvetno oblast?“</p>
+            <p>Solnčica se je zamislila in ni dala odgovora. Čutila je, da pogreša očeta Štipka.</p>
+            <p>„Pustive to,“ reče naposled Solnčica. „Tega midve ne razumeve. Pojdive spat. Jaz sem trudna.“</p>
+            <p>Ko pa je zora prinesla beli dan, so jelendolske ženske kadilo zažigale hišnim bogovom in se priporočale za srečo in zdravje pri ljudeh in živini. Gospodinja je prikladala na ogenj v slavo hišnim bogovom, Zorika je Velesu, bogu pastirjev priporočala živino, Solnčica pa je ostala hladna do bogov, le bog groma ji je prilezel iz srca na jezik.</p>
+            <p>„Zorika, hitro odrini z oslico v mlin. Vse je pripravljeno, pšenica in rž, ječmen in proso. Popoldne moramo kruh zamesti.“</p>
+            <p>Solnčica je odgnala čredo na pašo in spet je bila vesela, Zorika pa je počasi korakala za oslico in dražila <pb facs="#WIKI00466-024" n="24" xml:id="pb.024"/> spotoma debeloglavega oslička, ki je tacal za svojo materjo.</p>
+            <p>Starovrški mlin je imel takrat v posesti Jurij Frolajhsdorfar, ki je prišel iz nemške dežele v ta kraj. Bil je spreten delavec in razumen gospodar. Deset let je že bival v Slovenski marki, pa na ženite v doslej ni utegnil misliti. Bil je poštenjak od nog do glave, vedrih lic, umnih rok, bistre glavice. Preobložen z delom in s skrbmi je premišljal, kako bi pomnožil delavne moči. Imel je hlapca in deklo, pa še drugih najemnikov, toda domačih ljudi ni imel. „Oženiti se moram ali pa prodati zemljišča in mlin, drugače ne morem več dalje,“ sklene sam pri sebi. Marsikatera deklica je prinesla v mlin, marsikatera bi mu ponudila roko in srce, toda njemu je bila všeč samo Zorika z Jelendola.</p>
+            <p>„Te ali nobene,“ sklene sam pri sebi. „Če me mara in če se da krstiti, je dobro. Ako ne, pa podarim vse cerkvi, sam pa grem za hlapca v župnišče ali v grad.“</p>
+            <p>Zorika je že od daleč vpila nad mlinarjem:</p>
+            <p>„Jure, ali je naše zmleto? Ako ni, grem dalje v drugi mlin.“</p>
+            <p>„Oh, Zorika, za-te je vselej pripravljeno, tudi ko bi vode ne bilo. Pa bi dal svojo moko. Za-te vse, Zorika!“</p>
+            <p>Deklica je zardela do ušes.</p>
+            <p>„Le kar napravi, jaz pa grem oslico napajat. Vaša voda je boljša kakor naša deževnica.“</p>
+            <p>Jure pripravi, Zorika obloži oslico.</p>
+            <p>„Zorika, poglej moje lilije in moj rožmarin!“</p>
+            <p>Ob koncu hiše je bil ograjen vrtec, skrbno oplet in poln zelišč in rož.</p>
+            <p>„Lilije so že odcvetele in obledele,“ reče Zorika. „Jesen je pač pusta, jesen!“</p>
+            <p>„To je res, Zorika! Lilije so mehke rožice ne pa rožmarin. Le poglej ga, kakor po letu! In kako <pb facs="#WIKI00466-025" n="25" xml:id="pb.025"/> diši, naj bo zelen ali suh! Rožmarinovo seme sem prinesel še pred desetimi leti od doma z Nemškega.“</p>
+            <p>„Aha, Jure, zato poje pesem:</p>
+            
+               <l xml:id="l.11">Pušeljček ti bom naredila</l>
+               <l xml:id="l.12">iz rožmarina nemškega ...“</l>
+            
+            <p>In Zorika je zataknila rožmarin Juru za trak za klobukom, sebi pa v nedrija.</p>
+            <p>„Zorika, kaj pa srce, ali še kaj bije za-me?“</p>
+            <p>„Bije že, pa še močno, toda mostu ni, ki bi vezal bregove Radulje. Ti si privezan na ta kraj Radulje, jaz na oni kraj. Mostu pa ni.“</p>
+            <p>„Kaj most, predraga Zorika! Saj je vode dovolj za krst. Voda prerojenja naju bode prenovila, tebe oblila, mene potrdila.“</p>
+            <p>„Ali naša mama ne mara Radulje.“</p>
+            <p>„Ako je ne mara, naj se koplje v Jelendolski mlakuži. Ti pa jo maraš in to je dovolj.“</p>
+            <p>„Kaj pa sodna oblast? Prideva še lahko na krvavo sodišče radi tega.“</p>
+            <p>„Ljuba moja, sodna oblast v Gotnem brdu zadene samo kristjane, za pogane so druge postave. Vi pač nimate zadržka mladoletnosti pri ženitvah. Jaz sem pa dovolj star in sam svoj gospodar.“</p>
+            <p>„To je res, Jure! Ali naj jaz prazna pridem k hiši? In to veš, da Jelendola ne vidim več, kakor hitro se dam krstiti, in moja mati me prekolne v dno pekla, skliče vse bese in črte in vrage, a meni ne da niti toliko, kolikor je za nohtom črnega.“</p>
+            <p>Jure postane zamišljen. Zorika je s svojim bistrim očesom takoj spoznala zadrego mlinarjevo.</p>
+            <p>„Torej praznih rok k hiši priti, tega on ne mara,“ si misli Zorika, se zavrti in zapoje:</p>
+            
+               <l xml:id="l.13">„Rasti, rasti rožmarin,</l>
+               <l xml:id="l.14">ti deviški drag spomin ...“</l>
+            
+            <p>Hitro poganja oslico v breg pa razmišlja:</p>
+            <pb facs="#WIKI00466-026" n="26" xml:id="pb.026"/>
+            <p>„Tudi ta Jure je kristjan, pa išče marke za ženo, ne dekleta. Nemec je, tujec, kakor Čreteški. E, Solnčica, nisi zastonj sinoči dolžna ostala odgovora!“</p>
+         </div>
+         <div xml:id="wv-V.">
+            <head xml:id="head.5">V.</head>
+            
+               <l xml:id="l.15">... Golobico vjel je,</l>
+               <l xml:id="l.16">Pa odnesel v grad jo,</l>
+               <l xml:id="l.17">Ah, u grad u trdi!</l>
+            
+            <p rend="align(right) italic small">Rokopis Kraljedvorski.</p>
+            <p>Gotnobrdski nočni čuvaj Vid je klical enajsto uro. Bil je silno dolgih nog, da je lahko pri nizkih trških hišah okna v prvem nadstropju s tal odpiral. Trški pisar Pero Pirnar je posebno na to pazil, da je Vid vsako uro klical. Zato se je čuvaj najrajši pod njegovim oknom zadri s hripavim glasom:</p>
+            
+               <l xml:id="l.18">„Ura ta enajsta, ura je duhov,</l>
+               <l xml:id="l.19">Volkodlakov polno, polno tudi sov —</l>
+               <l xml:id="l.20">Vi ljudje vsi božji, stopite na krov;</l>
+               <l xml:id="l.21">Roparji, tatje — na vas gremo na lov.“</l>
+            
+            <p>Tista jesenska noč je bila temna. Videlo se ni za ped naprej, in čuvaj Vid je dremal pod pisarjevim oknom. Črni oblaki so nosili polne celice dežja in tudi blisek je švigal za Gorjanci, od daleč pa je gromelo, kakor bi se cele plasti skalovja trgale in padale z vrhov v nižavo.</p>
+            <p>Sova je skovikala v duplu, volk je tulil iz hoste, kruljenje divjega mrjasca se je slišalo iz krakovske hoste. Močan veter pa je majal drevesa in piskal čuvaju na ušesa. V jelševju za Krko je šumelo. Dva konja in dva človeka sta se pokazala, ko je blisk razsvetlil okolico. Eden stopi v čoln pa hitro odvesla. Lena Krka se je branila nositi veslača. Toda močne roke njegove so jo obvladale in hipoma je bil čoln onstran kanala. Po zidu pa je že visela močna vrv, za katero se je neznanec prijel. Dve močni roki ste ga potegnili navzor. Nekaj hipov pozneje je že stopal, zavit v širok plašč, proti hiši krčmarja Kocijana. <pb facs="#WIKI00466-027" n="27" xml:id="pb.027"/> Od zadaj gre po stopnicah na hodnik. Od tod so bila vrata v vežo samo priprta.</p>
+            <p>Kakor mačka se priplazi v izbo, stopi do postelje, kjer je spala mirno spanje naša znanka Nila. Neznanec ji hipoma z ruto zamaši usta, da je komaj malo zavpila.</p>
+            <p>V sosedni sobi se prebudi dekla Marta in hipoma skoči s postelje. Pa predno se je zavedla in mogla kaj pomoči, je že ležala na tleh v krvi.</p>
+            <p>Neznanec pogrne svoj plašč črez Nilo in jo odnese iz hiše ...</p>
+            <p>Brzih korakov stopa s teškim plenom do stolpa, koder ga je čakal naročen človek. Spusti se spet po vrvi navzdol, drugič sprejme tudi Nilino telo v svoje naročje in ga položi v čoln.</p>
+            <p>Hitro jadra spet na ono stran. V nekaj trenotkih že zajašeta neznana jezdeca konja in odjahata za vasjo Dobrove proti starovrškemu mlinu s svojim plenom. — Oblaki so rosili gost dež na zemljo, burja je ponehavala, grom prenehal, le posamični bliski so se še svetili v daljavi.</p>
+            <p>Neznana jezdeca sta jahala vedno počasneje.</p>
+            <p>„Težka je, Amalrik! Kako si jo mogel tako hitro štupo-ramo odnesti? Komaj da sem se dobro odsopel, že si bil ž njo v čolnu.“</p>
+            <p>„Ej, znati se mora. Saj me poznaš, jaz sem počasen v mislih, pa hiter pri delu. Srčnosti je kajpada treba. Ta je prva. To je dobro, da je bil čreteški hlapec tako pozoren, da ni nič zamudil. Te mrhovine so lene in že sem mislil, da je zaspal v stolpu. Toda vrv je že visela po zidu, ko sem stopil iz čolna. Tisto babnico tam v čumnati sem pa najbrže preveč zadel. Skoro gotovo se je že stegnila ...“</p>
+            <p>„E, saj je ni škoda,“ potolaži ga Libenštajnar, njegov spremljevalec. „Samo da si prinesel to nežno stvarco. Plačilo bo dobro. Kaj ko bi ji potegnil cunjo iz ust?“</p>
+            <pb facs="#WIKI00466-028" n="28" xml:id="pb.028"/>
+            <p>„Počakaj, saj smo kmalu pri Rimskem gradišču. Tam stopimo pod streho, jaz pa skočim do Radulje, da ji z vodo zmočiva čelo. Je še gotovo v nezavesti.“</p>
+            <p>Zavijeta v prazno staro gradišče. Mlinar Jurij Frolajhsdorfar je že čakal s svetilko v samotnem gradišču. Tudi velika majolka vina je stala na kameni ti plošči in hleb belega kruha.</p>
+            <p>„Sreča vama je bila ugodna, kakor vidim. Kar sem ž njo, Libenštajnar!“ In Jure vzame Nilo v svoje naročje, jo položi na debelo plahto, ji razklene roke in potegne cunjo iz ust. Poškropi jo z vinom po čelu in vlije nekaj kapljic vina na jezik.</p>
+            <p>Deklica spregleda, se ozira in vpraša:</p>
+            <p>„Kje sem, Marta?“</p>
+            <p>„Ne boj se, dobro dete! V varnih rokah si. Nekdo ti je stregel po življenju, mi pa smo te rešili,“ laže Libenštajnar.</p>
+            <p>„In kdo je ta moj sovražnik?“</p>
+            <p>„Prav iz trga je, ljubo dete, dobro ga poznaš. Ušel nam je, da mu nismo mogli dobro pogledati v obraz. Zdi se nam pa, da je bil to trški rabelj Henrik.“</p>
+            <p>„Ni mogoče! Moj bratranec. Mogoče tudi! Oh, moj oče, kaj ti praviš?“</p>
+            <p>„Pij malo, deklica, da se pokrepčaš. Pot je še dolga,“ reče Amalrik.</p>
+            <p>„Ali smo kmalu doma?“</p>
+            <p>„Tako hitro še ne; pot je še dolga in strma je, dež gre, konji so trudni.“</p>
+            <p>„Oh, pojdimo, pojdimo!“ prosi deklica. Možaki pa so pili, jedli, si namigavali in se posmehovali. Divji obrazi so grozno žareli v brljavi svetlobi in strah bi bilo najsrčnejšega človeka, bivati v tem prostoru, o tem času in v taki družbi.</p>
+            <p>Prej so bili odkritosrčni, a zdaj so bili previdni v govorjenju. Dajali so si bolj znamenja, kakor govorili.</p>
+            <pb facs="#WIKI00466-029" n="29" xml:id="pb.029"/>
+            <p>„Odidimo!“</p>
+            <p>Brž se jezdeca pospneta na konja, Jure pa pomaga Nili, ki je rade volje sedla pred surovega Amalrika na močnega konja.</p>
+            <p>Molčé so odrinili ob Radulji navzgor. Pri Škocijanu prekoračijo narasli potok. Komaj da ni Amalriku deklica zdrsnila s konja v vodo. Zavpila je na glas, kar je jezdeca strašno ujezilo. Pa zdaj sta morala molčati, Nila vse sliši in fantiček, ki je mlel še v mlinu, je pogledal skozi okno, pa se mu je zdelo, da je čul očetov glas pa tudi ženski glas.</p>
+            <p>Pa to je bilo samo hipno.</p>
+            <p>„Ojoj!“ in „nič strahu!“ to je bilo vse, kar se je slišalo v temni noči.</p>
+            <p>Jezdeca sta hitela dalje ob levem bregu potoka in črez dobro četrt ure sta bila že pri zloganjskem gradišču.</p>
+            <p>To je bilo manj strašno kakor ono pri Stari vasi in zdelo se je, da še ljudje v njem prebivajo.</p>
+            <p>„Nila, tu bi se dalo prenočiti,“ izpregovori Libenštajnar. „Mene je kar strah, jezditi dalje po ti samoti, ker je tako temno in tudi naš gospod nocoj tu prenočuje.“</p>
+            <p>„Kateri je ta žlahtni gospod, ki ima tako dobre ljudi?“</p>
+            <p>„Čreteški,“ odgovori Libenštajnar in se ozre v Nilo.</p>
+            <p>Ta osupne in praša:</p>
+            <p>„Ali Fric?“ — „Da!“ — „Tega poznam. Pa vstopimo.“</p>
+            <p>„No, kje pa lazita okrog, mene pa tu samega pustita?“ osorno praša Čreteški.</p>
+            <p>„Milosti vi gospod, ni nama dala vest drugače. Nedolžno dete sva otela iz jastrebovih krempljev.“</p>
+            <p>„Kakšno dete je to, ki je visoko kakor jelka?“</p>
+            <p>„Milostivi vitez, saj poznate Nilo.“</p>
+            <p>„Ah, srce moje, ti si tukaj? Povej, povej vendar, kaj te je sem prignalo?“</p>
+            <pb facs="#WIKI00466-030" n="30" xml:id="pb.030"/>
+            <p>Libenštajnar vidi, da se utegne njihova hinavščina kmalu spremeniti v odkritosrčnost, zato brž poseže vmes:</p>
+            <p>„Milostivi, zdaj ni časa za pogovore. Spravite deklico najprej v toplo sobo, saj vidite, da jo že mrzlica trese, ker je slabo opravljena.“</p>
+            <p>„Prav imaš, Libenštajnar; kar na konje in črez dobre pol ure smo na Čretežu.“</p>
+            <p>Hitro zajašejo konje, vitez pa posadi deklico pred se. Kar zatrepetala je, tako se je prestrašila. Pa kaj je hotela? Noč je, tema je, mraz je ...</p>
+            <p>Jašejo hitro, pa varno. Vitez je žarel ljubezni, Nila pa je sopihala kakor ujeta srna. Vitez je podpihaval svoje strasti, Nila pa je zdihovala k Mariji Devici in pritiskala bronasto svetinjo na svoja usta.</p>
+            <p>V Lakencu so krenili v stran. Pot se je vila navzgor, in počasi so konji korakali po klancu.</p>
+            <p>Vitez je jezdil v sredi, druga dva pred in za njim.</p>
+            <p>„Nila, vsak čas smo na Čretežu.“</p>
+            <p>„In kaj bo potlej, milostivi?“</p>
+            <p>„Odpočila se boš.“</p>
+            <p>„In potem?“</p>
+            <p>„Pokrepčala se boš.“</p>
+            <p>„In potem?“</p>
+            <p>„Pa ti razkažemo naš grad in našo gospodo.“</p>
+            <p>„Kdaj pa se povrnem domov? Oh, jaz ne morem biti več brez očeta.“</p>
+            <p>„Bom pa jaz tvoj oče, ljubo dete!“</p>
+            <p>„Kaj me ne mislite poslati nazaj v Gotno brdo? Oh, revica jaz, kaj slutim?“</p>
+            <p>„Potolaži se, saj pošljemo po očeta takoj jutri.“</p>
+            <p>Že se bližajo gradu, eden zabrlizga in brana pade črez jarek. Spremljevalca voščita lahko noč, vitez pa odvede uropano deklico v grad.</p>
+            <p>Brana se dvigne, vrata grajska se zapro, Nili pa je bil ta glas hreščavih vrat kakor nož, ki je zbodel njeno srce.</p>
+            <pb facs="#WIKI00466-031" n="31" xml:id="pb.031"/>
+            <p>Vitez odda konja hlevarju, Nilo pa pelje v vogelni stolp. Takoj priskačete dve deklici, ki odpeljete Nilo v lepo sobo. Tam ji nanosite na mizo jedil, jo razveseljujete in tolažite, in ko ji še vitez pride voščit lahko noč, je Nila že zaspala ...</p>
+         </div>
+         <div xml:id="wv-VI.">
+            <head xml:id="head.6">VI.</head>
+            <p rend="indent small">Pravijo, da je bila cerkev sv. Tomaža nekdaj vikarijat.</p>
+            <p rend="align(right) italic small">Valvasor, VIII. str. 728.</p>
+            
+               <l xml:id="l.22">Spovednika sem si zbral,</l>
+               <l xml:id="l.23">Da mi bo na strani stal,</l>
+               <l xml:id="l.24">Da mu bom odgrnil vest,</l>
+               <l xml:id="l.25">Da mu bom gotovo zvest.</l>
+            
+            <p rend="align(right) italic small">Štrekelj, Nar. p. 701.</p>
+            <p>Glagoljaš Štipko je sedel na klopi pod košatim orehom in molil jutranjice. Prebiral je glagolski brevir, vstajal in spet sedel, duh njegov pa se je topil v goreči molitvi. Molil je za svoje, molil za krivoverce, pa tudi za pogane. Naposled zapre knjigo in se prekriža, govoreč na glas v staroslovenskem jeziku: „Va ime božje i svete Marije. Amin.“</p>
+            <p>Pospel se je po koncu in zrl po dolini ... Bil je častitljiv mož. Dvoje črnih oči je zamišljeno gledalo v širni svet, lepo zaokrožena črna brada se je oprijemala čeljusti in rdeča lica so kazala zdravega človeka. Dolg talar se je oprijemal njegovega vznešenega života, na glavi pa je čepel širokokrajnat klobuk.</p>
+            <p>Zdelo se je, da Štipko nekoga pričakuje. Skrb se mu je brala na obrazu in nemirno se je premikal sem in tja.</p>
+            <p>„Ali ne greš še južinat?“ se oglasi ženski glas iz veže.</p>
+            <p>„Se mi še ne ljubi, Barica!“ odvrne brat.</p>
+            <pb facs="#WIKI00466-032" n="32" xml:id="pb.032"/>
+            <p>Psiček, ki je ležal v travi in lovil na sebi zadnje jesenske mrčese, je zagodrnjal, kakor bi njemu ne bil po godu gospodov odgovor.</p>
+            <p>„Pa ga ni. Saj mi je trdno obljubil, da pride. Ah ti Čreteški, kako mi delajo preglavico! Da bi bil vedel, kakšno težko butaro mi bodo naložili na glavo, ko me je senjski škof posvetil v mašnika, ne bi se bil dal maziliti. O kako vse drugače je bilo, ko sem še pasel čredo na Gorjancih! Kako lepe ure so bile to, ko sem dopoldne stregel v cerkvi župniku Tiberiju, popoldne pa smo šli na lov v krakovske gozde! Na konju sem s sulico prebodel divjega mrjasca, da se je valjal v svoji krvi, košute so padale pred našimi puščicami, medveda smo za zadnje šape vleki iz brloga ... O ti veseli, brezskrbni časi so minili — ni jih več in zdaj pasemo drugačno čredo, lovimo neumrjoče duše ...</p>
+            <p>Pa vse bi še bilo. Saj užijem veliko duševnega veselja s svojimi ovčicami. Le ta Čreteški grad, te čreteške butice so trde, divje, nezanesljive! Koliko noči mi je že vzel ta lahkomišljeni Fric! Koliko sitnosti, koliko zaprek, koliko sramote mi je že napravil ta klativitez, ta pustolovec! Prav bi bilo, da bi si že enkrat izbral družico. Na roke bi mu šel, kar je mogoče, samo da bi se pomiril, da bi se ustanovil, da ne bi begal kakor Kajn po zemlji!</p>
+            <p>Ali kaj slišim govoriti pri ljudeh? Groza me je, ako pomislim, ako verjamem, da je resnica. Kako se bo izmotal iz teh motovil? Spet je na meni, da posrednjem, kaj pa hočem? Pa da bi saj prišel in mi povedal resnico! Pa ga ni. Dobre vesti nima ... Ah, da so ravno mene posvetili na naslov čreteške graščine, da so mi natovorili ta vikarijat! Aha, listje šumi pod nogami, nekdo prihaja.“</p>
+            <p>Štipko se obrne v nasprotno stran, stopi mimo cerkve sv. Tomaža na breg in opazuje.</p>
+            <pb facs="#WIKI00466-033" n="33" xml:id="pb.033"/>
+            <p>„Ta ni na konju, ta gre peš ... Lanec rožlja, ah to je Libenštajnarjev volk, to je zagradski krčmar! Kaj pa ta prinaša?“</p>
+            <p>Volk zatuli, zagledavši vikarja. Libenštajnar pa komaj pobira za njim stopinje po bregu navzgor. Divje je gledal, oči so bile izbuljene, gorjača je bila okrvavljena ...</p>
+            <p>Volk se je laskal vikarju, Libenštajnar pa je snel pokrivalo, pal na kolena in klical v staroslovenščini: „Otče, sogreših!“</p>
+            <p>Vstanj, in povej, kaj se je zgodilo? Krčmar vstane in začne pripovedovati:</p>
+            <p>„Znano Vam je, duhovni oče, da ima Mate iz Hrastja svojo „hobo“ poleg moje. Sprla sva se radi mejnikov. Pa ni ga bilo, da bi posredoval razun mojega volka. Sporekla sva se. Mate pravi: „Ne želi svojega bližnjega zemlje!“ Jaz pa mu priložim eno po ustih, da se mu je kar kri pocedila. On me zagrabi za goltanec, moj volk pa mu skoči na tilnik, ga podere na tla in mu pregrizne vrat ... Nič več ne bo trave tlačil.“</p>
+            <p>„Mazi ti Bog! Bog ti pomagaj, jaz ti ne morem. Prav te je poučil Mate, kakor bi te bil jaz, pa za plačilo si mu vzel življenje. „Ne ubijaj!“ govori Bog Kaj boš tudi zato ná-me naščuval volka?“ Libenštajnar spet pade na kolena in kliče: „Ne ne, duhovni oče! Tega Bog varuj. Ti mi nisi delal krivice, ti si sama dobrota!“</p>
+            <p>„Kaj ti je Mate delal krivico? Ali nisem bil pričujoč, ko si poželel za tujo zemljo in ta nesrečni čreteški kovar ti je dajal potuho. O vem: ti si ubil svojega sozemljaka namenoma, zato da se Čreteški polasti zemlje, češ da nima gospodarja, pa jo prepusti tebi za vžitek. Ah hudobija čez hudobijo. Ali ne veš še, da je cerkveno ognjeno, da je Mate škofovski podanik? O ti to veš, zato se spoznaj, spoznaj svoj vnebovpijoči greh, ako res želiš, da ti Bog odpusti grehe.“</p>
+            <pb facs="#WIKI00466-034" n="34" xml:id="pb.034"/>
+            <p>„Spoznam, se kesam, naloži mi pokoro, kakršno hočeš.“</p>
+            <p>Odšla sta v cerkev.</p>
+            <p>Sredi cerkve nad kripto je klečal ubijalec Libenštajnar in molil za vikarjem v staroslovenskem jeziku očitno spoved:</p>
+            <p>„Az zaglogolo zlodeju“ itd.</p>
+            <p>Toda krčmarjeva izpoved še ni bila pri kraju.</p>
+            <p>„Oče, jaz imam še druge grehe nad sabo. Jaz sem tudi deležen drugega uboja, deležen ropa ...“</p>
+            <p>Tiše je govoril in pravil, kako sta s škocijanskim mlinarjem odpeljala Kocijanovo hčer z Gotnega brda.</p>
+            <p>In spet je krčmar ponavljal: „Az glagolo zlodeju“ (jaz se odpovem hudiču) itd.</p>
+            <p>Volk je ležal stegnjen pri cerkvenih vratih, z glavo na tleh in prisluškoval skesanim besedam gospodarjevim in resni govorici vikarjevi.</p>
+            <p>„Mir s toboju!“ reče naposled oče Štipko, ga prekriža in pristavi: „Bog ti je odpustil, za pokoro pojdeš v Kelmorajn na božjo pot k oltarju sv. Cirila in Metoda, s posvetno gosposko pa se zravnaj sam, kakor veš in znaš.“</p>
+            <p>S potrtim srcem se Libenštajnar vrne, skoro je pozabil na svojega spremljevalca, ki se je sukal okrog Štipka ter mu lizal belo roko.</p>
+            <p>„Tudi žival pozna hvaležnost, le človek se spozabi tako daleč, kakor se je spozabil ta moj Fric — moje veselje in moja žalost. Pričakoval sem njega, pa je prišel ta divjak njegov. Žal mi je za tega Mateja, da je umrl tako silovite smrti. Uboga njegova rodbina. Takoj popoldne ga grem škropit, jutri pa opravim liturgijo zanj. Mir njegovi duši!“</p>
+            <p>Jesensko solnce je prijazno sijalo, le lahak veter je zibal veje na drevju. List za listom je padal na tla, trta pred hišo se je obrila, dasi so še posamični grozdi krasili belo steno. Kosem se je plaho skrival za hišo pred Libenštajnarjevim volkom in šele, ko je <pb facs="#WIKI00466-035" n="35" xml:id="pb.035"/> gospod zaklical: „Barica, zdaj pa južino sem!“ se je priplazil izza vogla in se prilizoval svojemu gospodarju. Tudi kokoši in piščeta so čutila jedila na mizi ter so se bližala orehu. Belo jagnje je pogledalo skozi vrata, tam na ograji pa se je grel ob solnčni gorkoti rjavi maček.</p>
+            <p>Rad je videl Štipko okrog sebe to skromno družinico. Zdele so se mu te živalice tako domače, tako ljubke, tako vdane, tako poslušne. Kos za kosom je padal raz mizo, da bi vikar kmalu na-se pozabil pri skromnem kosilcu.</p>
+            <p>„Barica, prinesi živalicam jesti. Lačne so.“ Ščinkovec je zapel na bližnji jablani, ko se Barica prikaže na pragu in vsuje zrna kokošim.</p>
+            <p>„Nikoli nimajo dosti. Samo žrle bi, nesó pa tako malo naše kokoši,“ reče deklina pri štiridesetih letih. Bila je starejša od brata in je govorila gorjansko.</p>
+            <p>„Zima se bliža, Barica, kaj hočemo? Le glej, da ne pride lisjak v vas. Vse živali so mi ljube, tudi divje, le ta lisičji rod mi ne ugaja. Zvit je, potuhnjen, izbirčen, samo kri izpije, meso ali vsaj kosti pa pusti. Taki so tudi hinavski ljudje. Spredaj ližejo, zadej grizejo.“</p>
+            <p>„Ali meniš, da ta zagrajski krčmar, ki je prej hodil okrog tebe, ni ravno tak lisjak?“ reče Barica.</p>
+            <p>„Bog bo sodil,“ odgovori kratko vikar.</p>
+            <p>Še večji lisjak je to čreteško zijalo. Prav, da ga ni, ker je tako težek kakor mlinski kamen. Samo za ženskami bi lazil.“</p>
+            <p>„Ali je že tudi tebi delal silo?“</p>
+            <p>„Je poskušal, pa sem ga kar z loparjem oplazila.“</p>
+            <p>„Pa se nisi bala, da bi te dal zapreti?“</p>
+            <p>„Ne bojim se ga. Kaj mi more? Ne vem, da ti ne moreš biti brez njega.</p>
+            <p>„Dušo ima, Barica, neumrjočo, z božjo krvjo odkupljeno dušo“ ...</p>
+            <p>„Ne vem, če jo mu boš opral, preveč je že črna! Najbrže še ajdovski črt ne mara zanjo.“</p>
+            <pb facs="#WIKI00466-036" n="36" xml:id="pb.036"/>
+            <p>„Ali so bile ajdovske deklice kaj tukaj včeraj, ko me ni bilo doma?“</p>
+            <p>„Samo tisto z Jelendola, ki ima tri jamice na licih in na bradi, tisto sem srečala, ko sem šla po vode k studencu. Prašala je po tebi in rekla, da bi rada nekaj vprašala.“</p>
+            <p>„Kam pa je šla?“</p>
+            <p>„Iz lakenškega mlina je šla. Rekla je, da ne nosi več v Staro vas v mlin.“</p>
+            <p>Štipko se zamisli ...</p>
+            <p>„Aha, spet je ženitev na potu. Ti Nemci pa res več pokvarijo kakor dobrega storé. Sama sebičnost jih je. Dobro stvar ovirajo, slabo podpirajo. No pa menim, da jim je posvetna pravica za petami. Saj gotnobrdski sodnik Uzold je zelo spoštovan in pravičen mož.“</p>
+            <p>„Prav imaš brate, zato pa drži s Slovenci in se nikar toliko ne ženi za te bavarske prihajače.“</p>
+            <p>Vikar se zamisli. Barica pospravlja raz mizo, kokoši so se že odpravljale spat, solnce je medlo svetilo. Mrzlejši veter je zapihal, megla je nastopala po dolini.</p>
+            <p>Štipko vstane, prime za brevir ter vstopi v cerkev.</p>
+            <p>Dolgo je molil, da je mrak legel po cerkvi in tema je vladala, ko zapusti cerkev, pozdravljajoč nebeško kraljico in se priporočajoč nebeškim varuhom ...</p>
+         </div>
+         <div xml:id="wv-VII.">
+            <head xml:id="head.7">VII.</head>
+            <p rend="indent small">Pri „strogem izpraševanju“ je bil rabelj ena najpotrebnejših oseb.</p>
+            <p rend="align(right) italic small">Vrhovec: „Ljublj.“ meščanje str. 88.</p>
+            <p>Bilo je v osmini sv. Nikolaja. Mila zima je bila napovedana in sneg, ki je padel v novembru, je že davno izginil pred solnčnimi žarki. Črede so se pasle po bregovih in žito je zelenelo kakor pomladi.</p>
+            <p>V Gotnem brdu je bil semenj. Polno zunanjih ljudi se je gnetlo po ulicah, prodajali so in kupovali.</p>
+            <pb facs="#WIKI00466-037" n="37" xml:id="pb.037"/>
+            <p>Bilo je vika in krika, smejanja in hudovanja, prerekanja in zbotavanja. Vsake vrste novice so krožile med sejmarji, a o nobeni reči se ni govorilo toliko, kolikor o ropu Kocijanove hčere. Tržani so se jezili, stiskali pesti, se zgražali nad tolovaji, klicali pravico na pomoč. Kmetje pa se niso toliko zgražali, saj so bili navajeni pobojev in nasilstev, nekoliko pa so na skrivnem privoščili tržanom take sramotilne prizore.</p>
+            <p>„No, Vide, kako pa si čuval trg, da so ti najlepšo golobico jastrebi odpeljali?“ se ponorčuje čokat okoličan iz trškega nočnega čuvaja.</p>
+            <p>„Najbrž je imel takrat v buči glavo skrito,“ draži ga drugi.</p>
+            <p>„Ej, veste kaj, ljudje božji, jaz imam dolžnost hoditi po ulicah. Po hišah pa nimam pravice stikati,“ odvrne Vid.</p>
+            <p>„Kaj misliš, Vide, da so Kocijanko pod zemljo odpeljali?“</p>
+            <p>„Vrag vedi, kako so jo. Jaz nisem bil zraven. Jaz sem takrat pod pisarjevim oknom uro klical.“</p>
+            <p>„Torej vendar veš, kdaj so jo odpeljali!“</p>
+            <p>„Pustimo to, ljudje božji. To bo že pokazalo „strogo izpraševanje“ v trški hiši. Trikrat je bilo že klicano, da naj se oglasi vsak, kdor kaj ve o tem ropu. Pa se ni nikdo oglasil. Že je mislil sodnik soditi brez „malefične osebe“, a danes pa smo vendar ujeli nekega tička, ki se je izdal, če prav je majhen.“</p>
+            <p>„In ta je, Vide?“</p>
+            <p>„Meni časih tako pride, da kar oglušim. In zdaj nič ne slišim, ljudje božji,“ sklene nočni čuvaj ter stopa dalje med sejmarji.</p>
+            <p>Tam od karantanskih vrat je mogočno stopical rabelj Henrik. Bil je orjaški človek, z velikanskimi brkami, ki so mu visele do podbradka. Za roko je peljal desetletnega dečka, ki se je branil, jokal in se oziral za materjo, idočo za njim.</p>
+            <pb facs="#WIKI00466-038" n="38" xml:id="pb.038"/>
+            <p>„Ne boj se, Riče, saj ti ne bodo storili nič hudega. Saj grem tudi jaz s tabo.“ Vse se je umikalo pred rabljem, ki je bil tudi konjederec ter so ga imeli za nečistega človeka.</p>
+            <p>Henrik žene dečka z materjo v trško hišo, odtod pa v levi stolp ob hrvaških vratih.</p>
+            <p>„Tu notri bosta počakala, dokler se obravnava ne izvrši. Nič hudega vama ne bo, imela bosta dovolj jesti in piti, pa tudi oče pride za vama.“</p>
+            <p>Rabelj zavrti ključ, mati in sin pa zaženeta velik jok.</p>
+            <p>Trški rabelj odide proti karantanskim vratom. Njegovo oko išče nekoga. Vse se umika, le trški pisar ne. Pero se mu ne umakne, ampak ga ustavi in mu nekaj pošepeče na uho. Govoril je precej na glas.</p>
+            <p>„Pojdi v gostilno čreteških gospodov. V kotu sedita za mizo dva človeka. Tisti, ki gleda proti durim, je dečkov oče. Oni drugi pa je čreteški hlapec Bimbo, ki je v čreteški hiši za vratarja ali čuvaja.“</p>
+            <p>Pero teče dalje, pisar pa mrmra sam pri sebi:</p>
+            <p>„Saj se mi je vse tako zdelo, da na semanji dan kaj izvohamo. Takoj napišem povabila pričam in rečem sodniku, da razpiše obravnavo.“</p>
+            <p>Ko je rabelj oborožen stopal proti čreteški gostilni, se mu pridruži njegov hlapec.</p>
+            <p>Rabelj stopi v izbo. Takoj zagleda pivca, pa izpregovori:</p>
+            <p>„Vi ste Amalrik, škocijanski mlinar.“</p>
+            <p>„Kaj bi radi od mene?“</p>
+            <p>„V imenu trškega sodnika vas pokličem, da greste z mano. Vaš sin vas je obdolžil kriminalnega dejanja.“</p>
+            <p>Amalrik pogleda začudeno, se spogleda s sopivcem, ki zagrabi za orožje. Rabelj odpre vrata in njegov hlapec stopi v izbo. Pivci pri drugih mizah utihnejo, pa se spogledujejo in godrnjajo.</p>
+            <p>„Moja vest mi ničesar ne očita,“ reče mlinar. „Pa branil se ne bom in ustavljal gosposki.“</p>
+            <pb facs="#WIKI00466-039" n="39" xml:id="pb.039"/>
+            <p>Velik šum je nastal med ljudmi, ko sta rabelj in njegov hlapec peljala Amalrika po ulicah naravnost do stolpa pri hrvaških vratih. Šli so po mnogih stopnicah navzgor, dokler niso prišli do ječe, do katere ni mogel niti zrak, niti svetloba. Ječa je bila le tolika, da se je človek mogel skloniti; okna so bila samo poldrugi črevelj visoka in šest palcev široka. Na notranjo stran so bila nekaj širja, a ravno radi tega ni mogel izprijeni zrak iz ječe, ker ga je zdravi zunanji zrak pritiskal nazaj. V ječi je bilo tako zaduhlo, da je jetnik komaj mogel sopsti.</p>
+            <p>Rabelj zapre vrata in odide.</p>
+            <p>Tam na trgu pa so se ljudje zbirali v gručah in se živahno pogovarjali. Čuvaj Vid bi bil skoro tepen, ker se je bahal, da vse ve, pa ni hotel ničesar povedati.</p>
+            <p>Kar se pridruži neka ženska in začne pripovedovati:</p>
+            <p>„Grozne reči se gode. Prodala sem nekaj gosi črevljarjevi ženi, pa sem se šla oddahnit in pokrepčat v Kocijanovo gostilno. Nasproti meni je sedela ženska z otrokom, pa je nisem poznala. Precej pri dobri volji sta bila, in vino je zlezlo tudi dečku v glavo. Pri drugi mizi so se pogovarjali o Kocijanovem dekletu. Kar se oglasi neznana ženska, pa pravi: „Saj nič ne veste; moj Riče ga je pa videl tisto noč, ko je ropar nesel ugrabljeno deklico mimo naše hiše.“</p>
+            <p>Hipoma so bili vsi okrog dečka in so mu ponujali piti. Izpraševali so ga, deček pa je pravil, kakšen je bil tisti ropar in proti kateri strani je jahal.</p>
+            <p>„Kje pa so bili oče tisti večer?“ popraša nekdo dečka. — „Nekam so šli, jih ni bilo doma.“ Takoj se je sum zbudil in ni preteklo pol ure, že se vrne ta le dolgonogi mož, ki se je prej hitro izgubil iz izbe. Z njim pa stopi v hišo tudi rabelj, ki odpelje dečka in mater. To se je zgodilo tako hitro, da jaz niti svojega poliča nisem izpila.“</p>
+            <pb facs="#WIKI00466-040" n="40" xml:id="pb.040"/>
+            <p>Vsi poslušalci so se obrnili za dolgonogim možem. Toda Vid je slutil, kaj ga čaka in je urnih korakov odrinil proti trški hiši.</p>
+            <p>„Bog ve, če se ni rabelj prenaglil?“ reče eden izmed množice.</p>
+            <p>„Sodba bo že pokazala, kdo ima prav. Na besede takega otroka se pač ni mnogo zanašati,“ pristavi drugi.</p>
+            <p>„Ej, trški pisar je pretkan dedec, ta mu bo že nategnil prste in goltanec. Mlinarji so itak malo prida. Saj tako žive samo od prigoljufane merice. Klobuk pravičnega mlinarja trohni v deveti deželi,“ spet modruje tretji.</p>
+            <p>„Le mene poslušajte, sejmarji! Če je tudi mlinar odpeljal tičico, pa njenega petja ne bo on poslušal, pa tudi ne njenega mesa okušal. Za grmom tiči drug zajec, ki nima kosmatih ušes, pač pa kosmato vest. In ta zajec tiči za debelim zidom in se greje visoko gori na gori, pa se smeje drugim v dolino, rekoč: „Vi ste moji hlapci, jaz sem vaš gospod!“</p>
+            <p>Sejmarji utihnejo pri teh besedah, premišljujoč predgovornikove besede.</p>
+            <p>Na tihem šepečejo drug drugemu na uho — pa se razidejo.</p>
+            <p>Dan je bil kratek, treba je bilo misliti na dom. Trg se je praznil, daljni sejmarji so že na potu, bližnji pa se še potikajo ob šotorih in po krčmah.</p>
+            <p>V čreteški gostilni sta se mudila dva človeka, opravljena za daljno pot. Eden je bil orjaške postave, s sivim klobukom na glavi, pod obrvmi pa mu je dvoje sivih oči švigalo nemirno po sobi okrog. Hodil je po hiši gori in doli, kakor bi koga pričakoval. Velika, polno natlačena malha mu je visela črez ramo, ob širokem pasu je visel usnjat mošnjiček in za pasom dvoje bodal. Njegov spremljevalec je sedel na klopi. Bil je mnogo mlajši in na las podoben staremu. Le brk še ni imel pod nosom, in lica njegova so bila <pb facs="#WIKI00466-041" n="41" xml:id="pb.041"/> gladka. Na tleh poleg njega je ležal volk, priklenjen na železni lanec, za klop pa se je držal mlad medved, obrnjen v svojega gospodarja.</p>
+            <p>„To so glumači!“ je vsak rekel, ko jih je srečal. Reveži so ljudje, ki si na ta način kruh služijo.</p>
+            <p>Črez nekaj časa stopi v izbo deklica pri šestnajstih letih. Na rami ji je sedel sokol, za njo pa je tekal kosmat psiček.</p>
+            <p>„Bimbo pride takoj, tata!“ reče deklica in sede onstran mize, kjer je na klopi ležalo dudalo in piščal.</p>
+            <p>Vstopi čreteški hlapec.</p>
+            <p>„Po slovo smo prišli, dragi Bimbo! Saj veš, pokora mora biti. Oče Štipko je vse tako lepo zravnal, da ne bo treba niti pred kriminal priti. Ker sem se z Matejevimi ljudmi pobotal, mi je rekel sodnik, da naj le opravim cerkveno pokoro in dobro bo.“</p>
+            <p>„In tako smo zdaj na potu v Kelmorajn.“</p>
+            <p>„Blagor ti! Dobro tebi, ko se umakneš. A meni? Najbrže me vtaknejo vmes, ker sem danes z Amalrikom pri ti mizi skupaj sedel. Mlinar je že v ječi; sin njegov ga je izdal.“</p>
+            <p>„Ne boj se, ti si Čreteški.“</p>
+            <p>Lanci so zarožljali, Libenštajnar odhaja.</p>
+            <p>„Otroka moja, po koncu! Odidimo!“</p>
+            <p>Deklica pograbi dudalo in piščal, mladenič pokliče živali, pa odrinejo.</p>
+            <p>Pa to niso bili glumači, to so bili romarji, ki so se vzdignili v temno noč na daljno pot v Kelmorajn.</p>
+         </div>
+         <div xml:id="wv-VIII.">
+            <head xml:id="head.8">VIII.</head>
+            
+               <l xml:id="l.26">Na stol pisan so me djal’</l>
+               <l xml:id="l.27">Ino meni sodbo bral’:</l>
+               <l xml:id="l.28">Pravda je b’la sklenjena,</l>
+               <l xml:id="l.29">Palčica prelomana.</l>
+            
+            <p rend="align(right) italic small">Štrekelj, „Nar. pesmi“, 701.</p>
+            <p>V trški hiši je bil zelo slovesen dan. V sodni dvorani je bilo polno ljudi. Na sredi dvorane je sedel mlinar Amalrik, poleg njega je stal rabljev hlapec. <pb facs="#WIKI00466-042" n="42" xml:id="pb.042"/> Na desno je stalo več poklicanih prič, med njimi Amalrikova žena in sin Riče. Na levo stran so stali trški čuvaji, tam spredaj na vzvišenem prostoru pa je bil prostor za sodnika, svetovalce, pisarja in rablja. Tudi mučilno orodje se je videlo ob vratih.</p>
+            <p>Ob zaprtih durih se je začelo „strogo preiskovanje“. Prikaže se sodnik Uzold s srebrnim žezlom in škrlatastim plaščem pa se vsede na sodni prestol. Okrog njega se razvrste svetovalci, ki pa jih takrat ni bilo več kakor sedem. Rabelj se vstopi pod oder, pisar pa prebere obtožnico s slovesnim globokim glasom:</p>
+            <p>„Amalrik škocijanski, mlinar, oženjen, doma iz Bavarskega, se obdolži, da je letos na dan sv. Uršule, po noči šiloma odpeljal Kancijanilo, hčer brodarja in krčmarja Kocijana z Brega, ter pri tem ubil njegovo deklo Marto.“</p>
+            <p>Vsi so obrnjeni v Amalrika, sodnik pa vstane in vpraša:</p>
+            <p>„Slišal si, kaj te dolže, Amalrik. Ali priznaš svojo krivdo?“</p>
+            <p>Mlinar vstane, glas se mu je tresel in poznalo se mu je, da je štirnajst dni prebil v zaduhli ječi. Ves je bil izpremenjen.</p>
+            <p>„Milostivi gospod sodnik, jaz nisem kriv. Po nedolžnem sem bil zaprt in izstradan tako, da sem si nakopal bolezen. Kdo meni povrne zdravje in škodo?“</p>
+            <p>Sodnik nadaljuje:</p>
+            <p>„Obtoženec ne prizna svoje krivde. Naj se zaslišijo priče.“ — Rabelj takoj privede dečka Ričeta na spodnjo stopnico.</p>
+            <p>„Ti, deček, ti si dober, kakor vidim, ker si resnico govoril. Zato nam boš zdaj še enkrat povedal, kar si videl in slišal tisti večer, ko si gledal iz mlina skozi okno.“</p>
+            <p>„Gospod, vse povem, samo da me izpustite domov. Očeta ni bilo doma, mati so medli v kuhinji, meni so pa naročili, naj pazim v mlinu, kdaj pomelje kamen <pb facs="#WIKI00466-043" n="43" xml:id="pb.043"/> vse žito iz groda. Dolgčas mi je bilo, pa sem gledal skozi okence. Bliskalo se je in grmelo, tema je bila, da se ni nikamor videlo. Mene je bilo strah. Kar začujem, da je voda zašumela na prehodu. Toliko sem videl, da so bili konji, ki so šli črez Raduljo. Tudi ljudje so bili zraven, ker je eden zavpil.“</p>
+            <p>„Kaj pa je zavpil?“ vpraša sodnik.</p>
+            <p>„Pa ne vem, kaj. Sem pozabil.“</p>
+            <p>„Ali je bil tenak glas ali debel?“</p>
+            <p>„Eden je bil tenak, eden debel.“</p>
+            <p>„Ali zadnjič si v gostilni natanko povedal, kako sta vpila tista dva človeka?“</p>
+            <p>„Gospod, takrat sem bil vinjen in ne vem, kaj sem govoril. Ljudje so me preveč silili piti.“</p>
+            <p>Deček odstopi, sodnik pa narekuje pisarju. Nato priča mati pod prisego.</p>
+            <p>„Jaz vem le toliko, kar mi je sin pravil.“</p>
+            <p>„Ali z možem nista nikdar govorila o tem?“</p>
+            <p>„Sva, pa nisem ničesar opazila, kar bi sum vzbudilo v meni. Govorila sva, kar so ljudje govorili.“</p>
+            <p>„Ne pozabi, da si zaprisegla pred živim Bogom. A kje je bil mož tisti večer?“</p>
+            <p>„Bog vedi, saj mi takih reči nikoli ne pove. Le toliko vem, da je navadno po noči hodil na lov na polhe ali pa je lovil ribe ob jasnih nočeh.“</p>
+            <p>„Pa je kaj prinesel domov tisto jutro rib ali polhov?“</p>
+            <p>„Se ne vem spominjati, ker niti ne vem, kdaj je prišel domov.“</p>
+            <p>„Ali te je mož kaj nagovarjal?“</p>
+            <p>„Kako me bo nagovarjal, ko nisva bila skupaj od sejma.“</p>
+            <p>„Ali sina si pa vendar-le učila v ječi, kako naj govori?“</p>
+            <p>„I seveda sem ga učila, saj veste, da je otrok. Drugače vam ne bi bil tako lepo vsega povedal, da ga je bilo veselje poslušati.“</p>
+            <pb facs="#WIKI00466-044" n="44" xml:id="pb.044"/>
+            <p>„Ali mu nisi rekla, da ne sme vsega povedati?“</p>
+            <p>„Se ne spominjam in tudi nimam vzroka zato. Čemu neki? Saj ste slišali samega moža, da je nedolžen.“</p>
+            <p>Zena odstopi, pisar piše. Rabelj pripravlja natezalnico. Dva visoka droga, počrez tram, spodaj pa stolček, na kateri je moral Amalrik stopiti. Rabelj potegne za vrvi, obtoženec se potegne kvišku, na stopala pa mu rabelj naveže uteži.</p>
+            <p>Silno zdihovanje se je razlegalo po dvorani.</p>
+            <p>„Pustite me, saj povem resnico.“</p>
+            <p>In Amalrika spet peljejo pred sodnika. Mlinar govori:</p>
+            <p>„Jaz sem lovil rake tisto noč v Radulji visoko gori pri izvirku. Pa noč ni bila ugodna in nisem nič vjel. Vračam se domov in na potu srečam dva jezdeca. Umaknil sem se v kraj v goščo, da me nista zapazila. Videl sem pa dobro, da je imel eden žensko navezano poleg sebe na konju. Poznal pa nisem nobenega.“</p>
+            <p>„Kako pa da je tvoj sin rekel v gostilni, da je slišal tvoj glas od Radulje sem?“ vpraša sodnik obtoženca.</p>
+            <p>„To ni nič čudnega. Tožilo se mu je po očetu in ker je bil v strahu radi viharne noči, mu je bil vedno oče na mislih. Zato je pa precej mislil, da je bil neznanec njegov oče. Sicer pa je sam povedal, da je bil takrat vinjen in ni vedel, kaj je govoril.“</p>
+            <p>Rabelj spet odpelje Amalrika na tezalnico. Zaslišijo se druge priče. Na vrsto pride čreteški hlapec Bimbo.</p>
+            <p>„Jaz sem bil tisto noč doma in ne vem ničesar o uboju Marte.“</p>
+            <p>„In ne veš tudi ničesar o Kancijanili? Ne pozabi, da si zaslišan pod prisego,“ opomni sodnik pričo.</p>
+            <p>„O Kancijanili pa vem, da je bila tisto noč odpeljana in spuščena po zidu navzdol po vrvi in da se nahaja zdaj v Čreteškem gradu.“</p>
+            <pb facs="#WIKI00466-045" n="45" xml:id="pb.045"/>
+            <p>„In kdo ti je to povedal?“</p>
+            <p>„Vrv sem sam nesel iz našega stolpa, ker sem jo ondi našel. Ukradel jo je čreteški hlapec, ker drugi ni vedel za-njo. Za kaj drugega je tudi ni mogel rabiti kakor za to. Da je Kancijanila v gradu, to pa mi je pravil tisti Libenštajnar iz Zagrada, predno je šel na božjo pot v Kelmorajn.“</p>
+            <p>„Kje pa je on to zvedel?“</p>
+            <p>„Najbrže jo je sam videl na Čretežu, ker hodi tjakaj oddajat desetino.“</p>
+            <p>„Pa veš za gotovo, da je čreteški hlapec odpeljal Kancijanilo?“</p>
+            <p>„To pač ne more biti drugače, ker je vrv naša in ker je deklica v gradu. Kateri hlapec je bil, to boste lahko izvedeli v gradu od Kancijanile.“</p>
+            <p>Bimbo odstopi. Zaslišanih je bilo še nekaj prič, kakor Kocijan, Grga, Vid, pa niso vedeli ničesar drugega povedati kakor da je Grga, brodnik, videl ali slišal dva jezdeca jahati za vasjo Dobrove in da so bila Karantanska vrata zaklenjena in da se z brodom ni nihče vozil tisti večer. Sodnik ukaže prebrati vse izjave, na to pa nadaljuje:</p>
+            <p>„Naj se oglasi Amalrikov zagovornik.“ Eden izmed svetovalcev vstane in začne:</p>
+            <p>„Res, da je obtoženca sam njegov sin izdal kot zločinca, vendar pa ga iz izpovedbe prič ne moremo obsoditi. Nobena priča ni jasno povedala, da ve kaj gotovega in tudi sam obtoženec je govoril tako odkrito, da mu skoro moramo verjeti. Zato predlagam, da se obtoženec oprosti.“</p>
+            <p>Sodnik nadaljuje:</p>
+            <p>„Iz vse malefične obravnave se je poznalo, da sum pač leti na mlinarja Amalrika, da je bil pri uboju in ropu vsaj prizadet, ako že ne glavni krivec. Vendar pa se iz dosedanjega pričevanja ne more soditi, da bi bil Amalrik kriv uboja in ropa, zlasti ker ne moremo poklicati za pričo Libenštajnarja, katerega ni <pb facs="#WIKI00466-046" n="46" xml:id="pb.046"/> doma. Zato se Amalrik za enkrat oprosti, opravi pa naj cerkveno pokoro. Da pa bi čreteške gospode klicali na sodbo, to ni v naši oblasti. Pač pa naznanimo to, kar smo slišali, deželni gosposki, ki ima oblast soditi plemenitaše in njihove hlapce.“</p>
+            <p>Sodnik stavi svetovalcem vprašanja:</p>
+            <p>„Ali naj se Amalrik izpusti?“</p>
+            <p>Vsi pritrdijo.</p>
+            <p>„Ali naj se mu naloži kaka kazen ali samo cerkvena pokora?“</p>
+            <p>Večina je za cerkveno pokoro.</p>
+            <p>„Ali naj se obravnava o tem zločinu preloži ali završi?“</p>
+            <p>Večina je za to, da se obravnava sklene.</p>
+            <p>Veselje je zavladalo v dvorani, v Amalrikovi družini, rabelj in biriči pa so se držali pusto, ker jim je odšlo delo in zaslužek. Sodnik in svetovalci zapuste dvorano, pisar Henrik pa gre pred trško hišo, kjer prebere Amalrikovo oprostitev. Veliko ljudi se je zbralo iz radovednosti in zanimanja, toda z izidom sodbe niso bili zadovoljni. Vsi so bili na strani Kocijanovi in njegove blage hčerke Nile. Na tihem so se slišale pikre opazke o trških svetovalcih, pisar je požrl nekaj grenkih, sodnik pa je šel domov prepričan, da je sodil pravično, dasi se ni zavedal, koliko je obravnava zaslužila naslov: „strogo izpraševanje“.</p>
+         </div>
+         <div xml:id="wv-IX.">
+            <head xml:id="head.9">IX.</head>
+            <p rend="indent small">Češki kralj Otokar si je po smrti vojvode Ulrika (1269) prisvojil tudi Koroško in Kranjsko.</p>
+            <p rend="align(right) italic small">J. Stare, Občna zgodovina.</p>
+            <p>Bili so jasni, pa mrzli dnevi novembra 1270. Slovenska marka je bila vsa po koncu. Kmetje so se spogledavali in zrli otožno na stoge in žitnice, češ, vojska nam bo vse vzela. Grajščaki so se zapirali v <pb facs="#WIKI00466-047" n="47" xml:id="pb.047"/> svoje gradove, duhovniki so poučevali in tolažili ljudstvo. Prebivalci Slovenske marke so bili ponajveč podaniki brižinskih škofov, zato so želeli srečo češkemu kralju. Nekaj pa jih je kajpada bilo, zlasti grajščinskih, ki so se potezali za čast in srečo vojvode Filipa, voljenega oglejskega patrijarha. Kakor smo že omenili, sta se po smrti koroškega vojvode Ulrika potezala za prestol v Slovenski marki češki kralj Otokar in oglejski patrijarh Filip. Ta je bil brat Ulrikov in ker je ta umrl brez otrok, bi bil on moral po državnih in hišnih zakonih podedovati Kranjsko pa Slovensko marko. Zlasti je bilo Filipu v prilog, ker se njegova izvolitev za oglejskega patrijarha ni potrdila od rimske kurije in ker Filip še ni prejel višjih redov. Zato pa so se prebivalci Koroške, Kranjske in Slovenske marke takoj navdušili za Filipa kot pravnega naslednika, in vojvodska mesta pa trgi so že čestitali Filipu, poklonili so se mu tudi mnogi vojvodski uslužbenci in podaniki. Tako so mu zaprisegli zvestobo in vdanost kranjski deželni glavar Rudelin, Herman Rabenštanjski, Gerold in Oto Turjaški in Gerloh Hartemberški.</p>
+            <p>Pa Filip je dobil mogočnega nasprotnika v svojem sorodniku. Češki kralj Otokar je bil njegov bratranec — zakaj Filipova mati Juta in Otokarjev oče Večeslav sta bila brat in sestra. Otokar se je skliceval na neko listino, podpisano od Ulrika 4. decembra 1269, češ, da v slučaju smrti on podeduje za vojvodom koroškim. Seveda je bila ta listina utihotapljena in neveljavna. Pa ko bi bila tudi veljavna, se Otokar ni toliko zanašal na košček papirja kolikor na svojo premoč. Posebno zanesljive zaveznike je imel v brižinskih škofih. Listina z dne 2. februvarja 1270 leta nam pravi, da je brižinski škof Konrad po Ulrikovi smrti vsa svoja posestva priklopil češkemu kralju. To na Dunaju v kraljevem taboru spisano listino so podpisali tudi škofje bamberški, krški in olomuški, <pb facs="#WIKI00466-048" n="48" xml:id="pb.048"/> grofa Majnhard in Albert iz Gorice in Tirolske, mnogi grofje Češke, Moravske, Avstrijske, Štajerske, Koroške in Kranjci Gebhard Lilienberški, Ortolf Krški, Konrad Loški in Konrad Galski.</p>
+            <p>Pa Filip se je že polastil bratovih posestev in si pridobil vdanost svojih pristašev. Večina mest in trgov mu je prisegla zvestobo, pa tudi dežele in stanovalce oglejskega patrijarhata si je znal pridobiti, tako da je češki kralj moral skleniti z njim premirje. Za 16. oktober sta sklenila sniti se osebno; toda Filip ni čakal tega in je prodiral s svojo vojsko dalje. Tako tudi Otokar ni mogel več odlašati in v novembru 1270 se je dvignil s svojo vojsko proti kranjski deželi.</p>
+            <p>Bili so jasni pa mrzli dnevi meseca novembra. Prvo krdelo vojske je vodil Ulrik Lihtenštajnski. To so bili Avstrijci, Štajerci, Korošci in Kranjci. Kranjcem je zapovedoval Ortolf Krški. Za prvim krdelom se je pomikal sam kralj Otokar z glavno vojsko. Hitro so se polastili utrjenega Slovenjega gradca in prodirali skozi Savinjsko dolino. Ko Otokarjeva vojska prestopi pri Krškem Savo, so se utaborili. Treba je bilo odmora in novih načrtov, predno se spuste po Slovenski marki. Druga mesta in trgi po Marki so se poklonili češkemu kralju, kljubovala sta le brata Oto in Ortolf, gospoda kostanjeviška. Ulrik Lihtenštajnski je šel s svojim krdelom kar dalje proti glavnemu mestu, proti beli Ljubljani, kraljeva vojska pa se je mudila nekaj dni na Krški ravnini. To pa je bilo tako-le:</p>
+            <p>V kraljevi vojski je med vitezi poveljeval Grifo Čreteški z 80 jezdeci in 80 strelci. Njegov pobočnik je bil Fric Čreteški, naš znanec iz prejšnjih poglavij. Ta je bil dozdaj zvest pristaš češkega kralja. Ali tiste novemberske dneve v taboru pri Krškem so se zgodile marsikatere reči, ki so neprijetno dirnile Friceva pustolovstva.</p>
+            <p>Kralju so se hodili poklanjat različni mogočniki Slovenske marke. Kralj se je zanimal za razmere in <pb facs="#WIKI00466-049" n="49" xml:id="pb.049"/> obetal milost in pomoč in pravico. V taboru si srečal vsak dan gotnobrdskega sodnika Uzolda, si se lahko menil z župnikom belocerkovškim Tiberijem, ob enem oglejskim naddijakonom nad Slovensko marko, si čul pridigovati vojakom glagoljaša Štipka, pa še mnogih drugih naših znancev. Kaj čuda, da je prišla kralju na uho tudi dogodba o ropu brodarjeve hčere. Kralj je poklical Frica pred-se in mu zapretil, da takoj izpusti iz Čreteškega grada uropano devico Kancijanilo.</p>
+            <p>Bilo je mrzlo in čreteški strelci so se greli ob ognju, ki je plapolal za velikanskim šotorjem. Pod šotorjem so bili privezani ob lesenih vozovih konji, za vozmi pa so ležali jezdeci. Na debelem hrastovem štoru je stal zagrajski vikar in govoril vojakom:</p>
+            <p>„Vi, vojniki moji, rojaki moji! Poznate me nekateri izza mladih let. Saj smo jaz in večina vas pili materino mleko tam za Gorjanci. Slovenska kri teče po vaših žilah kakor po mojih. Neštetokrat ste pokazali svojo hrabrost, osiveli ste že nekateri v boju za dom in pravico. Veliki kralj Otokar je vaš gospod. Zanj ste se bili zoper malikovalske Pruse, zanj ste šli v ogenj zopor divje Ogre, zvestoba vaša do kralja je bila doslej neomahljiva. Pa kaj slišim? Vi hočete zapustiti zastavo svojega kralja, vi hočete svojega dobrega očeta pustiti na cedilu in se vdati neznani usodi, negotovemu gospodu, ki je zbežal od božjega oltarja, da bi nasitil svojo častilakomnost, da bi si pridobil posvetne oblasti, posvetnege blaga? Vi hočete stopiti pod zastavo Filipa, ki ga je Rim zavrgel, pod zastavo ubeglega duhovnika, pod zastavo človeka, kateri si lasti pravic do vojvodskega prestola? Kaj mislite? Kam ste zabredli? Kdo vas je k temu napeljal?“</p>
+            <p>Pri teh besedah zgrabi nekdo očeta Štipka za vrat, drugi mu zamaši usta s cunjo pa ga zavlečeta venkaj na polje in mu zvežeta roke in noge. Ob ognju in v šotoru pa se je razlegal divji krohot, kletvina in godrnjanje. Na hrastov štor pa stopi čreteški Fric in ukazuje:</p>
+            <pb facs="#WIKI00466-050" n="50" xml:id="pb.050"/>
+            <p>„Strelci, po koncu! Odidimo.“</p>
+            <p>In takoj se dvigne osemdeset strelcev, pa odidejo v temno noč. Vsi so ubogali.</p>
+            <p>Čez nekaj časa tudi Grifo zaukaže jezdecem odhod. Tudi ti se pokoré.</p>
+            <p>Noč je bila temna. Pa Čreteška sta bila vajena potov po svoji domovini. Fric je vodil strelce ob vinskih goricah, Grifo pa jezdece po rimski cesti.</p>
+            <p>Predno je solnce prišlo izza gora, je že Čreteški grad poln vojaškega življenja.</p>
+            <p>Bila je nedelja. Nekaj ljudi je šlo zjutraj k službi božji. Pa najdejo zvezanega vikarja ob cesti. Osvobodé ga in izprašujejo. Ta pa molči in zre krog sebe.</p>
+            <p>„Kje je čreteški šotor? — Ni ga.“</p>
+            <p>„Kje so konji in jezdeci? — Ni jih.“</p>
+            <p>„Kje so strelci? — Ni jih.“</p>
+            <p>„Kje sta čreteška gospoda? — Ni ju.“</p>
+            <p>Le hrastov štor je še tičal v tleh in se ni ganil nikamor. Štipku je bilo takoj jasno, pri čem da je. Niso ga ubogali vojaki, njegovi rojaki, Čreteška pa sta se mu hlinila, češ naj on pomiri vojake, ki se hočejo upreti kralju, ako jim ne poviša plačila. Čreteška sta dosegla svoj namen s pomočjo svojega dobrega vikarja. In ko bi bil tisti hip kdo stopil k Štipku pa bi mu rekel: To je čreteško delo — bi on ne verjel, ampak bi rekel: Vojaki so hoteli od kralja povišanje plače in Čreteška sta morala potegniti z vojaki.</p>
+            <p>V tem pa so v kraljevem taboru že zvedeli, da sta jo Čreteška odkurila. Štipko jim je razlagal, zakaj sta to naredila. Pa župnik Tiberij je majal z glavo in rekel Štipku:</p>
+            <p>„Ti, sin moj, si predober. Čreteški te zlorabljajo. Ne plača, ampak ženska je kriva tega odhoda Čreteških. Njegova visokost, kralj Otokar, je Fricu naložil, da mora ujeto ptico vrniti. To so tiste solze!“</p>
+            <p>Premišljevali so, kako bi kralju ta dogodek pretekle noči napovedali ...</p>
+            <pb facs="#WIKI00466-051" n="51" xml:id="pb.051"/>
+            <p>Kralju je napovedavala povelje sveta jeza.</p>
+            <p>„Takoj naskočimo Čreteški grad!“</p>
+            <p>Svetovalci kraljevi, zlasti Ortolf Krški, so odsvetovali: „Najprej Kostanjevico, potem Čretež! Drugače imamo sovražnika za hrbtom.“</p>
+            <p>V tem pa pride glasnik, ki sporoči, da je Ulrik Lihtenštanjski že pred Ljubljano, in da se mora kraljeva vojska nemudoma podati na pot proti beli Ljubljani.</p>
+            <p>Najprej glavno mesto, potem druga mesta in gradove!</p>
+         </div>
+         <div xml:id="wv-X.">
+            <head xml:id="head.10">X.</head>
+            <p rend="indent small">Kralj Otokar je šel s svojo vojsko iz Savinjske doline v Slovensko marko.</p>
+            <p rend="align(right) italic small">Dimitz, Geschichte Krains I., str. 183.</p>
+            <p>Z velikim naporom pride kralj Otokar s svojo vojsko pred Ljubljano. Dva dni so vojaki počivali, tretji dan pa kralj napove naskok na stolno mesto. Sreča mu je bila ugodna: pri prvem naskoku udero v mesto in Ljubljana se vda. Kralj je ravnal milostno; vojake je izpustil na prosto.</p>
+            <p>Odtod se kralj poda še pred druga mesta in gradove. Niso se mu dosti ustavljali. Na potu proti Kostanjevici se je polastil tudi Čreteža. Ortolf se je poklonil kralju in mu spet zaprisegel zvestobo.</p>
+            <p>Fric pa ni videl obličja kraljevega. Po skrivnem rovu, ki je vodil v mogočni stolp, še dandanes kljubujoč zobu časa, se umakne ter zre skozi line na odprti grad in kraljevo vojsko. Srd se mu je bral na obrazu in oko njegovo je iskalo nekoga. Ni mislil, da bo ujeta Kocijanova hči tako hitro rešena iz ječe. Kraljevo spremstvo ni pozabilo na ukradeno nevesto, in kakor hitro je bela zastava zavihrala nad Čreteškim gradom, je bil pogoj pri zanašanju tudi Kocijanova Nila. Sam Amalrik jo je moral pokazati in jo izpeljati na piano.</p>
+            <pb facs="#WIKI00466-052" n="52" xml:id="pb.052"/>
+            <p>Še je bila tista Nila, visokostasa, širokopleča; toda njena lica so bila bleda, njene oči mokre. Začudeno je zrla oborožene čete, svitle viteze, rezgetajoče konje, šumečo množico. Kaj vse to pomeni?</p>
+            <p>Ko pa je solnce zahajalo za gorami, se prikažeta za gorami dva dospela jezdeca. Eden je bil brodar Kocijan, drugi vikar Štipko. Kakor hitro je ta zvedel, kaj se godi na Čretežu, je v največji naglici zajahal Matejevo kobilico, da sporoči Kocijanu veselo novico. In zdaj sta dospela na Čretež. Vojaki so utihnili, čreteški Ortolf se je držal jezno, krški grajščak pa je prijel v kraljevem imenu Nilo za roko ter jo izročil očetu.</p>
+            <p>Deklica je ihtela veselja in iznenadenja, hvaležno poljubljajoč roko plemenitemu vitezu. Oče pa jo posadi na konja in hitro odrineta iz gradu. Spremljata ju v dolino dva hlapca, Amalrik in Bimbo.</p>
+            <p>Tam gori iz ozke line pa je zrl v dolino čreteški Fric. Lok je držal v roki, kakor bi čakal na plen. Videl je malo prej, da sta dva jezdeca jahala proti gradu. Pa ju ni poznal. Za enega se mu je zdelo, da bi bil vikar Štipko s svojo črno brado, toda ni mogel verjeti. Štipko ni imel navade jahati. Ko pa zdaj vidi spet štiri jezdece, da se pomičejo iz grada, se mu je njegova slutnja hitro uresničila. Oči mu strastno švigajo, napenja zenice, srce mu žge ogenj maščevanja in sovraštva, napenja lok, že stega puščico in jo namerja v vikarja ...</p>
+            <p>Ta je mirno jahal poleg Amalrika, veseleč se današnjega dneva. Spredaj sta jahala Kocijan z Nilo in hlapec Bimbo.</p>
+            <p>Zapiskalo je v zraku, kakor bi potegnil močan veter. Predno se je kateri tega zavedel, je že Amalrik zletel s konja. Puščica je osmodila brado očetu Štipku, zadela pa njegovega spremljevalca v srce ...</p>
+            <p>Krik, stok, šumenje listja — vsi so se prestrašili. Štipko skoči s konja, pograbi ščit svojega spremljevalca, ki je obležal na tleh in zaklical:</p>
+            <pb facs="#WIKI00466-053" n="53" xml:id="pb.053"/>
+            <p>„Pomagajte — vrag gre póme!“</p>
+            <p>To so bile zadnje Amalrikove besede. Štipko mu prigovarja, da obuja kesanje, pa ni bilo več znamenja življenja v njem.</p>
+            <p>„Idimo, da še mi česa ne iztaknemo,“ pravi Bimbo, držeč visoko nad svojo ramo ščit proti tisti strani, odkoder je bila puščica priletela.</p>
+            <p>Ostali hitro odrinejo. Konj Amalrikov je stal poleg svojega gospodarja, vajeti so mu bile nataknjene na bukovo vejo. Kar prileti še ena puščica. Zasadila se je konju v prsi. Ta se povzpne na zadnji nogi, se prevrne vznak čez svojega gospodarja in žalostno zarezgetajoč se prekopicne čez pot v globok prepad. Stremena na konju pa so se zapičila v Amalrikov oklep in konj je tudi Amalrika potegnil za sabo v prepad ...</p>
+            <p>Sova je zletela iz prepada, skovikajoč; gadje, kuščarji in gaščarice so sikale, ozirajoč se, kdo jih moti v ponočnem miru.</p>
+            <p>Fric je meril na vikarja, pa zadel je svojega zvestega oprodo, mlinarja Amalrika. Mrak je legal na drevje, vitez iz stolpa že ni mogel všč razločiti jasno, kdo je padel s konja. Neprijetna slutnja se ga je lotila: Kaj ko bi bil zadel Amalrika? Otresti se je hotel te mučne misli in v nevolji sproži še eno puščico na konja. In takrat je prišel do spoznanja, da je zadel Amalrika. Ko se je ta s konjem zvrnil čez pot, je Fric spoznal rokavnik in oklep mlinarja Amalrika ...</p>
+            <p>Črv, ki se mu je trenotno vzbudil v njegovi grešni duši, je takoj spet zaspal, in roparski vitez zamrmra skozi dolgo lino v zaraščeno dolino:</p>
+            <p>„Kar je zaslužil, to je našel, človek brez srca! Gotnobrdskega sodnika je prevaril, Bog je pa mene postavil za rablja, da sem ga brez vrvi spravil na oni svet! Seveda, jaz nisem nedolžen pri vsi ti stvari in po ljudski sodbi bi zaslužil najdebelejšo vrv. Toda <pb facs="#WIKI00466-054" n="54" xml:id="pb.054"/> sodil nas bo Bog in jaz se bom pred Bogom zagovarjal s tem, da se v vojnem času marsikaj spregleda, kar ne v mirnem času ... Pa kaj bi iskal razlogov? Moje deklice pa vendar ni več v gradu. Kar pohitel bi za njo, toda za me je za vselej izgubljena. Morda pa tudi ne? Saj o deklici se ne more reči, da bi za me ne marala, toda boji se me ... Res so poželjive strasti razjedale mojo dušo, kolikorkrat sem ji gledal v oči, toda reči moram vendarle, da ji sile nisem delal ... Toda pustimo to! Kar je bilo, je bilo. Mnogo truda me je stalo, človeško žrtev imam na svoji vesti, načrti so pa vsi padli v vodo, ves trud je bil zaman, celo viteško besedo sem prelomil, se kralju izneveril, pri ljudeh sem prišel ob vse zaupanje, in tega Štipka, mojega angela varuha — pa sem namerjal umoriti ...“</p>
+            <p>Fricu se je iznova zbudil črv vesti. Naglo je korakal po temačni sobi gori in doli, pred očmi so se motale črne pošasti, ki so prežale nanj ...</p>
+            <p>„Mlinarja si zapeljal, da je uropal deklico, ubil njeno deklo Marto, zdaj pa si ga še brez kesanja, brez pokore poslal na oni svet! Svojega dobrotnika, svojega očeta, ki te je tolikokrat zagovarjal, ki si mu toliko krivic storil, ki ti je vse odpustil, pa si hotel v svoji zaslepljeni strasti umoriti! — Pa kaj bi našteval pregrehe, ko ni očeta Štipka, da bi mi jih odpustil!“</p>
+            <p>Lase si je pulil z glave, divje je gledal in že je rinil skozi lino, da bi skočil raz visoki stolp ... Toda lina je bila preozka.</p>
+            <p>Naslonil se je na lino, pa je slišal veselo vpitje in bojni vrišč iz grajskega dvorišča — — —</p>
+            <p>Onemogel je Fric zadremal ...</p>
+            <p>Spet se prebudi. Skoči po koncu ... Razum se mu jame vračati, mirneje bije srce, truden se vleže na posteljo in zaspi ...</p>
+            <pb facs="#WIKI00466-055" n="55" xml:id="pb.055"/>
+            <p>V krčmi na brodu pri Grotnem brdu pa je med tem vladalo veliko veselje ob srečnem povratku domače hčere. Celo noč so se gostili in veselili.</p>
+            <p>Tudi oče Štipko je že počival na svojem domu. Le hlapec Bimbo ni imel mirne noči ter je gledal s pota v prepad, da se je delal beli dan ...</p>
+            <p>Ali tudi tebe čaka Amalrikov konec?!</p>
+         </div>
+         <div xml:id="wv-XI.">
+            <head xml:id="head.11">XI.</head>
+            
+               <l xml:id="l.30">Stoji stoji pusti grad,</l>
+               <l xml:id="l.31">nima oken, nima vrat —</l>
+               <l xml:id="l.32">Le ena sama linica,</l>
+               <l xml:id="l.33">v kter stoji Marjetica.</l>
+            
+            <p rend="align(right) italic small">Štrekelj: Nar. pesmi, str. 142.</p>
+            <p rend="indent small">Leta 1270 so križniki udarili čez morje naprej na mohamedansko državo z imenom Tunis.</p>
+            <p rend="align(right) italic small">Križanič: Zgod. kat. cerkve II. 134.</p>
+            <p>Kraljeva vojska se je dvignila na jutro od Čreteža proti Kostanjevici. Izpraznil se je grad, boben je utihnil, trobenta ni več pela, šum se je polegel, vse je bilo tiho, mrtvo, pusto okrog grada in v gradu. Ortolf je odpotoval v Ljubljano, kjer je imel svojo hišo. Radoveden je bil, če je njegova hiša kaj trpela ob kraljevem naskoku na mesto. Tudi gospa njegova in otroci s spremstvom so odrinili proti Ljubljani. Le nekaj hlapcev in služkinj je ostalo doma.</p>
+            <p>In Fric Čreteški? Ta je hodil po lesenem mostu, ki je vezal obadva hodnika na dvorišču in premišljal svojo usodo. Njegov hlapec Bimbo pa je slonel na hodniku, ki se je razpostiral pod streho okrog okroglega gradu, in na katerem so stale lesene metalnice, s katerimi so metali težke kamene na sovražnika. Tudi Bimbo je premišljeval in gledal proti cerkvi sv. Tomaža. Vest se mu je vzbudila in najrajši bi bil skočil raz visoki hodnik v globoki jarek pod gradom. Toda prijazno oko očeta Štipka ga je gledalo in mu namigavalo, <pb facs="#WIKI00466-056" n="56" xml:id="pb.056"/> naj ne obupa ... Dvigne se in gre pogledat za svojim gospodom.</p>
+            <p>Ta je še vedno stopal po lesenem mostu gori in doli. Nihče ga ni upal nagovoriti. Le Bimbo ga nagovori s tresočim glasom:</p>
+            <p>„Gospod, ali zajašemo?“</p>
+            <p>Fric ga debelo pogleda, pa vpraša:</p>
+            <p>„Kam?“</p>
+            <p>„Do našega očeta.“</p>
+            <p>Nekaj trenotkov pozneje sta bila že dva konja osedlana na dvorišču. Jezdeca odrineta v dolino.</p>
+            <p>Hitro sta jahala ... Blato se je gnetlo pod nogami, nebo pa so zakrivali temni oblaki. Težko sta konjiča sopihala po strmem klancu proti Hrastju.</p>
+            <p>„Poglej, Bimbo, to je tista njiva, ki je Mateja stala glavo.“ —</p>
+            <p>„Aha, Libenštajnar se je že vrnil domov z božje poti.“</p>
+            <p>„Tako? Pa se oglasiva pri njem.“</p>
+            <p>Hitro spet poženeta konja in se ustavita v Zagradu. Krčmarja pa ni bilo doma. Odšel je po opravkih v Gotno brdo.</p>
+            <p>Od Zagrada zavijeta jezdeca proti cerkvi sv. Tomaža. Barba se je prestrašila, zagledavši viteza s svitlo opravo:</p>
+            <p>„E, že spet ta klatež! Dobro, da ni Štipka doma.“</p>
+            <p>Ta je namreč že zarana odšel v Gotnobrdo.</p>
+            <p>Jezdeca nevoljno odideta. Pa ne poženeta proti Gotnemu brdu, ampak proti Jelendolu.</p>
+            <p>„Bimbo, pojdiva pogledat poganski dekleti. Rad bi se razvedril. Do večera jo že Štipko primaha domov.“</p>
+            <p>Štipko pa je gostoval pri vikarju Nikolaju. Vse je moral povedati, kako je vodil brodarja v grad, kako so potovali proti domu, kako je Amalrika zadela sovražna puščica ... Pravil mu je o taboritvi pri Krškem, o odhodu Čreteških, o svoji usodepolni pridigi.</p>
+            <pb facs="#WIKI00466-057" n="57" xml:id="pb.057"/>
+            <p>„Štipko, ti si zlata dušica! Zato te Bog ne zapusti, zato te angelj varuje. Ali meniš, da je kdo drugi streljal na Amalrika, kakor Fric ali kdo njegovih pomagačev? Sram me je, da sem Čreteški, pa kaj hočemo? Kaj bi šele bilo, ko bi ne bilo tebe, ljubi moj Štipko?“</p>
+            <p>In vikar gotnobrdski ga iskreno objame.</p>
+            <p>„Kaj pa hočemo,“ odvrne Štipko. „To je naša dolžnost. Res je naš trud dostikrat zaman, toda zavest imamo vendarle, da smo storili svojo dolžnost. Povem pa ti po pravici, da sem se že naveličal prazno slamo mlatiti pri tem čreteškem vitezu. Tudi zamotal se je tako v različne zanjke, da zanj skoro ni izhoda. Edino pametno bi bilo po mojih mislih, da bi zapustil Slovensko marko ...“</p>
+            <p>„In kam da bi šel?“ popraša hitro oče Nikolaj, katerega oči so se zaiskrile, kakor da bi hotel uganiti Štipkovo misel.</p>
+            <p>„Kam da bi šel? Tudi jaz bi šel z njim, šel bi čez široko morje, pripel bi rdeči križ na svoje prsi, pa bi preganjal Mohamedove brate iz Svete dežele.“</p>
+            <p>„Torej v križarsko vojsko, dragi moj? Mhé — če bo še kakšna! Saj veš, da so že sedemkrat kristjani poskušali svojo srečo, toda spet je Palestina padla nazaj v roke sovražnikov. Tako velik, tako svet mož, kakor je bil francoski kralj Ludvik, pa je šel po svojo smrt v Sveto deželo.“</p>
+            <p>„Ali ni to lepa smrt, oče Nikolaj? Umreti za sveto vero, umreti za Kristusa!“</p>
+            <p>Gotnobrdski vikar umolkne.</p>
+            <p>Kar potrka nekdo na vrata. Bil je Bimbo.</p>
+            <p>„Prečastiti oče, moj gospod me je poslal, da ga obiščete. Zdaj je v Gotnem brdu v svoji palači.“</p>
+            <p>Duhovnika se začudita.</p>
+            <p>„Kaj želi tvoj gospod?“ vpraša Štipko.</p>
+            <p>„Odpotovati namerava, pa bi še rad prej govoril s svojim stricem.“</p>
+            <pb facs="#WIKI00466-058" n="58" xml:id="pb.058"/>
+            <p>„Odpotovati?“ se čudi Nikolaj in pogleduje zagrajskega vikarja.</p>
+            <p>Ta pa seže v besedo in pravi hlapcu:</p>
+            <p>„Povej tvojemu gospodu, da naj gre takoj v cerkev sv. Katarine. Tam ga bom jaz pričakoval.“</p>
+            <p>„In potem ga obiščem tudi jaz,“ pristavi še gotnobrdski vikar.</p>
+            <p>Bimbo zamišljen odide in tudi vikarja se poslovita.</p>
+            <p>Pol ure pozneje je že čreteški Fric pričakoval očeta Štipka. Resen je bil pogled vikarjev, da mu vitez ni upal pogledati v oko.</p>
+            <p>„Kako dolgo, premilostni, še boste zlorabljali mojo potrpežljivost? Kaj sem vam storil, da mi strežete po življenju? Kaj hočete, da bi tudi jaz teptal pravico, kakor jo vi? Kaj nič več ne bije v vas srce krščanskega človeka? Ali vam je vest čisto oglušila?“</p>
+            <p>Vitez stoji pred njim s povešenimi očmi, s sklonjeno glavo, desnico naslonjeno na mečev ročaj, z levico pa je drgnil prste ob pest, kakor bi hotel priklicati nekaj na beli dan. Šlem je držal v roki Bimbo, stoječ v leseni lopi pred cerkvenimi vrati.</p>
+            <p>„Oče, spoznam, da sem velik grešnik, spoznam, da mi bo Bog težko odpustil grehe, spoznam, da mora biti pokora grehom primerna.“</p>
+            <p>„Ali pa imate tudi voljo, resno voljo, spokoriti se za svoje grehe?“</p>
+            <p>„Imam voljo. Samo odločite mi pokoro in Bog mi je priča, da jo izvršim.“</p>
+            <p>„Treba bode zapustiti očeta in mater, treba bode zapustiti brate in sestre, pa tudi domovino.“</p>
+            <p>„Torej na božjo pot v Asisi, udeležit se odpustkov Porcijunkule?“</p>
+            <p>„In še dalje, premilostni vitez! Treba bode čez morje, treba bode vzeti v roko meč in se vojskovati zoper mohamedane.“</p>
+            <p>„Ah, v križarsko vojsko! Ali, ali ...“</p>
+            <p>„Ali imate res voljo, delati pokoro?“</p>
+            <pb facs="#WIKI00466-059" n="59" xml:id="pb.059"/>
+            <p>„Imam.“</p>
+            <p>Ali ste pokorni moji besedi?“</p>
+            <p>„In kdo gre še z mano?“</p>
+            <p>„Odgovorite na mojo besedo,“ odvrne resno in odločno vikar Štipko.</p>
+            <p>„Samo grehov me odvežite; jaz ne morem več prenašati očitajoče vesti. Saj naredim pokoro, ki jo zahtevate, ako je tako volja svete cerkve.“</p>
+            <p>Skesani vitez poklekne pred vikarja, ki si je spet nadel duha sv. Frančiška, pa se izpoveduje svojih grehov. Dolgo časa je poslušal oče Štipko, naposled napravil velik križ črez skesanega Frica, na prsi pa mu je pripel križ iz rdečega sukna.</p>
+            <p>Pokliče tudi Bimba, ki je zaželel vikarjeve odveze, pa tudi njemu pripne na rame rdeč križ.</p>
+            <p>Naposled ga pripne tudi sebi in pravi:</p>
+            <p>„Hudi časi so v Sveti deželi. Francoski kralj Ludovik blaženega spomina je umrl, zdaj pa njegov brat, kralj Sicilije, zbira križarje. Tja gremo tudi mi, da rešimo Sveto deželo, da rešimo tudi svojo dušo ... Izidi sen Tvoja volja, jako v nebesih, ibo na zemlji. Amin.“ —</p>
+            <p>Vikar Nikolaj je že pričakoval svojega nečaka v palači. Potrdil ga je v njegovem sklepu, ta pa je naročil svojemu stricu vse, kar ga je skrbelo in mu izročil vse, kar je imel svojega. Prosil ga je odpuščanja, izročil več njiv in travnikov cerkvi sv. Nikolaja, pa tudi na Amalrikovo družino in celó na Kancijanilo ni pozabil.</p>
+            <p>Ko se je na večer Fric vračal na Čretež, ga je prepeljal čez brod brodnik Grga. Svitel cekin mu je stisnil vitez v roko, Grga pa je ginjen veliko govoril, a malo povedal.</p>
+            <p>„Mhe, milostivi gospod, ali greste kar domov?“</p>
+            <p>„Kje pa je Nila?“ povpraša vitezov hlapec.</p>
+            <p>„Mhe, pri ognjišču je, vedno pri ognju,“ odvrne brodnik.</p>
+            <pb facs="#WIKI00466-060" n="60" xml:id="pb.060"/>
+            <p>„Pa bi jo poklical iz veže, Grga,“ povpraša spet Bimbo.</p>
+            <p>„Mhe, bi jo že, pa ...“</p>
+            <p>Bimbo stisne še en cekin v roko brodniku.</p>
+            <p>„Ali samo poklical jo bom, mhe.“</p>
+            <p>„Pa reci ji, naj da tisto rožo iz nedrij gospodu vitezu! Ali boš, Grga?“</p>
+            <p>„Mhe, veliko tirjaš od mene,“ odvrne Grga in se obrne proti leseni kolibi.</p>
+            <p>Še en cekinček se je zasvetil v Bimbovi pesti.</p>
+            <p>Fric in Bimbo zajašeta in se počasnih korakov bližata Kocijanovi hiši.</p>
+            <p>Grga pa je hitro stopil v vežo in zašepetal krčmarjevi hčeri nekaj na uho. Ta je osupnila, zardela, pa se zamislila.</p>
+            <p>„Ali očetu ne pravi tega, Grga! Veš, četudi ne v srcu, blizu srca mi je pa vendarle prirasel ta čudni, nesrečni vitez. Ako je to res, kar si povedal, potem mu želim vse dobro in srečno povrnitev.“</p>
+            <p>In tedaj stopi Nila na prag, vrže rožo iz nedrij vitezu v naročje in zakliče, stegnivši desnico in jo pritisnivši na ustne:</p>
+            <p>„Srečno in veselo!“</p>
+            <p>Takoj spet izgine deklica v veži, vitez pa odjaše neizrečeno vesel in ponosen na rožo, ki mu jo je dala na pot. Ni pričakoval, da ga Nila tako prijazno pozdravi.</p>
+            <p>„Ta Grga ima pa vendar le veliko moč pri hiši,“ reče vitez svojemu spremljevalcu.</p>
+            <p>„Še večjo moč pa imajo zlati cekini, premilostni,“ odvrne Bimbo. „Ta lakomna duša me je natezala toliko časa, da sem mu moral šteti tri cekine.“</p>
+            <p>„Še tri in še tri in še tri bi bil rad dal za Nilino rožo. Ta me bo spominjala veselih in žalostnih ur, pa tudi dajala srčnost, ko pojdemo čez daljne gore, ko se popeljemo čez morske globine ...“</p>
+            <p>Dvoje olajšanih src se je treslo na konjih ob potoku Radulji in navzgor proti Čreteškemu gradu ...</p>
+         </div>
+         <pb facs="#WIKI00466-061" n="61" xml:id="pb.061"/>
+         <div xml:id="wv-XII.">
+            <head xml:id="head.12">XII.</head>
+            <p rend="indent small">Popu Bogomilu ne bijaše mučno pridobiti za svoje učenje narod, koji se ponajviše bio istom ustavi o paganstvu; njegova je nauka o dvema najvišima bićima godila svjetu, što se još živo sječao stare svoje pradjedovske vjere, koja je takodjer pričajuči o bogovima i biesovima držala, da su dva boga: dobri i zli.</p>
+            <p rend="align(right) italic small">Dr. Iv. Broz: Črtice iz hrv. književnosti II., str. 130.</p>
+            <p>Pobožni francoski kralj Ludvik IX. je umrl na kužni bolezni pod afrikanskim solncem 25. avgusta 1270. Ni se mu posrečilo iztrgati Svete dežele iz mohamedanskih rok. Njegov brat Karol, vojvoda Sicilijski, je poskušal nadaljevati križarsko vojsko zoper nevernike. Zbiral je križarje, katerim sta se pridružila tudi glagoljaš Štipko, čreteški Fric s svojim zvestim hlapcem Bimbom, Libenštajnar in več drugih. Šli so po zaobljubi čez laško deželo, spotoma obiskali v Asisu Porcijunkulo sv. Frančiška pa stopili na Sicilijanski otok.</p>
+            <p>Z velikim navdušenjem je sicilijanski vojvoda Karol peljal svoje ladije, polne križarjev, na afrikansko zemljo ...</p>
+            <p>V tem času pa, ko sta zagrajski vikar in čreteški Fric jadrala po Sredozemskem morju, je bila marsikatera duša v Slovenski marki, ki je pogrešala očeta Štipka. Tako je bilo tudi na Jelendolu.</p>
+            <p>Zora ni več mislila na ženitev s Frolajhsdorferjem. Pa tudi ta je jel bolj ceniti soseščino Amalrikove vdove v Škocijanu, kakor pa meljavo jelendvorske poganke. Zora je bila vedno bolj vtopljena v verske dvome in zamišljena je hodila okrog. Oče Štipko ji je marsikdaj prišel na pomoč — a zdaj ga ni bilo več v Slovenski marki. Solnčica se je držala svoje črede in svojega boga Peruna, a pogrešala je še bolj zagrajskega vikarja kakor njena sestra.</p>
+            <p>Deklici sta bili že toliko poučeni v krščanskih resnicah, da ju materina beseda ni mogla več oživiti. <pb facs="#WIKI00466-062" n="62" xml:id="pb.062"/> Udeleževali sta se materinih daritev na čast raznim bogovom, toda ostali sta hladni do Svetovita, do Žive, do Velesa in drugih bogov. Že se je podiral v srcu poganski hram, tlele pa so vroče iskre na dnu razdvojenega srca, iskre kesanja in ljubezni.</p>
+            <p>Nekega spomladanskega dne je Solnčica lezla po skalnati pečini in iskala uhelnika. Ta zelišča so namreč v tistih časih zasajali na strehe, češ da ta rastlina odvrača strelo. Ko tako leze po skalah in išče po tleh, začuje od daleč človeško govorico. Radovedna postaja, pa se približuje ...</p>
+            <p>Nedaleč v dolini zagleda več ljudi pod košatim hrastom. Natihem se plazi dalje, dokler ne postoji prav blizu nenavadne družine. Skrije se v vejevju košatega kostanja in posluša.</p>
+            <p>Pod hrastom je stala z belim prtom pogrnjena miza, na mizi odprta evangeljska knjiga, poleg nje pa veliko hlebov kruha.</p>
+            <p>Ob mizi je stal mož z dolgo črno brado, v dolgi črni halji, prepasan čez ledja. Skupno je molil očenaš z verniki, potem pa dvignil desnico in govoril: „Milost Gospoda našega Isusa Krista neka je z nama vsema,“ prelomil kruh in ga porazdelil med vse pričujoče.</p>
+            <p>Poganska deklica zre, posluša, strmi, pa ne more pojmiti te nenavadne službe božje. O katoliškem, krščanskem bogoslužju je že pač dosti slišala, pa tudi nekoliko videla, toda to lomljenje kruha, ta večerja ali zajutrek se ji je zdel nerazumljiv. Ali so krščeni, ali niso?</p>
+            <p>Mož v dolgi halji nadaljuje:</p>
+            <p>„Zviti krivoverci hočejo vsekako, da se sprijaznijo s plemenitaši in veljaki. Napravijo se kot trgovci in prinesó gospodi dragocene reči, prstane in drage kamene. In če jih gospoda praša, kako robo imajo, oni odgovore: Imamo prav dragocene reči in jih prodamo, ako nam obljubite, da jih ne pokažete duhovnikom. In ko obljubijo, da ne bodo nikomur pokazali, <pb facs="#WIKI00466-063" n="63" xml:id="pb.063"/> tedaj začne zvijač tako: Imam biser, ki je tako svetel, da lahko človek skozenj Boga vidi; imam tudi drug biser, ki je tako ognjen, da užge ljubezen do Boga v tistem, ki ga ima. In tako govori dalje o samih biserih, a misli pa le na svoje nauke. In pridene tudi kako poglavje iz svetega pisma, kakor : Na Mojzesovo stolico sedejo pismarji ... Gorje vam, pismarji in farizeji, hinavci, ki zapirate nebeško kraljestvo ... In ko ga vprašajo: Kdo so ti pismarji in farizeji? jim odgovori: Duhovniki in poglavarji. Pa to so ošabneži, ti učitelji rimske cerkve, ter začno svoje govore s tem, da so mojstri, gospodje. Toda vam ni treba teh gospodov. Oni so bogati in trdi, a mi smo zadovoljni z malo hrano in obleko. Oni ljubijo razkošje, mi pa smo zdržni. Oni gredo na vojsko in se bijejo, obsojajo uboge ljudi na smrt in na grmado, a mi trpimo preganjanje radi pravice. Oni so zajedalci in brez posla, mi pa živimo od svojih rok. Oni uče, da so samo oni učeniki, a pri nas uče moški in ženske, tudi po eden učenik uči drugega sedem dni. Pri njih je malo učenikov, ki bi znali na izust po vrsti tri poglavja iz novega zakona, pri nas pa je malo mož in žena, da ne bi znali na izust svetega pisma v domačem jeziku. In ker imamo mi pravo vero Kristusovo in sveto življenje in vsi učimo nauk, zato nas pismarji in farizeji preganjajo do smrti kakor Kristusa. Toda zaman! In poleg tega še to le: Oni samo govoré, a ne store, nalagajo ljudem težko breme, a sami ne ganejo s prstom. In mi? Kar učimo, to tudi delamo. Oni delajo na to, da se bolj vršé človeške žrtve kakor božje zapovedi, mi pa priporočamo, da se je držati samo Kristusovega nauka in svetih apostolov. Oni nalagajo spokornikom najtežje kazni, a sami za svoje grehe niti z očesom ne mignejo. Mi pa se držimo Kristusa in govorimo grešniku: „Pojdi in ne greši več!“ ter ga s polaganjem rok oprostimo vseh grehov in mu po smrti dušo odvedemo v nebesa, med tem ko oni gotovo duše tirajo v <pb facs="#WIKI00466-064" n="64" xml:id="pb.064"/> pekel.“ In sklep je tak: Pomislite, katera cerkev je lepša, naša ali rimska — pa izberite!“</p>
+            <p>Solnčica je prisluškovala temu govoru, kakor bi bila okamenena. Končno je spoznala, da je mož, ki je govoril te nenavadne besede, krščen, pa ne rimske cerkve. Silno ji je ugajal ta nauk, toda podoba glagoljaša Štipka ji je plavala pred očmi. Strah jo je bilo, pa vendar jo je gnala radovednost. Osrči se, pa opazuje dalje.</p>
+            <p>Izmed množice stopi pred mizo človek pri tridesetih letih. Solnčica je skoro osupnila. Tako znan se ji je zdel ta človek. Poteze na licih, njegove oči, njegovo kretanje — vse to jo je spominjalo na domačo hišo. Sum se ji vzbudi. Pa saj ni mogoče ... Posluša dalje. Neznani in znani človek začne, priklonivši se in upognivši svoje koleno:</p>
+            <p>„Stojim pred Bogom in pred vami, da se izpovem in obtožim svojih grehov, katere sem storil, da zadobim odpuščanje od Boga in od vas.“</p>
+            <p>Mož z dolgo črno brado je držal evangelje na svojih prsih, pa je knjigo položil spokorniku na glavo in vsi drugi verniki svoje desnice.</p>
+            <p>Srce je prevladalo Solnčici razum. Ni se mogla več zdržati, nevidna moč jo je potegnila izza grmovja in prihitevši pod košati hrast zakliče:</p>
+            <p>„Bratec moj, tudi jaz sem tvoja, tudi jaz sem spokornica, saj hočem biti taka. Ljudje božji, krščanski ali kakršni ste že, poslušajte tudi mene, tudi jaz se izpovem svojih grehov pred vsem svetom ...“</p>
+            <p>Čudna zmešnjava je zavladala okrog belo pogrnjene mize. Bogomili so imeli svojo službo božjo, pa so mislili, da jih je nekdo izdal. Preplašeni gledajo nenavadno žensko. Ko se duhovi pomirijo, se šele razmota nenavadna dogodba. Spokornik, ki je prisegel na evangelij, je bil Henrik, gotnobrdski rabelj in brat prihitele Solnčice.</p>
+            <pb facs="#WIKI00466-065" n="65" xml:id="pb.065"/>
+            <p>Kakor smo že omenili, se je Markart, gotnobrdski meščan, dal krstiti. Ta je bil brat jelendolske Jele. Sin njegov pa je bil Henrik, tudi kristjan. V svoji službi kot rabelj je hodil po raznih krajih Slovenske marke, časih pa so ga klicali tudi na Hrvatsko in še celo v Bosno je zašel nekaterikrat. Tam je zašel v družbo krivoverske ločine bogomilov, ki so bili takrat razširjeni po vsem slovenskem jugu. Nalezel se je naukov bogomilov, ki so učili, da v človeku ni proste volje, da je svet ustvarjen od hudega duha itd. Zametali so češčenje svetnikov, zametali vnanjo službo božjo, živeli pa so ostro, prepovedali ženiti se, meso jesti itd. Seveda je bil ta nauk nevaren, pa na srečo so imeli dvoje vrste vernikov: eni so strogo držali svoje zapovedi, takozvani popolni, drugi pa so živeli po stari krščanski navadi in popolni so bili zadovoljni, ako so drugi verniki samo obljubili tako živeti, kakor jim je bogomilska vera zapovedovala. Zato pa še zdaj ni jasno, ali so bili bogomili samo nekaka socijalna stranka, ki je težila za prevratom v krščanstvu, ali pa je bila prava verska ločina.</p>
+            <p>Tudi po Slovenski marki takrat ni manjkalo bogomilov, ki so se na tihem shajali po samotnih krajih. In tako tudi naleti jelendolska Solnčica na tako shajališče bogomilov. Zlasti spreobrnjeni pogani so se zelo nagibali k bogomilom, ker so bili bogomilski nauki bolj prikupni kakor nauki katoliške cerkve. Zlasti slabi vzgledi višjih krogov in pomanjkanje oznanjevanja božje besede in božje službe v domačem jeziku je zelo oviralo spreobračanje poganov. Zato ni čuda, da je na pol otujeno, pa ne še vnovič vtrjeno srce jelendolske poganke nova vera bogomilov delovala z neko neustavljivo silo.</p>
+            <p>Očeta Štipka ni bilo več, da bi zalival nežne cvetke na krščanskem vrtu. In tako je bilo do cela naravno, da je gotnobrdski rabelj svojemu na pol poganskemu, na pol krščanskemu srcu zadostil, sprejemši <pb facs="#WIKI00466-066" n="66" xml:id="pb.066"/> vero bogomilov. In ko se je ta preobrat izvršil v njegovi duši in je bil sprejet celo med popolne bogomile, tedaj se je z vso gorečnostjo lotil tudi drugih, da jih pridobi za novo vero, In najbolj srečne trenotke je ujel pri svojih sorodnikih.</p>
+            <p>Na Jelendolu je bil po tistem ranem jutru skoro vsakdanji gost. Odpovedal je službo rablja, ker je bilo po bogomilski veri prepovedano celo živali sesalce in ptice pobijati, nikar šele ljudi. Posvetil se je bogomilski veri in v kratkem času je žel uspehe, kakršnih zagrajski vikar ne bi bil prenesel.</p>
+            <p>Oče Štipko je zapustil svoje ovce — pa je prišel volk in mu jih je odnesel ...</p>
+         </div>
+         <div xml:id="wv-XIII.">
+            <head xml:id="head.13">XIII.</head>
+            <p rend="indent small">Ukorjenivši se medju Bugarima, bogomilstvo se uzelo prostirati na sve strane ... prostrlo se po svemu balkanskemu poluostrvu, i medju Grcima i medju Slovenima ...</p>
+            <p rend="align(right) italic small">dr. Iv. Broz: Črtice o hrv. književnosti.</p>
+            <p>Gotnobrdski oskrbnik Eberhart je bil rodom Bavarec. Radi svojega mehkega, ljudomilega značaja je bil priljubljen pri ljudeh, tudi pri Slovencih. Ne tako župnik in naddijakon Slovenske marke, Italijan Tiberij. Gotnobrdski vikarij Nikolaj pa je bil zmerom bolj bolehen ter je vse svoje skrbi izročal svojima kaplanoma.</p>
+            <p>Ko so se tisto zimo bogomili naenkrat tako razširili po hribih, je bilo treba močne roke pa modre glave, da se nevarna kriva vera zatre. Poznalo se je, da je zagradski vikarijat prazen in duhovščina je pogrešala dobrega pa skrbnega glagoljaša Štipka. Nekdanji gotnobrdski rabelj je z vnemo in uspehom širil bogomilstvo po hribih in dom jelendolske Jele mu je bil zanesljivo zavetišče. Obe hčerki sta se oprijeli nove vere, pa tudi ostarela Jela je roko držala <pb facs="#WIKI00466-067" n="67" xml:id="pb.067"/> svojemu sinu Henriku, dasi ne toliko navdušena za bogomile, kolikor iz nasprotovanja do krščenih.</p>
+            <p>V krakovskih gozdih se je paslo neizmerno veliko prašičev. Bilo jih je preveč in kmetje so godrnjali, da tudi graščaki pasejo svoje svinje po krakovski hosti. Zato so se pritožili na oskrbništvo brižinskih škofov. Oskrbnik Eberhart je ugodil kmetom in prepovedal graščakom, brezplačno pasti prašiče po krakovskih gozdih.</p>
+            <p>Tudi jelendolska Jela, kakor Čreteški, je pasla veliko čredo praset po Krakovem. Čreteški se je kajpada nagibal k bogomilom in težko se je odločil, da bi plačeval od paše.</p>
+            <p>V vinogradih je češki kralj Otokar kmetom zajamčil tako imenovano „gorsko pravdo“. Dasi so bili kmetje v vseh zadevah podložni graščakom, v vinogradskih zadevah pa so si ohranili še iz davnih časov nekako samostojnost. Volili so sami dvanajst mož, kateri so vodili gorske zadeve. Vsak gornik je imel pravico pritožiti se do te dvanajstorice, če se mu je godila krivica. To je bil ostanek iz starih časov svobode, ki se je obdržal do konca 18. stoletja.</p>
+            <p>Ker se je Čreteški polastil samovoljno nekaterih vinogradov v Vinvrhu, so se kmetje pritožili na oskrbništvo, katero jim je ugodilo.</p>
+            <p>Zato je Eberhart, oskrbnik brižinskih škofov, užival pri kmetih po Slovenski marki veliko zaupanje. Župnik Tiberij mu je milo potožil, kako ruje nekdanji gotnobrdski rabelj proti katoliški cerkvi ter širi po hribih krivo vero bogomilov. Eberhart se je zavzel za čast svoje vere in s pomočjo gotnobrdskih kaplanov napovedal boj krivi veri. Kjer je mogel, je pritiskal na bogomile in gotnobrdski sodnik Uzold je svojega nekdanjega rablja pozval na „strogo izpraševanje“.</p>
+            <p>Pozabili so se križarji, govorica je bila tisto spomlad le o bogomilih. Eni so se zavzemali za „čisti nauk“ bogomilov, drugi so ga zametavali. Povsod je <pb facs="#WIKI00466-068" n="68" xml:id="pb.068"/> bilo mnogo prepirov, pa tudi pretepov. Zagrajska cerkev je stala prazna in trava je rasla po stezicah, po katerih so prej ljudje hodili k staroslovenski službi božji. Bogomili so namreč zametavali vsako zunanjo službo božjo, niso marali za svetnike, celo križ jim je bil malikovanje.</p>
+            <p>Hribovci niso marali za božjo besedo gotnobrdskih kaplanov, še manj za latinsko službo božjo, samo Eberhart je bil, pred katerim so se umikali. Bali so se ga in spoštovali. Sam je hodil po vaseh, razlagal ljudem pravi Kristusov nauk, a uspehov ni žel. Ubogali so Eberharta v posvetnih zadevah, toda bogomilstva jim ni mogel pristuditi. Duhovščina pa se jim niti prikazati ni smela, tudi domača kaplana ne več, tako so bogomilski popolneži vlili sovraštvo v njihova srca. Le gotnobrdski sodnik je izvajal strogo svojo oblast in obsodil bogomile na grmado.</p>
+            <p>Trg Gotnobrdo ni hrepenel po bogomilskih novotarijah in je zaupno držal z župnikom belocerkevskim. Tudi brodar in krčmar in meščan in občinski svetovalec Kocijan je pomiloval svojega nesrečnega nečaka, dasi ni javno nastopal zoper bogomile.</p>
+            <p>Pa še nekaj je bilo, kar je Eberhartu potisnilo evangelij v roke. Bil je pri petintridesetih letih, a še samec. Vikar Nikolaj ga je nagovarjal, naj se oženi. Trški pisar je pravil pri Kocijanovih, da bi poprašal oskrbnik za Kancijanilo, pa si ne upa. Brodarjeva hčerka je bila vsled tega zelo huda na trškega pisarja. Pa čas vse prevrne. Nili je bilo strašno po godu, da se je Eberhart zavzel za njene sorodnike na Jelendolu. Ni pa mogla pisarja, ki je na Uzoldovo povelje gonil bogomile pred sodišče. Zato je bila oskrbniku zelo naklonjena in enkrat sta celo z očetom šla na Jelendol obiskat svoje sorodnike.</p>
+            <p>Vse je bilo zmešano po hribih. Ljudje so podivjali, manjkalo jim je dobrega pastirja. Štipka ni bilo več ...</p>
+            <pb facs="#WIKI00466-069" n="69" xml:id="pb.069"/>
+            <p>„Ej, ej, zakaj smo očeta Štipka pustili v sveto deželo?“ je tožil Tomo, sedeč v Kočijanovi gostilni.</p>
+            <p>„Pa bi ga bil držal, če si ga mogel,“ odvrne krojač Janko. „Saj veš, da so vsi pobožni ljudje tudi svojeglavci.“</p>
+            <p>„Štipko ni bil svojeglavec, pač pa njegov zapeljivec, tisti čreteški Fric,“ reče spet črevljarski mojster Juraj. „Ta ga je spravil v križarsko vojsko, ker je sam strahopetec in se ni upal iti na Turke brez močne roke Štipkove.“</p>
+            <p>„E ni tako, ne,“ reče Kocijan. „Štipko je sam želel že od davna, videti enkrat sveto deželo in zdaj se mu je nudila prilika, ker je Čreteški moral na križarsko vojsko vsled svojih tolikih hudobij.“</p>
+            <p>„Škoda za očeta Štipka. Težko da bi ga kdaj videli. Če je kralj Ludvik, tako vrl, tako pobožen vladar, umrl v sv. deželi brez kakega uspeha, najbrže bo njegov brat Karol še manj naredil,“ modruje nočni čuvaj Vid.</p>
+            <p>„In vendar je tako potreben zdaj v hribih, kakor ne vem kaj,“ deje spet črevljar Juraj. „Naši gospodje v Beli cerkvi in v Gotnem brdu so častitljivi možje, toda hribovcev ne znajo voditi. Za-nje je bil le glagoljaš Štipko.“</p>
+            <p>„Pa bi poslali kakega drugega glagoljaša v Zagrad. Saj se še menda kod kateri dobi,“ reče spet krojač, ki ni bil poseben prijatelj Štipkov, ker mu ni delal obleke. „Tisti Knjižun gori na Otavniku, ki še v krojaški zadrugi ni, mu je delal obleko. Zdaj pa ta njegova ovčica po bogomilskih shodih hodi in bogomilom halje krpa.“</p>
+            <p>„Oho, Janko, le počasi! Črez Štipka niti besedice!“ odvrne pekar in se postavi na noge.</p>
+            <p>„Štipko je bil mož!“ potrdi Kocijan.</p>
+            <p>Možje so pili iz majolik in premlevali dnevne novice.</p>
+            <pb facs="#WIKI00466-070" n="70" xml:id="pb.070"/>
+            <p>„Eberhart se je vrnil s hribov. Opravil pa menda ni nič. Na Jelendol naj le rajši Nilo pošlje, kaj ne da, Kocijan?“ reče spet krojač.</p>
+            <p>„Nila si je prizadela, pa jaz tudi. Toda Jela je svojeglavna. Ona hoče kot poganka leči v grob. Hčeri se boste še podali. Ali Henrik je izgubljen za krščansko vero. Je že vpisan med popolne, in najbolje bi bilo, da se preseli v Bosno. Tam je zanj, a pri nas bodo bogomili zginili,“ sklene Kocijan.</p>
+            <p>„Gotovo, če se Štipko vrne. Drugače pa ne bo šlo tako brž. Saj je tretjina hribovcev že bogomilov,“ pripoveduje Vid. „Jela pa drži roko Henriku, samo da škoduje krščanom.“</p>
+            <p>„Kaj pa sodnik? Ali nima on pravice poklicati Henrika na odgovor radi krive vere?“ poprašuje samozavestno pekar.</p>
+            <p>„Seveda ima,“ odvrne na tihem krčmar. „Zato ravno sem se sam napotil v hribe in sestri Jeli povedal, naj odneha, ako neče delati sramote sorodnikom in svojemu sinu gotovo smrt nakopati na glavo. Upam, da se stvar izmota srečno. S Henrikom nisem govoril. Ta mi ne pride niti pred oči.“</p>
+            <p>Utihnili so pivci in se zamislili. Veter je pihal skozi okna in nosil v izbo raz drevje spomladno cvetje.</p>
+            <p>Onstran Krke na otok je brodnik Grga v tem vozil svojo gospodinjo. Bila je krasna v večerni zarji, le otožne poteze na njenih očeh so jo delale starejšo, kakor je bila. Cvetje se je vsulo nanjo raz črešnjo, ki je cvetela v vrtu. Zapoznela čebela je zletela raz črešnjev cvet in zabrnela v zraku.</p>
+            <p>„Glej, Grga, ta-le črešnjev cvet, tako bel kakor sneg! Tak najbolj ugaja mojim očem,“ reče Nila svojemu zvestemu brodniku in izstopi iz čolna.</p>
+            <p>„Mhe, gospoja moja, lep je res, ta črešnjev cvet, samo vspe se hitro. Za malo časa je. Ali poda se ti bolje, gospoja moja, vijolica na prsih. Višnjeva barva je tudi lepa, pa bolj stanovitna je,“ odvrne Grga in <pb facs="#WIKI00466-071" n="71" xml:id="pb.071"/> tako prisrčno pogleda svojo gospodinjo, da mu je solza prišla v oči.</p>
+            <p>Tudi Nili se milo stori, pa nadaljuje:</p>
+            <p>„Kaj pa prav za prav misliš, Grga! Ali naj bi vzela Eberharta? ... Oče nič ne reko.“</p>
+            <p>Grga se zamisli ...</p>
+            <p>„Mhe, bela barva je za malo časa. Višnjeva pa trpi dolgo časa. Se ne omaže tako hitro. Zato sem ti rekel, gospodarica moja, da se ti zdaj višnjeva vijolica bolj poda kakor črešnjev cvet.“</p>
+            <p>„Ti govoriš v samih rožah, kakor bogomili. Le naravnost povej svoje misli.“</p>
+            <p>„Mhe, golobica moja, to je težko, govoriti v sedanjih časih naravnost. Le toliko rečem, da je za našo sveto vero veliko vredno, če ti vzameš gotnobrdskega oskrbnika.“</p>
+            <p>„In zá-me, dragi moj Grže, zá-me, nimaš tolažilne besede?“</p>
+            <p>Deklica zaihti pri teh besedah. Brodniku sili svitla solza na dan. Z žuljavo pestjo si jo otare pa nadaljuje :</p>
+            <p>„Čakala ni samo tista, ki je trgala cvet raz črešnjo, čakal je tudi tisti, ki je padel raz črešnjo, mhe, dragica moja! In tisti, ki je padel, tisti je daleč, daleč — za deveto goro! Tisti se vozi po morju, ne po naši Krki. Pa ni gore tako visoke, da bi je ljubezen ne prehodila, ni morja tako globokega, da bi ga ljubezen ne prebredla in ne srca tako širokega, da bi ga ljubezen ne obsegla ...“</p>
+            <p>Nila poda roko brodniku in molče odide v svoj dom.</p>
+            <p>Grga pa vesla počasi črez strugo in godrnja sam sebi:</p>
+            <p>„Kako so ženske nepočakane, mhe!“</p>
+         </div>
+         <pb facs="#WIKI00466-072" n="72" xml:id="pb.072"/>
+         <div xml:id="wv-XIV.">
+            <head xml:id="head.14">XIV.</head>
+            <p rend="indent small">Najbolje dokazuje obstanek glagolice na Kranjskem posvečevanje glagoljašev.</p>
+            <p rend="align(right) italic small">Dr. Jos. Gruden, „Kat. Obzornik“, letnik IX., zvez. 2.</p>
+            <p>Lastavice so se vračale iz južnih krajev. Spomlad je bila. Drevje je zelenelo in cvelo, žito se je dvigalo iz tal in ptiči so žvrgoleli po gajih. Tam gori na Krimvrhu, doli pod vasjo, na zeleni grivi, pod belo-rdeče cvetočo črešnjo se je ustavil romar z rdečim križem. Dolga črna brada je porjavela, črne njegove oči pa so gledale črez gorski greben na sivo, staro zidovje. Naslonil se je na svojo romarsko palico in se zamislil ...</p>
+            <p>Zagrajski vikar se je vračal iz križarske vojske — pa sam, samcat! Izpolnila se mu je želja, da je šel mej križarje, toda svete dežele ni videl. Velika vojska križarjev se je napotila iz Sicilije pod vodstvom sicilijanskega vladarja Karola. Tudi glagoljaš Štipko, čreteški Fric, Bimbo, Libenštajnar in drugi so se križarjem pridružili. Dospeli so srečno na afrikansko obrežje. Ali še vedno je razsajala ondi kužna bolezen. Turški sultan, ki je kralju Ludoviku obetal, da se da krstiti, se ni dal. Karol je takoj sprevidel, da bo tudi njegova križarska vojska brez uspeha, pa je sklenil s turškim vladarjem premirje. Hitro so se križarji ukrcali in se vračali proti domu. Na morju pa nastane naenkrat silen vihar. Veliko ladij se je potopilo in utonilo je blizu štiri tisoč romarjev. Naši znanci so bili skupaj na eni ladji. Le oče Štipko je moral na drugo ladjo radi bolnikov, ki so se ondi nahajali, da jim je delil poslednja tolažila. Nesreča je hotela, da se je potopila ladja z romarji iz Slovenske marke, sreča pa, da se ladja z bolniki ni potopila. In Štipko se je sam samcat izmed Slovencev vrnil v Sicilijo in odtod v svojo domovino.</p>
+            <pb facs="#WIKI00466-073" n="73" xml:id="pb.073"/>
+            <p>In tako je naposled primahal po velikih težavah v župnijo Zagrad. Na obrazu se mu je poznalo, da je užil zadnjega pol leta veliko truda, telesnega in duševnega, veliko skrbij in veliko strahu. Postaral se je in brada je kazala sive kocine. Tudi hrbet se mu je nagrbal, koža pa je ogorela in pod očmi se je nagrbančila.</p>
+            <p>Zrl je oče Štipko na pusti stolp čreteških gospodov, pa se mu je utrnila solza. Frica, ki mu je tolikanj skrbij delal, ki pa ga je vendarle tako ljubil — ni bilo več na zemlji. Tudi Bimbo se je ž njim vred potopil v globočino morja. In premetenega Libenštajnarja so morske ribe pojedle. Le njemu je Bog hotel podaljšati življenje — pa ga je del na drugo ladjo.</p>
+            <p>„Torej sem še potreben na zemlji,“ vzdihne oče Štipko, pa koraka počasi dalje. Vprašanje se mu je zastavljalo: „Kaj neki počno doma? Kaj delajo moje zveste ovčice? Kaj moj dobrotnik, župnik Tiberij? Kaj moj mirni sosed, vikar Nikolaj? In jelendolske poganke? Pa Friceva nevesta Nila?“ A toliko vprašanj se mu je motalo pred očmi, toda ni ga bilo, da bi mu jih odkril!</p>
+            <p>Toda zdaj stopa v dolino, stopa med pisanimi njivami, ob zelenih travnikih zagradskih kmetov, zagleda Matejevo hišo, pa se ustavi: „Ali naj najprvo pozdravim mojo ubogo Matejko?“</p>
+            <p>Ni se mogel odločiti, da bi se pokazal ljudem v taki zamazani obleki. Neka tajna sila ga je gnala, da se je ustavil, da je krenil v drugo stran. Kakor bi slutil, da ga čakajo spet težke naloge. Večera je hotel počakati in po noči stopiti v svoje domovje ob cerkvi sv. Tomaža. Saj mu Barica, sestra draga, vse pove, kaj se je godilo za njegove odsotnosti. Kosem bo cvilil okrog njega, rjavi maček bo godel v kotu in vse druge živalice ga bodo pozdravljale. Počastiti hoče najprvo sv. Tomaža, pa še bolj sv. Nikolaja, <pb facs="#WIKI00466-074" n="74" xml:id="pb.074"/> patrona mornarjev, ki se mu je tako srčno priporočal, ko je vihar razsajal na morju in se ni ladja videla iz morskih valov. — Pa kaj? Barica je še gotovo doma za Gorjanci pri svojih sorodnikih in treba bo še nekaj dni, da se Barica prikaže v Zagradu. Živalice so romale z njo in Bog ve, kako je v njegovi hišici?</p>
+            <p>Pot ga pelje dalje. Že se je jelo mračiti. Skoro ga je bilo strah sredi gozda. Volk je tulil v daljavi, sova je skovikala v duplu ... Že je bil vrh zagradske gore. Neka skrivna moč ga je vlekla dalje proti Jelendolu ...</p>
+            <p>Pa sede in zavžije grižljaj trdega kruha in stare slanine. V slast mu je šlo. Pa spet stopa dalje, da pride do potoka. Žejalo ga je.</p>
+            <p>Noč je bila jasna. Venk je čričal po vinogradih ...</p>
+            <p>Kar začuje Štipko nekje v daljavi glas. Bliža se, glasovi so postajali vedno glasneji. To niso fantovski glasovi, to so glasovi moških in žensk.</p>
+            <p>Tam pod starim kostanjem je zagledal več ljudi.</p>
+            <p>Postoji, opazuje in posluša ... Petje je prenehalo.</p>
+            <p>„Aha, tu ubogi pogani časte še vedno svoje bogove. Trdovraten je ta rod! Spet bom imel z njimi dovolj dela ...“ V takih premišljevanjih sedi na hrastovem štoru, sloneč na debeli bukvi. Truden je bil do kraja, zaspanec ga je premagal ...</p>
+            <p>Sanjal je zlate sanje, poslušal nebeško petje, zrl veličastvo božje, pogovarjal se z nebeško kraljico, s svojim patronom in sv. Nikolajem ...</p>
+            <p>Zaspal je oče Štipko na svoji torbici, zaspal tako trdno, da se je prebudil, ko je že zora naznanjala beli dan ...</p>
+            <p>Že je pel ovčji rog, že je mukala goved, beketali so kozli, gagale so gosi ...</p>
+            <p>„Živina gre na pašo,“ vzdihne Štipko in se strese mraza. Hitro skoči po koncu, pomoli, se umije v bližnjem potoku, pa hajdi dalje!</p>
+            <pb facs="#WIKI00466-075" n="75" xml:id="pb.075"/>
+            <p>„Vsekako moram najprvo v Gotno brdo in v Belo cerkev do župnika Tiberija, da se mu pokažem in sporočim, kako je bilo.“</p>
+            <p>Zeblo ga je in hitro je stopal po dolini. Pa ne dolgo. Spet ga je neka skrivna moč vrnila. Stopal je spet navzgor, da se je ogrel do cela, dokler ni dospel do tiste skale, kjer sta se včasih pogovarjala z jelendolsko Solnčico.</p>
+            <p>Živina se je pasla, tudi Pasun in Belin sta skakala okrog ovac in govedij, toda Solnčice ni bilo na beli dan. Le star pastir v dolgi črni halji, prevezan črez pas, je sedel na skali in na glas molil očenaš. Ko pa zagleda neznanega človeka, postoji, se mu globoko prikloni, se odkrije in pripogne svoje koleno, govoreč:</p>
+            <p>„Blagoslovi, dobri krščan!“</p>
+            <p>Štipko osupne. Spoznal je bogomila po pozdravu. Čudi se in radoveden postaja. Pa se premaga in dovoli, da ga pastir objame, govoreč: „Blagoslovi!“</p>
+            <p>Pastir je imel tujca za popolnega bogomila in zato ga je tako pozdravil.</p>
+            <p>Toda Štipko ga ni blagoslovil. Pač pa vpraša za Solnčico.</p>
+            <p>Tudi pastir se čudi, pa vendar odgovori: „Baš kar prihaja in mi nese jutranjico.“</p>
+            <p>Štipko pogleda v hrib in res vidi Solnčico, napravljeno tako, kakor je bil pastir. Dolga bela halja, pa prevezana črez ledje z višnjevim trakom.</p>
+            <p>„Bogomila, kajne da?“ brž vpraša Štipko pastirja.</p>
+            <p>Ta prikima, vikarju pa vro čudne misli po glavi. Ves je bil nemiren, skoro je izgubil duševno ravnovesje.</p>
+            <p>„Ali je res? Toliko da se je spremenilo tekom dobrega pol leta? Bogomili da so zašli v moj ovčji hlev?“ Sveta jeza mu je zasijala z obraza, ko Solnčica zakliče že od daleč:</p>
+            <p>„No, no, starče, kaj imaš pomočnika? Kdo je ta neznanec?“</p>
+            <pb facs="#WIKI00466-076" n="76" xml:id="pb.076"/>
+            <p>„Ravnokar je dospel, Solnčica! Prosil sem ga za blagoslov, pa mi ga še ni dal,“ odvrne od daleč boječi pastir.</p>
+            <p>Solnčica začne stopati počasi, obrvi se ji naježé in oči se ji zapičijo v prišlega romarja ...</p>
+            <p>„Za Boga svetega, Štipko!“</p>
+            <p>Deklici pade košarica iz rok.</p>
+            <p>„Solnčica, ali naj verujem svojim očem? Ali si ti res jelendolska Solnčica? Kaj to vse pomeni? Ali se je Jelendol obrnil iz nevere v krivo vero? In ti, Solnčica, ti si zmožna kaj takega? Ni mogoče! To je bila sila, ne prosta volja.“</p>
+            <p>„Človek nima proste volje, uče bogomili,“ odvrne deklica, zroč v tla.</p>
+            <p>„Ah, med bogomile si zašla, moja Solnčica, moja nada! In kdo te je v to napeljal?“</p>
+            <p>„Moj brat, gotnobrdski Henrik, ki je popoln.“</p>
+            <p>„Ah, kaj čujem? Ali ga ni bilo, ki bi vas poučil?“</p>
+            <p>„Oprosti, oče Štipko! Zakaj pa si šel od nas? Zakaj si skrbel bolj za dušo tistega nesrečnega viteza, kakor za toliko drugih hribskih ovčič, ki so ti ušle med bogomile?“</p>
+            <p>„Res je, Solnčica! Ali dobri pastir popusti 99 ovac v hlevu pa gre za izgubljeno ovčico, dokler je ne najde. In sem jo našel, zdaj je že v nebesih, spokorjena duša tolikanj nesrečnega Frica.“</p>
+            <p>Solnčico je gnala radovednost, in oče Štipko ji je moral povedati vse zgodbe in nezgode svojega romanja.</p>
+            <p>Solnčica je obljubila očetu Štipku ob slovesu, da hoče razmišljati o prosti volji. Starcu, ki je stal od daleč in se križal, pa je zabičila trdo, da nikomur ne pove ničesar o današnjem sestanku.</p>
+            <p>Težko je bilo Štipku, ko je stopal po dolini. Rajši bi bil videl, da je tudi njega morje pogoltnilo, kakor da je pričakal takih zmed. Pričakoval je veselo svidenje svojih ovčic, zdaj pa tako razočaranje! Hude <pb facs="#WIKI00466-077" n="77" xml:id="pb.077"/> misli so mu rojile po glavi in ves izmučen je dospel nazaj v Hrastje do vdove Matejke.</p>
+            <p>Z velikim veseljem sprejeti romar se je potolažil v Matejevi hiši. Ko je izvedel, da tudi Libenštajnarjevi zahajajo k bogomilskim shodom, ni hotel sam sporočiti žalostne novice o Libenštajnarjevi smrti. Šel je od Matejke k sv. Tomažu.</p>
+            <p>Povsod žalost, iznenadenje! Steze, ki so se vile, potresene z belim peskom, od vseh strani proti cerkvi sv. Tomaža, so bile zaraščene s travo. Cestica iz župnišča v cerkev je bila razkopana, cerkev zapuščena, prazna, po vrtu pa so rasle koprive in bodeče neže.</p>
+            <p>Pod lopo pred cerkvenimi vratmi je klečal križarski romar in molil za razkropljene ovčice ... Dolgo je bil zatopljen v molitev, dokler ga nekdo ne potrka po rami. Štipko vstane in se obrne.</p>
+            <p>Mlad človek z volkom je stal pred njim. Žival je takoj začela lizati roko očetu Štipku.</p>
+            <p>„Mladi Libenštajnar? Tvoj oče se je pokoril po svetu za svoje grehe, dal življenje za svojo vero, ti pa se bratiš s krivoverci?“</p>
+            <p>„Odpusti, dobri oče! Ni tako hudo, kakor ti je Matejka natvezla. Zbegani smo bili pa res vsi, ko tebe, očeta, ni bilo! Pa zdaj ni več očeta, bodi ti naš oče!“ ...</p>
+            <p>Mladenič je zaihtel in ni mogel dalje govoriti.</p>
+            <p>Čez nekaj časa se oba vračata v vas, tudi Štipko, da potolaži vdovo Libenštajnarico. Volk je veselo skakal okrog Štipka, kakor da bi se tudi on veselil njegove vrnitve.</p>
+            <p>Mladi Libenštajnar je spremljal vikarja v Gotno brdo, odtod pa je šel čez Gorjance po naročilu Štipkovem naznanit sorodnikom veselo vest, da se je srečno povrnil iz južnih dežela.</p>
+            <p>Gotnobrdski oskrbnik je napravil tisti dan velik obed na čast vrnivšemu se romarju. Povabljeni so bili <pb facs="#WIKI00466-078" n="78" xml:id="pb.078"/> župnik Tiberij, vikar Nikolaj, sodnik Uzold in še več drugih veljakov.</p>
+            <p>Štipko je bil skromen mož in rajši se je po vzgledu sv. Frančiška mudil pri preprostih ljudeh in v božji naravi. Skril se je na povabilo in na tihem se je splazil iz Gotnega brda. Brodnik Grga ga je prepeljal na breg in v hiši Kocijanovi je svojim znancem in prijateljem razlagal potne spomine pa izpraševal po bogomilih.</p>
+            <p>Brodnik Grga si je veselo mel roki, stoječ v kuhinji poleg ognjišča, pa modroval Kancijanili:</p>
+            <p>„Mhe, ali ti nisem pravil, gospodarica moja, da je treba počakati? Črešnja ne cvete več, vijolica pa še!“</p>
+         </div>
+         <div xml:id="wv-XV.">
+            <head xml:id="head.15">XV.</head>
+            <p rend="indent small">Ne samo po zvezi z nemškim cesarstvom je bila Slov. marka vezana na nemško omiko, ampak se ima tudi zahvaliti za svoj kulturni razvoj omikonoscem, ki so bili nemški škofje, nemški vitezi in podaniki, ki so z njim prišli v deželo.</p>
+            <p rend="align(right) italic small">Dr. Ant. Mell, Entwicklung Krains str 15.</p>
+            <p rend="indent small">I ti Vitlejeme, zemljo Judina! ni po čem nijesi najmanji u državi Judinoj; jer će iz tebe iziči čelovodja, koji će pasti narod moj Izrailja.</p>
+            <p rend="align(right) italic small">Mat. II. 6, Ostromirovo evangelje.</p>
+            <p>Ko se je zagrajski vikar spet naselil pri cerkvi sv. Tomaža, je bil krojač Knjižun z Otavnika prvi, ki se je zglasil pri njem. Zvedel je po ljudeh, da je Štipko spet doma in takoj se je podal do njega, češ gotovo Štipko rabi kaj nove obleke. Knjižun je rad delal očetu Štipku obleko, ker je bil ta z vsakim delom zadovoljen in ker je dobro plačal. Seveda je krojača tudi vest pekla in hotel jo je oprati.</p>
+            <p>Krojač je razodel vikarju vse skrivnosti bogomilske. Pa oče Štipko je zelo ropotal nad njim in <pb facs="#WIKI00466-079" n="79" xml:id="pb.079"/> naposled mu je naložil pokoro, da mora v nedeljo po službi božji v cerkvi preklicati bogomilske zmote.</p>
+            <p>Že precej vernikov se je zbralo v nedeljo, ko je Štipko opravil slovensko liturgijo. Toda pogrešal jih je še polovico. Vzgled krojača Knjižuna je dobro vplival na ljudi, ko je javno ponavljal v cerkvi krstno obljubo: „Az zaglogolo zlodeju“ ...</p>
+            <p>Najbolj zagrizen je bil seveda popolnik Henrik Jelendolski. Rotil je svoje verne, da naj ne poslušajo Štipka, ki je golo orodje župnika Tiberija in oskrbnika Eberharta. Pa ljudje vse spazijo, se vse pomenijo. Henrik ni mogel izpodkopati spoštovanja zagrajskemu vikarju, pač pa je sam izgubil zaupanje vsled nenravnega dejanja. Iskal je zaslombe pri Čreteških, ki so ga podpirali, pa ne toliko iz nagnjenja do bogomilske vere, kolikor iz nasprotovanja do brižinskega škofa. Bogomili so bili namreč dvoje vrste: popolni, ki so se res natanko držali svoje vere, — in teh je bilo malo — in verniki, ki so živeli lahko po krščanskih in poganskih navadah, samo da so obljubili na smrtni postelji izpovedati bogomilsko vero.</p>
+            <p>Ko se je Kočijan, brat Jelin, mudil na Jelendolu, je ostro svaril Jelo, naj ne daje potuhe Henriku in naj ga pošlje v Bosno, koder je bogomilska vera najbolj vkoreninjena. V Slov. marki ne bo opravil dosti, zakaj že je klican v Gotno brdo, da pred krvavo sodbo zagovarja svoja dejanja. Čisto gotovo je, da ga raztrgajo na štiri kosce, ker je krivoverec. Kakšna sramota bi bila to za nekdanjega rablja in za vso našo sorodstvo! — Jela je to povedala svojemu nesrečnemu sinu in ta se je umaknil za nekaj časa v Čreteški grad. Z žalostjo je zrl s čreteškega stolpa, kako mu je Štipko jemal ovco za ovčico ... Celo njegovi sestri sta pustili bogomile na cedilu in Štipko jih je pripravljal za sv. krst ...</p>
+            <p>Kar pošlje čreteški Ortolf sela do zagrajskega vikarja z naročilom, da pride v grad.</p>
+            <pb facs="#WIKI00466-080" n="80" xml:id="pb.080"/>
+            <p>Pa Štipko ni maral iti. Vedel je, da ima Ortolf samo namen, njega in bogomilskega popotnika povabiti k mizi, da bi se prepirala vsak za svojo vero. Pa Štipku se je taka želja zdela brezpomembna, neuspešna in zato je odgovoril Ortolfu, da ne prestopi brane njegovega gradu, dokler trpi pod svojo streho bogomila.</p>
+            <p>Silno je Čreteškega razljutil ta odgovor. Ali Štipko je znal biti tudi odločen, kadar je šlo za sveto katoliško vero, dasi je vedel, da se bo treba odslej varovati Čreteških.</p>
+            <p>Odločen Štipkov odgovor pa je bil uspešen. Ortolf je bogomila odslovil, davši mu varno spremstvo na pot v Bosno. Revež je bil navezan na Štipkovo osebo, da bi odbil njegovo naklonjenost na ljubo temu noremu bogomilu. Bolelo je še gospoda Ortolfa posebno to, da se je po vsi Slovenski marki govorilo o žalostni smrti njegovega brata Frica, samo on ni slišal iz ust Štipkovih natančnih poročil o potovanju in smrti nesrečnih križarjev.</p>
+            <p>Štipku so se ovčice trumoma vračale in v nekaj tednih je že spet imel polno cerkev.</p>
+            <p>Veliko duševnega veselja je užil zadnje čase dobri oče. Ljudje so se skesano spovedovali svojih grehov, se pokorili na tihem in očitno, popravljali in zboljševali svoje vestne zadeve, vračali tuje blago, trgali grešne zveze in celo roparski čreteški grad je stokal pod nebom kesanja ...</p>
+            <p>Zato pa je neutrudljivi zagrajski glagoljaš tudi mnogo parov napravil srečnih.</p>
+            <p>Libenštajnarjev sin je poročil vdovo Matejevo, jelendolska Zora se je spet sprijaznila z mlinarjem Frolajhsdorfarjem. Ta se je tudi vnel za bogomilje in Zora mu je razlagala novo vero. Zdaj pa sta oba šla v naročje rimske cerkve. Zora je prejela na en dan sv. krst, sveto obhajilo in zakrament svetega zakona. Kocijanova hči je bila kumica Zori in Solnčici.</p>
+            <pb facs="#WIKI00466-081" n="81" xml:id="pb.081"/>
+            <p>Kaj pa Kancijanila?</p>
+            <p>„Znamenje božje je,“ ji reče oče Štipko, „da je čreteški Fric umrl za sv. vero, a volja božja je, da ti postaneš gospa gotnobrdskega oskrbnika.“</p>
+            <p>Bila je velika slovesnost, ko je oskrbnik Slov. marke, gotnobrdski Eberhard, peljal svojo nevesto pred oltar sv. Katarine. Ves trg je bil na nogah, cvetje se je usipalo po cerkvenem tlaku, z zelenjem so bile stene odete, in cvetic duh se je razlival po celi cerkvi. Duhovščina v cerkvenem sijaju se je lesketala pred oltarjem, ljudstvo pa je pelo nevesti: „Blagoslovena jesi meždu ženami“ ...</p>
+            <p rend="center">* * *</p>
+            <p>In ti zagrajski vikar, oče Štipko, dični glagoljaš?</p>
+            <p>Ti si gledal iz line svojega doma pri sv. Tomažu, gledal po dolini, gledal po Slovenski marki, gledal v širni božji svet. Kosem se je spenjal po tebi, kokoške so čebljale pred tabo, jagnje, lepo belo, se je paslo v travi, Barica se je sukala okrog ognjišča, rjavi maček se je pletel okrog nje. Cvetice so bujno rasle v vrtičku, drevje se je šibilo polnega sadja, lahen veterc je razpihaval siva vlakna tvoje lepe brade, oče Štipko!</p>
+            <p>Ti si zrl pri lini v božji svet, pa si mislil na svoje ovčice ... Iskrena molitev ti je kipela iz srca, polnega ljubavi božje. Molil si goreče za svojo čredo :</p>
+            <p>„Gospode, Bože moj! čuj molitvu moju i spasi vjerno stado svoje, kome si dao za pastira mene, nevrijednoga slugu svojega ... Izbavi jih od bezbožne i pogane zlobe onih, koji hule na to, i satri bogomilu herezu, i razplodi crkvu svoju. Brani je silnom desnicom svojom i zaštiti je štitom krila svojih“ ...</p>
+            <p>Razorane brazde na tvojih licih so se omilile, dobri vikar, svet sijaj je potegnil po tvojem čelu in globoki vzdihi, vzdihi trpljenja in vzdihi veselja so privreli iz tvojega dobrega srca.</p>
+            <pb facs="#WIKI00466-082" n="82" xml:id="pb.082"/>
+            <p>Slovenska marka se je dala krstiti, pa tvoji hribovci so bili še v precejšnjem števila častilci starih bogov. Župnija zagradska se je pomešala s tujci, ki so tlačili in izžemali dobro slovensko ljudstvo. Krstna voda je tekla po občini, pa greh se je kopičil in zrasel v visoko goro. Gorečnost za stoto izgubljeno ovco te je nesla črez široko morje, med tem pa je prišel sovražen človek in ti vsejal ljuliko med pšenico; ljuliko bogomilstva, blagi oče Štipko!</p>
+            <p>Pa ti si razbil malike poganske, ti si izpodkopal visoko goro pregreh, ti si zatrl ljuliko bogomilov.</p>
+            <p>Stare bogove le še časti vdova Jela, bogomil je le še njen sin, Solnčica pa čaka, da zagrebe ostarelo mater, ki blede in ne pozna več svojih otrok ...</p>
+            <p>In ti ne uživaš sadu svojega truda, oče vikarij! Tvoj duh je vedno ponižen, tvoja duša ostane skromna, tvoje telo ne miruje in se trudi dalje, ti ne zapuščaš svojega poklica, kateri te bo zveličal, ti hodiš svojo trnjevo pot dalje, dokler te Bog ne pokliče, da greš uživat sad svojega truda ...</p>
+            <p>Gotnobrdski vikar Nikolaj je dobil župnijo sv. Križa, oskrbnik Eberhart se je oženil v bogati in imenitni žlahti, župnik in naddijakon Tiberij belocerkovški je postal škof v Fontoni, ti pa glagoljaš Štipko, ti ostaneš zagrajski vikar!</p>
+            <p>Zgodovina ve povedati o vikarju Nikolaju iz Čreteškega gradu, stare listine imenujejo gotnobrdskega oskrbnika Eberharta, in tortonškega škofa Tiberija ime je vklesano v kararski marmor. Zaslužni možje, ki so živeli in imeli in sedeli na častnih prestolih!</p>
+            <p>Tvoje ime, glagoljaš Štipko, ni vklesano v marmor, tvoj vikarijat, zagradski vikar, navaja le zgodovinar Valvazor, tvoja dela pa je otel pozabljivosti nebeški dejepisec, ki mu ne uide nobeno dobro delo, ki ga ne vara resnica, ki ga diči večni spomin ...</p>
+         </div>
+      </body>
+   </text>
+</TEI>
