@@ -10,12 +10,12 @@
             </respStmt>
          </titleStmt>
          
-         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <extent><measure unit="words">23884</measure><measure unit="pages">64</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
             <bibl><title>Domačija nad vse!</title><author>Pajk, Pavlina</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Doma%C4%8Dija_nad_vse</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-X6ML3FBL</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>
       <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
          <langUsage><language ident="sl">slovenščina</language></langUsage>
          
@@ -396,10 +396,7 @@
             <p>Vhod v nju-jorško pristanišče je nekaj vzvišenega; nemogoče je popisati krasnega prizora, ki se nenadoma očem odprè.</p>
             <p>Morje je posuto z brezštevilnimi ladijami raznih narodnosti; med njimi se vidijo barčice tako majhne in krasne, da se zdijo prave otroške igrače.</p>
             <p>Breg morja bi se dal nekoliko primerjati planinskemu delu naše slovenske zemlje, samo da je nju-jorški še čarovnejši od tega.</p>
-            <p>Planine in doline po široki <choice>
-                  <unclear>ok</unclear>
-                  <corr>okolci</corr>
-               </choice> so posute s prijaznimi poletnimi hišami in dvorci, ki se zdijo v ta namen postavljeni, da privabljajo trudne potnike v svoje tihe, mirne prostore.</p>
+            <p>Planine in doline po široki <corr>okolci</corr> so posute s prijaznimi poletnimi hišami in dvorci, ki se zdijo v ta namen postavljeni, da privabljajo trudne potnike v svoje tihe, mirne prostore.</p>
             <p>Srca vseh naudaja nov up in pogum, da navdušeni zakličejo: Z Bogom na večno, Evropa! ako nam bode osoda mila, nočemo več misliti ná-te. Tú bodemo našli domovino, ki nas bode odškodovala za vse prestale težave. Dobri Bog je povsod; kjer je priroda tako lepa, tam veje poseben blagoslov nad človeštvom!</p>
             <p>Odhod ladije in slovó med potniki je vse do solz ganilo. Nobeno oko ni ostalo suho. Delili so črez pol meseca jednako osodo, vsi so skupaj trpeli in vsi so šli neznani bodočnosti naproti. Ko bi se po preteku jednega leta vsi zopet sešli, v kakošnih okoliščinah bi se pač le našli?!</p>
             <p>Taki in jednaki občutki so vsakega naudajali, ko so zapuščali ladijo.</p>

@@ -10,12 +10,12 @@
             </respStmt>
          </titleStmt>
          
-         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <extent><measure unit="words">71737</measure><measure unit="pages">104</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
             <bibl><title>Tlačani</title><author>Pregelj, Ivan</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Tla%C4%8Dani</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-8FUQAD3E</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>
       <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
          <langUsage><language ident="sl">slovenščina</language></langUsage>
          
@@ -1953,10 +1953,7 @@
          <pb facs="#WIKI00417-089" n="89" xml:id="pb.089"/>
          <div xml:id="wv-XX._Vojaki.">
             <head xml:id="head.21">
-               <choice>
-                  <sic>XX.</sic>
-                  <corr>XXI.</corr>
-               </choice> Vojaki.</head>
+               <corr>XXI.</corr> Vojaki.</head>
             <p>Ura je udarila polnoči, ko so se na cesti sredi Kanala razlegli zamolkli koraki. Pri zadnji hiši se je odprlo okno in nekdo je pogledal v noč in je videl do dvesto senc, stisnjenih v temno gručo.</p>
             <p>„Kdo pa ste?“ je vprašal Kanalec. Nihče mu ni odgovoril. Šli so nemi svojo pot. Deset korakov za gručo je šel en sam človek. „Kdo ste?“ je vprašal znova Kanalec.</p>
             <p>„Vojska tolminskih vdovcev!“ je odgovoril zakasneli.</p>
@@ -2045,10 +2042,7 @@
          </div>
          <div xml:id="wv-XXI._Bo.C5.BEi.C4.8Dni_ve.C4.8Der_leta_1713.">
             <head xml:id="head.22">
-               <choice>
-                  <sic>XXI.</sic>
-                  <corr>XXII.</corr>
-               </choice> Božični večer leta 1713.</head>
+               <corr>XXII.</corr> Božični večer leta 1713.</head>
             <p>Na Ljubinju pri Kavčiču se pet otrok tišči peči, v njih sredi sedi stara Kavčičeva mati. Sama je ostala z vnuki. Zato je tolikanj gub v njenem licu, zato je njena beseda trda, kakor bi govorila mačeha. Dva rožna venca so že odmolili in zdaj hočejo otroci, da naj jim mati pove o Materi božji, ki jo je udaril galjot in je zajokala.</p>
             <pb facs="#WIKI00417-092" n="92" xml:id="pb.092"/>
             <p>„Molimo!“ pravi žena. In molijo tretji del rožnega venca. Že vtretje molijo žalostni del. Kako bi starka molila: Ki si ga Devica rodila? Ne more ji čez ustnice prošnja, da ne bi mislila nanj, ki ga je rodila in je umrl v ječi v Tolminu. In odmolijo in otroci so sitni, slišali bi radi o Mariji udarjeni. „Želi so pri Matevžiču na Kozarščah. Rajni Arnac je potem narisal, kako da je bilo. Po desetino so prišli biriči, pa je rekel Matevžič: ‚Ježeš, dekleta, premajhne snope ste naredile, kont Menin bo hud.‘ Pa so začeli odbirati biriči snop za snopom. Pa jim je bil vsak premajhen. Le reče Matevžič, da dekleta ne vedo, kaj je snop. Biriči pa nalagajo mesto enega po tri. Nalagajo, nalagajo, pa le ni konca, Le reče Matevžič: ‚Hentaj, Mati božja, ali še ne bo dosti?‘ Udaril ga je birič. Je rekel Matevžič: ‚Mati božja je videla, kako si me po krivici.‘ Potem je birič še konjem osmukal ovsa, pa je rekel, naj še enkrat reče Matevžič, da po krivici. Pa je Matevžič pokazal na Mater božjo v znamenju, pa je rekel: ‚Saj je videla.‘ Je skočil birič in udaril Mater božjo čez obraz, da je zajokala in so ji prave solze pritekle. Je rekel Matevžič: ‚Zdaj vidiš, Marija, taki so galjoti!‘ Pri tisti priči je postal birič črn ko oglje, pa kakor pes je začel lajati. Arnac je vse narisal, snope, Matevžiča, biriča in Mater božjo, kako se joče. Kadar pojdemo na Menjgore, boste videli.“</p>

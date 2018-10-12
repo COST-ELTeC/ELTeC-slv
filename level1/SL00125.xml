@@ -10,12 +10,12 @@
             </respStmt>
          </titleStmt>
          
-         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <extent><measure unit="words">27294</measure><measure unit="pages">53</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
             <bibl><title>Iz našega kota</title><author>Jaklič, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Iz_na%C5%A1ega_kota</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-6IWDUW0X</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>
       <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
          <langUsage><language ident="sl">slovenščina</language></langUsage>
          
@@ -275,10 +275,7 @@
          <pb facs="#WIKI00125-018" n="18" xml:id="pb.018"/>
          <div xml:id="wv-III.2">
             <head xml:id="head.4">
-               <choice>
-                  <sic>III.</sic>
-                  <corr>IV.</corr>
-               </choice>
+               <corr>IV.</corr>
             </head>
             <p>„Vse naše!“</p>
             <p>Od kupnine Kadunjčeve domačije sta ostala še kaka dva stotaka potem, ko je bil plačan Štempiharjev delež. Ta denar bi imeli dobiti otroci, do njih polnoletnosti pa ga je imel v oskrbi varih. Toda denar je težko izpustiti, zlasti tak, ki ga človek lahko dobi. Štempihar je premišljal, kako bi si prilastil še ostalo kupnino. Otroci so pridno obdelovali njive, saj so se nadejali, da izroči Štempihar domačijo Juriju, — tako je bilo ime najstarejšemu sinu — kadar doraste. Otrokom se niti sanjalo ni, da pojdejo iz rojstvene hiše na cesto in naprej ...</p>

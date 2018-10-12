@@ -10,12 +10,12 @@
             </respStmt>
          </titleStmt>
          
-         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <extent><measure unit="words">18632</measure><measure unit="pages">50</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
             <bibl><title>Strup</title><author>Zbašnik, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Strup</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-NODKVSVT</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>
       <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
          <langUsage><language ident="sl">slovenščina</language></langUsage>
          

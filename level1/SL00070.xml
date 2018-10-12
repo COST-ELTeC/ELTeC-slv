@@ -10,12 +10,12 @@
             </respStmt>
          </titleStmt>
          
-         <publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
+         <extent><measure unit="words">29756</measure><measure unit="pages">74</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
             <bibl><title>Zádruga</title><author>Stare, Josip</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Z%C3%A1druga</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-7IGPYCK1</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-0"><p/></encodingDesc>
+      <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>
       <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
          <langUsage><language ident="sl">slovenščina</language></langUsage>
          
@@ -245,10 +245,7 @@
             <p>S takimi pripravami je minil dan nji in vsem nje tovarišicam, ki so hodile k vajam. Bilo je med njimi prav gizdavih, ali najbolj se je šepirila črnooka Hermina, v svesti si, da se ž njo ne more meriti nobena Prnjavorka. Stanovitna tovarišfca ji je bila bledolična Dora, <pb facs="#WIKI00070-027" n="27" xml:id="pb.027"/> in obema se je pridružila kljukonosa židovka Slava. Prav prevzetno so se ločile od ostalih dčklic in vedno so skupaj tičale in šepetale, kakor da so se zavezale v kakšen poseben namen. Starejši gospodje so skoro ugenili, da mreže svoje nastavljajo »Zadrugi«, in natanko so strini poročali vse, kar so opazili. Strina je mirno poslušala ta poročila, kakor vsako drugo novico; ali tem ostreje je odslej pazila na Zagorskega in čakala, če se bode dal ujeti. Zádrugarji so se v večjih mestih znali ogibati umetelneje sprčdenih zanjk, zato se niso bali niti prnjavorskih. Navzlic temu se je Zagorski največ bavil s Hermino, ki v je bolj nego druge bila vajena lahkim društvenim veselicam. Živela je delj časa pri neki teti v prestolnici, videla nekoliko sveta, a poleg tega je mnogo čitala, torej je ž njo sploh lože bilo začeti kakšen po-menek. Razumela je takisto kakšno šalo, in če si jo podražil, znala ti je duhovito zavračati. Kadar sta se z Zagorskim za podpazduho vodila po dvorani in se je ona v živahnosti svoji na ves glas zasmijala, stikale so matere glave in si tiho zašepetale, kar ni smel vsakdo slišati. Če je pa Hermina ošabno povzdvignila glavo, nateknila si naočnike in se zmagovito ogledovala, takrat je v marsikateri deklici zavrela mlada kri in srce je kar zakoprnelo po maščevanji. —</p>
             <p>Ko je drugi dan potem Timofejeva žena malo posedela pred prodajalnico pri strini, vprašala jo je ta:</p>
             <p>»Kako pa je bilo sinoči v čitalnici? Ali je Vaša Tinčica zelo plesala?«</p>
-            <p>»Plesala in še predosti za svoja leta«, pohvali se zadovoljno Ti-mofejka, <choice>
-                  <sic>„</sic>
-                  <corr>»</corr>
-               </choice>mislila sem, da se nihče ne bode zmenil zanjo in da se bode kar izgubila med tolikim številom starejših in druščini vajenih deklet. Človek ne bi verjel, da imamo v Prnjavoru toliko ženske mladine. Ko sem prvikrat prišla v čitalnico, bilo me je kar strah za Tinčico, ali skoraj nisem poznala rodne hčerke, tako ugibčno se je sukala, in tako ljubeznivo se je gospodom znala nasmihati, da jo je bilo veselje gledati.«</p>
+            <p>»Plesala in še predosti za svoja leta«, pohvali se zadovoljno Ti-mofejka, <corr>»</corr>mislila sem, da se nihče ne bode zmenil zanjo in da se bode kar izgubila med tolikim številom starejših in druščini vajenih deklet. Človek ne bi verjel, da imamo v Prnjavoru toliko ženske mladine. Ko sem prvikrat prišla v čitalnico, bilo me je kar strah za Tinčico, ali skoraj nisem poznala rodne hčerke, tako ugibčno se je sukala, in tako ljubeznivo se je gospodom znala nasmihati, da jo je bilo veselje gledati.«</p>
             <p>»Kdo pa je kaj plesal ž njo?« seže ji strina v besedo.</p>
             <p>»Kdo bi jih vse naštel! Največ so se vrteli okolo nje gospodje iz Zadruge.«</p>
             <p>»Ali vsi?«</p>
