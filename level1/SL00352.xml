@@ -12,14 +12,14 @@
          
          <extent><measure unit="words">59329</measure><measure unit="pages">74</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Komisarjeva hči</title><author>Fatur, Lea</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Komisarjeva_h%C4%8Di</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-2M149WGR</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Komisarjeva hči</title><author>Fatur, Lea</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Komisarjeva_h%C4%8Di</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-2M149WGR</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00352/WIKI00352-000.png">[da se prepisuje]</ref><date>1910</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>
       <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
          <langUsage><language ident="sl">slovenščina</language></langUsage>
          
-      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/><size xmlns="http://distantreading.net/eltec/ns" key="medium"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/></textDesc></profileDesc>
+      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="medium"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/></textDesc></profileDesc>
       <revisionDesc xmlns:t="http://www.tei-c.org/ns/1.0"><change when="2018-10-11"><name>Lou Burnard</name>: converted to ELTeC
            </change>
          <change when="2015-09-26">

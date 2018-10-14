@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">92354</measure><measure unit="pages">160</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Strahovalci dveh kron</title><author>Malovrh, Miroslav</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Strahovalci_dveh_kron</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-R3ITY7VK</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Strahovalci dveh kron</title><author>Malovrh, Miroslav</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Strahovalci_dveh_kron</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-R3ITY7VK</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00459/WIKI00459-000.png">[da se prepisuje]</ref><date>1907</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

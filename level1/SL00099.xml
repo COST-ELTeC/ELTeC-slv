@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">61990</measure><measure unit="pages">248</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Marjetica</title><author>Koder, Anton</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Marjetica</idno><idno type="urn">http://www.ff.uni-lj.si/slovjez/mh/Marjetica.pdf</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Marjetica</title><author>Koder, Anton</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Marjetica</idno><idno type="urn">http://www.ff.uni-lj.si/slovjez/mh/Marjetica.pdf</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00099/WIKI00099-000.png">[da se prepisuje]</ref><date>1877</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

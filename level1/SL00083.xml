@@ -2,8 +2,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title> Roman starega samca.  : ELTeC edition</title><author>Pajk, Pavlina (?-?)</author>
-            
+            <title> Roman starega samca.  : ELTeC edition</title><author>Pajk, Pavlina (?-?)</author>          
             <respStmt>
                <name>Domen Kermc</name>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
@@ -12,14 +11,14 @@
          
          <extent><measure unit="words">14171</measure><measure unit="pages">37</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Roman starega samca</title><author>Pajk, Pavlina</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Roman_starega_samca</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-UAS9TPD0</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Roman starega samca</title><author>Pajk, Pavlina</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Roman_starega_samca</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-UAS9TPD0</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00083/WIKI00083-000.png">[da se prepisuje]</ref><date>1895</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>
       <profileDesc xmlns:t="http://www.tei-c.org/ns/1.0">
          <langUsage><language ident="sl">slovenščina</language></langUsage>
          
-      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc>
+      <textDesc><authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/><size xmlns="http://distantreading.net/eltec/ns" key="short"/><canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"/><timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/></textDesc></profileDesc>
       <revisionDesc xmlns:t="http://www.tei-c.org/ns/1.0"><change when="2018-10-11"><name>Lou Burnard</name>: converted to ELTeC
            </change>
          <change when="2015-09-26">

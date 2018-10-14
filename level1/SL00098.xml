@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">42387</measure><measure unit="pages">109</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Luteranci</title><author>Koder, Anton</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Luteranci</idno><idno type="urn">http://www.ff.uni-lj.si/slovjez/luteranci/index.html</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Luteranci</title><author>Koder, Anton</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Luteranci</idno><idno type="urn">http://www.ff.uni-lj.si/slovjez/luteranci/index.html</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00098/WIKI00098-000.png">[da se prepisuje]</ref><date>1883</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

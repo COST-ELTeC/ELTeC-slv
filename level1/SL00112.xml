@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">45379</measure><measure unit="pages">112</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Veliki grof</title><author>Detela, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/V%C3%A9liki_grof</idno><idno type="urn">http://archive.org/details/ljubljanskizvon05ljubuoft</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Veliki grof</title><author>Detela, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/V%C3%A9liki_grof</idno><idno type="urn">http://archive.org/details/ljubljanskizvon05ljubuoft</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00112/WIKI00112-000.png">[da se prepisuje]</ref><date>1885</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>
