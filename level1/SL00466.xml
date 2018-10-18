@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">23432</measure><measure unit="pages">82</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Glagoljaš Štipko</title><author>Bohinjec, Peter</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Glagolja%C5%A1_%C5%A0tipko</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-3UDQWKRR</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Glagoljaš Štipko</title><author>Bohinjec, Peter</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Glagolja%C5%A1_%C5%A0tipko</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-3UDQWKRR</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00466/WIKI00466-000.png">[da se prepisuje]</ref><date>1912</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

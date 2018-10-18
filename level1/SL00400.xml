@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">26653</measure><measure unit="pages">78</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Potepuh Marko in kralj Matjaž</title><author>Cankar, Ivan</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Potepuh_Marko_in_kralj_Matja%C5%BE</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-EVO8FEB7</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Potepuh Marko in kralj Matjaž</title><author>Cankar, Ivan</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Potepuh_Marko_in_kralj_Matja%C5%BE</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-EVO8FEB7</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00400/WIKI00400-000.png">[da se prepisuje]</ref><date>1905</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

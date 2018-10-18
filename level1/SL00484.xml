@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">44281</measure><measure unit="pages">196</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Obsojenci</title><author>Levstik, Vladimir</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Obsojenci</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-9B7FQ2AT</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Obsojenci</title><author>Levstik, Vladimir</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Obsojenci</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-9B7FQ2AT</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00484/WIKI00484-000.png">[da se prepisuje]</ref><date>1909</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

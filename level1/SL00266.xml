@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">31538</measure><measure unit="pages">89</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Rošlin in Vrjanko</title><author>Kersnik, Janko</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Ro%C5%A1lin_in_Vrjanko</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-3MZRKCX0</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Rošlin in Vrjanko</title><author>Kersnik, Janko</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Ro%C5%A1lin_in_Vrjanko</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-3MZRKCX0</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00266/WIKI00266-000.png">[da se prepisuje]</ref><date>1889</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

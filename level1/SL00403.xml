@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">24783</measure><measure unit="pages">146</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Nina</title><author>Cankar, Ivan</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Nina</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-LVU8V4SX</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Nina</title><author>Cankar, Ivan</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Nina</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-LVU8V4SX</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00403/WIKI00403-000.png">[da se prepisuje]</ref><date>1906</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

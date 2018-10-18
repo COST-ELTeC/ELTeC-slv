@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">34978</measure><measure unit="pages">95</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Kotanjska elita</title><author>Kostanjevec, Josip</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Kotanjska_elita</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-HYG7DVC5</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Kotanjska elita</title><author>Kostanjevec, Josip</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Kotanjska_elita</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-HYG7DVC5</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00119/WIKI00119-000.png">[da se prepisuje]</ref><date>1898</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

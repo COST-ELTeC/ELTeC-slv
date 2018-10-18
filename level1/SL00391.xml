@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">70080</measure><measure unit="pages">169</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Pisana mati</title><author>Zbašnik, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Pisana_mati</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-RNUBXWMB</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Pisana mati</title><author>Zbašnik, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Pisana_mati</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-RNUBXWMB</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00391/WIKI00391-000.png">[da se prepisuje]</ref><date>1909</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

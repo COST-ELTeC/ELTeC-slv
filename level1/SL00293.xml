@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">12935</measure><measure unit="pages">60</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Tihotapec</title><author>Mandelc, Valentin</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Tihotapec_(Mandelc)</idno><idno type="urn">http://www.ff.uni-lj.si/slovjez/vaje2.pdf</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Tihotapec</title><author>Mandelc, Valentin</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Tihotapec_(Mandelc)</idno><idno type="urn">http://www.ff.uni-lj.si/slovjez/vaje2.pdf</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00293/WIKI00293-000.png">[da se prepisuje]</ref><date>1855</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

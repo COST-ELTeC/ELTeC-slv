@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">36554</measure><measure unit="pages">51</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Boji</title><author>Saleški Finžgar, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Boji</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-PU5TAOD8</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Boji</title><author>Saleški Finžgar, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Boji</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-PU5TAOD8</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-000.png">[da se prepisuje]</ref><date>1915</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

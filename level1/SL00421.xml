@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">32354</measure><measure unit="pages">96</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Temni oblaki</title><author>Trošt, Ivo</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Temni_oblaki</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-QT1W4RI3</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Temni oblaki</title><author>Trošt, Ivo</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Temni_oblaki</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-QT1W4RI3</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00421/WIKI00421-000.png">[da se prepisuje]</ref><date>1895</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

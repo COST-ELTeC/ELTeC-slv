@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">20862</measure><measure unit="pages">56</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Vzgoja</title><author>Regali, Josip</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Vzgoja</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-DBE6H24U</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Vzgoja</title><author>Regali, Josip</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Vzgoja</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-DBE6H24U</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00123/WIKI00123-000.png">[da se prepisuje]</ref><date>1899</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

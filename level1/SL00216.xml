@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">49694</measure><measure unit="pages">138</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Rokovnjači</title><author>Jurčič, Josip Kersnik, Janko</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Rokovnja%C4%8Di_(LZ)</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-JZB0QP6A</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Rokovnjači</title><author>Jurčič, Josip Kersnik, Janko</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Rokovnja%C4%8Di_(LZ)</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-JZB0QP6A</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00216/WIKI00216-000.png">[da se prepisuje]</ref><date>1881</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

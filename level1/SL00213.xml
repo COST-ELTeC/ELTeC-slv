@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">22598</measure><measure unit="pages">153</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Ivan Erazem Tatenbah</title><author>Jurčič, Josip</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Ivan_Erazem_Tatenbah</idno><idno type="urn">http://upload.wikimedia.org/wikisource/sl/d/d2/IVAN_ERAZEM_TATENBAH.pdf</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Ivan Erazem Tatenbah</title><author>Jurčič, Josip</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Ivan_Erazem_Tatenbah</idno><idno type="urn">http://upload.wikimedia.org/wikisource/sl/d/d2/IVAN_ERAZEM_TATENBAH.pdf</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00213/WIKI00213-000.png">[da se prepisuje]</ref><date>1873</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

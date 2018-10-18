@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">25709</measure><measure unit="pages">72</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Življenje in smrt Petra Novljana</title><author>Cankar, Ivan</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/%C5%BDivljenje_in_smrt_Petra_Novljana</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-IP4SHVPS</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Življenje in smrt Petra Novljana</title><author>Cankar, Ivan</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/%C5%BDivljenje_in_smrt_Petra_Novljana</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-IP4SHVPS</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00413/WIKI00413-000.png">[da se prepisuje]</ref><date>1903</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

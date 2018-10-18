@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">22872</measure><measure unit="pages">63</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Križev pot Petra Kupljenika</title><author>Budal, Andrej</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Kri%C5%BEev_pot_Petra_Kupljenika_(1911)</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-GA32TYJ1</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Križev pot Petra Kupljenika</title><author>Budal, Andrej</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Kri%C5%BEev_pot_Petra_Kupljenika_(1911)</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-GA32TYJ1</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00357/WIKI00357-000.png">[da se prepisuje]</ref><date>1911</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

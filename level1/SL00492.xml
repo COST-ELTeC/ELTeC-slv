@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">20972</measure><measure unit="pages">55</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Letoviščarji</title><author>Premk, Josip</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Letovi%C5%A1%C4%8Darji</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-UIQMWE8K</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Letoviščarji</title><author>Premk, Josip</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Letovi%C5%A1%C4%8Darji</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-UIQMWE8K</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00492/WIKI00492-000.png">[da se prepisuje]</ref><date>1913</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

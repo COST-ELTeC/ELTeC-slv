@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">65228</measure><measure unit="pages">148</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Pomladanski vetrovi</title><author>Bartel, Anton</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Pomladanski_vetrovi</idno><idno type="urn">http://www.ff.uni-lj.si/slovjez/Poml_v1-RiS1.pdf</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Pomladanski vetrovi</title><author>Bartel, Anton</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Pomladanski_vetrovi</idno><idno type="urn">http://www.ff.uni-lj.si/slovjez/Poml_v1-RiS1.pdf</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00094/WIKI00094-000.png">[da se prepisuje]</ref><date>1881</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>

@@ -12,7 +12,7 @@
          
          <extent><measure unit="words">36769</measure><measure unit="pages">89</measure></extent><publicationStmt><p>Dodan ELTeC <date>2018-10-11</date></p></publicationStmt>
          <sourceDesc>
-            <bibl><title>Potresna povest</title><author>Maselj Podlimbarski, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Potresna_povest</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-4DXN6FJ2</idno></bibl><bibl type="copyText"><ref target="$titlePageImage"/></bibl>
+            <bibl><title>Potresna povest</title><author>Maselj Podlimbarski, Fran</author><publisher>Digitalna knjižnica <ref target="http://nl.ijs.si/imp/">IMP</ref></publisher><idno type="wikilink">http://sl.wikisource.org/wiki/Potresna_povest</idno><idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-4DXN6FJ2</idno></bibl><bibl type="copyText"><ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00310/WIKI00310-000.png">[da se prepisuje]</ref><date>1903</date></bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc xmlns:t="http://www.tei-c.org/ns/1.0" n="eltec-1"><p/></encodingDesc>
