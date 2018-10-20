@@ -8,7 +8,7 @@
     version="2.0">
    <!-- by default this stylesheet copies all existing tagging unchanged--> 
     
-
+   <!-- add templates for elements you want to change here -->
     <xsl:variable name="fileId">
         <xsl:value-of select="substring-before(substring-after(//t:TEI/@xml:id,'WIKI'),'-')"/>
     </xsl:variable>
@@ -18,7 +18,7 @@
     </xsl:variable>
     
     <xsl:variable name="textDate">
-        <xsl:value-of select="substring-after(//t:TEI/@xml:id,'-')"/>
+        <xsl:value-of select="substring(substring-after(//t:TEI/@xml:id,'-'),1,4)"/>
     </xsl:variable>
 
 <xsl:variable name="pageCount">
@@ -43,11 +43,11 @@
     <xsl:value-of select="$textDate"/>
     <xsl:text> i.e. </xsl:text>
     <xsl:choose>
-        <xsl:when test="$textDate &lt; 1860 and $textDate &gt; 1840">T1</xsl:when>
-        <xsl:when test="$textDate &lt; 1880 and $textDate &gt; 1860">T2</xsl:when>
-        <xsl:when test="$textDate &lt; 1900 and $textDate &gt; 1880">T3</xsl:when>
-        <xsl:when test="$textDate &lt; 1920 and $textDate &gt; 1900">T4</xsl:when>
-          <xsl:otherwise>????</xsl:otherwise>
+<xsl:when test="$textDate &lt; 1860 and $textDate &gt; 1839">T1</xsl:when>
+            <xsl:when test="$textDate &lt; 1880 and $textDate &gt; 1859">T2</xsl:when>
+            <xsl:when test="$textDate &lt; 1900 and $textDate &gt; 1879">T3</xsl:when>
+            <xsl:when test="$textDate &lt; 1921 and $textDate &gt; 1899">T4</xsl:when>
+            <xsl:otherwise>????</xsl:otherwise>
     </xsl:choose>
 </xsl:message>    
     <xsl:apply-templates/>
@@ -101,14 +101,17 @@
              <idno type="urn"><xsl:value-of select="t:pubPlace/t:ref[2]/@target"/></idno>
              </bibl>
             <bibl type="copyText">
-                <ref target="$titlePageImage"/></bibl>
+                <ref target="{$titlePageImage}">[da se prepisuje]</ref>
+            <date><xsl:value-of select="$textDate"/></date></bibl>
     </xsl:template>
+    
     <xsl:template match="e:timeSlot/@key">
        <xsl:attribute name="key"> <xsl:choose>
-            <xsl:when test="$textDate &lt; 1860 and $textDate &gt; 1840">T1</xsl:when>
-            <xsl:when test="$textDate &lt; 1880 and $textDate &gt; 1860">T2</xsl:when>
-            <xsl:when test="$textDate &lt; 1900 and $textDate &gt; 1880">T3</xsl:when>
-            <xsl:when test="$textDate &lt; 1920 and $textDate &gt; 1900">T4</xsl:when>
+
+         <xsl:when test="$textDate &lt; 1860 and $textDate &gt; 1839">T1</xsl:when>
+            <xsl:when test="$textDate &lt; 1880 and $textDate &gt; 1859">T2</xsl:when>
+            <xsl:when test="$textDate &lt; 1900 and $textDate &gt; 1879">T3</xsl:when>
+            <xsl:when test="$textDate &lt; 1921 and $textDate &gt; 1899">T4</xsl:when>
             <xsl:otherwise>????</xsl:otherwise>
        </xsl:choose></xsl:attribute>    </xsl:template>
     
@@ -121,7 +124,6 @@
     <xsl:template match="t:encodingDesc/@n">
         <xsl:attribute name="n">eltec-1</xsl:attribute>
     </xsl:template>
-
     <xsl:template match="* | @* | processing-instruction()">
         <xsl:copy>
             <xsl:apply-templates select="* | @* | processing-instruction() | comment() | text()"/>
