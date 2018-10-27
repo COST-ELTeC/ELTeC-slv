@@ -1,1 +1,0 @@
-for f in *.tei; do echo '<f n="'$f'" words="' ; saxon $f textify.xsl | wc -w ; echo '"/>' ; done
