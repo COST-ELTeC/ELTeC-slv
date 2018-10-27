@@ -86,10 +86,14 @@
       </measure>
     </extent>
   </xsl:template>
-  
+
+  <!-- ELTeC will have to discuss <availablity>! -->
   <xsl:template match="t:publicationStmt">
-    <publicationStmt>
-      <p xml:lang="en">Added to ELTeC <date><xsl:value-of select="$Today"/></date></p>
+    <publicationStmt xml:lang="en">
+      <p>Added to ELTeC <date><xsl:value-of select="$Today"/></date></p>
+      <p>This work is licensed under the
+        <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+        Attribution-ShareAlike 4.0 International License</ref>.</p>
     </publicationStmt>
   </xsl:template>
 
