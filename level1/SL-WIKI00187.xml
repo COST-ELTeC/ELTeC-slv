@@ -19,8 +19,8 @@
             <measure unit="words">26560</measure>
             <measure unit="pages">80</measure>
          </extent>
-         <publicationStmt>
-            <p xml:lang="en">Added to ELTeC <date>2018-10-27</date>
+         <publicationStmt xml:lang="en">
+            <p>Added to ELTeC <date>2018-10-28</date>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -55,7 +55,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change xml:lang="en" when="2018-10-27">
+         <change xml:lang="en" when="2018-10-28">
             <name>Tomaž Erjavec</name>: converted to ELTeC</change>
          <change when="2015-04-03">
             <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
@@ -66,11 +66,10 @@
    </teiHeader>
    <text xml:lang="sl">
       <body xml:lang="sl">
-         <pb xml:id="pb.001"
-             n="1"
+         <pb n="1"
              facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-001.png"/>
-         <div xml:id="wv-Prvo_poglavje.">
-            <head xml:id="head.1">Prvo poglavje.</head>
+         <div>
+            <head>Prvo poglavje.</head>
             <p>Bilo je zgodaj zjutraj na starega leta dan 188 ...</p>
             <p>Mrzel veter je bril po ulicah stolnega mesta ter dvigal goste oblake suhega snega, ki je na debelo pokrival tla. Tu in tam so brlele po oglih še svetilnice, a na nebu so pričale goste zvezde, da bo napočil lep, toda mrzel zimski dan. Ljudij ni bilo veliko po ulicah; zdaj pa zdaj se je prikazala kaka stara ženica izza ovinka in hitela po gladkem tlaku ob hišah dalje proti cerkvi, kamor je vabil mali tankoglasni zvon k zgodnji, tihi maši; ali pa je prisopihal mlad pekovski učenec mimo, s težkim polnim košem na hrbtu, žvižgal in puhal gorko sapo v pletene rokavice. Tudi nekoliko mlékaric je bilo že videti, ki so prihajale s svojimi voziči v mesto, gazile sneg in opletale po njem s kratkimi, visoko izpodbrécanimi krili.</p>
             <p>Na širokem dvorišči <hi rend="spaced">pred pošto</hi> so stale vprežene saní, in postiljon se je pripravljal, da odrine iz mesta. Na sanéh pa je sedèl v debelo suknjo zavit mož, kateri se je sedaj z nejevoljnim glasom obrnil do voznika:</p>
@@ -85,8 +84,7 @@
             <p>„Mrzlo bo, mrzlo, prokleto mrzlo!“</p>
             <p>„Oh, saj imate kožuh!“ tolaži postiljon.</p>
             <p>V tem je bil oni zlezel na sani in običajno pozdravil sopotnika.</p>
-            <pb xml:id="pb.002"
-                n="2"
+            <pb n="2"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-002.png"/>
             <p>„Se li peljate tudi v <hi rend="spaced">Borje</hi>?“ vprašal je naglo ter zavijal nogi v kožuh.</p>
             <p>„Tudi!“</p>
@@ -116,8 +114,7 @@
             <p>Koncipistov glas je bil nekoliko ošaben.</p>
             <p>„Kaj pa družba sicer? Kaj gospé? Je li kaj zabave?“ nadaljuje potem naglo.</p>
             <p>„I, v tem morate biti vendar tudi poučeni? Politika ima mnogo opravila s — krili!“ roga se Koren.</p>
-            <pb xml:id="pb.003"
-                n="3"
+            <pb n="3"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-003.png"/>
             <p>„Vi ste dovtipni! Toda — oprostite — v aktih nimamo take politike!“</p>
             <p>„Škoda! Sicer bi jih še rajši čitali!“</p>
@@ -137,8 +134,7 @@
             <p>Danes sta čakala dva popotnika, da bi prisedla na pošto: mlad mož, opravljen v tanko, vrhovno suknjo, in priletna kmetica.</p>
             <p>„Oh, gospod učitelj, kaj pa Vi tukaj uganjate?“ poklical je Koren prvega.</p>
             <p>Ta pa je najprej zlezel na sani poleg Tineta; vedel je, da tu velja stara prislovica, da tisti prej melje, kdor prej pride.</p>
-            <p>„Izlet smo napravili sinoči, izlet! Pa sem se malo zakasnil,“ odgovoril je s hripavim glasom; „drugi so odšli okoli polunoči, meni je bilo <pb xml:id="pb.004"
-                   n="4"
+            <p>„Izlet smo napravili sinoči, izlet! Pa sem se malo zakasnil,“ odgovoril je s hripavim glasom; „drugi so odšli okoli polunoči, meni je bilo <pb n="4"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-004.png"/> pa tu bolj všeč. Pri Vodetu — godba, petje, ples! Škoda, da Vas ni bilo. Kako ste se zabavali doma v praznikih, — saj ste bili pač doma?“</p>
             <p>„Malo, malo! Največ v mestu!“ zavrne Koren in predstavi učitelja svojemu sosedu, kateri je odzdravil na pol prijazno, na pol pa ošabno.</p>
             <p>V tem je opravil Tine svoj posel in kregal se le še na glas s kmetico, kateri ni bilo več prostora na sanéh.</p>
@@ -160,8 +156,7 @@
             <p>„Tega ne smemo zamuditi! Tudi Vi ne, gospod koncipist! Videli bodete borjanske tržane, kako učeno se bodo spogledovali pri tem predavanji. Izvrstna misel! Pa to ste vse izumili v teh štirinajstih dnevih, v katerih mene ni bilo v Borji!“</p>
             <p>„A — gospé? Katere gospé prihajajo v čitalnico?“ ustavi koncipist Korenovo čudenje.</p>
             <p>Učitelj je hotel odgovoriti, toda Koren ga je na skrivnem dregnil z nogo.</p>
-            <pb xml:id="pb.005"
-                n="5"
+            <pb n="5"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-005.png"/>
             <p>„Kako morete povpraševati?“ hitel je, da bi preprečil učiteljev odgovor. „Rekel sem vam, da vse pride, kar koli šteje k haute volée v našem Borji: glavarjeva gospá, nadzornikova soproga in usnjarjeve hčerke; fina dekleta in groš je pri hiši; potem prihaja časi graščákinja Medenovka, à propos, saj jo morda poznate?“</p>
             <p>„Medenovka? Oh, plavolasa je, in Nemka — ne li?“</p>
@@ -179,19 +174,17 @@
             <p>Doneči glas Tinetovega roga jim je končal pogovor. Dričali so že mimo prvih borjanskih hišic, in malo potem ustavili se pred pošto nasproti čitalnične krčme.</p>
             <p>„Na svidenje — zvečer!“ klical je še Koren, ko so se razhajali.</p>
          </div>
-         <div xml:id="wv-Drugo_poglavje.">
-            <head xml:id="head.2">Drugo poglavje.</head>
+         <div>
+            <head>Drugo poglavje.</head>
             <p>Predno nadaljujemo svojo povest, treba vendar, da seznanimo čitatelje malo bolj z osebo, kateri je namenjena glavna vloga v skromnem dejanji, ki se bode tu razvilo, namreč s sedanjim odvetniškim koncipijentom <hi rend="italic">Andrejem Korenom</hi>.</p>
             <p>Imel je sedaj blizu trideset let in bil je bolj velike, nego srednje postave, koščen in vitek; kratka rajava brada in njegovi dolgi, nazaj česani lasje prouzročevali so nekov resen vtis, katerega pa je zopet motilo dvoje malih, temnih pa jako veselih očij. Lep ni bil, a nikdo bi ne smel reči, da je bil prav nasprotno — grd mož; nekaj simpatičnega, prijaznega odsevalo je vedno z njegovega lica, čigar vplivu se nihče ni mogel ustavljati. Tudi njegova vnanja oprava je bila sedaj elegantna, kakor se spodobi odvetniškemu kandidatu.</p>
-            <pb xml:id="pb.006"
-                n="6"
+            <pb n="6"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-006.png"/>
             <p>Koren je po burnih časih svojega studiranja in poznejšega klatenja po raznih uradih in pisarnah napósled zavil v mirno luko občinskega tajništva v Borji; isto je oskrboval malo let. Borjanski odvetnik dr. Hrast je spoznal ob raznih prilikah, da v mladem moži tiči vendar še dosti dobrega, in sklenil je, spraviti ga zopet v prvotni tir: vzel ga je v svojo pisarno. Ob ednem pa se je oni moral obvezati, da bo dovršil še svoje nepopolne preskušnje. Koren je z veseljem vse obljubil, pridno delal v pisarni ter bil od dné do dné rabljivejši, samó preskušenj se ni lotil. „Saj je še čas“, odgovarjal je stereotipno raznim opominjevanjem; tako je potekalo leto za letom, in takóv je bil Andrej še, ko smo ga videli na starega leta dan vračajočega se domóv v Borje.</p>
             <p>A ker je bil tako gledé socijalne stopinje zlezel za nekoliko klinov više, postal je tudi — čitalnični odbornik in v ti važni službi ga vidimo zopet zvečer pri čitalnični veselici. Nocoj je bil kar nagloma imenovan rediteljem, in radovoljno se je lotil nehvaležnega posla.</p>
             <p>Čitalnični prostori so se naglo polnili; veselica na starega leta dan je bila zlasti zarad tombole borjanskim tržanom najbolj priljubljena; mladi svet pa se je itak veselil plesa, s katerim se je moralo pričeti novo leto. Tako je zahtevala ukoreninjena navada — odkar je stala borjanska čitalnica. Letos pa je prišel odbor z novotarijo, gledé katere so konservativni društveniki jeli resno glave in rame zmajevati, češ — kaj bo zopet s tem? Napovedano predavanje jih je tako vznemirilo. Toda na drugi strani trla jih je radovednost in naudajala skrb, da jih bodo drugi zmatrali za nesposobne umeti tako predavanje — in tako se je zgodilo, da je bila nocoj čitalnična dvorana bolj polna, nego kedaj; blagajnik, lekar Sok, mel si je roki in notarju čestital na gotovem, vsestranskem vspehu. Sam je bil v svesti, da čim več je občinstva, tem več tablic se bo pri tomboli spečalo — in čitalnica je potrebovala novcev za predpustne besede.</p>
             <p>Pa ne samó dvorana, nego tudi druge sobe so bile polne; občinstvo se je vrstilo v njih, kakor bi bilo po dijetnih razredih uvrščeno. V prvi sta sedela dva podučitelja, nekoliko sodnih in drugih pisarjev in davkarska praktikanta. Drugo sobo pa so bili posedli nadučitelj, davkarski nadzornik in davkarski kontrolor, zemljiški knjigovodja in nekoliko tržanov, se ve da imovitejših; kdor je bil oženjen, pripeljal je tudi svojo soprogo. Tretja soba pa se je le polagoma polnila. Mladi neoženjeni sodnik in njegov adjunkt sta bila že tu, in pri njima odvetnik dr. Hrast s svojo ženo. Govorili in ugibali so o drugih, bodo li prišli, ali ne. Vnanjih članov z bližnjih gradičev se niso nadejali; sneg je bil prevelik.</p>
-            <pb xml:id="pb.007"
-                n="7"
+            <pb n="7"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-007.png"/>
             <p>„Pa Bolè mi je obljubil, da pripelje svojo Milico,“ trdil je Hrast.</p>
             <p>„Koliko je stara?“ vprašal je adjunkt zaspano. Imel je navado, da je tako leno govoril.</p>
@@ -205,8 +198,7 @@
             <p>„Oh, tu se je oglasil idejalist! Ne vem, kaka je sedaj, a obetala je pred leti mnogo, predno jo je Bolè poslal v Švico. Sedaj se je vrnila, in ostane menda doma.“</p>
             <p>Med vrati se je čulo glasno škripanje novih čevljev in v sobo stopi naš znanec pl. Ruda v fraku, z belim ovratnikom in cilindrom. Za njim pa nocojšnji reditelj Koren.</p>
             <p>„Predstavite me vendar!“ šepnil je prvi temu na uho.</p>
-            <pb xml:id="pb.008"
-                n="8"
+            <pb n="8"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-008.png"/>
             <p>Koren mu je naglo ustregel; a storil je to vendar malo posiljeno in okorno, kakor ravnajo ljudje, pri katerih ta običaj ni povsem v navadi. Ko je bil predstavil najnovejšega svojega znanca mali družbi, odšel je takoj v prve sobe; le kratek, zaničljiv pogled je vrgel še na gladko osebo koncipistovo.</p>
             <p>„Oh, Koren, doktor Koren!“ kričal je med drugimi vrati majhen, debel možic, očividno Gorjanski tržan; „si li zopet tu? Dobro, dobro! Pa tjà sedi k nam k oni dolgi mizi, tam bomo jeli purana, purana na akcije! Hahaha, purana na akcije — pomisli — akcija po petdeset — soldov, seveda! Izgubiti ne moreš, kosti imaš še po vrhu!“</p>
@@ -214,8 +206,7 @@
             <p>„Lovšev Boštjan; kdo drugi! Le položi petdeset kebrov; pozneje bodo akcije dražje — šestdeset, sedemdeset!“</p>
             <p>Ob dolgi mizi so se v istini zbirali razni gostje, ter se glasno smejé hvalili izvrstno misel, jesti purana na delnice. Lovšev Boštjan, ustanovitelj te nove banke, v navadnem življenji pa trgovski pomočnik, pobiral je z resnim licem akcijski kapital.</p>
             <p>Koren je tudi segel v žep.</p>
-            <pb xml:id="pb.009"
-                n="9"
+            <pb n="9"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-009.png"/>
             <p>„Pa samó — puran?“ vpraša z onega konca sobe davkarski nadzornik. „Salata tudi, kisli krompir in pésa in kruh!“ poučil ga je Boštjan. „Jaz vzamem tudi delnico!“ hiti nadzornik.</p>
             <p>„Kaj pa, da nas boste še obdačili,“ ugovarja Koren.</p>
@@ -236,8 +227,7 @@
             <p>Pri delničarjih ta poziv ni imel vspeha.</p>
             <p>„Do tombole že pridemo!“ menili so trije, drugi pa so se muzali in molčali.</p>
             <p>Koren je hotel iz sobe, a med vrati je moral obstati. Velik in obilen gospod, črno opravljen, prijaznega jovijalnega obraza preprečil mu je izhod. Vstopil je z mostovža in vêdel s sabo mlado, vitko deklico. Ogrnena je bila z dolgim s kožuhovino obrobljenim plaščem, glavico pa in pol obraza je ovijala pletenina od svetlo-rumene svile.</p>
-            <pb xml:id="pb.010"
-                n="10"
+            <pb n="10"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-010.png"/>
             <p>Koren se globoko prikloni prišlecema. Videti je bilo, da je vesel tega pohoda.</p>
             <p>„Oh, gospod Bolè! To je lepo! V tem vremeni prihajate! Nismo se Vas smeli nadejati!“ hitel je v svesti si svojega posla kot nocojšnji reditelj.</p>
@@ -260,8 +250,7 @@
             <p>Vrnila sta se v tretjo sobo in tu je predstavil Hrast svojega koncipijenta Bolétovi hčerki.</p>
             <p>Ta ji je hotel ponuditi roko, da jo odvede v dvorano, a pl. Ruda ga je prehitel.</p>
             <p>„Pokažite nam prostor!“ pravi oblastno in stopi z Milico naprej. Korenu ni bilo do teh nekako ošabnih besed in ne do spremljevanja Bolétove. Podal je roko Hrastovi soprogi. A v tem ko je stopil mimo prvega para, ozrl se je prvič v obraz mlade deklice.</p>
-            <p>Do dvorane je šel s Hrastovo gospo za onima, a pred uhodom postal je Ruda, in skozi dvorano je odvel Koren svojo spremljevalko <pb xml:id="pb.011"
-                   n="11"
+            <p>Do dvorane je šel s Hrastovo gospo za onima, a pred uhodom postal je Ruda, in skozi dvorano je odvel Koren svojo spremljevalko <pb n="11"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-011.png"/> naprej na prvi sedež pod odrom. Za njim je privedel Ruda Bolétovo, ter ostal spredaj poleg gospá, koncipijent se je pa vrnil v ozadje. Sam ni vedel, da mu je kri silila v lice, ko se je gnetel skozi gosto nastavljene društvenike; vse se mu je videlo nekako megleno, in ko mu je Lovšev Boštjan šepnil na uho: „Dobro, dobro se vèdeš, prijatelj!“ niti čul ni teh besed.</p>
             <p>A sedaj že zopet zapoje zvonec in dvigne se zavesa pred odrom. Prva točka je bil predsednikov pozdrav. Dr. Hrast ga je moral govoriti, in rešil je svoj nalog kratko in točno, kakor vselej, kajti ta točka ni nikdar izginila iz sporeda.</p>
             <p>Potem so pevci zapeli Ipavčevo: „Bodi zdrava, domovina!“ To je bilo v Borji tudi tako ukoreninjeno, da je ni bilo čitalnične besede brez te pesmi. In občinstvo je pevcem vselej burno ploskalo, ako je bil tudi kak solist hripav. Javno odobravanje in javna pohvala, ta je bila vsakemu gotova, kdor se je prikazal na odru v Borji; za hrbtom pa so ga rešetali in skozi zobe vlekli. Taki so bili borjanski kritiki!</p>
@@ -273,8 +262,7 @@
             <p>Bil je mlad duhovnik, velike, suhe postave, a polnega, okroglega lica. Ker priimek njegov tudi tržanom ni bil navaden, imenovali ga bodemo tudi mi tako, kakor so ga v Borji klicali: <hi rend="spaced">gospod Anton</hi>.</p>
             <p>Notar Koprivec pa je pričel predavati. Naznanil je najprej, da bo govoril o astronomiji, in o svetovih, kateri se sučejo in kažejo na nebesi, in o njihovi naravi.</p>
             <p>Učitelj <hi rend="spaced">Skubè</hi>, ki se je bil zjutraj vozil s Korenom, sunil je tega rekoč: „Vam li nisem pravil, da bo o zvezdah govoril?“</p>
-            <pb xml:id="pb.012"
-                n="12"
+            <pb n="12"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-012.png"/>
             <p>Koren je molčal. Oziral se je po sobani in po odru, a vedno so mu oči zastajale tam spredaj ob sedežih, kjer je ugledal pl. Rudo poleg Boletove Milice. Nekaj ga je jezilo in ob jednem mu je bilo, kakor bi bil veselo novico zvedel nocoj. Vznemirjen je bil, in lice njegovo, sicer bledo, skoro rumenkasto, ni imelo navadne barve. Kri ni hotela z njega.</p>
             <p>Notarjevo predavanje, akopram se gledé učenosti ni dvignilo na površje navadne popularne razprave, bilo je vendar večini poslušalcev preučeno, neumljivo; in za to se je tem zvesteje poslušali, da ne bi kdo sodil, da jim ne godi. Lovšev Boštjan se je počasi izgubil iz sobane, oni debeli tržan pa, ki je bil preje najživahnejši pri delniškem društvu, zadremal je polagoma. Gospod Anton je grbančil čelo, kadar je govornik katero zinil o „živi materiji“, ter čakal, da li kaj hujšega ne pride. Toda notar je bil previden; vedel je že prej, da bo gospod Anton tudi med poslušalci, ter je po tem uredil svoj govor.</p>
@@ -286,8 +274,7 @@
             <p>„Oh, saj se tudi več učili ne boste!“</p>
             <p>„Zakaj ne?“ Ruda se je samosvestno smehljal.</p>
             <p>„Ker treba ni!“ šepeta potem. Deklici ni ugajal ta razgovor, zato je molčala. Jezilo jo je nekaj v vedenji Rudovem in tudi zadnja opazka, iz katere je odmeval zaničljiv naglas.</p>
-            <pb xml:id="pb.013"
-                n="13"
+            <pb n="13"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-013.png"/>
             <p>Notar je govoril sedaj o hipotezi, o konečnem zrušenji svetov in preosnovi v raztezno-tekočo tvarino in o začetku novega krogotoka njihovega. Nekoliko poslušalcev je mislilo le na bližnjo tombolo, nekaj jih je zevalo, kaplan pa je nemirno drsal z nogo po umazanih tleh.</p>
             <p>„To je pa odveč, to je pa odveč!“ zamrmral je proti sosedi.</p>
@@ -305,8 +292,7 @@
             <p>A sedaj je v istini končal notar. Znalo se ni, velja li gromovito ploskanje in odobravanje predavanju, ali končanju; vsem pa je sevala zadovoljnost z lica. Jedini gospod Anton je vstal z nejevoljnim obrazom ter šel na drugo stran v gostilniške sobe.</p>
             <p>Spredaj pri prvih sedežih pa je vstal koncipist pl. Ruda, nastavil svoj binokelj in ošabno gledal po občinstvu. Sodnik se mu je pridružil ter govoril nekoliko besedic s Hrastovo gospo.</p>
             <p>„Čigava je ona gospodična — tam doli pri oknu, z belo rožico v laseh?“ vprašal ga je Ruda.</p>
-            <pb xml:id="pb.014"
-                n="14"
+            <pb n="14"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-014.png"/>
             <p>„To je dacarjeva hčerka!“</p>
             <p>Ruda je zategnil ustna, a vendar je še jedenkrat pogledal tja, kjer se mu je zdelo, da je tudi tam vzbudil pozornost.</p>
@@ -316,8 +302,7 @@
             <p>Korenu je bilo to po volji. Bolè je mnogo kupil ter velel hčeri:</p>
             <p>„Le izberi Milica!“</p>
             <p>„Oh, jaz imam srečno roko!“ hitel je Ruda ter vlekel Korenu karte iz rok, in jih pokladal na mizo.</p>
-            <pb xml:id="pb.015"
-                n="15"
+            <pb n="15"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-015.png"/>
             <p>„Jaz bi Vam pa svetoval, da si sami izberete liste!“ omenil je prodajalec živo.</p>
             <p>„Zakaj?“ vpraša deklica smehljaje.</p>
@@ -331,8 +316,7 @@
             <p>„Semkaj, semkaj, gospod notar!“ klical je Bolè, ter porinil pristopivšemu stol. „Per aspera ad astra — to je lepo, da ste nekaj novega uvedli v naše veselice — mi potrebujemo prenovljenja in presnovljenja — ali kako pač poje Gregorčič —?“</p>
             <p>„Hvala Bogu, da ga čitaš; — sedaj boš pač časih tudi Ti kaj novega citiral,“ smeje se doktor Hrast.</p>
             <p>„Takoj, če želiš!“ Kadar bom Tebe ali pa Tvojega čestitega kolego, gospoda notarja Koprivca videl v družbi s kako stranko, klical bom z Gregorčičem: „Gorje ti, vbogi kmet, gorje!“</p>
-            <pb xml:id="pb.016"
-                n="16"
+            <pb n="16"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-016.png"/>
             <p>„Pustiva ga v miru, gospod notar,“ zavrne s smehom Hrast, „nocoj se ni varno pričkati s prijateljem Bolétom.“</p>
             <p>Soproga Hrastova je povprašala po uzroku glasnega smeha, pa v tem je Bolè že vabil gospoda Antona k mizi. Ta je bil malo v zadregi; hotel je sesti k družbi, katera se je bila zbrala pri sosedni mizi okrog debele usnjarice. In ko se je ozrl po gospodi okrog Boléta, rastla je njegova zadrega; gosposke ženske družbe ni bil vajen, in tu je videl prvič do sedaj neznano mu gospodično.</p>
@@ -352,8 +336,7 @@
             <p>„Oh, Anton, Ti še nimaš listkov! Le naglo izberi!“</p>
             <p>Kaplan in drugi so zopet segli po tablicah, in v kratkem je koncipijent poprodal vse.</p>
             <p>„Glej ga, gospoda Antona, nocoj smo pa menda preslabi!“ šepnila je pri sosedni mizi usnjarica svojemu možu na uho.</p>
-            <p>Ta ni imel časa do odgovora, kajti rediteljev zvonec je že naznanjal začetek tombole, in za glasnim vrišem v dvorani je nastala občna tihota <pb xml:id="pb.017"
-                   n="17"
+            <p>Ta ni imel časa do odgovora, kajti rediteljev zvonec je že naznanjal začetek tombole, in za glasnim vrišem v dvorani je nastala občna tihota <pb n="17"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-017.png"/>in pozornost, katera je vladala skoraj do konca igre. Le tu in tam se je kak burkež oglasil z napovedovanjem že oddanega dobitka, ali pa po dvakrat ali trikrat zahteval ponovljenje izžrebanih številk ter tako vzbujal občen smeh.</p>
             <p>Igra je bila kmalu končana.</p>
             <p>Pri Bolétovi mizi je bil jedini gospod Anton srečen. Dobil je staro, lepo majoliko, katero je bila darovala Hrastova soproga tomboli. Postal je jako dobre volje in z notarjem se pogovarjal o političnem položaji, ne da bi jeden ali drugi iskal prepira.</p>
@@ -370,8 +353,7 @@
             <p>„Da ga pokličejo k vladi?“ vpraša Hrast. „Vse je mogoče.“</p>
             <p>„Tam potrebujejo ljudij, ki umejo in pišejo slovenski,“ nadaljuje notar.</p>
             <p>„In naš glavar je Slovenec!“ pristavi gospod Anton.</p>
-            <pb xml:id="pb.018"
-                n="18"
+            <pb n="18"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-018.png"/>
             <p>„Slovenec? Ha ha ha, kje si pa čul to bajko?“ oglasi se z druzega konca mize koncipijent Koren.</p>
             <p>„Saj nam dopisuje vedno slovenski!“ trdi kaplan.</p>
@@ -393,8 +375,7 @@
             <p>„Za narod, kaj ne?“ vpraša adjunkt zaspano.</p>
             <p>„Oh, jaz bi Vam že resnico povedal, gospôda! Pa ta čas pač pride! Le potrpite!“</p>
             <p>To rekši izpije poln kozarec piva in vstane od mize. Odhajal je z notarjem.</p>
-            <pb xml:id="pb.019"
-                n="19"
+            <pb n="19"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-019.png"/>
             <p>„Glej ju, glej!“ klical je adjunkt za njima; „sedaj gresta v istini plesat — za narod!“</p>
             <p>Koren ni odgovoril; zadovolil se je z zaničljivim pogledom, s katerim je premeril vso smejočo se družbo, in povrnil se je s Koprivcem v dvorano. Tu so se zbirali pari za četvorko. Ruda je vodil Bolétovo Milico po dvorani in Koren je takoj uvidel, da sta že obljubljena za ta ples. Hrastova gospá je sedela še v gornjem kotu dvorane poleg davkarjeve soproge, in tja je hitel koncipijent. Doktorica še ni bila engažovana in je Korenu na njegovo prošnjo prijazno prikimala.</p>
@@ -410,8 +391,7 @@
             <p>Koren se je nehoté ozrl po imenovanem in po njegovi plesalki. Stala sta na nasprotni stráni, toda bolj v drugem konci dvorane, oba v jako živem razgovoru.</p>
             <p>Koncipijent je raztegnil malo ustna, kakor človek, ki hoče reči: „Kaj meni mari do tega!“ ter plesal dalje po glasnem zapovedovanji Boštjanovem. A ko je dospel zopet na svoj prostor, moral se je znova ozreti po Milici. Jezilo ga je sedaj nekaj; da Milica pleše z onim ošabnežem, da je prijazna ž njim, da se sam ni obljubil ž njo za ta ples, — vse, vse ga je jezilo.</p>
             <p>„O svojem potovanji mi še niste ničesa povédali,“ omenila je doktorica.</p>
-            <pb xml:id="pb.020"
-                n="20"
+            <pb n="20"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-020.png"/>
             <p>Koren ji začne na kratko pripovedovati, kaj je počel v dnevih svojega dopusta; pa bili so že v zadnjem delu kadrilje, v katerega je vpletal Lovšev Boštjan vedno kake nove podobe.</p>
             <p>„Double chain!“ vpil je sedaj, in po trikratnem nesrečnem poskusu šlo je vse v redu. Pri menjanji se je sešel Koren z Milico.</p>
@@ -431,8 +411,7 @@
             <p>„Jako ljubeznivo, a jaz Vas zatožim Vaši soprogi — haha! Oh — ne, ne! Ne bom Vas ne! Le bodite prvi, ako ima to kaj pomeniti.“</p>
             <p>Njene temne oči so bile segle pri teh besedah mimo Rude, ki se je igral še vedno z njeno pahljačo ter izkušal ujeti časih kak pogled od nje.</p>
             <p>Šli so znova plesat in sedaj je bil tudi Koren že tako pogumen, da je večkrat plesal z Milico. Zabaval jo je s tem, da ji je pripovedoval o svojih dijaških letih in o vseučilišnih burkah, celó o zadnjem potovanji in o svojem domu ji je pravil. Govoril je suho in v kratkih stavkih — brez ognja in brez barv — a vendar ga je deklica pazno poslušala. Vračala mu je z dogodki iz odgojevališča, v katerem je več let prebila, s pripovedovanjem onih vsakdanjih, nedolžnih in vendar humorja polnih spletek in zavijač, kakor se uganjajo po takih zavodih.</p>
-            <pb xml:id="pb.021"
-                n="21"
+            <pb n="21"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-021.png"/>
             <p>Ruda pa se je lotil dacarjeve hčerke, pri kateri je bil takoj zapazil, da hoče koketovati ž njim.</p>
             <p>Zdajci pa zapoje na odru za zaveso steklen zvon; počasi, skoraj slovesno so doneli njegovi udarci preko plesalcev. Bilo je polunoči, in staro leto končano.</p>
@@ -445,14 +424,12 @@
             <p>„Le uganite ga!“ zavrnila je Milica, in hitela Hrastovi soprogi naproti, želet ji srečno novo leto. Tudi pl. Ruda je sedaj pritekel. —</p>
             <p>Kmalu po polunoči so se jeli razhajati. Gospod Anton se je bil že dosti prej poslovil, sedaj pa sta odšla Bóletova in Hrastova in večina drugih oženjenih. Dvorana se je polagoma izpraznila, a v krčmi je bilo tem več gostov. Pevci so zaseli veliko mizo in v gostem tobakovem dimu, kateri je polnil vse sobe, in pri brljavih petrolejevih svetlinah bilo je kmalu težko spoznavati posamične osebe. Glasen vrišč in šunder je vladal povsod in vsak trenutek je zadonela iz njega vesela pesem domačega zbora.</p>
          </div>
-         <pb xml:id="pb.022"
-             n="22"
+         <pb n="22"
              facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-022.png"/>
-         <div xml:id="wv-Tretje_poglavje.">
-            <head xml:id="head.3">Tretje poglavje.</head>
+         <div>
+            <head>Tretje poglavje.</head>
             <p>Predpust se je že bližal svojemu koncu, ko so odličnejše Borjane iznenadila nekega jutra na debel rožnat papir tiskana vabila k večerni zabavi pri graščáku <hi rend="spaced">Medenu</hi>. Fant, ki jih je raznašal, ni imel livreje, bil je navaden vrtnikov pomagač, in je oddavši omenjeni listič, rad malo postal, češ, morda bo tudi zánj kaj odletelo; a vabila so bila tem elegantnejša ter so v običajnem zlogu nemški naznanjala, da se „gospod Meden in njegova soproga čestita z vabilom k soire dansante.“</p>
-            <pb xml:id="pb.023"
-                n="23"
+            <pb n="23"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-023.png"/>
             <p>„Kaj vraga!“ vzkliknil je dr. Hrast, prebravši dotični listič, katerega mu je bil prinesel sèl v pisarno.</p>
             <p>Koren je pri tem vstopil ter nosil jednako pismo v roki. „Ste li tudi Vi povabljeni?“ vpraša ga šef.</p>
@@ -473,8 +450,7 @@
             <p>Zunaj v svoji sobi je še jedenkrat razgenil vabilo in čital poluglasno dan in uro napovedane veselice.</p>
             <p>„Na pustno nedeljo torej!“ šepnil je in položil rožnati listič v svojo miznico.</p>
             <p>Nepričakovana vest o veselici pri Medenovih se je bliskoma razširila po trgu. V stalni krčmi uradnikov, kamor je zahajal tudi Koren, nocoj ni bilo o drugem govora, in ker so bili vsi povabljeni, čulo se je tudi le laskavo odobravanje te nove Medenove misli. Celó podrobnosti pričakovanega zabavnega večera so bile že znane. Tako je poštar vedel, da je Meden naročil vojaško godbo in dve imenitni kuharici iz mesta. Tudi o plzenskem pivu in renskem vinu in napósled o šampanjci se je govorilo. Zadovoljnost je vladala povsod, le jedno vprašanje ljudem ni dalo mirovati, namreč: „Kaj to pomeni? Čemu to?“</p>
-            <pb xml:id="pb.024"
-                n="24"
+            <pb n="24"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-024.png"/>
             <p>In tu je bil vsem dan dušek, da navzlic težko pričakovani zabavi in poleg svoje zadovoljnosti izpuste nekoliko zlobnih ali zlovoljnih opazek.</p>
             <p>„Radoveden sem, bo li kaj oficirjev iz mesta —“ šepnil je davkarski nadzornik sosedu pl. Rudi na uho.</p>
@@ -502,8 +478,7 @@
             <p>Iz vseh opazek pa je vsak lehko čutil porogljiv naglas — jedini koncipist menda ne.</p>
             <p>Sredi pogovora je nekdo predlagal, da se napravi tarok in kmalu potem so začeli nekateri igrati. Adjunkt pa se je šalil s točajko in Koren mu je pomagal.</p>
             <p>Bilo je že blizu polunoči, ko sta se Koren in notar Koprivec vračala domóv. Stanovala sta v isti hiši.</p>
-            <pb xml:id="pb.025"
-                n="25"
+            <pb n="25"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-025.png"/>
             <p>„To Vam je gizdalin, ta koncipist,“ omenil je Koren pred vežnimi vrati.</p>
             <p>„Pa jaz bi še stavil, da bo Boletov zet!“ zavrne notar.</p>
@@ -517,8 +492,7 @@
             <p>Ločila sta se na temnem mostovži in odšla vsak v svojo sobo.</p>
             <p>Na pustno nedeljo zvečer je bilo živahno gibanje na gladki, debelo s snegom pokriti cesti, katera je tekla iz Borja do četrt ure oddaljenega Medenovega gradiča. Vsak trenutek so pridrdrale odprte saní, in tenak glas kraguljcev, ki so viseli ob konjih, razlegal se je daleč po raztegneni dolini. Trije, štirje vozniki, kolikor jih je premogel trg, imeli so nocoj dovolj posla, kajti nihče ni hotel peš priti, in ako so trije ali štirji séli na voz, tudi račun voznikov ni bil velik za posameznika. Okrajni glavar in njegova soproga sta se peljala skupaj, in ko se je voznik zopet vrnil, naložil je pri čitalnični krčmi sodnika, adjunkta, notarja in pl. Rudo. Prav, ko so že konji potegnili saní, prisopihal je Koren.</p>
             <p>„Jaz sem že mislil, da Vas ne bo!“ klical je Koprivec. Koncipijent je naglo sédel poleg voznika; na drugi strani pa se je tiščal notar. Oni trije so balancirali zadaj.</p>
-            <p>Po kratki vožnji so ugledali pred seboj razsvetljena okna Medenovega gradiča, in ko je ustavil voznik svoja konjiča pred velikimi vrati, pritekel je hlapec pomagat gospodom s sanij. Dva druga pa sta svetila z bakljami. Nekoliko korakov proč je stala cela gneča gledalcev, domačih hlapcev in deklin, kateri so si šepetali razne opazke o prihajajočih ter klopotali z zobmi ob hudem mrazu. Po veži in po stopnicah je bilo vse zeleno. Oboki so bili prepreženi s smrečjem, ob straneh so stala drevesa iz cvetličnjaka, in v vsakem ovinku je brlela svetilnica. Zgoraj v prvem nadstropji na mostovži je pričakoval graščák Meden svoje goste, opravljen v frak in na rokah rumene rokavice in pokrit z visokim svilenim klakom. Mož je bil že malo starikav, dokaj trebušnat in debeli vrat mu je silil izza ozkega, trdega vratnika. Z nenaravnimi pokloni je pozdravljal prišlece in jim stiskal roke; govoril je <pb xml:id="pb.026"
-                   n="26"
+            <p>Po kratki vožnji so ugledali pred seboj razsvetljena okna Medenovega gradiča, in ko je ustavil voznik svoja konjiča pred velikimi vrati, pritekel je hlapec pomagat gospodom s sanij. Dva druga pa sta svetila z bakljami. Nekoliko korakov proč je stala cela gneča gledalcev, domačih hlapcev in deklin, kateri so si šepetali razne opazke o prihajajočih ter klopotali z zobmi ob hudem mrazu. Po veži in po stopnicah je bilo vse zeleno. Oboki so bili prepreženi s smrečjem, ob straneh so stala drevesa iz cvetličnjaka, in v vsakem ovinku je brlela svetilnica. Zgoraj v prvem nadstropji na mostovži je pričakoval graščák Meden svoje goste, opravljen v frak in na rokah rumene rokavice in pokrit z visokim svilenim klakom. Mož je bil že malo starikav, dokaj trebušnat in debeli vrat mu je silil izza ozkega, trdega vratnika. Z nenaravnimi pokloni je pozdravljal prišlece in jim stiskal roke; govoril je <pb n="26"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-026.png"/> malo, in tem urneje hodil prihajajočim gostom odpirat vrata v sobo, kjer jih je sredi došlih gospé pričakovala in pozdravljala njegova soproga.</p>
             <p>„Prosim, prosim, gospod sodnik“, hitel je Meden in tiral ogovorjenega k vratom; adjunktu in koncipistu je stisnil roki, Korena in notarja pa le površno, a vendar prijazno pozdravil. V sobi je bilo še malo gostov, največ uradnikov iz Borja; pa kmalu so se sobe polnile. Prišlo je tudi nekoliko gospodov iz mesta, med njimi trije oficirji. Tudi Bolè s svojo soprogo in Milico se je pripeljal. Družba je bila sila raznovrstna ali raznobarvna, in zato s početka tudi živahna zabava ni mogla prodreti. Vse je le bolj šepetalo in boljši znanci so se stiskali skupaj. Gospé so zlasti ogledovale graščakinjo, soprogo Medenovo. Bila je opravljena v težak siv brokat in sem ter tja je nosila po krilu pripete šopke svežih sneguljčic. Ta oprava je čudno pristovala njenim svetlim, plavim lasem, a prav ker se je videlo vse bolj jednotno in skromno, vplivala je celota zmagonosno na gledalca.</p>
             <p>Sedaj se je pripeljal tudi doktor Hrast s soprogo svojo. Elza, Medenova soproga, pozdravila je oba jako prijazno in doktorju tudi stisnila roko. Boletova in Hrastova družina je zasela kot v dvorani poleg sobe, kjer je vzprejemala graščakinja goste; poleg njih na nizkem odru pa so godci, vojaki, pripravljali gosli svoje.</p>
@@ -531,8 +505,7 @@
             <p>„Ste li že dolgo znani z njegovo rodbino?“ omenila je Boleška, katera je bolje vedela prikriti čudenje svoje.</p>
             <p>„Obiskal nas je pred kratkim, in tudi midva sva bila že v Grobljah pri njem“.</p>
             <p>Hrast je pri teh besedah jel gledati po dvorani; spomnil se je nehoté Korena in pogovora ž njim o priliki, ko sta prejela povabilo na ples k Medenovim.</p>
-            <pb xml:id="pb.027"
-                n="27"
+            <pb n="27"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-027.png"/>
             <p>V prvi sobi se je gnetlo nekoliko osob, in Elza se je ozrla tja.</p>
             <p>„A tu bode! Res je“, dejala je skoraj bolj naglo nego je sama hotela ter odšla novim gostom naproti.</p>
@@ -544,13 +517,11 @@
             <p>„Da je vse humbug, političen humbug, in mi smo okvir, statisti, klovni, bedaki ...“</p>
             <p>Bolè se je glasno zasmijal, da so celó gospe pozorne pogledale.</p>
             <p>„Kaj Vam je, gospod Koren?“ vprašala je Milica in s pahljačo zakrila pol obraza.</p>
-            <pb xml:id="pb.028"
-                n="28"
+            <pb n="28"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-028.png"/>
             <p>Da bi bil kdo drugi stavil to vprašanje Korenu, gotov bi mu bil srdit odgovor; tudi sedaj se je v koncipijentovih očeh posvetilo nekaj, blizu kakor „Vi tega ne umejete“. Pa premagal se je. „Nič, nič!“ dejal je naglo.</p>
             <p>Sedaj se je tudi Hrast nasmehnil. To je pa mladega moža še bolj razburilo.</p>
-            <pb xml:id="pb.029"
-                n="29"
+            <pb n="29"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-029.png"/>
             <p>„No, če pač hočete védeti — povzel je zopet besedo, povem Vam pa lehko — saj se ne bojim nikogar. Vidite gospodična, danes smo tu vsi — ščinkovci, vrabci — ali kar hočete, — Meden in tisti oholi baron grobeljski — ta dva pa stavita nocoj zanjke neumnosti naši. Glejte, volitve so pred durmi, in nocojšnji ples — vsa veselica, vse je le za to, da se pripravlja in gladi pot Medenu, nemškutarju Medenu.“</p>
             <p>„Pst, pst! Ljubi moj Koren!“ hitel je Hrast. — A óni je že odhajal.</p>
@@ -570,8 +541,7 @@
             <p>„Ste me li umeli prej?“ — Deklica ni takoj odgovorila.</p>
             <p>„Da govorim odkrito“ — dejala je potem, ter uprla pogled vanj, „nisem Vas prav umela. To vém, to je bilo videti, da se menda Medena in barona — bojite?“ pristavila je s smehom.</p>
             <p>„Bojim? Oh, ne, nikakor ne! Jaz se nikogar ne bojim — a te ljudi sovražim, iz vsega srca jih sovražim, in to plavolaso Nemko, in vso to sodrgo — odpustite, jaz bi tudi ne bil prišel sem, ako —.“</p>
-            <pb xml:id="pb.030"
-                n="30"
+            <pb n="30"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-030.png"/>
             <p>Tu se mu je strastni govor ustavil. Ponehal je bolj plesati ter postal s plesalko blizu sredi dvorane, krog nje pa so se vrtéli drugi v burnem rajanji. „No, — zakaj: „ako“?“ hitela je deklica.</p>
             <p>Koncipijentu je silila kri v lice. Bil je res pogumen, brezobziren mož, kateri je rad povédal vsakemu svoje, in nikdar prikrival niti sovraštva niti prijateljstva, bodi si komur koli; a sedaj vendar ni našel besede. Sam sebi je bil hotel utajiti, da je le zarad Milice prišel k Medenovim, sedaj pa ga je ob njenem vprašanji nekaj sililo, da se ji izpové, a z druge strani ga je bilo zopet sram. Molčal je in vzpodbude iskal v njenih očeh. Toda deklica je menda instinktivno čutila, kaj se godi v njegovih mislih, in ozrla se ni nanj, niti ponovila svojega vprašanja.</p>
@@ -583,8 +553,7 @@
             <p>„Ako dovoljujete?“</p>
             <p>„Vi se nocoj mnogo zanimate za to malo črnooko krasotico — haha, ljubi doktor, jaz imam izvrstno oko.“</p>
             <p>Zakrila je pri teh besedah svoje lice s pahljačo proti drugim ter obrnila se na pol h koncipijentu — Moral se je ozreti v njo, v njeno bledo, lepo lice, in na belo, polno ramo, s katero se ga je skoraj dotikala. Koren ni bil več mladenič; kadar je občeval z Milico, polastila se ga je sicer, kakor je sam čutil v veliko svojo nejevoljo, neka otročja, mladeniška okornost in bojazen ; — ti ženi nasproti pa nikakor ne. Znan je bil že dolgo z njo, čeravno le bolj površno; govorilo se je mnogo o nji v trgu in povsodi, kjer se je je kdo domislil; vse to pa je storilo, da se je zdela vsem zanimiva, a vendar je vsak mislil, da jo sme in more nadzirati. Tako tudi Koren. — Glede ženske lepote pa on tudi ni bil slep.</p>
-            <pb xml:id="pb.031"
-                n="31"
+            <pb n="31"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-031.png"/>
             <p>„Motite se, milostiva; — hvaležen Vam pa moram biti o Vaši pozornosti —“</p>
             <p>„Oh, ne tajite in tudi tako — zlobni ne bodite“! karala ga je Elza.</p>
@@ -604,8 +573,7 @@
             <p>Koncipist Ruda je v tem trenutku prihitel ter odvel Elzo k plesu.</p>
             <p>„Bodemo videli!“ dejala je še naglo in smehljaje svojemu sosedu.</p>
             <p>Pri kotiljonu je stal Koren z drugimi gospodi ob uhodnih vratih ter gledal ples. Ko so volile dame, premišljeval je, bode li prišla Milica ponj in poleg nje domislil se je tudi Elze. Namesto običajnih papirnih redov delile so plesalke raznobarvene trakove. Koren je dolgo čakal, a nobene ni bilo k njemu, kajti tudi prej se sam ni bil mnogo pobrinil za ples. A prva je prišla Elza ter pripela mu s pomenljivim smehljajem bel trak na prsi.</p>
-            <pb xml:id="pb.032"
-                n="32"
+            <pb n="32"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-032.png"/>
             <p>„Bel!“ omenil je on, položivši ji roko okoli pasu, ne da bil pomislil, kaj hoče s to opomnjo.</p>
             <p>„Sevéda! Rudečega Vam bo prinesla ona črnooka. Saj to vendar želite?“</p>
@@ -619,11 +587,10 @@
             <p>Koren pa je sedel poleg voznika in molčal. Razni, neumljivi čuti so ga obhajali, in ko je zrl pred se na belo, v jutranjem svitu blestečo planoto, po kateri je vstajala lahka, prozorna meglica, zdelo se mu je, da vidi še pred seboj razkošno podobo graščakinje, in potem zopet se mu je vsiljeval spomin na Milico, in njene temne oči in njen nedolžni, zaupljivi govor. Nehoté je segel z roko na prsi, ima li še tam rudeči trak — a čutil je dva — in tu se mu je zdelo zopet, da mu zveni na uho zapeljivi glas: „Obiščite nas vendar!“</p>
             <p>Zvoneli pa so le tanki kraguljci na vratovih konjičev; na vzhodu se je žarilo nebo, z velicih topolovcev ob cesti pa so vstajale vrane v gostih tolpah in letale nad belo ravnino.</p>
          </div>
-         <div xml:id="wv-.C4.8Cetrto_poglavje.">
-            <head xml:id="head.4">Četrto poglavje.</head>
+         <div>
+            <head>Četrto poglavje.</head>
             <p>Minulo je več tednov. Debeli sneg je bil že davno skopnel, in cvetje, ki je lezlo polagoma iz mehkih tal po solnčnih brdih krog Borja oznanjevalo je pomlad. Davkarski nadzornik, ki je bil strasten hribolazec, prinesel je bil že zeleno bukovo vejico v svojo pisarno, in gospod Anton, ki je rad zgodaj vstajal in ob jutranjem sprehodu molil svoj brevir, trdil je popoludne v čitalnični krčmi, kjer je pil navadno kozarec piva, da je čul že dvakrat kukavico.</p>
-            <pb xml:id="pb.033"
-                n="33"
+            <pb n="33"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-033.png"/>
             <p>„Ste li imeli mnogo denarja v žepu?“ vprašala je krčmarica.</p>
             <p>„Nič, prav nič!“</p>
@@ -644,8 +611,7 @@
             <p>„Časti svojega pinča!“ pristavi Koren, ki je do sedaj mirno poslušal pogovor.</p>
             <p>Ruda bi bil jezno zavrnil, ko bi ne bil sodnik preprečil daljšega zabavljanja z opomnjo:</p>
             <p>„Stojte, gospodje! Nekaj novega, kaj pa bo z volitvami? Razpisane so in v štirih tednih jih imamo. Kdo bo kandidat?“</p>
-            <pb xml:id="pb.034"
-                n="34"
+            <pb n="34"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-034.png"/>
             <p>„Kje? Pri nas? Kandidatov dovolj, a kaj pomaga, ker ne volimo sami, in ker ne moremo imeti svojega“, trdi davkarski nadzornik.</p>
             <p>Ruda je ponosno gledal po družbi, notar Koprivec pa je povesil oči.</p>
@@ -655,8 +621,7 @@
             <p>„Da nam jih boste kar vračali, kaj ne?“</p>
             <p>„Le poskusite!“</p>
             <p>„Da bi vaju vrag! Že zopet sta si v laseh!“ hitel je sodnik. „Govorita vendar jedenkrat mirno, pametno! No, tu prihaja še tretji — zdaj se bodo pa sprijeli!“</p>
-            <pb xml:id="pb.035"
-                n="35"
+            <pb n="35"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-035.png"/>
             <p>Zadnja opomnja je veljala gospodu Antonu, ki je bil v tem trenutku ustopil. Prihajal je redkokrat zvečer, in zato so ga pozdravljali nocoj vsi z glasnim čudenjem.</p>
             <p>„Ej, kaj boste povpraševali,“ zavračal je one, in sédel poleg Korena ob konec mize. „Treba je vendar, da pozvem kaj novega — časi; saj ste vsi polni — novic, gospodje.“</p>
@@ -677,8 +642,7 @@
             <p>„Sedaj smo vsi narodni!“ pristavi zopet adjunkt.</p>
             <p>Razven Korena in kaplana se je smijala vsa družba.</p>
             <p>„Kandidirajte Vi, gospod sodnik!“ omeni davkarski nadzornik, ko je bila veselost nekoliko ponehala.</p>
-            <pb xml:id="pb.036"
-                n="36"
+            <pb n="36"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-036.png"/>
             <p>„Oh, kaj pa mislite! Časa ni, časa, in kaj bom jaz?“ A govoril je to tako, da so vsi čutili, da ne odbija onega predloga.</p>
             <p>„Ali pa gospod notar!“ nadaljeval je nadzornik hladnokrvno.</p>
@@ -699,8 +663,7 @@
             <p>„Kdo pravi, da je nemškutar?“ ugovarja kaplan. „Ali ne prihaja v našo čitalnico? Se ve da, ne vselej, pa tega ne more nihče zahtevati. A kadar more, pa pride!“</p>
             <p>„Ta prokleta čitalnica! Torej ta bo še legitimacija vsakemu kar se tiče narodne zavesti — kdor je le jedenkrat utaknil svoj nos vánjo?“</p>
             <p>„Oj, prijatelj — s tem kandidatom se pojdi solit! Dokler bom jaz v Borji le še z mazincem migal, toliko časa ne bomo volili nemškutarjev!“</p>
-            <pb xml:id="pb.037"
-                n="37"
+            <pb n="37"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-037.png"/>
             <p>„A jaz trdim, da je Meden naroden!“</p>
             <p>„Ako se je nocoj prelevil! Ne, ne, ljubi moj kolega, pusti take burke!“</p>
@@ -721,27 +684,24 @@
             <p>„Da, da,“ odgovarjal je notar. Korakala sta po trgu proti Hrastovemu stanovanju.</p>
             <p>„In vsak bi bil rad — kandidat!“ deje v novič Koren. „Haha!“</p>
             <p>Notarjev posmeh je bil zopet takšen, kakor prej v krčmi, ko mu je nadzornik ponujal poslanstvo.</p>
-            <p>„Hrasta se boje! To je gotovo! Pa ne zarad liberalstva, saj dobro vedó, da je to otel strah, katerega tudi zvunaj nič ni. In kaplan itak zna, da hodi naš doktor tolikokrat v cerkev, kakor kakšen drugi tržan; ta je bosa — z liberalstvom! Ugovori prihajajo od drugod — <pb xml:id="pb.038"
-                   n="38"
+            <p>„Hrasta se boje! To je gotovo! Pa ne zarad liberalstva, saj dobro vedó, da je to otel strah, katerega tudi zvunaj nič ni. In kaplan itak zna, da hodi naš doktor tolikokrat v cerkev, kakor kakšen drugi tržan; ta je bosa — z liberalstvom! Ugovori prihajajo od drugod — <pb n="38"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-038.png"/> oh, jaz poznam naše razmere — vedite dragi, naši karpi se boje ščuke, in doktor Hrast bi bil taka ščuka med našimi poslanci. Od tod izvirajo tudi vsi ugovori! Oh, ubogi rod slovenski! Kadar si bomo malo oddahnili od pritiska trde nemške pete, tiščala nas bo pa svoja domača samoljubnost, lenoba in zavist, in ona grozna domišljavost — češ: saj ga ni boljšega od mene! In tako nimamo nič višjih vzorov, narodnost je le sredstvo, namen pa svoja korist. Pa vsi ti naši gospodje? Le poglejte jih. Sodnik bi bil rad kandidat — pa je li naroden? In kaplan? Naroden je, pa danes mu ni za narodnost, nego da prodere njegova stranka! In Meden? V štirinajstih dneh bo mož tako proslavljen, kakor bi bil sam slovenski rešenik in Vam ne more slovenskega stavka pravilno napisati. Pobil in proklel bi jih vse te nečimurne, samoljubne —“</p>
             <p>„Ej, kaj se boste jezili, prijatelj! Svet je takšen, in če se hočete bojevati ž njim, ugonobili Vas bodo prav ti, katerim se sedaj grozite!“</p>
             <p>Postala sta pred Hrastovim stanovanjem. Gori v odvetnikovi pisarni je še gorela luč in Koren gre k njemu naznanit mu, kar je pozvedel nocoj v krčmi.</p>
          </div>
-         <div xml:id="wv-Peto_poglavje.">
-            <head xml:id="head.5">Peto poglavje.</head>
+         <div>
+            <head>Peto poglavje.</head>
             <p>Pogovor med doktorjem Hrastom in njegovim koncipijentom bil je jako živahen in dolgotrajen. Koncem je napisal odvetnik dolgo pismo in Koren je prejel nalog, nesti isto drugo jutro k Boletu na Drenovo, in mu tam tudi ustno poročati o položaji. Hrast pa se je moral v opravkih odpeljati k sosednemu sodišču, a do večera se je hotel vrniti in potem ukreniti v soglasji z Boletom, na katerega se je povsem zanašal, o nadaljnem postopanji. Početkom odvetnik sam ni mnogo mislil na poslanstvo; a upor in nasprostvo, katero se mu je sedaj napovedalo, dirnilo ga je in izpodbudilo, da je hotel delati na vse kriplje za svojo kandidaturo. In kdo je bil veselši tega, nego Koren! —</p>
             <p>Druzega dné je hitel malo razburjen na Drenovo. Ob jednem ga je z nekakim nemirnim veseljem navdajala misel, da bo videl in morebiti govoril z Milico, kajti, dasiravno si je skušal mnogikrat sam utajiti ta čut, tlelo mu je vendar nekaj v dnu srca, nekaj o čemur si je časih sam dejal, da je ljubezni do one mlade deklice podobno; nasmehnil se je vselej pri tem spoznanji, a vračalo se mu je vedno in vedno, in če je sedèl v pozni noči sam doma pri odprti knjigi, zrlo mu je oko preko črk tja v belo, golo steno, misli pa so mu uhajale strani, strani tja proti gradiču na Drenovem. „Sanje, sanje!“ vzkliknil je skoraj vselej ter jezno zaprl knjigo.</p>
             <p>A danes na poti se ga je lotil oni čut z dvojno silo, in čudno! danes se ga ni branil, nego strastno se je utapljal vanj, kakor v nadi, da mu bode mogel duška dati v jedinem tem, da vidi ono temnooko deklico.</p>
-            <pb xml:id="pb.039"
-                n="39"
+            <pb n="39"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-039.png"/>
             <p>Zvunaj Borja ga je srečal voz, katerega je bil že od daleč spoznal. Medenov je bil; Elza se je peljala v trg, in ko je odzdravljala Korenu, zdelo se mu je, da še nikdar ni bila tako prijazna, nego danes! „Aha, to izvira iz kandidiranja!“ mislil si je Koren, a vendar si ni mogel kaj, da bi se ne bil ozrl za drdrajočim vozom. „Ta koketa bo gotovo agitirala. Hvala Bogu, da je nisem slušal, in da še nisem šel tja k nji, kakor me je vabila!“</p>
             <p>Pogled na beli Drenovski gradič, ki se je prikazal sedaj izza ovinka, vzbudil mu je zopet prejšnje misli, in čim bliže je korakal gradu, tem počasneje je stopal. Ta mož je bil navzlic svojim tridesetim letom kakor dvajsetletni mladenič, ki se zarudi, ako sreča svojo izvoljenko.</p>
             <p>In danes mu je bila usoda naklonila nekaj posebnega. Ko je povprašal po graščáku, zvedel je, da ni niti njega niti soproge njegove doma; odpeljala sta se bila v mesto. Hišna, ki mu je to naznanjala, videla je, da ima koncipijent nekaj nujnega poročati, in pristavila je: „A gospodična Milica so doma!“</p>
             <p>„Torej oglasite me!“ deje Koren pogumno in stopi v sobo, katero mu je hišna odprla. Jezil se je, čuteč, da mu utriplje srce, pa v pomagati si ni mogel. Čakal ni dolgo, da je prišla Milica. Zarudela se je malo, pa z naravno prijaznostjo ga je pozdravila kot starega znanca in mu podala roko.</p>
             <p>„Kaj vendar pomenja Vaš prihod? To je nekaj nenavadnega?“</p>
-            <pb xml:id="pb.040"
-                n="40"
+            <pb n="40"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-040.png"/>
             <p>„Res je tako! A Vas ne bo zanimalo; sigurno ne! Volitve — volitve!“ hitel je koncipijent.</p>
             <p>„Oh, to je pa Vaš element!“ smijala se je deklica.</p>
@@ -749,8 +709,7 @@
             <p>„Sicer ste pa vendar prijazni z vsemi temi gospodi?“ vprašala je Milica.</p>
             <p>„Prijazen? V takem položaji ne velja več prijateljstvo, in še menj prijaznost!“</p>
             <p>„To mi je neumljivo!“</p>
-            <p>„Dozdeva se Vam tako; a le potrpite, gospodična! Želel bi skoraj, da bi Vam bilo zabranjeno tako spoznanje; pa ne bo Vam — gotovo ne! Ko se Vam odkrije življenje z vsemi svojimi strastmi in brezdni, s svojimi nadami in prevarami, s srečo in nesrečo — oh, gospodična, verujte <pb xml:id="pb.041"
-                   n="41"
+            <p>„Dozdeva se Vam tako; a le potrpite, gospodična! Želel bi skoraj, da bi Vam bilo zabranjeno tako spoznanje; pa ne bo Vam — gotovo ne! Ko se Vam odkrije življenje z vsemi svojimi strastmi in brezdni, s svojimi nadami in prevarami, s srečo in nesrečo — oh, gospodična, verujte <pb n="41"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-041.png"/> mi — ako le stopite malo ven iz tihega svojega zavetja, potem Vam ono tudi ne bo več tako povsem neumljivo.“</p>
             <p>„A naš oče vendar niso takov! Smeje se, govoreč o politiki in agitaciji — ali kakor drugače imenujete te zabave svoje — in jaz mislim, da bi se zarad razlike v mišljenji o takih vprašanjih z nikomer ne skregali ali sprli.“</p>
             <p>„V mirnih časih, in dokler človek sam ne stopi na pozorišče, naj velja to; pa letošnje volitve Vas o nasprotnem poučé, gospodična!“</p>
@@ -760,8 +719,7 @@
             <p>„Ker so polovičarji! Za polovično, navidezno korist žrtvujejo — ako treba — naj blažje svetinje naše narodnosti — pa, gospodična, kaj bi Vam govoril o tem?“</p>
             <p>„Zanima me, ako mi pripovedujete o teh stvareh, akoprem jih ne umem popolnoma; — res je tako, vse mi je novo!“</p>
             <p>Koren pa je bil pri pravem predmetu. Razkladal je na dalje politična vprašanja in popolnoma pozabil, kako maloumesten je ta pogovora gledé zabave mladi deklici. Pa počasi in nehoté je zapustil ozko polje domačih političnih razmer in pripovedoval ji o slovanstvu sploh, o zgodovini in o slovstvu slovanskih rodov, in ognjeno navdušenje, ki je sedaj donelo iz njegovih besed, vplivalo je silno na mlado poslušalko. Vsa njena vzgoja je bila nemška; — jedinega slovenskega govor še ni pozabila, kakor se ga je bila priučila v otročjih letih; a tu se ji je odpiral nov svet, novo prizorišče in ko je nekolikokrat med Korenovim govorom omenjala, „oh, to mi je popolnoma neznano,“ ni bila to sama običajna opomnja, nego čulo se je v nji tudi obžalovanje, da ji je doslé ostalo vse to prikrito. —</p>
-            <p>Z malega grajskega stolpiča se je oglasil zvon, ki je oznanjal delavcem v bližnjih Boletovih tovarnah poludansko uro. Koncipijent se <pb xml:id="pb.042"
-                   n="42"
+            <p>Z malega grajskega stolpiča se je oglasil zvon, ki je oznanjal delavcem v bližnjih Boletovih tovarnah poludansko uro. Koncipijent se <pb n="42"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-042.png"/> je skoraj prestašil, kajti ni mislil, da se je pomudil tako dolgo. Izročil je Hrastovo pismo Milici, da je oddá, očetu, nato se poslovi. „Zakaj ne prihajate večkrat?“ vprašala je Milica in se zarudela. „Tako sami in zapuščeni smo, in tudi oče si želé mnogokrat družbe.“</p>
             <p>Spremila ga je veselo do mostovža in mu tam še jedenkrat podala roko. Nekako čudno ji je bilo pri srci, ko se je vrnila v sobo; postala je pred zrcalom, in pogladila si lase, kakor da bi bili v neredu, in pri tem je videla svoje zarudelo lice. Obrnila se je stráni in hitela v drugo sobo pospravljat svoje pletenje; a ni je strpelo tam. Vrnila se je veselo pevaje in stopila k oknu, od koder se je odpiral krasen razgled na vso dolino. Tam doli se je vila bela cesta proti Borji, in prav doli pod klancem jo je meril sedaj urnih korakov naš znanec.</p>
             <p>„Se bode li ozrl?“</p>
@@ -779,20 +737,18 @@
             <p>„Pridite k zboru,“ šalil se je, „poslali Vam bomo vabilo.“</p>
             <p>„Zakaj ne? Saj imam volilno pravico v trgu!“</p>
             <p>Videla je, da danes ne opravi ničesar s Korenom, in velela je vozniku pognati konja.</p>
-            <pb xml:id="pb.043"
-                n="43"
+            <pb n="43"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-043.png"/>
             <p>„Oh, Vi ste bili gotovo na Drenovem! Tudi morebiti v volilnih zadevah?“ omenila je še zbadljivo.</p>
             <p>Koncipijent se je molče priklonil in voz je oddrdral dalje.</p>
             <p>„Haha, stvar postaje zanimiva!“ smijal se je Koren ter hitel v trg.</p>
          </div>
-         <div xml:id="wv-.C5.A0esto_poglavje.">
-            <head xml:id="head.6">Šesto poglavje.</head>
+         <div>
+            <head>Šesto poglavje.</head>
             <p>Nekoliko dnij pozneje je kazalo prebivalstvo našega trga vse drugačno lice. Vsi so bili čudno izpremenjeni. Doma in v krčmi se je govorilo le o volitvah, o kandidatih, o shodih; družbe so se ločile po političnem izpovedanji, in prejšnji prijatelji se niti pozdravljali niso srečajoč se v svojih opravkih. Sodnik, davkarski nadzornik in Ruda niso zahajali v krčme, v katere bi utegnil priti Koren ali notar, ali celó dr. Hrast; gospod Anton pa je lazil rad za sodnikom, in se itak ogibal Korena. K onim je časih prišel celó Meden. In kakor ti, tako so se ločili tudi drugi tržani; jedini adjunkt je „plaval nad strankami“, kakor se je sam izrazil, ter nocoj popijal z notarjem Koprivcem, jutri pa zabavljal Medenu in Antonu, in dražil pl. Rudo.</p>
             <p>Nasprotstvo se je ostrilo dan za dnevom, akopram niti še kandidata niso bili imenovali; to pa je moral storiti shod volilcev, kateri je bil napovedan v nedeljo popoludne. Ta shod je bil volilen manéver, katerega je bil izumil Koren. Védel je, kako mehki, neodločni so tržani, in da jih bode spreten govornik, kakor je bil dr. Hrast, takoj dobil na svojo stran in jih trdneje držal, nego najsilnejša agitacija. Če bi hoteli nasprotniki postaviti Medena, nemogoč bi bil takoj, in umaknil bi gotovo svojo kandidaturo, kajti on je bil vse drugo prej, nego govornik.</p>
             <p>Tako je računala Korenova stranka, ki se je imenovala sama odločno narodno, in bila si je tako svesta zmage, da ji ni bilo niti na tem, zbrati večjega števila odločnih privržencev pri shodu, češ, saj morajo vsi za nami. Nasprotniki pa, na čelu jim premeteni gospod Anton in večina uradnikov, ravnali so drugače: iskali in prigovarjali so tržane, naj se v obilem številu udeležé shoda, in zlasti kaplan pri tem ni pozabil prehvaliti graščáka Medena, češ, koliko več lahko on stori za trg, nego odvetnik, ki skrbi le za svoje pravde in za svoj žep. Vspeh tega je bil, da je pred zborovanjem v nedeljo bilo že več nego dve tretjini volilcev za graščáka pridobljenih. Koren tega ni verjel, ampak čakal, da se otvori zbor.</p>
-            <p>Lekarja, kateri se dosedaj ni bil izjavil za nobeno stran, izvolili so predsednikom, in ta je potem prosil kandidate, da se oglasijo. Prvi je nastopil doktor Hrast, in v lepem, dovršenem govoru razložil svoj <pb xml:id="pb.044"
-                   n="44"
+            <p>Lekarja, kateri se dosedaj ni bil izjavil za nobeno stran, izvolili so predsednikom, in ta je potem prosil kandidate, da se oglasijo. Prvi je nastopil doktor Hrast, in v lepem, dovršenem govoru razložil svoj <pb n="44"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-044.png"/> program: varovanje narodne ideje v vseh okolnostih, skrb za širno slovensko domovino in za ožji volilni okraj — in pristaši njegovi so mu burno ploskali. Meden, ki se je drugi predstavil, ni bil tako srečen; a izpregovoril je vendar par priučenih fraz, in gospod Anton ni nehal klicati mu „živio“ in „slava“, zlasti ko je oni poudarjal v svojem programu geslo: vse za vero!</p>
             <p>Koren je sedaj uvidel, da preti nevarnost njegovi stranki in isprosil si je besede, da stavi nekoliko vprašanj do kandidata. Hotel ga je osramotiti, ker si je bil v svesti, da Meden ni zmožen odgovoriti. Kaplan je nemirno gledal, a ugovarjati ni mogel. Koren pa je interpeloval, kako si misli kandidat ustanovo deželne hipotekarne banke, in takoj za njim pride notar Koprivec z vprašanjem, kaj bode ukrenil kandidat gledé konečne uravnave zemljiškega razbremenila. To sta bila predmeta, s katerimi se Meden v svojem življenji nikdar pečal ni, in jecljaje je odgovoril, da se bo v teh vprašanjih ravnal tako, kakor bo ukrenila narodna večina.</p>
             <p>Ta še najbolj umestni odgovor je prouzročil pritrjevanje na strani njegovih privržencev, toda glasni smeh in grohot pri nasprotnikih. To je bilo pa znamenje za občno kričanje, žuganje in zabavljanje, tako da so mirnejši takoj zapustili zbor in da ni prišlo do imenovanja pravega kandidata.</p>
@@ -807,8 +763,7 @@
             <p>„Ker ga bo prihodnji zet pregovoril.“</p>
             <p>Koren je prebledel, a nikdo ni pazil na to.</p>
             <p>Notar ga prehiti z vprašanjem: „Kateri zet? Mi ne vemó ničesa.“</p>
-            <pb xml:id="pb.045"
-                n="45"
+            <pb n="45"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-045.png"/>
             <p>„I, po trgu se govori tako! Tisti gizdavi Ruda je bajè mnogokrat gori na Drenovem, in ljudje ugibljejo, da ni zaman tamkaj. Pravijo, da je že zaročen.“</p>
             <p>„Oh, klepetanje starih bab!“ deje Koprivec, katerega je jezilo, da Boléta ni bilo.</p>
@@ -820,14 +775,12 @@
             <p>„Kaj, ko bi šel na Drenovo? Povoda imam dovolj — volilski shod in — saj so me večkrat vabili! In morebiti vendar jedenkrat pozvem resnico o Rudi in o — nji?“</p>
             <p>Odločil se je naglo in zavil na stezo, ki je po bližnjici skozi gozd držala proti Bolétovem gradiču.</p>
          </div>
-         <pb xml:id="pb.046"
-             n="46"
+         <pb n="46"
              facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-046.png"/>
-         <div xml:id="wv-Sedmo_poglavje.">
-            <head xml:id="head.7">Sedmo poglavje.</head>
+         <div>
+            <head>Sedmo poglavje.</head>
             <p>Rude ni bilo pri shodu borjanskih volilcev. Védel je že prej, da bode tam dovolj pristašev one stranke, kateri se je prišteval sam, da opravijo tudi brez njega. Poleg tega se mu ni zdélo umestno, riniti preveč v javnost tam, kjer ni šlo v prvi vrsti za njegovo osebo. A vse to bi mu konečno vendar ne bilo branilo, pokazati se med tržani volilci, ko bi ga ne bil prevzel popolnoma še tretji, recimo glavni in najmerodajnejši ozir. Ugibal je namreč, da bodo nocoj dame na Drenovem same domá. Graščák je bil v istini zjutraj odpotoval zarad nujnih opravkov, in Meden in Hrast, katera sta s svojima ženama prihajala ob prostih dnevih k Bolétovim, bila sta danes prisotna pri shodu; drugi obiskovalci pa so redkokrat prihajali na Drenovo, zlasti tedaj še ne, ko je bilo pomladansko vreme še tako izpremenljivo.</p>
-            <p>Koncipist pa je imel svoje namene. Po oni predpustni zabavi pri Medenovih zanemaril je bil Bolétove ter zahajal mnogokrat ob prostih urah na bližnji gradič, kjer je kraljevala gospa Elza. Samosvestna gizdavost ga je vodila tja in domišljal si je, da ljubeznivost, s katero ga je sprejemala Medenovka, ni več običajna, ampak da velja le njegovi zmagoviti osebi. In ob prvi priliki — kdo vé, je li koketna žena ni sama pospešila? — predrznil se je tudi stopiti korak naprej z ognjeno izjavo, da mu ni moči živeti brez nje; a sreča mu ni bila ugodna. Elza se mu je na glas smijala in le nenadni prihod gospoda Medena je reši tedaj koncipista iz silne zadrege. Uvidel je, da — naj govore ob Elzi, kar hoté — on vendar ni poklican, igrati večje uloge ž njo ali poleg nje, in z ono lehkoživnostjo, katera je lastna z nesramnostjo vred vsem ljudem njegove baze, pozabil je naglo ta polom. A domislil se je sedaj zopet Bolétove Milice in jel zahajati pogostem na <pb xml:id="pb.047"
-                   n="47"
+            <p>Koncipist pa je imel svoje namene. Po oni predpustni zabavi pri Medenovih zanemaril je bil Bolétove ter zahajal mnogokrat ob prostih urah na bližnji gradič, kjer je kraljevala gospa Elza. Samosvestna gizdavost ga je vodila tja in domišljal si je, da ljubeznivost, s katero ga je sprejemala Medenovka, ni več običajna, ampak da velja le njegovi zmagoviti osebi. In ob prvi priliki — kdo vé, je li koketna žena ni sama pospešila? — predrznil se je tudi stopiti korak naprej z ognjeno izjavo, da mu ni moči živeti brez nje; a sreča mu ni bila ugodna. Elza se mu je na glas smijala in le nenadni prihod gospoda Medena je reši tedaj koncipista iz silne zadrege. Uvidel je, da — naj govore ob Elzi, kar hoté — on vendar ni poklican, igrati večje uloge ž njo ali poleg nje, in z ono lehkoživnostjo, katera je lastna z nesramnostjo vred vsem ljudem njegove baze, pozabil je naglo ta polom. A domislil se je sedaj zopet Bolétove Milice in jel zahajati pogostem na <pb n="47"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-047.png"/> Drenovo. Tam so ga sprejemali veselo in gostoljubno, kakor vsakega znanca; da bi bil on več, nego samó znanec, tega si navzlic najboljši volji ni mogel domišljati, a mladi mož je hrepenel dalje. Tam pri Medenovki ga je vabila prej sama gizdavost, a tu pri Boletovih se ji je pridružila še umazana misel, da bode Milica bogata nevesta. Nežnost ljubeznive deklice pa mu je vzbujala še druga čutila, o katerih, si je časih sam trdil, da pomenjajo ljubezen. Gosti pohodi na Drenovem in samosvestno vedenje njegovo, kadar je bil govor o Bolétovih, prouzročalo je mnogo klepetanja v trgu, in tako je prišlo, da so ga lahkovérni tržani smatrali Miličinim zaročencem, ko v ožjih krogih nihče niti mislil ni na tako razmero. Koncipistu so donele sicer mnogokrat jednake opazke na uho, in ne smemo trditi, da bi mu bile neprijetne.</p>
             <p>Danes popoludne se je bil torej napotil vnovič na Drenovo, v veseli nadi, da bo kolikor mogoče sam z mlado deklico, in da se mu morebiti vendar ponudi prilika, odkriti ji svojo ljubezen; o zmagi svoji niti dvojil ni; saj je bila Milica vedno tako prijazna ž njim, in da do sedaj še ni odgovarjala njegovim na pol prikritim izjavam, stavil je le na račun njene neiskušenosti in dekliške bojazni.</p>
             <p>Našel je gospó in hčerko na grajskem vrtu, in obe sta ga pozdravili z odkritim veseljem.</p>
@@ -843,8 +796,7 @@
             <p>„Potem bi ne mogel biti tu, in Vi bi ne imeli toliko zabave, kakor jo imate! Ni li res tako?“</p>
             <p>„Védite, gospod Ruda,“ oglasi se Boleška, „govorili sva že mnogo o denašnjem shodu, in o naših znancih kandidatih, in zato sva jako radovedni, kako bo danes. Kdo bo prodrl, kdo propal?“</p>
             <p>„Ako ukazujete, milostiva, vrnem se takoj v trg, in zvečer Vam prinesem natančno poročilo!“</p>
-            <pb xml:id="pb.048"
-                n="48"
+            <pb n="48"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-048.png"/>
             <p>„Nikakor ne! Tako nisem mislila. Zvedeli bomo vse, če ne nocoj, pa jutri. A sedaj ostanite pri nas!“</p>
             <p>„Tu morate ostati! In povejte nam kaj druzega novega iz trga!“ šali se Malica.</p>
@@ -867,8 +819,7 @@
             <p>„Ste li vajeni veslati?“ vpraša deklica svojega spremljevalca, kažoča na lep nov čolnič, ki je bil ob kraji privezan.</p>
             <p>„Oh, da! To je lepo! Čolnič ste še le sedaj napravili.“</p>
             <p>„Prosila sem tako dolgo, da so ga papa omislili. A jaz tudi že nekoliko veslam.“</p>
-            <p>Sédeta v čoln drug druzemu nasproti in Ruda pogumno odrine od kraja. Ribnjak ni bil majhen in jako globok po sredi, kjer se navzlic čistosti vode ni videlo do dna. Ob krajih so švigale velike ščuke pod nizko vrbovje, debeloglavi karpi pa so leno plavali prav na površji; <pb xml:id="pb.049"
-                   n="49"
+            <p>Sédeta v čoln drug druzemu nasproti in Ruda pogumno odrine od kraja. Ribnjak ni bil majhen in jako globok po sredi, kjer se navzlic čistosti vode ni videlo do dna. Ob krajih so švigale velike ščuke pod nizko vrbovje, debeloglavi karpi pa so leno plavali prav na površji; <pb n="49"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-049.png"/> bukovje nad bregom so zlatili večerni solnčni žarki, in tam v vrhu velike jagnjedi stoječe v vrtni meji je žvižgal cikovec svojo melodijozno pesem, da se je glasno razlegala od brega do brega.</p>
             <p>„Kako lepo je nocoj!“ šepnila je deklica poluglasno in zrla za ptičkom, ki se je v jednomer žgoleč gugal na vrhovni jagnjedini vejici.</p>
             <p>„Lepo je, krasno!“ ponovil je koncipist; a njemu ni bilo mnogo do te lepote, do solnčnih žarkov ali do ptičjega petja; njega je naudajala le misel, da se morebiti sedaj bliža prilika, ko bode mogel razodeti deklici svoja čutila, svojo — ljubezen.</p>
@@ -884,8 +835,7 @@
             <p>„Nejevoljna? Zakaj?“ odgovori ona, a nemir ji je vedno bolj rastel; zrla je pred sé in s prsti trgala rožo, ki jo je nosila ves čas s seboj.</p>
             <p>Ali oba sta bila tako prevzeta, da nista čula lahkih korakov, ki so prav sedaj zašumeli po stezi, skriti za obrežnimi drevesi. Mož pa, ki je tu prihajal, ugledal je takoj ona dva in obstal kakor kamen za debelo bukvijo, komaj nekoliko metrov oddaljen od onih dveh v čolniči.</p>
             <p>Bil je Koren.</p>
-            <p>„Torej tu sta, samá se vozita v polumraku po vodi! Čemu si še prišel sem, bedak!“ to je bila prva misel njegova. Pokazati se jima ni hotel na noben način — tega veselja ne bi napravil Rudi po nobeni <pb xml:id="pb.050"
-                   n="50"
+            <p>„Torej tu sta, samá se vozita v polumraku po vodi! Čemu si še prišel sem, bedak!“ to je bila prva misel njegova. Pokazati se jima ni hotel na noben način — tega veselja ne bi napravil Rudi po nobeni <pb n="50"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-050.png"/> ceni. „Saj bosta na drugo stran odveslala in potem odidem v grad! Morebiti bom imel nocoj še priliko in dolžnost — čestitati,“ dejal je pikro sam v sebi, in se še bolj pritisnil k deblu. Tako je moral čuti pogovor onih dveh, ker čolnič se ni ganil izpod obrežnih vej.</p>
             <p>„Ker bi Vam rad nekaj povédal! Gospodična Milica, že davno sem iskal prilike, da Vam odkrijem srce svoje — Milica, jaz Vas ljubim!“</p>
             <p>Hotel jo je prijeti za roko.</p>
@@ -900,8 +850,7 @@
             <p>A sedaj se ni mogel več premagovati.</p>
             <p>Prijel se je bliskoma z levico za močno vejo, ki je molela nad vodo, zavihtel se z brega in desno nogo postavil v čoln.</p>
             <p>„Dajte mi roko, gospodična Milica!“ dejal je z glasom, kateri se mu je od razburjenosti tresel — „tu ste varni, in stopite sem na breg!“</p>
-            <p>Učinek te njegove nenadne prikazni je bil nepopisljiv. Deklica se je obrnila z glasnim, prestrašenim vsklikom, a spoznala je takoj Korena in se isti mah oklenila rešiteljeve roke. Pa tako je ni mogel postaviti na breg; prijel jo je naglo čez pas; in zavihtel se ž njo vred s krepkim odskokom na breg. Čoln s koncipistom, kateri od jeze, iznenadejanja <pb xml:id="pb.051"
-                   n="51"
+            <p>Učinek te njegove nenadne prikazni je bil nepopisljiv. Deklica se je obrnila z glasnim, prestrašenim vsklikom, a spoznala je takoj Korena in se isti mah oklenila rešiteljeve roke. Pa tako je ni mogel postaviti na breg; prijel jo je naglo čez pas; in zavihtel se ž njo vred s krepkim odskokom na breg. Čoln s koncipistom, kateri od jeze, iznenadejanja <pb n="51"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-051.png"/> in recimo tudi od strahú ni mogel ziniti besedice, pa je zavoljo Korenovega odskoka zdričal bliskoma proti ribnjakovi sredini.</p>
             <p>Ves ta tragikomični prizor se je vršil v par trenutkih.</p>
             <p>„Oh, hvala, hvala Vam!“ hitela je Milica, še vsa razburjena.</p>
@@ -923,14 +872,12 @@
             <p>Nazaj prišedši je uvidel, da brez slovesa pri gospe Bóletovi ne sme in ne more od tod.</p>
             <p>Šel je torej za onimi v grad, in akopram je takoj uvidel, da Boléška ne ve ničesa o nocojšnjem dogodku, in da se tudi Milica in Koren védeta, kakor bi se ne bilo nič pripetilo — poslovil se je vendar kmalu. S Korenom ni hotel skupaj domóv.</p>
          </div>
-         <pb xml:id="pb.052"
-             n="52"
+         <pb n="52"
              facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-052.png"/>
-         <div xml:id="wv-Osmo_poglavje.">
-            <head xml:id="head.8">Osmo poglavje.</head>
+         <div>
+            <head>Osmo poglavje.</head>
             <p>Hrastov koncipijent je prebil lep večer. Boleška ga je bila povabila na čaj in ker se je pl. Ruda že prej izgovoril in poslovil, zabavati je moral dami Koren sam. Politiko so pozabili in pogovor se je lotil domačih rodbinskih razmer, življenja v mestu in na deželi ter preskočil potem zopet nenadoma na književnost in mestno gledališče, na študentovska leta, o katerih je govoril Koren in na čas v odgojevališči, o katerem je rada pripovedovala Milica. Kdo še ni poslušal, in kdo se ni še udeležil sam jednakih zabav?</p>
-            <pb xml:id="pb.053"
-                n="53"
+            <pb n="53"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-053.png"/>
             <p>Boleški je bil koncipijent vedno bolj po volji, in neka naravna resnoba, katera ga tudi v najveselejših urah ni zapustila, pomagala mu je v trenutkih, ko mu je primanjkovalo okretnosti zadostovati strogim terjatvam, katere je stavila graščákinja do vsakega v socijalnem oziru. Nocoj pa mu je še spomin na dogodek pri ribnjaku polnil dušo in nosil je v sebi sladko zavest, da Milica vendar ni — kakor trdijo zlobni jeziki v trgu — Rudova nevesta! Oh, kaj še! Niti ne mara zánj! In kako vesel je bil Koren, da ona tudi po Rudovem odhodu ni črhnila besedice o tem, kar se je godilo prej med njimi. Skrivnost, prva skrivnost ju je vezala, in ker je čutil, da je deklica ne bo razodela nikomur, razodel bi je tudi sam ne bil po nobeni ceni. „A zakaj molči?“ vprašal se je večkrat, akopram je odgovor dobro znal. Čutil je še vedno, kako prijazno, gorko mu je bila stisnila roko, kako veselo se mu je bila zahvalila za storjeno uslugo in kako ji je v tem silila kri v lice. „„Zato ker si bil ti pôleg!“ dejal si je, zato molči! Da, da! Ona neče, da bi mati védela ali slutila, da sva tekmeca! Ha, tekmeca! Ne bodi neumen, Koren!“ A ko se mu je potem vnovič tako prijazno nasmehljala, natočivši mu vina v kozarec, lotila se ga je zopet prva sladka misel.</p>
             <p>Malo pred njegovim odhodom pa sta ostala z Milico nekoliko trenutkov sama v sobi.</p>
@@ -941,8 +888,7 @@
             <p>Korena se je polastila sedaj druga misel, ki mu je zatrla takoj vse veselje. „Kaj, ko bi vendar nekaj drugega uzrok bilo temu molčanju? Morebiti Ruda ni porabil prave prilike in drugikrat — bo pa morebiti drugače?“</p>
             <p>Sklenil je stvari priti do konca.</p>
             <p>„Dovolite mi kratko vprašanje, gospodična! Po denašnjem dogodku, katerega priča sem bil nehoté, imam vsaj nekoliko pravice do njega, sicer bi bilo seveda čudno!“</p>
-            <pb xml:id="pb.054"
-                n="54"
+            <pb n="54"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-054.png"/>
             <p>„I česa želite? Le vprašajte!“ dejala je ona in se nagnila na mizo, njemu nasproti.</p>
             <p>„Po trgu se imenuje Vaše ime le v zvezi z Rudovim! Smem morebiti vendar le — čestitati?“</p>
@@ -960,10 +906,9 @@
             <p>„Da, da!“ pritrdila je tiho.</p>
             <p>„Prijeten mož — to!“ omenila je Boleška po njegovemu odhodu. Milica pa je storila, kakor ne bi čula máterinih besed, in je urejevala svojo mizico pri oknu. Mesec je jasno svetil in tam doli na beli cesti je bilo lehko ugledati podobo moža, ki je z naglimi koraki odhajal v dolino. Na ovinku je malo postal in Milici, ki je prav sedaj ozrla se skozi okno, dozdevalo se je, da tudi óni obrača pogled svoj nazaj proti belemu gradiču.</p>
          </div>
-         <div xml:id="wv-Deveto_poglavje.">
-            <head xml:id="head.9">Deveto poglavje.</head>
-            <p>V Borji je volilno gibanje rastlo od dné do dné. Huda, brezobzirna agitacija se je pričela, katera je postajala tem silnejša in strastnejša, ker sta se pobijali dve domači, narodni stranki, kateri do sedaj nista poznali tako živega razkola. Da bi bili Nemci in Slovenci nasprotniki, teklo bi bilo vse agitatorno delovanje po starem izvoženem <pb xml:id="pb.055"
-                   n="55"
+         <div>
+            <head>Deveto poglavje.</head>
+            <p>V Borji je volilno gibanje rastlo od dné do dné. Huda, brezobzirna agitacija se je pričela, katera je postajala tem silnejša in strastnejša, ker sta se pobijali dve domači, narodni stranki, kateri do sedaj nista poznali tako živega razkola. Da bi bili Nemci in Slovenci nasprotniki, teklo bi bilo vse agitatorno delovanje po starem izvoženem <pb n="55"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-055.png"/> tiru, stari nasprotniki bi si z vajenim orožjem stali nasproti, obrabljenim in skrhanim v dolgotrajnem, večletnem boji, in vse bi se vršilo po neki ukoreninjeni, vsled navade kodificirani metodi, katera bi sedanjega nasprotstva tudi med volitvenim gibanjem ne mogla poostriti: a danes je bilo drugače! Dva sovražnika, do sedaj jedna celota, jeden život, stala sta si nasproti, odslej razcepljena po tem ljutejšem sovraštvu, čim bolj sta poznala vsak slabosti in prednosti drugega. A kjer tu v medsebojnem predbacivanji niso več izhajali, tam so posegali v osobno življenje, — to je bilo novo, hudo, a grdo orožje.</p>
             <p>Na čelu jedne strani je stal kandidat Hrast s svojim strastnim a nič menj spretnim agitatorjem Korenom. Drugo stranko pa je vodil gospod Anton s skrivno pomočjo nemškega ali bolje nemškutarskega življa, kolikor ga je bilo v trgu; in ti so delali nič menj vstrajno, premeteno, in brezobzirno za svojega kandidata Medena. Prebivalstvo — trg je štel okoli poldrugo stotino volilcev — bilo je že podpihano in razsrjeno med seboj, da je težko najti primere.</p>
             <p>„Kaj? — Tega doktorja bomo volili, tega oderuha, ki računa za vsako pisano stran po dva ali tri goldinarje!“ klical je klobučar Brtoncelj zvečer v krčmi.</p>
@@ -972,8 +917,7 @@
             <p>Stranki sta bili do sedaj jednaki; agitatorji so znali, da bo pri volitvi odločilo jako neznatno število glasov, morebiti dva ali trije, in zato so napeli vse sile, da varujejo pridobljene in še pridobé nasprotne glasove.</p>
             <p>Vse je bilo skoraj že urejeno, bojne čete štete — a vendar je zmaga visela še na tem, kam se bo obrnil mož, ki je imel tehtno besedo v trgu, a kateri se do sedaj še ni bil oglasil. To je bil graščák Bolè.</p>
             <p>Odpotoval je bil v istini po nujnih opravkih, in ker se je v lesni trgovini, s katero se je on najbolj bavil, vršil prav tedaj važen preobrat, ni mogel tako hitro domóv, kakor si je želel sam, in kakor so to glasno in od dné do dné silneje zahtevali njegovi prijatelji.</p>
-            <pb xml:id="pb.056"
-                n="56"
+            <pb n="56"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-056.png"/>
             <p>Gospod Anton je dobro znal, kako nevarno bode zánj in njegovo stranko, ako se Bolè pridruži Hrastovcem; a ker sam ni imel nikakega vpliva pri graščáku, in tudi okrajni glavar ne — o Medenu pač ni bilo govoriti, kar je gospod Anton najbolje védel — obrnil se je zviti kaplan do političnih voditeljev v mestu ter jim razložil položaj. Nadejal se je tem potem kaj doseči.</p>
             <p>Hrast pa je bil Boléta gotov in je ostro zavrnil nekoliko skeptičnega notarja Koprivca, ki je jedenkrat pri posvetovanji, pri katerem je bil govor o Bolétu, malo neverjetno mignil z ramami. Tudi Koren se v svoji veri v Boléta ni dal omajati.</p>
@@ -983,8 +927,7 @@
             <p>„No, je li kaj novega popoludne?“ vprašal je naglo doktor prišleca po prvih pozdravih.</p>
             <p>„Nič, nič, hvala Bogú!“</p>
             <p>„Zakaj hvala? —“</p>
-            <pb xml:id="pb.057"
-                n="57"
+            <pb n="57"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-057.png"/>
             <p>„Ker je vse, kar smo v zadnjih dneh novega zvedeli o naši stvari, — slabo!“</p>
             <p>„Skoraj da prav pravite!“ pritrdi doktor s posiljenim nasmehom.</p>
@@ -1006,8 +949,7 @@
             <p>„Dajte mi roko, gospodična!“ rekel je koncipijent.</p>
             <p>Podala mu jo je neprisiljeno in vodil jo je, gredoč po obrežji, mimo mesta, kjer jo je bil onega večera vzdignil iz čolna.</p>
             <p>„Tu je bilo!“ nasmehne se Milica.</p>
-            <pb xml:id="pb.058"
-                n="58"
+            <pb n="58"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-058.png"/>
             <p>„Da, tukaj!“</p>
             <p>„Pa težka sem bila vendar! Ali ne?“</p>
@@ -1019,16 +961,14 @@
             <p>Obrnila se je počasi, in privzdignila svoj zarudeli obrazek ter podala mu še drugo roko. Odgovorila ni, in tudi on ni mogel izustiti več nobenega vprašanja. Prijel jo je okoli pasa in jo poljubil.</p>
             <p>„Pojdiva nazaj!“ šepetala je ona in z roko v roki sta se vrnila do vrta. Govorila pa nista nobene besede več.</p>
          </div>
-         <pb xml:id="pb.059"
-             n="59"
+         <pb n="59"
              facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-059.png"/>
-         <div xml:id="wv-Deseto_poglavje.">
-            <head xml:id="head.10">Deseto poglavje.</head>
+         <div>
+            <head>Deseto poglavje.</head>
             <p>V tem je prihajal graščák, in ko sta Koren in Milica dospela pod platano, vstajali so vsi izza mize ter hiteli Boletu naproti. Tudi Milica je stekla za ónimi in v veselem, glasnem pozdravljanji, ki je donelo od vseh stranij, opazil ni nihče njene razburjenosti; Koren pak je laglje skrival tiho, neizmerno srečo, ki mu je polnila dušo.</p>
             <p>Boleška je uvidela, da doktor hrepeni po trenutku, ko bi mu bilo moči govoriti z graščákom o znani stvári, ter je odvedla Katinko in Milico v grad. Gospodje so ostali sami na vrtu.</p>
             <p>„Da si le prišel, dragi moj! Željno smo te pričakovali — a sedaj bo treba na noge stopiti!“ dejal je Hrast naglo in prijel prijatelja pod pazduho. Korakala sta po široki, z belim peskom posuti poti, Koren pa je stopal za njima.</p>
-            <pb xml:id="pb.060"
-                n="60"
+            <pb n="60"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-060.png"/>
             <p>„Oh, Ti meniš — zaradi volitve!“ reče Bolè zategneno.</p>
             <p>„I, kaj pa? Volitev, volitev — okrog nje se suče danes ves naš svet!“</p>
@@ -1049,8 +989,7 @@
             <p>„Včeraj je sklenil, da proglasi Medena kandidatom v našem trgu!“</p>
             <p>„Potem mu napovémo boj!“ izustila sta doktor in njegov koncipijent ob jednem.</p>
             <p>„Jaz mislim, da bi to ne bilo umestno!“</p>
-            <pb xml:id="pb.061"
-                n="61"
+            <pb n="61"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-061.png"/>
             <p>„Ti trdiš to?“</p>
             <p>„Jaz sem se danes razgovarjal z našimi zaupniki v mestu, in ti so me prepričali, da bode najbolje, ako Ti še ne kandidiraš. Počakaj, da se naše razmere razbistré; saj si še mlad!“</p>
@@ -1068,8 +1007,7 @@
             <p>„Ne morem! Sedaj sem vezan — v mestu sem dal besedo.“</p>
             <p>„Potem smo premagani! Ves boj bode zaman!“</p>
             <p>„Ne bode, gospod doktor!“ oporekal je Koren. „Udati se ne smemo! Gospodje v osrednjem odboru so radi sami med seboj, in če pač morajo vzeti koga v svoje kolo, sprejmo najrajši takega — kakor je Meden. Ta jim ne bo vode kalil, niti bistril — vse to nam je znano. A pomisliti je treba, kaj je z narodom, z našo narodno idejo, ako nas bodo zastopali mameluki in koristolovci, ako nas bode vladal samoželjni absolutizem starih poslancev. Tu moramo luknjo izbiti v ta stari, samoljubni krog —, novih mož nam je treba, in Vi morate kandidirati! Pravo narodno časopisje nas ne bo pustilo na cedilu, in to je že velika pridobitev. Ako tudi propademo, seme, katero zasejemo s svojim bojem, to seme bo pognalo; kdo ve, kakšen bo potem čez par let naš položaj? Jaz trdim, da bodemo rastli v svoji moči!“</p>
-            <p>Koren je bil sedaj samó navdušen agitator; pozabil je vse denašnje dogodke, pozabil, da se protivi očetu ljubice svoje, in niti trenutek <pb xml:id="pb.062"
-                   n="62"
+            <p>Koren je bil sedaj samó navdušen agitator; pozabil je vse denašnje dogodke, pozabil, da se protivi očetu ljubice svoje, in niti trenutek <pb n="62"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-062.png"/> ni mislil na to, da utegne razpor z ónim postati usodepoln njemu in njegovi ljubezni. Navdajala ga je le óna brezobzirna strastna narodna zavest, ki je lastna vsem tlačenim rodovom, in katere njih vročekrvna mladost tudi pozabiti ne more tedaj, kadar njih boj krene v miren, raven tir.</p>
             <p>Okrog graščákovih usten je zaigral sarkastičen smehljaj.</p>
             <p>„Meniš li, da boš kaj posebnega dosegel — za naš narod, seveda — ako prideš v zbor?“ dejal je skoraj porogljivo. „Z drugimi ali pa za drugimi boš hodil!“</p>
@@ -1088,8 +1026,7 @@
             <p>„Verjamem, verjamem,“ dejal je graščák mirneje, „a žaliti ne smete ónega, ki ima isto zavest, pa išče drugih potov do skupnega smotra, in morebiti primernejših, nego so Vaši.“</p>
             <p>Koren se je pikro nasmehnil. Odgovoriti je hotel ostro, toda stali so že pred gradičem in skozi odprto okno prvega nadstropja so jim doneli otožni glasovi narodne pesmi nasproti.</p>
             <p>„Oh, Milica poje!“ omenil je graščak in vsi trije so postali pred grajskimi vrati in poslušali. Milica je svirala na klavirji, spremljajoča staro narodno pesem.</p>
-            <pb xml:id="pb.063"
-                n="63"
+            <pb n="63"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-063.png"/>
             <p>Bilo je, kakor bi ti glasovi dušili vse strasti in vso jezo, ki je malo prej kipela v srcih teh treh mož. Molčali so, in ko napósled graščák povabi ona dva, naj gresta gori ž njim, ubogala sta brez ugovora.</p>
             <p>A tudi gori navadna dobra volja ni prodrla. Vsa zabava je bila posiljena, in dame, ki so s finom čutom slutile nekak razpor med gospodi, trudile so se spraviti pogovor v gladek tir. Milica je nekako boječe zrla od jednega do druzega, s Korenom pa ni mogla mnogo govoriti, ker je sedel ves čas nji nasproti poleg njene matere. Čutila pa je dobro, da vspeh pogovora na vrtu ni bil vsem po volji. O politiki in o volitvah niso zinili besedice, in že to je bilo sumnjivo.</p>
@@ -1100,11 +1037,10 @@
             <p>Ona se je zarudela ter mu prikimala.</p>
             <p>Druzih pa nihče na njiju ni pazil.</p>
          </div>
-         <pb xml:id="pb.064"
-             n="64"
+         <pb n="64"
              facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-064.png"/>
-         <div xml:id="wv-Jednajsto_poglavje.">
-            <head xml:id="head.11">Jednajsto poglavje.</head>
+         <div>
+            <head>Jednajsto poglavje.</head>
             <p>V soteski za Medenovo pristavo je kovač Tileh še vedno koval, kalil in brusil svedre, njegova Barba pa je prekupávala po okolici kuretnino in jajca ter jih prodajala z malim dobičkom gospôdi po bližnjih gradovih in tudi tržanom — kjer se je le dalo kaj več skupiti. Da je védela še vedno vse novosti iz prvega vira, to je tudi ranljivo; saj je ni bilo zgovornejše ženske, nego ona, in tudi nobene, ki bi bila prehodila in obiskovala tako pogosto vso okolico. Najeli so jo časih, da je raznašala pisma, in znana je bila v zadnjem času tudi s Hrastovo soprogo, katera je dosegla, da ji je pisarna doktorjeva izročevala povabila ali dopise, namenjene strankam v bližnji okolici. Čudno se nam mora dozdevati le, da je veljalo o nji mnenje, da zna in more — molčati, ako treba.</p>
             <p>Te Barbe se je domislil Koren, ko je druzega dné po zadnjem sestanku z Boletom pisal prvo pisemce Milici, in uverjen je bil, da ni môči najti boljšega slà, nego je ona žena. Naročil ji je strogo, kako naj skrivaj oddá pismo, ter še bolj strogo zapovedal, naj molči o tem, če ne ji bo splaval po vodi lep zaslužek, katerega ima iz pisarne. Da ji je še posebej stisnil nekaj v roke, ni treba omenjati. Barba je bila jednacih poslov vajena, saj je tudi učitelju Skubetu večkrat storila tako uslugo s skrivnimi pismi, in zato se danes ni prav nič čudila, nego spravila listič z dvema drugima vred v svojo canjico.</p>
             <p>„Da ga ne boste zamenjali!“ opomnil je Koren.</p>
@@ -1112,8 +1048,7 @@
             <p>„Tako je!“</p>
             <p>Izročil ji je bil ob jednem dve uradni pismi za Boleta.</p>
             <p>Volilno gibanje je istega dné mirovalo. Hrast in njegov koncipijent sta bila kanila, da le intimnejšim prijateljem razodeneta Boletov sklep, in tem le pogojno, ako obljubijo molčati o njem; kajti bala sta se, da bi ta nova vest preveč škodovala njihovim nameram in hotela sta, da Bolè javno sam pové, na katero stran se bo obrnil. Hrast je tako svetoval, ker je védel, da graščáka tudi ne bo veselilo igrati preveč aktivne uloge. Nasprotniki pa, celó gospod Anton ž njimi vred, ob vsem še niso ničesa znali.</p>
-            <p>Koncipist pl. Ruda se iz znanih uzrokov še ni bil posebno lotil agitovanja. Hotel je biti deloma „nad strankami“ kot vladen mož, v <pb xml:id="pb.065"
-                   n="65"
+            <p>Koncipist pl. Ruda se iz znanih uzrokov še ni bil posebno lotil agitovanja. Hotel je biti deloma „nad strankami“ kot vladen mož, v <pb n="65"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-065.png"/> katerem tiči nekaj, kakor kal prihodnjega ministra, deloma pa je čutil sam, da nima najmanjšega vpliva; a misli so se mu vendar vrtele mnogo o bližnji volitvi, ker je v zadnjem času zopet pogosto zahajal k Medenovim, in tam se skoraj o drugem ni govorilo.</p>
             <p>Danes se je vračal z Medenovega gradiča, ko slučajno sreča Korenovega pismonošo, Tilhovo Barbo. Stala je ob cestni ograji in mrmraje preobračevala tri pisma, katera je bila izvlekla iz svoje pletene cajne.</p>
             <p>Dve sta jednaki, jedno ne, pa Bog védi in sveta pomagalka, katero je pravo. Da jih ne zamenjam, ta bi bila lepa; kje zaslužim zopet tiste groše, kateri so mi tu gotovi.</p>
@@ -1133,8 +1068,7 @@
             <p>„Torej tako daleč sta že, da si dopisujeta! No, to bo nekaj za Medenovko!“</p>
             <p>Skoraj bi se bil vrnil ter nesel to novico nazaj v grad. Pa pozno je bilo in moral je v pisarno.</p>
             <p>Proti večeru pa ga je iznenadilo pisemce, poslano po Medenu, v katerem ga je isti vabil, naj pride takoj k njemu, da se pomenita o važnih volitvenih stvareh. To je prišlo, kakor navlašč. Ob jednem ga je tudi glavar opomnil, da pojde ž njim tja.</p>
-            <p>Pri Medenovih je bilo zvečer v istini zbrano vse poveljništvo njegove stranke, od glavarja, sodnika in gospoda Antona do klobučárja Brtonclja, ki je zastopal tržane v ožjem zmislu. Posvetovali so se o <pb xml:id="pb.066"
-                   n="66"
+            <p>Pri Medenovih je bilo zvečer v istini zbrano vse poveljništvo njegove stranke, od glavarja, sodnika in gospoda Antona do klobučárja Brtonclja, ki je zastopal tržane v ožjem zmislu. Posvetovali so se o <pb n="66"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-066.png"/> zadnjih korakih, ki bi bili morebiti še potrebni, in tu se je govorilo tudi mnogo o Bolétu. Gospod Anton je bil že poučen, kaj je Bolè osrednjemu odboru obljubil; a povédal je, da se je takoj popoludne, ko je bil prejel to poročilo, podal na Drenovo; dozdeva se mu pa sedaj, da hoče graščák postati nekako nevtralen, nikakor pa ne njihov zaveznik in da ne bo pomagal niti jedni niti drugi stranki. To Medenovcem ni bilo po volji, kajti védeli so, da brez energične Bolétove podpore propadejo. Tudi Elza je ugibala to in óno, kako bi bilo môči pridobiti graščaka, a našla ni nobenega sredstva.</p>
             <p>Kar ji pošepetá koncipist Ruda, ki je ves čas molčeč sedèl poleg nje, nekaj na uho.</p>
             <p>Ona takoj vstane in migne koncipistu, naj ide ž njo. Odvedla ga je v svojo sobo. Bila je to stanica na drugem konci grada, kjer je Elza najrajša bivala. Tam se je iz okna odpiral krasen razgled v dolino proti Borji, in sobica sama je bila tako prijazna, kakor nijedna druga v gradu; celó sedaj zvečer, ko je brleča svetilnica izpod stropa le slabo razsvetljevala prostor. Da je to stanovanje gospé, pričal je tudi hud mošusov duh, ki je koncipista tako mamil, da je sprva skoraj pozabil, čemu je prišel semkaj.</p>
@@ -1147,8 +1081,7 @@
             <p>„Poslušajte me, milostiva — in pritrdili mi boste. Vse to se v more in mora s pravo lokavostjo porabiti. Čujte!“</p>
             <p>Ona se je naslonila nazaj, in pogled njen, s katerim se je ozrla po Rudi, ni pričal, da posebno mnogo pričakuje od njegove zvitosti.</p>
             <p>Koncipist pa v sómraku, ki je bil v sobi, tega ni mogel opaziti.</p>
-            <p>„Pomislite!“ nadaljeval je svoj govor, „Milica prejema pisma od Korena, in sicer za hrbtom svojih staršev. Kdo je ta Koren? Hrastov koncipijent po imeni, a v istini izgubljen študent brez izpitov — katilinarična eksistenca; a Hrastov koncipijent je, in pisma njegova <pb xml:id="pb.067"
-                   n="67"
+            <p>„Pomislite!“ nadaljeval je svoj govor, „Milica prejema pisma od Korena, in sicer za hrbtom svojih staršev. Kdo je ta Koren? Hrastov koncipijent po imeni, a v istini izgubljen študent brez izpitov — katilinarična eksistenca; a Hrastov koncipijent je, in pisma njegova <pb n="67"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-067.png"/> Milici prinaša tudi Hrastov uradni pismonoša; Tilhova Barba. Kako lehko se najde tu sklep, da tudi Hrast in njegova soproga znata kaj o tem dopisovanji, in to tem bolj, ker zahaja Koren v družbi ónih dveh na Drenovo. Tu imate nekaj! Sedaj pa računajte z Bolétovo občutljivostjo in njegovim samoljubjem na jedni stráni, in z gorko ljubeznijo do dvojih otrok na drugi — in uverjeni bodite, da, ako graščák jutri zvé, kako prijateljsko ravna ž njim doktor Hrast, da pomaga njegovo hčerko zapeljevati — potem je sigurno naš. In Vi, milostiva, Vi ste Miličina vzgojiteljica, in imate posebno dolžnost še sedaj čuvati jo!“</p>
             <p>„Vi ste izvrsten diplomat!“ pritrdi gospá; „na ta način pojde, drugače ne! Jaz mislim, da bo lehko razcepiti to prijateljstvo, in potem je Bolè naš zaveznik, in zmaga naša.“</p>
             <p>Oči so se ji svetile od veselja, in podala je vsa razvneta koncipistu roko.</p>
@@ -1163,11 +1096,10 @@
             <p>„Dve na jeden udarec,“ radostil se je, „óni sem plačal, to pa premagal.“</p>
             <p>Domišljavi gizdalin je bil uverjen, da ga Elza ljubi.</p>
          </div>
-         <div xml:id="wv-Dvanajsto_poglavje.">
-            <head xml:id="head.12">Dvanajsto poglavje.</head>
+         <div>
+            <head>Dvanajsto poglavje.</head>
             <p>Tilhova Barba je bila istega dné svoj posel natanko zvršila. Čakala je prilike, da je dobila Milico sámo ter ji stisnila v roko Korenovo pisemce, katero je hranila sedaj na posebnem varnem prostoru svoje canjice, da ga ne zamenja vnovič.</p>
-            <pb xml:id="pb.068"
-                n="68"
+            <pb n="68"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-068.png"/>
             <p>Temna rudečica je zalila lice mladi deklici, ko ji je Barba dala list ter še pristavila šepetaje: „Če bote kaj odgovorili, bom pa vzela pismo. Saj znam molčati.“</p>
             <p>Odkimala je starki, in urno stekla v svojo sobo. Srce ji je bilo, da je je skoraj čula, nekovo sladko veselje jo je naudajalo, a čista vendar ni bila ta radost. Očitala si je takoj, še prej, nego je razgenila pismo, da morebiti vendar ni prav, ker ravna tako tajno in ker niti materi ni tega razodela.</p>
@@ -1184,8 +1116,7 @@
             <p>„O, nič, nič, le sedi, mama!“</p>
             <p>A solze so ji tekle še v jednomer.</p>
             <p>„Kaj se je zgodilo, za božjo voljo?“ silila je mati.</p>
-            <p>Počasi in vedno skrivaje svoje goreče lice na máterini rami, začela se je Milica izpovedovati. Pravila je ob onem dogodki s koncipistom in potem vse drugo s Korenom do denašnjega pisma, in trditi smemo, da vsa njena izjava v materi ni vzbudila posebne radosti. Navajena je bila videti v hčerki še vedno pol otroka in slutiti ni mogla, da bi ji bil <pb xml:id="pb.069"
-                   n="69"
+            <p>Počasi in vedno skrivaje svoje goreče lice na máterini rami, začela se je Milica izpovedovati. Pravila je ob onem dogodki s koncipistom in potem vse drugo s Korenom do denašnjega pisma, in trditi smemo, da vsa njena izjava v materi ni vzbudila posebne radosti. Navajena je bila videti v hčerki še vedno pol otroka in slutiti ni mogla, da bi ji bil <pb n="69"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-069.png"/> že mogel kdo govoriti o ljubezni. A ko se je sedaj ozrla po nji, reči je mogla vendar, da to ni več otrok, in da ji je dorasla prej, nego je sama mogla to opaziti.</p>
             <p>Prva misel gospé Boléške je bila, da bi ostró karala hčerko. Pa smilila se ji je takoj.</p>
             <p>„Kje imaš pismo?“</p>
@@ -1205,8 +1136,7 @@
             <p>„Kaj bo rekel Andrej? In jaz ga ljubim nad vse! A govorila bom ž njim, na vsak način, zvédeti mora vse!“ —</p>
             <p>Pri večerji je bil pa graščák tako zamišljen v volitvene stvarí — kajti ves dan so ga bili obiskavali Medenovci — da ni zapazil redkobesednosti svoje soproge, niti rudečih objokanih očij hčerke svoje.</p>
             <p>Po večerji je gospodar zgodaj odšel spat, mati in hči pa sta ostali zopet sami.</p>
-            <pb xml:id="pb.070"
-                n="70"
+            <pb n="70"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-070.png"/>
             <p>To priliko je porabila Milica, da je izprosila pri materi dovoljenje, naj Korenu ne vrne pisma brez vsake opomnje, nego da mu priloží tudi par vrstic, se ve da pisanih pod máterinim nadzorstvom.</p>
             <p>Boléški se je hči smilila in morebiti so nánjo tudi vplivali nekdanji mladostni spomini, in dovolila je napósled.</p>
@@ -1223,8 +1153,7 @@
             <p>„Kdo vé, povsodi velja: cherchez la femme, tukaj morebiti tudi!“</p>
             <p>„Oh, Vi ste vedno jednaki — svojeglavi, a vendar ljubeznivi, pa v našem slučaji vendar ničesa ne opravim! Pustiva volitve, doma sem jih že sita — vseh teh razgovorov, in le da jedenkrat kaj druzega govorim in opravim, prišla sem k Vam. Moj soprog, se vé, je sedaj žalibog samó politik, a zato moram jaz tržiti in mešetariti. Oprostite, gospod Bolè, Vi potrebujete sedaj mnogo lesa, in zarad tega sem prišla. Ali hočete pri nas kupiti? Oni bukov gozd za pristavo bi moj soprog rad prodal.“</p>
             <p>„Tako?“ dejal je osupneni graščák. Vse se mu je zdelo še nekako sumnjivo.</p>
-            <pb xml:id="pb.071"
-                n="71"
+            <pb n="71"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-071.png"/>
             <p>Pa Elza je ostala pri trgovini, in čez kake pol ure sta bila s prodajo in kupom gotova. Graščák je bil jako vesel, ker je res rabil les in ga primerno ni drago plačal.</p>
             <p>„Torej sva gotova!“ deje Elza in odhajajoča podá Boletu roko.</p>
@@ -1247,8 +1176,7 @@
             <p>„Ni mogoče!“</p>
             <p>„Umirite se, gospod Bolè, neprijetno bi mi bilo, ko bi jaz prouzročila s svojo odkritosrčnostjo kak razdor! Toda, saj sem uverjena, da je vse le zlobno klepetanje. — Torej, z Bogom! S kupčijo sva gotova, samó malo preceno sem pustila.“</p>
             <p>Pozdravila ga je z najljubeznivejšim smehljajem in stoprav, ko je sedela v vozu, in je isti dričal po gladki cesti proti domu, namuznila v se je zlobno in šepetala: „Če to ne pomaga, potem je vse zastonj, vse!“</p>
-            <pb xml:id="pb.072"
-                n="72"
+            <pb n="72"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-072.png"/>
             <p>Prekanila je v istini graščáka; še sanjalo se mu ni, da bi vse to utegnilo biti kak manever, ampak veroval je, da se za njegovim hrbtom nekaj godi, in sumil, da ga stari prijatelj Hrast vara.</p>
             <p>A hotel se je naglo ob vsem prepričati; in ko bi bilo istinito, kar je pripovedovala Medenovka, potem, no, „potem počakaj, dragi moj doktor, potem te vržemo pri volitvi, pa če si še tako premeten,“ dejal je jezno, ko je korakal že proti grádu.</p>
@@ -1273,17 +1201,15 @@
             <p>Gospa ni odgovorila. Sama je že sumila, da Koren morda vendar ni takó drzen, ko ne bi imel skrivne podpore od doktorja. Potem pa še te nesrečne volitve, ki so prvo seme razpora zasejale v njihovo do tedaj tako prijateljsko razmerje; sedaj pa je seme že pognalo in razpor je rastel.</p>
             <p>„Jaz mu bom pisal! In to odpošljemo objednem!“ dejal je Bolè.</p>
             <p>To rekši vrže na mizo Korenovo in Miličino pisemce, katero je bil prej naglo prečital.</p>
-            <pb xml:id="pb.073"
-                n="73"
+            <pb n="73"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-073.png"/>
             <p>Poseben sel je nesel malo potem vse liste v trg. Hrastu je Bolè očital, da je zlorabil njegovo prijateljstvo, ter mu naročil, naj „tistemu Korenu“ pové, da se v prihodnje varuje tacih drznostij, kakor je bila zadnja.</p>
             <p>Popoludne pa se je odpeljal graščák v trg h gospodu Antonu. Hotel se je maščevati, ali — kakor se je sam tolažil — izpolniti besedo, katero je bil na pol zastavil osrednjemu odboru.</p>
          </div>
-         <pb xml:id="pb.074"
-             n="74"
+         <pb n="74"
              facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-074.png"/>
-         <div xml:id="wv-Trinajsto_poglavje.">
-            <head xml:id="head.13">Trinajsto poglavje.</head>
+         <div>
+            <head>Trinajsto poglavje.</head>
             <p>Kakor strela iz jasnega, tako je zadelo Bolétovo pismo Hrasta. Poklical je Korena in mu molčé pokazal liste, katere je bil malo prej prejel. Tudi ta je prebledel in se zopet zarudel v lice, in ni védel, kaj in kako bi izpregovoril.</p>
             <p>„Sedaj smo izgubljeni!“ vskliknil je odvetnik.</p>
             <p>„Mislite li, da bo Bolè priskočil našim nasprotnikom?“ dejal je Koren skoraj boječe, ker je čutil, da je on uzrok temu polomu.</p>
@@ -1302,8 +1228,7 @@
             <p>„Oh kaj! Da bi resno mislili — študirali bi, izpite svoje končali, potem še le se lotite takega dekleta! Sedaj pa — kaj pa ste sedaj?“</p>
             <p>Koren je bil razdražen, jezen, a ob jednem vendar nekako potrt; Skusil se je premagovati.</p>
             <p>„Kaj pa — sedaj! Sedaj le delam in agitiram za Vas, in za naše dobro, narodno prepričanje!“ dejal je pikro.</p>
-            <pb xml:id="pb.075"
-                n="75"
+            <pb n="75"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-075.png"/>
             <p>„Haha,“ posmehnil se je doktor, a zinil ni besedice. Stal je pri oknu in bobnal po steklu.</p>
             <p>Koren je hotel oditi.</p>
@@ -1320,8 +1245,7 @@
             <p>Napotil se je proti večeru tja po stranski stezi, kjer se ni bilo bati, da bi srečal koga, in dospel je ob določenem času k ribnjaku. Milica je bila že tam.</p>
             <p>„Ni prav, da sem Vas vabila semkaj, pa povédati Vam moram, kako je vse to prišlo!“ dejala je hlastno, ko jo je bil on burno pozdravil in prijel obe njeni roki. Stala sta na mestu, kjer sta se bila prvič poljubila.</p>
             <p>„Védite, Elza, Medenova gospá je očetu vse razodela! Kje in kako je ona zvédela ...“</p>
-            <pb xml:id="pb.076"
-                n="76"
+            <pb n="76"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-076.png"/>
             <p>„Oh, to vém pa jaz!“ hitel je Koren.</p>
             <p>Sedaj je bila vsa spletka obema jasna. Njen uzrok pa je Koren takoj uganil.</p>
@@ -1346,8 +1270,7 @@
             <p>„Ne morem!“ rekel je agitator svojeglavno in povesil oči.</p>
             <p>Deklico je posilil skoraj jok.</p>
             <p>„Vi me silite, da Vam še nekaj povém!“ dejala je ihteče in zakrila svoj obraz.</p>
-            <pb xml:id="pb.077"
-                n="77"
+            <pb n="77"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-077.png"/>
             <p>„Kaj?“</p>
             <p>„Oče pravijo, da imate Vi najmenj pravice siliti se v te stvari — pravijo, da morate skrbeti najprej záse, in to so mi očitali tudi zarad Vašega pisma!“</p>
@@ -1362,8 +1285,8 @@
             <p>„Lehko noč!“</p>
             <p>Ločila sta se naglo. On je postál še nekoliko trenutkov na obrežji in zrl za njo, dokler njeno belo krilo ni izginilo za zeleno vrtno ograjo.</p>
          </div>
-         <div xml:id="wv-.C5.A0tirinajsto_poglavje.">
-            <head xml:id="head.14">Štirinajsto poglavje.</head>
+         <div>
+            <head>Štirinajsto poglavje.</head>
             <p>Istega večera je doktor Hrast dolgo pričakoval svojega koncipijenta. Tako je bil nemiren, da se mu niti večerjati ni ljubilo, niti govoriti z ženo. Vjednomer je hodil k odprtemu oknu ter zrl na ulice, če li že prihaja Koren. V jasni mesečini se je videlo daleč, a Korena vendar ni bilo ugledati. Napósled je hotel odvetnik ven v krčmo, kjer je mislil dobiti Andreja. Šel je res, akoravno ga je žena ustavljala, češ, da se bo še bolj razburil, v čitalnico, a tam tudi ni našel koncipijenta. Nihče ni znal, kje je. Domóv vračajoč se povprašal je doktor v Korenovem stanovanji po njem, a zaman. Silno nejevoljen je prišel domóv.</p>
             <p>Druzega dné je bil Koren ob navadni uri v pisarni.</p>
             <p>„Kje ste hodili sinoči? Kaj novega, kako stojimo?“ hitel je Hrast z vprašanji.</p>
@@ -1371,8 +1294,7 @@
             <p>„Kaj, Vi to svetujete, Vi?“</p>
             <p>„Da, prepričan sem, da propademo; Bolè se je zvezal z Antonom, in potem lehko sodite sami.“</p>
             <p>„A dobro! Odstopil pa ne bom; če hočejo, naj imajo boj! Če propadem, propadem pač častno!“</p>
-            <pb xml:id="pb.078"
-                n="78"
+            <pb n="78"
                 facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-078.png"/>
             <p>„Jaz bi dejal, gospod doktor, da bo morebiti za vse bolje, ako odstopite,“ ugovarjal je znova Koren.</p>
             <p>„Kdo Vam je vdihnil to misel, kdo Vas je prerodil v ti noči?“ klical je odvetnik, in postal pred ónim.</p>
@@ -1387,8 +1309,7 @@
             <p>Na dan volitve pa Hrastovih pristašev res ni bilo na volišči. Ko bi oni trdovratni mesar, ki se je še vedno hudoval na glavarjevega pinča, ne bil navzlic Hrastovi izjavi, da ne kandiduje, dal svojega glasu njemu, bil bi Meden jednoglasno izvoljen. Pa navdušenja je bilo malo. Volilci so smejoč se prihajali in odhajali, — a kaj to! — voljen je bil vendar nemškutarski graščák, ker je narodna disciplina tako zahtevala!</p>
             <p>Tudi Bolè je bil prišel in glasoval za ónega. A mudil se ni dolgo v trgu; pravili so o njem, da je bil jako slabe volje. —</p>
             <p>Nekoliko dnij po volitvi je bila zabava na Medenovem grádu, kamor so bili vabljeni vsi odličnjaki iz okolice in iz trga. Tudi Hrast in Koren sta prejela vabili, a prvi se je izgovoril z nujnim potovanjem, koncipijent pa je dolgo premišljal, bi li šel tja, ali ne; védel je, da bo Milica tamo, pa mislil je, da ne bi imel dovolj poguma, da bi govoril ž njo, če tudi le med plesom. Napósled je vendar šel.</p>
-            <p>Veselica je bila sijajna, tako da se je vse čudilo ob znani Medenovi ščedljivosti. Gostje pa so nam povse znani. Nekateri so se le čudili, da se je udeležil te zabave tudi gospod Anton. Zašel je bil v družbo oficirjev, brez katerih na Medenovem grádu ni bilo veselice. <pb xml:id="pb.079"
-                   n="79"
+            <p>Veselica je bila sijajna, tako da se je vse čudilo ob znani Medenovi ščedljivosti. Gostje pa so nam povse znani. Nekateri so se le čudili, da se je udeležil te zabave tudi gospod Anton. Zašel je bil v družbo oficirjev, brez katerih na Medenovem grádu ni bilo veselice. <pb n="79"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-079.png"/> Kvartali so, in taroka je bil gospod Anton tudi véšč, med tem pa pili plzensko pivo in močna vina.</p>
             <p>„Hoch, hoch, der Herr Abgeordnete!“ klical je vjednomer mali, pijani lajtnant, in gospod Anton je trkal ž njim. Rad bi bil vpil: „Živio“, pa v družbi, ki je le nemški besedovala, se še tega ni upal. Tudi koncipist Ruda je bil v ti družbi, a zapustil jo je kmalu, ter lazil za Medenovo gospó, vzlasti ko se je pričel ples.</p>
             <p>„Sedaj smo zmagali, milostiva,“ dejal je plešoč ž njo prvi valček; „in meni ne pripisujete nobenih zaslug?“</p>
@@ -1411,8 +1332,7 @@
             <p>Bolè ni nič kaj prijazno pogledoval Korena, ko je privel hčerko na njen sedež, a ozdravil mu je vendar uljudno. Nocoj sta se tu prvič srečala.</p>
             <p>Korenu je šinila nova misel v glavo. Stopil je k graščáku in ga prosil, naj grè ž njim. Ta je ubogal, akoravno začuden, ter šel za koncipijentom iz grada na vrt.</p>
             <p>Ne daleč od uhoda dobila sta Rudo, pušéčega cigareto.</p>
-            <p>„Prosil sem Vas, da idite z menoj, in sedaj Vas vnovič prosim, da me poslušate,“ dejal je Koren graščáku, in stopil pred koncipista, <pb xml:id="pb.080"
-                   n="80"
+            <p>„Prosil sem Vas, da idite z menoj, in sedaj Vas vnovič prosim, da me poslušate,“ dejal je Koren graščáku, in stopil pred koncipista, <pb n="80"
                    facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00187/WIKI00187-080.png"/> ki se je naglo za cel korak umaknil; „treba je, da Vam razjasnim, česar morebiti še ne véste.“</p>
             <p>Povédal je potem v kratkih besedah vso zgodbo svoje mlade ljubezni — kako je rešil Milico iz koncipistovih rok, in kako sta Ruda in Medenovka osnovala vso zadnjo spletko, da bi prekanila graščáka in ga odvrnila od starega prijatelja Hrasta.</p>
             <p>Koncipist je jecal nekoliko besed, graščák pa je molčal. Morebiti pa bi bilo prišlo vendar do besedovanja, ko bi ne bila v tem trenutku prispela Medenovka mimo. Vodil jo je mlad oficir.</p>
