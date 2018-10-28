@@ -1,16 +1,15 @@
 # ELTeC-slv
 
-This is the Workflow I used for converting the initial batch of Slovenian texts
+Folder for the original Slovene data (all available input formats and transformation scripts).
 
-- Marko gave me a list of relevant titles, in Word. I converted that to XML using docxtotei
+Workflow used for converting the initial batch of Slovenian texts which come from the [IMP Digital library](http://nl.ijs.si/imp/index-en.html):
 
-- I  processed the list result with `makegrab.xsl` to produce a shell script (`grab`) which downloaded each relevant file, using syntax like this:
-~~~~
-curl http://nl.ijs.si/imp/dl/xml/WIKI00293-1855.xml> 00293.xml
-~~~~
-- Each file was converted using `retag.xsl` which does most of what's necessary (remove tags we are not using, simplify header etc.)
+1. The current list of titles, together with IDs and ELTeC-specific metadata missing from the IMP originals is in `slv-index-imp.txt`;
 
-- Shell script `doSizes` was used to create an auxiliary file containing the word count (`sizes.xml`) for each file
+2. The list is first processed with `grab-imp.pl` which generates `grab-imp.sh`, a shell script that downloads the XMLs from the CLARIN.SI repository and stores them locally;
 
-- Script `fixmetdata.xsl` was run over each file, primarily to enhance the TEI header using the file made in the previous step; it also fixed a couple of things I'd missed when running retag.xsl (e.g. use of `<choice>`)
+3. Each IMP file is then run through `add-meta-imp.pl` which adds `slv-index-imp.txt` metadata to it and calculates the number of words in it and adds this count to the TEI file.
 
+4. Each file is then converted by `fix-tags-imp.xsl` to make the encoding compliant with ELTeC Level-1.
+
+5. Steps 3 and 4 can be performed for all the files together, including validation agains the ELTeC schema with the script `imp2eltec.pl`. How to run this script and 1 and 2 is exemplified in the `Makefile`. To run the complete process type `make all` in this directory (assuming the necessary programs and installed in the same directories as expected).
