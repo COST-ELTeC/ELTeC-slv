@@ -23,6 +23,7 @@
   </xsl:template>
 
   <!-- Suppress these attributes -->
+  <xsl:template match="t:text//t:*/@xml:id"/>
   <xsl:template match="t:title/@type"/>
   <xsl:template match="t:note/@place"/>
   <xsl:template match="t:note/@type"/><!-- all are authorial -->
@@ -87,13 +88,13 @@
     </extent>
   </xsl:template>
 
-  <!-- ELTeC will have to discuss <availablity>! -->
   <xsl:template match="t:publicationStmt">
     <publicationStmt xml:lang="en">
       <p>Added to ELTeC <date><xsl:value-of select="$Today"/></date></p>
-      <p>This work is licensed under the
+      <!-- ELTeC will have to discuss <availablity>! -->
+      <!--p>This work is licensed under the
         <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-        Attribution-ShareAlike 4.0 International License</ref>.</p>
+        Attribution-ShareAlike 4.0 International License</ref>.</p-->
     </publicationStmt>
   </xsl:template>
 
@@ -185,7 +186,7 @@
 
   <!-- body -->
   <xsl:template match="t:pb">
-    <pb xml:id="{@xml:id}" n="{@n}"
+    <pb n="{@n}"
 	facs="{key('id', substring-after(@facs, '#'))/t:graphic[1]/@url}"/>
   </xsl:template>
 
