@@ -19,13 +19,13 @@ while (<>) {
 	    split /\t/;
     next unless $imp_id =~ /./;
     ($index_year = $published) =~ s/,.+//; 
-    $fName = "$imp_id-$index_year";
+    $fName_txt = "$imp_id-$index_year.xml";
+    $fName_ana = "$imp_id-$index_year-ana.xml";
     print "# $imp_id: $author. $title\n";
-    print "unzip IMP-dl-tei.zip IMP-dl-tei/$fName.xml\n";
-    print "$FIX IMP-dl-tei/$fName.xml > $imp_id.xml\n";
-    $fName_ana = "$fName-ana";
-    print "unzip IMP-corpus-tei.zip IMP-corpus-tei/$fName_ana.xml\n";
-    print "$FIX IMP-corpus-tei/$fName_ana.xml > $imp_id-ana.xml\n";
+    print "unzip IMP-dl-tei.zip     IMP-dl-tei/$fName_txt\n";
+    print "unzip IMP-corpus-tei.zip IMP-corpus-tei/$fName_ana\n";
+    print "$FIX IMP-dl-tei/$fName_txt     > $imp_id.txt.xml\n";
+    print "$FIX IMP-corpus-tei/$fName_ana > $imp_id.ana.xml\n";
 }
 print "rm IMP-dl-tei.zip\n";
 print "rm -r IMP-dl-tei\n";

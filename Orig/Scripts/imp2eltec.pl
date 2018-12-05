@@ -13,8 +13,8 @@ $Schema = "https://distantreading.github.io/Schema/eltec-1.rng";
 $VALIDATE = "java -jar /usr/local/bin/jing.jar $Schema";
 
 foreach $inFile (glob $inFiles) {
-    $inFile =~ m|([^/]+$)|;
-    $outFile = "$outDir/SL-$1";
+    $inFile =~ m|([^/.]+)\.|;
+    $outFile = "$outDir/SL-$1.xml";
     print STDERR "INFO: Converting $inFile -> $outFile\n";
     $status = system("$CNV1 < $inFile | $CNV2 - > $outFile");
     if ($status) {

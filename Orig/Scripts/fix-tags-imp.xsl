@@ -13,6 +13,8 @@
   <xsl:preserve-space elements="t:p t:hi"/>
 
   <xsl:key name="id" match="t:surface" use="@xml:id"/>
+  <xsl:param name="imp-handle">http://hdl.handle.net/11356/1031</xsl:param>
+  
   <xsl:variable name="Today" select="substring-before(current-date() cast as xs:string, '+')"/>
 
   <xsl:template match="/">
@@ -108,7 +110,7 @@
       <author><xsl:value-of select="t:author"/></author>
       <publisher>
 	<xsl:text>CLARIN.SI </xsl:text>
-        <ref target="http://hdl.handle.net/11356/1031">http://hdl.handle.net/11356/1031</ref>
+        <ref target="{$imp-handle}"><xsl:value-of select="$imp-handle"/></ref>
       </publisher>
       <idno type="url">
 	<xsl:text>http://nl.ijs.si/imp/wikivir/dl/</xsl:text>
@@ -117,6 +119,7 @@
       </idno>
       <idno type="wikilink"><xsl:value-of select="t:pubPlace/t:ref[1]/@target"/></idno>
       <idno type="urn"><xsl:value-of select="t:pubPlace/t:ref[2]/@target"/></idno>
+      <idno type="handle"><xsl:value-of select="$imp-handle"/></idno>
     </bibl>
     <bibl type="copyText" xml:lang="en">
       <ref target="{$titlePageImage}">Title page</ref>
