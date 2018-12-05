@@ -4,9 +4,12 @@ use utf8;
 binmode STDERR, 'utf8';
 binmode STDIN,  'utf8';
 binmode STDOUT, 'utf8';
+$FIX = 'java -jar /usr/local/bin/saxon9he.jar -xsl:../Scripts/id_p.xsl';
+print "### Grab selected IMP books and prepare them from ElTeC\n";
 print "cd ../IMP\n";
 print "rm -fr *\n";
 print "wget https://www.clarin.si/repository/xmlui/bitstream/handle/11356/1031/IMP-dl-tei.zip\n";
+print "wget https://www.clarin.si/repository/xmlui/bitstream/handle/11356/1031/IMP-corpus-tei.zip\n";
 while (<>) {
     next if /Kanoničnost/;
     chomp;
@@ -19,7 +22,12 @@ while (<>) {
     $fName = "$imp_id-$index_year";
     print "# $imp_id: $author. $title\n";
     print "unzip IMP-dl-tei.zip IMP-dl-tei/$fName.xml\n";
-    print "mv IMP-dl-tei/$fName.xml $imp_id.xml\n";
+    print "$FIX IMP-dl-tei/$fName.xml > $imp_id.xml\n";
+    $fName_ana = "$fName-ana";
+    print "unzip IMP-corpus-tei.zip IMP-corpus-tei/$fName_ana.xml\n";
+    print "$FIX IMP-corpus-tei/$fName_ana.xml > $imp_id-ana.xml\n";
 }
 print "rm IMP-dl-tei.zip\n";
 print "rm -r IMP-dl-tei\n";
+print "rm IMP-corpus-tei.zip\n";
+print "rm -r IMP-corpus-tei\n";
