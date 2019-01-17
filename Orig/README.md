@@ -1,6 +1,6 @@
 # ELTeC-slv
 
-Folder for the original Slovene data (all available input formats and transformation scripts).
+Folder for the original Slovene data from Wikisource, either directly or through the IMP corpus together with download and transformation scripts).
 
 Workflow used for converting the initial batch of Slovenian texts which come from the [IMP Digital library](http://nl.ijs.si/imp/index-en.html):
 
@@ -13,3 +13,11 @@ Workflow used for converting the initial batch of Slovenian texts which come fro
 4. Each file is then converted by `fix-tags-imp.xsl` to make the encoding compliant with ELTeC Level-1.
 
 5. Steps 3 and 4 can be performed for all the files together, including validation agains the ELTeC schema with the script `imp2eltec.pl`. How to run this script and 1 and 2 is exemplified in the `Makefile`. To run the complete process type `make all` in this directory (assuming the necessary programs and installed in the same directories as expected).
+
+== Work in progress ==
+
+* do the same for WikiSource texts.
+
+They have now been downloaded into Wiki/ as mark-down files. However,
+it turns out to be difficult to find something close to md2tei. Do
+HTML instead? However, that is very messy.

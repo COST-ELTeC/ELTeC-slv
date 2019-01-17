@@ -1,3 +1,9 @@
+t:
+	md2html.pl ../Wiki/Zorin.md > Zorin.html
+x:
+	/project/tei/Stylesheets/bin/markdowntotei ../Wiki/Zorin.md Zorin.xml
+test-wiki:
+	$s input-uri=/home/tomaz/Project/ELTec/ELTeC-slv/Orig/Wiki/Zorin.md -xsl:/project/tei/Stylesheets/markdown/markdown-to-tei.xsl /project/tei/Stylesheets/markdown/dummy.xml > Zorin.xml
 test-conv:
 	mkdir -p tmp
 	add-meta-imp.pl ../slv-index-imp.txt < ../IMP/WIKI00024.txt.xml > tmp/WIKI00024.xml
@@ -7,6 +13,11 @@ test-id:
 	$s -xsl:id_p.xsl tmp/WIKI00024-1891.xml > tmp/WIKI00024-1891.id.xml
 
 all:	grab-imp convert-dl
+grab-wiki:
+	grab-wiki.pl < ../slv-index-imp.txt > grab-wiki.sh
+	mkdir -p ../Wiki
+	chmod +x grab-wiki.sh
+	./grab-wiki.sh
 convert-dl:
 	imp2eltec.pl ../slv-index-imp.txt '../IMP/*.txt.xml' ../../level1
 grab-imp:
