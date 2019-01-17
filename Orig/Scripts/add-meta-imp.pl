@@ -12,10 +12,10 @@ while (<IDX>) {
     next if /Kanoničnost/;
     chomp;
     my ($author, $sex, $birth, $death, $title, 
-	$label, $published, $period, $words, $canon, 
+	$label, $published, $digitised, $period, $words, $canon, 
 	$reprints, $imp_id) =
 	    split /\t/;
-    next unless $imp_id =~ /./;
+    next unless $imp_id and $imp_id =~ /^WIKI\d+$/;
     if    ($sex =~ /M/i) {$eltec_sex = 'M'}
     elsif ($sex =~ /Ž/i) {$eltec_sex = 'F'}
     else {die "Bad sex $sex for $imp_id in index!\n"};
@@ -23,14 +23,14 @@ while (<IDX>) {
     elsif ($canon =~ /DELNO/i) {$eltec_canon = 'medium'}
     elsif ($canon =~ /NE/i)    {$eltec_canon = 'low'}
     else {die "Bad canon $canon for $imp_id in index!\n"};
+    if    (!$reprints)    {$reprints = 0}
+    elsif ($reprints =~ /^\d+$/) {}
+    else {die "Bad reprints $reprints for $imp_id in index!\n"};
 
-    ## We currently do not use $label and $reprints,
-    ## as it is not clear where the put the first, 
-    ## and the second is empty
     ## Note that $author, $title, $published is taken from the teiHeader
     ## and is in the index only for reference
-    ## Similarly $period, $words is computed the conversion scripts
-    $meta{$imp_id} = join "\t", ($eltec_sex, $birth, $death, $label, $eltec_canon);
+    ## Similarly $period, $words is computed by the conversion scripts
+    $meta{$imp_id} = join "\t", ($eltec_sex, $birth, $death, $label, $eltec_canon, $reprints);
 }
 close IDX;
 	
@@ -40,7 +40,9 @@ $_ = <>;
 
 ($imp_id) = /xml:id="(.+?)-\d\d\d\d"/so 
     or die "Bad ID in $_!\n";
-my ($eltec_sex, $birth, $death, $label, $eltec_canon) =
+
+##Note that reprints is not yet used, as it is not clear where to put it!
+my ($eltec_sex, $birth, $death, $label, $eltec_canon, $reprints) =
     split "\t", $meta{$imp_id};
 
 $id = "SL-$imp_id"; #ELTeC ID (also filename)

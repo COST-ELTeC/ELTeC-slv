@@ -14,11 +14,18 @@ while (<>) {
     next if /Kanoničnost/;
     chomp;
     my ($author, $sex, $birth, $death, $title, 
-	$label, $published, $period, $words, $canon, 
+	$label, $published, $digitised, $period, $words, $canon, 
 	$reprints, $imp_id) =
 	    split /\t/;
-    next unless $imp_id =~ /./;
-    ($index_year = $published) =~ s/,.+//; 
+    unless ($imp_id) {
+	print STDERR "WARN: no source for $author: $title\n";
+	next
+    }
+    unless ($imp_id =~ /^WIKI\d+$/) {
+	print STDERR "WARN: non-IMP signature '$imp_id' for $author: $title\n";
+	next
+    }
+    ($index_year = $published) =~ s/[,-].+//; 
     $fName_txt = "$imp_id-$index_year.xml";
     $fName_ana = "$imp_id-$index_year-ana.xml";
     print "# $imp_id: $author. $title\n";
