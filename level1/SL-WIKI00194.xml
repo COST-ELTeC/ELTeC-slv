@@ -20,7 +20,7 @@
             <measure unit="pages">185</measure>
          </extent>
          <publicationStmt xml:lang="en">
-            <p>Added to ELTeC <date>2018-12-05</date>
+            <p>Added to ELTeC <date>2019-01-17</date>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -56,7 +56,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change xml:lang="en" when="2018-12-05">
+         <change xml:lang="en" when="2019-01-17">
             <name>Tomaž Erjavec</name>: converted to ELTeC</change>
          <change when="2015-04-03">
             <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
