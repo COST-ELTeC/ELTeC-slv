@@ -6,7 +6,7 @@ test-wiki:
 	$s input-uri=/home/tomaz/Project/ELTec/ELTeC-slv/Orig/Wiki/Zorin.md -xsl:/project/tei/Stylesheets/markdown/markdown-to-tei.xsl /project/tei/Stylesheets/markdown/dummy.xml > Zorin.xml
 test-conv:
 	mkdir -p tmp
-	add-meta-imp.pl ../slv-index-imp.txt < ../IMP/WIKI00024.txt.xml > tmp/WIKI00024.xml
+	add-meta-imp.pl ../slv-index.txt < ../IMP/WIKI00024.txt.xml > tmp/WIKI00024.xml
 	$s -xsl:fix-tags-imp.xsl tmp/WIKI00024.xml > tmp/SL-WIKI00024.xml
 	$j tmp/SL-WIKI00024.xml
 test-id:
@@ -14,14 +14,14 @@ test-id:
 
 all:	grab-imp convert-dl
 grab-wiki:
-	grab-wiki.pl < ../slv-index-imp.txt > grab-wiki.sh
+	grab-wiki.pl < ../slv-index.txt > grab-wiki.sh
 	mkdir -p ../Wiki
 	chmod +x grab-wiki.sh
 	./grab-wiki.sh
 convert-dl:
-	imp2eltec.pl ../slv-index-imp.txt '../IMP/*.txt.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt '../IMP/*.txt.xml' ../../level1
 grab-imp:
-	grab-imp.pl < ../slv-index-imp.txt > grab-imp.sh
+	grab-imp.pl < ../slv-index.txt > grab-imp.sh
 	mkdir -p ../IMP
 	chmod +x grab-imp.sh
 	./grab-imp.sh
