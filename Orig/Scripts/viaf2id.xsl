@@ -32,20 +32,20 @@
 	<xsl:variable name="query" select="//srw:xQuery/ns5:searchClause/ns5:term"/>
 	<xsl:variable name="name" select="replace($query, ' \(.+', '')"/>
 	<xsl:variable name="dates" select="replace($query, '.+ \((.+?)\)', '$1')"/>
-	<xsl:variable name="viaf">
-	  <xsl:apply-templates
-	      select="//srw:record[.//ns3:nameType = 'Personal']
-		      [.//ns3:mainHeadings/ns3:data/ns3:text = $name]">
-	  </xsl:apply-templates>
-	</xsl:variable>
-	<xsl:value-of select="$viaf//ns2:viafID"/>
-	<xsl:text>&#9;</xsl:text>
-	<xsl:value-of select="$viaf//ns2:primaryTopic/@resource"/>
+	<xsl:variable name="record" select="//srw:record[.//ns3:nameType = 'Personal']
+					    [.//ns3:mainHeadings/ns3:data/ns3:text = $name]"/>
+	<xsl:choose>
+	  <xsl:when test="$record//ns2:viafID">
+	    <xsl:value-of select="$record//ns2:viafID"/>
+	    <xsl:text>&#9;</xsl:text>
+	    <xsl:value-of select="$record//ns2:primaryTopic/@resource"/>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <xsl:text>-99&#9;-</xsl:text>
+	  </xsl:otherwise>
+	</xsl:choose>
       </xsl:otherwise>
     </xsl:choose>
   </xsl:template>
 
-  <xsl:template match="//srw:recordData">
-    <xsl:copy-of select="."/>
-  </xsl:template>
 </xsl:stylesheet>

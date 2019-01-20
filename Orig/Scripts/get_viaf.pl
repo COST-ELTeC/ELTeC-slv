@@ -6,7 +6,7 @@ use LWP::Simple;
 use FindBin qw($Bin);
 use File::Temp qw/ tempfile tempdir /;  #creation of tmp files and directory
 $tmpDir="$Bin/tmp";
-my $tempDir = tempdir(DIR => $tmpDir, CLEANUP => 0);
+my $tempDir = tempdir(DIR => $tmpDir, CLEANUP => 1);
 
 $getVIAF = "java -jar /usr/local/bin/saxon9he.jar -xsl:$Bin/viaf2id.xsl";
 binmode STDERR, 'utf8';
@@ -32,7 +32,8 @@ foreach $auth (sort keys %auth) {
     getstore($THIS, $FILE);
     $VIAF = `$getVIAF '$FILE'`;
     $all++;
-    $bad++ if $VIAF =~ /0\t/;
+    $none++ if $VIAF =~ /^0\t/;
+    $fail++ if $VIAF =~ /^-99\t/;
     print "$auth\t$VIAF\n";
 }
-print STDERR "Found $all authors, no VIAF for $bad.\n"
+print STDERR "Found $all authors, no VIAF for $none, multiple (and unresolvable) $fail.\n"

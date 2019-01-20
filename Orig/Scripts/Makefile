@@ -1,5 +1,6 @@
 testmd:
-	md2html.pl ../Wiki/Zorin.md > Zorin.html
+	#cat ../Wiki/*.md | md2tei.pl | sort | uniq -c > tmp/md-tags.tbl
+	md2tei.pl ../Wiki/Zorin.md > tmp/Zorin.xml
 
 test-conv:
 	mkdir -p tmp
