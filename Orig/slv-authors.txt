@@ -1,44 +1,44 @@
-Bartel, Anton, 1853-1938	10824798	http://viaf.org/viaf/10824798
-Bedenek, Jakob, 1850-1916	84381657	http://viaf.org/viaf/84381657
-Cankar, Ivan, 1876-1918	-99	-
-Carli Lukovič, Alojz, 1846-1891	50937590	http://viaf.org/viaf/50937590
-Cigler, Janez, 1792-1867	247997342	http://viaf.org/viaf/247997342
-Detela, Fran, 1850-1926	61405029	http://viaf.org/viaf/61405029
-Fajdiga, Ivan, 1854-1935	0	-
-Fatur, Lea, 1865-1943	170052698	http://viaf.org/viaf/170052698
-Govekar, Fran, 1871-1949	51812691	http://viaf.org/viaf/51812691
-Gruden, Josip, 1869-1922	68284771	http://viaf.org/viaf/68284771
-Jaklič, Fran, 1868-1937	55376955	http://viaf.org/viaf/55376955
-Janežič, Ivan, 1855-1922	0	-
-Jelenc, Vitomir Fedor, 1885-1922	0	-
-Jurčič, Josip, 1844-1881	54483391	http://viaf.org/viaf/54483391
-Kersnik, Janko, 1852-1897	34746806	http://viaf.org/viaf/34746806
-Koder, Anton, 1851-1918	172847595	http://viaf.org/viaf/172847595
-Kovačič, Ivo, 1873-1936	81042077	http://viaf.org/viaf/81042077
-Kraigher, Alojz, 1877-1959	44335953	http://viaf.org/viaf/44335953
-Kveder, Zofka, 1878-1926	1223577	http://viaf.org/viaf/1223577
-Lah, Ivan, 1881-1938	101581601	http://viaf.org/viaf/101581601
-Levstik, Vladimir, 1886-1957	53731964	http://viaf.org/viaf/53731964
-Mahnič, Anton, 1850-1920	32798590	http://viaf.org/viaf/32798590
-Malovrh, Miroslav, 1861-1922	233014487	http://viaf.org/viaf/233014487
-Maselj Podlimbarski, Fran, 1852-1917	24474637	http://viaf.org/viaf/24474637
-Mencinger, Janez, 1838-1912	53025627	http://viaf.org/viaf/53025627
-Meško, Ksaver, 1874-1964	-99	-
-Murnik, Rado, 1870-1932	66026290	http://viaf.org/viaf/66026290
-Nadlišek, Marica, 1867-1940	6737472	http://viaf.org/viaf/6737472
-Pajk, Pavlina, 1854-1901	260393202	http://viaf.org/viaf/260393202
-Pesjak, Luiza, 1854-1901	0	-
-Podmilšak, Josip, 1845-1874	305144647704454014387	http://viaf.org/viaf/305144647704454014387
-Pregelj, Ivan, 1883-1960	22231284	http://viaf.org/viaf/22231284
-Prelesnik, Matija, 1872-1905	0	-
-Prepeluh, Albin, 1881-1937	79068165	http://viaf.org/viaf/79068165
-Saleški Finžgar, Fran, 1871-1962	-99	-
-Sket, Jakob, 1852-1912	93569857	http://viaf.org/viaf/93569857
-Stritar, Josip, 1836-1923	70948422	http://viaf.org/viaf/70948422
-Tavčar, Ivan, 1851-1923	-99	-
-Trošt, Ivo, 1865-1937	16146824501407630124	http://viaf.org/viaf/16146824501407630124
-Vodeb, Emil, 1880-1921	0	-
-Vošnjak, Josip, 1834-1911	55300280	http://viaf.org/viaf/55300280
-Zbašnik, Fran, 1855-1935	84281491	http://viaf.org/viaf/84281491
-Šorli, Ivo, 1877-1958	316497598	http://viaf.org/viaf/316497598
-Štrukelj, Ivan, 1869-1948	0	-
+Bartel, Anton, 1853-1938	VIAF	10824798	http://viaf.org/viaf/10824798
+Bedenek, Jakob, 1850-1916	VIAF	84381657	http://viaf.org/viaf/84381657
+Cankar, Ivan, 1876-1918	VIAF	56657726	http://viaf.org/viaf/56657726
+Carli Lukovič, Alojz, 1846-1891	VIAF	50937590	http://viaf.org/viaf/50937590
+Cigler, Janez, 1792-1867	VIAF	247997342	http://viaf.org/viaf/247997342
+Detela, Fran, 1850-1926	VIAF	61405029	http://viaf.org/viaf/61405029
+Fajdiga, Ivan, 1854-1935	CONOR	108938595	https://plus.si.cobiss.net/opac7/conor/108938595
+Fatur, Lea, 1865-1943	VIAF	170052698	http://viaf.org/viaf/170052698
+Govekar, Fran, 1871-1949	VIAF	51812691	http://viaf.org/viaf/51812691
+Gruden, Josip, 1869-1922	VIAF	68284771	http://viaf.org/viaf/68284771
+Jaklič, Fran, 1868-1937	VIAF	55376955	http://viaf.org/viaf/55376955
+Janežič-Kraljev, Ivan, 1855-1922	VIAF	68374219	http://viaf.org/viaf/68374219
+Jelenc, Vitomir Feodor, 1885-1922	VIAF	66265062	http://viaf.org/viaf/66265062
+Jurčič, Josip, 1844-1881	VIAF	54483391	http://viaf.org/viaf/54483391
+Kersnik, Janko, 1852-1897	VIAF	34746806	http://viaf.org/viaf/34746806
+Koder, Anton, 1851-1918	VIAF	172847595	http://viaf.org/viaf/172847595
+Kovačič, Ivo, 1873-1936	VIAF	81042077	http://viaf.org/viaf/81042077
+Kraigher, Alojz, 1877-1959	VIAF	44335953	http://viaf.org/viaf/44335953
+Kveder, Zofka, 1878-1926	VIAF	1223577	http://viaf.org/viaf/1223577
+Lah, Ivan, 1881-1938	VIAF	101581601	http://viaf.org/viaf/101581601
+Levstik, Vladimir, 1886-1957	VIAF	53731964	http://viaf.org/viaf/53731964
+Mahnič, Anton, 1850-1920	VIAF	32798590	http://viaf.org/viaf/32798590
+Malovrh, Miroslav, 1861-1922	VIAF	233014487	http://viaf.org/viaf/233014487
+Maselj Podlimbarski, Fran, 1852-1917	VIAF	24474637	http://viaf.org/viaf/24474637
+Mencinger, Janez, 1838-1912	VIAF	53025627	http://viaf.org/viaf/53025627
+Meško, Ksaver, 1874-1964	VIAF	62359223	http://viaf.org/viaf/62359223
+Murnik, Rado, 1870-1932	VIAF	66026290	http://viaf.org/viaf/66026290
+Nadlišek, Marica, 1867-1940	VIAF	6737472	http://viaf.org/viaf/6737472
+Pajk, Pavlina, 1854-1901	VIAF	260393202	http://viaf.org/viaf/260393202
+Pesjak, Luiza, 1828-1898	VIAF	307425009	http://viaf.org/viaf/307425009
+Podmilšak, Josip, 1845-1874	VIAF	305144647704454014387	http://viaf.org/viaf/305144647704454014387
+Pregelj, Ivan, 1883-1960	VIAF	22231284	http://viaf.org/viaf/22231284
+Prelesnik, Matija, 1872-1905	CONOR	127306595	https://plus.si.cobiss.net/opac7/conor/127306595
+Prepeluh, Albin, 1881-1937	VIAF	79068165	http://viaf.org/viaf/79068165
+Saleški Finžgar, Fran, 1871-1962	VIAF	56648253	http://viaf.org/viaf/56648253
+Sket, Jakob, 1852-1912	VIAF	93569857	http://viaf.org/viaf/93569857
+Stritar, Josip, 1836-1923	VIAF	70948422	http://viaf.org/viaf/70948422
+Tavčar, Ivan, 1851-1923	VIAF	100298803	http://viaf.org/viaf/100298803
+Trošt, Ivo, 1865-1937	VIAF	16146824501407630124	http://viaf.org/viaf/16146824501407630124
+Vodeb, Emil, 1880-1921	CONOR	66496611	https://plus.si.cobiss.net/opac7/conor/66496611
+Vošnjak, Josip, 1834-1911	VIAF	55300280	http://viaf.org/viaf/55300280
+Zbašnik, Fran, 1855-1935	VIAF	84281491	http://viaf.org/viaf/84281491
+Šorli, Ivo, 1877-1958	VIAF	316497598	http://viaf.org/viaf/316497598
+Štrukelj, Ivan, 1869-1948	CONOR	311191651	https://plus.si.cobiss.net/opac7/conor/311191651
