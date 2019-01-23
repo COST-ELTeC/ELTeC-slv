@@ -34,6 +34,6 @@ foreach $auth (sort keys %auth) {
     $all++;
     $none++ if $VIAF =~ /^0\t/;
     $fail++ if $VIAF =~ /^-99\t/;
-    print "$auth\t$VIAF\n";
+    print "$auth\tVIAF\t$VIAF\n";
 }
 print STDERR "Found $all authors, no VIAF for $none, multiple (and unresolvable) $fail.\n"
