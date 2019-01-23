@@ -22,8 +22,8 @@ Govekar, Fran	m	1871	1949	Svitanje	Roman	1919-1921	2015	D	?	NE		https://sl.wikis
 Gruden, Josip	m	1869	1922	Na vojvodskem prestolu	Povest iz slovenske starodavnosti	1901	2015	D	32,552	NE		WIKI00425
 Jaklič, Fran	m	1868	1937	Ljudska osveta	Povest	1892	2015	D	31,531	NE		WIKI00126
 Jaklič, Fran	m	1868	1937	O, ta testament	Novela	1900	2015	D	56,991	NE		WIKI00373
-Janežič, Ivan	m	1855	1922	Gospa s pristave	Zgodovinski roman	1894	2015	C	96,309	NE		WIKI00135
-Jelenc, Vitomir Fedor	m	1885	1922	Žena	Roman	1910	2018	D	37,876	NE		https://sl.wikisource.org/wiki/%C5%BDena_(Vitomir_Feodor_Jelenc)
+Janežič-Kraljev, Ivan	m	1855	1922	Gospa s pristave	Zgodovinski roman	1894	2015	C	96,309	NE		WIKI00135
+Jelenc, Vitomir Feodor	m	1885	1922	Žena	Roman	1910	2018	D	37,876	NE		https://sl.wikisource.org/wiki/%C5%BDena_(Vitomir_Feodor_Jelenc)
 Jurčič, Josip	m	1844	1881	Cvet in sad	Izviren roman	1877	2015	B	50,336	DA		WIKI00279
 Jurčič, Josip	m	1844	1881	Deseti brat	Izvirni roman	1866	2008	B	66,857	DA	20+	https://sl.wikisource.org/wiki/Deseti_brat_(Josip_Jur%C4%8Di%C4%8D)
 Jurčič, Josip	m	1844	1881	Med dvema stoloma	Izviren roman	1876	2008	B	21,504	DA		https://sl.wikisource.org/wiki/Med_dvema_stoloma
@@ -71,7 +71,7 @@ Pajk, Pavlina	ž	1854	1901	Arabela	Roman	1885	2015	C	38,910	NE		WIKI00231
 Pajk, Pavlina	ž	1854	1901	Slučaji usode	Roman	1897	2015	C	57,515	DELNO	2	WIKI00240
 Pajk, Pavlina	ž	1854	1901	Judita	Roman	1896	2018	C	22,947	NE		https://sl.wikisource.org/wiki/Judita_(Pavlina_Pajk)
 Pajk, Pavlina	ž	1854	1901	Dušne borbe	brez oznake	1896	2015	C	30,192	NE		WIKI00234
-Pesjak, Luiza	ž	1854	1901	Beatin dnevnik	Roman	1887	2015	C	29,412	NE		WIKI00227
+Pesjak, Luiza	ž	1828	1898	Beatin dnevnik	Roman	1887	2015	C	29,412	NE		WIKI00227
 Podmilšak, Josip	m	1845	1874	Žalost in veselje	Povest za prosto ljudstvo	1870	2015	B	76,732	NE		WIKI00122
 Pregelj, Ivan	m	1883	1960	Tlačani	Roman iz osemnajstega stoletja	1915-1916	2015	D	71,634	DA		WIKI00417
 Prelesnik, Matija	m	1872	1905	Naš stari greh	Polabska povest	1903	2015	D	63,180	NE		WIKI00452
