@@ -10,8 +10,9 @@ test-conv:
 test-id:
 	$s -xsl:id_p.xsl tmp/WIKI00024-1891.xml > tmp/WIKI00024-1891.id.xml
 
-all:	viaf grab-imp convert-dl
-viaf:
+all:	grab-imp convert-dl
+#Do not use anymore, slv-authors.txt is now manually edited
+xxx-viaf:
 	get_viaf.pl < ../slv-index.txt > ../slv-authors.txt
 grab-wiki:
 	grab-wiki.pl < ../slv-index.txt > grab-wiki.sh
