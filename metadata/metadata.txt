@@ -1,0 +1,73 @@
+id,author-name,book-title,subgenre,year,year-cat,canon-cat,gender-cat,length,length-cat,counter
+SL-WIKI00024,Bedenek,Odplugadokrone,foo,1891,T3,low,M,81449,medium,1
+SL-WIKI00048,Govekar,Vkrvi,foo,1896,T3,high,M,51500,medium,1
+SL-WIKI00055,Tavčar,VZali,foo,1894,T3,high,M,40035,short,1
+SL-WIKI00058,Kersnik,Cyclamen,foo,1883,T3,high,M,37437,short,1
+SL-WIKI00072,Meško,Kamplovemo,foo,1897,T3,high,M,71125,medium,1
+SL-WIKI00090,Štrukelj,Spletke,foo,1894,T3,low,M,38581,short,1
+SL-WIKI00092,Štrukelj,Zmotainpovrat,foo,1892,T3,low,M,33297,short,1
+SL-WIKI00094,Bartel,Pomladanskivetrovi,foo,1881,T3,low,M,65226,medium,1
+SL-WIKI00098,Koder,Luteranci,foo,1883,T3,low,M,42385,short,1
+SL-WIKI00099,Koder,Marjetica,foo,1877,T2,medium,M,61988,medium,1
+SL-WIKI00103,Koder,Zvezdana,foo,1883,T3,low,M,31108,short,1
+SL-WIKI00111,Detela,PegaminLambergar,foo,1891,T3,high,M,62359,medium,1
+SL-WIKI00112,Detela,Velikigrof,foo,1885,T3,medium,M,45377,short,1
+SL-WIKI00122,Podmilšak,Žalostinveselje,foo,1870,T2,low,M,77352,medium,1
+SL-WIKI00126,Jaklič,Ljudskaosveta,foo,1892,T3,low,M,31611,short,1
+SL-WIKI00132,Maselj Podlimbarski,Gorskipotoki,foo,1895,T3,low,M,34687,short,1
+SL-WIKI00135,Janežič,Gospaspristave,foo,1894,T3,low,M,96474,medium,1
+SL-WIKI00136,Tavčar,4000,foo,1891,T3,high,M,34186,short,1
+SL-WIKI00172,Sket,MilkoVogrin,foo,1883,T3,low,M,76466,medium,1
+SL-WIKI00174,Mencinger,Abadon,foo,1893,T3,high,M,94344,medium,1
+SL-WIKI00187,Kersnik,Agitator,foo,1885,T3,high,M,26560,short,1
+SL-WIKI00194,Kersnik,NaŽerinjah,foo,1876,T2,high,M,32757,short,1
+SL-WIKI00216,Jurčič,Rokovnjači,foo,1881,T3,high,M,49692,short,1
+SL-WIKI00217,Jurčič,Slovenskisvetecinučitelj,foo,1886,T3,high,M,43280,short,1
+SL-WIKI00227,Pesjak,Beatindnevnik,foo,1887,T3,low,F,30130,short,1
+SL-WIKI00231,Pajk,Arabela,foo,1885,T3,low,F,39063,short,1
+SL-WIKI00234,Pajk,Dušneborbe,foo,1896,T3,low,F,26146,short,1
+SL-WIKI00240,Pajk,Slučajiusode,foo,1897,T3,medium,F,58279,medium,1
+SL-WIKI00273,Saleški Finžgar,Kvišku,foo,1899,T3,low,M,41688,short,1
+SL-WIKI00278,Detela,Trojka,foo,1897,T3,high,M,78672,medium,1
+SL-WIKI00279,Jurčič,Cvetinsad,foo,1877,T2,high,M,50548,medium,1
+SL-WIKI00310,Maselj Podlimbarski,Potresnapovest,foo,1903,T4,low,M,36767,short,1
+SL-WIKI00311,Maselj Podlimbarski,PovestIvanaPolaja,foo,1909,T4,low,M,48336,short,1
+SL-WIKI00325,Šorli,ŠtefanZaplotnik,foo,1916,T4,low,M,33931,short,1
+SL-WIKI00345,Levstik,BlagorodjedoktorAmbrožČander,foo,1909,T4,low,M,50219,medium,1
+SL-WIKI00352,Fatur,Komisarjevahči,foo,1910,T4,low,F,59327,medium,1
+SL-WIKI00354,Saleški Finžgar,Boji,foo,1915 1916,T4,high,M,36552,short,1
+SL-WIKI00355,Kraigher,Mladaljubezen,foo,1917,T4,high,M,78814,medium,1
+SL-WIKI00363,Detela,Maloživljenje,foo,1882,T3,low,M,56512,medium,1
+SL-WIKI00364,Detela,Novoživljenje,foo,1908,T4,high,M,43466,short,1
+SL-WIKI00368,Detela,Tujskipromet,foo,1912,T4,high,M,56749,medium,1
+SL-WIKI00373,Jaklič,Otatestament!,foo,1900,T4,low,M,57249,medium,1
+SL-WIKI00391,Zbašnik,Pisanamati,foo,1909,T4,low,M,70078,medium,1
+SL-WIKI00398,Cankar,MartinKačur,foo,1906,T4,high,M,40767,short,1
+SL-WIKI00401,Cankar,Naklancu,foo,1902,T4,high,M,59654,medium,1
+SL-WIKI00404,Cankar,Novoživljenje,foo,1908,T4,high,M,31643,short,1
+SL-WIKI00406,Tavčar,Izzakongresa,foo,1905 1906 1907 1908,T4,high,M,94994,medium,1
+SL-WIKI00410,Cankar,Tujci,foo,1901,T4,high,M,44260,short,1
+SL-WIKI00417,Pregelj,Tlačani,foo,1915 1916,T4,high,M,71735,medium,1
+SL-WIKI00421,Trošt,Temnioblaki,foo,1895,T3,low,M,32352,short,1
+SL-WIKI00425,Gruden,Navojvodskemprestolu,foo,1901,T4,low,M,32791,short,1
+SL-WIKI00452,Prelesnik,Našstarigreh,foo,1903,T4,low,M,63630,medium,1
+SL-WIKI00454,Prelesnik,Vsmrtnisenci,foo,1904,T4,low,M,71146,medium,1
+SL-WIKI00455,Malovrh,KraljMatjaž,foo,1904,T4,low,M,62083,medium,1
+SL-WIKI00456,Malovrh,Ljubezeninjunaštvastrahopetnegapraporščaka,foo,1910,T4,low,M,31249,short,1
+SL-WIKI00457,Malovrh,LjubezenKončanoveKlare,foo,1908,T4,low,M,45782,short,1
+SL-WIKI00458,Malovrh,Podnovimorlom,foo,1904,T4,low,M,66787,medium,1
+SL-WIKI00459,Malovrh,Strahovalcidvehkron,foo,1907,T4,low,M,92352,medium,1
+SL-WIKI00460,Malovrh,Vštudentovskihulicah,foo,1909,T4,low,M,49115,short,1
+SL-WIKI00461,Malovrh,ZadnjirodovineBenalja,foo,1909,T4,low,M,40327,short,1
+SL-WIKI00462,Malovrh,Zaljubljenikapucin,foo,1910,T4,low,M,32482,short,1
+SL-WIKI00473,Murnik,Grogaindrugi,foo,1895,T3,medium,M,68503,medium,1
+SL-WIKI00476,Murnik,NaBledu,foo,1917,T4,low,M,34406,short,1
+SL-WIKI00478,Levstik,Gadjegnezdo,foo,1918,T4,high,M,38471,short,1
+SL-WIKI00483,Levstik,Zasvobodoinljubezen,foo,1913,T4,low,M,126286,medium,1
+SL-WIKI00488,Zbašnik,Žrtve,foo,1901,T4,low,M,56261,medium,1
+SL-WIKI00496,Saleški Finžgar,Izmodernegasveta,foo,1904,T4,high,M,61974,medium,1
+SL-WIKI00497,Saleški Finžgar,Mojadušavasuje,foo,1903,T4,high,M,31908,short,1
+SL-WIKI00498,Saleški Finžgar,Sama,foo,1912,T4,high,M,50287,medium,1
+SL-WIKI00502,Fatur,Vburjiinstrasti,foo,1905,T4,low,F,35526,short,1
+SL-WIKI00506,Fatur,ZaAdrijo!,foo,1909,T4,low,F,102588,medium,1
+SL-WIKI00526,Murnik,HčigrofaBlagaja,foo,1911 1912 1913,T4,low,M,113106,medium,1
