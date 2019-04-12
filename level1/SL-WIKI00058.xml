@@ -20,7 +20,7 @@
             <measure unit="pages">113</measure>
          </extent>
          <publicationStmt xml:lang="en">
-            <p>Added to ELTeC <date>2019-01-17</date>
+            <p>Added to ELTeC <date>2019-04-12</date>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -56,7 +56,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change xml:lang="en" when="2019-01-17">
+         <change xml:lang="en" when="2019-04-12">
             <name>Tomaž Erjavec</name>: converted to ELTeC</change>
          <change when="2015-04-03">
             <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
@@ -67,14 +67,10 @@
    </teiHeader>
    <text xml:lang="sl">
       <body xml:lang="sl">
-         <pb n="1"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-001.png"/>
          <p n="SL-WIKI000581">Bilo je pred nekoliko meseci, ko sem lepo nedeljsko popoludne stal v pisarni pred svojo mizo ter pogledoval zdaj ven skozi okno proti jasnemu obnebju, zdaj zopet na kopo pisem in aktov, ležečih v predalih pred menój. Bil sem v onem dolgočasnem položaji, v katerem človek ne ve, česa bi se lotil, niti kaj bi storil, niti kam bi šel, da bi prosti čas jasnega nedeljskega popoludnéva pošteno porabil in — pobíl. Vsak človek ima take ure, v katerih nima gotovega opravka in v katerih mu tudi slučaj noče vplivati na voljo, da bi jo nagnil v to ali ono opravilo.</p>
          <p n="SL-WIKI000582">In tako sem, dejal bi, mehanično odprl par predalov pisalne mize ter jel pregledovati in premetávati lističe, pisma in zavitke, ležeče v silnem neredu po njih. Iskal nisem ničesa in tudi v red jih nisem spravljal; čemu tudi? Tu je bila še stara študentovska korespondenca, mladostne bedarije, sem ter tja že pozabljen opomin pozabljenega ali pa odpravljenega manihejca, krojačevi računi, nekoliko gimnazijalnih spričeval, par „zaljubljenih pisem“, katera sem, — kaj morem zato? — še jedenkrat vestno prečital, in v katerih je ležalo izjemno še nekaj suhih cvetic ali peres, — vse križem mi je sililo v roke. Dober spomin mi je skoro največ pomagal, da sem takoj vedel in znal, v katero dobo spadajo te ali one stvari — namreč ženska pisanja, saj ta so navadno brez datuma. Na jedenkrat se mi pokaže iz vsega papirnega kaosa rumen zavitek, in ko ga razganem, ugledam v njem malo posušeno, dobro ohranjeno cvetico <hi rend="spaced">cyclamen</hi>, ali kakor jej pravimo pri nas: <hi rend="spaced">korček</hi>. Osupnen sem obračal listič s cvetico na vse strani, — nisem vedel v prvih trenutkih, kam, v kateri čas, v katere dogodke bi jo dél. Pa tu doli v kotu je stalo nekaj zapisanega; bilo je iz Fausta:</p>
          <p n="SL-WIKI000583">HOMUNCULUS: Ein guter Rath ist auch niclit zu verschmäh’n.</p>
          <p n="SL-WIKI000584">MEPHISTOPHELES: — — — Wir wollen’s weiter seh’n.</p>
-         <pb n="2"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-002.png"/>
          <p n="SL-WIKI000585">To prebravšemu se je odprla mojemu spominu cela, dolga vrsta dogodkov, v katerih mi sicer ni bila nikdar odmenjena nobena aktivna uloga, kateri pa so mi vender zdaj vstajali s čudno, neumljivo silo pred duševnim očesom.</p>
          <p n="SL-WIKI000586">Položil sem zavitek s suho cvetlico vred nazaj v predál in jel sem pisati to povest.</p>
          <div>
@@ -84,8 +80,7 @@
                <hi rend="spaced">Borje</hi> je trg na Kranjskem, — imenovati ga hočemo tako, da pravega imena indiskretno ne izdamo, — šteje skoro tisoč prebivalcev ter je središče Borjanskega političnega okraja. Tu imamo okrajno glavarstvo, sodnijo in davkarijo in kolikor je še drugih po naši upravi potrebnih oblastev. Da trg ni brez župana in dekana, tega ni treba omenjati; celó finančna straža, ali kakor jej ljudstvo pravi, „iblajtarji“ so zastopani. Poleg teh uradnih dostojanstvenikov biva v trgu tudi primerno mnogo premožnih obrtnih in trgovskih rodovin, katerih smemo gledé izobraženja staviti kolikor toliko v jedno socijalno vrsto z uradnimi osobami. In kadar osnuje čitalnica v trgu veselico, pošlje tudi bližnja okolica, kjer biva po raznih gradovih in gradičih nekaj gospôde, doberšno število obiskovalcev.</p>
             <p n="SL-WIKI000589">Taka veselica, katera je bila naznanjena za pustno nedeljo zvečer v Borjanski čitalnici, ali da prav rečemo, — taka „beseda“ bila je uzrok, da je davkarski adjunkt Josip Megla hodil prejšnjo soboto popoludne tako zamišljen in očitno poln težkih skrbij po svoji mali sobi od vrat do jedinega okna in zopet nazaj od jedinega okna do vrat ter neprenehoma sezal si z razklenenimi prsti leve roke v svoje goste rumene lase.</p>
             <p n="SL-WIKI0005810">Z desnico pa se je pri vsakem desetem koraku potipal za vrat, okoli katerega si je bil ovil debel robec. Pri tem je poskušal pokašljevati ter poluglasno intonirati nizke in visoke glasove. Pa hripavi so bili vsi. In čim dalje je poskušal, tem obupneje je pogledoval proti stropu.</p>
-            <p n="SL-WIKI0005811">„Kaj bo, kaj bo!“ zajecal je nekolikrat, potipal se zopet za obezani vrat, z levico pa preril si lase ter potem melanholični <pb n="3"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-003.png"/> pogled vrgel na mizo pri oknu, kjer so ležale že tri prazne jajčje lupine. Potem pa je z globokim vzdihom obrnil pogled k tlom tja, kjer sta njegovi silo obširni nogi tičali v čisto novih za ples pripravnih čevljih. Od tod so mu silile oči na posteljo, kjer je ležala nova črna suknja, tako deviška, kakor jo je krojač dal iz svojih rok. Poleg nje pak je bilo videti par novih prav masleno rumenih rokavic in bel, tudi nov ovratnik, vse tako, kakor bi bilo na ogled razstavljeno. Pa še nekaj je bilo tam, in na istem je oko ubozega Josipa Megle s silnim veseljem in dopadenjem obviselo, a v drugem trenutku že tem bolj se zmračilo. Bil je to visok črn cilinder, nad navadno mero širokokrajen; svetil se je tako, da mu je tudi površen opazovalec lehko prisodil, da ga je še pred kratkim gladil in likal klobučar. Ta klobuk je Megla vzel čez nekoliko trenutkov melanholičnega pogledovanja varno s postelje ter stopil pred zrcalo in nastavil si ga jako skrbno na glavo. Poveznil se mu je skoro do ušes; a to Megle ni motilo.</p>
+            <p n="SL-WIKI0005811">„Kaj bo, kaj bo!“ zajecal je nekolikrat, potipal se zopet za obezani vrat, z levico pa preril si lase ter potem melanholični  pogled vrgel na mizo pri oknu, kjer so ležale že tri prazne jajčje lupine. Potem pa je z globokim vzdihom obrnil pogled k tlom tja, kjer sta njegovi silo obširni nogi tičali v čisto novih za ples pripravnih čevljih. Od tod so mu silile oči na posteljo, kjer je ležala nova črna suknja, tako deviška, kakor jo je krojač dal iz svojih rok. Poleg nje pak je bilo videti par novih prav masleno rumenih rokavic in bel, tudi nov ovratnik, vse tako, kakor bi bilo na ogled razstavljeno. Pa še nekaj je bilo tam, in na istem je oko ubozega Josipa Megle s silnim veseljem in dopadenjem obviselo, a v drugem trenutku že tem bolj se zmračilo. Bil je to visok črn cilinder, nad navadno mero širokokrajen; svetil se je tako, da mu je tudi površen opazovalec lehko prisodil, da ga je še pred kratkim gladil in likal klobučar. Ta klobuk je Megla vzel čez nekoliko trenutkov melanholičnega pogledovanja varno s postelje ter stopil pred zrcalo in nastavil si ga jako skrbno na glavo. Poveznil se mu je skoro do ušes; a to Megle ni motilo.</p>
             <p n="SL-WIKI0005812">„Oh, oh, kaj bo, če bom jutri takohripav!“ vzdihnil je zopet. Potem je stopil nekoliko korakov nazaj, snel cilinder, prijel ga ob robu s palcem in kazalcem desne roke, komolec pritisnil k telesu, ter tako klobuk pred sé moleč stopal lehkih nog proti zrcalu. Pred njim pak se je elegantno priklonil in potem zopet jako zadovoljno sam s seboj poveznil klobuk na glavo.</p>
             <p n="SL-WIKI0005813">„Vse bi bilo, le ta zagrljenost! Oh, moj tenor-solo!“</p>
             <p n="SL-WIKI0005814">V tem je nekdo burno odprl vrata ter planil, ne da bi pozdravil, v sobico s klobukom na glavi in z mokro ugaslo smodko v ustih.</p>
@@ -93,8 +88,6 @@
             <p n="SL-WIKI0005816">„I, kaj pa je?“ zinil je zamolklo, a naglo Megla, pozabivši v prvem trenutku svojega vratú.</p>
             <p n="SL-WIKI0005817">„Kaj? Igro, pomislite, igro je vrag vzel! A kaj vrag, ne vrag, nego jeziki, klepetulje so jo vzele. Gospodična Filipina Vrtačnikova je odpovedala; ona ne bo igrala stare vdove, ker je danes od dobre prijateljice zvedela, da je gospa Teranova dejala o svojem pohodu pri sodnikovih, da je gospodična Filipina najbolj pripravna za ulogo stare vdove. Križana nebesa, kaj čemo zdaj?“</p>
             <p n="SL-WIKI0005818">„Oh, kaj to?“ omeni tu davkarski adjunkt; „a petje, petje! — Pomislite, gospod <hi rend="spaced">Korén</hi>, jaz sem tako hripav, da jutri ne bom mogel peti. In ta lepi solo, ta krasna pesen!“</p>
-            <pb n="4"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-004.png"/>
             <p n="SL-WIKI0005819">Pri tem se zasuče proti oknu ter poskusi intonirati: „Bodi zdrava, domovina!“</p>
             <p n="SL-WIKI0005820">„Do jutri bode dobro,“ tolaži prišlec; „in če boste še hripavi, izbere se lahko druga pesen.“</p>
             <p n="SL-WIKI0005821">„Nikdar ne, solo mora biti; a kdo bo pel tenor-solo?“</p>
@@ -112,8 +105,6 @@
             <p n="SL-WIKI0005833">Megla je govoril to na videz nejevoljen, a skrben opazovalec bi bil lehko videl, da so mu ravno taki čevlji najbolj po volji, kakeršne mu je bil ustvaril čevljar.</p>
             <p n="SL-WIKI0005834">„Pa to je zdaj moderno!“ méni Koren.</p>
             <p n="SL-WIKI0005835">„A, kaj moderno — da bi mi bili le prav; a še tega ni zadel ta norec! Preveliki so mi. Dva para debelih volnatih nogavic sem moral obuti.“</p>
-            <pb n="5"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-005.png"/>
             <p n="SL-WIKI0005836">Megla se je silno lagal; še jednega para nogavic ni imel pod usnjem, nego kar na golo kožo je bil nove čevlje obul in to za tega delj, da bi jih drugi večer tako malo razvleknene láže obul, ker je vedel, da ga bodo tiščali. In tiščali so ga že grozno.</p>
             <p n="SL-WIKI0005837">Davkarski adjunkt je bil še mlad, komaj tri in dvajset leten mož, ne ravno neprijetnega, pa prav navadnega obraza, srednje postave, slok, a vender koščen in okoren. Izobraženje njegovo tudi ni sezalo daleč preko prvih gimnazijalnih razredov; — pa blagovoljni čitatelj bode imel še dovolj prilike, našega Meglo vsestransko spoznavati.</p>
             <p n="SL-WIKI0005838">Obiskovalec njegov, gospod Koren, kakor ga je Megla nazival, bil je v obče jednake vnanjosti, samo menj skrbno opravljen nego adjunkt, in tudi starejši od onega. Tu v trgu je opravljal službo občinskega tajnika, v kateri je po nedovršenih študijah in po večletnem potovanji iz jedne pisarne v drugo našel vsaj nekoliko mirno in varno zavetje.</p>
@@ -129,8 +120,6 @@
             <p n="SL-WIKI0005848">„Tem gospodom doktorjem je le do tega kaj, da so predsedniki; delajo naj pa drugi. No, naš doktor Hrast vsaj pleše; kako, — to je druga stvar, a grozno je vender. Zadnjič je trem gospodičnam na noge stopil, in jedni, bajè ravno Vrtačnikovi Filipini, obleko raztrgal! Trebalo bi, da se še malo plesati uči!“</p>
             <p n="SL-WIKI0005849">Megla je izustil to jako samosvestno, češ, jaz vender nisem tak!</p>
             <p n="SL-WIKI0005850">„Bi li ne hoteli z menoj k doktorju, da mu poročiva, kaj se je pripetilo?“ vpraša Koren. „Vi ste odbornik!“</p>
-            <pb n="6"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-006.png"/>
             <p n="SL-WIKI0005851">„Ni mogoče! V tem mrazu! Potem je moj glas pokopan za pol leta!“ zavrne Megla.</p>
             <p n="SL-WIKI0005852">„Jeden mora tjà; pojdem pa sam!“ meni oni; „oh pa — skoro bi bil pozabil; Vi imate dva para črnih hlač; ako se ne motim oboje v dobrem stanu; posodíte mi slabejši par k jutrajšnji besedi. Moje hlače skoro niso za rabo več; drugo imam vse v redu. Rokavice so sicer še od zadnjega pogreba, saj se domišljate, ko smo županovega fantička pokopavali, — a dobre bodo. Kdo pa pazi na to!“</p>
             <p n="SL-WIKI0005853">V tem je bil Megla že odprl kosten, jedin v sobi, in iz njega izvlekel dva para črnih hlač, katere je skrbno na vse strani preobračal.</p>
@@ -149,8 +138,6 @@
             <p n="SL-WIKI0005866">„Boletovi so si jo samo zato naročili, da bodo otroci pravilno nemški govorili; to se pravi, gospa Boletova jo je naročila, kajti njemu, gospodu, to ni posebno po volji. On je preveč národen.“</p>
             <p n="SL-WIKI0005867">„To je neumno!“ zavrne Megla; „ko bi imel jaz toliko premoženja, kakor ga ima Bolè, in ko bi imel otroke, jaz bi jim tudi naročil nemško odgojevalko!“</p>
             <p n="SL-WIKI0005868">„Pa lepa bi morala biti!“ smeje se Koren.</p>
-            <pb n="7"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-007.png"/>
             <p n="SL-WIKI0005869">„To je, da!“</p>
             <p n="SL-WIKI0005870">S tem je bil ta zanimljivi razgovor končan, kajti Koren je zaprl vrata za seboj ter naglo odšel.</p>
             <p n="SL-WIKI0005871">Megla pa si je pomêl v drugič roki in posmehljal se dvakrat. Očitno je mislil le na novo guvernanto. Postal je zopet pred svojo črno suknjo, a na jedenkrat obrnil se energično po sobi ter zamrmral hripavo: „Peti pa moram, to je zdaj gotovo!“</p>
@@ -160,14 +147,12 @@
          <div>
             <head>Drugo poglavje.</head>
             <p n="SL-WIKI0005874">Beseda na pustno nedeljo zvečer je bila jako dobro obiskana. Prostori Borjanske čitalnice so bili skoro premajheni, da bi ustrezali vsem potrebam mnogobrojnega občinstva. Taisto je bilo jednacih neprilik vajeno, in zato se je večina dobrovoljno dala stiskati in gnesti v tesni, zaduhli dvorani, ako smemo tako imenovati glavno sobo, v kateri se je vršila predstava. A Borjanje so jo tako nazivali, in torej njihova veljaj!</p>
-            <p n="SL-WIKI0005875">V ozadji te dvorane je bil napravljen primeren oder, in široka rudeča zavesa je zakrivala kulise radovednim očem. Pred odrom pak so bili nastavljeni v šestih vrstah preko cele sobe različni stoli in raznovrstne klopi. Kar je bilo novejših in elegantnejših, stali so v prvih vrstah, in te so zasedle gospe in gospodične; za njimi pak je razno moško občinstvo porabilo vsak prazen prostorček, in kdor je tu prepozno došel, stiskal se je ob stransko steno. Uhodna vrata, kjer je visok prag dajal jako ugodno stališče, zastavili so tukaj za prvo točko programa mladi in stari gledalci tako, da ni bilo lehko več prodreti v dvorano. A tu med vrati je bilo tudi prijetno. Kajti tobak kaditi je bilo v dvorani strogo prepovedano in odbornik Josip Megla je s paznim očesom izza kulise ali zagrinjala nadzoroval to prepoved. A tu med vrati in za njimi ta paragraf čitalničnih pravil ni užival tako stroge interpretacije, kakor notri med štirimi stenami. Zato pa so kadili tudi gospodje tam pred uhodom, kolikor se jim je ljubilo, ob jednem pa bili pazni poslušalci. Od ondot je vodil <pb n="8"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-008.png"/> širok s steklom zavarovan mostovž v druge čitalniške prostore, kateri so bili za take večere preustrojeni v gostilniške sobe.</p>
+            <p n="SL-WIKI0005875">V ozadji te dvorane je bil napravljen primeren oder, in široka rudeča zavesa je zakrivala kulise radovednim očem. Pred odrom pak so bili nastavljeni v šestih vrstah preko cele sobe različni stoli in raznovrstne klopi. Kar je bilo novejših in elegantnejših, stali so v prvih vrstah, in te so zasedle gospe in gospodične; za njimi pak je razno moško občinstvo porabilo vsak prazen prostorček, in kdor je tu prepozno došel, stiskal se je ob stransko steno. Uhodna vrata, kjer je visok prag dajal jako ugodno stališče, zastavili so tukaj za prvo točko programa mladi in stari gledalci tako, da ni bilo lehko več prodreti v dvorano. A tu med vrati je bilo tudi prijetno. Kajti tobak kaditi je bilo v dvorani strogo prepovedano in odbornik Josip Megla je s paznim očesom izza kulise ali zagrinjala nadzoroval to prepoved. A tu med vrati in za njimi ta paragraf čitalničnih pravil ni užival tako stroge interpretacije, kakor notri med štirimi stenami. Zato pa so kadili tudi gospodje tam pred uhodom, kolikor se jim je ljubilo, ob jednem pa bili pazni poslušalci. Od ondot je vodil  širok s steklom zavarovan mostovž v druge čitalniške prostore, kateri so bili za take večere preustrojeni v gostilniške sobe.</p>
             <p n="SL-WIKI0005876">A tudi te so se med seboj nekoliko razlikovale. Oprava prvim ni bila tako nova, ali rekel bi, elegantna kakor v zadnji sobi; v prvih dveh okorne mize in trdí, često leseni stoli; po mizah pa rudeči ali raznobarveni prtiči; v zadnji pa deloma mehki naslonjači ali vsaj obojani stoli in po malih okroglih mizah snežnobeli prti. Ob zadnji steni pod velikim zrcalom je bila pa pogrnena dolga miza, in na njej so stali trije veliki šopi cvetic v ukusnih vazah. Očitno je bil tu prostor odmenjen dostojanstvenikom, nižjemu občinstvu pa so bile posvečene prve sobe.</p>
             <p n="SL-WIKI0005877">Naših dveh znancev iz prvega poglavja nocoj ni bilo videti niti v dvorani med poslušalci, niti tu v gostilniških sobah. Oba sta imela posla dovolj za kulismi; kajti Josip Megla je bil izpil sinoči in danes toliko čaja in surovih jajc ter potil se po noči v postelji tako vrlo, da je nekako zadovoljen šel v besedo, prepričan, da bode z glasom izhajal; in ker iz početka besede nikdo ni bil naznanil, da se bode predstavljala druga igra, nego je ostala pisana na programu, ali pa nobena ne, nadejati se smemo, da je predsednik doktor Hrast ali celo Koren sam potolažil bil gospodično Filipino, ter da pričakuje zadnji zdaj oni važni trenutek, ko bo stopil v ulogi „doktorja Žrjava“ na oder.</p>
             <p n="SL-WIKI0005878">Improvizirane gostilniške sobe že med besedo niso bile prazne. V prvi sta sedela pri mizi v kotu dva tržana v družbi podučiteljevi; kajti ta, žal, ni imel toliko glasu, akopram je poučeval mladino v petji, da bi bil mogel sodelovati pri pevskih zborih v čitalnici, zato tudi ni rad poslušal petja v dvorani. V dragi sobi pomenkoval se je zemljiški knjigovodja z okrajnim tajnikom, in pozneje se jima je pridružil še poveljnik finančne straže. Vsem tem do besede ni bilo mnogo.</p>
             <p n="SL-WIKI0005879">V zadnji sobi pa, tam kjer so bile mize belo pregrnene, hodil je jeden gospod polagoma po sobi gori in doli ter pušil iz dolge lesene, s srebrom kovane pipe. Z jedno roko je držal dolgo češnjevo cev, drugo pa si je bil položil na hrbet ter tako počasi meril sobo s svojimi koraki. Kozarec piva na konci dolge mize pod zrcalom, iz katerega je storil potnik časi dva požirka, pa je pričal, da je bil tam zavarovan njegov sedež.</p>
-            <p n="SL-WIKI0005880">To je bil okrajni sodnik <hi rend="spaced">Majaron</hi>. Oblekel se ni bil praznično, nego opravljen je bil z debelo lovsko suknjo, zeleno obrobljeno in <pb n="9"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-009.png"/> nosil škornje z golenicami čez koleni. Pa ravno ta oprava je pristovala njegovemu zagorelemu licu. Gosti sivi lasje in dolga bela brada so mu podajali nekaj čestitega, akopram so ga njegove živahne oči kazale mlajšega, nego je bil v istini.</p>
+            <p n="SL-WIKI0005880">To je bil okrajni sodnik <hi rend="spaced">Majaron</hi>. Oblekel se ni bil praznično, nego opravljen je bil z debelo lovsko suknjo, zeleno obrobljeno in  nosil škornje z golenicami čez koleni. Pa ravno ta oprava je pristovala njegovemu zagorelemu licu. Gosti sivi lasje in dolga bela brada so mu podajali nekaj čestitega, akopram so ga njegove živahne oči kazale mlajšega, nego je bil v istini.</p>
             <p n="SL-WIKI0005881">Sodnik ni ostal dolgo sam v zadnji sobi. Začetni prolog nocojšnje besede, katerega je govorila mlada gospodična, bil je komaj gotov in glasnemu plosku še ni bilo konca, ko pride naglih korakov v sobo k sodniku črno opravljen gospod, držeč v jedni roki par belih rokavic, v drugi pa stisnen klak.</p>
             <p n="SL-WIKI0005882">„Izvrstno je bilo to, gospod sodnik!“ kliče že sredi druge sobe, ugledavši sodnika korakajočega mimo vrat. „Gospodična Márica je klasično deklamovala; ta sigurnost in ta prirojeni talent, škoda, da niste poslušali! O, od zdaj Vaše gospodične hčerke ne bodemo več izpustili, ta prvi poskus je pokazal, koliko se smemo nadejati o njej, in kako izvrstna moč nam je zdaj gotova! A zakaj niste poslušali v dvorani, gospod sodnik?“ Govornik je v tem obstal pred starim gospodom, ter z rokavicami, katere je držal v levici, švigal ob svoje stegno.</p>
             <p n="SL-WIKI0005883">Sodnik se je jako prijazno nasmehljal, svojo pipo snel s cevi ter iztrkal in izpraznil na tla.</p>
@@ -176,8 +161,6 @@
             <p n="SL-WIKI0005886">Tako govoreč položi došlec svoj klobuk na mizo ter ukaže točajki prinesti kozarec piva.</p>
             <p n="SL-WIKI0005887">Bil je primeroma še mlad mož, morda malo preko trideset let, živahnega gibanja in v svoji vnanjosti eleganten. Lepi obraz krasila mu je kratka temna brada in jednakobarveni kodrasti lasje, in ko bi lica njegovega okrog usten ne bila kazila nekakova mu nepristujoča poteza, imenovali bi ga jako simpatičnega moža.</p>
             <p n="SL-WIKI0005888">Sodnik je bil v tem sédel na konci mize, kjer je stal njegov kozarec, ter zadovoljno tlačil tobak iz obrobljenega mehurja v svojo pipo.</p>
-            <pb n="10"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-010.png"/>
             <p n="SL-WIKI0005889">„Da, da, pogum ima pač,“ povzame zopet sodnik pogovor, „saj sem jej vsak dan priporočal in govoril, da je le treba pogumno nastopiti; o, vedite, osem in štiridesetega leta sem tudi jaz deklamoval v ljubljanskem gledališči, in tedaj ...“</p>
             <p n="SL-WIKI0005890">„Da, da, pripovedovali ste mi že o tem,“ segne doktor sodniku v besedo: „deklamovali ste Preširnov „Krst pri Savici“!“</p>
             <p n="SL-WIKI0005891">„Res je! In tedaj so mi znanci in prijatelji svetovali ...“</p>
@@ -189,8 +172,6 @@
             <p n="SL-WIKI0005897">„Ne bojte se, gospod sodnik; zdaj bo jel drug veter pihati, in že piše; morda pojde celo Vaš predsednik jedenkrat še v kako čitalnico! Nič gotovega ne vemo!“</p>
             <p n="SL-WIKI0005898">„Nikar ne mislite, da se bojim; tega nikdar ne, gospod doktor!“ reče sodnik emfatično; „jaz sem dva in petdesetega leta z nadvojvodo Ivanom na Gorenjem Štajerskem ...“</p>
             <p n="SL-WIKI0005899">„Da, da, tudi to vem, gospod sodnik,“ povzame zopet naglo doktor besedo, da bi preprečil pripovest, katero je bil že morda petdesetkrat čul; „vem, kako sta familijarno občevala z nadvojvodo, ker ga niste poznali; in ko ste ga spoznali, Vas tudi ni strah obšel! In tudi zdaj sem uverjen in vem, kako možato zastopate svoje prepričanje.“</p>
-            <pb n="11"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-011.png"/>
             <p n="SL-WIKI00058100">„Pa boste videli, kakó mi bo to deklamovanje moje imenovanje preprečilo! Glejte, zakaj pa okrajni glavar ne hodi k našim besedam? Zakaj ostaje davkarski nadzornik doma?“</p>
             <p n="SL-WIKI00058101">„Drugi pa vender hodijo, in zato jih nikdo ne grize! Pred par leti morda, a zdaj se je čas izpremenil. In ko bi se kaj zgodilo, imamo vender naše poslance ...“</p>
             <p n="SL-WIKI00058102">Zdaj je bil sodnik s smehom na vrsti. „Za božjo voljo, gospod doktor! Ste li ...“ Mi ne znamo, kaj je nameraval sodnik reči, kajti vesel glas od vrat sem odrezal mu je besedo.</p>
@@ -206,8 +187,6 @@
             <p n="SL-WIKI00058112">„Ah, kakó?“ meni radovedno doktor.</p>
             <p n="SL-WIKI00058113">„Vse sem pripeljal! Ženo in gospodično! Ah, krasna je, — pravim ti!“</p>
             <p n="SL-WIKI00058114">„Soproga tvoja, to se ve da! Občudujem jo, odkar jo poznam!“ pritrdi veselo Hrast.</p>
-            <pb n="12"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-012.png"/>
             <p n="SL-WIKI00058115">„Ah, kaj boš govoril o moji ženi! Jaz menim gospodično Elzo! Našo novo guvernanto ali družabnico, ali kakor jo hočeš imenovati! Dva dni je že pri nas!“</p>
             <p n="SL-WIKI00058116">Doktor tudi zdaj ni druzega zinil, nego: „A —!“ akoravno je že včeraj zjutraj vedel, da je prišla k Boletovim mlada guvernanta.</p>
             <p n="SL-WIKI00058117">„Prijatelj, doktor! To ti je rasa! Urgermanisch, kakor imaš v knjigi pisano! Plavolasa, modrooka — in pomisli, obrvi ima temne, — no, le počakaj; zdaj sta obe v dvorani, a predstavi bo kmalu konec, potem boš videl!“</p>
@@ -222,8 +201,7 @@
             <p n="SL-WIKI00058126">„Da, Megla, Pepe Megla!“ pritrdi Hrast.</p>
             <p n="SL-WIKI00058127">„Torej ta ji je izpeljal na prvo vrsto sedežev. Ti ne moreš do njiju, zatorej počakaj, — predstava mora biti vsak trenutek končana!“</p>
             <p n="SL-WIKI00058128">„Kako pač pridete do tega, da jemljete Nemko v hišo?“ oglasi se zopet sodnik. „Tako naroden mož, kakor ste Vi!“</p>
-            <p n="SL-WIKI00058129">„Vidite, gospod sodnik, to pač pride tako, ako žena hoče!“ méni dobrovoljno Bolè. „Moja soproga želi, da bi otroci pravilno nemški govorili, in francoščine je tudi treba! Nemški naj bi govorili tisti „ü“, tako kakor naši Ribničanje, kadar imenujejo „krüh“! Jaz <pb n="13"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-013.png"/> sem jej tudi svetoval, naj si izbere kakega ribniškega dekleta, toda zastonj!“</p>
+            <p n="SL-WIKI00058129">„Vidite, gospod sodnik, to pač pride tako, ako žena hoče!“ méni dobrovoljno Bolè. „Moja soproga želi, da bi otroci pravilno nemški govorili, in francoščine je tudi treba! Nemški naj bi govorili tisti „ü“, tako kakor naši Ribničanje, kadar imenujejo „krüh“! Jaz  sem jej tudi svetoval, naj si izbere kakega ribniškega dekleta, toda zastonj!“</p>
             <p n="SL-WIKI00058130">„Kje pa je doma ta Vaša guvernanta?“ vpraša sodnik.</p>
             <p n="SL-WIKI00058131">„V Renski provinciji! Katoličanka je pač!“</p>
             <p n="SL-WIKI00058132">Tu se obrne Bolè k doktorju.</p>
@@ -240,24 +218,18 @@
             <p n="SL-WIKI00058143">„Zakaj? Kako?“ meni Márica.</p>
             <p n="SL-WIKI00058144">Sodnik ni znal odgovora, ker ni bil poslušal hčerinega deklamovanja; a drugi gostje, ki so zdaj vstopili, rešili so ga iz zadrege.</p>
             <p n="SL-WIKI00058145">Adjunkt Megla je prihitel pred dvema damama ter urejal stole pri dolgi mizi pod zrcalom. Sodnik je ozrši se k vratom naglo vstal.</p>
-            <pb n="14"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-014.png"/>
             <p n="SL-WIKI00058146">„Pipo bi bil tudi lehko doma pustil! In črno suknjo bi bil tudi lehko oblekel! In te škornje! Da se ne sramuješ!“ šepetala je nejevoljno soproga njegova. A on se ni zmenil zato. Z neko mladostno gibčnostjo je šel proti vratom, kjer sta bili vstopili dve dami. Tudi Bolè se je približal: za gospema pa je stal doktor Hrast.</p>
             <p n="SL-WIKI00058147">Predstavljanje se je hitro zvršilo, in sodnik je uljudno gospé Boletovi poljubil roko, drugi pa, katero je Bolè imenoval „gospodično Elzo Müllerjevo“, rekel prijazno frazo. Pipo je pri tem pač vzel iz ust, a iz rok je ni dal.</p>
             <p n="SL-WIKI00058148">Doktor Hrast in adjunkt Megla seznanila sta se bila z damama očitno že v dvorani. Vsa družba je sedla okrog dolge mize in sodnik se je pomaknil v istini na stol poleg Boletove guvernante. Doktor Hrast jej je sedel nasproti in drugi so se uvrstili, kakor jim je velel ravno slučaj. Adjunkt Megla je zabaval sodnikovo hčerko po svoje in gospa sodnikova si je prisvojila sedež poleg Boletove gospe. Bolè ni imel stalnega prostora; ob drugem konci mize pa so se naselili drugi gostje.</p>
             <p n="SL-WIKI00058149">S prva je vladala nekoliko minut ona sitna tišina, katera nastopi vselej, ako se snidejo v tesni družbi znani elementi z neznanimi in kadar so vse navadne uvodne fraze dogotovljene.</p>
             <p n="SL-WIKI00058150">Prijazna, morda tridesetletna soproga Boletova je bila jako lepa dama in ukusna njena obleka jo je storila še zanimljivejšo. Pa denes so bile obrnene vse oči v njeno družabnico, ali, kakor jo je sama imenovala, guvernanto, in celó skrbni in priljudni doktor Hrast, ki je bil do zdaj vselej njen sosed pri tej mizi po čitalničnih besedah, presedel se je bil nocoj na nasprotno stran.</p>
             <p n="SL-WIKI00058151">In ta nemška guvernanta?</p>
-            <pb n="15"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-015.png"/>
             <p n="SL-WIKI00058152">Bila je plavolasa, modrooka, kakor je pripovedoval malo prej Bolè, in obrvi je imela res temné. Nekaj izrednega, duhovitega jej je sevalo s krasnega obraza, in kadar je govorila, legel je vselej lahek smehljaj okrog drobnih usten. Tudi vse drugo na njej je bilo lepo, pravilno: srednje veliki, gibčni, sloki, a vender polni život, mali drobni roki in to sigurno, skoro samosvestno, a vender tako naravno in pohlevno vedenje — vse to je storilo, da se je zdela v kratkem vsem stara znanka.</p>
             <p n="SL-WIKI00058153">Po besedi je bil navadni ples v čitalnični dvorani; a Bolétova gospa se ga nocoj ni hotela udeležiti in tudi Elza je bila izjavila, da sploh ne pleše.</p>
             <p n="SL-WIKI00058154">Okrajni sodnik je bil prisedši poleg guvernante svojo pipo prislonil ob zid za seboj; a čez četrt ure si je pridobil spet toliko poguma, da jo je izvlekel z mehurjem vred na dan ter jo nonšalantno zapalil. Hudi, karajoči pogledi njegove soproge ga niso brigali.</p>
             <p n="SL-WIKI00058155">Tudi doktor Hrast je jako oživel, in gospa Bolétova je nekako nezadovoljno spoznala, da v njeni družbi še ni bil nikdar tako zabaven; da, celo duhovit je bil nocoj v svojem živem razgovoru.</p>
             <p n="SL-WIKI00058156">Ta se je sukal s prva okrog razlike običajev in razmer pri nas in v Nemcih ob Reni, v domovini Boletove guvernante. Sodnik Majaron je skoro več povedal o tem, nego gospodična Elza, kedaj in kako se tamkaj znanci obiskujejo, kaj in kako se tamkaj kuha ter obeduje: bila je to pač stara navada njegova, da je vse najbolje vedel in znal.</p>
             <p n="SL-WIKI00058157">Govorili so se ve da nemški, in celo gospa Boletova, ki je poskusila parkrat ostentativno, in celo proti svoji navadi, slovenski govor z doktorjem Hrastom, ostala je ž njim na cedilu.</p>
-            <pb n="16"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-016.png"/>
             <p n="SL-WIKI00058158">Megla je bil nekoliko časa ostal pri mizi; ko pa so zadoneli prvi glasovi godbe iz plesalne dvorane, ušel je s svojo sosedo, sodnikovo hčerjo, v dvorano. Pa vrnil se je kmalu; jezilo ga je, da Nemka ne pleše, kajti tu se je želel pokazati mojstrom.</p>
             <p n="SL-WIKI00058159">Kratek pomolk v razgovoru je porabil zdaj, da bi spričal vsaj svojo navzočnost, ter je vprašal Nemko:</p>
             <p n="SL-WIKI00058160">„Kako Vam je nocojšnja beseda dopala?“</p>
@@ -275,8 +247,6 @@
             <p n="SL-WIKI00058172">„Zakaj ne,“ reče ona ter vzdihne počasi trepalnice; zrla je med pogovorom na plošček pred se. „Pa kako bom pela slovenski?“</p>
             <p n="SL-WIKI00058173">„Jaz Vas bom naučil!“ vzklikne zdaj naglo sodnik; „ne peti, tega ne umem in ne znam, pa slovenski govoriti Vas bom naučil. Tu je moja roka! Kedaj pa pričneva?“</p>
             <p n="SL-WIKI00058174">„In tu je moja!“ odgovori veselo Elza ter poda sodniku roko; „takoj lehko, ako želite! Jaz sem silo ukaželjna.“</p>
-            <pb n="17"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-017.png"/>
             <p n="SL-WIKI00058175">„Dobro!“ kliče sodnik ter ne izpusti njene roke. „Začniva pri glagolih! Ravno tako, kakor v šoli! Amo, amas — Recite: ljubim, ljubiš —“</p>
             <p n="SL-WIKI00058176">Guvernanta poskuša ponavljati, a drugi se smejejo.</p>
             <p n="SL-WIKI00058177">„Pa kaj pomenijo te besede?“ vpraša. „Uganila bi morda!“</p>
@@ -297,8 +267,6 @@
             <p n="SL-WIKI00058192">Guvernanta se je bila pri tem s svojimi modrimi očmi ozrla vanj in pogleda njijina sta se za trenutek srečala.</p>
             <p n="SL-WIKI00058193">„Oh, gospod doktor,“ reče zdaj Elza ter zre na pahljač, katerega vrti v rokah; „gospod Bolè se jako rad šali, in veseli ga, da mu dajemo nekoliko povoda.“</p>
             <p n="SL-WIKI00058194">Pogledala je zopet Hrasta.</p>
-            <pb n="18"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-018.png"/>
             <p n="SL-WIKI00058195">„Stvar ni tako resna!“ meni s fino ironijo Bolè; „kakor ste me Vi, gospodična Elza, po dvednevni izkušnji analizirali, takega me poznajo prijatelji že leta in leta.“</p>
             <p n="SL-WIKI00058196">Guvernanta, ki je jedina čutila lahek porogljiv naglas v besedah Boletovih, zarudela se je malo, a vender dejala veselo in skoro naivno:</p>
             <p n="SL-WIKI00058197">„Ne dvojim o tem!“</p>
@@ -312,8 +280,6 @@
             <p n="SL-WIKI00058205">Drugi so ga bili pač navajeni, in za tega delj mu nihče ni resno ugovarjal.</p>
             <p n="SL-WIKI00058206">„Pa jednemu naših prvih mož v trgu vender pristuje, da se udeleži take domače veselice,“ pravi Hrast malo porogljivo.</p>
             <p n="SL-WIKI00058207">„Ah!“ deje oni, ne da bi čutil zasmeh doktorjev, „jaz sem že mnogo petja čul in mnogo predstav po gledališčih videl! In brez mene tudi izhajate.“</p>
-            <pb n="19"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-019.png"/>
             <p n="SL-WIKI00058208">„To ni lojalno, prijatelj! Treba je drugim dobrega vzgleda!“ reče Bolè.</p>
             <p n="SL-WIKI00058209">„E, kaj lojalno, lojalno —“ ponavlja Meden ter pije svoje pivo. „Kaj je meni do tiste vaše slovenščine? To ni nič praktičnega, nič koristnega; kdo pa ima kaj od vsega tega?“</p>
             <p n="SL-WIKI00058210">„Se ve da,“ smeje se Bolè; „svojih par sto tisočij z golo slovenščino ne boš podvojil. Pa o tem tudi ni govora zdaj.“</p>
@@ -330,8 +296,6 @@
             <p n="SL-WIKI00058221">„Da, včeraj sem videl dva gori pod Leskovim Brdom. Sprehajal sem se, in moj Hektor ja je izvohal.“</p>
             <p n="SL-WIKI00058222">„Je li to v tem času tako čudno?“ vpraša Elza, na pol v sodnika in na pol v Medena obrnena.</p>
             <p n="SL-WIKI00058223">„Se ve da!“ reče naglo ta, vesel, da ima priliko besedo vrniti svoji novi znanki, kajti premišljeval je bil že dolgo, kako jo ogovoriti; „zajke imajo mlade še le marca meseca!“</p>
-            <pb n="20"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-020.png"/>
             <p n="SL-WIKI00058224">„Oh, gospodična, kaj ste storili?“ oglasi se sodnikova soproga; „tako zatvornico ste odprli, da Vam ne bo mogoče več te lovske povodnji ustaviti!“</p>
             <p n="SL-WIKI00058225">„Istina, istina!“ pritrdi s smehom Bolè, — „„die Greister, die ich rief“, boste dejali! Žalostno je le to, da mi na pamet vemo vse te lovske povesti, katere boste Vi zdaj čuli.“</p>
             <p n="SL-WIKI00058226">„Molči, prijatelj!“ reče Hrast s komično resignacijo. „Tudi gospica Elza ne bo ušla svoji usodi.“</p>
@@ -350,15 +314,12 @@
          </div>
          <div>
             <head>Tretje poglavje.</head>
-            <p n="SL-WIKI00058239">Drugega jutra se je probudil doktor Hrast proti svoji navadi jako pozno. Jasno zimsko solnce mu je sevalo že zdavnaj skozi <pb n="21"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-021.png"/> zmerzle šípe v malo, lepo opravljeno sobo, ko je odprl oči ter naglo skočil iz postelje. Opravljal se je počasi, in akoravno je vedel, da ga že čakajo stranke, iskal je vender zdaj to, zdaj ono, ter ni mogel končati svoje toalete. Bil je silno razmišljen, kakor mladenič dvajsetih let v jutru po lepem, zabavnem plesu, na katerem mu je bila prilika in volja plesati, dvoraniti, ali koketirati večinoma le z jedno izvoljeno plesalko. Naj počenjajo, kar hočejo, taki ljudje tisti dan po plesu, razmišljeni in nervozni so, in popoludne vsakega istih lehko vidiš in srečaš v ulicah, kjer njihova plesalka stanuje, ali po katerih ima svoj navaden pot. Plašno hodi tak mladenič, in ako si znanec njegov, ognil se te bo, ako mu bode moči; če ne pa se bo zarudel, sluteč, da poznaš njegove naméne.</p>
+            <p n="SL-WIKI00058239">Drugega jutra se je probudil doktor Hrast proti svoji navadi jako pozno. Jasno zimsko solnce mu je sevalo že zdavnaj skozi  zmerzle šípe v malo, lepo opravljeno sobo, ko je odprl oči ter naglo skočil iz postelje. Opravljal se je počasi, in akoravno je vedel, da ga že čakajo stranke, iskal je vender zdaj to, zdaj ono, ter ni mogel končati svoje toalete. Bil je silno razmišljen, kakor mladenič dvajsetih let v jutru po lepem, zabavnem plesu, na katerem mu je bila prilika in volja plesati, dvoraniti, ali koketirati večinoma le z jedno izvoljeno plesalko. Naj počenjajo, kar hočejo, taki ljudje tisti dan po plesu, razmišljeni in nervozni so, in popoludne vsakega istih lehko vidiš in srečaš v ulicah, kjer njihova plesalka stanuje, ali po katerih ima svoj navaden pot. Plašno hodi tak mladenič, in ako si znanec njegov, ognil se te bo, ako mu bode moči; če ne pa se bo zarudel, sluteč, da poznaš njegove naméne.</p>
             <p n="SL-WIKI00058240">Naš znanec še ni bil z napravljanjem toliko gotov, da bi bil mogel obleči suknjo, ko je nekako jezno zapazil, da že v tretje, odkar je iz postelje, resno premišljuje, ali mu bode pač mogoče iti popoludne na Drenovo k Boletovim. Za vsakim teh treh premišljevanj pa je vstal hudoben strah v podobi vprašanja: „Ali ne bodeta Bolétova kaj slutila?“</p>
             <p n="SL-WIKI00058241">Nekako jezno in sarkastično se je nasmehnil, ko je bil ujel samega sebe pri tem meditiranji, ter pozvonil strežajki, da mu prinese zajutrek. „Saj vender nisem sedemnajst let star!“ zamrmral je poluglasno.</p>
             <p n="SL-WIKI00058242">Doktor <hi rend="spaced">Ivan Hrast</hi> je bil sin kmetskih roditeljev. Na Dunaji je dovršil svoje vseučiliške študije, in ker se je moral živiti sam, kajti roditelji ga niso mogli podpirati, služil je za učitelja v raznih aristokratičnih in bogatih rodbinah, kjer si je bil poleg večkrat grenkega kruha pridobil ono sigurnost in oni vsestranski takt v vedenji, kateri ga je povsod označeval. Nič na njem ni pričalo, da je kmetski sin.</p>
             <p n="SL-WIKI00058243">In v Borji je bil stoprav pred dobrim letom ustanovil svojo pisarno, in kmalu je bil tako rekoč prva osoba v socijalnem življenji malega trga.</p>
             <p n="SL-WIKI00058244">Oženjen ni bil, in vse matere nežnih, za možitev zrelih hčerá so gledale skrbno za mladim doktorjem. Pa on je bil gladek in mrzel, ko led. Še tega ni mogel o njem nikdo povedati, je li bil kedaj zaljubljen ali ne. Zahajal je rad v žensko družbo, a to je bilo tudi vse. Ker je z gospo Boletovo najrajši občeval, hoteli so mu hudobni jeziki tu nekaj podvreči, ali tudi to ni bilo mogoče.</p>
-            <pb n="22"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-022.png"/>
             <p n="SL-WIKI00058245">Dopoludanska opravila so bila končana, obed in po njem črna kava v čitalnični bralni sobi tudi rešena, in doktor Hrast se je sprehajal, kakor je bila navada njegova, kadar ni imel nujnega posla v pisarni, po sneženi cesti, ki je držala iz trga na južno stran proti nizkim, obrastenim holmom, ki so tam ne posebno oddaljeni zapirali obzorje.</p>
             <p n="SL-WIKI00058246">Lep zimsk dan je bil. Sneg, ki je na debelo pokrival zemljo, lesketal se je, da je jemal vid očem, in raz drevje in grmovje kraj ceste je sipalo ivje, bliščeče v solnčnih žarkih kakor sreberni prah. Po polji se je preletovala tolpa vran, za plotom pri cesti pa so čivkale seničice, in cela krdela ščinkovcev in strnadov so sédala na bližnje osamljene hraste.</p>
             <p n="SL-WIKI00058247">Doktor je imel časi tudi svoje poetične ure, kakor jih je rad sam imenoval, in tako uro mu je bila usoda danes naklonila, nikakor ne sentimentalne. Za to sploh dan ni bil ugoden, in Hrast takih čutil ni poznal. Veselo, z lahko nogo je gazil zdaj sneg, zdaj zopet podrknil preko zamrzle mlake sredi ceste, potem pa lovil se po razoranem tiru, in ko bi si bil v svesti, da ga nihče ne čuje, zaukal bi bil morda na glas. Podoben je bil skoro bolj razposajenemu študentu, nego advokatu. In kaj ga je od jutra sem tako preustrojilo, od jutra, katerega je bil vstal tako razmišljen, tako nervozen?</p>
@@ -367,8 +328,6 @@
             <p n="SL-WIKI00058250">Za seboj na levi strani je bil že pustil graščinico Medenovo, po kateri je nosil trg svoje ime, in tu pred njim na desni se je pokazalo izza ovinka na nizkem holmu posestvo Boletovo: grad Drenovo. V dolini kraj dokaj močnega potoka pa so stale velike žage in tovarna za parkete.</p>
             <p n="SL-WIKI00058251">Hrast je vedel, da gospodarja najde o tej uri gotovo v gradu, obrnil se je takoj tja, ne da bi krenil proti tovarni.</p>
             <p n="SL-WIKI00058252">Našel ga je samega, čitajočega časopise.</p>
-            <pb n="23"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-023.png"/>
             <p n="SL-WIKI00058253">„O, lupus in fabula!“ vzkliknil je Bolè ugledavši doktorja; „prav na té sem mislil v tem trenutku ter želel s teboj govoriti!“</p>
             <p n="SL-WIKI00058254">„Kaj pa je vender nujnega?“ vpraša doktor skoro osupneno.</p>
             <p n="SL-WIKI00058255">„Le sedi, in prižgi si smodko! Ali hočeš rajši pipo?“</p>
@@ -387,8 +346,6 @@
             <p n="SL-WIKI00058268">Doktorjevi poskusi, kazati malomaren obraz, bili so jako komični; k sreči je bil pošel Boletu zopet ogenj v pipi; zato med užiganjem ni pogledal prijatelja.</p>
             <p n="SL-WIKI00058269">„Ah!“ zinil je doktor čez nekoliko časa.</p>
             <p n="SL-WIKI00058270">„Dopoludne je bil pri meni, saj veš, da imava nekaj skupne kupčije, in pri tej priliki je povabil ženo mojo, guvernanto in otroke k sebi, da jim pokaže svoje umetno vrtnarstvo in novo tóplico, katero je letos zidal. Žena ni šla, a poslali smo Elzo z otroki tja.“</p>
-            <pb n="24"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-024.png"/>
             <p n="SL-WIKI00058271">Ko je bil zvedel doktor to novost, polastilo se ga je nekaj, kakor ljubosumnja; vsa dobra volja ga je minula in ko je Bole trdovratno poprijel se zopet razgovora o politiki, postal je oni jako redkobeseden. Koncem je preskočil na naglem k pravdni stvari, katero si je bil opoludne izvolil kot povod svojega pohoda na Drenovem ter se potem kmalu poslovil pri prijatelji.</p>
             <p n="SL-WIKI00058272">Le ta je imel tudi svoja opravila in ga ni zadrževal.</p>
             <p n="SL-WIKI00058273">Na poti domov je ugledal Hrast že od daleč Boletovo guvernanto z otroki vred. Meden jih je pa spremljeval. Ona dva sta hodila po časi, le otroka, dve dekletci, stari po osem in devet let, skakali sta po cesti in po snegu kraj ceste ter se do dobrega kepali. Solnce je sevalo z zadnjimi žarki čez belo planoto.</p>
@@ -403,16 +360,12 @@
             <p n="SL-WIKI00058282">„Fino dekle to!“ reče zopet Meden, ter si máne roki; „jaz ne poznam tu blizu nobene take!“</p>
             <p n="SL-WIKI00058283">„Vi se boste še zaljubili,“ pravi doktor, „akoravno vedno pridigujete, da vse ženstvo ni počenega groša vredno!“</p>
             <p n="SL-WIKI00058284">„Zaljubil? He he, — jaz poznam guvernante; in ta je taka, kakor druge!“ smeje se oni.</p>
-            <pb n="25"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-025.png"/>
             <p n="SL-WIKI00058285">„Tepec domišljavi!“ mislil si je Hrast; glasno pa je dejal: „Ste se li že danes o tem prepričali?“</p>
             <p n="SL-WIKI00058286">„Vse so koketne in gledajo, kje bi koga ujele!“</p>
             <p n="SL-WIKI00058287">„O Elzi tega ne morete trditi, gospod Meden!“ oporeka Hrast skoro nejevoljno.</p>
             <p n="SL-WIKI00058288">„Ko bi Vas ne poznal tako dobro, dejal bi, da ste se Vi že zaljubili v njo, ker jo tako iskreno zagovarjate,“ kriči oni ter se na glas zagrohota.</p>
             <p n="SL-WIKI00058289">Hrast bi se bil skoro zarudel. Nasmehnil se je posiljeno, a ker sta bila dospela na razpotje, od koder je vodila stranska pot na Medenovo posestvo, prihranjen mu je bil odgovor.</p>
             <p n="SL-WIKI00058290">Poslovila sta se oba s smehom na ustnih.</p>
-            <pb n="26"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-026.png"/>
             <p n="SL-WIKI00058291">Doktor je bil storil komaj dobrih sto korakov, ko je postal priča čudnemu, smešnemu prizoru.</p>
             <p n="SL-WIKI00058292">Pod malim klancem, čez katerega je držala tukaj cesta, vil se je potočec in preko istega je vodil lesen most z velikimi okornimi držaji. Onikraj mostu je stal, ali bolje, upiral se je suh, koščen konj mučnim poskusom svojega jahalca, da bi ga spravil čez most. Bodi si, da konj sploh ni rad zaupával svojih kostij lesenim mostovom, bodi si, da ga je kaj druzega strašilo: dalje ni hotel ne z lepo ne z grdo. Jezdec ga je udrihal po suhih plečih in krčevito stiskal mu pete ob život, pa zaman; konj je jel po rakovo stopati nazaj, in ker je bil ob cesti širok jarek, domislil se je nevajeni jahač, da je morda možno prekopicniti se s konjem vred vznak vanj. Skočil je torej raz sedla, prijel konja tesno za brzdo ter udaril ga z bičem po rebrih in tako tiral ga peš čez most.</p>
             <p n="SL-WIKI00058293">Doktor je bil obstal vrhu klanca in se smijal na glas, spoznavši pogumnega jezdeca in njegovo rosinanto.</p>
@@ -422,8 +375,6 @@
             <p n="SL-WIKI00058297">„Vi se menda bolj za svoje noge bojite, nego za konjeve!“ smeje se Hrast.</p>
             <p n="SL-WIKI00058298">Med tem je lezel Megla zopet počasi v sedlo.</p>
             <p n="SL-WIKI00058299">„Kje ste si pa izposodili to šentano kljuse? Kdo Vam je je zaupal?“</p>
-            <pb n="27"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-027.png"/>
             <p n="SL-WIKI00058300">„Izvrsten konj je to!“ odgovori Megla, „ko bi le časi kaj ovsa videl! Kurentov konj je!“</p>
             <p n="SL-WIKI00058301">„Kupite mu ga Vi za plačilo, da Vas tako lepo nosi!“ šali se Hrast. „Kam pa hočete vender tako pozno?“</p>
             <p n="SL-WIKI00058302">„Prej nisem mogel; v pisarni sem moral sedeti! Po plesu pa je treba malo čistega zraka. Tu doli bom jahal proti Drenovemu.“</p>
@@ -441,8 +392,6 @@
             <p n="SL-WIKI00058311">„Kaj pa je za božjo voljo?“ smeje se Hrast, „ali je Turek pod Tvojim gradom, ka-li?“</p>
             <p n="SL-WIKI00058312">„Nič boljšega, prijatelj! Volka imamo v Drenovskem gozdu, velikanskega volka, in jutri udarimo nanj!“</p>
             <p n="SL-WIKI00058313">„Jutri? Kje bo volk že jutri!“</p>
-            <pb n="28"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-028.png"/>
             <p n="SL-WIKI00058314">„Ne daleč! Navadil se je naše okolice. Ves teden prihajajo kmetje k meni pravit, da ga sledé; včeraj je vzel gori nad Leskovim Brdom tri ovce iz Brnotovega hleva, in danes je že hodil okrog naše pristave. Jaz sam sem videl sled v snegu.“</p>
             <p n="SL-WIKI00058315">„Torej jutri,“ deje Hrast; „ali imaš dovolj gonjačev?“</p>
             <p n="SL-WIKI00058316">„Na izbor! Govoril sem z okrajnim glavarjem, in ta razpošlje danes oklic po bližnjih vaseh. Ta gonja se napravi uradno. Zvečer se ve da, boste pri meni malo počíli — če volka dobimo ali ne. Ti prideš gotovo?“</p>
@@ -457,8 +406,6 @@
             <p n="SL-WIKI00058325">Hrast je sedel zopet k svoji mizi ter pisal dalje; pa ne več nego dve vrsti, kajti kar sredi stavka se mu je ustavilo pero. Vrgel je je na mizo ter stopil pred svojo malo, lepo urejeno knjižnico, in jel po spodnjih predalih prebirati in premetavati knjige in zvezke. Dolgo je iskal; naposled izvleče vender zaprašeno knjigo tam iz zadnjega kota: to je bila iskana slovenska slovnica. Obriše jo lepo in položi na svojo mizo.</p>
             <p n="SL-WIKI00058326">Pa tudi tu ni imela miru.</p>
             <p n="SL-WIKI00058327">Kajti doktor je večkrat ponehal v svojem delu, vzel knjižico v roke, naslonil se v stol nazaj, ter mehanično prebiral liste. Gledal je, da li nima slovnica kaj nerodnih obstranskih opazk in proizvodov gimnazijalčeve fantazije; kajti knjiga je bila še iz one dobe.</p>
-            <pb n="29"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-029.png"/>
             <p n="SL-WIKI00058328">Adjunkt Megla ga je zmotil v tem opravilu. Tudi on je bil vabljen na volčji lov, toda puške ni imel. Doktor jih je imel več, in jedno si je izprosil zdaj Megla.</p>
             <p n="SL-WIKI00058329">V tem pa je zazvonilo poludne.</p>
             <p n="SL-WIKI00058330">Druzega jutra okoli devetih je bilo zbranih mnogo lovcev in še več gonjačev, kmetov iz okolice, nad Leskovim Brdom, to je dobro uro hoda iz Borja, v gorah, ki se raztezajo na levo od Boletove graščine. Vsi so ravnali jako tiho, in ko so odhajali polagoma na vse strani na odkazana jim mesta, molčali so vestno. Glavni reditelj in vodja te vojske je bil Bolè, in poznali so ga vsi ko strogega poveljnika. Zastavljali so zaporedom več dolin in jarkov, nahajali tudi v snegu dovelj sledu o volku, a volka samega ni bilo na dan. Kosmatinec je sigurno čutil nevarnost ter jo o pravem času popihal čez gore.</p>
@@ -466,8 +413,7 @@
             <p n="SL-WIKI00058332">Pa ko se je popoludne vedno bolj kazalo, da je vsa gonja zaman in da volka gotovo ni več blizu tod, postajali so oni plašni lovci tudi bolj pogumni in neutrudljivi. Meden je vpil, da treba še v ta in v oni kotel. Megla mu je pa pritrjeval; in taka prememba se je godila z mnogimi.</p>
             <p n="SL-WIKI00058333">Pa solnce, katero je svetilo lovcem ves dan, stalo je že na obzorji, in pot do Boletovega gradiča, kamor so bili namenjeni vsi gospodje, ni bila kratka. Obrnili so se torej proti domu.</p>
             <p n="SL-WIKI00058334">Korakali so čez mali greben, ki je bil na obeh straneh gosto porasten z nizkim grmovjem. Adjunkt Megla je bil z nekaterimi drugimi mladimi gospodi že daleč spredaj, ostala družba je šla počasi za njim. Večina gonjačev pa je lezla globoko pod grebenom po ozkem jarku proti dolini. Hipoma zaženo gonjači silen krik, da so lovcem ob jednem noge zastale.</p>
-            <p n="SL-WIKI00058335">„To je volk!“ vzkliknil je tajnik Koren, ki je stal pred Meglo. Le-ta je silno obledel. A v jednem trenutku so imeli vsi že puške napete razprostrši se po robu. Megla je tekel nazaj, kakih dvajset korakov ter obstal za široko skalo; gori malo nad njim se je prikazal Bolè ter migal, naj miruje in pazi. Krik iz doline je še vedno dvojno odmeval od nasprotnih bregov in razločevati ni bilo možno, <pb n="30"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-030.png"/> kaj vpijejo in kličejo kmetje zdolaj. Lovci so bili tudi preveč razburjeni. Megli in morda drugim tudi je bílo srce kakor kládivo gori v vratu, in brez sape je poslušal, da li se ne bliža kaj po grmovji. In res! Gosto, s snegom obloženo robidovje je rastlo pod njim, in iz istega so molele pol sežnja visoke mlade smreke. In v tej gošči zaropota hipoma nekaj, kakor bi velika žival rila sem skozi. Dva, tri, štirje skoki — in v tem trenutji plane nekaj rujavega tik pred Meglo iz goščave, sneg se zapraši raz smrečevja in ubogi adjunkt odskoči v groznem strahu in z glasnim vzklikom nazaj v nasprotno robidovje ter se prekopicne vznak v sneg in trnje.</p>
+            <p n="SL-WIKI00058335">„To je volk!“ vzkliknil je tajnik Koren, ki je stal pred Meglo. Le-ta je silno obledel. A v jednem trenutku so imeli vsi že puške napete razprostrši se po robu. Megla je tekel nazaj, kakih dvajset korakov ter obstal za široko skalo; gori malo nad njim se je prikazal Bolè ter migal, naj miruje in pazi. Krik iz doline je še vedno dvojno odmeval od nasprotnih bregov in razločevati ni bilo možno,  kaj vpijejo in kličejo kmetje zdolaj. Lovci so bili tudi preveč razburjeni. Megli in morda drugim tudi je bílo srce kakor kládivo gori v vratu, in brez sape je poslušal, da li se ne bliža kaj po grmovji. In res! Gosto, s snegom obloženo robidovje je rastlo pod njim, in iz istega so molele pol sežnja visoke mlade smreke. In v tej gošči zaropota hipoma nekaj, kakor bi velika žival rila sem skozi. Dva, tri, štirje skoki — in v tem trenutji plane nekaj rujavega tik pred Meglo iz goščave, sneg se zapraši raz smrečevja in ubogi adjunkt odskoči v groznem strahu in z glasnim vzklikom nazaj v nasprotno robidovje ter se prekopicne vznak v sneg in trnje.</p>
             <p n="SL-WIKI00058336">A tu poči tudi že Boletova puška in ta strel Meglo še bolj prestraši; ko je bil zlezel iz trnja, kar raz sebe divja po robu, pustivši klobuk in puško v snegu. Smeh in vpitje Boletovo in druzih ga naposled vender ustavi.</p>
             <p n="SL-WIKI00058337">„Kaj pa je bilo?“ vpraša Koren, ki je bil tudi malo brez sape prihitel mu nasproti.</p>
             <p n="SL-WIKI00058338">„Volk, volk! V sneg me je podrl, še streljati nisem mogel!“ hiti adjunkt ter plaho gleda nazaj.</p>
@@ -476,8 +422,6 @@
             <p n="SL-WIKI00058341">Med glasnim smehom in veseljem druzih poiskal je adjunkt zopet svojo puško in svoj klobuk.</p>
             <p n="SL-WIKI00058342">„Lisica nerada naleti tako, kakor je ta storila! To je bilo kar nalašč namenjeno našemu gospodu adjunktu!“ deje Bolè ter vrže ustreljeno žival kmetskemu fantu, da jo nese domov.</p>
             <p n="SL-WIKI00058343">Dovtipov in smeha ni bilo konca, ko so bili dospeli lovci že na Drenovo, tako da se je tudi potrpežljivi Megla vender malo ujezil ter si vsako nadaljevanje teh opazk prepovedal. Ubraniti se ve da ni mogel, da bi Bolè ne bil pri obedu še jedenkrat svoji soprogi in vsem gostom jako živo opisal prizor z lisjakom. Jezilo ga je sedaj samo to, da je bila tudi guvernanta navzočna, in da se je brez konca in kraja smijala njegovi nezgodi.</p>
-            <pb n="31"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-031.png"/>
             <p n="SL-WIKI00058344">Mnogobrojna dražba je bila jako dobre volje. Na gornjem konci mize, kjer je sedela Boletova soproga med okrajnim glavarjem in sodnikom, pripovedoval je Majaron zopet o svojih lovskih dogodkih, na spodnjem konci pa je tajnik Koren zabaval sosede s svojimi starimi študentovskimi dogodbami.</p>
             <p n="SL-WIKI00058345">Guvernanta je sedela poleg Medena, drugi sosed jej je bil pa sodnijski adjunkt. Oba sta se trudila biti duhovita. Hudo konkurencijo jima je prouzročeval na nasprotni strani sedeč komisar okrajnega glavarstva, mlad aristokrat, ki je bil prišel stoprav pred par meseci iz glavnega mesta sem ven na deželo. Poleg onega je imel Bolè svoj prostor, in zraven tega je sedel doktor Hrast.</p>
             <p n="SL-WIKI00058346">Le-ta ni mogel prodreti v pogovoru z Elzo, pa se tudi ni posebno trudil; par besed sta izpregovorila sicer, a njega se je polastil čut, kakor bi se ž njo ne mogel sukati v onem lahkem površnjem besedovanji, kakor je to navada v družbah, kjer se govori z jedinim namenom, da se govori. Odkar jej je sedel nasproti, ni bil več tako malomaren, kakor par dnij prej pri spominu na njo. Parkrat se je sicer prav energično vtopil v pogovor z okrajnim glavarjem in hišno gospodinjo, pa kakor onega dne po čitalnični besedi njegove misli, tako so mu silile zdaj oči vsak trenutek h guvernanti. Bila je pa tudi nocoj v priprosti domači opravi še krasnejša, nego onega večera pri besedi; in tudi nocoj je vselej vedela Hrastov pogled ujeti, ne da bi bil kdo drug to opazil.</p>
@@ -486,8 +430,6 @@
             <p n="SL-WIKI00058349">Hrast jej gre naglo naproti.</p>
             <p n="SL-WIKI00058350">„Oh, mislil sem, da Vas nocoj ne bodemo videli kmalu,“ dejal je, „pa zdaj sigurno nimate več opraviti.“</p>
             <p n="SL-WIKI00058351">„Zdaj ne, ali pa tudi,“ méni ona ter ponudi doktorju stol poleg kamina. „Gospa Boletova mi je dala pooblastilo, zastopati jo tukaj, dokler ni igra končana; torej imam tudi opravilo!“ dostavi smejé se.</p>
-            <pb n="32"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-032.png"/>
             <p n="SL-WIKI00058352">„In jaz sem vesel, da sem prvi, s katerim imate opraviti,“ odgovori doktor dobro voljno ter vzame album z bližnje mize.</p>
             <p n="SL-WIKI00058353">Guvernanta je pletla čipke; vsa večerna zabava je imela priprost, domač značaj; saj so bili vsi gospodje v svojih lovskih opravah.</p>
             <p n="SL-WIKI00058354">„Da mi ne ostanete jedini klijent!“ nadaljuje ona poredno, „slabo spričevalo bi bilo to moji sposobnosti —“</p>
@@ -503,8 +445,6 @@
             <p n="SL-WIKI00058364">„O, to morate! Vi ne znate, kako krasno je tam! Vse nizko grmičevje, mlada drevesca, robidovje, vse leži upogneno k tlom, pokrito s snegom, in po kotih in skrivališčih, katere ustvari tako priroda, skače in čvrči jedini stržek — vse okrog je tiho, tako čudno tiho! Po golem bukovji blešči se ivje kakor srebro in pod velikimi jelkami je mračno, temno kakor v cerkvi: zgoraj temnozeleni, s snegom gosto zakriti oboki, spodaj lahki beli sneg, iz katerega gledajo mali šopki rujavega resja, in med snegom in obokom velikanska, sloka debla dreves — kakor umetni stebri! — In tudi tu je tako skrivnostno tiho!“</p>
             <p n="SL-WIKI00058365">Doktor se je skoro ugrel. Elza je ponehala z delom ter zrla nehoté začudena vanj.</p>
             <p n="SL-WIKI00058366">„To mora biti res lepo!“ reče ona poluglasno in zamišljeno.</p>
-            <pb n="33"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-033.png"/>
             <p n="SL-WIKI00058367">„Da, kako poje pač Vaš pesnik?</p>
             <p>
                <l>Da steht im Wald geschrieben</l>
@@ -528,8 +468,6 @@
             <p n="SL-WIKI00058381">„O vem da!“</p>
             <p n="SL-WIKI00058382">„Gospod Bolè in gospa me tudi še nista dovolj poučila: jedini gospod Meden se je lotil tega predmeta.“</p>
             <p n="SL-WIKI00058383">„In kako Vam je opisal našo čitalnico, kjer ste vender sami videli slovensko predstavo, čuli slovensko petje?“ vpraša Hrast radovedno.</p>
-            <pb n="34"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-034.png"/>
             <p n="SL-WIKI00058384">„To je vse izvirno nemško, dejal je, in le slabo na slovensko prestavljeno.“</p>
             <p n="SL-WIKI00058385">„O to Vam je izvrsten mož! Pa kaj Vam je povedal o občinstvu, katero ste videli v čitalnici?“</p>
             <p n="SL-WIKI00058386">Guvernanta se je ozrla nemirno vanj; porogljivi, pikri naglas v njegovih besedah jo je osupnil.</p>
@@ -547,8 +485,6 @@
             <p n="SL-WIKI00058398">Doktor je bil že zopet po polnem miren; kesal se je, da mu je bila tako naglo ušla ona beseda, in zapeljivi smehljaj krasne deklice mu je sezal do srca.</p>
             <p n="SL-WIKI00058399">„Tudi o tem govoriva drugikrat, gospica; ona beseda pa <hi rend="spaced">Vam</hi> ni veljala; tega mi ni treba omenjati.“</p>
             <p n="SL-WIKI00058400">Bil je malo v zadregi ter ne ozrši se v Elzo, položil je album na mizo. Zato tudi lahke zasmehljive poteze na guvernantinem lici ni videl.</p>
-            <pb n="35"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-035.png"/>
             <p n="SL-WIKI00058401">„Oprostite me za jeden trenutek,“ dejal je zopet naglo, „v garderobi imam nekaj za Vas!“</p>
             <p n="SL-WIKI00058402">Rekši odide ven.</p>
             <p n="SL-WIKI00058403">Ona ga je radovedno pogledala, a potem vstala in šla pred veliko zrcalo ob nasprotni steni ter popravila si na lahko lase. Nasmehnila se je svoji podobi v zrcalu ter šepnila pred se: „To sovraštvo me miče. Bodemo videli, doklej bo trajalo.“</p>
@@ -560,8 +496,7 @@
             <p n="SL-WIKI00058409">V sprednji sobi je srečal Medena, a bil je tako nejevoljen nanj, da je šel molčé mimo njega. Oni se za to še zmenil ni; iskal je z očmi Elzo ter hitel v salon.</p>
             <p n="SL-WIKI00058410">V Hrastu pa so se budila in bojevala razna čutila, ko je stal za Boletom ter nem gledal, kako kartajo gospodje pred njim. Igralci so bili vtopljeni v igro, doktor pa v svojo ljubosumnjo; kajti tajiti ni mogel, da vsa jeza, katero mu je bila prouzročila guvernantina izpoved, ima izvir v ljubosumnji do Medena. Ta mož sigurno večkrat občuje z Elzo! Pa kaj je tebi do tega? — vprašal se je zopet. Da je zaljubljen, kar tako vulgarno zaljubljen, tega sam sebi ni hotel priznati, — bil je malo ponosen na dosedanjo nezmagljivost; da jo pa ljubi resno, da se rodi v njem ona globoka, goreča ljubezen, katera le jedenkrat objame človeka, — tega pa si <hi rend="spaced">ni mogel</hi> priznati, kajti življenje in družba sta mu bila vcepila preveč frivolnih nazorov.</p>
             <p n="SL-WIKI00058411">Samo jeden trenutek mu je prišla bliskoma ta misel, zaničljivo je raztegnil ustni. Misel je bila s tem zavržena, absolvirana; v prsih pa mu je vender nekaj ostalo, nekaj težkega, kakor kamen, neka neznana, neumljiva skrb, — ali skoro — hrepenenje.</p>
-            <p n="SL-WIKI00058412">Ta večer se je potem ogibal guvernante, akoravno je večkrat nehoté pogledal proti salonu, kadar mu je udaril njé zvonki glas na uho. Videl je tudi pri taki priliki, da je prinesel Meden hipoma dva <pb n="36"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-036.png"/> velika šopa krasnih cvetic v sobo ter podaril jednega Elzi; drugi je bil menda namenjen hišni gospodinji.</p>
+            <p n="SL-WIKI00058412">Ta večer se je potem ogibal guvernante, akoravno je večkrat nehoté pogledal proti salonu, kadar mu je udaril njé zvonki glas na uho. Videl je tudi pri taki priliki, da je prinesel Meden hipoma dva  velika šopa krasnih cvetic v sobo ter podaril jednega Elzi; drugi je bil menda namenjen hišni gospodinji.</p>
             <p n="SL-WIKI00058413">„Okoren in neroden človek to!“ mislil si je Hrast; „zdaj nosi šopke; neprilično je to in nedostojno.“</p>
             <p n="SL-WIKI00058414">Tega pa ni hotel v poštev jemati, da ima Meden kot bližnji sosed in star znanec posebne svoboščine.</p>
             <p n="SL-WIKI00058415">Čas je potekal in lovci so se po čaji, kateri jih je ogrel do dobrega, odpravljali domov. Zdolaj je bilo upreženih več vozov, in na te so sedali gospodje.</p>
@@ -574,15 +509,12 @@
             <p n="SL-WIKI00058422">Zdolaj so ga že klicali. Skočil je na bližnji lojterski voz in potem se je odpeljala vsa družba; vsa najboljše volje.</p>
             <p n="SL-WIKI00058423">Tudi doktor je bil zdaj vesel in srečen! Glasan ni bil, nego tiho je sedel na svoji deski, v rokah pa je varno držal svoji dve vijolici. K sreči je bila noč jako temna.</p>
          </div>
-         <pb n="37"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-037.png"/>
          <div>
             <head>Peto poglavje.</head>
             <p n="SL-WIKI00058424">Zakaj nas pač mučijo časih spomini s tako elementarno silo? Kadar jih najmenj potrebujemo, najmenj pričakujemo, stopijo nam pred oko, in na uho nam zvené nekdanji znani, in kakor smo sami mislili, pozabljeni glasovi. Ne treba, da bi človek štel petdeset let in da bi imel za seboj burne ali vsaj nemirne dni; tudi mladega, čigar pot je vodila do zdaj vedno po varnem ravnem svetu, tudi njega posilijo take bridke ure: saj je ni žive duše na svetu, katera bi mogla mirno reči o sebi, da se jej ni ničesa kesati, ničesa sramovati.</p>
             <p n="SL-WIKI00058425">Taka se je godila zadnje dni doktorju.</p>
             <p n="SL-WIKI00058426">Odkar je prinesel oni dve vijolici domov ter ji hranil na oknu postavljeni v kozarec vode, in kadarkoli mu je bil v spominu lahki, mehki stisk Elzine roke, vselej so mu vstajale v spominu podobe iz minulih let in kakor kragulj Prometeja, tako so doktorja ujedali ti spomini že par večerov; vračal se je zgodaj iz gostilne domov, in potem je sedel blizu do polunoči zamišljen pri mizi in sem ter tja brskal in iskal in prebiral po starih pismih ...</p>
-            <p n="SL-WIKI00058427">Bilo je morda pet ali šest let prej. Hrast je bil tedaj koncipijent pri znanem advokatu na Dunaji in kakor je ta čislal Hrasta dobrega, umnega delavca, tako priljubljen je bil mladi doktor v družini svojega šefa. Zato je bilo tudi redno, da je spremljal vsako <pb n="38"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-038.png"/> leto, odkar je bil v tej prisarni, — in bil je tam do zdaj vsa leta po dovršenih študijah, — odvetnikovo družino v poletnih mesecih ven na deželo ter ostajal kake tri do štiri tedne tam na počitnicah. Bila je tu navadno póstarna soproga odvetnikova, sin njegov, takrat še vseučiliški studiosus, in dve že omoženi hčeri, kateri sta se se ve da bolj brigali za svoje otroke nego za drugo družbo. Hrast je torej občeval največ z mladim študentom, s katerim sta obhodila in oblazila vso okolico in vse gore in doline v obližji. Onih prostih par tednov je naglo minulo, in potem se je pričel zanj zopet stari vsakdanji posel.</p>
+            <p n="SL-WIKI00058427">Bilo je morda pet ali šest let prej. Hrast je bil tedaj koncipijent pri znanem advokatu na Dunaji in kakor je ta čislal Hrasta dobrega, umnega delavca, tako priljubljen je bil mladi doktor v družini svojega šefa. Zato je bilo tudi redno, da je spremljal vsako  leto, odkar je bil v tej prisarni, — in bil je tam do zdaj vsa leta po dovršenih študijah, — odvetnikovo družino v poletnih mesecih ven na deželo ter ostajal kake tri do štiri tedne tam na počitnicah. Bila je tu navadno póstarna soproga odvetnikova, sin njegov, takrat še vseučiliški studiosus, in dve že omoženi hčeri, kateri sta se se ve da bolj brigali za svoje otroke nego za drugo družbo. Hrast je torej občeval največ z mladim študentom, s katerim sta obhodila in oblazila vso okolico in vse gore in doline v obližji. Onih prostih par tednov je naglo minulo, in potem se je pričel zanj zopet stari vsakdanji posel.</p>
             <p n="SL-WIKI00058428">Pred petimi ali šestimi leti torej, — natančnega časa ne vemo več, — stanovala je vsa ta družina zopet za par poletnih mesecev v prijazni vili blizu Badna pri Dunaji. Bila je letos mnogobrojnejša nego sicer, kajti pridružil se jim je bil nekov sorodnik z Moravskega s svojo hčerko.</p>
             <p n="SL-WIKI00058429">Mlada je bila ona, menda komaj osemnajstletna, lepa, izobražena in — recimo — duhovita.</p>
             <p n="SL-WIKI00058430">Pa čemu bi tu po okoliših pripovedovali? Zaljubila sta se drug v druzega, Hrast in mlada Katinka, in nekega krasnega večera, — mesec je sijal jasno na nebu, in mlačna sapa je nosila rožno vonjavo čez sečo, — hodila sta po samotnem potu v zadnjem konci vrta, in tu sta se v prvič poljubila.</p>
@@ -590,8 +522,6 @@
             <p n="SL-WIKI00058432">Sam si ni bil tega v svesti in se tudi vprašal ni o tem. V Hrastu je tičalo preveč onega, kar imenujemo površno vulgarno: materijalizem, kar pa v istini ni nič druzega, nego — sebičnost, samoljubje. Samoljubni, sebični ljudje pa požrtvovalne globoke ljubezni niso zmožni, premaga jih in stori jih sužnje jedina pohotnost.</p>
             <p n="SL-WIKI00058433">Hrast je bil tedaj še jako mlad, in ko je znal, da ga dekle ljubi, in ko jima je bilo moči parkrat srečati se na skrivnem in objeti in poljubiti, bil je srečen in vesel tudi on. Čeravno poln lehkih nazorov, katerih največ mu je vcepila, kakor smo že omenili, lehka družba, rekel si je, da ljubi deklico — saj je bilo to v prvič, da je bil v taki razmeri z žensko. O resnici, o vztrajnosti te svoje ljubezni premišljevati pa ni imel povoda.</p>
             <p n="SL-WIKI00058434">Čisto drugačna je bila Katinka. Oklenila se je mladega moža z vso iskrenostjo in zaupljivostjo prve nedolžne ljubezni. Dvojiti o resnici njegovih besed jej ni prišlo na um, in kakor ga je ljubila sama, tako je sodila o njegovi ljubezni.</p>
-            <pb n="39"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-039.png"/>
             <p n="SL-WIKI00058435">Njijina razmera je ostala po dogovoru obeh tajna; o prihodnjosti pa nista govorila.</p>
             <p n="SL-WIKI00058436">Tako so minuli oni štirje tedni, kateri so bili odmerjeni Hrastu za odpust; potem je moral zopet v mesto. Odslej sta si vedno dopisovala, zlasti ko se je bila Katinka vrnila z očetom na Moravsko. Videla sta se zadnjikrat v odvetnikovi hiši, kjer se je deklica jeden dan mudila, pa govoriti nista mogla na samem.</p>
             <p n="SL-WIKI00058437">Med dopisovanjem je potekalo leto, in bližali so se zopet gorki poletni dnevi. Odvetnikovi so se odpravljali na odhod, — letos so hoteli na Solnograško in tudi Katinko so pričakovali, da jih spremi tja, — doktor Hrast pa letos ni hotel ž njimi. Izprosil si je bil odpusta, da gre za nekoliko tednov v domovino, na Kranjsko, katere že več let ni videl.</p>
@@ -602,8 +532,6 @@
             <p n="SL-WIKI00058442">Lesem ni bilo nobenega pisma; saj ubogo dekle, ki si je ubijalo glavo, zakaj in kako je vse to, ni vedelo, kam bi pisalo. Hrast pa si je podaljšal odpust, rekši — da je bolan. Ko je slutil, da mu ne bo več prilike, sniti se s Katinko, vrnil se je na Dunaj, a tam je takoj svojo službo odpovedal. Pridobil si je bil mesto v domovini. Predno pa je odšel, prejel je od ljubice še jedno pismo, in to je bilo zadnje. Žal besede ni bilo v njem niti očitanja; vprašala je le, zakaj je ne ljubi več?</p>
             <p n="SL-WIKI00058443">In on?</p>
             <p n="SL-WIKI00058444">Odgovoril jej je ter napisal šest dolgih stranij; trdil je in se rotil, da jo ljubi, — pa da je vse njijino počenjanje, vsa razmera — brez nade, brez upanja; da nimata premoženja, da on niti ne ve, kdaj bode samostalen, in kdaj si bode pridobil toliko, da bode dovolj dvema. Govoril je, kakor bi bil on žrtev, jedina žrtev svojega — poštenja. In koncem je dejal, da je nikdar ne bode pozabil! —</p>
-            <pb n="40"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-040.png"/>
             <p n="SL-WIKI00058445">Odgovora na vse to ni bilo, in ko je poldrugo leto pozneje iz pisma starega odvetnika z Dunaja pozvedel, da se je Katinka omožila, — dozdevalo se mu je, kakor bi ga bil kdo opomnil starih, z davna pozabljenih sanj.</p>
             <p n="SL-WIKI00058446">Katinka pa je bila vzela bogatega posestnika, toda — starega, bolnega moža.</p>
             <p n="SL-WIKI00058447">„Brez premoženja je bila ona,“ pisal je odvetnik.</p>
@@ -621,8 +549,6 @@
             <p n="SL-WIKI00058459">„Jaz ne verjamem niti tega, niti onega,“ pristavi s pomenljivim glasom Megla ter vleče na vso moč dim iz pipe.</p>
             <p n="SL-WIKI00058460">„Se ve da! Ha, ha!“ oglasi se davkarski nadzornik: „o Vas, gospod adjunkt, se pa trdi, da ste že dvakrat pali pod Boletovim gradom raz Kurentovega konja, odkar je ona guvernanta tamo.“</p>
             <p n="SL-WIKI00058461">„To je grda laž!“ huduje se Megla.</p>
-            <pb n="41"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-041.png"/>
             <p n="SL-WIKI00058462">„Jaz ne vem; priča nisem bil, toda sigurno je, da ste vsacega popoludne v sedlu, in na poti proti Drenovemu! Haha!“ smeje se nadzornik.</p>
             <p n="SL-WIKI00058463">V tem, ko je ona družba rešetala to za trg jako važno stvar, sedel je Hrast doma ter bral pisma — nekdanje svoje ljubice Katinke.</p>
             <p n="SL-WIKI00058464">Do zdaj tega ni bil še nikoli storil, v vseh minulih letih ne.</p>
@@ -634,8 +560,7 @@
             <head>Šesto poglavje.</head>
             <p n="SL-WIKI00058468">Veliki teden je bil tu. Južen veter je odpravil že prej s polja, brdov in goric vso belo odejo, le tam više v podnožji planin in po njih se je bliščal še sneg v jasnem pomladanskem solnci.</p>
             <p n="SL-WIKI00058469">Tu doli pa je bilo krasno. Vse ceste in steze so bile suhe in gladke, za vsako mejo so moleli šopi rumenih trobentic iz mahovja, tam pod skalo se je širil beli teloh in z leskovja in vrbovja se je vsipal cvetni prah.</p>
-            <p n="SL-WIKI00058470">V borjanski farni cerkvi so se vršile velikotedenske duhovne molitve, in tam se je med pevci odlikoval zlasti Megla. Veliki Palestrinijev „Miserere“ je bil njegov ponos: vsako leto se je pripravljal na to. Kar je bilo študentov gimnazijalcev doma na počitnicah v Borji in v okolici, ali bogoslovcev in celo nekaj vseučiliških dijakov: vsi so peli tam poleg dekana in kaplanov v dveh stranskih klopeh pri velikem oltarji velikotedenske lamentacije. Po cerkvenem opravilu okoli štirih popoludne pa so šli sleherni dan pevci na dekanovo povabilo v farovž; in tam je bilo za par ur vina dovelj in <pb n="42"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-042.png"/> poleg tega sira, kruha in presnega masla; druzega ne, — kajti od srede do nedelje je bil v farovži strog post.</p>
+            <p n="SL-WIKI00058470">V borjanski farni cerkvi so se vršile velikotedenske duhovne molitve, in tam se je med pevci odlikoval zlasti Megla. Veliki Palestrinijev „Miserere“ je bil njegov ponos: vsako leto se je pripravljal na to. Kar je bilo študentov gimnazijalcev doma na počitnicah v Borji in v okolici, ali bogoslovcev in celo nekaj vseučiliških dijakov: vsi so peli tam poleg dekana in kaplanov v dveh stranskih klopeh pri velikem oltarji velikotedenske lamentacije. Po cerkvenem opravilu okoli štirih popoludne pa so šli sleherni dan pevci na dekanovo povabilo v farovž; in tam je bilo za par ur vina dovelj in  poleg tega sira, kruha in presnega masla; druzega ne, — kajti od srede do nedelje je bil v farovži strog post.</p>
             <p n="SL-WIKI00058471">Pobožnih se je zbiralo vsak dan več k popoludanskemu opravilu; petje, ki ni bilo slabo, zanimalo je posebno ženski spol. Med drugimi je prihajala tudi guvernanta z Drenovega s svojima gojenkama.</p>
             <p n="SL-WIKI00058472">Megla jo je ugledal že v sredo v cerkvi in dan na dan je bolj povzdigoval svoj glas. Po opravilu je postajal med cerkvijo in farovžem, kakor Herkul na razpotji: ali Elza, — ali dekanovo vino, — na desno ali na levo; tako je ugibal. Pa levica, rekše: farovško vino je zmagovalo. Zarad tega pa Elza tudi ni bila brez spremljevalca.</p>
             <p n="SL-WIKI00058473">Bodi si naključje, bodi si namen, a sigurno je bilo vender, da je doktor Hrast redno ob istem času vsak dan zapustil svojo pisarno ter se šetal po ulici proti cerkvi. Srečaval je več znanih gospij in gospodičin, pozdravljaje jih, a ogovoril ni nobene. Pred guvernanto pa, ki je prihajala z Boletovima dekletoma malo pozneje, postal je in, govoreč par vsakdanjih fraz, obrnil se ter krenil z malo družbo po lepi, suhi cesti proti Drenovemu. Dekletci sta skakali po trati, nabirali cvetice, pobrali tu in tam ob mejah kakega zalizanega polža ter stopali zopet križem čez ozki jarek poleg ceste.</p>
@@ -647,8 +572,6 @@
             <p n="SL-WIKI00058479">„A, Vi me spominate Hauffovega Satana“; reče živo ona, „pa odkrito povedano, do mene te pesni nimajo takega vpliva, kakor ga opisujete! V meni ravno fantazijo najbolj budé. Pomislite le oni krasni himnus, s katerim končuje sleherni dan to petje: Vam li ne vstajajo pred dušo morje in gore, narodje vseh stoletij, živali in drevesa in skale in vse, vse poje ...“</p>
             <p n="SL-WIKI00058480">Pogledala je Hrasta.</p>
             <p n="SL-WIKI00058481">„Ah, Vi se mi posmehujete, ker mislite, da izvirajo te moje besede iz prenapete pobožnosti! Zagotavljam Vas ...“</p>
-            <pb n="43"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-043.png"/>
             <p n="SL-WIKI00058482">„Ni treba, gospodična!“ reče on še vedno v smehu, „osupnilo me je le to Vaše navdušenje.“</p>
             <p n="SL-WIKI00058483">„Glejte, oni psalm ima takov vpliv! In če stopim po opravilu ven iz temne cerkve, — tu zunaj pa je nebo tako čisto, tako jasno, in pomladansko solnce kliče na dan vso spečo prirodo: potem dvojno čutim in morda tudi malo umem poetično silo teh pesnij.“</p>
             <p n="SL-WIKI00058484">Čudno; guvernanta je govorila vse to naravno, mirno, pa vender gorko; in tudi brez vse umetne koketnosti. Doktor jo je pogledoval od strani, pa zdaj sam ni znal več, zakaj je osupnen. Bil je to morda, ker jednacega navdušenja ni bil zmožen. —</p>
@@ -668,8 +591,6 @@
             <p n="SL-WIKI00058498">Pri teh besedah se niti ni ozrl v njo, in zato tudi porogljivega smehljaja na njenih ustnih ni videl.</p>
             <p n="SL-WIKI00058499">A ona je bila hudobna.</p>
             <p n="SL-WIKI00058500">„Vi niste prijazni, gospod doktor,“ dejala je z očitajočim naglasom; „tu govorite o zlobnih ljudeh, in sicer tako, kakor bi meni pretila nevarnost, a potem mi zopet vse prikrivate!“</p>
-            <pb n="44"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-044.png"/>
             <p n="SL-WIKI00058501">„Tu ni govora o nevarnosti,“ oporeka on naglo; „nikari se ne vznemirujte zaradi tega; o priliki Vam bom pač vse razložil.“</p>
             <p n="SL-WIKI00058502">Bližala sta se že razpotju, od koder vodi stranski kolovoz na Drenovo. Na jedenkrat postane zopet guvernanta.</p>
             <p n="SL-WIKI00058503">„Ali verujete Vi v predestinacijo?“</p>
@@ -689,8 +610,6 @@
             <p n="SL-WIKI00058517">Šla sta nekoliko časa molčé dalje.</p>
             <p n="SL-WIKI00058518">„Pa — zakaj Vas zanima ono vprašanje?“ povzame zopet Hrast besedo. Ni mogel najti druzega predmeta.</p>
             <p n="SL-WIKI00058519">„Čakajte, gospod doktor!“ méni zopet ona; „odgovorite mi na drugo. Pa ne smejte se! Ali imate Vi kaj verskega prepričanja?“</p>
-            <pb n="45"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-045.png"/>
             <p n="SL-WIKI00058520">Hrast bi se bil v istini skoro na glas zasmijal: tako šegavo se mu je zdelo to nepričakovano vprašanje; samo resni guvernantin obraz ga je zadrževal.</p>
             <p n="SL-WIKI00058521">Odgovoriti pa tudi ni mogel takoj. Nameraval je obrniti vse na smešno stran in rešiti se z dovtipom, a njeno lice se mu je kazalo tako odločno in resno, da si ni upal. Storil je par korakov in potem dejal mirno: „Vi hočete resen odgovor? Nekoliko vere imam, kar mi je je še ostalo iz mladih let, in vender, če prav premislim, — — malo je te vere, ali pa nič!“</p>
             <p n="SL-WIKI00058522">„In s čim ste jo nadomestili? Nekoliko filozofije ima vsak človek!“</p>
@@ -708,8 +627,6 @@
             <p n="SL-WIKI00058534">„Še ozrli se niste v njo!“</p>
             <p n="SL-WIKI00058535">„Bodemo videli!“</p>
             <p n="SL-WIKI00058536">Tu sta bila na razpotji. Dekletci sta tekli že daleč pred njima proti domu.</p>
-            <pb n="46"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-046.png"/>
             <p n="SL-WIKI00058537">„Lahko noč, gospod doktor!“ dejala je guvernanta gladko slovenski ter se nasmijala. Bilo je prvič, da je slovenski govorila. Podala sta si roki, kakor navadno vselej, kadar sta se ločila.</p>
             <p n="SL-WIKI00058538">Hrast njene ni mogel izpustiti.</p>
             <p n="SL-WIKI00058539">„Gospodična!“ izustil je po tihem, naglo in skoro hripavo.</p>
@@ -723,8 +640,6 @@
             <p n="SL-WIKI00058544">Velikonočni ponedeljek zvečer je bila zopet beseda v borjanski čitalnici; po besedi pa ples. Ta veselica je bila zadnja v zimski dobi in do adventa je potem počivalo društveno življenje. Torej se ni čuditi, da je bila ravno velikonočna beseda vsako leto jako mnogobrojno obiskovana.</p>
             <p n="SL-WIKI00058545">Vnanje lice te besede je bilo tako, kakor one, katera se je vršila pustno nedeljo zvečer. Tudi nocoj si je bil tajnik Koren izposodil črne hlače od Megle, in tudi nocoj je bil le-ta izpil nekoliko surovih jajc. Toda zdaj se je zgodilo zadnje samo iz preservativnih ozirov, kajti Megla ni bil hripav.</p>
             <p n="SL-WIKI00058546">Neizogibni prolog je govorila nocoj gospodična Filipina Vrtačnikova, katera se izjemno ni bila skregala z odborom. Sodnikova Marica je imela posla dovelj v gledališki igri. Tu je nastopilo tudi nekaj novih močij: gimnazijalci in vseučilišniki, — študentje, ki so zdaj bivali doma, in katere je adjunkt Megla vedno grdo gledal; kajti kadar so se ti prikazali, izginila je njegova veljava, kakor breznov sneg. Toda odstraniti jih ni mogel. Hrast ni dovolil tega, nego še vabil jih je.</p>
-            <pb n="47"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-047.png"/>
             <p n="SL-WIKI00058547">Sodnika Majarona je v domišljiji zopet glava bolela, kakor na pustno nedeljo, in tudi nocoj je meril zadnjo gostilniško sobo borjanske čitalnice pušeč iz svoje dolge pipe. Prišel je bil malo prej z lova, in zato je umljivo, da je še vedno tičal v visokih škornjih in kratki lovski suknji. Čeravno je koledar oznanil že z davna lovcem: palmarum-tralarum, — vender je Majaron ves dan iskal po gozdih in travnikih kljunjačev; toda brezvspešno. Zato je bil tudi slabe volje.</p>
             <p n="SL-WIKI00058548">In še nekaj druzega ga je jezilo. V prvih dveh sobah so sedeli navadni gostje: učitelji, finančni nadzornik, zemljiški knjigovodja in drugi; a v zadnjo sobo ni bilo nikogar onih, kateri so bili poklicani na to mesto; vsi so bili v dvorani. Zato je ostal sodnik sam s svojim pivom, se ve da le, dokler je trajala beseda.</p>
             <p n="SL-WIKI00058549">Pa tudi pozneje se sobica ni napolnila; kajti dame so nocoj plesale.</p>
@@ -732,8 +647,6 @@
             <p n="SL-WIKI00058551">Bolè je gledal ples do prve kadrilje, potem je šel poslušat sodnika in povesti o njegovih denašnjih lovskih dogodkih. Doktor je pa plesal z vsemi plesalkami se ve da, katere so štele v družine dostojanstvenikov, največ pa z ženo svojega prijatelja Boleta in z Elzo. Pa pri zadnji je imel dva huda konkurenta.</p>
             <p n="SL-WIKI00058552">Meden, kateri je nocoj izjemno že pol ure pred začetkom besede stražil pri vseh vhodih, — porabljal je vsak prost trenutek, katerega je imela Elza, da je ali govoril, ali plesal ali promeniral ž njo po dvorani. Velik, krasen šop redkih cvetlic, katerega jej je bil prinesel, vzbujal je občno pozornost in pri ženskem občinstvu — nevoščljivost. Takoj za Medenom je bil Megla jako pazljiv, da guvernanta ni ostala par trenutkov sama, in potem — doktor. Le ta je bil vsaj toliko previden, da si je že med besedo zagotovil nekaj plesov pri njej, za to je bil njegov tudi kotiljon, katerega je vodil Megla.</p>
             <p n="SL-WIKI00058553">Ples je zaljubljenim ljudem jako nevaren; kajti gotovo je, da človek med plesom, bodi si že zaljubljen ali ne, govori največ neumnostij. Oh, koliko jih je, ki se trudijo biti duhovitim, dovtipnim, a zaman; tako je, kakor bi jim bila pamet zlezla v pete.</p>
-            <pb n="48"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-048.png"/>
             <p n="SL-WIKI00058554">In tudi nepreviden, prenagel je človek tedaj, kadar v šumeči godbi suče svojo vitko plesalko ter v rokah in ob vsem životu čuti, kako naglo vrè njej kri po žilah.</p>
             <p n="SL-WIKI00058555">Gori v kotu dvorane blizu godbe sta sedela Elza in doktor; ne daleč od njiju Boletova gospa in njen plesalec, Meden. Pozornost vsega občinstva je bila obrnena v Meglo, ki je sredi dvorane stoječ aranžiral novo kotiljonovo podobo.</p>
             <p n="SL-WIKI00058556">„Bom li nocoj tudi prejel jedno vijolico iz Vašega šopa?“ vprašal je Hrast poluglasno.</p>
@@ -748,15 +661,12 @@
             <p n="SL-WIKI00058565">Ona se je zarudela, a pogledala ga ni, niti mu odgovorila.</p>
             <p n="SL-WIKI00058566">Priplesala sta zopet do svojih sedežev; on zmoten, nem in ves poten; ona mirna, kakor bi se ne bilo nič pripetilo. Igrala se je s svojim šopom, in tudi kakor igraje izpulila iz njega vijolico ter jo podala doktorju.</p>
             <p n="SL-WIKI00058567">A ozrla se ni vanj.</p>
-            <pb n="49"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-049.png"/>
             <p n="SL-WIKI00058568">„Je li to Vaš odgovor?“ vpraša on po tihem.</p>
             <p n="SL-WIKI00058569">„Ali umete ta jezik, ta razgovor? Saj ne veste, kakov pomen ima vijolica!“ deje ona šegavo ter mu pogleda od strani v vroče lice.</p>
             <p n="SL-WIKI00058570">„Res, da ne,“ hiti doktor; „tudi nisem mislil na pomen vijole nego samo na to, da ste mi podali zdaj to cvetko.“</p>
             <p n="SL-WIKI00058571">Elza je malomarno pulila široki svilnati trak ob svojem šopu, in naglo dvakrat zaporedom ozrla se v Hrasta; pa vselej je imel pogled nekaj resnega, celó ognjenega. Ko bi ja bil kdo strogo opazoval in ko bi bil imel dovolj psihologičnega iskustva: nehoté bi se mu bil moral vriniti spomin na mačko, ki ima onemoglo miš pred seboj ter se igra ž njo. Pa doktor ni vedel, da je on ta miš. Hotel je ponoviti svoje vprašanje, a v tem trenutku je prišel Megla ter odpeljal guvernanto v sredo dvorane. Doktor je ostal sam ter igral si s pahljačo, katero je bila njegova plesalka na stolu pustila.</p>
             <p n="SL-WIKI00058572">Ne daleč od njega sta sedela Boletova gospa in plesalec Meden. Njijin razgovor ni bil posebno živahen, kajti Meden v obče ni bil spreten družbenik, Boleška pa je svojo pozornost obračala bolj tjà, kjer sta sedela Hrast in Elza. In vedela je dobro, kaj se godi med onima; kajti ženske imajo v vsem, kar jih le količkaj zanima, boljši dar opazovanja nego mož.</p>
-            <p n="SL-WIKI00058573">Boletova gospa ni bila koketna; nikdo jej ni mogel v tem oziru kaj slabega očitati; pa jezilo jo je, da se doktor toliko bavi z guvernanto in da je, kakor je bila ona prepričana, — v istini zaljubljen v Elzo. Uzrok te nejevolje pa ni bila ljubosumnja, nego razžaljeno samoljubje. Prej se je doktor Hrast, ki je bil jeden prvih osob tu v trgu in morda v družbenem oziru prvi izmed vseh, sukal osobito okoli nje, in do denašnjega dne je bil na vsaki čitalnični <pb n="50"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-050.png"/> veselici njen plesalec pri kotiljonu; zdaj pa si ga je po polnem osvojila njena guvernanta. Zdelo se jej je, kakor bi bila nekako smešna postala, in da se jej rogajo na tihem druge gospe in gospodičine, katere tudi drugikrat niso smele posebnih milostij pričakovati od doktorja.</p>
+            <p n="SL-WIKI00058573">Boletova gospa ni bila koketna; nikdo jej ni mogel v tem oziru kaj slabega očitati; pa jezilo jo je, da se doktor toliko bavi z guvernanto in da je, kakor je bila ona prepričana, — v istini zaljubljen v Elzo. Uzrok te nejevolje pa ni bila ljubosumnja, nego razžaljeno samoljubje. Prej se je doktor Hrast, ki je bil jeden prvih osob tu v trgu in morda v družbenem oziru prvi izmed vseh, sukal osobito okoli nje, in do denašnjega dne je bil na vsaki čitalnični  veselici njen plesalec pri kotiljonu; zdaj pa si ga je po polnem osvojila njena guvernanta. Zdelo se jej je, kakor bi bila nekako smešna postala, in da se jej rogajo na tihem druge gospe in gospodičine, katere tudi drugikrat niso smele posebnih milostij pričakovati od doktorja.</p>
             <p n="SL-WIKI00058574">Skušala je prikriti in zatreti svojo nejevoljo; a to ni bilo lehko. Najedenkrat se oglasi celó sodnikova soproga, ki je sedela za njo ter gledala strogo in ob jednem ljubeznivo vsacega, ki je plesal z njeno Marico; le-ta jej šepne na uho: „Doktor nas pa nocoj čisto pozablja in zanemarja!“</p>
             <p n="SL-WIKI00058575">Boleška je stisnila ustni; zdelo se jej je, da je hotela ona reči: „<hi rend="spaced">Vas</hi>“, a ne „<hi rend="spaced">nas zanemarja</hi>“. Pa vender se je naglo in s smehljajem obrnila ter rekla sodnikovi: „Ne, meni se ne dozdeva!“</p>
             <p n="SL-WIKI00058576">Na to je tudi ona zopet molčala.</p>
@@ -771,8 +681,6 @@
             <p n="SL-WIKI00058585">„He he he!“ smijal se je zopet Meden, a potem je dejal vender samosvestno: „Kaj to? Jedna vijolica! Prihodnjič jih bom poslal doktorju cel šop, da ne bo drugod prosil!“</p>
             <p n="SL-WIKI00058586">Ona se je morala nehoté nasmehniti.</p>
             <p n="SL-WIKI00058587">„Ali menite, da je doktor v istini prosil one rožice?“ dejala je potem malo zlobno.</p>
-            <pb n="51"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-051.png"/>
             <p n="SL-WIKI00058588">Odgovora ni mogla pričakovati, kajti tudi njo je odvedel Megla v krog sredi dvorane, kjer se je hotel izkazati s čisto novo kotiljonsko podobo: da bi bila tudi ostala na svojem sedeži, odgovora bi vender ne bila prejela, ker Meden je po polnem umolknil. Še zasmijal se ni.</p>
             <p n="SL-WIKI00058589">Ko so si volili malo potem gospodje svoje plesalke, menjala sta svoji dami Hrast in Meden, kakor po dogovoru.</p>
             <p n="SL-WIKI00058590">Oba sta skušala pogovor med plesom, pa Meden ni bil nič bolj duhovit, nego Hrast, ki se je z očmi ogibal pogledov Boletove gospe.</p>
@@ -787,8 +695,6 @@
             <p n="SL-WIKI00058599">„Radovedna sem, kako bi jo Vi hvalili,“ reče Boleška po tihem; „a propòs, doktor, gospod Meden Vam bo jutri vse pravde odpovedal, katere koli Vam je izročil.“</p>
             <p n="SL-WIKI00058600">Hrast se je zasmijal, pa potem vender nejevoljno mignil z ramami. Te šale so ga jezile, zlasti ker so prihajale od Elzine gospodinje. Odšel je po dvorani iskat si druge plesalke, da zadostí svoji dolžnosti kot društveni predsednik.</p>
             <p n="SL-WIKI00058601">Med tem je Meden premišljeval, kako bi najbolj spretno ogovoril svojo plesalko. Zadnje besede Boletove soproge so mu donele še vedno na uho. Ta mož po svojem očetu, na pol kmetskem bogataši, ni bil druzega podedoval, nego denar, zato se tudi v vsem svojem življenji ni brigal za to, kar imenujejo izobraženi ljudje takt; kajti tudi tega je treba podedovati!</p>
-            <pb n="52"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-052.png"/>
             <p n="SL-WIKI00058602">Že je bil jedenkrat preplesal dvorano, in ker je še več gospodov čakalo Elze za ples, moral se je požuriti, če je hotel kaj ziniti. In začel je res: „Jaz Vam ne bom več cvetic nosil, če jih boste drugim dajali, — gospodična!“</p>
             <p n="SL-WIKI00058603">Hotel je to povedati kot dovtip, ali vsaj kot šalo, a čeravno je na konci pristavil svoj neizogibni „He he he!“ — vender se mu ni posrečilo raztegniti lica v prijazne dobrovoljne gube. Vsi dotični poskusi so imeli le ta rezultat, da je bilo videti, kakor bi se hotel zjokati.</p>
             <p n="SL-WIKI00058604">Guvernanti ni bilo težko z jednim pogledom spoznati, kam meri Meden; in čeravno so bile besede njegove razžaljive, hotela jih ni tako tolmačiti; čemu bacniti bogatega graščaka od sebe?</p>
@@ -807,8 +713,6 @@
             <p n="SL-WIKI00058617">„Jaz tudi, gospica; jaz tudi ljubim cvetice! In posebno rad jih rišem in slikam.“</p>
             <p n="SL-WIKI00058618">„To je lepo!“ reče ona, akopram je vedela, da se Megla laže.</p>
             <p n="SL-WIKI00058619">„In še nekaj bi Vas prosil!“ nadaljuje on po tihem; „ko bi mi hoteli dati jedno rožico iz Vašega šopa za spomin, prosim, prav lepo prosim — —“</p>
-            <pb n="53"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-053.png"/>
             <p n="SL-WIKI00058620">Elza ni vedela, ali naj bi se smejala, ali bila nejevoljna.</p>
             <p n="SL-WIKI00058621">„Malo nesramno je to!“ mislila si je in že hotela ostro odgovoriti, pa tu se domisli Medena; in ravno zdaj sta plesala proti njegovemu sedežu.</p>
             <p n="SL-WIKI00058622">„Naj bo, ker tako lepo prosite!“ reče s smehom in glasno, da jo je moral čuti Meden, ter potegne malo cvetko iz šopa in jo poda Megli.</p>
@@ -829,8 +733,6 @@
             <p n="SL-WIKI00058637">„Do tedaj?“</p>
             <p n="SL-WIKI00058638">„... ostaneva prijatelja!“</p>
             <p n="SL-WIKI00058639">Pri teh besedah je uprla zopet svoje mirne, modre oči v njegov vroči, strastni obraz.</p>
-            <pb n="54"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-054.png"/>
             <p n="SL-WIKI00058640">Te besede so ga nekoliko ohladile.</p>
             <p n="SL-WIKI00058641">„Prijateljstvo!“ To mu je bil nekako sumnjiv izraz.</p>
             <p n="SL-WIKI00058642">„Ah, Vi me ne ljubite!“ dejal je še jedenkrat, toda skoro osorno.</p>
@@ -850,8 +752,7 @@
             <p n="SL-WIKI00058656">Hrast je grizel konce svojih brk ter molčal nekoliko trenutkov.</p>
             <p n="SL-WIKI00058657">„Gospa! Milostiva!“ dejal je potem naglo; „ali veste, ali znate, kaj je ljubezen?“</p>
             <p n="SL-WIKI00058658">„Jaz ne vem, o kakovi ljubezni govorite; ah, za Boga, kako različno je vse, kar se imenuje s to besedo!“</p>
-            <p n="SL-WIKI00058659">Povesila je nekoliko glavo in lice se jej je zmračilo. Toda nihče ni opazil tega. Tudi ni bilo dovolj prilike, kajti takoj se je z veselim obrazom obrnila zopet k svojemu sosedu: „Doktor, ne bodiva sentimentalna! Saj sva že mnogokrat premišljevala in rešetala take <pb n="55"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-055.png"/> predmete, a vselej sva se smijala. Čemu bi se nocoj ne? In glejte, jaz sem si vedno prisvojevala nekoliko pravice Vam časi več povedati, nego drugi smejo — tako v navadnem družbenem občevanji. Ni li to istina?“</p>
+            <p n="SL-WIKI00058659">Povesila je nekoliko glavo in lice se jej je zmračilo. Toda nihče ni opazil tega. Tudi ni bilo dovolj prilike, kajti takoj se je z veselim obrazom obrnila zopet k svojemu sosedu: „Doktor, ne bodiva sentimentalna! Saj sva že mnogokrat premišljevala in rešetala take  predmete, a vselej sva se smijala. Čemu bi se nocoj ne? In glejte, jaz sem si vedno prisvojevala nekoliko pravice Vam časi več povedati, nego drugi smejo — tako v navadnem družbenem občevanji. Ni li to istina?“</p>
             <p n="SL-WIKI00058660">Hrasta je ta laskavi glas premagal.</p>
             <p n="SL-WIKI00058661">„O, to znam, da ste mi prijazni! In hvaležen sem Vam!“</p>
             <p n="SL-WIKI00058662">„Torej preudarite in premislite!“</p>
@@ -864,8 +765,7 @@
             <head>Osmo poglavje.</head>
             <p n="SL-WIKI00058667">V teku onega tedna Hrasta ni bilo na Drenovo. Nekaj so ga zadrževala mnoga opravila, nekaj pa se ga je bila polastila čisto naravna reakcija. Ne, da bi bil pozabil Elze, nego vedno pogosteje se je je spominal, in strast njegova je rastla od dné do dné; pa podobna ni bila več plapolajočemu plamenu, temveč tlela mu je le živo v prsih, in taka je bila skoro še bolj pekoča. Kajti zdaj mu je bilo misliti tudi o vprašanji: „Se li hočeš ženiti?“ In to vprašanje je stalo za njim ko strašilo. Tedaj se ve da, ko je guvernanto vrtil v burnem plesu ter čutil njeno gorko sapo ob svojem lici in udarec njenega srca ob svojih prsih, tedaj se ve da mu ni bilo do tega vprašati samega sebe: „Se boš li ženil?“ Tedaj ni videl druzega nego Elzo in ni občutil druzega, nego sladkosti in bridkosti, katere mu je prouzročevala slepa strast.</p>
             <p n="SL-WIKI00058668">Zdaj pa se je oglasila mirna, računjajoča pamet. In njej nasproti si je Hrast redkokrat mašil ušesa. Poleg tega pa so mu hodile po glavi besede Boletove soproge: „Ta revna, uboga guvernanta! Pomislite o svoji prihodnjosti, o svoji karijêri!“</p>
-            <p n="SL-WIKI00058669">Da, da, karijêra, — tako nekako na političnem polji, to je bilo Hrastu najljubše, najprijetnejše sanjarjenje: in za to karijero je treba <pb n="56"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-056.png"/> kolikor toliko — premoženja. Ubog politik je redkokdaj vpliven. Guvernanta pa nima niti počenega groša! ...</p>
+            <p n="SL-WIKI00058669">Da, da, karijêra, — tako nekako na političnem polji, to je bilo Hrastu najljubše, najprijetnejše sanjarjenje: in za to karijero je treba  kolikor toliko — premoženja. Ubog politik je redkokdaj vpliven. Guvernanta pa nima niti počenega groša! ...</p>
             <p n="SL-WIKI00058670">Tako je premišljeval doktor večkrat sleherni dan onega tedna; v nedeljo popoludne se je pa vender odpravil na Drenovo.</p>
             <p n="SL-WIKI00058671">Kakor je pričakoval, našel je Medena tamkaj. Z Boletom sta pila črno kavo ter pušila cigarete. Gospe in Elze ni bilo videti.</p>
             <p n="SL-WIKI00058672">Bolè je predlagal, da napravijo kratek tarok, in kmalu so sedeli vsi trije pri okrogli mizi, zamišljeni in vtopljeni v igro. Čudno, da je bil doktor redkokdaj tako pazljiv pri igri, kakor denes. Čez dobro uro stoprav, ravno ko je bil Meden izgubil veliko igro ter je z nejevoljnim obrazom odštel onima novce, — vprašal je Hrast, tako rekoč mimogrede, kje je Boletova obitelj.</p>
@@ -878,8 +778,6 @@
             <p n="SL-WIKI00058679">Meden je bil odhajajoč tako vtopljen v omenjene hraste, da se niti ozrl ni, Bolè pa je postal malo v vratih ter dejal: „Oprosti, doktor, samo za trenutek; takoj se vrneva.“</p>
             <p n="SL-WIKI00058680">Hrastu se je dozdevalo, da so imele te besede malo porogljiv naglas. Pa ni odgovoril ničesa.</p>
             <p n="SL-WIKI00058681">Oba, doktor in guvernanta, molčala sta dolgo. Sedela sta si nasproti ob okrogli mizi, na kateri je stala velika aloa, in krog nje v malih posodah venec prekrasnih marjetic, hijacint in drugih zgodnjih cvetic. Vonjava, ki je polnila topli zrak, bila je mamljiva.</p>
-            <pb n="57"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-057.png"/>
             <p n="SL-WIKI00058682">In vender so je doktorja polastil neprijeten čut, tako blizu kakor bi bil v ledenici. Streslo ga je dvakrat, mrzlici jednako, in sam ni vedel, je li to strast, ali bojazen pred strastjo. Ko bi bil sedel poleg guvernante, — tega si je bil v svesti, — že z davna bi jo bil objel in poljubil, in to tem rajši in morda tem strastneje, ako bi se bila ona branila; tu pa je stala široka miza med njima, in krasne rože na njej so tako mamljivo duhtele. Do guvernante pa je bilo treba storiti najmenj tri korake, in kolikokrat je človeku v jednakem položaji še jeden korak preveč in nemogoč.</p>
             <p n="SL-WIKI00058683">Elza je bila v molčanji trdovratna; neprestano je zrla na svoje čipke, katere je pletla tudi nocoj, kakor navadno v prostih urah, pa vender je bila videti nemirna; upala si ni pogledati Hrasta, akoravno je dobro čutila, da tudi on ne upira očesa v njo, nego da zre nepremično v tla.</p>
             <p n="SL-WIKI00058684">„Kako ste se zabavali pri Zaloških?“ vpraša doktor prvi, pa ne da bi dvignil glavo.</p>
@@ -889,8 +787,6 @@
             <p n="SL-WIKI00058688">„Jaz Vas ne umem!“ reče guvernanta.</p>
             <p n="SL-WIKI00058689">„Čudno! Ne veste li, da imajo one gospice največ znanstva med oficirji, zlasti kavaleristi in artileristi. Ljudje pravijo, da je ni nedelje brez oficirja — v Zalogu namreč.“</p>
             <p n="SL-WIKI00058690">„Mogoče!“ pristavi guvernanta malomarno; „toda denes ni bilo nobenega. Tudi govorili niso o tacih znancih.“</p>
-            <pb n="58"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-058.png"/>
             <p n="SL-WIKI00058691">Doktor je vstal s stola. Ta pogovor, ki se je sukal krog drugih ljudij, in ki njiju ni več zanimal, nego toliko, da sta besedovala, omogočil mu je, da je stopil k stekleni steni.</p>
             <p n="SL-WIKI00058692">Ko bi bil govoril o svojih stvareh in o svoji ljubezni, ne bi se bil mogel geniti.</p>
             <p n="SL-WIKI00058693">„Krasen večer je to!“ dejal je, ozrši se ven v mesečino.</p>
@@ -905,8 +801,6 @@
             <p n="SL-WIKI00058702">„Deževalo bode morda, — kaj menite?“ reče poluglasno ter se skloni malo ven, oziraje se proti nebu; a takoj upre zopet pogled v Hrasta, poleg katerega je stala.</p>
             <p n="SL-WIKI00058703">Njemu ni bilo treba storiti dveh, treh korakov do nje; — kdo more trditi, da bi jih bil storil nocoj; zdaj pa je stala deklica poleg njega, skoro dotikajoča se ga.</p>
             <p n="SL-WIKI00058704">On je slonel ob debelem, lesenem stebru ter neprestano in molčé gledal ven; kam: ali v nebo, ali proti gradu, ali na pot, tega sam ni znal; čutil je le, da je ona poleg njega.</p>
-            <pb n="59"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-059.png"/>
             <p n="SL-WIKI00058705">„Deževalo?“ vprašal je ponavljaje njene besede.</p>
             <p n="SL-WIKI00058706">In v tem je obrnil obraz k njej.</p>
             <p n="SL-WIKI00058707">Guvernanta pa je slonela že zopet v oknu ter zrla kvišku v oblake, katere je gonil jug v redkih gručah po nebu.</p>
@@ -927,8 +821,6 @@
             <p n="SL-WIKI00058722">„Vzemite to cvetko, doktor! Ali veste kakov pomen ima? O, tega ne veste! <hi rend="spaced">Udanost in potrpežljivost</hi> — pomenja ta cvet. Hranite to rožo; in kadar Vam bom podala drugo jednako, tedaj ...“</p>
             <p n="SL-WIKI00058723">„Tedaj?“ vzkliknil je on nestrpljivo.</p>
             <p n="SL-WIKI00058724">„Tedaj Vam odgovorim, ali pa mojega odgovora želeli ne boste!“</p>
-            <pb n="60"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-060.png"/>
             <p n="SL-WIKI00058725">„Čemu to igranje!“ ugovarja Hrast.</p>
             <p n="SL-WIKI00058726">„Ah, Vi se bojite kake romantične burke,“ nasmehne se Elza; „verujte mi, nič romantike, nič poezije! Samo malo potrpljenja in nekoliko — stanovitnosti je treba!“</p>
             <p n="SL-WIKI00058727">„Vi mi ne zaupate!“</p>
@@ -943,14 +835,12 @@
          </div>
          <div>
             <head>Deveto poglavje.</head>
-            <p n="SL-WIKI00058736">Majnikovi krasni dnevi so potekali jednakomerno nad Borjem, kakor vsi drugi vsega dolzega leta. Saj je pa tudi vsa okolica in leža našega trga jasno svedočila, da je tu ustvarjeno vse le za nekako neizogibno jednakomernost in lehko površnost. Oni nizki <pb n="61"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-061.png"/> holmi krog in krog s svojim svetlozelenim bukovjem, na pol razprostrta ravan na vseh straneh, mala mirna vodica, ki goni nekaj mlinov in žag, — vse to ne prouzročuje globokih vtisov. Snežene planine, — oh, kje so tam daleč v ozadji, in jezera tudi ni, takega skrivnostnega jezera s tolmuni, prozornimi morda par sežnjev globoko — potem pa temnimi in brez dna. Je li čudo, da tudi vsi dogodki v naši povesti tekó tako polagano, jednakomerno, in da ni burnih prizorov, niti ognjenih besed? Jezera ni, skrivnostnega globokega jezera s temnimi tolmuni!</p>
+            <p n="SL-WIKI00058736">Majnikovi krasni dnevi so potekali jednakomerno nad Borjem, kakor vsi drugi vsega dolzega leta. Saj je pa tudi vsa okolica in leža našega trga jasno svedočila, da je tu ustvarjeno vse le za nekako neizogibno jednakomernost in lehko površnost. Oni nizki  holmi krog in krog s svojim svetlozelenim bukovjem, na pol razprostrta ravan na vseh straneh, mala mirna vodica, ki goni nekaj mlinov in žag, — vse to ne prouzročuje globokih vtisov. Snežene planine, — oh, kje so tam daleč v ozadji, in jezera tudi ni, takega skrivnostnega jezera s tolmuni, prozornimi morda par sežnjev globoko — potem pa temnimi in brez dna. Je li čudo, da tudi vsi dogodki v naši povesti tekó tako polagano, jednakomerno, in da ni burnih prizorov, niti ognjenih besed? Jezera ni, skrivnostnega globokega jezera s temnimi tolmuni!</p>
             <p n="SL-WIKI00058737">In vsi ti pogovori, to besedovanjo, kako površno, brez jedra, brez duhovitega zrna je vse to! Škoda, pa naši Borjani so taki, in drugačnih ne smemo risati. Morda bo pa vender kdo našel samega sebe v njih, sicer ne po lici, pa spoznal se bode ter dejal: da, taki smo!</p>
             <p n="SL-WIKI00058738">Mesec majnik je potekal, in zadnji njegovi izredno gorki dnevi so prinašali nekaj novega Borjanom. Par tujih rodbin je dospelo semkaj, da prebijejo poletje v zdravem zraku na deželi. Stanovanje se je lehko dobilo, do železnice tudi ni bilo daleč, in zato so taki gostje že več let obiskovali Borje.</p>
             <p n="SL-WIKI00058739">Tudi Meden je rad oddajal stanovanja v svojem gradiči, ali pa v lepi, prostorni pristavi, oddaljeni kake četrt ure od grada, kjer je bil navlašč za tujce pripravil nekoliko sob. Kadar koli se je prikazal tuj obraz v ozidji borjanskega trga, vselej so imeli naši znanci zvečer pri pivu veliko posvetovanje, kdo je pač ta tujec, od kod je in kar je bilo najvažneje — je li bogat, ali ne. Sodnik Majaron se je brigal za <hi rend="spaced">vse</hi> lastnosti vsacega prišleca, adjunkt Megla pa samo za ženstvo. Drugi so uvrstili svoje zanimanje med ta dva različna pola. Ta radovednost je bila pa tako živa, da se je baje pred par leti sodnik Majaron že resno posvetoval s svojim adjunktom, ne bi li bilo umestno nekega tujca zapreti kot gotovega ogleduha, ker koncem druzega dne svojega bivanja v Borji še ni bil stopil na ulico, in nihče ni vedel njegovega imena. Tudi okrajni glavar in župan sta stikala glavi, k svoji sreči pa je prišel tujec tretjega dne zjutraj na pivo in golaš v gostilno, in tam se je spričal kot star penzijoniran stotnik, katerega je dva dni po glavi trgalo.</p>
             <p n="SL-WIKI00058740">Nocoj je Majaron prvi izprožil pogovor o tujcih.</p>
-            <p n="SL-WIKI00058741">„Ta Lah, ki meni nasproti stanuje, je jako originalen,“ dejal je iztrkavši po stari navadi svojo pipo pod mizo; „ves ljubi dan sloni v <pb n="62"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-062.png"/> oknu ter puši cigarete, in gleda v moje stanovanje! Jaz bom okna zagrnil!“</p>
+            <p n="SL-WIKI00058741">„Ta Lah, ki meni nasproti stanuje, je jako originalen,“ dejal je iztrkavši po stari navadi svojo pipo pod mizo; „ves ljubi dan sloni v  oknu ter puši cigarete, in gleda v moje stanovanje! Jaz bom okna zagrnil!“</p>
             <p n="SL-WIKI00058742">„Morda hoče gospici hčerki dvoraniti?“ omeni Hrast, kateri je imel privilegij izreči kaj tacega.</p>
             <p n="SL-WIKI00058743">„Saj je oženjen!“ deje sodnik s smehom.</p>
             <p n="SL-WIKI00058744">„In kako lepo ženo ima!“ vzklikne Megla z druzega konca mize; „vsak dan se trikrat preobleče.“</p>
@@ -970,8 +860,6 @@
             <p n="SL-WIKI00058758">„O ne Lahi! Oba sta iz Nemcev. Čez zimo sta bivala v Gorici zarad njegove bolezni; on je star in bolehen, ona pa mlada in krasna.“</p>
             <p n="SL-WIKI00058759">„A!“ vzkliknil je Megla.</p>
             <p n="SL-WIKI00058760">„Stanovala pa sta v Gorici v Medenovi hiši, — saj veste, da ima tam Meden hišo — in zdaj, ko jima je tamkaj prevroče postalo, prišla sta semkaj ter ostaneta baje do jeseni.“</p>
-            <pb n="63"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-063.png"/>
             <p n="SL-WIKI00058761">„A!“ dejal je zopet Megla, toda bolj potihoma.</p>
             <p n="SL-WIKI00058762">„Kje ste pa vse to pozvedeli, gospod nadzornik?“ čudi se sodnik.</p>
             <p n="SL-WIKI00058763">„To ni bilo težko!“ smeje se oni; „Medena sem srečal po naključji, in ta me je poučil.“</p>
@@ -991,8 +879,6 @@
             <p n="SL-WIKI00058777">„Ilovski; gledite, tu je zapisano!“</p>
             <p n="SL-WIKI00058778">„Ilovski, Ilovski!“ ponavljal je Hrast po tihem; „kje sem jaz čul to ime?“</p>
             <p n="SL-WIKI00058779">„Morda jih je več na svetu,“ meni sodnik. „Z imeni je tako, kakor z obrazi: človek jih lehko zgreši.“</p>
-            <pb n="64"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-064.png"/>
             <p n="SL-WIKI00058780">„Pa bogati ljudje so to; slugo in služkinjo imajo s seboj. Otrok pa ni,“ nadaljuje nadzornik svoje pripovedovanje. „Meden je tudi nekaj pravil, da gospa ni posebno srečna videti.“</p>
             <p n="SL-WIKI00058781">„Oh, se ve da, Meden! Ta se pa razume na take diagnoze!“ posmehuje se doktor, da bi prikril nemir in zamišljenost, katera sta ga hipno navdala.</p>
             <p n="SL-WIKI00058782">Čudna slutnja se ga je lotila. Ko je zrl pred se na rudeči prt ter prebiral krušnje drobtine, vstajala je pred njim zopet mračna podoba one deklice, katero je on prvič ljubil, a potem tako brezozirno zapustil. To je njeno ime, katero nosi ona zdaj po moži: Ilovski!</p>
@@ -1006,24 +892,19 @@
             <p n="SL-WIKI00058790">„Ko bi jo mogel opisati! Videl sem le polno, mladostno postavo, in pa dvoje živih, črnih očij; v obraz je bila bleda —“</p>
             <p n="SL-WIKI00058791">„Pa lasje, lasje!“ hiti doktor v začudenje vseh nazočih; „kake barve so lasje?“</p>
             <p n="SL-WIKI00058792">„Teh pa nisem videl! Toda stojte, meni se zdi, da ima prav rumenkaste, svetloplave — oh da, da; še čudno se mi je zdelo — črne oči in tako svetle lase!“</p>
-            <pb n="65"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-065.png"/>
             <p n="SL-WIKI00058793">Hrast je na videz malomarno odkimal, a zobe je tiščal vkup in rekel bi bil kmalu na glas: „Ona je — Katinka je!“</p>
             <p n="SL-WIKI00058794">Ne dolgo potem je odšel domov; tam pa še niti klobuka, niti vrline suknje ni odložil, nego iskati je jel po predalih svoje mize ter naposled res izvlekel ono pismo.</p>
             <p n="SL-WIKI00058795">Tu pa je stalo ime Katinčinega soproga: Ilovski.</p>
             <p n="SL-WIKI00058796">„Ona je, ona je!“ sikal je Hrast mej zobmi.</p>
             <p n="SL-WIKI00058797">To noč dolgo ni zatisnil očesa in zadnje njegove misli niso bile pri Elzi, nego tam gori daleč na Dunaji in v Badnu in naposled na Medenovi pristavi.</p>
          </div>
-         <pb n="66"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-066.png"/>
          <div>
             <head>Deseto poglavje.</head>
             <p n="SL-WIKI00058798">Pristava Medenova je bila, kakor smo že povedali, oddaljena kake četrt ure hoda od njegove graščine in je stala na zelenem holmiči onkraj malega potoka, kateri je gonil malo niže Boletove pile. Leža njena je bila skoro lepša ko gradičeva, akoravno se je takoj ob zadnjem konci poslopja pričel že gost bukov log, ki je prikrival razgled na dalnje gore. Iz onega loga pa je vodila stezica po holmovem grebenu navzdol v sotesko, po kateri je poleg omenjenega potoka tekla okrajna cesta.</p>
             <p n="SL-WIKI00058799">Ne daleč od mesta, kjer sta se stikali cesta in ona steza, stala je ob potokovem bregu borna lesena kovačnica, združena z ravno tako bornim lesenim hramom; jedino ognjišče s stransko steno vred je bilo zidano.</p>
             <p n="SL-WIKI00058800">Tamkaj je vlekel dan na dan svoj kovaški meh ter koval, kalil in brusil svedre stari kovač <hi rend="spaced">Tileh</hi>.</p>
             <p n="SL-WIKI00058801">To vam je bil čuden možic; bavil se je samo s svedri, kaj druzega ni hotel zdelavati; in v ostri, dovtipni besedi je bil vsakemu kos. Premagala ga je jedina njegova „baba“, kakor je sam v slabih urah potrdil; toda ona ga ni zmagovala z jezikom, kakor bi morda kdo sodil, nego s polenom, ker je bila telesno močnejša. Otrok nista imela, in živela sta izvzimši par nesrečnih hudournih slučajev, v katerih se je redno izpričala nadvlada matere kovačice, prav v miru in v sporazumljenji.</p>
-            <p n="SL-WIKI00058802">Ta žena kovačeva, Barba jej je bilo ime, opravljala je tudi redno leto za letom gori na pristavi pri tujcih službo postrežnice; pa ne, da bi kdo mislil in sodil o kaki posebni izurjenosti te žene in imenitnosti te službe; nego vse njeno poslovanje se je združevalo v tem, da je po bližnjih vaseh prekupovala maslo, jajca in kuretino, <pb n="67"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-067.png"/> nabirala jagode ter potem te in jednake tvarine kot po Medenu pooblaščena prodajalka ponujala in oddajala z malim dobičkom tujcem na pristavi.</p>
+            <p n="SL-WIKI00058802">Ta žena kovačeva, Barba jej je bilo ime, opravljala je tudi redno leto za letom gori na pristavi pri tujcih službo postrežnice; pa ne, da bi kdo mislil in sodil o kaki posebni izurjenosti te žene in imenitnosti te službe; nego vse njeno poslovanje se je združevalo v tem, da je po bližnjih vaseh prekupovala maslo, jajca in kuretino,  nabirala jagode ter potem te in jednake tvarine kot po Medenu pooblaščena prodajalka ponujala in oddajala z malim dobičkom tujcem na pristavi.</p>
             <p n="SL-WIKI00058803">In kadar je kako šestico več zaslužila, nego je bila s prvega računala, potem je kupila za njo žganja ter ga prinesla domov Tilhu. Le ta je pa hvalil v dobrih urah Barbo rekoč: „Moja baba je več vredna in boljša nego pol grunta!“</p>
             <p n="SL-WIKI00058804">Tako je šlo leto za letom.</p>
             <p n="SL-WIKI00058805">Nikdar pa še kovačica glede tujcev ni bila tako razdražena nego letos. Tri dni sta že prebivala dva tujca, gospod in gospa na pristavi, pa do zdaj še ni imela prilike izpregovoriti z jednim ali drugim; le ohola služkinja, katera je ob jednem opravljala kuhinjska opravila, kupovala je jajca in piščeta od kovačice, z drugim pa ni bilo moči govoriti; to je bila škoda Barbi, ker ona je najskopejšo gospo vedela pripraviti do tega, da je dobila od nje kako staro obleko ali ruto; vse jej je dobro prišlo. Tudi glede nemškega ali laškega govora Barba ni bila v zadregi; vsako leto je vedela par besedij več, in porabljala jih je na pravem mestu.</p>
@@ -1037,8 +918,6 @@
             <p n="SL-WIKI00058813">„Ah, da, da,“ reče ter potrka s palčico ob železo, „vodo bodo s hriba v grad napeljali!“</p>
             <p n="SL-WIKI00058814">„To Vi bolje veste, gospod doktor, ker ste vsak dan gori v gradu. In pa dobra prijatelja sta z gospodom Drenovskim!“</p>
             <p n="SL-WIKI00058815">„To se ve da,“ deje Hrast, kajti ta je stal pred kovačnico; „povejte, Tileh, koliko časa kujete tak sveder?“</p>
-            <pb n="68"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-068.png"/>
             <p n="SL-WIKI00058816">„Tak sveder?“ ponavlja kovač; „verjemite mi, da je Bog prej svet ustvaril, nego se naredi tak sveder; in ko bi bil Bog hotel še tak sveder ustvariti, bil bi ves osmi dan za to namenil; ničesa druzega bi ne stalo o istem dnevi v svetem pismu.“</p>
             <p n="SL-WIKI00058817">Hrast se je smijal.</p>
             <p n="SL-WIKI00058818">„Čemu se smejete! Tu ni treba nič smeha; Vi ne umete tega, gospod doktor. Ko bi Vi kovali sveder, ukrenili bi tudi tako, kakor mati županja z bukvami.“</p>
@@ -1056,8 +935,6 @@
             <p n="SL-WIKI00058830">„Lahi?“</p>
             <p n="SL-WIKI00058831">„Vrag ga vedi!“</p>
             <p n="SL-WIKI00058832">Hrast je čutil, da kovaču ni nekaj po godu, toda zastonj je ugibal, kaj in kako.</p>
-            <pb n="69"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-069.png"/>
             <p n="SL-WIKI00058833">„Hočete li jedno zasmoditi?“ deje ter ponudi Tilhu smodko.</p>
             <p n="SL-WIKI00058834">Ta jo namuznivši se vzame ter jo položi na klop poleg korita.</p>
             <p n="SL-WIKI00058835">„Ta sveder bi dal, ko bi vedel, česa hoče ta škrijc?“ Tako je ugibal Tileh sam pri sebi.</p>
@@ -1079,8 +956,6 @@
             <p n="SL-WIKI00058851">Doktorju je bil pogor zopet po volji, pa vender se je jel ozirati proti nebu; mračilo se je skoro. Nekaj bi bil sicer še rad povpraševal, in tudi kovač je še vedno ugibal, kaj pomenja to postajanje in govoričenje Hrastovo, a nihče njiju se ni drznil stopiti za korak bliže svojemu namenu.</p>
             <p n="SL-WIKI00058852">„Mračno bo že!“ reče doktor.</p>
             <p n="SL-WIKI00058853">„Da, da; izprehodili ste se že, gospod!“ veli oni; „pol ure pa boste še potrebovali do trga.“</p>
-            <pb n="70"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-070.png"/>
             <p n="SL-WIKI00058854">V tem trenutku so se pa začuli človeški koraki in ropot malega voziča sem od gorenje strani ceste, katera je delala za Tilhovo kovačnico oster ovinek, tako da prihajajočega od te strani ni bilo moči prej opaziti, nego v trenutku, ko je bil že skoro poleg koče.</p>
             <p n="SL-WIKI00058855">Prizor, ki se je pokazal očem naših dveh znancev, bil je pa v istini za ta kraj nenavaden.</p>
             <p n="SL-WIKI00058856">V širokem stolu na kolesih je sedel bled, postaren gospod, do podbradka zavit v debelo odejo; očitno je bil silno bolehen in slab. Stol pa je rinil sluga počasi po gladki cesti.</p>
@@ -1091,8 +966,7 @@
             <p n="SL-WIKI00058861">„Hladno je v tej dolini!“</p>
             <p n="SL-WIKI00058862">„Da, da!“ prikimal je oni.</p>
             <p n="SL-WIKI00058863">Zavila ga je tesneje v odejo, pripognivši se globoko k njemu.</p>
-            <p n="SL-WIKI00058864">Bili so že kakih dvajset korakov od kovačnice oddaljeni, pa doktor je še vedno mehanično gledal za njimi. Vedel je zdaj, da ga <pb n="71"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-071.png"/> je tudi ona spoznala; in kako gorko ga je spreletel njen zadnji prestrašeni pogled.</p>
+            <p n="SL-WIKI00058864">Bili so že kakih dvajset korakov od kovačnice oddaljeni, pa doktor je še vedno mehanično gledal za njimi. Vedel je zdaj, da ga  je tudi ona spoznala; in kako gorko ga je spreletel njen zadnji prestrašeni pogled.</p>
             <p n="SL-WIKI00058865">Tudi on se je je bil ustrašil, ko je tako na naglem stopila izza ovinka, akoravno se je šetal po tej soseski, da bi srečal — njo; ta zadnji pogled pa ga je skoro umiril. Ono ponosno dviganje glave, oni skoro zaničljivi obraz okrog usten, vse to ga ni brigalo; v mislili mu je bilo za trenutek le to, da jo je presunilo, kakor njega, ko sta se ugledala.</p>
             <p n="SL-WIKI00058866">Takoj potem pa je videl, kako se je ona sklonila k staremu bolnemu možu ter zavijala mu odejo tesneje okrog života. Rudečice na njenem lici ni zapazil, — kaj mu je bilo tudi mari rudečice, — a le ta skrb za moža! Zbodlo, speklo ga je v globini srca, ko je ugledal belo, malo njeno roko na rami njenega soproga. Pa kako globoko, kako blizu njegovega lica se je sklonila! ... O ti neznosna strast človeška!</p>
             <p n="SL-WIKI00058867">Tileh je zastavil svojo pilo in njeni cvileči glasovi so vzdramili Hrasta.</p>
@@ -1106,8 +980,6 @@
             <p n="SL-WIKI00058875">„Če Bog ne ve bolje za njo, nego jaz ...“</p>
             <p n="SL-WIKI00058876">„Tileh!“ deje resno Hrast, „tu imate jeden forint; dal Vam bom še dva, če kaj več pozveste o tej gospodi. Vaša žena to lahko storí, toda molčite; tu se gre za imenitno — pravdo, in jaz moram več zvedeti o teh ljudeh.“</p>
             <p n="SL-WIKI00058877">Zdaj je Tileh vedel, zakaj je doktor sedèl pri njem na nerodnem hruševem hlodu. Srce se mu je ohladilo in z zadovoljnim obrazom je spravil goldinar.</p>
-            <pb n="72"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-072.png"/>
             <p n="SL-WIKI00058878">„Kaj pa hočete vedeti?“ vpraša še le potem.</p>
             <p n="SL-WIKI00058879">„I no, kako živijo, kam hodijo, ali veliko denarja potrosijo, in take stvari!“</p>
             <p n="SL-WIKI00058880">„Tristo méhov, kurjih! Nekoliko že vem; živé dobro, vsak dan jedo pečena piščeta; jajec in masla tudi mnogo potrebujejo. Kako je z vinom, tega ne vem; pri Medenu boste zvedeli, ta jim je prodaje! In kam hodijo? Nikamor! Tu okoli menda vozijo gospoda. Videl jih še nisem, pa moja baba pripoveduje o gospe, da sedi ona zjutraj in zvečer tam gori v ...“</p>
@@ -1126,13 +998,10 @@
             <p n="SL-WIKI00058893">„To me ne briga!“ reče Hrast.</p>
             <p n="SL-WIKI00058894">Dosegel je bil, česar je za zdaj želel. „Če boste še kaj važnega zvedeli, pridite k meni! Potem bova račun pobotala.“</p>
             <p n="SL-WIKI00058895">Rekoč odide po stranski stezi proti Borji.</p>
-            <p n="SL-WIKI00058896">Tileh je stal še nekoliko časa pred svojo kovačnico ter preobračal sreberni goldinar po žepu. „Pravda, pravda!“ govoril je sam pri sebi; „kakšna pravda more to biti! Jaz tudi vem nekoliko o pravdah, pa o taki, da bi se prej pozvedovalo, kako in kaj jedó <pb n="73"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-073.png"/> in pijó, in kam ženske sedet in šivat hodijo, — o taki pravdi pa še nisem čul! No, to je bil pa res v senci zaslužen denar!“</p>
+            <p n="SL-WIKI00058896">Tileh je stal še nekoliko časa pred svojo kovačnico ter preobračal sreberni goldinar po žepu. „Pravda, pravda!“ govoril je sam pri sebi; „kakšna pravda more to biti! Jaz tudi vem nekoliko o pravdah, pa o taki, da bi se prej pozvedovalo, kako in kaj jedó  in pijó, in kam ženske sedet in šivat hodijo, — o taki pravdi pa še nisem čul! No, to je bil pa res v senci zaslužen denar!“</p>
             <p n="SL-WIKI00058897">Stopil je v kovačnico ter skril goldinar za polico, na kateri so visela kladiva in drugo kovaško orodje.</p>
             <p n="SL-WIKI00058898">„Da bode v nedeljo vender še kaj v žepu razven krušnih drobtin!“</p>
             <p n="SL-WIKI00058899">Tako zadovoljno mrmraje je odšel v hram.</p>
-            <pb n="74"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-074.png"/>
             <p n="SL-WIKI00058900">Hrast je bil krenil po stranski stezi proti Borji ter meril urnih nog svoj pot.</p>
             <p n="SL-WIKI00058901">Pa ne dolgo, kajti na krat je obstal, pobrskal s palico po listji kraj steze ter zamišljeno zrl pred se.</p>
             <p n="SL-WIKI00058902">„Naj velja, kar hoče!“ dejal je čez nekoliko trenutkov poluglasno, udaril s palico po bližnjih vejah ter se obrnil povprek čez goščo na stran, kjer je stala Medenova pristava.</p>
@@ -1142,8 +1011,6 @@
             <p n="SL-WIKI00058906">„In kam pojde? Gori v bukovje, kakor navadno. Govoriti moram ž njo! Pa kaj? Kaj poreče ona? Ah, stresnilo jo je, ko me je videla — in kako lepa je, kako krasna — ah —“</p>
             <p n="SL-WIKI00058907">Obstati je moral; steza, po kateri je stopal kvišku proti grebenu, bila je strma in preprečena z debelimi koreninami, on pa je bil že silno zasopen. Temno je tudi postajalo in v dolino še ni bilo mesečnih žarkov.</p>
             <p n="SL-WIKI00058908">„Kaj poreče?“ premišljeval je v novič. „Bežala bo, — ne, ne, pa niti pogledala me ne bode, nego morda — z zaničevanjem! Ah, — kaj zaničevanje! Kaj besede! Ljubi me pa vender še. Bode li tega hromega starca ljubila? Nocoj je prilika govoriti ž njo, torej le dalje!“</p>
-            <pb n="75"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-075.png"/>
             <p n="SL-WIKI00058909">Ves razvnet in skoro besen je bil v svoji strasti, in to tem bolj, čim više je prihajal in čim bolj se je spehal po strmi stezi. Zato tudi hladnega, pametnega sklepa in presojevanja ni bil več zmožen.</p>
             <p n="SL-WIKI00058910">Vsegdar se bodemo motili, ako mislimo, da je stara nekdanja strast in ljubezen na veke pokopana, ako smo jej tudi v mrzli uri dali slovo ter novi ljubezni odprli dušek, katera ono izključuje; bodimo tudi še tako srečni, naj nam polni nova ljubav vso dušo, vse dejanje, vse življenje: nikdar nismo gotovi, da se stara ljubezenska strast ne povrne z dvojno elementarno silo ter ne podere in ne razruši vseh močnih in lehkih spon, v katere nas je že poznejša uklenila.</p>
             <p n="SL-WIKI00058911">Taka se je godila nocoj tudi z doktorjem. Jedin spogled s to krasno ženo, katero je nekdaj imenoval svojo ljubo, jedino to nemo srečanje mu je navdalo dušo z nepoznano, z neznosno strastjo, kateri bi bil zdaj, nocojšnji večer vse žrtvoval.</p>
@@ -1154,8 +1021,7 @@
             <p n="SL-WIKI00058916">Zasopel je trikrat globoko, da umiri srce, ki mu je skoro na glas bílo, ter šel naglimi koraki proti logu.</p>
             <p n="SL-WIKI00058917">Debela, kamenita miza je stala pod dvema košatima drevesoma in nekoliko surovo tesanih klopij okrog nje; a žive duše ni bilo blizu.</p>
             <p n="SL-WIKI00058918">„Ni je še!“ šepetal je Hrast ter sédel na klop tako, da je zrl na jasno obsevano stezo proti gradu. „Priti pa mora, — mora — mora!“</p>
-            <p n="SL-WIKI00058919">Zadrževal je sapo, da bi čul korake prej, nego da ugleda prihajajočo. Pa zastonj! Okrog njega po travi, po grmovji so cvrčali in škripali murni, kobilice in drugi mrčes, v samotni dolini pod njim pa so skovikale v jedno mer mlade sove. Druzega glasu ni bilo čuti. <pb n="76"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-076.png"/> Tam daleč pod Drenovskim gradom so zaukali čez dolgo časa grajski hlapci in kmalu potem je čul doktor glas borjanske ure: bíla je deset.</p>
+            <p n="SL-WIKI00058919">Zadrževal je sapo, da bi čul korake prej, nego da ugleda prihajajočo. Pa zastonj! Okrog njega po travi, po grmovji so cvrčali in škripali murni, kobilice in drugi mrčes, v samotni dolini pod njim pa so skovikale v jedno mer mlade sove. Druzega glasu ni bilo čuti.  Tam daleč pod Drenovskim gradom so zaukali čez dolgo časa grajski hlapci in kmalu potem je čul doktor glas borjanske ure: bíla je deset.</p>
             <p n="SL-WIKI00058920">„Ne bo je, ne bo je!“ hitel je sam pri sebi; „a če nocoj ne, pa jutri, pa drugokrat!“</p>
             <p n="SL-WIKI00058921">Odšel je počasi, postal še dvakrat, in jedenkrat se vrnil celo nekoliko korakov nazaj, ker se mu je zdelo, da je čul glas stopinje; pa zaman.</p>
             <p n="SL-WIKI00058922">Ko je šel naglo s povešeno glavo proti Borji, bilo mu je v mislih jedino: „Jutri, pojuteršnjem — jedenkrat gotovo!“</p>
@@ -1166,8 +1032,7 @@
             <p n="SL-WIKI00058924">Prav vesel je bil ta večer, in da niso pogrešali niti pevcev niti godbe — v sili jedne harmonike, — za to je skrbel zopet Megla.</p>
             <p n="SL-WIKI00058925">Tudi letos je že ves teden prej letal od jednega do druzega z vpisno polo ter nabiral novce, naročal to in ono ter časi govoreč o onih, kateri so bili že obljubili, da se udeležé veselice, migal jako skrivnostno z ramami.</p>
             <p n="SL-WIKI00058926">K doktorju je prišel stoprav dva dni pred kresom. Tega se je bila, kakor vselej po jednacih viharjih, polastila navadna reakcija, in od onega večera navzlic tedanji trdni nameri ni bil še blizu Medenove pristave. Na Drenovo pa tudi ni šel.</p>
-            <p n="SL-WIKI00058927">Dopoludne se je v prostih urah posmehoval samemu sebi, popoludne po dokaj obilem obedu pri izpraznjeni butelji pikrega terana so ga obhajale redno romantične misli, in udal bi se jim bil gotovo ter šel ven, tja ven proti znanemu logu, ko bi bilo vsaj že — mračno. A do tja je bilo še mnogo ur in suhi pravni spisi, katere je študiral, <pb n="77"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-077.png"/> zadušili so vso romantiko. Zvečer je zatorej redno — mesto na levo iz trga, — krenil na desno v gostilno.</p>
+            <p n="SL-WIKI00058927">Dopoludne se je v prostih urah posmehoval samemu sebi, popoludne po dokaj obilem obedu pri izpraznjeni butelji pikrega terana so ga obhajale redno romantične misli, in udal bi se jim bil gotovo ter šel ven, tja ven proti znanemu logu, ko bi bilo vsaj že — mračno. A do tja je bilo še mnogo ur in suhi pravni spisi, katere je študiral,  zadušili so vso romantiko. Zvečer je zatorej redno — mesto na levo iz trga, — krenil na desno v gostilno.</p>
             <p n="SL-WIKI00058928">Kakor ga poznamo do zdaj, tega našega junaka, ne moremo se čuditi takim izpremembam.</p>
             <p n="SL-WIKI00058929">Megla ga je počastil torej še le predzadnji dan pred veselico s svojo vpisno polo.</p>
             <p n="SL-WIKI00058930">„Krasno bode letos, gospod doktor!“ hitel je neutrudljivi aranžér; „vse se bode udeležilo, trg in okolica. Rakete so izborne, po goldinarji sem jih plačal!“</p>
@@ -1187,8 +1052,6 @@
             <p n="SL-WIKI00058944">„Ne, ne, začudil sem se le, kako srečo imate Vi glede novih znanstev!“ reče zopet doktor navidezno mirno; utripalo je pa vender vse po njem.</p>
             <p n="SL-WIKI00058945">„Torej kaj ste opravili tam pri Boletovih?“ nadaljuje ter sede zopet k mizi.</p>
             <p n="SL-WIKI00058946">„Vse sem povabil, tudi to krasno tujko, in na daljše prigovarjanje — vedite, jaz znam govoriti, kadar hočem — obljubila je, da pride z Boleško k našemu kresu. Soprog njen pa ne more.“</p>
-            <pb n="78"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-078.png"/>
             <p n="SL-WIKI00058947">„No, no! Čestitam Vam!“</p>
             <p n="SL-WIKI00058948">„Pa to je še skrivnost. Samo Vam sem jo razodel, torej prosim, molčite do tedaj!“</p>
             <p n="SL-WIKI00058949">„Da jo Vi pripeljete zmagonosno v našo družbo!“ deje Hrast porogljivo. „Ne bojte se, da bi izdajal Vašo skrivnost. Molčal bom, ko zid.“</p>
@@ -1207,8 +1070,6 @@
             <p n="SL-WIKI00058962">Jedenkrat se je bil doktor že tolažil s tem izrekom; a bilo je to v ravno nasprotnem slučaji nego danes.</p>
             <p n="SL-WIKI00058963">Stopil je k oknu ter pritisnil vroče čelo na steklo. Na oknu v kozarci vode pa so stale zopet rože, cel šopek, katerega mu je pripravila skrbna hišna gospodinja; pa ta vonjava, ta duh ni imel več take moči ko nekdaj one vijolice; to je bilo vse navadno, vsakdanje, brez ognja! Le tu v njegovi glavi, v prsih, tu je gorelo in peklo.</p>
             <p n="SL-WIKI00058964">Opoludanski zvon ga je vzdramil.</p>
-            <pb n="79"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-079.png"/>
             <p n="SL-WIKI00058965">„Neumnost, grozna neumnost!“ siknil je ter zmajal rame, kakor bi hotel nekaj otresti; obraz mu je bil nenavadno resen. Ko je pa nekoliko trenutkov pozneje korakal čez trg proti gostilni, kjer je zdaj navadno obedoval, bil je zopet stari doktor Hrast.</p>
          </div>
          <div>
@@ -1226,8 +1087,6 @@
             <p n="SL-WIKI00058976">„Ah, spominjam se le, kako se je meni godilo, ko sem bila prvič v borjanski čitalnici. Ali še veste, milostiva, kako so me hoteli slovenskega jezika učiti?“</p>
             <p n="SL-WIKI00058977">„To menda še vedno hočejo!“ odgovori malo zbadljivo Boleška. „In doktor Hrastovo slovnico menda sami rabite.“</p>
             <p n="SL-WIKI00058978">„Se ve da!“ zavrne guvernanta nedolžno in veselo, in ne da bi izpremenila barve na lici. „On je bil jedini, ki je imel slovnico.“</p>
-            <pb n="80"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-080.png"/>
             <p n="SL-WIKI00058979">Niti Boleška, niti Elza nista zapazili, da se je tujka stresnila pri zadnjih besedah Drenovske gospe. Lahka rudečica jej je silila v lice, a potem je bila takoj zopet bleda, kakor vedno.</p>
             <p n="SL-WIKI00058980">„Je li to poseben čestilec Vaš?“ vpraša mirno, obrnivša se k Elzi.</p>
             <p n="SL-WIKI00058981">„Tega ne smem in ne morem trditi, kajti zdaj ga menda že štirinajst dnij ni bilo na Drenovo, ka-li?“ smeje se ona.</p>
@@ -1239,8 +1098,6 @@
             <p n="SL-WIKI00058987">Gori je bilo vse najboljše volje. Pevci, katere so reprezentirali učitelji in nekoliko pisarjev iz Borja in njim na čelu občinski tajnik Koren, sedeli so okrog sodčeka piva ter peli v jedno mer in praznili kozarce. Megle ni bilo med njimi, ker je bil reditelj ter je imel povsod, posebno pri ženstvu, dosti opravila. Ne daleč od pevcev je sedel na improviziranem sedeži sodnik Majaron ter nad vse hvalil pečenega janjca, rekoč, da prekosi vsako teletnino. Blizu njega sedeli in stali so lekar, sodnijski pristav in nekaj odličnejših tržanov. Gospe so sedele v veliki gruči in ne daleč od njih se je gnetlo dokaj mladega ljudstva: gospodične in mladi gospodiči, zadnji iz onih krogov, iz katerih so se rekrutirali tudi pevci. Za njimi na velikem kamenu je pa sedela godba, namreč dva godca, jeden s harmoniko, drugi z okornimi gosli, in po cvilečih glasovih, katere sta vzbujala ta dva, rajal je ves mladi svet.</p>
             <p n="SL-WIKI00058988">Jedi in pijače je bilo dovolj; vsak si je izbral, kar si je hotel ter vzel z bifeja, ki je bil napravljen na veliki surovo tesani deski.</p>
             <p n="SL-WIKI00058989">Kakih petdeset korakov v stran je gorel velik ogenj, kjer so bili spekli janjca, poleg njega pa je bila pripravljena za pozni večer še velikanska grmada. Kmetski fantini pa so tam v jedno mer nabijali topiče ter zažigali jih, da je gromelo daleč po ravnini.</p>
-            <pb n="81"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-081.png"/>
             <p n="SL-WIKI00058990">Hrast je bil že tu, pa motal se ni med veliko družbo, nego stal je skoro ves čas na strani ter govoril z okrajnim glavarjem in njegovo soprogo, katera sta bila vedno malo bolj zá-se, ker jima ni bil pač vsakdo po volji. Pa če sta danes od doktorja posebne zabave pričakovala, zmotila sta se bila jako; kajti silno redkobeseden je bil nocoj in razmišljen tako, da je časi kar narobe odgovarjal. Neprenehoma pa je zrl na pot v dolino in na goščavo, po kateri je tekla steza, vodeča sem gori.</p>
             <p n="SL-WIKI00058991">Vsi, ki so prihajali od tamo, morali so tu mimo, kjer je stal Hrast z glavarjem.</p>
             <p n="SL-WIKI00058992">Pa navzlic svoji pozornosti je vender zamudil trenutek, ko se je Boletova družba pokazala iz gozdiča.</p>
@@ -1253,8 +1110,6 @@
             <p n="SL-WIKI00058999">Bolè je bil ponudil Katinki roko ter je stopal na čelu svojim ljudem. Oči vse velike družbe so bile s silno radovednostjo uprte v prelepo tujko; nekateri so jo že poznali. Megla pa je z ostentativno zgovornostjo korakal na njeni strani ter pripovedoval, kako izvrsten je bil pečeni janjec, ter da obžaluje, da jej ga ne more več ponuditi, kajti še premalo ga je bilo. Zato jo bo pa umeteljni ogenj za vse odškodoval.</p>
             <p n="SL-WIKI000581000">Katinka ni posebno pozorno poslušala svojega soseda. Težko sapo je imela, in Bolè je v mislih, da jej je pot prestrma, hotel za trenutek počiti. Toda ona je silila dalje.</p>
             <p n="SL-WIKI000581001">Zdaj so bili pri glavarjevih; Hrast je stal malo v ozadji in Ilovska ga še ni bila ugledala, akoravno je zrla vedno, pa le na videz malomarno na vse strani.</p>
-            <pb n="82"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-082.png"/>
             <p n="SL-WIKI000581002">Predstavljanje se je vršilo kratko, običajno, in zdaj je prišel tudi Hrast na vrsto. Rudeč je bil na krat v lice, kakor kuhan rak.</p>
             <p n="SL-WIKI000581003">„To je pa moj stari prijatelj, doktor Hrast, advokat tukaj v Borji,“ dejal je veselo Bolè, ter potem obrnivši se k onemu nadaljeval: „Gospa Ilovska!“</p>
             <p n="SL-WIKI000581004">Doktor se je skoro nerodno priklonil, pa upal se ni pogledati mu predstavljene Katinke. Rekel tudi ni ničesa.</p>
@@ -1264,8 +1119,6 @@
             <p n="SL-WIKI000581008">„Zdaj se ve da ne več! Pa bila sem nekdaj!“ deje ona smehom ter ponudi Hrastu svojo belo roko.</p>
             <p n="SL-WIKI000581009">Podala sta si — ona njemu svojo mrzlo, skoro ledeno, on njej svojo vročo roko. A stisnila si ju nista.</p>
             <p n="SL-WIKI000581010">On ni vedel, kaj se godi ž njim, ni vedel kaj namerava Katinka; ta ton, ta lehkoživa veselost in ta mrzla ledena roka! Kaj pomeni vse to? Pa zdaj je bil že sredi reke in plavati je moral; — pa ne proti bregu do vrbovja, kjer bi se bil prijel za šibino, ne, ne; plavati je moral sredi reke, naprej, le naprej; kam — tega sam ni vedel; spustil se je po burnem toku: — le naprej, naprej, in le — na površji, če tudi sredi penečih valov.</p>
-            <pb n="83"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-083.png"/>
             <p n="SL-WIKI000581011">Bolè je spremljal njo dalje proti središču cele družbe, kjer so sedele druge gospe, in Hrast se je nehoté obrnil za njima. Pa niti dveh korakov ni storil, kar ga ustavi Boleška.</p>
             <p n="SL-WIKI000581012">„Ah, gospod doktor, ste li še med živimi?“</p>
             <p n="SL-WIKI000581013">Govorila je to z malo zlobnim nasmehom; za njo pa je stala Elza ter si malomarno pahljala lice. Hrast je skušal postati jako ljubezniv; opravičeval se je, izgovarjal z obilimi poslóvi ter Boleški ponudil roko, da jo pelje za druzimi; Elza pa je poklicala svojo gojenko.</p>
@@ -1274,8 +1127,6 @@
             <p n="SL-WIKI000581016">„Čudno! Vi imate vender boljši spomin za krasotice, nego marsikdo drugi,“ šali se Boleška.</p>
             <p n="SL-WIKI000581017">„Tedaj ni bila tako krasna,“ izusti on naglo, pa takoj hitro popravi: „No krasna — krasna? To ni pravi izraz — in sodba o ženski krasoti tudi ne more biti lehko objektivna.“</p>
             <p n="SL-WIKI000581018">„To se pravi: Vi imenujete one krasne, katere Vam prirastajo k srcu — in ha, ha, kaj menite, da od Vas pričakujemo objektivne sodbe o tem predmetu? Prejšnji Vaš izrek je ravno zato, ker mu sami odrekate objektivnost, jako važen in pomenljiv.“</p>
-            <pb n="84"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-084.png"/>
             <p n="SL-WIKI000581019">„Milostiva, Vi bi bili izvrsten odvetnik!“</p>
             <p n="SL-WIKI000581020">„In Vi milovanja vreden nasprotnik moj!“</p>
             <p n="SL-WIKI000581021">„Kaj še! Vsak bi me zavidal. Oprostite, kje si bodete izbrali sedeže?“</p>
@@ -1292,8 +1143,6 @@
             <p n="SL-WIKI000581032">„Glejte, milostiva, tako si moramo pomagati pri nas!“ reče Bolè s smehom tujki.</p>
             <p n="SL-WIKI000581033">„Kakor se mi vidi, ima ta veselica nekov familjaren značaj,“ odgovori ona.</p>
             <p n="SL-WIKI000581034">„O, da, da! Prav sodite; čestitam Vašim bistrim očem. Jako familjarno, in sicer na dobro in na slabo stran, — tako mora biti vse pri nas. Tam le bodo nocoj še kozolce preobračevali, soproga našega nadzornika bo sigurno jeden kozarec preveč izpraznila, okrajno glavarstvo, ali recte glavar in njegova milostiva bodeta nosove vihala — jutri pa bode ves trg poln hvale, kako krasna, elegantna veselica je bila to.“ Bolè je svoje zlobne opazke končal z glasnim smehom. Ilovska ga je začudena pogledovala, soproga njegova pa ni vedela bi se li jezila — ka-li?</p>
-            <pb n="85"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-085.png"/>
             <p n="SL-WIKI000581035">„Ljubi moj!“ reče mu z očitajočim glasom. „Gospa Ilovska mi tega ne bode v zlo štela. Treba je, da pozna naše običaje. Tako je, in ne drugače — in odkritosrčno rečeno, jaz se tudi prav dobro zabavam pri tacih prilikah. Doktor, mi dva bodeva še plesala nocoj, kaj ne?“ Le ta stopi z Elzo vred bližje.</p>
             <p n="SL-WIKI000581036">„To bode lep prizor!“ meni Boleška.</p>
             <p n="SL-WIKI000581037">V tem trenutku pride Megla z dvema pomagačema ter donese mrzlih jedil in piva. Tudi glavarjeva sta prišla in sodnikovi.</p>
@@ -1316,8 +1165,6 @@
             <p n="SL-WIKI000581054">„Obžalujem Vas.“ Ona ga je začudena pogledala.</p>
             <p n="SL-WIKI000581055">„Da, da —“ pristavi on, „zarad — zarad te bolezni.“</p>
             <p n="SL-WIKI000581056">Povesila je glavo, toda odgovorila ni.</p>
-            <pb n="86"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-086.png"/>
             <p n="SL-WIKI000581057">„In kaj je?“</p>
             <p n="SL-WIKI000581058">Vprašal je to bolj po tihem, kakor je vse zadnje besede skoro šepetaje govoril.</p>
             <p n="SL-WIKI000581059">„Zdravniki pravijo, da je neozdravljiva.“</p>
@@ -1337,8 +1184,6 @@
             <p n="SL-WIKI000581073">„Kaj še!“ oglasi se Majaron na drugem kraji, užigaje svojo na novo natlačeno pipo. „Jaz tudi pravim, da je bilo časih lepše nego dandanes. Pivo je bilo v cenó, zajcev toliko, ko kobilic, —“</p>
             <p n="SL-WIKI000581074">„Da, da, gospod sodnik; pa doktor ne govori o starih časih, nego o svojih koncipijentovskih letih. Takrat je sicer tudi pivo pil, zajcev pa ni streljal!“ zavrne med glasnim smehom Bolè.</p>
             <p n="SL-WIKI000581075">Veselost v družbi še ni bila polegla, ko švigne gori na prostoru, kjer so prej pokali topiči, svetla raketa v zrak.</p>
-            <pb n="87"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-087.png"/>
             <p n="SL-WIKI000581076">„Ah, umetalni ogenj! Krasno, izvrstno,“ kličejo nekateri, in vsi vstanejo ter se napoté izpod drevja pod milo nebo.</p>
             <p n="SL-WIKI000581077">Guvernanta se je počasi zavijala v širok robec ter od strani gledala, kaj bode storil doktor. Pričakovala je, da prestopi k njej, kajti ves popoludan jo je bil očitno zanemarjal. Pa ta je ravnal tudi polagoma ter pomagal Ilovski odeti zavijačo. Bolè je govoril z okrajnim glavarjem, in pri tem pozabil tujko. Meden pa je bil pozoren, in nakrat je stal poleg Elze ter jej pomolil roko. Odreči ni mogla, pa videla je v tem, ko se je obrnila z Medenom na prosto, da vodi doktor Ilovsko za njima.</p>
             <p n="SL-WIKI000581078">Na planem so postali ter gledali umetálni ogenj; vsaka raketa, vsak bengalični plamen je bil pozdravljen z burnim odobravanjem; zlasti Koren, ki je bil nekoliko pijan, klical je v jednomer: „Živio!“ in tako ves pevski zbor za njim. Med tem krikom in vikom so podnetili velikansko grmado smrečja, nocojšni kres, in visoko plapolajoči ogenj je kmalu razsvetljeval vso okolico; vmes pa so grmeli topiči in cvilile gosli in harmonika.</p>
@@ -1348,8 +1193,6 @@
             <p n="SL-WIKI000581082">„Tudi jaz ne,“ deje potem ona mrzlo.</p>
             <p n="SL-WIKI000581083">„Tudi Vi ne,“ ponavljal je mehanično za njo.</p>
             <p n="SL-WIKI000581084">Polastil se ga je čut, da se potaplja.</p>
-            <pb n="88"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-088.png"/>
             <p n="SL-WIKI000581085">„Tudi Vi ne?“ vprašal je čez nekoliko trenutkov z zamolklim glasom.</p>
             <p n="SL-WIKI000581086">„Čemu tudi?“ deje ona malomarno. „Tudi časa nimam, premišljevati nekdanje dni.“ Pa gledala je v tla pri teh besedah, in zato je njemu vzrastel zopet pogum ozreti se v njo.</p>
             <p n="SL-WIKI000581087">„A jaz sem se spominjal mnogokrat, mnogokrat, verujte mi! Tako sam sem tu, tako grozno sam in tako — —“ Hotel je reči „nesrečen“; pa te besede ni mogel izustiti. Govoril je to s strastnim naglasom, akoravno je vedel, da je vse laž.</p>
@@ -1363,8 +1206,7 @@
             <p n="SL-WIKI000581095">„Čemu poprašujete po tem?“</p>
             <p n="SL-WIKI000581096">„Ker moram, moram! Ker te ljubim — ker te ljubim!“</p>
             <p n="SL-WIKI000581097">On še morda nikdar ni tako odkrito, tako iz srca govoril. Skoro brezumen je bil, in da bi ona velela, naj skoči v ogenj pod njima, storil bi bil to.</p>
-            <p n="SL-WIKI000581098">„Odpuščam!“ dejala je šepetaje in tresla se je po vsem životu; pa takoj se je ohrabrila ter velela: „Pojdiva, pojdiva, Boletovi naju menda pričakujejo.“ Ustavljati se ni mogel in tudi odgovora ni vedel. <pb n="89"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-089.png"/> Pa čutil je, kako je ona silno razburjena, in to mu je bilo povoljneje nego ona jedina, tiha beseda odpuščanja. Vodil jo je do Boletovih, in vsi, ž njimi tudi Meden kot spremljevalec guvernante, krenili so navzdol. Pot je bila gladka, akoravno strma, in ko je zavila v gozd, jako temna. Hrast je ostal poleg Ilovske; bilo je treba, da se je operala nanj, ker sem ter tja je vladala pod košatimi drevesi popolna tema, in bakelj si tudi niso bili preskrbeli. Gori pri kresu, katerega je bil le še velik kup žrjavice, ponavljali so pevci v jednomer neizogibno pesen „Lahko noč“ in Megla, ki se je bil zamudil pri umetálnem ognji, povpraševal je zdaj okrog pevcev po Boletovih in gospe Ilovski.</p>
+            <p n="SL-WIKI000581098">„Odpuščam!“ dejala je šepetaje in tresla se je po vsem životu; pa takoj se je ohrabrila ter velela: „Pojdiva, pojdiva, Boletovi naju menda pričakujejo.“ Ustavljati se ni mogel in tudi odgovora ni vedel.  Pa čutil je, kako je ona silno razburjena, in to mu je bilo povoljneje nego ona jedina, tiha beseda odpuščanja. Vodil jo je do Boletovih, in vsi, ž njimi tudi Meden kot spremljevalec guvernante, krenili so navzdol. Pot je bila gladka, akoravno strma, in ko je zavila v gozd, jako temna. Hrast je ostal poleg Ilovske; bilo je treba, da se je operala nanj, ker sem ter tja je vladala pod košatimi drevesi popolna tema, in bakelj si tudi niso bili preskrbeli. Gori pri kresu, katerega je bil le še velik kup žrjavice, ponavljali so pevci v jednomer neizogibno pesen „Lahko noč“ in Megla, ki se je bil zamudil pri umetálnem ognji, povpraševal je zdaj okrog pevcev po Boletovih in gospe Ilovski.</p>
             <p n="SL-WIKI000581099">„Prepozno, prepozno!“ kričal je pijani Koren, „tu ostani in razvozljaj vender jedenkrat svoj tenor; vsega popoludne laziš okrog žensk, zdaj si pa prazen; aló, zapoj kar hočeš, da boš le pel; če hočeš tudi tisti tvoj priljubljeni: „Ueber d’ Alma“!“</p>
             <p n="SL-WIKI000581100">„No, če hočete!“ deje Megla spoznavši, da Boletovih ne doteče več.</p>
             <p n="SL-WIKI000581101">„Ah, kaj še,“ oglasi se jeden izmed pevcev, „nič nemških; nemški ne bomo peli.“</p>
@@ -1378,15 +1220,11 @@
             <p n="SL-WIKI000581109">„Tisto zna jedini Megla!“</p>
             <p n="SL-WIKI000581110">„Vedite, gospod Koren,“ zavpije adjunkt, „prinesite mi rajši moje črne hlače nazaj, katere sem Vam o veliki noči posodil.“</p>
             <p n="SL-WIKI000581111">„Vi ste nesramen človek! Da bi ga vrag — tega pobalina!“ divjal je Koren.</p>
-            <pb n="90"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-090.png"/>
             <p n="SL-WIKI000581112">Megla je spoznal, da ni več varno zanj, in odšel je naglo za okrajnim glavarjem, kateremu se je položaj tudi že opasen dozdeval. Med pevci pa je trajal kreg še nekoliko časa, in ko so pozneje kot zadnji korakali v malih gručah navzdol, dejal je Koren Hrastovemu pisarju: „Ali ti nisem pravil, da bo — h...č? Še vsako leto je bil, in tudi letos!“</p>
             <p n="SL-WIKI000581113">Ko se je to gori vršilo, šla je Boletova družba že doli po gostem bukovem gozdu. Ilovska ni bila vajena takih potov, torej je morala hoditi bolj polagoma ter varneje stopati. Zaostala sta zato s Hrastom nekoliko korakov za drugimi, akoravno se je Katinka trudila, ostati v bližini onih. Govorila je o navadnih predmetih, in doktor je večinoma molčal. Kadar je pa odgovarjal, storil je to na kratko, razmišljeno; morda sam ni vedel, kaj govori. V njem je vse vrelo najraznejših čutil: radost, razkošje, bojazen in tesnoba; le mirnega mišljenja ni bil zmožen. Prišla sta blizu izhoda iz gozda, in od tam tudi ni bilo več daleč do podnožja holmovega, kjer je čakal Boletov voz. Gosta tema je vladala, le brezštevilo svetlih kresnic se je lesketalo med grmovjem; pred njima se je čul glasni smeh Elze, kateremu so bili povod sigurno Medenovi skromni dovtipi. Hrasta se je polastil na krat isti čut, kakor prej gori vrhu holma, ko je Ilovsko opomnil minulih let; le naprej čez brezdno, čez slapovje! Obstal je ter krepko objel mlado ženo, in v svoji slepi strasti pritisnil ustni na njeni. Ubraniti se mu ni mogla, pa izvila se mu je naglo; besede ni mogla najti, le stekla je naprej, brez sape, brez uma, navzdol za onimi. Ko bi bil mogel on videti njen obraz, prestrašil bi se bil, tako je bil izpremenjen: dospela sta iz gozda, pa on si ni upal več ponuditi jej roke. Nekako bojazljivo je šel molče poleg nje, kakor tat.</p>
             <p n="SL-WIKI000581114">In ona?</p>
             <p n="SL-WIKI000581115">Ubožica! Ta poljub jej je vzbudil in podvojil vse premagane nekdanje bolečine, vse želje in strasti prve vroče ljubezni. Zdaj ni bila več deklica, zdaj je bila — žena. Da, žena druzega, katerega ne ljubi, pa kateri je vender pred Bogom in svetom njen mož. Zvrtelo se jej je v glavi pri tej misli, pa ona je bila že marsikaj vročega in bridkega s krepko voljo utešila, zato jo je obšla ta slabost le za trenutek. V naslednjem že je bila zopet krepka, hladna in ponosna.</p>
             <p n="SL-WIKI000581116">In čudno! Čut, da je razžaljena, vzbudil se jej je, pa prodreti, vseh drugih nadvladati ni mogel. Zato tudi ni zinila besede, dokler nista dospela do voza, kjer so se bili prednji ravno kar ustavili.</p>
-            <pb n="91"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-091.png"/>
             <p n="SL-WIKI000581117">Ah ženske! One odpuščajo vse, kar storimo iz češčenja, iz ljubezni do njih, tudi ako prekoračimo nam stavljene meje; pa nikdar ti ženska ne bo odpustila, ako nisi porabil priložnosti, katero je ona napeljala.</p>
             <p n="SL-WIKI000581118">„Ali mi bode podala roko k slovesu — ali ne?“ ugibal je doktor med potom do voza. In tudi njej je ta pomislek šinil v glavo.</p>
             <p n="SL-WIKI000581119">Pa podala mu jo je, toda s pogledom se ga je ognila; tudi rekla mu ni druzega nego hladno: „Lahko noč!“</p>
@@ -1404,15 +1242,11 @@
             <p n="SL-WIKI000581131">„Fant, fant, kam bredeš?“ dejal je sam v sebi, odgovoril si pa ni na to; in ko je korakal počasi proti domu, utopil se je zopet v razkošne senjarije. „Ta poljub, ta poljub! Razžaljena ni bila, niti jezna — ljubi me, še vedno me ljubi, ljubi! Le plavajmo, le jadrajmo! Kaj mi je mar, kje je breg; kaj mi je mar ves svet?“ ...</p>
             <p n="SL-WIKI000581132">Tam na Medenovi pristavi pa je v jednem gornjih oken to noč slonela dolgo, dolgo ona mlada žena. Zakrivala si je obraz in bridko jokala. Je li tožila za nekdanjo izgubljeno srečo? Se je li bala, da ne bode imela moči in kreposti ustavljati se strasti in grehu?</p>
          </div>
-         <pb n="92"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-092.png"/>
          <div>
             <head>Trinajsto poglavje.</head>
             <p n="SL-WIKI000581133">Skoro tri tedne po zadnjih dogodkih so ostale razmere med glavnimi osobami naše povesti neizpremenjene.</p>
             <p n="SL-WIKI000581134">Ilovska je stregla doma svojemu bolnemu soprogu, kateremu se je bila bolezen na slabše obrnila; mnogo dnij žena niti iz hiše ni stopila. Z vednim delom si je tešila spomine, ki so jo sedaj hoteli po gostem mučiti in vznemirjati.</p>
             <p n="SL-WIKI000581135">Pri Boletovih ni bilo izpremembe, nego da je Meden sedaj skoro sleheren dan prihajal k njim, in celó Hrast se je bil zopet dvakrat ali trikrat oglasil.</p>
-            <pb n="93"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-093.png"/>
             <p n="SL-WIKI000581136">Pa guvernanta ga ni zvabila tja; čisto druge namere so ga vodile. Od onega krasnega večera ni imel več mirne ure, in tudi svoj pisarniški posel je zanemarjal. Sprehajal se je mnogo ter vedel vselej tako kreniti, da je prišel v bližino Medenove pristave. Pa sreča mu ni bila mila, nego nasprotno: nezgoda je hotela, da je kovačica Barba večkrat ravno tam hodila, jagode nabirala, kozo pasla, ali pa kako suho vejo vlekla iz gozda, — kjer je doktor meril svoj pot.</p>
             <p n="SL-WIKI000581137">Nekega večera pa, — kajti le o takem času se je sprehajal Hrast, — srečal je nenadoma Tilha.</p>
             <p n="SL-WIKI000581138">„Ah, gospod doktor,“ zakričal je le ta, „ravno k Vam sem se namenil; saj veste zavoljo tiste pravde.“</p>
@@ -1430,8 +1264,6 @@
             <p n="SL-WIKI000581150">„Pojdi, pojdi, tepec stari!“ zavrne žena prebrisanega kovača. „Kam pa bo hodil tukaj, kjer ni žive duše v obližji, — saj ima v Borji dovolj deklet.“</p>
             <p n="SL-WIKI000581151">„Razumela si me vender, če ravno imaš kratek pogled. Kaj pa tu gori na pristavi? Kaj?“</p>
             <p n="SL-WIKI000581152">Zdaj sta bila pa soproga takoj jedina, in Barba je to noč slabo spala od golega hrepenenja po dnevi. Ko se je pa zdanilo, nesla je to novost z jajci vred v Borje. —</p>
-            <pb n="94"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-094.png"/>
             <p n="SL-WIKI000581153">Poleg svojih brezvspešnih sprehodov obiskal je doktor tudi, kakor smo že omenili, dva ali trikrat Boletove, pa isto tako brezvspešno; kajti šel je tja le za to, da morda najde tam Ilovsko. Našel pa je le Medena, katerega je zdaj očividno zanimila jedino le Elza. Drugim časih še odgovarjal ni.</p>
             <p n="SL-WIKI000581154">Bolè se je smijal ter pošalil sem ter tja, kadar je bil navzočen; navadno pa je pustil družbo. Boleški vse to ni bilo po volji, pa Medena ni hotela žaliti, in zato je mirno čakala, kako se bodo razmotale te stvari.</p>
             <p n="SL-WIKI000581155">Da doktorja ne zanima več njena guvernanta, to je vedela; slepa bi morala biti, da bi ne bila zapazila te izpremembe; — uzroka pa ni znala, in navadna ženska radovednost bi jo bila skoro do direktnega izpraševanja guvernante zapeljala. Pa premagala se je.</p>
@@ -1446,8 +1278,6 @@
             <p n="SL-WIKI000581164">„Kaj — k meni? Ha — ha — izvrstno! Morda si hočeš jedno mojih deklic izbrati. Takoj privolim, da bi bili le dovelj stari. O ti zlati ženin, — samo malo pozno si začel. „Schier vierzig Jahre bist du alt — —““</p>
             <p n="SL-WIKI000581165">„Nikar se ne šali,“ vzdihne Meden ter si z rudečim svilenim robcem obriše pot s čela.</p>
             <p n="SL-WIKI000581166">„Torej je bridka resnica?“</p>
-            <pb n="95"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-095.png"/>
             <p n="SL-WIKI000581167">„Da, resnica! Ti mi moraš pomagati!“</p>
             <p n="SL-WIKI000581168">„Jaz — pomagati? A — a!“ odgovori zategneno Bolè, kateri je jel spoznavati, kam meri Meden.</p>
             <p n="SL-WIKI000581169">„Moraš, če si mi prijazen!“</p>
@@ -1471,8 +1301,6 @@
             <p n="SL-WIKI000581187">„Ti si vzor pogumnega snubača! Pomisli vender, da je najbolj umestno, ako se takoj zmenita. Preveč časa ugibati in presojevati — tega jej ne smemo pustiti! To bi ne bilo koristno! Torej jaz bom pozvonil!“</p>
             <p n="SL-WIKI000581188">„Ah!“ je vzdihnil Meden ter sédel na stol v kotu sobe.</p>
             <p n="SL-WIKI000581189">„Prijatelj, nekaj je treba še pomisliti, predno pozvonim in predno se pomenimo: ali ima Elza kaj dote?“</p>
-            <pb n="96"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-096.png"/>
             <p n="SL-WIKI000581190">Bolè je bil hudoben, poznal je slabosti Medenove ter vedel, da pri njem skopost in lakomnost nista zadnji med merodajnimi strastimi.</p>
             <p n="SL-WIKI000581191">„Prašal nisem,“ reče Meden, „pa to se morda pozve? Ah, dote ne more imeti, ker je guvernanta.“</p>
             <p n="SL-WIKI000581192">„I, morda jo prikriva?“</p>
@@ -1494,8 +1322,6 @@
             <p n="SL-WIKI000581208">„Vi ste me osupnili, iznenadili —“ deje naposled guvernanta.</p>
             <p n="SL-WIKI000581209">Bolè je mignil Medenu, in ta se je počasi vzdignil s svojega stola ter stopil k Elzi.</p>
             <p n="SL-WIKI000581210">„Ali niste vedeli tega, da, da, da ...“ Dalje ni mogel, pa prijel je guvernanto za roko.</p>
-            <pb n="97"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-097.png"/>
             <p n="SL-WIKI000581211">Odtegnila mu je ni, pa obrnila se je k Boletu ter rekla:</p>
             <p n="SL-WIKI000581212">„Odloga Vas prosim; prenaglo je prišlo vse to — odloga morda do jutri, pojuteršnjem, samo par dnij —“</p>
             <p n="SL-WIKI000581213">„To se ve da, kolikor želite, le predolzega ne!“ deje Bolè.</p>
@@ -1507,8 +1333,6 @@
             <p n="SL-WIKI000581219">Meden v istini vender ni bil zadovoljen. Ko je sedel malo pozneje zopet v svojem vozu, dozdevalo se mu je, da ga tešči nekaj tam, kjer je mislil, da mu bije srce, tam med srcem in želodcem, in prav slabe volje je zaklical svojemu hlapcu: „Vozi, vozi in udari to vražjo kobilo!“</p>
             <p n="SL-WIKI000581220">Istega popoludne je prišel doktor Hrast na Drenovo, in naključje je hotelo, da sta se bila odpeljala Bolè in soproga njegova v Zalog na pohod; vzela sta tudi starejšo hčerko s seboj in doma je ostala guvernanta in mlajša hči Boletova, katera je pa najrajši igrala se pri deklah na polji poleg grajskega vrta.</p>
             <p n="SL-WIKI000581221">Elza je bila ostala na vrtu in tam jo je našel doktor.</p>
-            <pb n="98"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-098.png"/>
             <p n="SL-WIKI000581222">Sedela je pod košato platano; pričeto pletenje je ležalo pred njo na mizi, in poleg pletenja na pol odprta knjiga. Deklica pa je zamišljena zrla pred se v tla. Doktorja ni zapazila, da ni stal tik nje ter je ne običajno pozdravil.</p>
             <p n="SL-WIKI000581223">Prestrašila se ga je skoro, a ponudila mu je takoj na lahko smehljaje se bližnji sedež.</p>
             <p n="SL-WIKI000581224">„Nesrečno ste zadeli, gospod doktor! Nikogar ni doma, in tudi nadejati se ni, da bi se gospôda kmalu vrnila.“</p>
@@ -1520,8 +1344,7 @@
             <p n="SL-WIKI000581230">On ni odgovoril takoj; videti je bilo, da jo hoče nekako nadzirati, ter da išče izrazov in besedij, da pretira svojo sodbo.</p>
             <p n="SL-WIKI000581231">„Zakaj?“ ponavljal je za njo; „zato, ker so tako bedasto izmišljene, tako nenaravno koncipirane, sestavljene, izvedêne, — za božjo voljo, povedati Vam skoro ne morem, — a to je sigurno, da čez deset, dvajset let teh Marlittinih povestij nihče več ne bo čital.“</p>
             <p n="SL-WIKI000581232">„Vi govorite, kakor najhujši sovražnik te pisateljice.“</p>
-            <p n="SL-WIKI000581233">„Ne, ne, brez šale, gospodična, tako mora vsak soditi! Le pomislite junake in junakinje v teh romanih. Junakinje so vse rudečelase, <pb n="99"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-099.png"/> junaki pa merijo povprečno po dva metra od nog do glave. Če pa tega ni, potem so pa sigurno hromi. Vse spletke se rešujejo po skrivnih uhodih, skritih predalih v starih predalnikih ali pa s pomočjo podzemeljskih votlin. In ta dialog! Pomislite vender, kje na vsem svetu govore ljudje tako pretirano bombastično, kakor tu v teh povestih? In kako tendencijozno je vse!“</p>
+            <p n="SL-WIKI000581233">„Ne, ne, brez šale, gospodična, tako mora vsak soditi! Le pomislite junake in junakinje v teh romanih. Junakinje so vse rudečelase,  junaki pa merijo povprečno po dva metra od nog do glave. Če pa tega ni, potem so pa sigurno hromi. Vse spletke se rešujejo po skrivnih uhodih, skritih predalih v starih predalnikih ali pa s pomočjo podzemeljskih votlin. In ta dialog! Pomislite vender, kje na vsem svetu govore ljudje tako pretirano bombastično, kakor tu v teh povestih? In kako tendencijozno je vse!“</p>
             <p n="SL-WIKI000581234">Guvernanta je bila vzela pletenje v roke ter je mirno poslušala.</p>
             <p n="SL-WIKI000581235">„Vi ste hud realist,“ rekla je malomarno, ko je oni umolknil.</p>
             <p n="SL-WIKI000581236">„Kaj še!“ oporeka doktor, „pa na življenje se je vender treba ozirati.“</p>
@@ -1539,8 +1362,7 @@
             <p n="SL-WIKI000581248">Zaničljiv posmeh mu je šinil čez lice.</p>
             <p n="SL-WIKI000581249">„Mi li nameravate očitati ...?“</p>
             <p n="SL-WIKI000581250">Temna rudečica jej je zalila lice, ko je vstala s svojega sedeža ter uprla se z roko ob mizo.</p>
-            <p n="SL-WIKI000581251">„Hvala Vam, doktor,“ dejala je, in v očeh se jej je nekaj posvetilo, kakor prikrivana zlobnost, ki nehoté sili na dan; „hvala Vam, da se mi kažete v pravi podobi, hvala Vaši odkritosrčnosti! Pa, da ne boste mislili, da sva si drug drugemu kaj na dolgu, povedati Vam <pb n="100"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-100.png"/> moram, da nisem zastonj odlašala svojega odgovora; saj veste katerega. Mislila sem, da se s časom privadim — kajti o ljubezni, doktor, o ljubezni, — haha, o tej pač ni bilo sledu, haha!“</p>
+            <p n="SL-WIKI000581251">„Hvala Vam, doktor,“ dejala je, in v očeh se jej je nekaj posvetilo, kakor prikrivana zlobnost, ki nehoté sili na dan; „hvala Vam, da se mi kažete v pravi podobi, hvala Vaši odkritosrčnosti! Pa, da ne boste mislili, da sva si drug drugemu kaj na dolgu, povedati Vam  moram, da nisem zastonj odlašala svojega odgovora; saj veste katerega. Mislila sem, da se s časom privadim — kajti o ljubezni, doktor, o ljubezni, — haha, o tej pač ni bilo sledu, haha!“</p>
             <p n="SL-WIKI000581252">Žaljeno samoljubje — to časih huje skeli, nego vsaka druga bolečina; Hrast pa je bil silno samoljuben. Bled ko pobeljena stena je stal pred Elzo, in divji, jezen odgovor mu je bil na jeziku. A premagal se je.</p>
             <p n="SL-WIKI000581253">„Zdaj je menda vrsta na meni, da se Vam zahvalim na Vaši odkritosrčnosti,“ dejal je s posiljenim zasmehom.</p>
             <p n="SL-WIKI000581254">„Hranite si to, saj sva se pobotala! Toda še nekaj,“ pristavila je Elza, in oni zlobni svit jej je šinil zopet z očij; „še nekaj, gospod doktor; naj Vas vender jedenkrat svéta prosim. Vedite, gospod, Meden me snubi, — kaj pravite, Vi ste razumen mož, kaj mi je storiti?“</p>
@@ -1559,8 +1381,6 @@
             <p n="SL-WIKI000581267">„Haha!“ vzkliknila je ona poluglasno, pa čulo se ni kakor smeh.</p>
             <p n="SL-WIKI000581268">„In dovoljujte mi, gospodična, da Vam prvi čestitam!“ pristavi Hrast.</p>
             <p n="SL-WIKI000581269">Sam ni vedel, kak pikri zasmeh je zadonel iz njegovih besedij.</p>
-            <pb n="101"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-101.png"/>
             <p n="SL-WIKI000581270">Pa njo je globoko zadel.</p>
             <p n="SL-WIKI000581271">„Ne, ne, to je že preveč!“ hitela je ter glasno zajokala. Pala je na stol ter ihté se naslonila na mizo.</p>
             <p n="SL-WIKI000581272">Ako hočemo resnični biti, moramo povedati, da jo je doktor z nekakim zadovoljstvom ogledoval; pa ne dolgo, kajti čutil je, da mu preti jako smešna uloga: odpuščenja prositi, preklicevati, tolažiti — vse to mu je stopilo pred oči, in jedno se mu je bolj smešno zdelo, nego drugo. Obrnil se je ter naglo odšel z vrta, ne da bi se jedenkrat ozrl.</p>
@@ -1578,8 +1398,6 @@
             <p n="SL-WIKI000581284">Zganil je zopet list, napisal nanj Elzin naslov ter ga oddal slugi. Pa uro pozneje prinesel mu je drugi ravno to pismo neodprto nazaj.</p>
             <p n="SL-WIKI000581285">„Hoho!“ vzkliknil je doktor, ko ga je bil zapustil sluga. Premeril je, roki meneč si, dvakrat sobo gori in doli, potem pa je pismo s korčki vred spravil v miznico, vzel klobuk ter odšel v krčmo. Zvonilo je ravno poludne.</p>
          </div>
-         <pb n="102"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-102.png"/>
          <div>
             <head>Štirinajsto poglavje.</head>
             <p n="SL-WIKI000581286">Istega dne, pozno proti večeru je sedela Ilovska gori v bukovem logu blizu pristave. Dolgo časa že ni bila stopila iz hiše; bolni soprog in zdravnik iz Borja, kateri je prihajal sleherni dan tja ter mudil se navadno dolgo, bila sta jedina človeka, s katerima je občevala, in niti prilike ni imela, iskati si druge družbe ali celó zabave.</p>
@@ -1596,12 +1414,9 @@
             <p n="SL-WIKI000581297">Tresla se je po vsem životu, ko so jej donele te skoro šepetane besede na uho, toda preč iti, bežati ni mogla.</p>
             <p n="SL-WIKI000581298">Usedla se je na klop in Hrast je obstal pred njo.</p>
             <p n="SL-WIKI000581299">Gosti mrak, ki je bil že nastal, storil je, da nista mogla drug druzega razločevati obraz. In to daje temi in noči njeno moč.</p>
-            <p n="SL-WIKI000581300">„Odpustili ste mi,“ nadaljeval je on, „rekli ste tako zadnjič, da mi odpuščate, — pa kaj to, kaj to odpuščanje, — to me bolj <pb n="103"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-103.png"/> peče, nego sovraštvo, nego jeza, sovraštvo, — vedi Katinka, to mi ni nič, — to odpuščanje, — ljubim te, ljubim, — stori, kar hočeš — pa to ti moram povedati.“</p>
+            <p n="SL-WIKI000581300">„Odpustili ste mi,“ nadaljeval je on, „rekli ste tako zadnjič, da mi odpuščate, — pa kaj to, kaj to odpuščanje, — to me bolj  peče, nego sovraštvo, nego jeza, sovraštvo, — vedi Katinka, to mi ni nič, — to odpuščanje, — ljubim te, ljubim, — stori, kar hočeš — pa to ti moram povedati.“</p>
             <p n="SL-WIKI000581301">Prenehal je nekoliko, strast mu je glas zaprla. Ona pa ni imela nobene moči več.</p>
             <p n="SL-WIKI000581302">Sedela je pred njim na klopi ter z rokama zakrivala obraz.</p>
-            <pb n="104"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-104.png"/>
             <p n="SL-WIKI000581303">„Pustite me!“ dejala je čez nekoliko trenutkov, ko on ni mogel najti zopet besede; pa sama ni vedela, kako bojazljivo je izpregovorila. Njemu je dalo to zopet pogum, kolikor mu ga še noč ni bila dala.</p>
             <p n="SL-WIKI000581304">Stopil je pred njo ter jo prijel za obe roki ter odtegnil ji na lahko z obraza.</p>
             <p n="SL-WIKI000581305">Pustila mu ji je za trenutek ter povesila glavo; njega pa je prešinila do dna srca misel: tvoja je, tvoja je!</p>
@@ -1611,8 +1426,7 @@
             <p n="SL-WIKI000581309">„Čemu hodite za menoj?“ dejala je strogo in skoro s hripavim glasom; „povoda Vam ne dajem; ne smem ga, in — nočem ga dajati! Vi sami ste najini poti ločili ...“</p>
             <p n="SL-WIKI000581310">V tem je stal on zopet poleg nje ter primši jo okoli pasu, potegnil jo k sebi.</p>
             <p n="SL-WIKI000581311">„Tako ne smeš in ne moreš govoriti!“ šepetal je; „danes sem drug, — odkar sem te tu v novič videl, sem drug človek; jaz ne vem, ali bedim ali sanjam — pa kaj bi ti pravil?“</p>
-            <p n="SL-WIKI000581312">Držal jo je nekoliko trenutkov slonečo na njegovih prsih, — pa na hip jo je izpustil iz rok, akoravno se ni več ustavljala njegovemu <pb n="105"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-105.png"/> objemu. Obrnil se je na pol v stran in ona si je molčé popravljala svoj robec, kateri je bil zdrsnil z glave.</p>
+            <p n="SL-WIKI000581312">Držal jo je nekoliko trenutkov slonečo na njegovih prsih, — pa na hip jo je izpustil iz rok, akoravno se ni več ustavljala njegovemu  objemu. Obrnil se je na pol v stran in ona si je molčé popravljala svoj robec, kateri je bil zdrsnil z glave.</p>
             <p n="SL-WIKI000581313">Strast človeška ima čudna pota.</p>
             <p n="SL-WIKI000581314">„Z Bogom,“ dejal je Hrast poluglasno, pa ne, da bi se ozrl v Ilovsko, katera je še vedno nepremično stala na prejšnjem mestu; zavijala se je še vedno v svoj robec. Ko bi se bil le obrnil k njej ter prijel jo za roko, — objela bi ga bila in dejala mu, da ga še vedno ljubi, kakor nekdaj, ali, bolj ko nekdaj! Uprla je počasi pogled vanj, in na ustnih jej je bilo njegovo ime, — izpregovoriti ga ni mogla.</p>
             <p n="SL-WIKI000581315">„Z Bogom!“ odgovorila je po tihem ter odšla naglo po stezi proti domu, in tem hitreje, čim bolj se je bližala pristavi. Morda se je bala, da se jej povrne zopet prejšnja slabost.</p>
@@ -1627,8 +1441,6 @@
             <p n="SL-WIKI000581321">Travniki na desni in levi velike ceste so bili do malega preplavljeni in poleg njih je blatna cesta pričala o dolgotrajnem deževji.</p>
             <p n="SL-WIKI000581322">Taki dnevi ležejo duhomorno na človeka.</p>
             <p n="SL-WIKI000581323">V Borji pa je bilo ta dan vender le vse nekako praznično, in mlado in staro, vsak, kdor je mogel iz hiše, vse je bilo zbrano po glavni ulici in na malem prostoru pred farno cerkvijo.</p>
-            <pb n="106"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-106.png"/>
             <p n="SL-WIKI000581324">Graščak Meden je praznoval danes svojo poroko z Boletovo guvernanto, in da se to ni godilo brez šuma in hrupa, nego z vso blestečo oholostjo in kmetsko baharijo, — za to je skrbel Meden sam.</p>
             <p n="SL-WIKI000581325">Godcev in piskačev se ve da ni bil naročil, kajti to misel mu je Bolè še pravočasno pregnal; gostov in svatov pa je povabil, kolikor je znancev premogel, — da so le dolgo suknjo nosili; svojih kmetskih sorodnikov se tudi ni mogel izogniti, — in sorodniki njegovi so bili sploh skoro samo kmetje, — pa v cerkev jih ni pustil, nego samo na odhodnjo jih je bil poklical ter jim pripravil cel polovnjak vina. Tako radodaren še nikdar ni bil, kakor danes, in ko se je pripeljal s svati do pregraje, katero so bili improvizirali Borjanski fantje, da jim odkupi ženin nevesto, vrgel jim je celih dvajset goldinarjev; pričakovali so jih bili se ve da najmenj trideset.</p>
             <p n="SL-WIKI000581326">Sedaj se je pripeljala dolga vrsta kočij in vozičev pred farno cerkev, vse polno svatov; gospodje so nosili vsi široke šope cvetlic v petljicah ter opravljeni bili jako različno, kakor je tu v tacih prilikah pač navada v naših malih mestih in trgih: poleg najnovejšega fraka videti je bila obnošena črna suknja nad rudečelisasto srajco, in sodiški kancelist je tičal celo zarad cestnega blata v visokih škornjih, pa nataknil si vender bele rokavice.</p>
@@ -1640,8 +1452,6 @@
             <p n="SL-WIKI000581332">„Ta pa, ta; toda tišči ga!“</p>
             <p n="SL-WIKI000581333">„Krompir bo jedla pri njem in kislo zelje!“ oglasi se davkarski sluga za njima.</p>
             <p n="SL-WIKI000581334">„Ah, kaj še! Jaz pravim, da bo ona hlače nosila,“ meni krčmarica.</p>
-            <pb n="107"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-107.png"/>
             <p n="SL-WIKI000581335">„Toda brez žepov,“ smeje se oni.</p>
             <p n="SL-WIKI000581336">„Oj, tu je pa naš doktor!“ oglasi se zopet ona ter kaže na Hrasta, kateri je bil ravno pred njimi z okrajnim sodnikom stopil iz voza.</p>
             <p n="SL-WIKI000581337">Dobre volje je bil videti, in krog usten mu je igral ironičen smehljaj.</p>
@@ -1654,8 +1464,7 @@
             <p n="SL-WIKI000581344">„No, hvala Bogu; pri nas samo zdražbe dela,“ odgovori zadovoljno krčmarica. —</p>
             <p n="SL-WIKI000581345">Med tem so bili že skoro vsi svatje v cerkvi, in množica gledalcev je drla sedaj za njimi poslušat, kako bosta ženin in nevesta svoj usodepolni „da“ izpregovorila.</p>
             <p n="SL-WIKI000581346">Cerkveno opravilo je bilo kmalu končano, vzlasti ker se stari gospod dekan z nemškim, tukaj v Borji neobičajnim ogovorom ni hotel dolgo mučiti; potem pa so se odpeljali vsi vozovi po blatni, le tu in tam debelo posuti cesti proti Drenovemu; kajti gostoljubni Bolè si z ozirom na staro prijateljstvo z Medenom, in ker je bila Elza sedaj skoro del njegove rodbine, ni dal kratiti pravice, da ne bi priredil svatom obeda v svojem gradu. Medenu je bilo pa to še bolj po volji.</p>
-            <p n="SL-WIKI000581347">Jako mnogobrojna družba je bila zbrana nocoj na Drenovem; došlo jih je tudi mnogo, kateri se zarad pomanjkanja vozov prej niso mogli v cerkev peljati, in pri izvrstnem obedu se je razvnela <pb n="108"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-108.png"/> živahna zabava. Med svati jih je bilo mnogo, kateri so nocoj v prvič šampanjca pili.</p>
+            <p n="SL-WIKI000581347">Jako mnogobrojna družba je bila zbrana nocoj na Drenovem; došlo jih je tudi mnogo, kateri se zarad pomanjkanja vozov prej niso mogli v cerkev peljati, in pri izvrstnem obedu se je razvnela  živahna zabava. Med svati jih je bilo mnogo, kateri so nocoj v prvič šampanjca pili.</p>
             <p n="SL-WIKI000581348">Nevesta se je bila preoblekla v navadno popotno opravo, kajti po polunoči sta nameravala novo poročena odpeljati se na Nemško, kakor je trdil Meden, obiskat nevestine sorodnike; izmed njih je bil samo jeden, sicer na Dunaji bivajoči bratranec Elzin, navzočen pri poroki; drugi zarad oddaljenja niso mogli priti.</p>
             <p n="SL-WIKI000581349">Elza je bila nocoj krasna, in kakor je kazal njen veseli obraz, tudi srečna. Denašnje solze so bile že zdavna usahnile, in sedaj se je jako glasno in radostno udeleževala občne zabave.</p>
             <p n="SL-WIKI000581350">Proti koncu obeda so se razhajali gostje po prostornih sobanah, in tu je slučaj nanesel, da sta se v sobi, kjer so pušili, pri kaminu sešla Hrast in Bolè, oba, kakor je bilo videti, jako dobre volje.</p>
@@ -1673,8 +1482,6 @@
             <p n="SL-WIKI000581362">„Če bode Elza pametna, dobro bode za oba! In celo, haha, če bo kaj otrok, — haha Meden oče, hahaha —“</p>
             <p n="SL-WIKI000581363">Grajski gospodar se je vil od smehu.</p>
             <p n="SL-WIKI000581364">Doktor pa je polagoma utrnil pepel od svoje smodke ter mignil z rameni; a smijal se ni.</p>
-            <pb n="109"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-109.png"/>
             <p n="SL-WIKI000581365">„Ah, še nekaj, doktor,“ dejal je Bolè po kratkem molku ter stopil k bližnji mizi po vžigalice, da si užge ugaslo smodko. „Pozabil sem skoro, — toda, ti si vender sam dobil naznanilo?“</p>
             <p n="SL-WIKI000581366">„O čem?“ vpraša oni malomarno.</p>
             <p n="SL-WIKI000581367">„Da je Ilovski umrl. Saj veš, oni bolni tujec z Medenove pristave, čegar žena —“</p>
@@ -1694,8 +1501,7 @@
             <p n="SL-WIKI000581381">„Viresque aquirit — —“</p>
             <p n="SL-WIKI000581382">„Bibendo!“ končal je doktor s smehom Boletove besede.</p>
             <p n="SL-WIKI000581383">Nekoliko druzih gospodov je pristopilo in Hrast se je umaknil počasi v drugo sobo.</p>
-            <p n="SL-WIKI000581384">Najrajši bi bil sam, pa oditi ni mogel prej nego drugi. Prekoračil je več sob, pa povsodi so bili glasni razgovarjajoči se gostje. Na hip je obstal; prišel je bil v salon, kjer sta se prvikrat dalje časa razgovarjala z Elzo. Tudi denes ni bilo nikogar tu, in <pb n="110"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-110.png"/> doktor je nameraval sesti na bližnji stol, ko vstopi skozi nasprotna vrata — Elza. Videti je bilo skoro, kakor bi bila sledila Hrastu, kajti niti začudenja ni pokazala, da ga najde na tem mestu. Bila je že po polnem za odpotovanje opravljena; jedina zlatnina, katero je nosila, bila je mala zapona na ovratniku, v podobi cvetličnega šopka jako umetno ponarejeni korčki, običajno darilce Hrastovo, katero jej je bil sinoči poslal.</p>
+            <p n="SL-WIKI000581384">Najrajši bi bil sam, pa oditi ni mogel prej nego drugi. Prekoračil je več sob, pa povsodi so bili glasni razgovarjajoči se gostje. Na hip je obstal; prišel je bil v salon, kjer sta se prvikrat dalje časa razgovarjala z Elzo. Tudi denes ni bilo nikogar tu, in  doktor je nameraval sesti na bližnji stol, ko vstopi skozi nasprotna vrata — Elza. Videti je bilo skoro, kakor bi bila sledila Hrastu, kajti niti začudenja ni pokazala, da ga najde na tem mestu. Bila je že po polnem za odpotovanje opravljena; jedina zlatnina, katero je nosila, bila je mala zapona na ovratniku, v podobi cvetličnega šopka jako umetno ponarejeni korčki, običajno darilce Hrastovo, katero jej je bil sinoči poslal.</p>
             <p n="SL-WIKI000581385">On je to takoj zapazil in morda bi mu bilo to vselej po volji, samo nocoj, sedaj v tem trenutku ne, ko mu je dušo polnila čisto druga podoba.</p>
             <p n="SL-WIKI000581386">„Prilike nisem imela do sedaj, zahvaliti se Vam, gospod doktor, za prijazni spomin,“ dejala je mehko, kakor je le ona znala s svojim zvonkim glasom, in iz njenih temnomodrih očij se je posvetil čuden ogenj.</p>
             <p n="SL-WIKI000581387">Hrast je kakor neizkušen mladenič obrnil pogled v stran.</p>
@@ -1707,8 +1513,6 @@
             <p n="SL-WIKI000581393">Šla sta skozi dve sobi, in tretja, v katero sta stopila, bila je njena, prejšnja, guvernatina soba. Vse je bilo v neredu v njej; na mizi pa je brljavo gorela jedina sveča.</p>
             <p n="SL-WIKI000581394">Mlada žena je obstala sredi sobe ter hlastno spela klobuk raz glave in vrgla ga v naslonjačo.</p>
             <p n="SL-WIKI000581395">„Tu sva sama, doktor,“ dejala je poluglasno ter stopila pred njega, „in časa imam tudi le nekoliko trenutkov; hočem pa, da bode med nama vse poravnano. Odgovorite mi, ste me li kedaj ljubili, — tako ljubili ...“ Ni mogla končati svojega govora.</p>
-            <pb n="111"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-111.png"/>
             <p n="SL-WIKI000581396">On pa je stal nem pred njo; da, ko bi mu ne bila prej ona druga nesrečna žena stopila pred duševno oko; ko bi mu ne bila vzplamtela malo trenutkov prej ona nekdanja ljubezen vnovič s tako silo, — sedaj bi se bil oklenil nje, — udušil bi se bil v tej strasti, ki se mu je bližala tako zapeljivo.</p>
             <p n="SL-WIKI000581397">Sedaj pa je ostal mrzel, in le jedna skrb se ga je lotila, da je hlastno pogledal proti zaprtim vratom, skrb, da bi ga ne videl kdo tukaj.</p>
             <p n="SL-WIKI000581398">Do tega, da je sedaj uvidel in spoznal, da ga Elza ljubi — do vsega tega mu ni bilo nič.</p>
@@ -1726,8 +1530,6 @@
             <p n="SL-WIKI000581410">„Pozabljeno, prepozno!“ šepetala je. „Pa — sem ga li res ljubila?“ —</p>
             <p n="SL-WIKI000581411">Obrnila se je od ogledala, vzela klobuk in odšla iz sobe.</p>
             <p n="SL-WIKI000581412">V salonu jo je srečal Megla ter jej v tretjič jel pripovedovati, da je prestavljen iz Borja in kako nesrečen je, da se je to ravno sedaj in nenadoma zgodilo. Ona ga niti poslušala ni.</p>
-            <pb n="112"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-112.png"/>
             <p n="SL-WIKI000581413">Slovo novoporočenih se je vršilo naglo, če ravno med glasnim hrupom in šumom ostalih gostov. Lekar in davkarski nadzornik tudi nista opustila nekoliko podlih dovtipov, katere sta šepnila Medenu na uho. Le ta jih je vzprejel z zadovoljnim smehom.</p>
             <p n="SL-WIKI000581414">Elza se je pred vstopom v voz ozrla še jedenkrat po družbi, kakor bi koga iskala.</p>
             <p n="SL-WIKI000581415">Toda doktorja ni bilo več; pa tudi drugi niso niti zapazili, da je izginil.</p>
@@ -1743,8 +1545,6 @@
             <p n="SL-WIKI000581422">Pred kratkim sem bil po naključji v Borji. Sodnika Majarona ni več; pokopali so ga že v hladno zemljo, in ves trg je žaloval za njim; okrajni glavar pa je šel v penzijo, ker mu nova vlada ni bila po volji.</p>
             <p n="SL-WIKI000581423">Tudi o adjunktu Megli ne ve nihče več povedati, — tako rahel in neznaten je sled, katerega puščajo take osobe za seboj; za zgodovino niso.</p>
             <p n="SL-WIKI000581424">Graščak Bolè je še vedno stari veseljak; jedna skrb ga sedaj najbolj zavzima; za starejšo hčerko Milico je treba doto pripraviti. Pa to ga ne bo posebno težilo.</p>
-            <pb n="113"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00058/WIKI00058-113.png"/>
             <p n="SL-WIKI000581425">Te, če tudi malostne skrbi pa bode menda prost — Meden. Kajti on in Elza nimata otrok. Pripovedujejo sicer o njem, da ni posebno zvest svoji ženi, in tudi o njej gre govorica, da se vozi rada v mesto, kjer zahaja v gledališče in k drugim zabavam, in da jo mož pušča večkrat samo tja. Zlobnim jezikom je pa to dovolj.</p>
             <p n="SL-WIKI000581426">In Hrast?</p>
             <p n="SL-WIKI000581427">Da govorim resnico: krstni boter sem bil, ni dolgo tega, tam v Borji drugemu njegovemu otroku. Vesel dan sem prebil in odšel zopet prepričan, da sta to dva srečna človeka: moj prijatelj in njegova žena Katinka.</p>

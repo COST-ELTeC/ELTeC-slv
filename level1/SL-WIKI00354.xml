@@ -20,7 +20,7 @@
             <measure unit="pages">51</measure>
          </extent>
          <publicationStmt xml:lang="en">
-            <p>Added to ELTeC <date>2019-01-17</date>
+            <p>Added to ELTeC <date>2019-04-12</date>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -57,7 +57,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change xml:lang="en" when="2019-01-17">
+         <change xml:lang="en" when="2019-04-12">
             <name>Tomaž Erjavec</name>: converted to ELTeC</change>
          <change when="2015-04-03">
             <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
@@ -68,8 +68,6 @@
    </teiHeader>
    <text xml:lang="sl">
       <body xml:lang="sl">
-         <pb n="1"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-001.jpg"/>
          <div>
             <head>I.</head>
             <p n="SL-WIKI003541">Ne jaz, ampak vojska je napisala to povest, ki se je pričela pred desetimi leti, se hipoma ustavila in se vnovič začela snovati 27. julija 1914.</p>
@@ -84,8 +82,6 @@
             <p n="SL-WIKI0035410">In Franco so nadlegovale dekleta:</p>
             <p n="SL-WIKI0035411">»Ali te je že vprašal?«</p>
             <p n="SL-WIKI0035412">Franca je bila v zadregi in se je izmuznila odgovoru, kakorkoli je mogla.</p>
-            <pb n="2"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-002.jpg"/>
             <p n="SL-WIKI0035413">France je pa zahajal še drugo in še tretje leto k Dožánovim in vselej se je pripravil in sklenil, da vpraša njo in očeta. Ko je bilo pa treba izreči besedo, se je beseda ustavila in je ni mogel izgovoriti. In kadar se je vračal po nezgovorjeni besedi domov, se je vselej jezil nase, dokler se ni že blizu doma prav takisto otresel jeze in se potolažil:</p>
             <p n="SL-WIKI0035414">»Čemu prazne besede, ko je stvar tako narejena, da vem jaz in ona in vsi brez besedi, kako je in da ne more drugače biti.«</p>
             <p n="SL-WIKI0035415">Ali zgodilo se je, da je Maticev France zašel v boj, dasi se ni nikdar pretepal. Iz boja je prišel v zapor, in ko se je vrnil, ni bilo France več na domu. Bila je žena Blaža s Kozjega hriba, Francetu je bilo, da bi bil rjul in begal po gozdu kakor Kajn, pa ni. Tri dni je ležal zarit v mrvi, nato je tri dni popival, potem se je vrnil na dom, se prespal in se lotil dela.</p>
@@ -105,8 +101,7 @@
             <p n="SL-WIKI0035429">»Moj Bog, da sem tak revež.«</p>
             <p n="SL-WIKI0035430">Hitro je pobral klobuk, izdrl sekiro iz štora in se lotil prve bukve, prav tiste, ki je imela odlomljen vrh. Naglo je udarjal, dokler se ni bukev nagnila in hreščeč padla med sosede, ki so ji kakor v slovo podrti na tla zamahovale z vejami, ki so se tekom let prepletle in prerasle med seboj. France si je obrisal pot s čela, se naslonil ob toporišče in gledal posekano bukev.</p>
             <p n="SL-WIKI0035431">»Takle sem jaz,« se je hipoma domislil. »Drevo brez vrha, ki se polagoma suši.« Naslonil se je niže, da so se mu široka pleča dvignila in skoro zakrila vpognjeno glavo.</p>
-            <p n="SL-WIKI0035432">Takrat je zaslišal za hrbtom korake, ki so šumeli po stezi, nastlani z listjem. Takoj je dvignil <pb n="3"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-003.jpg"/>sekiro, obsekal na porobku kvišku štrleče trske, kjer se je odlomilo deblo, in vsekal na štor križ, da si ne bi brusil ob njem krempljev hudič. Nato se je šele obrnil in pogledal na pot.</p>
+            <p n="SL-WIKI0035432">Takrat je zaslišal za hrbtom korake, ki so šumeli po stezi, nastlani z listjem. Takoj je dvignil sekiro, obsekal na porobku kvišku štrleče trske, kjer se je odlomilo deblo, in vsekal na štor križ, da si ne bi brusil ob njem krempljev hudič. Nato se je šele obrnil in pogledal na pot.</p>
             <p n="SL-WIKI0035433">Po poti se je vračala Franca s kolodvora.</p>
             <p n="SL-WIKI0035434">France je zinil, da bi izpregovoril besedo, kakor si jo je pripravil za kogarkoli. Toda ob pogledu nanjo je obtičala beseda v njem in v zadregi je dvignil sekiro ter jo ogledaval, če ni dobila škrbine.</p>
             <p n="SL-WIKI0035435">»Ali si že v drveh?« je izpregovorila Franca kratko in šla svojo pot.</p>
@@ -142,8 +137,6 @@
             <p n="SL-WIKI0035465">»Moj Bog, kako me gleda,« jo je spreletelo, ko ga je videla, da je stal golorok in močan sredi poti in nepremično zrl za njo. V njenem srcu se je hotelo dvigniti nekaj, kakor lepi spomini, ki se jih vsa žalostna ni razveselila.</p>
             <p n="SL-WIKI0035466">France pa je opazil njeno kretnjo in ji je bil hvaležen zanjo.</p>
          </div>
-         <pb n="4"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-004.jpg"/>
          <div>
             <head>II.</head>
             <p n="SL-WIKI0035467">»Kaj ti je, France?« je ogovorila rahlo sestra Lojza gospodarja in obstala začudena pred podom. Snela je obramnice, da ji je zdrknil težek koš plaže, ki jo je natrgala v zelniku, na tla. S predpasnikom si je obrisala pot s čela, prijela za ogle ruto in si jo popravila in prevezala na glavi. Nato je stopila bliže brata, si oprla v bok roke in ga gledala.</p>
@@ -169,8 +162,6 @@
             <p n="SL-WIKI0035487">France je pa stal na vozu, velikan, in se smejal:</p>
             <p n="SL-WIKI0035488">»Kakor smet si, Jera. S sapo bi te podrl.«</p>
             <p n="SL-WIKI0035489">»Mm,« je pomolila Jera brado naprej in se mu popačila. »Saj vem, kam prepelješ. K Jančarju. Kar priženi se tja, ko si več tam, ko doma. Mm —« se mu je še enkrat namrgodila in šla jezna v hišo. Franceta je očitek spekel, da je jezen planil z voza in iskal, kaj bi vrgel za Jero.</p>
-            <pb n="5"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-005.jpg"/>
             <p n="SL-WIKI0035490">»Hu —« je začel.</p>
             <p n="SL-WIKI0035491">Lojza je pristopila naglo k njemu.</p>
             <p n="SL-WIKI0035492">»Nikar, France! Ali je ne poznaš?«</p>
@@ -202,8 +193,6 @@
             <p n="SL-WIKI00354118">»Jera, to je grdo,« se je razhudila Lojza. »Gospodarja takole zalezavati. To je že natolcevanje in je greh.«</p>
             <p n="SL-WIKI00354119">»Greh, aha, greh! Ko je pa ona tam govorila z njim skozi okno taka, razmahedrana, kakor poštena ženska z moškim ne govori nikoli — to pa ni greh. In kako jo je on gledal! To je prešuštvovanje in pri takih jaz ne bom služila. Ko se mu je izmuznila, lisica, in ga zvodila za nos, sem bila jaz dobra. »Le ostani, Jera, Jerca, vidiš, Lojza je bolehna, nič ne hodi proč,« me je preprosil in sem res ostala do danes in mu nisem bila v spotiko nikoli in sem delala za dve in se še zmenila nisem, ko so vsi rekli: Jero naj vzame. Saj je ne dobi boljše. Če nima dote na kupe, ima pa roke za dve — o — roke in tudi sicer sem za tolikanj že, kakor ta Franca, kozjebrda prešuštna. Jaz grem.«</p>
             <p n="SL-WIKI00354120">Jera je odločno zamahnila z rokami, stisnjenimi v pesti, da sta se na hrbtu skoro srečali. Lojza je pa stopila do nje in jo umirila bolj z znamenji kakor z besedo. Za roko jo je prijela in jo odvedla v hišo.</p>
-            <pb n="6"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-006.jpg"/>
             <p n="SL-WIKI00354121">»Ne pojdeš, Jera, ko te jaz ne pustim. Le pomisli: če bi sedaj šla po enajstih letih, kaj bi rekli ljudje? Samo s tem, če zdajle greš, sredi leta, ob največjem delu, obrečeš našo hišo.«</p>
             <p n="SL-WIKI00354122">»Ne, naše ne bom. O njej pa povem vsakemu. Drugega ne zasluži taka nastava,«</p>
             <p n="SL-WIKI00354123">»Jera!«</p>
@@ -238,8 +227,7 @@
             <p n="SL-WIKI00354152">»Jaz? Jaz že ne! Delo žene, delo!« se je smejal France in pomežiknil Franci, ki je postavila skledo na mizo.</p>
             <p n="SL-WIKI00354153">Franca ni hotela videti njegovega hudomušnega mežikanja, s katerim ji je hotel dopovedati: »Vidiš, če sem jaz zraven, se takole dela.« Potegnila je z Lukom:</p>
             <p n="SL-WIKI00354154">»To je res, Luka. France misli, da so vsi ljudje železni kot je sam. Preveč jih tiraš!«</p>
-            <p n="SL-WIKI00354155">»To je stroj, Franca! Ali naj mlatilnica prazna drdra in naj kolesa sama sebe jedo? To ni tako, kakor stari pikapok, potem pa fajfa, potlej opravljanje in naslanjanje na cepce — kdo bo to gledal? Zato sem si napravil gepelj. Ali to pa tudi rečem: Sedaj nam daj, Franca, dve uri oddiha, <pb n="7"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-007.jpg"/>nam in živini. In če vsakemu primakneš par desetic na plači, ne bo zato nobene izgube.«</p>
+            <p n="SL-WIKI00354155">»To je stroj, Franca! Ali naj mlatilnica prazna drdra in naj kolesa sama sebe jedo? To ni tako, kakor stari pikapok, potem pa fajfa, potlej opravljanje in naslanjanje na cepce — kdo bo to gledal? Zato sem si napravil gepelj. Ali to pa tudi rečem: Sedaj nam daj, Franca, dve uri oddiha, nam in živini. In če vsakemu primakneš par desetic na plači, ne bo zato nobene izgube.«</p>
             <p n="SL-WIKI00354156">Luka in dninarji so zadovoljno potrdili Francetu, in ko je zadišalo pleče na mizi in ob njem steklenica kakor cekin čistega hruševca, je prešla vsa slaba volja.</p>
             <p n="SL-WIKI00354157">Po obedu so se zleknili na trato in začeli pogovor o vojski. Pridružilo se jim je še nekaj sosedov.</p>
             <p n="SL-WIKI00354158">»Nič ne bo z vojsko,« je začel Marinček. »Cesarji se bodo pomirili.«</p>
@@ -276,8 +264,7 @@
             <p n="SL-WIKI00354189">France je izpil kozarec hruševca in mu ni ugovarjal; preveč ga je speklo.</p>
             <p n="SL-WIKI00354190">»Takole,« je položil kozarec na trato. »Najedli smo se, naležali in nagovorili tudi. Pojdimo!«</p>
             <p n="SL-WIKI00354191">Spet je završalo na podu, pod mlatilnico je rumenelo zrnje pšenice in naraščalo v visok kup ob steni. Vsak se je zatopil v svoje delo in molčal in delal kot stroj brez misli. Samo Luka se ni mogel otresti misli na podporo kljub prejšnjim ugovorom in je do večera dodobra premislil in sklenil, da se oglasi — seveda skrivaj — pri županu.</p>
-            <p n="SL-WIKI00354192">Družina je že sedela pri večerji, ko je France imel še vse polno posla krog gepeljna in mlatilnice. <pb n="8"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-008.jpg"/>Hodil je krog njih z laterno, snažil kolesje, vlival olja v pušice, mazal zobe in pritrjal omajane vijake.</p>
+            <p n="SL-WIKI00354192">Družina je že sedela pri večerji, ko je France imel še vse polno posla krog gepeljna in mlatilnice. Hodil je krog njih z laterno, snažil kolesje, vlival olja v pušice, mazal zobe in pritrjal omajane vijake.</p>
             <p n="SL-WIKI00354193">»Oh, France, pojdi no,« se je oglasila gospodinja že tretjič na pragu in ga prosila večerjat.</p>
             <p n="SL-WIKI00354194">»Koj, koj! Naj le jedo.«</p>
             <p n="SL-WIKI00354195">Pa je še pokleknil in svetil na podu pod stroj.</p>
@@ -312,8 +299,6 @@
             <p n="SL-WIKI00354224">»Kakor veš, da je prav. Torej v nedeljo — in se vse pomenimo z Blažem.«</p>
             <p n="SL-WIKI00354225">France bi bil še sedel, pa je gospodinja pogledala na uro in se začudila: »Na deset gre.«</p>
             <p n="SL-WIKI00354226">»Saj res,« ji je pritrdil Matic in vstal, »Kakšna noč!« je pogledal skozi okno. »Pravzaprav bi bilo najbolje, da bi šel kar na pod v slamo in počakal jutra. Kaj bi krevsaril domov? Ni vredno.«</p>
-            <pb n="9"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-009.jpg"/>
             <p n="SL-WIKI00354227">Tedaj je stopila Franca k njemu, ga prijela rahlo za roko in mu pogledala v oči:</p>
             <p n="SL-WIKI00354228">»France, ubogaj me in pojdi! Je bolj prav tako.«</p>
             <p n="SL-WIKI00354229">»Prav imaš,« je rekel Matic brez vsakega premisleka in šel. Celó lahko noč ji ni voščil. Franca je slišala pri oknu, ko ga je zastirala, hitre, težke korake, ki so bežali čez dvorišče. »Kdo bi mislil, da se ta hrust da voditi kot otrok in da ima tako srce. Le kako, da sem si prebrala?« Koprnenje se je budilo v njej in tisti dnevi, ko je zahajal k njej — k deklici.</p>
@@ -352,8 +337,6 @@
             <p n="SL-WIKI00354259">Matic je gledal in segal po ponujeni roki.</p>
             <p n="SL-WIKI00354260">»Jernej! Ali ga ne poznaš, France?« se ga je zveselila Jančarica.</p>
             <p n="SL-WIKI00354261">»Kaj ne, sem zal?« se je norčeval Matjažev Jernej in se smejal. »Ali ste prišli k Blažu? Kar naprej! Tistale vrata, št. 37! Jaz moram k Figovcu. Me čaka naša. Z Bogom!« Jernej je stekel po stopnicah kot razposajen fant in jim izginil, preden so zavili na hodnik.</p>
-            <pb n="10"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-010.jpg"/>
             <p n="SL-WIKI00354262">Soba št. 37 je bila skoro prazna. Pri vratih je spal na slamnici nekdo in bil pokrit s kapo čez oči. V kotu na levo sta sedela dva na postelji, ki sta imela zvezde in sta kadila. Od te postelje ob steni je bilo vse nastlano s posvaljkano slamo. Ob vzglavju tornistre, plašči in koci, nad njimi puške.</p>
             <p n="SL-WIKI00354263">»Saj ga ni,« je omenila tiho Franca.</p>
             <p n="SL-WIKI00354264">Matic je gledal po dolgi sobi, dokler ni zagledal na koncu dvorane še nekoga. Ležal je vznak in se ni ganil. Počasi so šli skozi sobo proti njemu.</p>
@@ -387,8 +370,7 @@
             <p n="SL-WIKI00354292">»Ne, škoda, da je nimam. Žene nas samo pohujšujete. Boš videla jutri. Vsakemu se bo na obrazu poznalo, ki ga je obiskala žena, tako mu bo dolgčas. Še meni, ko je nič ne maram.«</p>
             <p n="SL-WIKI00354293">Jernej je dal ženi roko krog pasa in jo pritisnil k sebi.</p>
             <p n="SL-WIKI00354294">»O, saj te poznam,« je rekla ona in se mu branila.</p>
-            <p n="SL-WIKI00354295">Franca je pogledala na otroka, ki sta z odprtimi ustmi in očmi lovila besede. Celo vsak na svojo žemljo, ki sta jo napol pojedeno držala v rokah, sta pozabila. Od sosednje mize se je čula kvanta. Franca je hitela otrokoma nekaj pripovedovati, da je preglušila grdo besedo. Prav nanje se je nagnila in jih stisnila k sebi. Potem se je pa takoj obrnila k Blažu, ki je molčal, in <pb n="11"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-011.jpg"/>mu šepetala tako, da obmizje ni razumelo. Mož je prikimal, se obrnil k Maticu, ta je prikimal Blažu in Franci, potegnil še enkrat iz vrča in odšel od mize. V veži je plačal, šel k hlapcu in dal napreči.</p>
+            <p n="SL-WIKI00354295">Franca je pogledala na otroka, ki sta z odprtimi ustmi in očmi lovila besede. Celo vsak na svojo žemljo, ki sta jo napol pojedeno držala v rokah, sta pozabila. Od sosednje mize se je čula kvanta. Franca je hitela otrokoma nekaj pripovedovati, da je preglušila grdo besedo. Prav nanje se je nagnila in jih stisnila k sebi. Potem se je pa takoj obrnila k Blažu, ki je molčal, in mu šepetala tako, da obmizje ni razumelo. Mož je prikimal, se obrnil k Maticu, ta je prikimal Blažu in Franci, potegnil še enkrat iz vrča in odšel od mize. V veži je plačal, šel k hlapcu in dal napreči.</p>
             <p n="SL-WIKI00354296">»No, če greste, pojdimo,« je rekel, ko se je vrnil, in izpil ostanek iz vrčka. »Kar sem rekel, je plačano! Z Bogom, fantje!«</p>
             <p n="SL-WIKI00354297">»Zakaj tako naglo! Posedite! Z Bogom!« je vršalo omizje.</p>
             <p n="SL-WIKI00354298">»Gora ni nora, je le tisti nor, ki hodi v temi gor,« je še rekel Matic pri vratih in odšel na dvorišče.</p>
@@ -421,8 +403,6 @@
             <p n="SL-WIKI00354325">Maticu pa je bilo, kakor bi izpregovoril angel, in spet ga je obšla skušnjava, ki jo je zagovarjal:</p>
             <p n="SL-WIKI00354326">»Morda je tako namenjeno. Bog je govoril po otroku.«</p>
          </div>
-         <pb n="12"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-012.jpg"/>
          <div>
             <head>IV.</head>
             <p n="SL-WIKI00354327">Le kdove kajkrat, toda zgodilo se je vendar, da je France prišel pozno v noč s konjem domov. Take večere je Jero silno skrbelo. Hodila je nemirna k oknu, ga odpirala in poslušala, če bi kje čula ropot voza in glas Francetov. Na prag ga je hodila čakat in za vse na svetu ne bi bila legla, dokler ni prišel. In ko je zaslišala pod vasjo ropot voza, je prihitela v hišo pravit Lojzi: »Zahvaljen Bog! Že gre!« Naglo je prižgala laterno, skočila še v hlev pogledat, če je v konjski staji vse v redu, in potem stopila na rob dvorišča ter ga pričakovala.</p>
@@ -447,8 +427,7 @@
             <p n="SL-WIKI00354346">»Jera, spet natolcuješ. I kaj vendar veš od France in od njega?«</p>
             <p n="SL-WIKI00354347">»Oh,« se je po sili začudila dekla in se še bolj po sili zasmejala. »Kaj vem? Ko bi ne bila ti tako sveta in učena iz pobožnih bukev, bi si mislila, da res ne znaš tujih grehov in ne veš, kaj se pravi: greh zagovarjati, h grehu molčati, greh spregledati — o le zagovarjaj, le molči, le spreglej jima vse — le, svetnica! Tako dolgo, da bodo s prstom kazali za njima in bomo umazani vsi — midve tudi. Le daj! Toda jaz ti rečem, da tega ne učakam pri hiši — jaz že ne. Lahko noč!«</p>
             <p n="SL-WIKI00354348">Jera ni čakala Lojzinega odgovora. Trdo je zaprla vrata in odšla na izbo.</p>
-            <p n="SL-WIKI00354349">Tamkaj je sedla k odprtemu oknu in še na misel ji ni bila postelja. Na dlani, kamor je bila naslonila glavo, je čutila udarce žil, ki so ji kljuvali v senceh. Dolgo je sedela brez vsake jasne misli. Trudna topost po izbruhu jeze jo je obvladala. <pb n="13"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-013.jpg"/> Rahlo je šumelo drevje, gibano od vetra, ki je hladen pihal v okno. Počasi je ginila topost, Jera je začela razmišljati. Toda vse misli so se križale, črtale in zavozlavale in zaeno se potapljale v čuvstvu, ki ji je bilo čisto neznano. Prvič v življenju jo je obšlo to čuvstvo, ki je rodilo toliko jezo na Franceta. A kljub temu ga je Jera to noč pričakala pri oknu, kakor nekdaj, in kljub vsej jezi se je silno razveselila, ko je izpregovoril na dvorišču. Najrajša bi bila planila iz sobe in mu posvetila in mu pomagala. In ker ni, se je razjokala.</p>
+            <p n="SL-WIKI00354349">Tamkaj je sedla k odprtemu oknu in še na misel ji ni bila postelja. Na dlani, kamor je bila naslonila glavo, je čutila udarce žil, ki so ji kljuvali v senceh. Dolgo je sedela brez vsake jasne misli. Trudna topost po izbruhu jeze jo je obvladala.  Rahlo je šumelo drevje, gibano od vetra, ki je hladen pihal v okno. Počasi je ginila topost, Jera je začela razmišljati. Toda vse misli so se križale, črtale in zavozlavale in zaeno se potapljale v čuvstvu, ki ji je bilo čisto neznano. Prvič v življenju jo je obšlo to čuvstvo, ki je rodilo toliko jezo na Franceta. A kljub temu ga je Jera to noč pričakala pri oknu, kakor nekdaj, in kljub vsej jezi se je silno razveselila, ko je izpregovoril na dvorišču. Najrajša bi bila planila iz sobe in mu posvetila in mu pomagala. In ker ni, se je razjokala.</p>
             <p n="SL-WIKI00354350">Na dvorišču pa je Lojza svetila krog voza, ko je France izpregal.</p>
             <p n="SL-WIKI00354351">Molčal je trdovratno, klobuk je imel pomaknjen na levo oko in na Lojzin pozdrav je zagodrnjal nerazumljivo besedo. Sestra ga ni več nadlegovala z vprašanji. Molče mu je pomagala, in ko ni bila vajena, jo je parkrat odsunil s komolcem. Ko pa France ni dobil pripravljenega zobanja v jaslih, se je raztogotil in izpregovoril:</p>
             <p n="SL-WIKI00354352">»Kje pa je dekla?«</p>
@@ -485,8 +464,6 @@
             <p n="SL-WIKI00354383">Ko je France opravil pri konju, je trdo iztrkal krtačo, jo obesil na žebelj in šel proti vratom. Ne da bi se ozrl, je izpregovoril ukazujoče :</p>
             <p n="SL-WIKI00354384">»Zanaprej nimaš pri konju nič opravka. Da veš!«</p>
             <p n="SL-WIKI00354385">Nato je naglo odšel.</p>
-            <pb n="14"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-014.jpg"/>
             <p n="SL-WIKI00354386">Jera je prenehala z molžo, odprla usta in pogledala za njim. Ali Franceta ni bilo več. Jera je molzla dalje. Ko je bila gotova s Pisano, ni pristavila stolčka Rumenki. Naslonila se je pri konju ob paž.</p>
             <p n="SL-WIKI00354387">»Takole se človeka naveličajo, ko je enajst let pri hiši,« je začela glasno govoriti sama seboj. Kobilica se je ozrla proti njej in je zaprhala.</p>
             <p n="SL-WIKI00354388">»Ti tudi brzkaš name, konjavs grdi; zato, ker sem ti tako stregla. Oba sta enaka z gospodarjem, nehvaležnika.«</p>
@@ -521,8 +498,6 @@
             <p n="SL-WIKI00354417">»No, Matic, ali si tudi prišel po podporo?« Matic bi bil zaklel in položil desetak na mizo, ko bi se bil mogel izmuzniti.</p>
             <p n="SL-WIKI00354418">»To je le za ženske,« je spravil počasi iz sebe, se pokril, ko se je toliko zavedel, da je napravil neumnost in snel klobuk že v veži.</p>
             <p n="SL-WIKI00354419">»A, kaj, nič bi se ne branil denarja tudi ti ne,« se je oglasila Dolinka. »Si preveč volk nanj.«</p>
-            <pb n="15"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-015.jpg"/>
             <p n="SL-WIKI00354420">France je godrnjal, da je vse pošteno prištedil, če kaj ima, in je medtem poiskal sedež prav v zadnjem kotu veže za omaro.</p>
             <p n="SL-WIKI00354421">Vrata v pisarno so se odprla, ženska je prišla iz sobe z zglasitveno polo, za njo se je pokazal župnik in velel:</p>
             <p n="SL-WIKI00354422">»Le kar naprej!«</p>
@@ -574,8 +549,6 @@
             <p n="SL-WIKI00354468">Matic je bil tako vesel samega sebe, vesel župnika, prošnje in celega sveta, da je šel zoper vse svoje navade na delavnik v krčmo in se pomudil do mraka. Nato je romal s prošnjo proti domu, pa ne domov — ampak k Franci iskat podpisa. »Poglej, kar vsa pota kažejo k njej,« ga je nekoliko vinskega spet obletavala skušnjava in ves srečen je pritiskal prošnjo z laktjo k sebi.</p>
             <p n="SL-WIKI00354469">Ko je vse razložil Franci, se ta ni več upirala in je podpisala. Matic je pil hruševec in pozabil, da ni doma na Kozjem hribu, dokler ga ni opozorila Franca. Zoper navado ji je segel v roko, jo pogledal s takim pogledom, da so Franci še v temi žarele njegove oči in se jih je veselila in se jih je bala.</p>
          </div>
-         <pb n="16"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-016.jpg"/>
          <div>
             <head>V.</head>
             <p n="SL-WIKI00354470">Draga žena!</p>
@@ -603,8 +576,7 @@
             <p n="SL-WIKI00354492">Franca je v kamri odslovila otroke, naj gredo za stricem, naj se igrajo ali naj pobero črvivo sadje, ko se jablane že trebijo. Neradi in tiho so šli otroci drug za drugim iz hiše. Videli so oddaleč v klancu strica, ki je vpognjen šel po kolovozu. Janezek je zaklical trikrat na ves glas:</p>
             <p n="SL-WIKI00354493">»Tliic! tliic! tliiic!« Toda stric se ni ozrl.</p>
             <p n="SL-WIKI00354494">Franca je v kamri sedla na posteljo. Hotela je biti sama.</p>
-            <p n="SL-WIKI00354495">Hudo je bilo, ko je odšel, hudo, ko mu je segla v Šent Vidu v roko, hudo doma, ko ga ni bilo — ali tako grozno, kot sedaj, ji še ni bilo. Pred seboj je videla njegove oči, ki so jo prosile: Pridi, Franca! Videla ga je, kako je ležal na slamnici v vojašnici, ko so drugi popivali po mestu za slovo, — sam — in jo čakal. In druge žene so prišle in matere in sestre in neveste, in še enkrat so <pb n="17"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-017.jpg"/>se poslovili, in do vlaka so šle z njimi in jim stiskale roke — on — Blaž — je pa čakal — in je ni pričakal. Sedaj se že pelje nad sovražnika — morda je že v boju — morda ranjen — umira — o — Franci se je temnilo pred očmi. Grizoča bolečina jo je stiskala v prsih, oči so topo zrle v tla, zaželela si je solz, a se ni mogla razjokati. In v tem trpljenju se je nenadoma oglasilo v njeni duši:</p>
+            <p n="SL-WIKI00354495">Hudo je bilo, ko je odšel, hudo, ko mu je segla v Šent Vidu v roko, hudo doma, ko ga ni bilo — ali tako grozno, kot sedaj, ji še ni bilo. Pred seboj je videla njegove oči, ki so jo prosile: Pridi, Franca! Videla ga je, kako je ležal na slamnici v vojašnici, ko so drugi popivali po mestu za slovo, — sam — in jo čakal. In druge žene so prišle in matere in sestre in neveste, in še enkrat so se poslovili, in do vlaka so šle z njimi in jim stiskale roke — on — Blaž — je pa čakal — in je ni pričakal. Sedaj se že pelje nad sovražnika — morda je že v boju — morda ranjen — umira — o — Franci se je temnilo pred očmi. Grizoča bolečina jo je stiskala v prsih, oči so topo zrle v tla, zaželela si je solz, a se ni mogla razjokati. In v tem trpljenju se je nenadoma oglasilo v njeni duši:</p>
             <p n="SL-WIKI00354496">»Ti, ali nisi pravzaprav hinavka? Kaj ti je bilo tako prijetno, ko se je smukal Matic okrog tebe?! — Saj se ti je srce smejalo, ko si spoznala: Še vedno me ima rad. Le jokaj, ko si že prešustvovala v svojem srcu ...«</p>
             <p n="SL-WIKI00354497">Franca je planila s postelje in padla na kolena.</p>
             <p n="SL-WIKI00354498">»Nisem, nisem, moj Bog, ti veš, da nisem! Prizanesi!«</p>
@@ -641,8 +613,6 @@
             <p n="SL-WIKI00354529">Župnik je vstal od pisalnika in se hudomušno namuznil. Skušnja ga je izučila, da so take maše le pot do poglavitnega cilja.</p>
             <p n="SL-WIKI00354530">»Torej kaj, Jera?« se je naslonil na visoko železno blagajno.</p>
             <p n="SL-WIKI00354531">»Zavoljo pohujšanja bi Vas nekaj prosila.«</p>
-            <pb n="18"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-018.jpg"/>
             <p n="SL-WIKI00354532">»Zavoljo pohujšanja,« se je nalašč čudil župnik. »Kdo je pohujšljivec?«</p>
             <p n="SL-WIKI00354533">»Oh,« je bila Jera v zadregi, ali se je vendar naglo opogumila in rekla: »Jančarica s Kozjega hriba!«</p>
             <p n="SL-WIKI00354534">»Jančarica? Blaževa?« se je čudil župnik, a zdajci v resnici.</p>
@@ -677,8 +647,7 @@
             <p n="SL-WIKI00354563">»Navada,« je rekel župnik malomarno.</p>
             <p n="SL-WIKI00354564">»Za otroke ne rečem, ampak za moškega ta reč ni,« je bilo všeč županu.</p>
             <p n="SL-WIKI00354565">Nato je župnik s pomočjo zapisnika zbral posamezne družine, ki sta jim z županom določila stanovanje za prve dni, dokler se ne uredi drugače. En sam fant je ostal, ki ni spadal k nobeni družini. Povedal je, da je delal na polju, ko so ljudje začeli bežati. Bežal je z njimi vred — prišel z njimi na vlak in sedaj ne ve ne za očeta, ne za mater. Tega je sprejel župnik. Nato je priporočil begunce ljudem in določil nedeljo za to, da se razdele posameznim gospodarjem v rejo.</p>
-            <p n="SL-WIKI00354566">Ko so v nedeljo porazdelili begunce, se je oglasila pri župniku Jančarica in je prinesla za mašo za srečno vrnitev Blaža, »ko mu ne morem drugače nič pomagati,« je pristavila. Ob tej priliki <pb n="19"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-019.jpg"/>se je župnik spomnil Jerine tožbe, na katero bi bil skoro pozabil.</p>
+            <p n="SL-WIKI00354566">Ko so v nedeljo porazdelili begunce, se je oglasila pri župniku Jančarica in je prinesla za mašo za srečno vrnitev Blaža, »ko mu ne morem drugače nič pomagati,« je pristavila. Ob tej priliki se je župnik spomnil Jerine tožbe, na katero bi bil skoro pozabil.</p>
             <p n="SL-WIKI00354567">Župnik jo je skrivaj opazoval, ko je pripovedovala o Blažu, o njegovem odhodu in o tem, da se ni mogla še enkrat posloviti. V orošenih očeh ni bilo nič narejenega in zlaganega: resnična iskrenost je gorela iz njih.</p>
             <p n="SL-WIKI00354568">»Sedite, Franca,« jo je povabil župnik. Tudi sedaj jo je pogledal, da bi ujel znak nemirne vesti. Ali France ni spreletela barva in je sedla.</p>
             <p n="SL-WIKI00354569">»Nekaj Vam moram omeniti in Vas opozoriti, Franca!«</p>
@@ -717,8 +686,6 @@
             <p n="SL-WIKI00354599">V nedeljo pred Malim Šmarnom je šel France od rane maše in nekaj korakov za njim je šla Jančarica s teto Nežo, sestro Jančaričinega očeta, vdovo na užitku. Franca je bila vesela, da je teta hodila počasi in da se je razdalja med njo in Francetom večala. France se ni ozrl, ali je vendar natančno vedel, da gre Francka za njim. Raztegnil je korake in se podvizal, da je visel ves naprej ob hoji.</p>
             <p n="SL-WIKI00354600">Ko sta prišli s teto do pošte, se je Franca nenadoma poslovila od tete.</p>
             <p n="SL-WIKI00354601">»Moram iti vprašat, če je kaj pisma od Blaža,« je rekla teti in krenila na levo in je bila silno vesela, da se je domislila tega. Zakaj vedela je, da bi pravzaprav silno rada povedala Francetu, ki je trdovratno držal svoj sklep in se ogibal njene hiše, kaj ji je očital župnik. Ali vseeno se je bala, da se ne bi pomotoma sešla z njim.</p>
-            <pb n="20"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-020.jpg"/>
             <p n="SL-WIKI00354602">Pred pošto je bila gruča žensk. Vse so izpraševale:</p>
             <p n="SL-WIKI00354603">»Ali je vaš kaj pisal?«</p>
             <p n="SL-WIKI00354604">»Oh, nič,« je vzdihnila vsaka.</p>
@@ -751,8 +718,7 @@
             <p n="SL-WIKI00354631">»Za Jančarico je prišla podpora. Da ne bo hodil sluga v hribe, ko ima že itak preveč potov, poneseš ji ti polo, kaj ne?«</p>
             <p n="SL-WIKI00354632">France je imel takoj pripravljeno trdo besedo in sklep v srcu:</p>
             <p n="SL-WIKI00354633">»Jaz ji že ne bom nosil,« — ali sam Bog ve, kako da ni tega rekel, ampak je spravil polo v malho in obljubil županu, da jo pošteno izroči. In v istem hipu ga je bilo sram, ko se je podal in prevzel posel »biriča« — tako so rekli slugi — a pomagati si ni mogel več. Zato si je naročil še vina. In tako se je zgodilo, da je nekoliko vinski koračil v mraku proti domu.</p>
-            <p n="SL-WIKI00354634">Ko ni več hodil med hišami in ni srečaval ljudi, ki so se vračali s polja, ko ga je zakril gozd, <pb n="21"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-021.jpg"/>je začel stopati počasneje. Vroče je bilo in vino ga je grelo. Snel je klobuk in začel razmišljati: Ali bi ji nesel sam, ali bi poslal Lojzo.</p>
+            <p n="SL-WIKI00354634">Ko ni več hodil med hišami in ni srečaval ljudi, ki so se vračali s polja, ko ga je zakril gozd, je začel stopati počasneje. Vroče je bilo in vino ga je grelo. Snel je klobuk in začel razmišljati: Ali bi ji nesel sam, ali bi poslal Lojzo.</p>
             <p n="SL-WIKI00354635">»Begunca ima, zato je moška in ne pošlje več pome. In jezil ga je ta begunec Roman in peklo ga je, če je omenila Lojza, da se Jančarica pohvali z njim. Toda v vinski razgretosti je pozabil jeze in prikljuvala se je stara ljubezen na vrh ter si je silno zaželel govoriti s Franco. Kar pojdem, nalašč. — Vsi lepi spomini so obstali pred njim. Ali spet se je zavedel, kako ga je Franca zadnjič odslovila, in je sklenil, da pojde, pa zato, da ji pove, kar zasluži.</p>
             <p n="SL-WIKI00354636">Tako je okleval med ljubeznijo in sovraštvom in ni vedel, da je sovraštvo le plod ljubezni, in prav ničesar ni dognal. Ko je pa stopil iz gostih ulic grmovja, se je posvetila pred križem nad vasjo lučka. Ko jo je zagledal, je še kratko pomislil in takoj sklenil, da gre k Jančarju s polo. Morda varuje ona, ko je bila včeraj pri molitvi, in tako bosta sama, je premišljal. Če je pa ni doma, vseeno. Morda še bolje.</p>
             <p n="SL-WIKI00354637">Dolgih korakov je krenil pod vasjo, da se je ognil ljudi, ki so šli za hribček, in ko je komaj Lojza začela z vero, je France vstopil pri Jančarju. Potoma je utegnil še preudariti, kako se znese nad Franco.</p>
@@ -786,8 +752,6 @@
             <p n="SL-WIKI00354665">France sam ni vedel, kako je prišel na dvorišče. Tam mu je zašepetala s praga Jančarica, ko je slišala brbljanje otrok, vračajočih se od križa: »Že gredo! Skrij se!«</p>
             <p n="SL-WIKI00354666">France je izginil za podom.</p>
          </div>
-         <pb n="22"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-022.jpg"/>
          <div>
             <head>VIII.</head>
             <p n="SL-WIKI00354667">Francka je po stranskih stezah za vrtovi tekla od doma. Na razpotju, par streljajev od vasi, se je zasopla ustavila in izpustila sveženj na tla pod križem. Ta križ je bil tisti, ki ga je bil postavil na mestu starega, trhlenega malo pred vojno njen oče in ga dal slovesno blagosloviti. Pod tem križem se je ustavil vselej mrtvaški sprevod, nosači so postavili krsto na tla in nekdo je tu v imenu rajnika prosil vaščane odpuščanja ob slovesu na drugi svet in molil za pokoj duše, preden so pogrebci krenili proti fari.</p>
@@ -804,8 +768,6 @@
             <p n="SL-WIKI00354678">Sama ni vedela, kako in kdaj je prišla na vrh. Obstala je. Izpod rute so ji tekle potne kaplje. Snela jo je, si otrla pot in si popravila lase. Daleč na vzhodnem nebesu se je že svitalo. Francka je sedla na sveženj in nastavila glavo ob dlani. Še enkrat je premislila to grozno noč, še enkrat je pogledala v temno bodočnost. Kakor bi se bila šele sedaj jasno zavedela, kaj se je zgodilo, je začela ihteti.</p>
             <p n="SL-WIKI00354679">Tisti hip pa se je zasvetila drobna lučka v smeri od Kozjega hriba. Francka je ni opazila, ko si je zakrivala obraz z rokami. Lučka pa se je neslišno bližala, dokler ni nekaj korakov od nje obstala.</p>
             <p n="SL-WIKI00354680">Maticeva Lojza je šla k rani maši. Veliko, rdečerezano knjigo, »Večno molitev«, je držala v levici, izpod nje je visela na sredincu majhna svetilka, v desnici je držala molek. Ko je Lojza zaslišala ihtenje, se je ustavila. Mislila je prvi hip, da je kak otrok, ki je zašel v gozdu. Ali dne je bilo že toliko vrhu hriba, da je zapazila sključeno žensko, ki je sedela ob poti.</p>
-            <pb n="23"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-023.jpg"/>
             <p n="SL-WIKI00354681">Lojza se ji je približala toliko, da je že obsvetila lučka med dlani stisnjeno glavo Franckino. Lojza je ni spoznala. »Dobro jutro!« je izpregovorila Lojza. Francka se je vsa zganila in hitro dvignila glavo. Od solz orošene oči so zagledale pred sabo velik, megleno svetel kolobar, Lojze ni videla. Ali ta jo je v tem hipu spoznala.</p>
             <p n="SL-WIKI00354682">»Moj Bog, Francka! Za božjo voljo, kaj delaš tukaj?«</p>
             <p n="SL-WIKI00354683">Stopila je k nji in ji položila roko na rame.</p>
@@ -848,8 +810,6 @@
             <p n="SL-WIKI00354720">Nato je Lojza naglo odšla, zaprla vrata, zasukala ključ in si ga vtaknila v žep. Neopažena je spet prišla na stezo in hitela v dolino.</p>
             <p n="SL-WIKI00354721">Po maši je Lojza prestregla župnika pred zakristijo in ga vprašala, če ji utegne dati sveta v neki stvari. Župnik jo je povabil v pisarno. Potoma je govoril:</p>
             <p n="SL-WIKI00354722">»Pri vas je sreča, da France ni vojak. Vi lahko delate. — Kako pa, ali brat kaj hodi pomagat k Jančarju?« je župnik postal pred vrati pisarne in iskal po žepu ključa ter motril Lojzo.</p>
-            <pb n="24"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-024.jpg"/>
             <p n="SL-WIKI00354723">»Zdaj ne. Za jasensko setev bo pač spet treba. Za rateja begunec ni.«</p>
             <p n="SL-WIKI00354724">Župnik je bral Lojzi z lica, da nič ne sluti o tem, kar je Jera tožila, in je bil tembolj prepričan, da je vse pretirano.</p>
             <p n="SL-WIKI00354725">»No, kaj bi?« jo je vprašal v pisarni, kakor je imel navado nagovoriti vsakega.</p>
@@ -893,8 +853,6 @@
             <p n="SL-WIKI00354763">Jera je takoj odrezala malico kruha, ga zavila v predpasnik, zadela motiko in odšla.</p>
             <p n="SL-WIKI00354764">Lojza je težko čakala, da je Jera izginila, potem je poklicala brata in mu vse razodela.</p>
             <p n="SL-WIKI00354765">»Meni je vseeno,« je skomizgnil brat z rameni, ko je Lojza dokončala povest in ga vprašala, kaj da sodi on.</p>
-            <pb n="25"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-025.jpg"/>
             <p n="SL-WIKI00354766">»Vseeno — ni res — prav tebi ne sme biti vseeno in Jeri tudi ne bo vseeno.«</p>
             <p n="SL-WIKI00354767">»Jeri — Jeri — za zlomka no —«</p>
             <p n="SL-WIKI00354768">»Ne kleti,« mu je hitro požugala Lojza s prstom.</p>
@@ -941,8 +899,6 @@
             <p n="SL-WIKI00354809">Nato je izlila jezo v glasen jok in se namerila proti domu. Potoma je ugovarjala:</p>
             <p n="SL-WIKI00354810">»Enajst let sem trpela kot kamen na cesti, sedaj me mečeš pod kap, jeseni, ko ni služb — za zahvalo — le spravi tiste knjižice — jih ne maram —«</p>
             <p n="SL-WIKI00354811">France se je pasel nad njeno jezo in jokom. Puhal je mogočne dime, pregledaval ponepotrebnem koso in njen klep.</p>
-            <pb n="26"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-026.jpg"/>
             <p n="SL-WIKI00354812">»Saj je vseeno!« je zakričal za njo, »Pri županu dobiš vse, da veš,« je dodal, ko se je sklonil po bukvice in pobral krone. Spet je sedel pod češnjo, gledal za Jero, ki je tekla proti domu, in je bil ves srečen.</p>
             <p n="SL-WIKI00354813">Jera je prijokala domov in zatožila Franceta:</p>
             <p n="SL-WIKI00354814">»Ah, Lojza, spodil me je, zaradi tiste babnice grde! Taka krivica! Bo že videl.«</p>
@@ -970,8 +926,6 @@
             <p n="SL-WIKI00354836">»Ti držiš z njo.«</p>
             <p n="SL-WIKI00354837">Lojza pa je vedela, da France ni bil več jezen.</p>
          </div>
-         <pb n="27"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-027.jpg"/>
          <div>
             <head>IX.</head>
             <p n="SL-WIKI00354838">»Ali si ga pregovorila?« je vprašala Jera Lojzo, ko se je vračala mimo zelnika.</p>
@@ -991,8 +945,7 @@
             <p n="SL-WIKI00354852">»Jezus, kaj sem ji naredila? Kako je huda name!«</p>
             <p n="SL-WIKI00354853">»Nič ne maraj. S Francetom sta se nekaj sprla.«</p>
             <p n="SL-WIKI00354854">Lojza je postavila škaf pred hlev in šla za Jero. Francki je utripalo srce. Iz hiše so doneli nerazločni, jezni klici Jere. Lojza se je vrnila vsa žalostna iz hiše, kmalu za njo je privlekla Jera svojo skrinjo na dvorišče in kričeč in zmerjajoč bežala k sosedu, od koder je naglo priropotala s samotežnim vozičem, naložila nanj skrinjo in jo odpeljala.</p>
-            <p n="SL-WIKI00354855">Francka se ji je skrila v hlev. Tamkaj je slonela in božala teličko, ki jo je gledala z velikimi, <pb n="28"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-028.jpg"/>dobrimi očmi. Ni razločila, kaj je kričala Jera. Ali jasno je čutila, da je ona vzrok.</p>
+            <p n="SL-WIKI00354855">Francka se ji je skrila v hlev. Tamkaj je slonela in božala teličko, ki jo je gledala z velikimi, dobrimi očmi. Ni razločila, kaj je kričala Jera. Ali jasno je čutila, da je ona vzrok.</p>
             <p n="SL-WIKI00354856">»Doma zaradi mene vojska, tu prepir spet zaradi mene — in po vsej fari se bo govorilo samo o meni.«</p>
             <p n="SL-WIKI00354857">Francka je objela teličko, ki je iskala z mokrim smrčkom ob njenem žepu skorjice kruha.</p>
             <p n="SL-WIKI00354858">»Ne jokaj, Francka,« je vstopila Lojza.</p>
@@ -1027,8 +980,7 @@
             <p n="SL-WIKI00354887">Ali ob molku je France imel tele misli:</p>
             <p n="SL-WIKI00354888">»Presneto sem bil pravzaprav neumen, da se nisem vseeno oženil, ko se dobe takele dekleta. — Seveda — sedaj bi je ne dobil več. Oči imam še mlade — lase pa sive. In za te se neveste nič kaj ne pulijo. — E, bo pač kaka vdovica dobra — po vojski.«</p>
             <p n="SL-WIKI00354889">Ob tem je France nehote pogledal na nasprotno brdo, na Jančarjevo polje.</p>
-            <p n="SL-WIKI00354890">Pri Golobovih pa je bilo tisto jutro huje od pogrebščine. Ne on, ne ona nista zatisnila očesa, dasi tudi besedice nista izpregovorila in sta skrivala vsak svojo bolečino. Mati je vstala še pred dnem in odšla. Golob je ni vprašal, kam gre. Vstal je mrk in je čutil, da se mu tresejo roke, ko se je oblačil. Brnjal je po dvorišču, po hlevu, po podu. <pb n="29"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-029.jpg"/>Klobuk mu je visel na oči. Stari hlapec je jezno kašljal, ko ga je videl takega, dekli sta se suvali s komolci in si mežikali. Obe sta že vedeli, da je Francka ušla od hiše. Sin Jakec, ki še ni bil dozorel za vojake, je izpraševal po mami in se skrival jeznemu očetu.</p>
+            <p n="SL-WIKI00354890">Pri Golobovih pa je bilo tisto jutro huje od pogrebščine. Ne on, ne ona nista zatisnila očesa, dasi tudi besedice nista izpregovorila in sta skrivala vsak svojo bolečino. Mati je vstala še pred dnem in odšla. Golob je ni vprašal, kam gre. Vstal je mrk in je čutil, da se mu tresejo roke, ko se je oblačil. Brnjal je po dvorišču, po hlevu, po podu. Klobuk mu je visel na oči. Stari hlapec je jezno kašljal, ko ga je videl takega, dekli sta se suvali s komolci in si mežikali. Obe sta že vedeli, da je Francka ušla od hiše. Sin Jakec, ki še ni bil dozorel za vojake, je izpraševal po mami in se skrival jeznemu očetu.</p>
             <p n="SL-WIKI00354891">Ko se je vrnila Golobovka, je namignila njemu, ki je šel pokoncu za njo v hišo. Samo z glavo je potresel in jo vprašajoče pogledal.</p>
             <p n="SL-WIKI00354892">»Štiri ženske sem najela in sem jih poslala za njo.«</p>
             <p n="SL-WIKI00354893">»To je prav,« je rekel Golob in truden sedel k peči.</p>
@@ -1067,8 +1019,7 @@
             <p n="SL-WIKI00354926">Jera je pobrskala z nogami, kakor pes, ko zagreba lastno blato, da ji je krilo odletavalo. Nato se je spustila v tek po hribu. Begunec je pobral poleno in zalučil bi ga ji bil v pete, da ga ni prestrigla Jančarica.</p>
             <p n="SL-WIKI00354927">»Pusti, pijanko!«</p>
             <p n="SL-WIKI00354928">»Pojdimo molit,« je nato dostavila in šla z družino v hišo.</p>
-            <p n="SL-WIKI00354929">Ko je Jančarica spravila po molitvi otroke spat in so odšli tudi vsi drugi, je šla v kuhinjo, dasi <pb n="30"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-030.jpg"/>ni imela posebnega posla, in se je naslonila na ognjišče. Na okajeni steni je gorela majhna lučka.</p>
+            <p n="SL-WIKI00354929">Ko je Jančarica spravila po molitvi otroke spat in so odšli tudi vsi drugi, je šla v kuhinjo, dasi ni imela posebnega posla, in se je naslonila na ognjišče. Na okajeni steni je gorela majhna lučka.</p>
             <p n="SL-WIKI00354930">»Kaj se je pravzaprav zgodilo?« je začela premišljevati. »Da je Matic spodil Jero! — In Jera je pridirjala nadme in me dolžila. — In Matic je vzel tisto Golobovo za deklo. — Le kako je sramotila njega! — Da bi bil France tak? — Saj ni mogoče! — Ampak da vzame k sebi tako žensko — in Lojza! Svetnica. — Saj se nič več ne spoznam. — Grda vojska, vsemu svetu se je zmešalo.«</p>
             <p n="SL-WIKI00354931">Jančarica je slonela, krog nje je brnel roj muh, v glavi so se ji sukale misli — od začetka do konca — in od konca k začetku, dokler se ni ustalilo vse vrenje ob edinem vprašanju: »Zakaj je šla Jera, zakaj je prišla Golobova?« — »Prav je, da ima mlado deklo,« je bil prvi pomislek. »Mi bo dal vsaj mir in se ne bo obešal tod ter čakal Blaževe smrti. Vzame naj jo, saj je iz dobre hiše.«</p>
             <p n="SL-WIKI00354932">To je bila prva misel.</p>
@@ -1109,8 +1060,6 @@
             <p n="SL-WIKI00354967">Francka mu je pogledala v oči, ki so koprnele vanjo.</p>
             <p n="SL-WIKI00354968">Matic je molčal in nagosto dihal ter iskal njene roke.</p>
             <p n="SL-WIKI00354969">Francka se mu je umaknila in rekla boječe kakor dekle: »Bomo že videli.«</p>
-            <pb n="31"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-031.jpg"/>
             <p n="SL-WIKI00354970">Matic je pa čutil, da mu je stisnila roko, in je odšel tako vesel skozi duri, da bi bil skoro zavriskal.</p>
          </div>
          <div>
@@ -1146,8 +1095,6 @@
             <p n="SL-WIKI00354999">»Vidiš, tako-le sem jih: Štrrrk v prsi, nato sem ga vrgel čez glavo — štrrrk — pa drugega na bojonet.«</p>
             <p n="SL-WIKI003541000">Ljudje so plašno gledali, tuintam se je kdo nasmehnil, ženske so sklepale roke.</p>
             <p n="SL-WIKI003541001">Ko je Jernej odložil bičevnik, se je oglasil pogumno občinski sluga Petrin:</p>
-            <pb n="32"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-032.jpg"/>
             <p n="SL-WIKI003541002">»Jernej, ne boš zameril, če tega ne razumem, kako si ti metal Ruse čez glavo, ko si prej rekel, da so kot hrasti, in ti — nisi — saj ti nič ne oponašam — najmočnejši v fari«</p>
             <p n="SL-WIKI003541003">»Ti dolgopeta sulica poganska ti,« se je razhudil Jernej, »ali ti veš, koliko je človek močan, ko ga zdravega — ne ena, ampak deset smrti drži za vrat — hej! Kdaj pa si še ti bil v smrtni nevarnosti? Ko si se pijan zibal domov in te je stara čakala z mokro cunjo na pragu!«</p>
             <p n="SL-WIKI003541004">Gosti so se zasmejali, Jernej je pomežiknil in se obliznil po kratkih brkih.</p>
@@ -1195,8 +1142,6 @@
             <p n="SL-WIKI003541046">Župnik je pomolčal.</p>
             <p n="SL-WIKI003541047">»Ne vem, če imate prav. Poglejte: kaznovana je že. Prav, za greh je pokora. Če pride Matija nazaj —«</p>
             <p n="SL-WIKI003541048">»Saj je padel, ste rekli,« ga je hitro ustavil Golob.</p>
-            <pb n="33"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-033.jpg"/>
             <p n="SL-WIKI003541049">»Pravi Jernej. Gotovo le še ni. Morda je bil samo ranjen. Torej če pride nazaj — jo vzame, kaj ne? In vendar ne bo hodil v tujo hišo ponjo! — Če je pa res padel, ali če pade — Vas mora pač boleti, da bi se Vaša klatila po svetu.«</p>
             <p n="SL-WIKI003541050">»Kar sem rekel, sem rekel. Le pustiva to reč, sicer Vam koj z voza poskočim.«</p>
             <p n="SL-WIKI003541051">Župnika je grabila Golobova trma in molčala sta do doma. Tamkaj pred župniščem mu je še enkrat omenil:</p>
@@ -1204,8 +1149,6 @@
             <p n="SL-WIKI003541053">»Lahko noč,« je rekel Golob in naglo odšel.</p>
             <p n="SL-WIKI003541054">Župniku pa se ni ta večer nič kaj prav ljubilo večerjati.</p>
          </div>
-         <pb n="34"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-034.jpg"/>
          <div>
             <head>XI.</head>
             <p n="SL-WIKI003541055">Občinski sluga Petrin je oklicaval z vzvišenega mesta pred cerkvijo med dolgo vrsto razglasov, ki so jih ljudje korenito malo razumeli, tudi oklic, da je pri županu razpoložen seznam izgub. »To se pravi,« je tolmačil, »kdor pade, ali je ranjen, ali pa bolan, ga natisnejo. In če vam je kaj na tem, da zveste o svojih ljudeh, če so še živi, pridite pogledat k županu. Tam vse vemo.«</p>
@@ -1222,8 +1165,6 @@
             <p n="SL-WIKI003541066">»Premišljujete, kaj ne, kaj bo z organistovko. Ta je še najbolj reva.«</p>
             <p n="SL-WIKI003541067">»Brez organista bomo, dokler bo vojska.«</p>
             <p n="SL-WIKI003541068">»Prav je,« ni čakal župan, »kdo bi poslušal muziko, ko bi človek najložje jokal.«</p>
-            <pb n="35"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-035.jpg"/>
             <p n="SL-WIKI003541069">»Ona naj bo v stanovanju z otroki in bero ji boste dali, kaj ne?«</p>
             <p n="SL-WIKI003541070">»I, to se razume.«</p>
             <p n="SL-WIKI003541071">»Sedaj ima podporo, kasneje dobi pokojnino ona in otroci.«</p>
@@ -1272,8 +1213,7 @@
             <p n="SL-WIKI003541114">Nekaj časa sta šla molče drug ob drugem, nato je začel župan: »Kako je visok! Saj sem naprej vedel, da ne bo nič. In kakšna surovina! Mar mi je.«</p>
             <p n="SL-WIKI003541115">Župnik pa ni črhnil besedice.</p>
             <p n="SL-WIKI003541116">Prav tisto uro, ko sta se mudila župan in župnik pri Golobu, je šel proti domu Matic — samoten popotnik na strmi stezi skozi bukovje. Tudi on se je bil podal na Petrinov oklic do županove gostilne, kjer je od drugih, samega ga je bilo sram iti gledat sezname izgub, zvedel o smrti Jančarja.</p>
-            <p n="SL-WIKI003541117">»Oh, oh,« je zmajeval z glavo z drugimi vred in miloval Franco. In ko je vinski gost začel razlagati: »Kaj Jančarica! Ta se omoži, Organistovka, ona je reva. Kdo bo jemal prazno žensko s tropom <pb n="36"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-036.jpg"/>otrok? In hiše nič, zemlje nič, samo usta so jih,« tedaj je Matica pogrelo. Kot na trnju je sedel, dokler se ni ukradel od mize, plačal v veži in naglo odšel. In ves čas je naglo hodil, dokler ni prišel iz ravnine v gozd, kakor bi bežal pred ljudmi in pred veselo mislijo, ki se mu je ob tej žalostni uri smejala v srcu.</p>
+            <p n="SL-WIKI003541117">»Oh, oh,« je zmajeval z glavo z drugimi vred in miloval Franco. In ko je vinski gost začel razlagati: »Kaj Jančarica! Ta se omoži, Organistovka, ona je reva. Kdo bo jemal prazno žensko s tropom otrok? In hiše nič, zemlje nič, samo usta so jih,« tedaj je Matica pogrelo. Kot na trnju je sedel, dokler se ni ukradel od mize, plačal v veži in naglo odšel. In ves čas je naglo hodil, dokler ni prišel iz ravnine v gozd, kakor bi bežal pred ljudmi in pred veselo mislijo, ki se mu je ob tej žalostni uri smejala v srcu.</p>
             <p n="SL-WIKI003541118">Ko ga je skril gozd, je snel klobuk, se obrisal z veliko ruto po potnem obrazu in začel hoditi zlagoma.</p>
             <p n="SL-WIKI003541119">Živo je videl Francko, kako se ji bodo skalile oči, kako bo glasno zajokala, ko zve žalostno novico. Otroci se bodo zgrnili krog nje in jokali, in kdo jo bo tolažil?</p>
             <p n="SL-WIKI003541120">»Jaz grem tja, sam grem in ji povem in porečem: Ne jokaj. Božja volja je bila. Kaj hočemo? Je vsaj prestal.«</p>
@@ -1303,8 +1243,6 @@
             <p n="SL-WIKI003541144">»Ne obupaj, Franca!« so začele.</p>
             <p n="SL-WIKI003541145">»Božja volja je bila.«</p>
             <p n="SL-WIKI003541146">»Namenjena mu je bila taka smrt.«</p>
-            <pb n="37"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-037.jpg"/>
             <p n="SL-WIKI003541147">»Svetnika imaš. Vsi so svetniki, ki na vojski padejo, so pridigovali škof.«</p>
             <p n="SL-WIKI003541148">»Z vojske lete vse duše v nebesa, so od nekdaj trdili.«</p>
             <p n="SL-WIKI003541149">»O Marija, kaj bomo začeli?« je vzdihnila Jančarica.</p>
@@ -1347,8 +1285,6 @@
             <p n="SL-WIKI003541186">Nato je Jančarica slovkovaje od joka naročila mrtvaško opravilo za pokojnim možem in dostavila: »Zvoni naj mu dva dni, mora dva dni — kot bi ležal doma.«</p>
             <p n="SL-WIKI003541187">»Blaž tudi zasluži,« je omenil župnik bolj sam sebi nego Jančarici, ki se je dvignila s stola in se poslovila.</p>
             <p n="SL-WIKI003541188">Iz župnišča je šla takoj v štacuno in nakupila žalnih rut. Svojo pisano je snela in pokrila črno. Mimogrede se je pogledala v majhno zrcalo in videla je, da se je hipoma postarala. Stisnila je zavitek pod pazduho in se napotila proti domu.</p>
-            <pb n="38"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-038.jpg"/>
             <p n="SL-WIKI003541189">Prvi rumeni listi so ležali na stezi. Zjutraj je šla od maše po isti stezi in stopala po istih listih in jih ni videla. Sedaj se ji je zdelo, da je sama tak list, rumen, suh, zmrdan. Kakor starka je lezla navkreber in težko težo je občutila na sebi. Vse misli so bivale pri Blažu: Živo ga je videla, kako ji je segel v roke pri bogcu, kako je zamišljen ležal v vojašnici in kako mu je segla zadnjič v roke v Št. Vidu, tedaj, ko se je odpeljala z Maticem. Misel na Matica jo je pretresla in čudno jo je zazeblo. Izbila si jo je takoj iz glave in spet je bila pri Blažu — v nepoznani Galiciji. Vznak je ležal — sam — v vojaški obleki — na prsih krvaveča rana, nikogar pri njem, ki bi mu zatisnil osteklenele oči, ki so še gledale in iskale nje in otrok in domovine. In usta so bila napol odprta in so poskušala poklicati njo. In na licu tisti njegov mirni smeh, ki je bil komaj zaznati, s katerim jo je pokaral, kadarkoli jo je prijela nagajiva trmica, in je rekel: »Nikar, Francka!« In nato je postal žalosten in njej je bilo hudo, da je šla za njim in ga je prosila: »Blaž, saj ne bom več. Nikar ne bodi hud!« In ta smešek ni izginil več izpred njenih oči, dokler ni slišala iz mrtvih ust: »Vidiš, Francka, kako sem revež, in ti misliš na druge.«</p>
             <p n="SL-WIKI003541190">Tedaj pa se je stresla po vsem životu, zagledala je živoželjne oči Maticeve, čutila je, kako mu je zadnjič stisnila roko, ko jo je takorekoč snubil, in zgrozila se je sama nad sabo, da je pritisnila roko na vzburjeno srce.</p>
             <p n="SL-WIKI003541191">»Jaz sem ga umorila,« se ji je izvilo iz prsi.</p>
@@ -1365,8 +1301,6 @@
             <p n="SL-WIKI003541202">Matic je stal sam in srce ga je bolelo, ko je videl Francko tako potrto. Stopil je za družino proti pragu, da ji reče usmiljeno besedo. Toda Jančarica mu je zaprla vrata in potegnila čeznje zapah. Niti pogledala ga ni. Matic je povesil glavo in tiho odšel.</p>
             <p n="SL-WIKI003541203">V hiši je klečala družina in molila za pokojnika, In ko so dolgo molili in odšli spat, se je Jančarica vrnila pred podobo, popravila lučko in se zgrudila na kolena.</p>
          </div>
-         <pb n="39"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-039.jpg"/>
          <div>
             <head>XII.</head>
             <p n="SL-WIKI003541204">V ponedeljek je začelo Jančarju zvoniti. Ljudje so bili na polju v krompirju in pri setvi ozimine. Nihče ni vprašal: Komu zvoni? Še govoriti se jim ni ljubilo kot sicer. Globoko se je sklanjal vsak k svojemu delu in poslušal.</p>
@@ -1395,8 +1329,6 @@
             <p n="SL-WIKI003541227">»Da bi te, to bo pojedina!«</p>
             <p n="SL-WIKI003541228">In ko je v nedeljo večer begunec Roman pripeljal z voli sodček vina, so se ženske, sedeče na pragih, suvale s komolci:</p>
             <p n="SL-WIKI003541229">»Jutri pogrebščina, pojutrišnjem svatovščina. E, Francka je tica!«</p>
-            <pb n="40"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-040.jpg"/>
             <p n="SL-WIKI003541230">Francka je pa ta večer pregledovala v shrambi, kar je bila pripravila za pogrebce: mesovje, velike pogače, vino. Preštela je še enkrat žlice in vilice in preračunala, da mora biti vsega na zadovoljnost pogrebcev. In ko je to dognala, je sedla na stolico in začutila, kako je trudna. Ali zaeno se je tudi predramila iz skrbi, ki so ji utopile žalost, in šele to pot se je živo domislila, zakaj je pravzaprav vse to. In v tem hipu se ji je zazdela pogača, ki si jo je odrezala košček in jo pokušala, tako grenka, da je komaj zaužila grižljaj in jo je koj odložila na polico.</p>
             <p n="SL-WIKI003541231">»O ti moj revež,« je vzdihnila in vse oči so se ji zalile s solzami. Nato je šla njena misel nazaj k njemu in ga poiskala prvi dan, ko jo je prišel snubit, in ga spremila skozi vsa leta, odkar je bila z njim. In peklo jo je, da je šla tako hladna z njim pred oltar, in bolelo jo je, ko je bila tako slabega uma, da ni vedela, kaj ima, ko ima njega — noter do te grozne ure. In zdaj je razumela tisti njegov proseči pogled, ki se mu je smejala in mu ga celo zamerila. Takrat namreč jo je tako pogledal, ko je prihajal tisti veliki, lepi financar Ceglar često k njim nadzirat žganjekuho. In vselej se je mudil dolgo v hiši in Franca mu je stregla in se živo smejala njegovim dovtipom, da je donelo skozi okno, kar je Blaža tako neznansko bolelo. Tiho je krotil bolečino in besedice ji ni rekel; le kadar je odšel financar, so jo prosile njegove oči — a ona se jim je smejala. Res, takole je gledal v Galiciji pred smrtjo. In preden je izdihnil, se je nasmehnil in s smehom naročil: »Vem, Franca, da sem bil premalo postaven in premalo fantovski zate. Toda ljubil sem te — sedaj pa si prosta.« »Nikoli, Blaž!«</p>
             <p n="SL-WIKI003541232">Francka je polglasno kriknila in planila s stolice, roke je razmaknila, kakor bi hotela k njemu, krvavečemu še iz mrtvega srca, in bi mu prisegla zvestobo v vsaki misli in bi ga mrtvega prosila: Odpusti. Toda Blaža ni bilo, iz somraka so gledale pogače in kosi mesa. Franci se je vse to tako zastudilo, da je bežala iz shrambe in nehote zaloputnila vrata.</p>
@@ -1418,8 +1350,7 @@
             <p n="SL-WIKI003541248">»Da boste darovali jutri za ata.«</p>
             <p n="SL-WIKI003541249">Franca ni mogla izpregovoriti nobene besede. Tiščalo jo je v prsih, hrepenela je, da bi bila sama, in je težko čakala, da je spravila otroke spat. Tudi ona je legla. Toda z odprtimi očmi je zrla v steno. Migotanje plamenčka pred podobo je razpenjalo poskakujoče sence po hiši. In vse sence so ji govorile sama očitanja, dokler se ni raztopila duša v kesu in so pritekle na blazino solze ter ji zaklopile oči ...</p>
             <p n="SL-WIKI003541250">Drugo jutro so šli Jančarjevi tako zgodaj na faro, da so morali vzeti seboj luč. Nihče ni govoril, razen Janezka, ki je spočetkoma brbljal prazne besede in slednjič, ko mu ni nihče ugovarjal, utihnil še on. Franca je bila čudovito mirna. Kakor bi šla skozi vice to noč, kamor jo je poklical nedolžni glas otrokov, se ji je zdelo. Podvizala se je, da bi čim preje še slišala: Pojdi, vse je odpuščeno. Njen obračun z Bogom se ji je zdel tako jasen in tako natančen, kakor ga še ni doživela.</p>
-            <p n="SL-WIKI003541251">Samo enkrat je pomislila v skrbi, če naprošena kuharica pride pravočasno, da bo vse v redu, ko <pb n="41"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-041.jpg"/>se vrnejo. Ali še to misel je kot prazno ničemurnost odgnala in hrepeneča čakala, samo čakala, kot človek, ki je pregledal do zadnje pičice težke obračune in ve, da je ni zmote, ter čaka samo gospodove besede: Prav, dobri in zvesti!</p>
+            <p n="SL-WIKI003541251">Samo enkrat je pomislila v skrbi, če naprošena kuharica pride pravočasno, da bo vse v redu, ko se vrnejo. Ali še to misel je kot prazno ničemurnost odgnala in hrepeneča čakala, samo čakala, kot človek, ki je pregledal do zadnje pičice težke obračune in ve, da je ni zmote, ter čaka samo gospodove besede: Prav, dobri in zvesti!</p>
             <p n="SL-WIKI003541252">Preden se je pričelo opravilo, so prihajali povabljeni sosedje in sorodniki. Ženske, vse črno oblečene, so šle takoj v cerkev, moški so se ustavili pred vrati in se ozirali na uro v zvoniku. Čudili so se mnogim, ki niso bili povabljeni in so prišli. Ko je udarila ura, so bile klopi zasedene za čuda na gosto.</p>
             <p n="SL-WIKI003541253">Sredi med klopmi pa je stala tumba, žalostno so gorele sveče na črnih svečnikih, z votlimi očmi je gledala smrt po cerkvi.</p>
             <p n="SL-WIKI003541254">Zvonček je zapel — a orglje niso zabučale v žalnih glasih — kako neki, ko je počival tudi organist v tuji zemlji —. Ta molk je pretresel ljudstvo. Prižgali so žalne lučke, ovili krog rok molke in vsakdo je, gnan od skrivne sile, pokleknil, sklonil glavo in pričel moliti.</p>
@@ -1447,8 +1378,7 @@
             <p n="SL-WIKI003541276">Preden so sedli za mize, je najstarejši pogrebec Marinček odmolil vrsto očenašev: za rajnika, za rajno žlahto, za vse padle vojake, za tiste domačine, ki so tu pokopani in ki so drugod, in nazadnje za vse tiste, ki jih ni ne tu ne tam.</p>
             <p n="SL-WIKI003541277">Nato so zasedli svoje prostore — tesno je bilo — in segli po jedilih. Govor je utihnil; čulo se je samo srebanje željnih ust in škrtanje žlic, ko so drgnile ob sklede. Jančarica je imela prostor prav za vratmi. Komaj da se je pritaknila jedi, že je vselej odšla in nosila iz kuhinje na mizo ter stregla gostom. Roman je točil vino.</p>
             <p n="SL-WIKI003541278">Takoj po prvih kozarcih je govor oživel. Pogrebcem so se svetila lica, marsikomu so stale vroče kaplje na čelu, ki si jih je skrivaj otiral. Spet je vstal Marinček in povzdignil kozarec:</p>
-            <p n="SL-WIKI003541279">»Bog mu daj večno luč, Blažu! Sosedje in sorodniki, star sem in hudega sem videl več ko <pb n="42"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-042.jpg"/>dobrega. Ali najhuje sem učakal na starost. Ampak rečem vam: Ni ga bilo v vasi, kar sem jih spremil gospodarjev za pogrebom, pridnejšega in boljšega od Blaža.«</p>
+            <p n="SL-WIKI003541279">»Bog mu daj večno luč, Blažu! Sosedje in sorodniki, star sem in hudega sem videl več ko dobrega. Ali najhuje sem učakal na starost. Ampak rečem vam: Ni ga bilo v vasi, kar sem jih spremil gospodarjev za pogrebom, pridnejšega in boljšega od Blaža.«</p>
             <p n="SL-WIKI003541280">Ženske so se začele usekavati.</p>
             <p n="SL-WIKI003541281">»Zares,« je nadaljeval Marinček, »kakšno je on prevzel: in danes stoji Jančarjevo trdno, da je kaj. Cesar ga je poklical, Bog ga je vzel, v nebesih je, kakor je zaslužil. Vesel bo tegale kozarca, ki ga popijemo na njegov spomin.«</p>
             <p n="SL-WIKI003541282">Med pogrebci je završalo. Vse roke so segle po čašah, vsi so tiho in žejno izpili, ženske so si obrisale oči, Franca je šla ven, Roman je točil na novo. Nato je začel vsak od Jančarja, kar je vedel in česar ni vedel:</p>
@@ -1494,8 +1424,6 @@
             <p n="SL-WIKI003541322">Pikona je pokazala v cekar.</p>
             <p n="SL-WIKI003541323">»Le namoči si ga, preden začneš,« ji je ponudil kozarec Korent.</p>
             <p n="SL-WIKI003541324">Pikona je izpila, si otrla ustnice in rekla: »Bog plačaj in naj zaleže rajnemu Blažu. Sedaj moram pa takoj naprej. Bolezen nič ne čaka.«</p>
-            <pb n="43"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-043.jpg"/>
             <p n="SL-WIKI003541325">»Kakšno novico si vendar ujela potoma.«</p>
             <p n="SL-WIKI003541326">»Če že hočete, morda ne veste, da je dejano vse žito pod zaporo in da so vsem — vam kmetom tudi — zapisali, koliko smete kruha snesti na dan.«</p>
             <p n="SL-WIKI003541327">Moški in ženske so ostrmeli.</p>
@@ -1531,8 +1459,6 @@
             <p n="SL-WIKI003541354">»Jaz grem poiskat stanovanja.«</p>
             <p n="SL-WIKI003541355">»Zakaj?« se je začudila Lojza in pogledala izza šivanja, ko je zvečer delala krstno oblekco za otročiča.</p>
             <p n="SL-WIKI003541356">»France me tako težko vidi.«</p>
-            <pb n="44"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-044.jpg"/>
             <p n="SL-WIKI003541357">»Saj ni res. France je —« hotela ji je kar razodeti, ali naglo si je premislila in razlagala: »France je včasih čuden. Nič ne maraj za to in bodi prepričana, da ti nisi vzrok. Kar sva obljubila, sva obljubila. Francka, ti boš pri nas in potem naj bo, kot je božja volja.«</p>
             <p n="SL-WIKI003541358">Francka jo je hvaležno pogledala in spet sta molče šivali drobno perilo za otročiča. In tudi tedaj, ko je vstopil France, ni bilo nikogar, ki bi bil začel pogovor. France je sedel k peči, gledal v mračno, z rdečim zastorcem zavešeno okno in molčal. Niti k mizi ni pogledal, kaj da ženski delata. Ko je sodil, da je iz gole vljudnosti zadosti dolgo posedel, je rekel: »Molimo, no,« in je takoj nerodno pokleknil k peči, stisnil glavo med široke dlani in nerazločno žebral molitve za Lojzo.</p>
             <p n="SL-WIKI003541359">»Lahko noč,« je voščil nato, nobene pogledal in odšel. Lojza je pa šinila za njim, ga prestregla v veži in mu pošepetala: »Počakaj.« France je pokorno sedel na ognjišče in brskal s trsko po tlečem pepelu.</p>
@@ -1567,8 +1493,7 @@
             <p n="SL-WIKI003541388">»Vzdigavala pa ne boš, Francka. Le kaj lahkega podelaj.«</p>
             <p n="SL-WIKI003541389">In tako je potekel teden, ki ga je bila vesela Lojza, kljub vsej težki skrbi Francka tudi in Matic sam se je bil toliko raztresel, da je laže prenašal, ko je poklicala ponoči Lojza brata:</p>
             <p n="SL-WIKI003541390">»Brž, brž, Francko je popadlo! Jaz grem po Lukovo mater.«</p>
-            <p n="SL-WIKI003541391">Matic je kar z viška treščil v škornje, pograbil laterno in se spotoma zapenjal, ko je drevil po <pb n="45"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-045.jpg"/>hribu v dolino. Silno je potegnil za zvonec pri »ženi«, ki je pa kljub temu počasi prižigala luč in odpirala okno.</p>
+            <p n="SL-WIKI003541391">Matic je kar z viška treščil v škornje, pograbil laterno in se spotoma zapenjal, ko je drevil po hribu v dolino. Silno je potegnil za zvonec pri »ženi«, ki je pa kljub temu počasi prižigala luč in odpirala okno.</p>
             <p n="SL-WIKI003541392">»Kam?«</p>
             <p n="SL-WIKI003541393">»K Maticu v Kozji hrib!«</p>
             <p n="SL-WIKI003541394">»Žena« se je neverno nasmejala.</p>
@@ -1611,8 +1536,6 @@
             <p n="SL-WIKI003541431">Pri Razdevšku so posedeli, ko je bil Matic po dolgem spet enkrat dobre volje, tako dolgo, da jih je mati prehitela in prišla pred njimi k Francki.</p>
             <p n="SL-WIKI003541432">In tam sta se obe — hči in mati — razjokali v tihi, temni kamrici; ljudje niso videli solz, videl pa jih je Bog in jih je bil vesel.</p>
          </div>
-         <pb n="46"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-046.jpg"/>
          <div>
             <head>XIV.</head>
             <p n="SL-WIKI003541433">Odkar se je naselil pri Maticevih mali Matiček, se je življenje za čuda izpremenilo.</p>
@@ -1634,8 +1557,7 @@
             <p n="SL-WIKI003541449">»Morebiti pa res. Kaj pa šivaš,« je stopil k Francki.</p>
             <p n="SL-WIKI003541450">»Blazino za posteljico.«</p>
             <p n="SL-WIKI003541451">»Oh, saj še zibke nima, revež. Čaj no, saj jo imamo še mi. Pod streho je.«</p>
-            <p n="SL-WIKI003541452">France je naglo nataknil šklebedre in šel iztikat za zibko pod streho. Odkar se je odzibala Lojza, ni več stekla v tej hiši. Potegnil jo je izza <pb n="47"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-047.jpg"/>straže. Miška je planila iz nje in pretrgala pajčevine, s katerimi je bila preprežena čezinčez. France jo je površno ogledal: En tečaj je imela nalomljen, sicer pa, dasi nekoliko črvojedna, je vseeno dosti trdna. Prinesel jo je po stopnicah in se takoj lotil nalomljenega tečaja ter ga opažil z deščico. Nato je velel Lojzi, da jo obriše in očisti.</p>
+            <p n="SL-WIKI003541452">France je naglo nataknil šklebedre in šel iztikat za zibko pod streho. Odkar se je odzibala Lojza, ni več stekla v tej hiši. Potegnil jo je izza straže. Miška je planila iz nje in pretrgala pajčevine, s katerimi je bila preprežena čezinčez. France jo je površno ogledal: En tečaj je imela nalomljen, sicer pa, dasi nekoliko črvojedna, je vseeno dosti trdna. Prinesel jo je po stopnicah in se takoj lotil nalomljenega tečaja ter ga opažil z deščico. Nato je velel Lojzi, da jo obriše in očisti.</p>
             <p n="SL-WIKI003541453">Zvečer so pa položili Matička v zibko in France je prvi potegnil za motvoz in ga zazibal.</p>
             <p n="SL-WIKI003541454">Nastopila je pusta, deževna jesen. Megle so se plazile po najnižjih gričih, venomer je pršalo. Dolgčas je bilo, da so ljudje zdehali in niso vedeli, kaj bi v teh dolgih, vlažnih večerih.</p>
             <p n="SL-WIKI003541455">Pri Maticu ni bilo dolgčas. Lojza in Francka sta šivali, France se je ukvarjal z zibanjem, celo pestovati je poizkušal živo igračko.</p>
@@ -1669,8 +1591,6 @@
             <p n="SL-WIKI003541483">»Kdo ve kaj? Ali ni čeden? Ni še bilo take zibke v Kozjem hribu.«</p>
             <p n="SL-WIKI003541484">»Za koga vendar?«</p>
             <p n="SL-WIKI003541485">»Za mojega Matička!«</p>
-            <pb n="48"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-048.jpg"/>
             <p n="SL-WIKI003541486">»Prav bi bilo, ko bi bil tvoj,« se je vtaknil vmes Petrin.</p>
             <p n="SL-WIKI003541487">»E, le počakaj! France se bo naenkrat splašil in jih bo prvi dan imel šest, kajne?« ga je podražil župan z Jančarico in ga zaeno spremil v hišo.</p>
             <p n="SL-WIKI003541488">Tam je bil Luka, sosed Maticev, Strgar in še nekaj mož. France je prisedel, za njim se je obesil k mizi tudi Petrin, ki je slutil, da ne bo trpel žeje.</p>
@@ -1702,8 +1622,6 @@
             <p n="SL-WIKI003541514">»Je lepa praprot, Francka,« je izpregovoril Matic.</p>
             <p n="SL-WIKI003541515">Jančarica se ni niti ozrla in mirno žela dalje: »Da bi bilo vsaj še en teden lepo!«</p>
             <p n="SL-WIKI003541516">France se je ozrl naokrog, nato je stopil prav tik nje, da je obstala z delom in ga pogledala.</p>
-            <pb n="49"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-049.jpg"/>
             <p n="SL-WIKI003541517">»Francka,« je prosil, »lepo te prosim, povej, kaj misliš. Meni ni več strpeti brez tebe.«</p>
             <p n="SL-WIKI003541518">»France,« je rekla mirno, dasi jo je podplula rdečica, »samo s temle — Blaževim prstanom bom legla v grob in z nobenim drugim. Ne zameri in ne vprašuj, zakaj. Jaz vem, da mora tako biti. Potrpi, saj tudi jaz trpim. Z Bogom!«</p>
             <p n="SL-WIKI003541519">Jančarica se je naglo spustila po brdu navzdol in začela žeti na drugem koncu laza, France je pa obstal pri smrečicah in najlažje bi se bil razjokal.</p>
@@ -1740,8 +1658,6 @@
             <p n="SL-WIKI003541547">»Teta, Blaž živi! Ujet je!« je kriknila Franca.</p>
             <p n="SL-WIKI003541548">Teta je sklenila roke:</p>
             <p n="SL-WIKI003541549">»Marija, saj ni mogoče!« — in šla za Jančarico, ki je naglo odprla vrata in planila v sobo. Tudi otroci so bili vsi osupli. Zakaj po atovi smrti je hodila mama resno in tiho.</p>
-            <pb n="50"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-050.jpg"/>
             <p n="SL-WIKI003541550">»Otroci, ata živi!« je pripovedovala in jih začela poljubljati. »Stran črne rute!«</p>
             <p n="SL-WIKI003541551">Deklice so se odkrile, iz predalnika so prišle na dan pisane rute — in ko so sedli k zajtrku, je bilo v hiši, kot bi posijalo solnce na mizo.</p>
             <p n="SL-WIKI003541552">Seveda je vsa fara zvedela še tisti dan o Jančarju. Jezičniki pri županu so zabavljali na seznam izgub:</p>
@@ -1793,8 +1709,6 @@
             <p n="SL-WIKI003541598">»Seveda mu jo damo, če jo le hoče.«</p>
             <p n="SL-WIKI003541599">»I tak udarimo, saj sem rekel,« je Matic spet molil roko čez mizo.</p>
             <p n="SL-WIKI003541600">Segla sta si v roke in Golob mu jo je stiskal in stiskal in iskal besede, dokler se ni grča omajal in se trikrat povrsti useknil, predno je izrekel:</p>
-            <pb n="51"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00354/WIKI00354-051.jpg"/>
             <p n="SL-WIKI003541601">»Matic, če resnično to storiš, dva tisoč več, kot bi jih bil dal Matiju. Zato, ker boš rešil čast naše hiše. Velja?«</p>
             <p n="SL-WIKI003541602">»Ali sem kaj vprašal, Golob. Kar ji daste, vse pride prav. Če ji pa nič ne daste, sem tudi tak možak, da ne bom omanjkal, in upam, da tudi brez dote ne bo v moji hiši nikoli kruha stradala.«</p>
             <p n="SL-WIKI003541603">Golob je spet segel čez mizo in poiskal Francetove roke:</p>

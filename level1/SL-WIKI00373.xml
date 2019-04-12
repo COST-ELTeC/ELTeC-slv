@@ -20,7 +20,7 @@
             <measure unit="pages">105</measure>
          </extent>
          <publicationStmt xml:lang="en">
-            <p>Added to ELTeC <date>2019-01-17</date>
+            <p>Added to ELTeC <date>2019-04-12</date>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -56,7 +56,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change xml:lang="en" when="2019-01-17">
+         <change xml:lang="en" when="2019-04-12">
             <name>Tomaž Erjavec</name>: converted to ELTeC</change>
          <change when="2015-04-03">
             <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
@@ -67,8 +67,6 @@
    </teiHeader>
    <text xml:lang="sl">
       <body xml:lang="sl">
-         <pb n="1"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-001.jpg"/>
          <div>
             <head>I. „Sama!“</head>
             <p n="SL-WIKI003731">Zakon brez daru božjega je puščoba in dolgčas. Le tam, kjer so otroci, je prava zakonska sreča doma, tam kraljuje srčno veselje. Kjer sta pa zakonska sama — brr! — tam je grozna praznota, dostikrat pa tudi nasledki grdega ljubosumnja: prepir ali celo pretep.</p>
@@ -87,8 +85,6 @@
             <p n="SL-WIKI0037314">„I, kajpak! Lej ga dedca! Na starost naj postaneva pijanca in snedeža, da bodo ljudje za nama s prstom kazali in se posmihali.“</p>
             <p n="SL-WIKI0037315">„Kam pak boš dejala? Ali moreš vzeti s seboj grunt in denar? Zapravila bova midva, da ne bodo drugi.“</p>
             <p n="SL-WIKI0037316">„E, pustila bova pa žlahti, saj jo imava! Gotovo se bo ustreglo tistemu, kdor bo dobil, kaj za nama. In morda bo še molil za nama ali vsaj hvalil naju ...“</p>
-            <pb n="2"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-002.jpg"/>
             <p n="SL-WIKI0037317">„Žlahta? Pravijo, da žlahta nikomur ne dela veselja.“</p>
             <p n="SL-WIKI0037318">„Bo pa nama!“</p>
             <p n="SL-WIKI0037319">„Žlahta? Čakaj no, saj še ne vem, ako je kaj imava.“</p>
@@ -128,15 +124,11 @@
             <p n="SL-WIKI0037350">„Oh, jemnasta, sosed, sedaj le na noč! Ali ga ne moreš prenočiti sam, ker veš, koliko je nas, da nimamo prostora v hiši niti pri skledi?“ Govoreč je ogledovala tujca, ki je vsled tega stopical in godrnjal.</p>
             <p n="SL-WIKI0037351">„No, no, no! Pa ne bom nadlegoval.“</p>
             <p n="SL-WIKI0037352">„Oh, mož, ne zamerite; ko bi vi vedeli, kako je pri nas!“</p>
-            <pb n="3"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-003.jpg"/>
             <p n="SL-WIKI0037353">„Ti, soseda, le sprejmi moža! Vaš žlahtnik je. Ako pa ne bo postelje, prenoči lahko pri nas. Kaj ne, mož? In zajel bo lahko tudi pri nas.“</p>
             <p n="SL-WIKI0037354">„Žlahtnik?“ začudi se neverjetno gospodinja. „Pa vas ne poznam.“</p>
             <p n="SL-WIKI0037355">„Kakor jaz vas ne, pa zato smo si menda vendar v rodu. Jaz sem Debeloglav z Višave na Dolenjskem, od tam, kjer je vaš rod doma, saj se tudi vi za Debeloglava pišete.“</p>
             <p n="SL-WIKI0037356">„Res je! Od tam so prišli predniki mojega moža in so prinesli s seboj ime Debeloglav. Bo že res tako. Pa stopite v hišo, jaz pokličem moža, ki se mudi v ogradi.“</p>
             <p n="SL-WIKI0037357">„O, ni treba. Sem ga že poklical sam poprej-le.“</p>
-            <pb n="4"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-004.jpg"/>
             <p n="SL-WIKI0037358">V zibeli je spalo dete, drugo se je igralo sredi hiše z deščicami in klinčki, dvoje večjih je pa prišlo za njima ter sedlo h peči, da si ogledata neznanega strica.</p>
             <p n="SL-WIKI0037359">Debeloglav razvije culico in da otrokom nekaj peciva, izprašujoč jih po imenih.</p>
             <p n="SL-WIKI0037360">„Mož, glejte, da vam ne zmanjka“, zasmeje se kmet. „To niso še vsi.“</p>
@@ -174,8 +166,6 @@
             <p n="SL-WIKI0037392">„Tako je prav! S kakim namenom pa si prišel od tamkaj?“</p>
             <p n="SL-WIKI0037393">„Prišel sem z dobrim srcem!“</p>
             <p n="SL-WIKI0037394">„Bog daj!“</p>
-            <pb n="5"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-005.jpg"/>
             <p n="SL-WIKI0037395">Beligoju je izginila nezaupnost z obraza. Žena je bila med tem posvetila in otroci so privreli skupaj. Debeloglav je razdelil vse, kar je imel.</p>
             <p n="SL-WIKI0037396">„O, ko bi bil vedel, da jih je toliko, prinesel bi bil več ... Predno pojdem, jih bodem moral prešteti. Srečni ste!“</p>
             <p n="SL-WIKI0037397">„Devet jih je, starejša dva sta še zunaj“, pravi Beligoj. „Ako dobimo pa še deseto, kar je vse mogoče, naj gre desetnik ali desetnica po svetu, ker pri meni res ne bo več prostora.“</p>
@@ -202,15 +192,12 @@
             <p n="SL-WIKI00373118">Beligoju je bil Debeloglav všeč.</p>
             <p n="SL-WIKI00373119">„Ne sodi moje žene po besedah! Ako je kaj napačnega zinila — oj, kolikokrat ženska napačno zine! Odpusti ji in ostani! Njeno srce ni tako slabo, kakor njen jezik!“</p>
          </div>
-         <pb n="6"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-006.jpg"/>
          <div>
             <head>III. „Vidva mi dajta otroka!“</head>
             <p n="SL-WIKI00373120">Drugi dan je bila nedelja. Debeloglav je vstal zgodaj, da je šel s svojima žlahtnikoma k maši. Ker so šli otroci k drugi maši ob desetih, so se žlahtniki lahko v miru razgovarjali.</p>
             <p n="SL-WIKI00373121">In so se tudi celo dopoldne.</p>
             <p n="SL-WIKI00373122">Opoldne sta Beligoj in žena vedela, da je žlahtnik Debeloglav brez otrok in da nikakega upanja nima več, da bi ga kdo klical očeta. Pripovedoval je:</p>
-            <p n="SL-WIKI00373123">„Vsega imam dovolj, česarkoli mi je treba za zložno življenje. Obilno me je Bog oblagodaril s posvetnim blagom: le jednega mi ni dal, po čemer sem vedno hrepenel, — zaroda. Oh! in to je kazen, najhujša kazen, s katero me je kaznoval naš Bog! Morda se pokorim za svoje grehe in grehe svojih očetov in dedov, kdo ve? Sam sem! Z ženo sva vedno molila, pa vse zastonj: Bog je storil po svoji previdnosti. Pravega veselja nisem užival, in čim starejši sem, tem manj me veseli vse. Tako grem smrti nasproti z <pb n="7"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-007.jpg"/> zavestjo, da se me po smrti ne bo spominjal nihče več, da spomin za menoj izgine takrat, ko se izgubi zadnji glas zvona ob mojem pokopu. Kdo naj se me pač spominja? Kdo naj ima še kake dolžnosti do mene? Hahaha! Oh, pa da bi vsaj vse mogel vzeti s seboj, da bi z mojo smrtjo izginilo tudi moje premoženje, da ne bi prišlo v nepoklicane roke! Oh, kolikokrat so me mučile slične misli in mi grenile to tavanje na zemlji brez smotra! Puščoba in dolgčas sta me obdajala krog in krog. In kakor prinese veter včasih v nemo samoto glas zvona iz neznane daljave, tako je tudi v to grozno zapuščenost na Višavi prinašal spomin glasove iz daljnje mladosti, ko sem se še zibal na kolenih svojega očeta in poslušal pravljice in pripovesti iz njegovih ust. Takrat sem zvedel, da imamo žlahto daleč, daleč na Visokem. Izprva sem bil ne voljen na te glasove in se jim posmehoval: žlahta! hahaha! Kaj mi je mari? A ta glas mi je čimdalje večkrat budil spomin na žlahto, sprijaznil me je naposled in se mi priljubil, in sedaj sem tu, da se spoznamo. Oh, jaz nisem prišel k vam iskat prijateljstva, iskat dobička, jaz sem prišel k vam, da se za nekaj hipov iztrgam zapuščenosti, v kateri bivam na Višavi. Jaz vas hočem poznati. Morda že v kratkem potrka smrt na moje rame in mi veli pustiti svet, a jaz hočem imeti nekoga, komur izročim svoje imetje. Zato sem tukaj. Polagoma sem se sprijaznil z mislijo, da morda ima žlahtnik otroka, katerega bi lahko posinovil, kateremu bi z mirno vestjo izročil svoje imetje. Kri je kri. Z veseljem sem videl, da je vaju Bog oblagodaril z večjim blagrom, kakor najin zakon. Vidva pa dajta, da tudi jaz okusim nekoliko vajinega veselja, in hvalil bom Boga, ker mi je dal vsaj dobro žlahto.“</p>
+            <p n="SL-WIKI00373123">„Vsega imam dovolj, česarkoli mi je treba za zložno življenje. Obilno me je Bog oblagodaril s posvetnim blagom: le jednega mi ni dal, po čemer sem vedno hrepenel, — zaroda. Oh! in to je kazen, najhujša kazen, s katero me je kaznoval naš Bog! Morda se pokorim za svoje grehe in grehe svojih očetov in dedov, kdo ve? Sam sem! Z ženo sva vedno molila, pa vse zastonj: Bog je storil po svoji previdnosti. Pravega veselja nisem užival, in čim starejši sem, tem manj me veseli vse. Tako grem smrti nasproti z  zavestjo, da se me po smrti ne bo spominjal nihče več, da spomin za menoj izgine takrat, ko se izgubi zadnji glas zvona ob mojem pokopu. Kdo naj se me pač spominja? Kdo naj ima še kake dolžnosti do mene? Hahaha! Oh, pa da bi vsaj vse mogel vzeti s seboj, da bi z mojo smrtjo izginilo tudi moje premoženje, da ne bi prišlo v nepoklicane roke! Oh, kolikokrat so me mučile slične misli in mi grenile to tavanje na zemlji brez smotra! Puščoba in dolgčas sta me obdajala krog in krog. In kakor prinese veter včasih v nemo samoto glas zvona iz neznane daljave, tako je tudi v to grozno zapuščenost na Višavi prinašal spomin glasove iz daljnje mladosti, ko sem se še zibal na kolenih svojega očeta in poslušal pravljice in pripovesti iz njegovih ust. Takrat sem zvedel, da imamo žlahto daleč, daleč na Visokem. Izprva sem bil ne voljen na te glasove in se jim posmehoval: žlahta! hahaha! Kaj mi je mari? A ta glas mi je čimdalje večkrat budil spomin na žlahto, sprijaznil me je naposled in se mi priljubil, in sedaj sem tu, da se spoznamo. Oh, jaz nisem prišel k vam iskat prijateljstva, iskat dobička, jaz sem prišel k vam, da se za nekaj hipov iztrgam zapuščenosti, v kateri bivam na Višavi. Jaz vas hočem poznati. Morda že v kratkem potrka smrt na moje rame in mi veli pustiti svet, a jaz hočem imeti nekoga, komur izročim svoje imetje. Zato sem tukaj. Polagoma sem se sprijaznil z mislijo, da morda ima žlahtnik otroka, katerega bi lahko posinovil, kateremu bi z mirno vestjo izročil svoje imetje. Kri je kri. Z veseljem sem videl, da je vaju Bog oblagodaril z večjim blagrom, kakor najin zakon. Vidva pa dajta, da tudi jaz okusim nekoliko vajinega veselja, in hvalil bom Boga, ker mi je dal vsaj dobro žlahto.“</p>
             <p n="SL-WIKI00373124">Beligoj in ona se spogledata, in on odgovori:</p>
             <p n="SL-WIKI00373125">„Janez, žlahtnik moj! Objela te je žalost. Ne volja zveni iz vsake tvoje besede, ker se ti zdi, da si nesrečen, zapuščen, pozabljen od Boga. Nikar tako! Ne sodi prehudo! Ne misli, da si nesrečen bolj kot si, ker nimaš otrok in ne blagruj nas zaradi otrok, ker sreče, o kateri sanjaš, ni. O, srečen, srečen si, Janez! Ko bi ti okušal to, kar okušava midva, gotovo bi govoril drugače. Otroci! Sreča? Haha! Pokora, nadloga, revščina, nepokoj in kaj vem, kaj še vse. Oh, koliko nočij si ti mirno spal, ko jaz nisem zatisnil očesa! Skrb je odganjala spanec. Redi, oblači toliko otrok in naposled jih preskrbi! Pa pride bolezen, jok in stok, pa bodi vesel! Truden si, ker delaš za žive in mrtve in bi si rad odpočil po noči, pa se daj, če se moreš! Jedno kašlja, drugo joka, tretje prosi jedi, pa spi, če moreš! Oh, kolikokrat sem si želel, da bi ostal sam. Oh, otroci, to so pokora, to ti rečem, Janez, in zavidam te, ker nisi užil toliko težav in skrbij, kolikor sem jih jaz od takrat, kar so otroci.“</p>
             <p n="SL-WIKI00373126">„E, nu, tako hudo pa zopet ni, kakor vpiješ“, prestreže ga ona.</p>
@@ -219,8 +206,7 @@
             <p n="SL-WIKI00373129">„Kdo bi to skrbel! Bog jih je dal, Bog naj jih preskrbi“, zavrne ga ona.</p>
             <p n="SL-WIKI00373130">„Tako je!“ pravi Debeloglav. „Človek bi obupal, ako bi se ne znal tolažiti sam. Pa vendar sem sam slab, nespameten. Vem, da sedaj ne more biti drugače pri nas, vendar me obide žalost in godrnjanje. Vstajajo želje, kakršne se ne morejo uresničiti nikdar. O Bog, odpusti mi slabost! Odpusti mi, ako sem te žalil in se vzdigoval proti tvoji volji. Sam sem in sam ostanem.“</p>
             <p n="SL-WIKI00373131">„Revež!“ je vzdihnila Beligojka, ko je videla, da igrajo solze v žlahtnikovih očeh.</p>
-            <p n="SL-WIKI00373132">„Sam sem, premoženja imam, katero ostane tudi po moji in njeni smrti. Vzeti pak ne morem s seboj ničesar, kakor svoja dobra in slaba dela. Ta pojdejo z menoj. Slabega nisem sicer delal nalašč, vendar bo treba dati kaj za dobre namene in druge <pb n="8"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-008.jpg"/> ustanove, da zbrišem svoje grehe. Drugo pa zapustim tistemu, za kogar vem, da je vreden biti moj naslednik. In kaj bi še nadalje oprezoval in govoril v okoliščinah! Prišel sem sem, da si izberem naslednika. Večkrat sem premišljal, komu naj zapustim premoženje. Žena je stara, potrebovala ne bo mnogo, ako me preživi, bližnje žlahte nimam ... Vidva mi dajta otroka! Toliko jih imata, da jih je tukaj preveč, lahko ga pogrešita. Dobro mu bo ...“</p>
+            <p n="SL-WIKI00373132">„Sam sem, premoženja imam, katero ostane tudi po moji in njeni smrti. Vzeti pak ne morem s seboj ničesar, kakor svoja dobra in slaba dela. Ta pojdejo z menoj. Slabega nisem sicer delal nalašč, vendar bo treba dati kaj za dobre namene in druge  ustanove, da zbrišem svoje grehe. Drugo pa zapustim tistemu, za kogar vem, da je vreden biti moj naslednik. In kaj bi še nadalje oprezoval in govoril v okoliščinah! Prišel sem sem, da si izberem naslednika. Večkrat sem premišljal, komu naj zapustim premoženje. Žena je stara, potrebovala ne bo mnogo, ako me preživi, bližnje žlahte nimam ... Vidva mi dajta otroka! Toliko jih imata, da jih je tukaj preveč, lahko ga pogrešita. Dobro mu bo ...“</p>
             <p n="SL-WIKI00373133">Obema je igralo srce veselja in sreče. Spogledala sta se in razumela se. Pa pravi Beligoj:</p>
             <p n="SL-WIKI00373134">„Otroka? Lastno kri? Ne dal bi ga, ako bi ne vedel komu, naj bi se mu obetala še taka sreča. Tebi pa precej! Naš žlahtnik si, dober človek si, dobro hočeš otroku in nam! Izberi si ga, katerega koli, samo najstareji mora ostati doma, ker ima moje ime ...“</p>
             <p n="SL-WIKI00373135">„Velja!“ potrdi Debeloglav in seže Beligoju in ženi v roko.</p>
@@ -258,8 +244,6 @@
             <p n="SL-WIKI00373164">„Hahaha! Zopet je malo togote! Glej, glej, tako si že stara, pa si vendar še tako nagla, da vse vre in kipi po tebi! Obriši si oči, obriši! Sina sem dobil.“</p>
             <p n="SL-WIKI00373165">„E-e! Pojdi! Ne govori tacih.“</p>
             <p n="SL-WIKI00373166">„Ne verjameš? No, boš videla!“</p>
-            <pb n="9"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-009.jpg"/>
             <p n="SL-WIKI00373167">„E, kaj boš govoril! Kar ne more biti, pa ne bo in — —.“</p>
             <p n="SL-WIKI00373168">„Hahaha! Zibati ti ne bo treba, pa vendar imava sedaj sina.“</p>
             <p n="SL-WIKI00373169">„Nikar ne sanjaj!“</p>
@@ -296,8 +280,6 @@
             <p n="SL-WIKI00373200">„Bodi brez skrbi, Beligoj! Nihče ni še ljubil tako svojega sina, kakor bom jaz Ivana, ako bo delal po moji volji in me slušal. Moj sin je sedaj, in jaz sem njegov oče.“</p>
             <p n="SL-WIKI00373201">Ivan je šel še nekaj korakov z očetom in mu šepnil:</p>
             <p n="SL-WIKI00373202">„Oh, oče, domov bi šel rad. Meni ni tukaj všeč. Oče, ne zapustite me!“</p>
-            <pb n="10"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-010.jpg"/>
             <p n="SL-WIKI00373203">„Sin, bodi pameten, čaka te bogastvo. Tvoj oče sem in ostanem jaz, a sedaj imej strica za očeta, dolgo itak ne bo.“</p>
             <p n="SL-WIKI00373204">„Oče, kaj bogastvo, domov, domov!“</p>
             <p n="SL-WIKI00373205">Ulijó se mu solze.</p>
@@ -316,8 +298,6 @@
             <p n="SL-WIKI00373218">„Ko bi ti vedel, kako sem potreben sinovske ljubezni, stisnil bi me in objel, kakor si svojega očeta.“</p>
             <p n="SL-WIKI00373219">Za roko je pripeljal Ivana, ki se je pogosto oziral za očetom, na Višavo, kjer je poslej ostal.</p>
          </div>
-         <pb n="11"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-011.jpg"/>
          <div>
             <head>V. „Iz Samote prihaja prokletstvo.“</head>
             <p n="SL-WIKI00373220">Ivan je bil čvrst, priljuden fant v sedemnajstem letu. Na Višavi se je kmalu udomačil. Pri polni skledi je pozabil na Visoko. Oče, — tako je moral reči stricu Debeloglavu — ga je imel rad, in mati — Maruši je dobro delo to ime — je skrbela zanj kakor za svojega otroka. Tovarišije seveda ni bilo na Višavi, ki je samotno selišče. Ivan je odraščal.</p>
@@ -334,8 +314,7 @@
             <p n="SL-WIKI00373231">„Aj, aj, kam pride človek, ako kolovrati po neznanih potih!“ izpregovori Debeloglav, popraska se za ušesom in pogleda na desno čez vodo in na levo v breg, toda ni bilo druge poti kakor naprej ali nazaj.</p>
             <p n="SL-WIKI00373232">„Ali ne greva proti domu?“ vpraša Ivan.</p>
             <p n="SL-WIKI00373233">„Greva! Le hitro poženi, da prej prideva, zakaj mrači se, in še debelo uro imava do doma.“</p>
-            <p n="SL-WIKI00373234">S palico ohladi kravo po rebrih, da hitreje stopi, Ivan pa požene telička. Ko prideta <pb n="12"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-012.jpg"/> vštric samotnega mlina, pade z velikim hrupom zatvornica in voda zašumi čez jez.</p>
+            <p n="SL-WIKI00373234">S palico ohladi kravo po rebrih, da hitreje stopi, Ivan pa požene telička. Ko prideta  vštric samotnega mlina, pade z velikim hrupom zatvornica in voda zašumi čez jez.</p>
             <p n="SL-WIKI00373235">Teliček prestrašen poskoči, zaruče, iztrga se in zdirja v gozd. Krava, že nekoliko sama prestrašena, šine za teličkom in potegne starca s seboj.</p>
             <p n="SL-WIKI00373236">„Lovi! Ivan lovi, da ne uide!“ zavpije Debeloglav.</p>
             <p n="SL-WIKI00373237">„Ljudje božji, pridite pomagat! O, sveta devica, ušlo mi bo tele in bo podivjalo. — Pomagajte! Ivan, teci!“</p>
@@ -367,8 +346,6 @@
             <p n="SL-WIKI00373263">Palica je padala kravi po rebrih, in tele je rado divjalo za njo. Stari je bil skop z besedami. Toda na vsem njegovem kretanju se je poznalo, da je razburjen, nevoljen. Nemiren je poganjal kravo, tepel jo in vpil nad njo, kakor da bi hotel prekričati notranji glas, kakor da bi hotel ubiti spomine ...</p>
             <p n="SL-WIKI00373264">„Vražje tele!“ mrmral je pred seboj. „Ravno pri mlinu mi je to naredilo! In ta pot, ki pelje todi! Zakaj nisva šla po cesti! Še vedno čedna ženska in pa jezična kakor nekdaj! Pri tej bi ne bilo dolgčas.“</p>
             <p n="SL-WIKI00373265">Ker Ivan ni dobil na svoje vprašanje odgovora, je videl, da staremu ni ljubo, da nerad odgovarja. Pa Ivan ni dolgo ugibal: Zakaj ne? Sam je imel dovolj premišljati.</p>
-            <pb n="13"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-013.jpg"/>
             <p n="SL-WIKI00373266">Njemu je pa bilo všeč, da se je pri mlinu prigodila nezgoda ... Zakaj? ... Šele sedaj se je spomnil, da se je pozabil deklici zahvaliti, ki mu je ujela tele.</p>
             <p n="SL-WIKI00373267">Tleskne se z levico po čelu in pomisli:</p>
             <p n="SL-WIKI00373268">„Kaj neki poreče o meni? O, tepec, kakršen sem! Ne vem, kaj mi je bilo!“</p>
@@ -403,8 +380,6 @@
             <p n="SL-WIKI00373297">„Tako si vselej dejal ... pa vendar! ... Sramuj se!“</p>
             <p n="SL-WIKI00373298">Jezna in objokana izropota iz hiše.</p>
             <p n="SL-WIKI00373299">„Tako le ujame človeka ploha, da ne ve, kdaj ... v ženski je vedno cel hudič, ki se vzbudi pri najmanjši priliki. Fant, sedaj si mu ti stopil na rep.“</p>
-            <pb n="14"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-014.jpg"/>
             <p n="SL-WIKI00373300">„Jaz?“ ...</p>
             <p n="SL-WIKI00373301">„Ti! — kriv sem pa sam, ker ti nisem naročil, da molči o vsem. Samote ne smeš nikdar imeti v mislih, mati te besede ne morejo prenesti. Videl si pa, da ni bilo nič napačnega. Prokleta ljubosumnost, to je hudič.“</p>
             <p n="SL-WIKI00373302">Večerja jima ni dišala. Prerivala sta nekaj časa jed z žlicama, pa sta bila sita.</p>
@@ -430,8 +405,6 @@
             <p n="SL-WIKI00373319">Obide ga strast in hrepenenje ...</p>
             <p n="SL-WIKI00373320">Videl je znance in znanke, kako se vrte, kako objemajo, šepetajo, smejejo ...</p>
             <p n="SL-WIKI00373321">„Glej“, dejal mu je neki glas: „Vse se ljubi, vse se veseli, ravno ti, bogatega Debeloglava sin, nimaš nikogar, s komur bi se veselil.“</p>
-            <pb n="15"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-015.jpg"/>
             <p n="SL-WIKI00373322">Nevoljen se je obrnil od plesišča in mislil oditi. V tem ugleda pred hišo v senci lipe nekaj deklet.</p>
             <p n="SL-WIKI00373323">„Te jih še pričakujejo“, reče si, a iz radovednosti jih vendar natančneje pogleda. Vse so upirale vanj oči proseče in željno.</p>
             <p n="SL-WIKI00373324">„Izberi!“ dejal mu je glas.</p>
@@ -475,8 +448,6 @@
             <p n="SL-WIKI00373362">Magdalena obledi:</p>
             <p n="SL-WIKI00373363">„Ne, ne, nikdar! Vi se lažete! Ni mogoče! Ha ha ha! On ljubi mene, samo mene! Vi se motite.“</p>
             <p n="SL-WIKI00373364">„Dekle“, pravi stari, „take novice meni niso všeč. Jaz se moram prepričati.“</p>
-            <pb n="16"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-016.jpg"/>
             <p n="SL-WIKI00373365">„Ne verjemite jim, oče ... On ljubi mene, druge ne vzame nikdar. Ljudje lažejo, ker mi zavidajo.“</p>
             <p n="SL-WIKI00373366">„Le zakaj ne pride?“</p>
             <p n="SL-WIKI00373367">„Morda nima časa. — Čakajte!“</p>
@@ -514,15 +485,12 @@
             <p n="SL-WIKI00373399">V Marušinem srcu je sedaj gorela ljubezen do moža, a takoj je zopet divjalo v njem silno ljubosumje, ki je prehajalo v sovraštvo do nedolžne Magdalene v Samoti.</p>
             <p n="SL-WIKI00373400">Tako je prišla starost, koža na rokah in obrazu se je gubancila obema, a mladostne strasti in želje so jima ostale.</p>
          </div>
-         <pb n="17"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-017.jpg"/>
          <div>
             <head>VII. „To niso igrače!“</head>
             <p n="SL-WIKI00373401">V soboto večer je bilo. Mesec je pose val izza redkih oblakov, in rahel zahodnik je hladil ozračje. Bila je noč polna poezije, ki tako zmagovito objema z mehkimi rokami duše bogatinov in siromakov, gospodov in kmetov, ki navdd. dušo mladeničevo, da vriska in poje tje v noč, in daje ljubezni moč in pogum, da poišče svoj vzor.</p>
             <p n="SL-WIKI00373402">Ivan Debeloglav se po večerji obleče v kamižolo, in namesto v seno na svisli zavije po stezi v dolino. Deklica iz Samote mu ni hotela iz glave; vrh tega je še čutil, da je njen dolžnik, ker se ji je bil zadnjič pozabil zahvaliti; niti njenega imena ni vedel. Hej, zato je bilo treba res stopiti z Višave v Samoto. To bi morda storil še kdo drugi, akoravno bi ga ne tirala tje hvaležnost. Nehvaležnosti pa mlad človek neče pokazati nasproti lepemu dekliču ...</p>
             <p n="SL-WIKI00373403">Pot v Samoto se je Ivanu zdela kratka, zakaj spremljalo ga je veselo, hrepeneče srce ... Toda? ...</p>
-            <p n="SL-WIKI00373404">Ko pride v Samoto, se mu je zdelo, kakor da je prišel k ograjenemu vrtu, v katerega <pb n="18"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-018.jpg"/> ne more pri vratih, a ograja se mu je zdela previsoka.</p>
+            <p n="SL-WIKI00373404">Ko pride v Samoto, se mu je zdelo, kakor da je prišel k ograjenemu vrtu, v katerega  ne more pri vratih, a ograja se mu je zdela previsoka.</p>
             <p n="SL-WIKI00373405">„Kaj mi bodo dejali? Kaj naj ji rečem? Kaj si bo mislila?“</p>
             <p n="SL-WIKI00373406">Taka vprašanja so se mu vrivala.</p>
             <p n="SL-WIKI00373407">Gredoč si je bil vse lepo izmislil, kako pride k njej, pove ji, da nima nobene drage, da bo premožen kmet na Višavi, da ima njo rad, da mu je bila tako všeč zadnjič, ko mu je pomagala ujeti tele, ter jo prime za roke in zaprosi, rekoč:</p>
@@ -576,8 +544,6 @@
             <p n="SL-WIKI00373419">Stal je pred njo osupel, neokreten, trd in je pogledal sedaj njo, sedaj raztreseno moko.</p>
             <p n="SL-WIKI00373420">„Ali me več ne poznaš?“</p>
             <p n="SL-WIKI00373421">„Hihihi“, zasmeje se deklica in tleskne z rokama: „Fant s teletom! Kaj pa ti hodiš todi?“</p>
-            <pb n="19"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-019.jpg"/>
             <p n="SL-WIKI00373422">„Za teboj!“</p>
             <p n="SL-WIKI00373423">„Za mano? Ti? Ali sem ti kaj dolžna?“</p>
             <p n="SL-WIKI00373424">„Ti ne, a jaz sem tvoj dolžnik. Zadnjič si mi pomagala ujeti telička, pa sem se ti pozabil zahvaliti!“</p>
@@ -619,8 +585,6 @@
             <p n="SL-WIKI00373460">„Sedi, ako misliš pošteno, sicer pa rajši pojdi; jaz ne poznam nobene šale in za igračo nisem nikomur.“</p>
             <p n="SL-WIKI00373461">„Marijanica! Prej si tako lepo pela in tožila po ljubem, jaz sem pa zunaj stal in poslušal. In tvoj ljubi sem jaz.“</p>
             <p n="SL-WIKI00373462">„Hihihi! Pa veš, če maram za — ljubega?“</p>
-            <pb n="20"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-020.jpg"/>
             <p n="SL-WIKI00373463">„Ti? - Gotovo, saj si tako zdihovala po njem, da si se mi bila začela že smiliti. Lepo pesem si pela. Omečila bi kamen.“</p>
             <p n="SL-WIKI00373464">„Hihihi! Tako! Pesem te je razvnela? Eh, to pesem sem že mnogokrat pela, pa se ni še nobeden kamen omečil, niti prišel zaradi nje kdo k meni kakor ti.“</p>
             <p n="SL-WIKI00373465">„To je tvoja pesem. Pesem tvojega srca.“</p>
@@ -653,8 +617,6 @@
             <p n="SL-WIKI00373489">Ej, fant je bil kmalu izvohal, kdaj je Marijanica sama v mlinu, in zato ni imel sitnosti, katerim se mlad, ljubezni iščoč človek tako rad izogiblje. A še prijetneje je bilo tiste nedelje, ko je shod na Sloki gori.</p>
             <p n="SL-WIKI00373490">Na Sloko goro hite radi mladi ljudje, ki jih tero srčne težave. Oj, te težave! Marsikatera deklica se razjoka pred oltarjem Matere Božje in potoži Mariji stiske in težave mladega srca, hrepeneče duše. In mladeniči, stoječ daleč zadej za vratmi kot kipi, zró na oltar, a njihova srca molijo ... Molijo iskreno, zakaj pred njimi se razgrinja še dolgo, dolgo življenje, in nihče ne ve, kakšne težave in nezgode mu gredo naproti.</p>
             <p n="SL-WIKI00373491">Pridejo pa tudi stari ljudje. Za grehe je treba pokore, in molitev je tudi pokora, ker si ž njo izprosimo božjega usmiljenja. Mati Božja je naša mati in najboljša priprošnjica pri svojem nebeškem sinu.</p>
-            <pb n="21"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-021.jpg"/>
             <p n="SL-WIKI00373492">Ej, da! Pridejo pa tudi taki, ki se nimajo ničesar pogovoriti z Materjo Božjo, ali vsaj nečejo ali ne znajo se. Imajo pa vendar druge stvari na srcu ali — kako bi dejal — skrbi, ki jim ne dadó potrebnega miru. Ti so deloma mladi ljudje. Fantje stoje pod korom z odpetim telovnikom, da se vidi bela, trda srajca po prsih, vihajo brčice, pomežikujejo si in motre ljudi, zlasti dekleta, ki vro v cerkev; ali pa streljajo z očmi po cerkvi, največ tje, kjer stoje dekleta, ki škile največ z jednim očesom Mater Božjo na oltarju, z drugim pa fante, ker vsaka hoče vedeti, ako je tudi „njen“ v cerkvi.</p>
             <p n="SL-WIKI00373493">Tako je Ivan z Višave kmalu opazil, kje stoji Marijanica iz Samote, ki je bila „njega“ tudi že poiskala.</p>
             <p n="SL-WIKI00373494">„To je dekle!“ mislil si je Ivan.</p>
@@ -685,8 +647,7 @@
             <p n="SL-WIKI00373519">In kdo bi ne zaplesal še jedenkrat za slovo, posebno kadar ga še mika? Plesala sta še dolgo.</p>
             <p n="SL-WIKI00373520">„Marijanica, jaz te ljubim“, reče Ivan, ko prideta v gozdno senco. In deklica ga ni kar nič zavračala ob njegovem strastnem zatrjevanju, ampak mu je vse dokaze ljubezni vrnila dvakrat.</p>
             <p n="SL-WIKI00373521">„Kaj porekó neki doma?“ zaskrbelo je Marijanico. „Kako naj se izgovorim, kje sem se zamudila?“</p>
-            <p n="SL-WIKI00373522">„Nič se ne zmišljaj! S teboj grem, da se pokaževa. Misliš, da se jaz res koga bojim? Naj vedó, da se imava rada!“ govoril je <pb n="22"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-022.jpg"/> Ivan pogumno, zakaj razgrel ga je ples, pa tudi pijača.</p>
+            <p n="SL-WIKI00373522">„Nič se ne zmišljaj! S teboj grem, da se pokaževa. Misliš, da se jaz res koga bojim? Naj vedó, da se imava rada!“ govoril je  Ivan pogumno, zakaj razgrel ga je ples, pa tudi pijača.</p>
             <p n="SL-WIKI00373523">„Ti, jaz se bojim matere. Oh, ko bi jih ti poznal! Ti ne veš, kako so hudi! Koliko sem jih že preslišala, kolikokrat so mi že pripovedovali: „Nikar se ne pečaj z moškimi! Ne ozri se za nobenim, naj ti obeta same cekine! Ogni se vsakega, ki se ti prismeje nasproti! Nobeden ni vreden prijazne besede. Ne verjemi nobenemu, naj ti obeta karkoli! Vsak ima dosti na jeziku, malo v srcu. O ljubezni se menijo, pa za drugimi mislijo. Oh, in kaj še vse drugega: to jih bom še preslišala danes!“</p>
             <p n="SL-WIKI00373524">„Ali se morda kesaš?“</p>
             <p n="SL-WIKI00373525">„Kesam se ne, pa bojim se. Ej, pa da me imaš le ti rad, kaj maram! Bo že minulo. Kadar se naveličajo, bodo pa nehali.“</p>
@@ -702,8 +663,6 @@
             <p n="SL-WIKI00373535">„Oh, da ti tudi to povem. Meni si bil že takrat všeč, ko smo tele lovili.“</p>
             <p n="SL-WIKI00373536">„Ti pa meni. O, ko bi ti vedela! Jaz še spal nisem kakor po navadi.“</p>
             <p n="SL-WIKI00373537">Tako sta si dopovedovala. Med tem se je pa zbirala nevihta. Mlinarica v Samoti je bila v skrbeh zaradi hčere.</p>
-            <pb n="23"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-023.jpg"/>
             <p n="SL-WIKI00373538">„Kje je neki tako dolgo? Kam je šla? Zakaj se mudi?“</p>
             <p n="SL-WIKI00373539">Tako se je vpraševala, in njena skrb je rastla bolj in bolj, vzbujala se je jeza, strah, sumnja in, oj! spomnila se je, kaj je sama doživela nekdaj na ta dan. Oh, to niso bili veseli spomini, ki bi jo bili tolažili! Hodila je gledat na breg, kjer se je ozirala na pot, po kateri ima priti hčerka, ako je šla na Sloko goro. Dolgo ni videla nič. Še le kasno popoldne je zagledala v daljavi hčerko, ki jo je spoznala po obleki, pa ustrašila se je, zakaj videla je, da prihaja ž njo moški. Speklo jo je pri srcu, da se je kar zganila.</p>
             <p n="SL-WIKI00373540">„Počakam ju.“</p>
@@ -725,8 +684,7 @@
             <p n="SL-WIKI00373556">Oklene se mu okrog vratu ... Takrat se pa vzravna za grmovjem mati mlinarica. Joj, kako je vrelo po njej, in tresla so se ji kolena! Kakor ujeda se spusti izza grma nizdol. A njena togota je bila hitrejša nego noge.</p>
             <p n="SL-WIKI00373557">„Smo vkup?“ zavrišči, predno je prispela do njiju. „Čakajta!“</p>
             <p n="SL-WIKI00373558">Ko bi bilo treščilo, bi se ona dva ne bila tako prestrašila.</p>
-            <p n="SL-WIKI00373559">„Moja mati!“ dihne Marijanica in se bliskoma izvije Ivanu in zbeži po potu. Ivan se osupel odmakne nekaj korakov. Stara se z razprostrtimi, iztegnjenimi rokami spusti za hčerko. Ko bi jo mogla prijeti! <pb n="24"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-024.jpg"/> A mlade noge, čeprav so dolgo romale, bile so vendar hitrejše.</p>
+            <p n="SL-WIKI00373559">„Moja mati!“ dihne Marijanica in se bliskoma izvije Ivanu in zbeži po potu. Ivan se osupel odmakne nekaj korakov. Stara se z razprostrtimi, iztegnjenimi rokami spusti za hčerko. Ko bi jo mogla prijeti!  A mlade noge, čeprav so dolgo romale, bile so vendar hitrejše.</p>
             <p n="SL-WIKI00373560">„Uh! Ti vlačuga, ti nesramnica ti, to so tvoja božja pota? Oh, sramote, sramote! O, jaz nesrečna tvoja mati! ... Lisica, počakaj ...“</p>
             <p n="SL-WIKI00373561">Pa Marijanica je bežala kakor plaha srna, zakaj vsa zmešana je bila, le samo to je čutila, da mora bežati, da uide materini jezi.</p>
             <p n="SL-WIKI00373562">Na Ivana ni več mislila tisti hip.</p>
@@ -768,8 +726,7 @@
             <p n="SL-WIKI00373592">„Ej, veš, jaz sem bil tudi nekdaj mlad in vem, kako se moli pod Sloko goro.“</p>
             <p n="SL-WIKI00373593">„Na Sloki gori je cerkev, gotovo si že pozabil od starosti.“</p>
             <p n="SL-WIKI00373594">„Hahaha ... seveda, a Sloki gori. Mladi svet pa božjo pot navadno <hi rend="spaced">pod goro</hi> 
-               <pb n="25"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-025.jpg"/> odpravi in tudi kaj zapravi ... hahaha!“</p>
+                odpravi in tudi kaj zapravi ... hahaha!“</p>
             <p n="SL-WIKI00373595">„Ti si neumen!“</p>
             <p n="SL-WIKI00373596">Počasi krene v hišo. Nič kaj pogumno in veselo ni stopal, ne tako kakor po navadi. Molče sta ga sprejela.</p>
             <p n="SL-WIKI00373597">„Fant! Sloka gora ni tako daleč, prišel bi bil lahko prej domov. Ti veš, da tega ne trpim. Jaz hočem, da si doma.“</p>
@@ -779,8 +736,6 @@
             <p n="SL-WIKI00373601">„Jaz jo ljubim.“</p>
             <p n="SL-WIKI00373602">S to mislijo v srcu je zaspal.</p>
          </div>
-         <pb n="26"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-026.jpg"/>
          <div>
             <head>IX. „Vaš Ivan in mlinarjeva Marijanica se imata!“</head>
             <p n="SL-WIKI00373603">Na Sloki gori je bila tudi Kokotova Jera. Ves teden je opletala od sela do sela, od hiše do hiše, ter vpila: „Jajčke, jajčke!“ in nabirala blaga za Trst, zraven pa napletala z jezikom po vsakem človeku, ob katerega se je ravno obšarala; varen seveda ni bil pred njo nihče. Videla je vse in slišala vse, kar se je kje zganilo, in jezik — ta je bil nagel kakor strela; z jezikom, ki ni imel nobene ograje več, je zadevala sedaj tega, sedaj onega.</p>
@@ -796,8 +751,7 @@
             <p n="SL-WIKI00373613">Tako in jednako si je dajala njena vznemirjena duša potrebnega duška, seveda natihoma, zakaj, ako bi bila to glasno pravila, pila bi vino zunaj — to je vedela, a ona je hotela biti znotraj na straži. Imela je že drug kozarec pred seboj, ko pripelje Debeloglavov Ivan mlinarjevo Marijanico v gostilno.</p>
             <p n="SL-WIKI00373614">„Jej!“ vzdihne Jera, povzdigne oči, da bi se skoraj preobrnile, in se potrka na prsa.</p>
             <p n="SL-WIKI00373615">„Jej! Jej! Jej! Ta je tudi tak! Kdo bi si mislil!“ Njena duša je pogreznila oči v kozarec za kruhom, da bi ne videla vsega, česar se je bala videti. Oh, kako se je vse upiralo v njej proti ravno dovršenemu spoznanju!</p>
-            <p n="SL-WIKI00373616">„Oh, ni ga poštenega človeka več na svetu, zlasti kar je mladih! Čast Bogu, da sem že stara! Ta Debeloglavov! To imata stara dva za hvaležnost! Jej! Jej! Jej! Pa s to mlinarjevo se peča! Uh! To ni samo na sebi! Gotovo ima oni — bognasvari — kremplje vmes! Jej! Jej! Jej! Uboga Maruša! Koliko je reva že pretrpela zaradi njene matere! Koliko si je prizadejala z možem, <pb n="27"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-027.jpg"/>predno ga je preobrnila, zakaj — oh ta ženska, ta mlinarica — vsega je še imela v oblasti tudi potem, ko sta bila poročena. Ni zastonj jokala Maruša pred menoj, ker jo je Bog tako zapustil, da je morala sprejeti tega Ivana za sina! In njena punica! Oh, to je cvet, prav kakor mati! — Lej, kako ga gleda, da kar vanj leze. Ne, jaz nečem imeti tega greha na vesti. To se mora razdreti!“</p>
+            <p n="SL-WIKI00373616">„Oh, ni ga poštenega človeka več na svetu, zlasti kar je mladih! Čast Bogu, da sem že stara! Ta Debeloglavov! To imata stara dva za hvaležnost! Jej! Jej! Jej! Pa s to mlinarjevo se peča! Uh! To ni samo na sebi! Gotovo ima oni — bognasvari — kremplje vmes! Jej! Jej! Jej! Uboga Maruša! Koliko je reva že pretrpela zaradi njene matere! Koliko si je prizadejala z možem, predno ga je preobrnila, zakaj — oh ta ženska, ta mlinarica — vsega je še imela v oblasti tudi potem, ko sta bila poročena. Ni zastonj jokala Maruša pred menoj, ker jo je Bog tako zapustil, da je morala sprejeti tega Ivana za sina! In njena punica! Oh, to je cvet, prav kakor mati! — Lej, kako ga gleda, da kar vanj leze. Ne, jaz nečem imeti tega greha na vesti. To se mora razdreti!“</p>
             <p n="SL-WIKI00373617">Tako si je naštevala Jera sama sebi in snovala načrte za razrušenje znanja med Ivanom in Marijanico.</p>
             <p n="SL-WIKI00373618">In Jera je nalašč čakala, dokler se nista odpravila.</p>
             <p n="SL-WIKI00373619">„Nu, je pa dolgo trajalo, predno sta se naskakala! Eh, ko smo bile me mlade, bilo je drugače. Jej! Jej! Jej! Kaj še bo! Kaj še bo!“</p>
@@ -833,8 +787,7 @@
             <p n="SL-WIKI00373649">„Kdo bi si mislil!“</p>
             <p n="SL-WIKI00373650">In Jera je odprla vse zatvornice ženske zgovornosti in mahala z rokami, da bi bolj živo dopovedala, kako je bila v gostilni pod goro.</p>
             <p n="SL-WIKI00373651">Tako je gostolela na dolgo in široko ter olajševala si obteženo srce.</p>
-            <p n="SL-WIKI00373652">Maruša je pa poslušala in poslušala. Vzbujala se je nevolja, ki je polagoma prehajala <pb n="28"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-028.jpg"/> v jezo. Večkrat se ji je izvil globok vzdihljaj.</p>
+            <p n="SL-WIKI00373652">Maruša je pa poslušala in poslušala. Vzbujala se je nevolja, ki je polagoma prehajala  v jezo. Večkrat se ji je izvil globok vzdihljaj.</p>
             <p n="SL-WIKI00373653">„Tako je bilo!“ S tem zagotovilom je končala Jera in si brisala obraz, na katerem so stale potne srage, zakaj človek, ki važne reči pripoveduje, se rad upeha.</p>
             <p n="SL-WIKI00373654">„Ako je to res, potem to ni samo na sebi. Prav je, da si mi povedala“, izpregovori Maruša.</p>
             <p n="SL-WIKI00373655">„O, ni samo na sebi, ne, gotovo je kaj vmes. Le čakaj, da vidiš! Meni, ki mi je težilo srce, ni dalo mini. Sla sem včeraj v Samoto in sem mlinarici vse povedala, ker hočem, da se to razdere. Pa sem jo naletela. O, ta mlinarica, še sedaj jo ima bognasvari v oblasti. Pa misliš, da je bila na deklica kaj huda, kali? O, tej se pozna, da je moške zapeljevala.“</p>
@@ -860,8 +813,6 @@
             <p n="SL-WIKI00373675">„O, strah, pol poldne, jaz sem pa še tukaj!“ javkne Jera in plane kvišku.</p>
             <p n="SL-WIKI00373676">„Pol poldne že, krompir je pa še v procki!“ vikne Maruša.</p>
             <p n="SL-WIKI00373677">„Maruša! Bog te potolaži! Nesrečna si, to vidim. Ko bi bila jaz na tvojem mestu, naredila bi red. — Imaš kaj jajček?“</p>
-            <pb n="29"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-029.jpg"/>
             <p n="SL-WIKI00373678">„Jera, strašno rada bi ti postregla, pa vidiš, da nimam časa; poldne bo, krompir je pa še v procki. Vse ti prihranim, le kmalu se oglasi!“</p>
             <p n="SL-WIKI00373679">„Pa gotovo!“</p>
             <p n="SL-WIKI00373680">„Gotovo, le pridi!“</p>
@@ -893,8 +844,7 @@
             <head>X. „Nič ni bilo nepoštenega!“</head>
             <p n="SL-WIKI00373704">Tako je minulo nekaj časa. Na Višavi je vsak opravljal molče svoje delo in premišljal, kar mu je bilo najbolj pri srcu. Ivanu so uhajale misli v Samoto k Marijanici. Prvo sramežljivost in strah, ki mu ga je zadala zavest, da je njegova ljubezen očita, je srečno prestal.</p>
             <p n="SL-WIKI00373705">„Marijanico imam rad, naj je to komu prav ali ne.“</p>
-            <p n="SL-WIKI00373706">Tako je dejal in tako ravnal. Gospodar je mirno, seveda s krvavečim srcem, pričakoval, kdaj se poleže nevolja ženina, strast, ki je že izlegla toliko grenkih ur na Višavi. Naj si je še tolikrat izpraševal vest, nikdar mu ni očitala, da je on tega kriv. Nikdar ni pokazal najmanjše nezvestobe svoji ženi, nikdar ni dal povoda, da bi smela dvomiti o njegovem poštenju, a navzlic temu se je polastil žene oni grozni demon, ki ruši pravo, mirno zakonsko srečo. Oh, seveda je imel rad mlinarico s Samote, ko je bil še prost, a odkar je peljal svojo Marušo k oltarju, niso uhajale njegove misli in želje od nje, in ko je videl, da žena ne vidi rada, ako kdaj govori z mlinarico iz <pb n="30"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-030.jpg"/> Samote, ogibal se je je, samo da je ustregel ženi. Včasih se je nevoljen vpraševal, kaj je vendar krivo, da dvomi žena o njegovi zvestobi. Vselej mu je bridek smehljaj igral okoli usten in mislil si je:</p>
+            <p n="SL-WIKI00373706">Tako je dejal in tako ravnal. Gospodar je mirno, seveda s krvavečim srcem, pričakoval, kdaj se poleže nevolja ženina, strast, ki je že izlegla toliko grenkih ur na Višavi. Naj si je še tolikrat izpraševal vest, nikdar mu ni očitala, da je on tega kriv. Nikdar ni pokazal najmanjše nezvestobe svoji ženi, nikdar ni dal povoda, da bi smela dvomiti o njegovem poštenju, a navzlic temu se je polastil žene oni grozni demon, ki ruši pravo, mirno zakonsko srečo. Oh, seveda je imel rad mlinarico s Samote, ko je bil še prost, a odkar je peljal svojo Marušo k oltarju, niso uhajale njegove misli in želje od nje, in ko je videl, da žena ne vidi rada, ako kdaj govori z mlinarico iz  Samote, ogibal se je je, samo da je ustregel ženi. Včasih se je nevoljen vpraševal, kaj je vendar krivo, da dvomi žena o njegovi zvestobi. Vselej mu je bridek smehljaj igral okoli usten in mislil si je:</p>
             <p n="SL-WIKI00373707">„O, ko bi ji bil Bog dal kopico otrok, kateri bi ji dali dela in skrbi, ne bi imela časa pasti onega vraga, ki vedno išče, kdaj bi vgriznil in skalil mir in zadovoljnost, ki je največja sreča zakona. Ali sem morda sam kriv, ker je tako in ne drugače? Oh, gotovo ni volja božja!“</p>
             <p n="SL-WIKI00373708">Debeloglav je mislil, da bo žena, ki je bila drugače najboljša žena, mirnejša, ko posinovi Ivana. Pa varal se je. Ljubila ga je sicer, a lastnega otroka ji Ivan vendar ni mogel namestiti, česar pa fant ni bil kriv, ker ju je slušal in ljubil kot najboljši sin. Debeloglav ga je imel rad, zato ga je peklo spoznanje, da zli duh, ki gospodari v ženinem srcu, tudi fantu ne prizanese.</p>
             <p n="SL-WIKI00373709">„To je preveč! To je vendar preveč!“ ponavljal si je večkrat. „Kaj je zakrivil fant ? Kam še to pride?“</p>
@@ -917,8 +867,6 @@
             <p n="SL-WIKI00373726">„Vražji jezik, da bi ji že odgnil!“ Čudil se je, s kako vnemo je žena vse to pripovedovala, kar ga je prepričalo, da žena to tudi verjame.</p>
             <p n="SL-WIKI00373727">„Ne verjemi vsega!“</p>
             <p n="SL-WIKI00373728">„Zakaj pa ne? Ali to ni mogoče? Ali si že pozabil, kako pozno je prišel Ivan s Sloke gore?“</p>
-            <pb n="31"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-031.jpg"/>
             <p n="SL-WIKI00373729">„I, no — ako je malo poskočil? Mlad je, zdrav je, saj veš, da hoče noreti?“</p>
             <p n="SL-WIKI00373730">„Pa s to mlinarjevo punico!“ ustavi ga žena in oči se ji zabliskajo. Mož je spoznal, da se strast zopet oglaša.</p>
             <p n="SL-WIKI00373731">„Jaz mu je nisem izbiral.“</p>
@@ -951,8 +899,6 @@
             <p n="SL-WIKI00373758">Ivan je bil nekaj dnij zamišljen. Njegova ljubezen je bila najedenkrat razkrita, in to mu seveda ni bilo ljubo. Ko je pa zopet našel pot v Samoto, postal je boljše volje in je bil gostobesednejši s hlapcem Jurijem, ki seveda ni videl nič, ni slišal nič, ker je bil — to vsi vemo — gluh.</p>
             <p n="SL-WIKI00373759">Čas je hitro potekal.</p>
          </div>
-         <pb n="32"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-032.jpg"/>
          <div>
             <head>XI. „Od hiše ga daj!“ ...</head>
             <p n="SL-WIKI00373760">Odkar je Maruša vedela, da ima Ivan znanje z mlinarjevo hčerko iz Samote, ni ga imela več tako rada. Neka materinska ljubezen, ki jo je imela zanj, se je ohladila, in Ivan ji je postal tuj, tako tuj, da bi ga bila sedaj lahko pogrešila. Zdel se ji je kakor usiljivec, ki se hoče nečesa polastiti, do česar nima nikake pravice. Zdel se ji je pa še več: zaveznik one mlinarice iz Samote, katero tako črti. Zato ga je mlinarica omrežila, zato mu je nastavila svojo hčer, da ga ujame in se tako polasti Debeloglavovine, po kateri je stara sama zastonj hrepenela.</p>
@@ -965,8 +911,7 @@
             <p n="SL-WIKI00373767">„Stara, ne vem, ali ti gre že ob pamet, kali. Vjedaš se po krivici nad fantom, in če se ti pove, da mu delaš krivico, pa tuliš, kakor bi tij edinega otroka zakopavali“, dejal je mož.</p>
             <p n="SL-WIKI00373768">Toda skupil jo je! Zapičila je vanj oči in mu očitala:</p>
             <p n="SL-WIKI00373769">„Tak si ti! ... Ti! — Ti si moj mož! ... Pred Bogom si obljubil ljubezen do smrti, a sedaj ljubiš bolj tega fanta, tega usiljenca, ki ti ni ne v peto, ne v šesto. Ali si ti zakonski mož?“</p>
-            <p n="SL-WIKI00373770">„Žena! Žena! Vidim, da se ti zopet blede.“ Zaradi tega je bil Debeloglav otožen. Obrnil je pa vso skrb na Ivana. Učil ga je, kako se prav gospodari, dobro kmetuje, odkazoval meje, jemal po kupčijah in mu pripovedoval to in ono, kar je treba vedeti <pb n="33"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-033.jpg"/>kmetiškemu gospodarju. Ivan je bil njegov ponos in upanje. Čim bolj ga je sovražila Maruša, tem večjo ljubezen mu je izkazoval gospodar. Zato Ivanu ni ravno težko delo zbadanje materino. Ubogal je strica in delal pridno, saj mu je dejala zavest, da dela sebi, a on je hotel nekdaj biti trden, ponosen kmet na Višavi, kakor je stric.</p>
+            <p n="SL-WIKI00373770">„Žena! Žena! Vidim, da se ti zopet blede.“ Zaradi tega je bil Debeloglav otožen. Obrnil je pa vso skrb na Ivana. Učil ga je, kako se prav gospodari, dobro kmetuje, odkazoval meje, jemal po kupčijah in mu pripovedoval to in ono, kar je treba vedeti kmetiškemu gospodarju. Ivan je bil njegov ponos in upanje. Čim bolj ga je sovražila Maruša, tem večjo ljubezen mu je izkazoval gospodar. Zato Ivanu ni ravno težko delo zbadanje materino. Ubogal je strica in delal pridno, saj mu je dejala zavest, da dela sebi, a on je hotel nekdaj biti trden, ponosen kmet na Višavi, kakor je stric.</p>
             <p n="SL-WIKI00373771">Toda Maruša je sklenila preprečiti to. Njeno vsestransko premišljevanje jo je prepričalo, da more to storiti in vest ji je dejala, da mora to storiti, ker se one slutnje, da bo kdaj hči one mlinarice iz Samote gospodarila na Višavi, ni mogla iznebiti, ker ni zaupala Ivanu, da bi mogel dati popolnoma slovo oni punici, tem manj, ker gospodar ni kazal baš hudega nasprotovanja taki zvezi, dasi si je Maruša to vedno želela.</p>
             <p n="SL-WIKI00373772">„Ej, pa Maruša ni neumna!“ tako si je vedno pripovedovala. „Prinesla sem lepo dotico na Višavo. Delala sem pridno, varčevala sem; kar je njegovega je tudi moje. In svoje premoženje denem sama, kamor hočem. O, ta Ivan, ki ima rajši punico iz Samote kakor mene in sebe, ta se ne bo košatil z mojim premoženjem, in ona si ne bo oblizovala prstov pri polnih skledah na Višavi!“</p>
             <p n="SL-WIKI00373773">Poguma pa ni imela tega povedati možu v brk. Vedela je, da on ni tacega mišljenja, da živi on ves in popolnoma za fanta in da dela le za fanta.</p>
@@ -995,8 +940,6 @@
             <p n="SL-WIKI00373796">S tem modrovanjem zleze Jurij zopet na trdo ležišče.</p>
             <p n="SL-WIKI00373797">Maruša privihra v hišo. Prsa so se ji burno vzdigovala in oči bliskale.</p>
             <p n="SL-WIKI00373798">„Lepega sina imaš, stari! Sramujem se, ker sem tvoja žena ...“</p>
-            <pb n="34"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-034.jpg"/>
             <p n="SL-WIKI00373799">„Kaj ti je zopet?“ začudi se mož.</p>
             <p n="SL-WIKI00373800">„Tvojega srčka ni!“</p>
             <p n="SL-WIKI00373801">„Kaj? — Kje je?“</p>
@@ -1027,8 +970,6 @@
             <p n="SL-WIKI00373826">„Mar ni? Kar je moje, je tvoje, a tvoje je tudi moje. Proti moji volji se z mojim premoženjem ne sme nič zgoditi.“</p>
             <p n="SL-WIKI00373827">„Lej, lej, kako si modra! Nisem vedel.“</p>
             <p n="SL-WIKI00373828">„A sedaj veš!“ Debeloglav se vzravna.</p>
-            <pb n="35"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-035.jpg"/>
             <p n="SL-WIKI00373829">„Vem! ... A vedi tudi ti, da na Višavi sem jaz gospodar. Ivan je moj sin, jaz ga ljubim, bodi to tebi prav ali ne.“</p>
             <p n="SL-WIKI00373830">„Ali si ti moj mož?“</p>
             <p n="SL-WIKI00373831">„Molči! O tem si že mnogokrat dvomila. Da ne boš imela vzroka črtiti Ivana, prepovem mu, še kdaj pečati se z ljudmi iz Samote. Upam, da me bo slušal. Ti pa bodi vendar pametna!“</p>
@@ -1052,8 +993,6 @@
             <p n="SL-WIKI00373846">In kmalu po sestanku zaloti Ivana na samem, upre roke na njegove rame in pogleda v sinove oči, da bi dobil odgovor.</p>
             <p n="SL-WIKI00373847">„Ivan, kaj se je zgodilo?“</p>
             <p n="SL-WIKI00373848">Sin pa pobesi oči in neki otožen smehljaj mu zaigra okoli usten.</p>
-            <pb n="36"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-036.jpg"/>
             <p n="SL-WIKI00373849">„Nič!“</p>
             <p n="SL-WIKI00373850">„Ti!“ Vočetovem glasu se je poznalo očitanje zaradi sinove neodkritosrčnosti.</p>
             <p n="SL-WIKI00373851">„Ne taji! Jaz vidim!“</p>
@@ -1081,8 +1020,7 @@
             <p n="SL-WIKI00373873">„O, ni samo plesal ne ... Poslušaj, Beligoj, vse ti bom povedala po resnici. Nečem, da bi bila samo moja vest težka. Ti si njegov oče, tudi si odgovoren zanj, ne samo jaz, čeprav je sedaj pod mojo streho.“</p>
             <p n="SL-WIKI00373874">„Oh, povej, povej mi, povej vse, kar veš! Jaz moram vedeti vse, jaz sem njegov oče, pa tudi hočem biti.“</p>
             <p n="SL-WIKI00373875">Očetov glas je zvenel otožno, da se je poznalo, kako je ranjeno njegovo srce. Maruša je pa vstala ter stojč mahala z rokama, krivila život in stresala glavo pa pripovedovala, kar je vedela o Ivanu. Vedela ni mnogo, toda njena domišljija je ustvarila mnogo slik, ki naj bi pokazale očetu, da se je sin izpridil, da se je izgubil z ničvredno žensko. Beligoj je molče, s krvavečim srcem in s sramom v očeh poslušal obtožbe Marušine.</p>
-            <p n="SL-WIKI00373876">Debeloglav si je podprl glavo in zdehal. Pripovedovanje ga ni prav nič zanimalo. Začel je jesti ostanke štrukljev. Beligoj je kmalu opazil, da Maruša ni navaden, nepristranski tožnik. Čimdalje bolj se mu je zdelo, da slike niso tako črne, kakor jih riše Maruša, da Ivan ni tolik vlačugar, kakor misli Maruša. Spoznal je pa tudi, da Marušina volja na Višavi ni najzadnja in da si zna dobiti potrebne veljave <pb n="37"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-037.jpg"/> in moči. Iz njenega pripovedovanja je zvenela grožnja, da se na Višavi ne zgodi tisto, kar misli Beligoj, da se Ivan lahko obriše pod nosom. To ni bilo ljubo Beligoju.</p>
+            <p n="SL-WIKI00373876">Debeloglav si je podprl glavo in zdehal. Pripovedovanje ga ni prav nič zanimalo. Začel je jesti ostanke štrukljev. Beligoj je kmalu opazil, da Maruša ni navaden, nepristranski tožnik. Čimdalje bolj se mu je zdelo, da slike niso tako črne, kakor jih riše Maruša, da Ivan ni tolik vlačugar, kakor misli Maruša. Spoznal je pa tudi, da Marušina volja na Višavi ni najzadnja in da si zna dobiti potrebne veljave  in moči. Iz njenega pripovedovanja je zvenela grožnja, da se na Višavi ne zgodi tisto, kar misli Beligoj, da se Ivan lahko obriše pod nosom. To ni bilo ljubo Beligoju.</p>
             <p n="SL-WIKI00373877">„Jaz bi ti pokazal, ako bi gospodarila meni“, grozil se ji je v srcu Beligoj. Vendar na videz se je delal, kakor da bi v vsem soglašal ž njo in ji je pritrjeval, kar je Marušo še bolj navduševalo, da je zmagovalno pogledavala moža, češ: vidiš, ta pa ni tako slep in mehak, kakor si ti. Eh, ne bo je na Višavo one punice iz Samote! Debeloglav pa se ni menil za take poglede.</p>
             <p n="SL-WIKI00373878">„Zakaj ga pa nista prijela v strah?“ opomni Beligoj.</p>
             <p n="SL-WIKI00373879">„To se pa ž njim pomenita! On je metla. Pa še več: on mu je dajal potuho.“</p>
@@ -1108,8 +1046,7 @@
             <p n="SL-WIKI00373899">„Žal! Zato me je sram. Veš, da ne slišim več o tem, kadar pridem. Pusti vlačugo in bodi pameten!“</p>
             <p n="SL-WIKI00373900">Ivana obide neki ponos.</p>
             <p n="SL-WIKI00373901">„Oče, ne mogel bi se vzdržati, kadar bi kdo slabo govoril o vas, a tudi o svoji deklici ne pustim govoriti slabo.“</p>
-            <p n="SL-WIKI00373902">„Haha! Glej, glej, kako govori! Hitro si dorastel. Fantovska norost! Le čakaj, da ti <pb n="38"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-038.jpg"/> dopovem. O tem smo govorili zgoraj. Kakor veš, boš nekdaj ti gospodaril na Višavi, ako boš pameten. Višava je pa nekaj vredna. Zato bodi pameten. Zato pusti tisto ljubkovanje, ako ga je kaj. Izprevidel sem, da stric in teta ne marata ničesar slišati o tvoji ljubici, kar je čisto prav.“</p>
+            <p n="SL-WIKI00373902">„Haha! Glej, glej, kako govori! Hitro si dorastel. Fantovska norost! Le čakaj, da ti  dopovem. O tem smo govorili zgoraj. Kakor veš, boš nekdaj ti gospodaril na Višavi, ako boš pameten. Višava je pa nekaj vredna. Zato bodi pameten. Zato pusti tisto ljubkovanje, ako ga je kaj. Izprevidel sem, da stric in teta ne marata ničesar slišati o tvoji ljubici, kar je čisto prav.“</p>
             <p n="SL-WIKI00373903">„A jaz je ne pustim.“</p>
             <p n="SL-WIKI00373904">Stari ga osupel pogleda.</p>
             <p n="SL-WIKI00373905">„Ti moraš! Lej, upam, da se ti oči odpro. Razumel sem še več. Višave ne dobiš, ako ne pustiš deklica. Sedaj veš!“</p>
@@ -1131,8 +1068,6 @@
             <p n="SL-WIKI00373921">„Ah, imej jo, imej, tisto tvojo, — tisto punico, ki ti je več, kakor jaz, ki sem ti dal življenje, kakor mati, bratje in sestre, kakor Višava, kakor ves denar vsega sveta! Le imej jo, imej kakor hočeš, samo prosim te, ne pokaži tega, ne povej tega nikomur, najmanj pa teti! Ona tega ne sme vedeti. Oh, stric; ž njim bi se še govorilo o tem, toda ona ... Ti pa moraš imeti tudi Višavo! ...“</p>
             <p n="SL-WIKI00373922">Sin ga je gledal strmeč in vpraševalno.</p>
             <p n="SL-WIKI00373923">„Imej jo! Jaz ti ne branim. Le imej jo, ker si je ubraniti ne daš, toda drži tudi Višavo! To moraš držati z vsemi močmi; niti koščeka od nje ne smeš pustiti odtrgati si, ker potem ni cela. Le imej deklica, toda skrivaj! Stara dva sta opešala. Vidi se, da ju že zalezuje smrt, ki ju bo prej ali slej pobrala, in potlej nu, v imenu božjem, potlej jo vzemi, ker jo hočeš, čeprav sem mislil, da boš dobil igraje bogato nevesto. Razumeš? Le imej Marijanico, morda je dobra ženska, jaz je ne poznam. Ako jo boš imel rad ti, je tudi tvoj oče ne bode črtil, toda Višava ... Višava ti mora biti prva! Višava je lepa. Stara dva umrjeta in potem si ti prost na Višavi. Mostu do sreče si ne poderi!“</p>
-            <pb n="39"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-039.jpg"/>
             <p n="SL-WIKI00373924">Ivanu se je odprl nov svet. Očetove besede so mu čarobno zvenele v ušesih, vzbujale celo opojne harmonije glasov, ki so ga omamljali in navdajali z razkošnimi čustvi, in zvesta spremljevalka človekova, božanska domišljija, mu je odprla jasen pogled v bodočnost: Bil je gospodar na Višavi, žena mu je bila Marijanica. Hej, kako je zavriskala duša pri tem pogledu, ko je začutila, da je oproščena tesnih okovov skrbij in žalosti! Višava in Marijanica je bilo njegovo, oboje, ono, kar je ljubil s srcem in razumom. Hej! Z jasnim obrazom izpregovori Ivan:</p>
             <p n="SL-WIKI00373925">„Oče! Vaš sin sem! Storim, kar želite!“ To je bilo tako: Stari Lužar je večkrat sam pri sebi ponavljal začetne besede znane narodne pripovedke, ki se glase: „Neki oče je imel tri sinove: jeden je bil neumen, dva sta bila pa pametna“, in vselej je tu prenehal, pa pristavil: „Jaz imam pa dva, pa nobenega neumnega“, in ob tem dostavku so se mu izjasnila nagubana lica. Kako neki ne, saj sta oba obetala, da bodeta prava Lužarja, iste korenine kakor njih dedje, vredna naslednika svojih prednikov, pristna gorjanca, trda Kranjca. Oba sta bila čvrsta in zdrava, oba junaka korenjaka; prvega je že izdavna odpustil cesar domov s hvalevrednimi znaki, a drugega je pred kratkim zahteval k sebi, in potrdili so ga. Takih sinov je bil oče vesel, saj sta bila dobro vzgojena, da ni čul nikdar nič slabega o njiju. Mlajši France je sedaj še služil, a starejši je bil doma in čakal, kdaj mu oče izroči posestvo. Samo v nedeljo je zahajal v dolino, sicer pa je bil vedno doma in pridno delal. Ob prilikah, ko je zašel med svet, se je njegovo oko ponosno, drzno oziralo po cvetočih dekletih, in primerjal je vse te rdeče, različne obrazke.</p>
             <p n="SL-WIKI00373926">Stari objame Ivana.</p>
@@ -1140,8 +1075,6 @@
             <p n="SL-WIKI00373928">Ivan je pa zavriskal, da je odmevala nema loža in zelena gora. Hej, odvalila se je z njegovih prsij mora, ki ga je dušila, zato je lahko mogočno zavriskal iz dna krepkih prsij.</p>
             <p n="SL-WIKI00373929">Veselje je zopet žarelo na njegovem cvetočem obrazu, in mir je kraljeval v mladem, izkušanem srcu.</p>
          </div>
-         <pb n="40"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-040.jpg"/>
          <div>
             <head>XIII. „Ljubezen naj se utrdi!“ ...</head>
             <p n="SL-WIKI00373930">Nekega popoldne je tirala Kokotova Jera s kurniki naložen voziček po kolovniku, ki vodi v Samoto. Spotoma je premišljala o tem in onem in svoje misli večkrat glasno izražala. Včasih se je še celo ustavila in govorila:</p>
@@ -1169,8 +1102,6 @@
             <p n="SL-WIKI00373952">„Ja! ... Pa bodeš ti mislila vendar, da sem Debeloglavki petelina ukrala ... Pa ravno Debeloglavki! O, križ božji! In ravno nji, nji, ki mi je tako zoprna, kakor česen v mleku?“ ...</p>
             <p n="SL-WIKI00373953">„Veš, saj ni tako hudo ... Jaz nisem slišala, da bi bila ti res petelina ukrala, samo to sem slišala, da sta se zaradi nekega petelina pričkali, pa zakaj, nič ne vem ... Ljudje prihajajo v malin in marsikdo kaj ve.“</p>
             <p n="SL-WIKI00373954">„Cak! Cak! Magda! Sedaj pa že vem, kaj je! ... O, se bodem pa še malo vsedla ...</p>
-            <pb n="41"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-041.jpg"/>
             <p n="SL-WIKI00373955">„I, seveda sva se pričkali nekaj zaradi nekega petelina, oh! — Kje bi si mogla mistiti, da bi me zaradi take stvari tako grdo obrekli! Zaradi tistega fanta sva se bili sporekli, ki ga imata tam gori na Višavi. To je tisti petelin! Joh, kdo bi mislil, da bi te besede prenesli ... Bog jo je pa tudi kaznoval, to prevzetno Marušo; Bog neče, da bi se njena hudobnost še dlje potikala po svetu, pa sta si morala poiskati ... Sicer, kaj pa to meni mari! — — Oh, to ti pa moram povedati, zakaj sva se ...! Veš, to se tudi tebe tiče.“</p>
             <p n="SL-WIKI00373956">„Mene ...?“</p>
             <p n="SL-WIKI00373957">„Da, tebe! — Saj veš, kako si ji pri srcu.“</p>
@@ -1196,8 +1127,7 @@
             <p n="SL-WIKI00373977">„Saj bi bilo to tudi prav ...! Tebi je bila namenjena, pa te je ta jalovka — Bog mi odpusti! — odrinila. Imela je denar ... Denar mu je molela pod nos, da je ni videl v obraz in ga je tako preslepila ... O, saj se mu tudi vtepa ...! Jaz ti še enkrat rečem: jaz bi pustila, da bi se ljubezen ukoreninila! Ej, in potem bi prišla tvoja Marijanica na Višavo in tako bi se zgodila pravica, to pravim jaz, ki jajca pobiram.“</p>
             <p n="SL-WIKI00373978">Mlinarici je bilo govorjenje všeč. To bi bilo maščevanje! In ta misel se je takoj udomačila v njenem srcu in objela njeno dušo.</p>
             <p n="SL-WIKI00373979">„Kdaj si bila tam gori?“</p>
-            <p n="SL-WIKI00373980">„O, je že precej časa ... Veš, zamerila se mi je, pa nečem blizu, dokler me ne prosi. Naj ima tiste klopotce ...! E, veš, pa ona ne zna tako ravnati s čibami kakor <pb n="42"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-042.jpg"/> ti ... Tacih je malo za kurjo rejo, kakor si ti ... Imaš sedaj kaj na prodaj?“</p>
+            <p n="SL-WIKI00373980">„O, je že precej časa ... Veš, zamerila se mi je, pa nečem blizu, dokler me ne prosi. Naj ima tiste klopotce ...! E, veš, pa ona ne zna tako ravnati s čibami kakor  ti ... Tacih je malo za kurjo rejo, kakor si ti ... Imaš sedaj kaj na prodaj?“</p>
             <p n="SL-WIKI00373981">„Imam ... Kaj bi pa rada?“</p>
             <p n="SL-WIKI00373982">„Nič ne izbiram, vse pobiram, da ima le kljun. Kapunčki seveda, še niso na prodaj, pa kadar bodo, — veš Magda, — name drži ... Take prijateljice nimaš, to ti povem ...! Kaj imaš na prodaj ...?“</p>
             <p n="SL-WIKI00373983">Mlinarica ji pove in kmalu sta imeli narejen kup.</p>
@@ -1224,8 +1154,6 @@
             <p n="SL-WIKI003731004">In Marijanica se je smejala ter ga gledala z onimi črnimi očmi ...</p>
             <p n="SL-WIKI003731005">„Ah, te črne oči, kako so hude ...“</p>
          </div>
-         <pb n="43"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-043.jpg"/>
          <div>
             <head>XIV. „O, dekle je pa tako!“ ...</head>
             <p n="SL-WIKI003731006">„Kar je njegovo, je tudi moje! ... In onnima pravice mojega razdajati nikomur!“ ...</p>
@@ -1264,8 +1192,6 @@
             <p n="SL-WIKI003731039">„Ta ima tudi otroke!“ misli si Maruša, ko sede na stol.</p>
             <p n="SL-WIKI003731040">V njenem srcu je vstajalo nekaj nevoščljivosti podobnega.</p>
             <p n="SL-WIKI003731041">„Vsak je srečnejši od mene, celo moja sestra!“ ...</p>
-            <pb n="44"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-044.jpg"/>
             <p n="SL-WIKI003731042">In nasloni se k mizi, ter podpre z rokami in dve debeli solzi kaneta na belo javorjevo mizo ... Obriše se trdo, kakor bi hotela izbrisati vse otožne misli ...</p>
             <p n="SL-WIKI003731043">Ko je povžila tolsti jajčnjak in ga zalila s tepkovcem, bila je zopet stara, pogumna Maruša. Sedaj sta se začeli povpraševati sestri po tem in onem, pripovedovali sta si to in ono ... V dolgih letih ločitve se je bilo pripetilo mnogo, kar je bilo vredno in potrebno omeniti. Radost in žalost si podajata v našem življenju roke, za vsakdanjimi težavami in solzami pridejo tudi urice tihe, srečne zadovoljnosti, ki nam lajšajo in slade težo življenja.</p>
             <p n="SL-WIKI003731044">Ko je Marjeta vse povedala, kaj se je predrugačilo na domu od takrat, ko je odpeljal bogati kmet Debeloglav Marušo daleč, daleč z doma, tja na Višavo, pripovedovala je Maruša na dolgo in široko zgodbo svojega zakonskega življenja na Višavi ... Marjeta je izvedela, kako ima Maruša dobrega moža, kako je bogata, kako bi bila srečna ves čas, ako bi ... In slišala je ono dolgo, otožno pesem, ki je leta in leta igrala v Marušinem srcu in vzbujala v njej ljubosumje, ki je bila vzrok hudim duševnim bojem in razporu z možem.</p>
@@ -1286,8 +1212,7 @@
             <p n="SL-WIKI003731059">„Oh, da nisem že prej mislila na to ...!; Tako bode prav! Marjeta, ravno tako bode? Kakšno je pa dekle?“</p>
             <p n="SL-WIKI003731060">„O, naše dekle? Naša Rezika? ... O, dekle je pa tako ...! Gotovo ti bo všeč. Velika je in močna ...!“</p>
             <p n="SL-WIKI003731061">„To je prav ...!“</p>
-            <p n="SL-WIKI003731062">„Pri nas vse odmeri; večji je kakor oče ...! In močna! Ako nihče ne ukroti junca, ona ga. Zavpije nad njim in za smrček ga prime, <pb n="45"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-045.jpg"/> pa ji je pokoren. In kaj je bila enkrat naredila, ko je še pasla, da ti še to povem. Bahačev pastir ji je bil zanjke populil, ko je nastavljala ptičem, pa sta se stepla za to. Pa kaj je naredila? Tisti fant se ni nobenega bal, a ona se zapraši vanj, zagrabi ga in zažene čez dva grma v grapo med skale, kjer je ležal kakor je dolg in širok, dokler ga niso vzdignili. In kaj je bilo? ... Nogo je imel zlomljeno, da še dandanes šepa ... Tako ga je bila zaznamovala.“</p>
+            <p n="SL-WIKI003731062">„Pri nas vse odmeri; večji je kakor oče ...! In močna! Ako nihče ne ukroti junca, ona ga. Zavpije nad njim in za smrček ga prime,  pa ji je pokoren. In kaj je bila enkrat naredila, ko je še pasla, da ti še to povem. Bahačev pastir ji je bil zanjke populil, ko je nastavljala ptičem, pa sta se stepla za to. Pa kaj je naredila? Tisti fant se ni nobenega bal, a ona se zapraši vanj, zagrabi ga in zažene čez dva grma v grapo med skale, kjer je ležal kakor je dolg in širok, dokler ga niso vzdignili. In kaj je bilo? ... Nogo je imel zlomljeno, da še dandanes šepa ... Tako ga je bila zaznamovala.“</p>
             <p n="SL-WIKI003731063">„Ta bo prava! Ali ni še imela nobenih snubačev ...?“</p>
             <p n="SL-WIKI003731064">„Kajpak ...! Kadar denar zvenči, se daleč sliši ... Tam izza gor je bil prišel jeden, pa nismo naredili. Dejal je: to je fant ... Pa je šel. — Mi smo se seveda smejali, ker nam ni verjel, da bi bila naša Rezika dekle, pa kaj smo hoteli. Prišlo jih je potlej še več, pa smo videli, da bi bili vsi raje denar, kakor Reziko, zato nismo silili vanje. Ah, da ti še to povem. Enkrat je bil prišel sosedov hlapec trkat na okno ... Kadar se Rezika tega spomni, tolče se vselej od smeha ob kolena. Začel ji je nekaj potihoma pripovedovati in ji je rekel: ‚Rezika, jaz te ljubim!‘ Takrat pa plosk! pade Rezikina roka po njegovih zobeh, da je kar zastokal in se izgubil v temi ... Gotovo mu je kakšen zob izbila, ker zjutraj je bilo po tleh vse krvavo in od takrat si zmeraj usta tišči, kadar ga kdo vidi ... Potlej smo imeli pa mir in sedaj čakamo ...“</p>
             <p n="SL-WIKI003731065">„To je prav, da je taka ...! Oh, kaj bi bila jaz počela ... Rezika je moja ... Nji bodem vse zapustila ... To je prava ženska, ravno taka je pri nas potrebna“, veseli se Maruša.</p>
@@ -1313,8 +1238,6 @@
             <p n="SL-WIKI003731085">„Moja teta?“</p>
             <p n="SL-WIKI003731086">Rezika poda Maruši desnico.</p>
             <p n="SL-WIKI003731087">Z vidno zadovoljnostjo motri Maruša Reziko, držeč njeno desnico.</p>
-            <pb n="46"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-046.jpg"/>
             <p n="SL-WIKI003731088">„Otrok moj!“ vsklikne Maruša in potegne Reziko k sebi. „Oh, kako sem srečna, ker te imam. O, hčerka moja, otrok moj ...“ Objemala jo je in solze so ji igrale v očeh. Rezika jo je gledala z izbuljenimi očmi in se režala kakor maček, kateremu drgneš dlako navzgor.</p>
             <p n="SL-WIKI003731089">„Teta, vi ste pa res čudni!“ S temi besedami se izvije Rezika iz njenih objemov.</p>
             <p n="SL-WIKI003731090">„Viš jo, našo Marušo!“ ogovori Marjeta bližajočega se moža. „Molili smo že zanjo, ker smo mislili, da je že mrtva, ker nismo toliko časa ničesar slišali o njej.“</p>
@@ -1343,8 +1266,7 @@
             <p n="SL-WIKI003731113">„To je dekle!“ mislila si je večkrat. „S to ne bode nihče pometal.“</p>
             <p n="SL-WIKI003731114">Ah, kolikokrat si je želela poguma in moči, da bi bila svojim besedam in željam pomagala do veljave. Kolikokrat je morala zato odnehati, ker se je ni nihče bal. Poslej bo pa na Višavi drugače. O, le naj da Ivanu svoj del, toda vzeti bo moral mojo Reziko! O, ta ga bo že krotila, ako bo mislil tudi še potem na tistega deklica v Samoti.</p>
             <p n="SL-WIKI003731115">Te misli so se ji vrivale spotoma. In ko se je Maruši zdelo, da jo že dovolj daleč spremlja, ustavi se in reče:</p>
-            <p n="SL-WIKI003731116">„Rezika, <pb n="47"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-047.jpg"/> dovolj daleč si mi odnašala; le vrni se! Pridna bodi in materi pomagaj v kuhinji! Meni si všeč. Ako bodeš pridna, te ne bom pozabila. Z moškimi se nikar ne pečaj!“</p>
+            <p n="SL-WIKI003731116">„Rezika,  dovolj daleč si mi odnašala; le vrni se! Pridna bodi in materi pomagaj v kuhinji! Meni si všeč. Ako bodeš pridna, te ne bom pozabila. Z moškimi se nikar ne pečaj!“</p>
             <p n="SL-WIKI003731117">„I-jov! — Tako prevrnem vsakega, ki mi kaj hoče, da se komaj pobere. Vsi se me boje.“</p>
             <p n="SL-WIKI003731118">„Prav imaš!“</p>
             <p n="SL-WIKI003731119">Maruša jo ginjena objame in reče:</p>
@@ -1363,8 +1285,6 @@
                <l>holadrija, drija-drom.</l>
             </p>
          </div>
-         <pb n="48"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-048.jpg"/>
          <div>
             <head>XV. „Jaz je ne ljubim več“</head>
             <p n="SL-WIKI003731128">Dobre volje pride Maruša domov. Veselje je žarelo na njenem zgrbančenem obrazu, njena beseda je zvenela prijazno, oči so zrle ljubeznivo moža in Ivana in zgovorna je bila tako, kot je bila nekdaj, nekdaj, v časih, katerih se je Debeloglav komaj še spominjal. Vse je hotela vedeti, kaj so delali doma, kaj so jedli, kaj se je zgodilo posebnega ... In to se je zdelo vsem dobro, prijetno, in mož je veselo vzdihnil:</p>
@@ -1383,8 +1303,7 @@
             <p n="SL-WIKI003731141">„Glej! Glej!“</p>
             <p n="SL-WIKI003731142">„In tudi sina jima je Bog dal, ki bode gospodaril na domu ... In jedno hčerko imata še doma ...“</p>
             <p n="SL-WIKI003731143">„Bode pa zopet svatba ... Je čedno dekle?“</p>
-            <p n="SL-WIKI003731144">„Rezika? ... Lepa! ... O, ko bi jaz imela tako, kako bi bila vesela! ... Lej, ljubi mož, <pb n="49"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-049.jpg"/> da ti še to povem: Obšla me je bila taka želja po otrokih, pa sem si mislila: Oh, ko bi bila Rezika moja!“ ...</p>
+            <p n="SL-WIKI003731144">„Rezika? ... Lepa! ... O, ko bi jaz imela tako, kako bi bila vesela! ... Lej, ljubi mož,  da ti še to povem: Obšla me je bila taka želja po otrokih, pa sem si mislila: Oh, ko bi bila Rezika moja!“ ...</p>
             <p n="SL-WIKI003731145">„Hahaha ... Se vedno si otročja!“</p>
             <p n="SL-WIKI003731146">„To bi bilo lepo, mislila sem si in sem to tudi Marjeti omenila, in ona mi je rekla: Pa jo imej!“</p>
             <p n="SL-WIKI003731147">„Hahaha ... Kaj pa bodeš ž njo?“</p>
@@ -1412,8 +1331,7 @@
             <p n="SL-WIKI003731169">In možu se vlijo solze po licih. Prsi mu je stiskala neznosna žalost, kakor bi se hotelo gorje vsega sveta podreti nad njim. Taval je po vrtu nemiren, kakor bi hotel komu odbežati. Ali te otožne misli se niso dale odgnati. Mučile so ga. In vstajalo je kesanje, bridko kesanje. Kesal se je za vse, kar je storil in kar ni storil. In neki glas mu je dejal, da bi bilo gotovo drugače, ako bi bil vzel ono Magdaleno namesto Maruše. S silo se je znebil te hudobne misli. Za skednjem se je vsedel na hlod, uprl roke ob kolena in naslonil na roke trudno, skrbi polno glavo. Kakšen bode konec? Ali bode kdaj boljše?</p>
             <p n="SL-WIKI003731170">„Ah, zakaj sem se oženil? Ah, zakaj sem varčeval? Zakaj nisem zapravljal? Zakaj sem vzel k sebi Ivana? Zakaj? Zakaj ni drugače? Ah, zakaj se je zagledal ravno v Magdalenino hči?“</p>
             <p n="SL-WIKI003731171">In zakril si je obraz z rokami.</p>
-            <p n="SL-WIKI003731172">„Ah, jaz sem jo tudi ljubil, toda preslepil me je denar. Polakomnil sem se, a sedaj je tako! Grozno je sicer, toda prav mi je! O, Ivan, Ivan! Denar ne prinese sreče! To izkušam. O, da bi nihče več ne tako! Ah, Ivan, ali mi moreš odpustiti? Ah, zakaj te nisem pustil <pb n="50"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-050.jpg"/> ondi na mirnem Visokem pri očetu, materi, bratih! Hoteč te osrečiti, vzel sem te k sebi, ko sam sebi sreče nisem znal nakloniti. Ivan, moj sin! Ko bi ti vedel, kako te ljubim! Haha! Bila je na božji poti. Kako lep izgovor! Dokler sem na Višavi jaz gospodar, nikdar ne pride njena Rezika sem. Upal sem, da bode boljše, toda ne zaslužim; pokorim naj se do smrti za lakomnost, lahkomiselnost.“</p>
+            <p n="SL-WIKI003731172">„Ah, jaz sem jo tudi ljubil, toda preslepil me je denar. Polakomnil sem se, a sedaj je tako! Grozno je sicer, toda prav mi je! O, Ivan, Ivan! Denar ne prinese sreče! To izkušam. O, da bi nihče več ne tako! Ah, Ivan, ali mi moreš odpustiti? Ah, zakaj te nisem pustil  ondi na mirnem Visokem pri očetu, materi, bratih! Hoteč te osrečiti, vzel sem te k sebi, ko sam sebi sreče nisem znal nakloniti. Ivan, moj sin! Ko bi ti vedel, kako te ljubim! Haha! Bila je na božji poti. Kako lep izgovor! Dokler sem na Višavi jaz gospodar, nikdar ne pride njena Rezika sem. Upal sem, da bode boljše, toda ne zaslužim; pokorim naj se do smrti za lakomnost, lahkomiselnost.“</p>
             <p n="SL-WIKI003731173">Iz teh mislij ga vzdrami ukanje. Povzdigne glavo. Noč je že razgrnila mehka krila po krajini. Mesec je poseval izza lahkih oblakov, tu in tam je zamigljala zvezdica. V dolih so vstajale meglice. Debeloglav je spoznal Ivana, ki je stal na robu, odkoder se je tako lepo gledalo v dolino. Ivan je bil obrnjen v ono stran, kjer se vije samotni jarek med griči. Debeloglav se je spomnil, da je nekdaj v lepih nočeh tudi sam postajal in posedal ondi in gledal tja doli.</p>
             <p n="SL-WIKI003731174">„Ivan, ti ljubiš. O, ljubezen si ne da ukazovati, pa se tudi ne ogoljufati. Proda se lahko, toda gorje, gorje! Ivan!“</p>
             <p n="SL-WIKI003731175">Ivan se vsede na tla in strmi tja v bajno noč, v dol, kjer je Samota. Ah, ničesar ni videl, po čemer je hrepenel, toda njegov duh je vasoval.</p>
@@ -1439,8 +1357,7 @@
             <p n="SL-WIKI003731195">Stari pogleda na tla, kakor bi hotel sesti, toda naenkrat se premisli in veli: „Spat pojdi, kaj sanjariš todi!“</p>
             <p n="SL-WIKI003731196">„Saj grem, lahko noč, oče!“</p>
             <p n="SL-WIKI003731197">Ivan brž odide, kakor bi se bal, da bi Debeloglav ne izvedel skrivnosti njegovega srca. Debeloglav gleda za njim in si misli:</p>
-            <p n="SL-WIKI003731198">„Zatajil si jo! Ah, kakor bi ne vedel, po kaj hodiš semkaj. Izkušenega človeka hočeš preslepiti? Ivan! Ivan! Morda je prav tako! Morda bi ti bil povedal več, kakor smeš vedeti. Bolje je, bolje, da ne veš, kako grdo je varal strijc svojo ljubico. Ti vidiš moje gorje in prav je, da ne veš odkod izvira, <pb n="51"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-051.jpg"/> dasi sem ti hotel povedati. Ah, kako me je nocoj vleklo k tebi, da bi si olajšal srce. A, ti si zatajil svojo ljubico. Zatajil sem jo bil tudi jaz.“ Pri tem spominu si zakrije obraz.</p>
+            <p n="SL-WIKI003731198">„Zatajil si jo! Ah, kakor bi ne vedel, po kaj hodiš semkaj. Izkušenega človeka hočeš preslepiti? Ivan! Ivan! Morda je prav tako! Morda bi ti bil povedal več, kakor smeš vedeti. Bolje je, bolje, da ne veš, kako grdo je varal strijc svojo ljubico. Ti vidiš moje gorje in prav je, da ne veš odkod izvira,  dasi sem ti hotel povedati. Ah, kako me je nocoj vleklo k tebi, da bi si olajšal srce. A, ti si zatajil svojo ljubico. Zatajil sem jo bil tudi jaz.“ Pri tem spominu si zakrije obraz.</p>
             <p n="SL-WIKI003731199">„Prav mi je! Bog me kaznuje. O, Ivan, da bi ti nikdar ne bil na mojem mestu!“ Debeloglav krene polagoma nazaj k hiši. A ubogega Ivana je pekla vest, ker je zatajil svojo ljubico. Huj, kako ga je to žgalo! Sramoval se je samega sebe.</p>
             <p n="SL-WIKI003731200">„Oj, oj, kaj si bode Marijanica mislila; ali ji bodem mogel pogledati v oči? Oj. oj, oj!“</p>
             <p n="SL-WIKI003731201">Že ga je nekaj vzdigovalo, da bi se vrnil k strijcu in mu priznal, da ljubi Marijanico iz Samote, toda živo mu je stopil pred oči oče, spomnil se je svoje obljube, in v ušesih so mu zvenele zadnje očetove besede:</p>
@@ -1464,8 +1381,6 @@
             <p n="SL-WIKI003731216">„O, stari, dolgo vas že ni bilo!“ Župnik mu pomakne stol.</p>
             <p n="SL-WIKI003731217">„Ni mi bilo mogoče. Po zimi sem bil betežen. Ej, naduha, naduha! Ta me ni pustila zdomi. Tudi še danes sem težko hodil, pa sem se vendar vzdignil do vas, ker nimam nobenega človeka, kateremu bi kaj zaupal, ki bi mi kaj svetoval. Kka, kha!“</p>
             <p n="SL-WIKI003731218">„E, veste Debeloglav, naduha se drži starosti. Po zimi se marsikaterega loti, pa sedaj, ko bode topleje, vam bode popolnoma odleglo.“</p>
-            <pb n="52"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-052.jpg"/>
             <p n="SL-WIKI003731219">„Kaj, naduha! Ta bi se še prenašala! Ta mi ne dela preglavice. Kka, kha, kha. Druge preglavice so, ki me tero. Oh, žena, žena.“</p>
             <p n="SL-WIKI003731220">„Z ženo se ne zastopita?“ začudi se župnik, odloži brevir in se vsede na stol nasproti Debeloglavu.</p>
             <p n="SL-WIKI003731221">„Ne zamerite mi, ker vas nadlegujem in dolgočasim s takimi rečmi. Jaz res nimam nikogar drugega. Zaupam vam svojo dušo, zaupam tudi svoje srce, svoje gorje.“</p>
@@ -1483,8 +1398,6 @@
             <p n="SL-WIKI003731233">„Prijatelj, vi ste dolžni poslušati želje svoje žene.“</p>
             <p n="SL-WIKI003731234">Debeloglav ga osupnjen pogleda.</p>
             <p n="SL-WIKI003731235">„In, ako vem, da bi ne bilo prav, kar hoče žena?“</p>
-            <pb n="53"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-053.jpg"/>
             <p n="SL-WIKI003731236">„Pregovorite jo! Dopovejte ji, da tako ni prav, kakor hoče ona!“</p>
             <p n="SL-WIKI003731237">„In, ako si ona dopovedati ne da? Kaj potem?“</p>
             <p n="SL-WIKI003731238">Nemir se je bral na kmetovem obrazu.</p>
@@ -1513,8 +1426,7 @@
             <p n="SL-WIKI003731261">„V imenu božjem!“</p>
             <p n="SL-WIKI003731262">Debeloglav odide.</p>
             <p n="SL-WIKI003731263">Z velikimi upi je spel v dolino. Nadejal se je, da mu župnik svetuje tako, kakor je hotelo Debeloglavovo srce, toda župnik mu je svetoval, kakor je moral. Nič kaj ni bil zadovoljen Debeloglav. Počasi je sopel, postajal, premišljeval in se glasno pogovarjal:</p>
-            <p n="SL-WIKI003731264">„O, ko bi ona pritegnila k pravici! Kako bi bilo prav. Pa naj bi jo vzel! Naj bi živel ž njo! Tudi dolžiti bi ne mogel nikogar, ako bi ne bilo vse prav. Breme, katero si človek oprta prostovoljno, nositi je mora molče. Oh, ko bi se dala ona pogovoriti! Pa kdo bi na to mislil? Nikoli! Nikoli! — Preveč sovraži Magdaleno. Oj, ko bi vedela, da po krivici! Ljubil sem jo, dokler nisem imel nje, a potem je nisem pogledal iz slabega namena. Hči je pa kakor mati. Saj ne pravim, da ima fant prav! Kaj morem jaz zato? Pa me vendar dolži. Kaj more fant zato? Srce sledi svojemu nagonu. Oh, ko bi si dala to dopovedati! Naj bi se njeni Reziki — Bog <pb n="54"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-054.jpg"/> ve, kakšna je ta príkazen — dalo nekaj stotakov, kot njen delež, nič bi ne dejal, pa naj bi ostala tam, kjer je, in se omožila, kamor bi hotela, nikoli bi ne vprašal za njo ... Toda kar polovico vsega, to vendar ne gre, in še fanta po vrhu, ko človek ne ve, ako sta drug za drugega in se marata. O, Bog jo razsvetli ... Moja žena je ... O, ko bi nikdar ne bila! Sovražiti jo, je greh, prepirati se ž njo, je greh. Moj Bog! Vi ste glava! Žena je več kakor fant.“</p>
+            <p n="SL-WIKI003731264">„O, ko bi ona pritegnila k pravici! Kako bi bilo prav. Pa naj bi jo vzel! Naj bi živel ž njo! Tudi dolžiti bi ne mogel nikogar, ako bi ne bilo vse prav. Breme, katero si človek oprta prostovoljno, nositi je mora molče. Oh, ko bi se dala ona pogovoriti! Pa kdo bi na to mislil? Nikoli! Nikoli! — Preveč sovraži Magdaleno. Oj, ko bi vedela, da po krivici! Ljubil sem jo, dokler nisem imel nje, a potem je nisem pogledal iz slabega namena. Hči je pa kakor mati. Saj ne pravim, da ima fant prav! Kaj morem jaz zato? Pa me vendar dolži. Kaj more fant zato? Srce sledi svojemu nagonu. Oh, ko bi si dala to dopovedati! Naj bi se njeni Reziki — Bog  ve, kakšna je ta príkazen — dalo nekaj stotakov, kot njen delež, nič bi ne dejal, pa naj bi ostala tam, kjer je, in se omožila, kamor bi hotela, nikoli bi ne vprašal za njo ... Toda kar polovico vsega, to vendar ne gre, in še fanta po vrhu, ko človek ne ve, ako sta drug za drugega in se marata. O, Bog jo razsvetli ... Moja žena je ... O, ko bi nikdar ne bila! Sovražiti jo, je greh, prepirati se ž njo, je greh. Moj Bog! Vi ste glava! Žena je več kakor fant.“</p>
             <p n="SL-WIKI003731265">Nasproti mu pride Ivan, ko je videl, da stari težko stopa v breg.</p>
             <p n="SL-WIKI003731266">„Oče, težko hodite? Opirajte se ob me!“</p>
             <p n="SL-WIKI003731267">Fant mu ponudi roko, katere se starec vesel oprime.</p>
@@ -1538,8 +1450,6 @@
             <p n="SL-WIKI003731285">„Kaj neki mi hoče? Zdi se mi, da bi nekaj rad povedal ali pa izvedel. Ej, pa ne bode nič. Jaz vem, da je treba molčati.“</p>
             <p n="SL-WIKI003731286">Marijanico tajiti mu ni bilo več težko.</p>
          </div>
-         <pb n="55"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-055.jpg"/>
          <div>
             <head>XVII. „Tvoja hči je!“</head>
             <p n="SL-WIKI003731287">Z Debeloglavom ni hotelo na bolje. Sicer je po leti še lazil okoli doma, toda za delo ni bil več. Eh, prehlajenje da včasih človeku, da ima zadosti, in ako ga potem še naduha pritisne in leta, ni čuda, da se sklone pod toliko težo. Debeloglav je bil že prileten; vsled žalosti in bolezni se je pa še hitreje staral. Piškavo jabolko tudi prej dozori kakor zdravo. S starim je šlo h koncu, česar pa nt skrival sebi niti drugim.</p>
@@ -1554,8 +1464,6 @@
             <p n="SL-WIKI003731296">Žena vzame stolček in sede k postelji, na kateri je sedel mož oblečen. Prime njegove vele roke in mu zre smehljajoč se v obraz.</p>
             <p n="SL-WIKI003731297">„Kaj ne, da si boljši? Ko bi vedel, kako se mi smiliš, ker že tako dolgo bolehaš! Pa sedaj ozdraviš, to se ti pozna.“ Mož pa je gledal v njene oči, kakor bi se hotel osvedočiti, kako daleč sme seči, koliko uspehov sme pričakovati. Trenoten smehljaj mu je zasijal na obrazu.</p>
             <p n="SL-WIKI003731298">„O, boljši bom, že veš, kdaj. Pa tudi ti prideš za menoj prej ali slej, ker starost se ne upira dolgo. Koraka v novo življenje se ni treba bati. Treba je pa vendar pred odhodom urediti vse, da ne nastanejo potem kake zmešnjave. Ti veš, kaj mi teži srce. Ti mi pomagaj olajšati bol, ki me že dolgo muči.“</p>
-            <pb n="56"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-056.jpg"/>
             <p n="SL-WIKI003731299">„O, vse, vse, karkoli poželiš, karkoli veliš, ti storim. Olajšaj si srce, in potem boš tudi lažje prenašal bolezen! O, ljubi moj mož, kako te imam rada!“</p>
             <p n="SL-WIKI003731300">In pogleda mu v obraz z očmi polnimi ljubezni, stisne njegovi roki in pritiska k njim svoja vela lica ter jih boža ž njimi kakor nekdaj, nekdaj. Žarek upanja posije v njegovo dušo in ga navda z novim pogumom.</p>
             <p n="SL-WIKI003731301">„Ah, ti veš, zakaj sem pripeljal Ivana na Višavo.“ Maruša se izdrsne pri teh besedah, kar je tudi on občutil, in strah se ji pokaže na obrazu.</p>
@@ -1582,8 +1490,7 @@
             <p n="SL-WIKI003731322">„Hahaha! Nikdar! Nikdar! Čuješ? Nikdar! Hči one čarovnice naj bi bila gospodinja na Višavi? Nikdar! Nikdar!“</p>
             <p n="SL-WIKI003731323">„Zakaj ne? Žena, umiri se! Premisli trezno! Kaj ti je storila Magdalena? Zakaj jo črtiš?“</p>
             <p n="SL-WIKI003731324">„Hahaha! Ti veš!“</p>
-            <p n="SL-WIKI003731325">„Kaj ti je storilo dekle, da jo sovražiš? Morda hoče Bog tako. Kdo ve? Morda bo <pb n="57"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-057.jpg"/> sreča za Ivana, ako jo dobi. Kdo ve? In tudi, če ne bo srečen v zakonu, ali bo mogel dolžiti tebe, mene, da sva mu midva vzrok nesreče? Izbira naj po svoji volji! Pusti mu to prostost! Morda pa nima on mlinarje ve Marijanice tako rad? Vprašal sem ga, če jo ljubi. Toda zvedel nisem. Morda si poišče drugo. Morda! Morda si izvoli tudi Glavanovo Reziko. Svetuj mu jo. In ako nima nič z ono deklico iz Samote, — mladina se včasih le kratkočasi —, morda vzame Reziko, ako mu jo svetuješ in ako je prikupljiva. Sicer se pa ljubezen ne da ukazovati! To pomisli, Mara!“</p>
+            <p n="SL-WIKI003731325">„Kaj ti je storilo dekle, da jo sovražiš? Morda hoče Bog tako. Kdo ve? Morda bo  sreča za Ivana, ako jo dobi. Kdo ve? In tudi, če ne bo srečen v zakonu, ali bo mogel dolžiti tebe, mene, da sva mu midva vzrok nesreče? Izbira naj po svoji volji! Pusti mu to prostost! Morda pa nima on mlinarje ve Marijanice tako rad? Vprašal sem ga, če jo ljubi. Toda zvedel nisem. Morda si poišče drugo. Morda! Morda si izvoli tudi Glavanovo Reziko. Svetuj mu jo. In ako nima nič z ono deklico iz Samote, — mladina se včasih le kratkočasi —, morda vzame Reziko, ako mu jo svetuješ in ako je prikupljiva. Sicer se pa ljubezen ne da ukazovati! To pomisli, Mara!“</p>
             <p n="SL-WIKI003731326">Maruša se zares zamisli.</p>
             <p n="SL-WIKI003731327">„Morda si izvoli Reziko.“</p>
             <p n="SL-WIKI003731328">To se ji je zazdelo mogoče.</p>
@@ -1607,8 +1514,6 @@
             <p n="SL-WIKI003731346">„O, sedaj vem! O, sedaj vem! O, prokleti slepar! Tvoja hči je!“</p>
             <p n="SL-WIKI003731347">Debeloglav odreveni. Žile na čelu se mu napnó. Oči obstoje in topo gledajo ženo.</p>
             <p n="SL-WIKI003731348">„Ha! Sedaj mi je jasno! Oh, oh, oh! Moj mož si bil, a z drugo si imel otroka. O, tvoja hči je, tvoja je, zato si dajal potuho fantu! Proklet si, ker si se pečal z drugo!“</p>
-            <pb n="58"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-058.jpg"/>
             <p n="SL-WIKI003731349">„Jaz? Jaz? Kaj si dejala?“ zastoče mož, kakor bi ječal pod težko grmado, ki ga žuga vsak hip streti. Z rokami tiplje okrog, kakor bi iskal opore. Ona stisne pesti, pomoli mu jih pod nos in ponovi s satansko zlobo:</p>
             <p n="SL-WIKI003731350">„Fantova deklina je tvoja hči!“</p>
             <p n="SL-WIKI003731351">Grozno sovraštvo je zvenelo iz njenega glasu.</p>
@@ -1634,8 +1539,6 @@
             <p n="SL-WIKI003731371">„Tu imaš!“ dahne nevoljen, ko skonča, in pahne papir pred njo. Zmagoslavno so zažarele njene oči.</p>
             <p n="SL-WIKI003731372">„Ali si pa res pisal, kakor sem velela? Preberi!“</p>
             <p n="SL-WIKI003731373">Kakor stroj brez lastne volje je vzel Debeloglav list in ji bral jecljajoč: Moj testament! V imenu Boga Očeta in Sina in svetega Duha. Amen. Pri popolnoma zdravi pameti in prostovoljno pišem ta testament, ki naj velja po moji smrti.</p>
-            <pb n="59"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-059.jpg"/>
             <p n="SL-WIKI003731374">1. Vse premakljivo in nepremakljivo premoženje zapuščam Ivanu Debeloglavu z Visokega, daljnemu svojemu sorodniku, ki sem ga vzel za svojega.</p>
             <p n="SL-WIKI003731375">2. Ta naj vzame za ženo Režo Glavanovo z Globokega, sorodnico moje žene.</p>
             <p n="SL-WIKI003731376">3. Ako bi se iz katerega koli vzroka ta dva ne hotela vzeti, pripade polovica vsega premoženja Rezi Glavanovi.</p>
@@ -1658,8 +1561,6 @@
             <p n="SL-WIKI003731393">„Odpusti! Janez, odpusti!“ vikne obupno, poklekne h postelji in zaihti.</p>
             <p n="SL-WIKI003731394">Njegovo dušo so pa polnile druge skrbi. Vstajala je bojazen, kaj prinese prihodnjost.</p>
          </div>
-         <pb n="60"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-060.jpg"/>
          <div>
             <head>XVIII. „Ti si kriva!“</head>
             <p n="SL-WIKI003731395">Čez nekaj dnij potem je zazvonilo zdolaj pri fari z vsemi.</p>
@@ -1674,8 +1575,7 @@
             <p n="SL-WIKI003731404">„Samo to te skrbi, samo to? Mislila sem, da imaš kaj drugega na srcu. Nisem li tvoja žena?“</p>
             <p n="SL-WIKI003731405">To očitanje ga je užalilo še bolj. Preslaboten je bil, da bi se ji uprl. Pogleda jo živo in ji zapreti:</p>
             <p n="SL-WIKI003731406">„Ta testament te bo še pekel. Tega si ti kriva! Ti! Ti! Tako si ti hotela!“</p>
-            <p n="SL-WIKI003731407">„To naj te ne skrbi!“ zavrne ga ona kljubujoč. On se je pa obrnil v stran in ji ni odgovoril. Gluh je bil za njen jok, gluh za njena vprašanja, neobčutljiv za njeno ljubezen in milo vanje. Hrepeneče se je oziral po sobi, kadar ni bilo v hiši Ivana. Vanj je imel uprte oči, kadar je sedel pri njem, z očmi je spremljal fantovo kretanje v sobi. A vendar je bil nemiren pri tem. Zdelo se mu je, kakor bi fantu storil krivico, katero mora, mora poravnati, ker se mu je zdelo, da sicer ne bo imel miru. Toda kako? Kako? Upiral je oči v strop, kakor bi iskal izhoda, rešilne poti. Z veseljem in hvaležnostjo bi pozdravljal najmanjši migljaj, najskromnejši žarek, ki bi mu posvetil iz teme. Z <pb n="61"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-061.jpg"/> rokami si je potegnil prek oči, kakor bi hotel strgati mreno, ki mu brani jasen pogled. A na to je očitajoč pogledal ženo, kakor bi ji grozil:</p>
+            <p n="SL-WIKI003731407">„To naj te ne skrbi!“ zavrne ga ona kljubujoč. On se je pa obrnil v stran in ji ni odgovoril. Gluh je bil za njen jok, gluh za njena vprašanja, neobčutljiv za njeno ljubezen in milo vanje. Hrepeneče se je oziral po sobi, kadar ni bilo v hiši Ivana. Vanj je imel uprte oči, kadar je sedel pri njem, z očmi je spremljal fantovo kretanje v sobi. A vendar je bil nemiren pri tem. Zdelo se mu je, kakor bi fantu storil krivico, katero mora, mora poravnati, ker se mu je zdelo, da sicer ne bo imel miru. Toda kako? Kako? Upiral je oči v strop, kakor bi iskal izhoda, rešilne poti. Z veseljem in hvaležnostjo bi pozdravljal najmanjši migljaj, najskromnejši žarek, ki bi mu posvetil iz teme. Z  rokami si je potegnil prek oči, kakor bi hotel strgati mreno, ki mu brani jasen pogled. A na to je očitajoč pogledal ženo, kakor bi ji grozil:</p>
             <p n="SL-WIKI003731408">„Ti! Ti! Ti si kriva!“ Čez nekaj časa pa je odsevala iz njegovih očij zopet iskrena prošnja:</p>
             <p n="SL-WIKI003731409">„Žena, usmili se me!“ Toda drug glas je kričal: „Preklici ta testament! Uniči ga! Pokliči može in narekuj nov testament ter razveljavi prvega! Ti si mož, glava, gospodar! Kaj ima ona govoriti pri tem? Njo poslušaš, njo? Ali si ti mož?“</p>
             <p n="SL-WIKI003731410">„Tvoja žena je!“ oglašal seje drug glas. „Dolžan si ustreči ženi. V miru se loči od nje! Saj jo poznaš, revica je. Otresti se ne more vraga, ki kraljuje v nji. Ne daj ji prilike, da bi te preklinjala v grobu in tako pogubila sebe! Ljubil si ženo, v miru in ljubezni se loči od nje! Dovolj si dal fantu, ker si mu zapisal polovico vsega, dasi ni imel nobene pravice. Ali ga nisi ljubil? Ali ga nisi obdaril? Saj ti ne veš, ljubi li ono Magdalenino hčer ali ne.“</p>
@@ -1692,8 +1592,6 @@
             <p n="SL-WIKI003731421">„Daj mi roko!“ veli starec s težavo. Ivan položi desnico v odprto bolnikovo roko.</p>
             <p n="SL-WIKI003731422">„O, da bi bil ti res moj sin!“ dahne starec in stiska s poslednjimi močmi mladeničevo roko, kakor bi mu hotel vtisniti vso iskreno ljubezen, ki jo je gojil zanj v svojem očetovskem srcu. Solze ljubezni so polzele po bolnikovem obrazu. Solze so iskrile v mladeničevih očeh vzpričo te ljubezni. Neznana otožnost se je lotila mladeniča, ko se je tako poslavljal od nekoga, ki je bil zanj samo ljubezen. Živa ljubezen je bežala od njega v neznane kraje. Starec je nekaj časa motril mladeniča, in pri tem so mu bolj in bolj vrele solze.</p>
             <p n="SL-WIKI003731423">„Ivan, jaz sem te ljubil! Odpusti mi, odpusti!“</p>
-            <pb n="62"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-062.jpg"/>
             <p n="SL-WIKI003731424">„Odpustite mi vi, oče, ako sem vas žalil! Ljubil sem vas vedno kot lastnega očeta! Vi mi odpustite! Ne imejte žale misli o meni!“</p>
             <p n="SL-WIKI003731425">Ivan se sklone še bolj, poljubi starčkovo roko in jo moči s svojimi solzami. Starec zaihti. Prsi so se mu vzdigovale. Obupni glasovi so se trgali iz prsij, vroče solze so se mu vlivale iz očij. S poslednjo silo potegne mladeniča k sebi, da se z glavo dotakne njegove glave, da ga poljubi v slovo. A na to, kakor bi hotel odvaliti breme, ki ga je tiščalo, zakriči, da je obupno odmevalo po hiši:</p>
             <p n="SL-WIKI003731426">„Da, ti si me ljubil, a jaz, jaz sem te izdal! Odpusti!“</p>
@@ -1701,8 +1599,7 @@
             <p n="SL-WIKI003731428">„Ivan, odpusti mi. Testament ...“</p>
             <p n="SL-WIKI003731429">Sedaj se Maruši zasveti.</p>
             <p n="SL-WIKI003731430">„Hahaha! Testament! Testament!“</p>
-            <p n="SL-WIKI003731431">Zakrohota se zlobno in odrine mladeniča od postelje in stopi med Ivana in moža. <pb n="63"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-063.jpg"/> Ivan ves začuden pogleda Marušo, a ona zapiči oči v bolnika, da mu je zastala beseda, ki jo je imel na jeziku. Debeloglav milo pogleda Ivana, kakor bi jemal slovo in prosil odpuščanja. Ko pa pogleda ženo, šine mu izraz zaničevanja preko obraza in bolesten krik se mu izvije:</p>
+            <p n="SL-WIKI003731431">Zakrohota se zlobno in odrine mladeniča od postelje in stopi med Ivana in moža.  Ivan ves začuden pogleda Marušo, a ona zapiči oči v bolnika, da mu je zastala beseda, ki jo je imel na jeziku. Debeloglav milo pogleda Ivana, kakor bi jemal slovo in prosil odpuščanja. Ko pa pogleda ženo, šine mu izraz zaničevanja preko obraza in bolesten krik se mu izvije:</p>
             <p n="SL-WIKI003731432">„Ti! ... Ti si kriva!“</p>
             <p n="SL-WIKI003731433">Grozno so zvenele po sobi obupne besede, kakor bi klicale maščevanja. Ivana zaboli v srcu, ker je začutil vso neznano bolest, ki je mučila bolnika. Zasmili se mu in vroče solze se mu uderd. Stopi k postelji, da bi zvedel ono skrivnost, ki mu jo je hotel zaupati bolnik. Zdelo se mu je, kakor bi ne imel nikdar miru, ako ne izve skrivnosti, kojo je imel bolnik na srcu. Toda Maruša ga pahne od postelje in se osorno obregne:</p>
             <p n="SL-WIKI003731434">„Kaj mu težiš zadnje ure? Prej si mu grenil življenje in še sedaj ne miruješ. Poberi se!“</p>
@@ -1710,8 +1607,7 @@
             <p n="SL-WIKI003731436">„Kaj te tako skrbi testament? Jaz ga imam. Vidiš?“ Rekoč potegne iz žepa ključ in mu ga pokaže.</p>
             <p n="SL-WIKI003731437">„Meni kaj naroči! Ali nisem tvoja žena?“</p>
             <p n="SL-WIKI003731438">„Ah!“ zastoče Debeloglav iz globočine. Izraz največjega obžalovanja je spremljal ta vzdihljaj, kakor bi mož obžaloval vse življenje. Ta hip je začutil grozno bolest, in obšla ga je želja, da bi bil rešen teh neznosnih muk. Obšlo ga je spoznanje, da nima ničesar več na svetu, da je tukaj odveč, da mora od tod čim preje tem bolje. Zaželel si je, da bi prišla smrt in ga objela z onimi belimi, koščenimi rokami, da bi ga že skoraj pritisnila na prsi, da bi ne mogel več dihati, da bi več ne videl ljudi, med katerimi živi, ki so se mu pristudili vsi, vsi, a najbolj ona, ki mu je bila žena. Nič več je ni hotel pogledati ne govoriti ž njo. Zamižal je in čakal smrti hrepeneče, in njegova duša je vpila:</p>
-            <p n="SL-WIKI003731439">„Otmi me! Otmi me!“ Življenje na zemlji mu je zamrzelo. <pb n="64"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-064.jpg"/> Zastonj je jokala Maruša ob postelji, zastonj je čakala, kdaj jo mož pogleda, zastonj je napenjala ušesa, da bi ujela njegovo besedo. Bolnik je ležal mirno. Od ure do ure se mu je slabšalo. Vzdih za vzdihom se je izvijal iz njegovih prsij, kakor bi si duša trebila pot iz telesa. Ničesar ni več potreboval. Vsega je prevzelo hrepenenje po rešitvi. In prišla je težko pričakovana rešiteljica. Dahnila je ledene sape v bolnega moža, da je zatrepetal. Dve solzi mu potečeta po bledih licih.</p>
+            <p n="SL-WIKI003731439">„Otmi me! Otmi me!“ Življenje na zemlji mu je zamrzelo.  Zastonj je jokala Maruša ob postelji, zastonj je čakala, kdaj jo mož pogleda, zastonj je napenjala ušesa, da bi ujela njegovo besedo. Bolnik je ležal mirno. Od ure do ure se mu je slabšalo. Vzdih za vzdihom se je izvijal iz njegovih prsij, kakor bi si duša trebila pot iz telesa. Ničesar ni več potreboval. Vsega je prevzelo hrepenenje po rešitvi. In prišla je težko pričakovana rešiteljica. Dahnila je ledene sape v bolnega moža, da je zatrepetal. Dve solzi mu potečeta po bledih licih.</p>
             <p n="SL-WIKI003731440">„Mrtev!“ vikne Maruša obupno in se zgrudi na mrtvo truplo. Njeno dobro srce je sedaj zmagalo demona, ki jo je dotlej dušil, narekoval ji besede, vodil njene misli in poglede. Solze kesanja so kapale na mrtvo moževo truplo.</p>
             <p n="SL-WIKI003731441">„Mrtev!“ Nič več ni videl njenega kesanja. Njegova duša se je veselila osvobojenja. Položili so mrtvo telo na oder. Ljudje so prihajali kropit, in dolga vrsta prijateljev in znancev je spremila telesne ostanke na pokopališče. Otožno je stopal za krsto Ivan in vso dolgo pot se mu je zdelo, da nesó tudi nekaj njegovega na pokopališče, da bodo nekaj zakopali, kar bo še potreboval, in ves čas je mislil:</p>
             <p n="SL-WIKI003731442">„Kaj neki mi je hotel povedati?“ Nihče mu ni mogel dati pojasnila. Ko je pa videl Marušo vso strto in skesano, ga ni obšlo sočutje, ker se mu je zdelo, da ona pozna skrivnost rajnega.</p>
@@ -1727,8 +1623,7 @@
             <p n="SL-WIKI003731449">Pregrešno se mu je zdelo potopiti žalost v radosti in izročiti ljube spomine za dragim pokojnim dobrotnikom pozabljivosti, dasi je dobro vedel, kje bi našel radosti in veselja.</p>
             <p n="SL-WIKI003731450">„Marijanica, skoraj bodeš moja ženka, in potem bodem zopet srečen, tako srečen ... Ej, prišla bo urica, ko moja boš, ljubica!“</p>
             <p n="SL-WIKI003731451">Tako je tešil srce, ki ga je vleklo doli v Samoto. V tej puščobi na Višavi, ki ga je trla po smrti Debeloglava, krepila ga je zavest, da je sedaj prost, svoboden in neomejen gospodar Višave. Njegove oči so zrle ponosno po brdu in merile njive in travnike ter štele jelovje. V duhu je precenjeval, koliko bi bilo vse premoženje vredno, in zadovoljen je bil ob svojih računih. Sedaj je pač začutil, kako je navezan na ta svet, kako se mu je priljubilo bogastvo, kako nesrečen bi bil, ako bi moral sedaj vse to popustiti, in hvaležen je bil očetu, ko se je spomnil, da mu je on pripomogel do bogastva.</p>
-            <p n="SL-WIKI003731452">„Očka moj, ti bodeš z menoj zadovoljen. Ubogal sem te. Most do sreče stoji, bogastvo <pb n="65"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-065.jpg"/> je moje in Marijanica. O, ko jo bodeš spoznal! Vesel je bodeš in ponosen name, ki sem si jo izbral.“</p>
+            <p n="SL-WIKI003731452">„Očka moj, ti bodeš z menoj zadovoljen. Ubogal sem te. Most do sreče stoji, bogastvo  je moje in Marijanica. O, ko jo bodeš spoznal! Vesel je bodeš in ponosen name, ki sem si jo izbral.“</p>
             <p n="SL-WIKI003731453">Maruša je bila čmerikava. Zdihovala je po kotih, poklekovala in ihtela za rajnim.</p>
             <p n="SL-WIKI003731454">„Odpusti!“ Kakor bi ji ležal težak kamen na srcu, tiščala jo je zavest, da se je mož z nevoljo v duši ločil od nje, ta dobri, prizanesljivi mož, ki je potrpežljivo prenašal vse muke, ki mu jih je prizadevala tolikrat njena strastna ljubosumnost. Ej, in ako ga je sumila po krivici! Kdo ve? Kdo ve? O, ko bi vedela resnico! In to je peklo! To je bolelo, to jo je težilo, a tudi solze niso mogle olajšati njenega trpljenja, izbrisati nesrečnih spominov. Molila je za svoje spokorjenje, za odpuščanje svojih grehov, ker se ji je zdelo, da mož ne potrebuje njene molitve, da se je dovolj spokoril na zemlji, saj ga je mučila leta in leta, morda po krivici. O, ko bi vsaj to vedela! Nikogar ni imela več na Višavi, ki bi ga ljubila, in grozno se ji je zdelo v tej samoti. Nekaj je morala imeti, česar bi se oklenilo njeno srce, ker sicer se ji je zdelo, da mora obupati vsled osamelosti. Toda onega, ki bi mogla in morala imeti rada — Ivana, tega ni mogla imeti, temu ni mogla zaupati, tega se je bala. Zakaj slutila je, da ga še nekaj veže na Samoto, in ta slutnja je vzbujala zopernost, na drugi strani pa je čutila, da mu je storila krivico. Rajni mož mu je hotel zapustiti vse premoženje, a ona mu ga je polovico odjedla; mož mu je hotel pustiti svobodo pri izbiranju neveste, a ona se je upirala mladeničevemu nagnjenju. Ali je imela pravico, usiljevati mu nevesto?</p>
             <p n="SL-WIKI003731455">Veliki so bili ti dvomi. Zahrepenela je po Reziki. Zdelo se ji je, da najde pri njej utehe, da se okrepi ob njenih krepostih. Zdelo se ji je predolgo, da bi čakala osmine, ob katerej se snide vsa žlahta na Višavi, kakor je navada. Sama ni mogla po njo, zato je nekega dne v mraku drsala v dolino tja v Hudo luknjo, v bajto Kokotove Jere.</p>
@@ -1750,8 +1645,6 @@
             <p n="SL-WIKI003731471">„O, križ božji, tvoja? Tvoja, pa jaz nisem vedela ničesar? O, ti hinavka, ti ...“</p>
             <p n="SL-WIKI003731472">„Jaz? Kaj pa misliš? Ali bi mi rada kaj v oči vtikala, kali? Ne boš! Mi nimaš za kaj! Da, vidiš! Samo mdlči, to ti povem!“</p>
             <p n="SL-WIKI003731473">„Pri meni je pa res treba oprezovati, kakor bi bila jaz taka klepetulja. Maruša, nič te nimam rada, ker mi ne zaupaš vsega! Ali ne molčim kakor grob?“</p>
-            <pb n="66"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-066.jpg"/>
             <p n="SL-WIKI003731474">„Veš, molčati moramo. Pa ti vendar povem. Moja Rezika je sestrina hči, pa naša — nevesta. Veš, za našega fanta sem jo izbrala.“ Jera poskoči pri teh besedah.</p>
             <p n="SL-WIKI003731475">„Še jedenkrat mi povej: fantova nevesta je?“</p>
             <p n="SL-WIKI003731476">„I, seveda, saj veš, da ne moremo biti tako.“</p>
@@ -1777,8 +1670,7 @@
             <p n="SL-WIKI003731496">„Nikoli še ne! Bog zna, odkod je?“</p>
             <p n="SL-WIKI003731497">„Z našo staro se poznata; saj si videl, kako jo je pozdravila. Bo že tam odkod iz njenih krajev.“</p>
             <p n="SL-WIKI003731498">„Misliš morda od žlahte!“</p>
-            <p n="SL-WIKI003731499">„Kajpak od žlahte! No, veš kaj, všečen nisem, tudi nisem še slišal, da bi se ženske kdaj pričkale zaradi mene, pa te, te prikazni <pb n="67"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-067.jpg"/> bi pa vendar ne vzel, kakor gotovo sem Jurij.“</p>
+            <p n="SL-WIKI003731499">„Kajpak od žlahte! No, veš kaj, všečen nisem, tudi nisem še slišal, da bi se ženske kdaj pričkale zaradi mene, pa te, te prikazni  bi pa vendar ne vzel, kakor gotovo sem Jurij.“</p>
             <p n="SL-WIKI003731500">„Jaz bi tistega tudi rad poznal!“ nasmehne se Ivan in se z roko podrgne po hrbtu, kakor bi hotel pregnati mraz, ki ga je obšel ob njenem pogledu. Toda še istega večera je Ivan zvedel, komu je korenjaška Reza namenjena. Povečerjali so bili. Pri večerji sta se Ivan in Jurij ves čas suvala pod mizo, in dobrodušni Jurij se ni mogel vzdrževati, vedno mu je uhajal smeh, da ga je Maruša svarila:</p>
             <p n="SL-WIKI003731501">„Klada stara, kaj se režiš, kakor cigan belemu kruhu! Ti!“ Ivan si je grizel ustnice.</p>
             <p n="SL-WIKI003731502">Po večerji se je hotel hkrati z Jurijem posloviti od sklede, toda Maruša ga je potisnila nazaj, rekoč:</p>
@@ -1798,8 +1690,7 @@
             <p n="SL-WIKI003731516">„Tvoja nevesta je! Maraj jo sedaj ali ne! Tvoja bo, nič se je ne brani! Jaz sem ti jo izbrala.“</p>
             <p n="SL-WIKI003731517">„Pa jo vi imejte! Nevesto si bom že sam izbral!“ Pobere klobuk in se pokrije. Ej, kako je kipelo vse po njem! Zavedel se je bil šele prostosti, a tu ga hoče že nekdo ukovati v verige, in v take!</p>
             <p n="SL-WIKI003731518">„Teta, spoštujem vas, toda prostosti vzeti si ne dam. Sedaj sem jaz gospodar, svoboden sem in nevesto si poiščem sam. To, to pa posilite komu drugemu!“ Pogleda jo zaničljivo in gre.</p>
-            <p n="SL-WIKI003731519">„Hahaha“, zakrohota se Maruša. „O, ti ček, ti bodeš še krotak! O, le čakaj, sedaj je šele dobro jutro. O, te bomo že še oštrkali!“ Reziki se je mladenič, ki jo je tako predrzno odklonil, zameril. Oči ji zaplamte, kakor <pb n="68"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-068.jpg"/> blisk za gorami, obrvi vstanejo, in v rokah se zgane spavajoča moč, da zatrepetajo, da se krive“ prsti in zgibajo v trdo pest. Zaigralo je v njej veselje pokazati svojo moč in se maščevati.</p>
+            <p n="SL-WIKI003731519">„Hahaha“, zakrohota se Maruša. „O, ti ček, ti bodeš še krotak! O, le čakaj, sedaj je šele dobro jutro. O, te bomo že še oštrkali!“ Reziki se je mladenič, ki jo je tako predrzno odklonil, zameril. Oči ji zaplamte, kakor  blisk za gorami, obrvi vstanejo, in v rokah se zgane spavajoča moč, da zatrepetajo, da se krive“ prsti in zgibajo v trdo pest. Zaigralo je v njej veselje pokazati svojo moč in se maščevati.</p>
             <p n="SL-WIKI003731520">Zamahne z rokami in reče: „Teta, ali ga čem? Bo videl!“</p>
             <p n="SL-WIKI003731521">Maruša jo prime in tolaži: „Rezika, nikar, prezgodaj je še! Telička se mora najprej ugnati v hlev, potlej se ga pa strahuje.“</p>
             <p n="SL-WIKI003731522">„To bi ga!“ „Ta bo še krotak. O, le naj leta še sedaj, dokler je prost, potem bo druga, zakaj ti si dekle!“</p>
@@ -1807,8 +1698,6 @@
             <p n="SL-WIKI003731524">„Rezika, medve bodeva jedno, naj pride karkoli.“</p>
             <p n="SL-WIKI003731525">„Cmak! Cmak!“</p>
          </div>
-         <pb n="69"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-069.jpg"/>
          <div>
             <head>XX. „Zvest do konca!“</head>
             <p n="SL-WIKI003731526">Ivan je bil ves razburjen. Zdelo se mu je, kakor bi se bil ravnokar ognil groznega propada, v katerega ga je hotel nekdo pahniti in ugonobiti. Kri mu je gomezela po vsem životu, v srcu se je kuhalo sovraštvo do onih, ki so mu hoteli vzeti zlato prostost. Pritiskal je roko na prsi, tipal se po glavi, po nogah, po rokah in po vsem životu, kakor bi se hotel prepričati, je li še cel, zdrav in prost. In oddahnil se je potem, kakor oni, ki se je rešil smrtne nevarnosti ...</p>
@@ -1830,8 +1719,6 @@
             <p n="SL-WIKI003731542">„Ženiti? ... Tebe?“ začudi se Marijanica.</p>
             <p n="SL-WIKI003731543">„O, saj sem vedela!“ pravi Magdalena.</p>
             <p n="SL-WIKI003731544">„In kakšno mi je pripeljala!“ ...</p>
-            <pb n="70"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-070.jpg"/>
             <p n="SL-WIKI003731545">Ivan je pripovedoval vse natančno, da se je Marijanica zares prisrčno smejala, ko je opisoval svojo novo nevesto. Magdalena pa je osupnila. Temen oblak črnih slutenj je objel njeno dušo. — Videla je vstajati nevarnost, ki žuga razdreti njene načrte. A ona se je hotela maščevati nad njo, ki jo je izpodrinila, ki jo je pripravila ob Višavo. V duhu je gledala hčerko na Višavi in ob tej sliki se je radovala nje materinska duša, trepetalo je veselja njeno srce. A sedaj pride ta zlonosna Maruša in podira to krasno sliko! Sovraštvo je vstajalo v Magdalenini duši, srce se je napajalo jeze, drgetala je v strahu za svoje načrte.</p>
             <p n="SL-WIKI003731546">„Pa ti našo Marijanico res ljubiš?“ vpraša Magdalena mladeniča in ga pogleda ostro, kakor bi hotela prodreti na dno njegovega srca, v skrajni kotiček njegove duše.</p>
             <p n="SL-WIKI003731547">„Vi dvomite? Ljubim, ljubim jo!“ krikne mladenič. Starkino vprašanje ga je speklo. Pogleda Marijanico, kakor bi se hotel prepričati, ako tudi ona dvomi o njegovi ljubezni. Njen obraz oblije rudečica, in nevoljno pogleda mater. A ona je bila hladna, ter je nadaljevala:</p>
@@ -1851,17 +1738,12 @@
             <p n="SL-WIKI003731561">Deklica zarudi, pogleda mater, da vidi, kaj se zrcali v njenih očeh ter objame Ivana rekoč: „Tvoja sem!“</p>
             <p n="SL-WIKI003731562">Z veliko zadovoljnostjo je motrila starka oba, in črne slutnje, ki so bile objele njeno dušo, so bežale.</p>
             <p n="SL-WIKI003731563">„Kaj pa bode tista Rezika počela, ker je ne maraš?“</p>
-            <pb n="71"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-071.jpg"/>
             <p n="SL-WIKI003731564">„O, ta ga ne dobi!“ ... Magdalena je zaupala mladeniču. Njegova odkritosrčnost, s katero je izražal svoj gnus do one, ki jo je izbrala Maruša, odgnala je vse dvome. Mladeničeva odločnost je premagala vse težke slutnje ... Z veselim obrazom je opazovala mladeniča, ki je sedel poleg njene hčerke, in si je mislila:</p>
-            <p n="SL-WIKI003731565">„Ah, kako so čudna pota božja! Kar meni ni bilo usojeno, usojeno je moji hčeri ... Ah, kako me je bil prevaral! Vzel je bil drugo, meneč, da bode srečen, toda, uh, groze! ... <pb n="72"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-072.jpg"/> sam je ostal poleg žene, a tisti, ki si ga je izbral za naslednika, izvolil si je mojo hčer. Hahaha ... Jaz sem zadovoljna.. Božja volja je. O, ta Maruša se bode grizla in jaz ... jaz se ji bodem smejala v zobe, kadar bodem obiskala hčerko, in hahaha ... morda bode sedaj na starost Maruša zibala — pa ne kakor je hrepenela, svojih, marveč — otroke moje hčere ... hahaha ... Bog daj!“</p>
+            <p n="SL-WIKI003731565">„Ah, kako so čudna pota božja! Kar meni ni bilo usojeno, usojeno je moji hčeri ... Ah, kako me je bil prevaral! Vzel je bil drugo, meneč, da bode srečen, toda, uh, groze! ...  sam je ostal poleg žene, a tisti, ki si ga je izbral za naslednika, izvolil si je mojo hčer. Hahaha ... Jaz sem zadovoljna.. Božja volja je. O, ta Maruša se bode grizla in jaz ... jaz se ji bodem smejala v zobe, kadar bodem obiskala hčerko, in hahaha ... morda bode sedaj na starost Maruša zibala — pa ne kakor je hrepenela, svojih, marveč — otroke moje hčere ... hahaha ... Bog daj!“</p>
             <p n="SL-WIKI003731566">Magdalena vstane in stopi k njima.</p>
             <p n="SL-WIKI003731567">„Otroka, ljubita se pošteno! Ljubezen je vaju združila, ljubezen vaju bode zvezala, ljubezen naj vaju vodi! Ostanita si vedno zvesta!“</p>
             <p n="SL-WIKI003731568">„Zvest do konca!“ vikne Ivan.</p>
             <p n="SL-WIKI003731569">„Tvoja do groba!“ dahne Marijanica in se privije k njemu. Magdalena pa povzdigne svojega duha k Bogu, in iskrena molitev za srečo obeh zapuhti k Vsemogočnemu.</p>
-            <pb n="73"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-073.jpg"/>
             <p n="SL-WIKI003731570">Mirnim srcem je motril drugega dne Ivan Glavanovo Reziko. Smejal se ji je, a na jeziku je vedno bilo vprašanje:</p>
             <p n="SL-WIKI003731571">„Le kdo te bode pobral?“ Njegova radovednost je bila velika.</p>
          </div>
@@ -1899,8 +1781,7 @@
             <p n="SL-WIKI003731601">„Moj Bog, kakšna sem! Same žalosti sem vsa zmešana. Sedite vendar, sedite! Nikar mi danes ne zamerite, saj vidite, kako je“, izgovarja se Maruša.</p>
             <p n="SL-WIKI003731602">„Lačni ste in trudni, jaz vas pa tukajle gledam in stojim. O moja glava!“</p>
             <p n="SL-WIKI003731603">„Maruša, nikar ne skrbi! I, kdo bi zmeraj jedel! Nič ne nosi!“</p>
-            <p n="SL-WIKI003731604">„Kar mora biti, pa mora biti! Kaj bi si mislil rajni, ako bi njegovi žlahti ne postregla! <pb n="74"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-074.jpg"/> Vedno smo si bili dobri, pa bi si sedaj ne bili? — Sedite no, sedite!“</p>
+            <p n="SL-WIKI003731604">„Kar mora biti, pa mora biti! Kaj bi si mislil rajni, ako bi njegovi žlahti ne postregla!  Vedno smo si bili dobri, pa bi si sedaj ne bili? — Sedite no, sedite!“</p>
             <p n="SL-WIKI003731605">„Jej, saj si nam že toliko dobrega storila, kakor za Bogom še nihče na svetu. Fanta si nam odredila“, pravi Beligojka.</p>
             <p n="SL-WIKI003731606">„Ivana? O saj je sam rastel! Rad me je ubogal, pa sva bila prijatelja. Kaj ne, Ivan?“ Maruša se nekoliko nasmehne in pogleda od strani Ivana, ki prikima in zarudi.</p>
             <p n="SL-WIKI003731607">„Pa se kaj pomenite!“ Maruša zdrsne iz hiše v kuhinjo. Ivan je izpraševal, kako je na Visokem, ter pripovedoval o življenju na Višavi in bolezni stričevi.</p>
@@ -1935,8 +1816,6 @@
             <p n="SL-WIKI003731636">„Njegovo? Pa res?“ vpraša Beligojka, ker se ne more več premagati.</p>
             <p n="SL-WIKI003731637">„Njegovo, ako bode le hotel“, nadaljuje Maruša.</p>
             <p n="SL-WIKI003731638">„Ej, rajni ga je imel rad, kakor bi bil njegova kri.“</p>
-            <pb n="75"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-075.jpg"/>
             <p n="SL-WIKI003731639">„I, menda se ne bode branil, ni šment“, reče Beligoj.</p>
             <p n="SL-WIKI003731640">„Jaz tudi mislim, da ne. Kolikor vem, je volja rajnega, da je Ivan gospodar, pa nihče drugi. Pa tudi moja volja je, zakaj tudi jaz sem ga imela rada Ivana in še ga bodem imela, ako bode ubogal.“</p>
             <p n="SL-WIKI003731641">„I, zakaj bi pa ne? Ako sta se doslej razumela, bosta se tudi poslej.“</p>
@@ -1972,8 +1851,6 @@
             <p n="SL-WIKI003731671">„Te Ivan nikoli ne bode vzel, da veš, akoravno si mu jo ti izbrala, saj rajni vem, da mu je ni.“</p>
             <p n="SL-WIKI003731672">„Bomo videli, kdo mu jo je izbral. Kaj ni postavno dekle?“</p>
             <p n="SL-WIKI003731673">„To? Ha-ha-ha! Bog me ne kaznuj! Ej, Maruša, saj to ni dekle! To je zmene! Ha-ha-ha!“</p>
-            <pb n="76"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-076.jpg"/>
             <p n="SL-WIKI003731674">Beligojka prikima.</p>
             <p n="SL-WIKI003731675">„Kaj si dejal?“ zavrišči Maruša in plane proti njemu. Oči so se ji bliskale jezno, da je kar pihala.</p>
             <p n="SL-WIKI003731676">„Ta tvoja Rezika, to zmene, nikoli ne bode žena Ivanova!“</p>
@@ -1989,8 +1866,6 @@
             <p n="SL-WIKI003731686">„Meni ni bila prav nič všeč.“</p>
             <p n="SL-WIKI003731687">„Tako podrešetovje? Ostala je — in teta Maruša bi jo sedaj rada obesila našemu fantu. Dobra tetka si bode morala poiskati že druzega. Ivan ni namenjen tej rožici!“</p>
          </div>
-         <pb n="77"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-077.jpg"/>
          <div>
             <head>XXII. „O ta testament!“</head>
             <p n="SL-WIKI003731688">Ej, kako je zvonilo zopet v Velikih Lazih! Farni zvonovi so peli počasi in slovesno, zvončki sv. Ane so pa hiteli bingelbangel, kakor bi komaj čakali novega gosta na pokopališču. Osmina je bila za Debeloglavom. Prišli so mu izkazat zadnjo čast domači, prijatelji in znanci. Oblečeni so bili črno in se držali resno, prebirali so molke, gibali z ustnicami in mislili nase. Maruša je pa molila vzdihujoč in solzeč se, kakor to znajo stare vdove. Med mašo so se njeni glasni vzdihi topili v bučanju orgel, a Rezika, ki je sedela poleg nje, jih je vendar dobro razločila, in se — smejala. In ko so šli po maši kropit grob in molit za pokoj rajnikove duše, padla je Maruša ondi strta na kolena, zgrudila se na pete, priklonila h grobu in jokala glasno ter vpila, kakor bi hotela rajnega obuditi.</p>
@@ -2004,8 +1879,7 @@
             <p n="SL-WIKI003731696">Polna hiša jih je bilo; staknili so mize, da so se razvrstili okrog njih. Maruša in Rezika sta pa nosili na mizo razne vrste kruha, ki sta ga bili napekli med tednom, in pijače, domačega vina, domačega žganja, da si vsak izbere po svoji volji in po svojem okusu. Zupan je odmolil za pokoj rajnega, in potem so segli po kruhu in pijači.</p>
             <p n="SL-WIKI003731697">„Bog mu daj večni mir! Bog mu daj večno luč!“</p>
             <p n="SL-WIKI003731698">S temi besedami so napijali.</p>
-            <p n="SL-WIKI003731699">„Bog te usliši!“ Pri pijači pa kmalu pridejo tudi na druge stvari. Hvaleč rajnega, začnó govoriti o gospodarstvu, <pb n="78"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-078.jpg"/> o voleh in kravah in prešičih. In o teh stvareh se je razgovor dalje razpredel. Nekateri so zrli na Ivana kot bogatega dediča, in v srcih je vstajala zelena zavist. Ivan je sedel poleg očeta. Nevolja se mu je zrcalila na obrazu, ko je gledal sebi nasproti Reziko, ki je, režeč se, otepala kruh, da so kar drobtine letele okoli nje, pa tudi pijače ni pustila v kozarcu, kadar je prišel do nje, saj je bila dekle, ki se ni bala nikogar, najmanj pa kozarca pijače. Kako je po pijači lahko vriskala!</p>
+            <p n="SL-WIKI003731699">„Bog te usliši!“ Pri pijači pa kmalu pridejo tudi na druge stvari. Hvaleč rajnega, začnó govoriti o gospodarstvu,  o voleh in kravah in prešičih. In o teh stvareh se je razgovor dalje razpredel. Nekateri so zrli na Ivana kot bogatega dediča, in v srcih je vstajala zelena zavist. Ivan je sedel poleg očeta. Nevolja se mu je zrcalila na obrazu, ko je gledal sebi nasproti Reziko, ki je, režeč se, otepala kruh, da so kar drobtine letele okoli nje, pa tudi pijače ni pustila v kozarcu, kadar je prišel do nje, saj je bila dekle, ki se ni bala nikogar, najmanj pa kozarca pijače. Kako je po pijači lahko vriskala!</p>
             <p n="SL-WIKI003731700">„Namesto Marijanice naj vzamem to, to? Haha! Nikoli! Nikoli!“ grozil se je Ivan v srcu in se srdil na Reziko in na Marušo, ki mu jo je izbrala. Takrat sta jo pa opazovala tudi Ivanov oče in mati, in oba sta bila enih mislij, da si je ne želita za sinaho.</p>
             <p n="SL-WIKI003731701">„To prikazen naj vzame moj sin?“ mislil si je Beligoj.</p>
             <p n="SL-WIKI003731702">„To naj ljubi?“ mislila si je mati.</p>
@@ -2030,8 +1904,6 @@
             <p n="SL-WIKI003731721">„Tako se ne ženi!“ zavrne jo Beligoj.</p>
             <p n="SL-WIKI003731722">„Se pa tako! Beri naprej!“ veli Maruša. Župan pa bere počasi.</p>
             <p n="SL-WIKI003731723">„Ako bi se iz katerega koli vzroka ta dva ne hotela vzeti, pripade polovica vsega premoženja Rezi Giavanovi.“</p>
-            <pb n="79"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-079.jpg"/>
             <p n="SL-WIKI003731724">„Ali razumete? Hahaha!“ zakrohota se Maruša in položi roke Reziki na rame.</p>
             <p n="SL-WIKI003731725">„Ali ni dovolj bogata?“</p>
             <p n="SL-WIKI003731726">„Pa je vendar ne maram!“ vikne Ivan in skoči kvišku. Beligoju je bilo, kakor bi ga bil kdo polil z mrzlo vodo.</p>
@@ -2070,8 +1942,6 @@
             <p n="SL-WIKI003731759">„Rajni ni bil slab človek, dober mož je bil in previden, pa takrat, ko je pisal testament, ni bil. Pa saj vemo, da gorje mu, kdor ima zlo žensko. In Maruša ni bila izmed zadnjih!“</p>
             <p n="SL-WIKI003731760">„Hudobna baba!“ Skoraj so bili na Višavi sami.</p>
          </div>
-         <pb n="80"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-080.jpg"/>
          <div>
             <head>XXIII. „Naš fant je vendar pameten.“</head>
             <p n="SL-WIKI003731761">Boj v Beligojevem srcu je bil kmalu končan. Zmagal je pohlep.</p>
@@ -2105,8 +1975,6 @@
             <p n="SL-WIKI003731789">„Bodeš videla, da bo prav. Tacega premoženja je vsak vesel, drugo se pa že naredi!“ V svojem srcu je pa zametal nesrečni testament. O, saj je vedel, da se ne baranta za ženo tako, kakor za kravico, ki se proda, ako ni všeč gospodarju. Pa vendar ... Bode že živel! ... Imel bode lepo posestvo, pomanjkanje ga ne bode trlo, bode že kako živel ž njo!</p>
             <p n="SL-WIKI003731790">„Tako ti praviš, da se morata vzeti?“ pravi Beligoj Maruši, ko jo namenoma poišče samo v kamrici.</p>
             <p n="SL-WIKI003731791">„I kajpak! ... Testament tako pravi.“</p>
-            <pb n="81"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-081.jpg"/>
             <p n="SL-WIKI003731792">„Kaj se na testament izgovarjaš! Ti si to naredila, pa nihče drugi, saj rajni Janez, vem, kako je mislil.“</p>
             <p n="SL-WIKI003731793">„Pa je vendar dekle v testamentu!“ zasmeje se Maruša.</p>
             <p n="SL-WIKI003731794">„I, saj lahko kaj prenaredimo!“</p>
@@ -2140,8 +2008,7 @@
             <p n="SL-WIKI003731822">„Tako se ne udaš?“</p>
             <p n="SL-WIKI003731823">„Nikdar! ... Testament je v mojih rokah.“</p>
             <p n="SL-WIKI003731824">„Ti bodeš kriva!“ ...</p>
-            <p n="SL-WIKI003731825">„Ali pa ti“ ... Ivan je bil po onem usodnem trenotku, ko je izvedel grozno vsebino testamenta, ves strt, uničen ... Vse sanje so hipoma izginile, vse lepe osnove bile razdrte. On, Višava in Marijanica se je bilo strnilo v krasno celoto, a sedaj je bilo razbito ... Kadar je mislil <pb n="82"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-082.jpg"/> Ivan na Višavo, mislil je tudi na Marijanico, in kadar je sanjaril o Marijanici, gledal je na Višavo, toda sedaj ... o grozne slike! Ondi na Višavi naj bi bila kraljica Glavanova Rezika! Zazeblo ga je pri srcu, mraz ga je oblival po hrbtu. Najblažji čuti so se upirali temu spoznanju ... Jeza in sovraštvo se je kuhalo v njem. — Potem pa ni hotel nekaj časa misliti ničesar, prav ničesar, da bi se premotil ... Ej, pa so ga vendar premagali občutki!</p>
+            <p n="SL-WIKI003731825">„Ali pa ti“ ... Ivan je bil po onem usodnem trenotku, ko je izvedel grozno vsebino testamenta, ves strt, uničen ... Vse sanje so hipoma izginile, vse lepe osnove bile razdrte. On, Višava in Marijanica se je bilo strnilo v krasno celoto, a sedaj je bilo razbito ... Kadar je mislil  Ivan na Višavo, mislil je tudi na Marijanico, in kadar je sanjaril o Marijanici, gledal je na Višavo, toda sedaj ... o grozne slike! Ondi na Višavi naj bi bila kraljica Glavanova Rezika! Zazeblo ga je pri srcu, mraz ga je oblival po hrbtu. Najblažji čuti so se upirali temu spoznanju ... Jeza in sovraštvo se je kuhalo v njem. — Potem pa ni hotel nekaj časa misliti ničesar, prav ničesar, da bi se premotil ... Ej, pa so ga vendar premagali občutki!</p>
             <p n="SL-WIKI003731826">„Marijanico naj pustim? ... Polovico Višave naj pustim? ... Ali morem? ... Nikdar! Nikdar ... Tega stric ni hotel!“</p>
             <p n="SL-WIKI003731827">Testament je pa govoril tako jasno, tako odločno, da ga je tudi Ivan umel, naj si je v duši napravljal še tolik hrup.</p>
             <p n="SL-WIKI003731828">„Ali Marijanico ... ali pa polovico Višave!“</p>
@@ -2155,8 +2022,7 @@
             <p n="SL-WIKI003731836">„Štefan, nikar ga ne sili! Naredi naj, kakor ve, da bode lažje živel! Meni se smili,“ reče Beligojka, ko se odpravlja domov.</p>
             <p n="SL-WIKI003731837">„On nič ne ve,“ zavrne jo mož in ji nekaj naroči za dom. Sina ni mogla najti, da bi se poslovila pri njem, zato je odhajala s solzami v očeh. Beligoj se je pa pripravljal na razgovor s sinom. Bal se ga je, ker se je bal, da bode Ivan vztrajal pri svojih načrtih; saj mu je bilo še v živem spominu, kako se je nekdaj postavil za vzor svojega srca, a upanja ni gojil nobenega, da bi bilo sedaj kaj bolje ... Ali naj se pusti polovica Višave? Ta žrtev se je zdela Beligoju prevelika ...</p>
             <p n="SL-WIKI003731838">„Ah, zaradi ene ženske naj se vrže toliko premoženja proč? ... Ali je vredna toliko? Kdo bi bil tako neumen!“</p>
-            <p n="SL-WIKI003731839">Beligoj je bil že v dobi, ko polje po žilah mirna, hladna kri, ko pri vseh podjetjih razum vpraša: koliko bo pa vrglo? <pb n="83"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-083.jpg"/> Zato se je odločil žrtvovati sina za Višavo ... Pa ni mogel najti pravega trenutka ... Vpričo Maruše ali Rezike se ni hotel razgovarjati s sinom o tako sitni reči, a sicer je pa sin bežal pred njim, ker se je bal očeta, ker je poznal očeta. Naposled se vendar snideta.</p>
+            <p n="SL-WIKI003731839">Beligoj je bil že v dobi, ko polje po žilah mirna, hladna kri, ko pri vseh podjetjih razum vpraša: koliko bo pa vrglo?  Zato se je odločil žrtvovati sina za Višavo ... Pa ni mogel najti pravega trenutka ... Vpričo Maruše ali Rezike se ni hotel razgovarjati s sinom o tako sitni reči, a sicer je pa sin bežal pred njim, ker se je bal očeta, ker je poznal očeta. Naposled se vendar snideta.</p>
             <p n="SL-WIKI003731840">„Kakšen gospodar si? ... Kako se brigaš za gospodarstvo?“ ogovori ga oče.</p>
             <p n="SL-WIKI003731841">„Saj ste vi tukaj!“</p>
             <p n="SL-WIKI003731842">„Kako ti je všeč testament?“ ... Ivan zarudi, a oče nadaljuje:</p>
@@ -2173,8 +2039,7 @@
             <p n="SL-WIKI003731853">„Kako pa morem drugače!“</p>
             <p n="SL-WIKI003731854">„I, kako? Saj je dovolj jasno povedano. Vzemi to dekle!“</p>
             <p n="SL-WIKI003731855">„Ako je pa ne maram in je ne morem, saj veste, da sem si že izbral nevesto, ki mi je všeč, ki je pustiti ne morem.“</p>
-            <p n="SL-WIKI003731856">„Poslušaj me, moj sin! ... Usediva se! ... Otročji si še, zato me poslušaj, kaj ti povem jaz, tvoj oče, ki sem že skusil mnogo na svetu, in vem, kaj je ženska, in kaj je premoženje ... Stric, Bog mu povrni, ti je zapustil tako lepo premoženje, kakor ga ima le malo kdo. Zapisal pa je v testamentu, da moraš vzeti to Reziko, ki je tetina žlahtnica ... Gotovo je tako zahtevala ona, ki je imela pravico zahtevati del premoženja Vesel bodi, da vsega ni zahtevala! Stric, moder mož, pa ni hotel, da se Višava razbije, zato je zapisal, da se vzameta in tako ostane premoženje celo ... Jaz ne rečem, da je tako ravno najbolj prav, pa vendar, tako je ... Ne daj, da bi se premoženje delilo! Ti bodeš v veliki škodi! ... Vzeli ti bodo več, ne samo polovice, in vrhu tega bodeš imel na glavi Marušo in Reziko Vsi boste pod eno streho ... In misliš, da bode potem mir, ko pripelješ ženo domov? O, potem bode še-le pekel na Višavi! Ženske se bodo grizle, in največji revež bodeš ti. Na eni strani te bode ujedala žena, na drugi ti bode očitala Maruša premoženje, in grča ne bode še kmalu sperela — in potlej te bode grizla še vest, češ, ko bi bil naredil drugače ... O sin, ti ne poznaš ženskih ... Ti jih sodiš po rudečih licih in medenih besedah. — Tvoje izvoljenke ne poznam. Jaz ti tudi ne zamerim, da si si jo izbral, saj nisi vedel, kakšen bode testament. — Pa sedaj veš ... Mora že biti čedno dekle, ker si se zagledal v vanjo ... Toda pomisli! Sedaj je mlada, pa se bode postarala; rudeča lica bodo postala hrapava, glas osoren, in veselje se bode spremenilo v čmernost. Taka bo in tvoja bo, Višava pa ne bode tvoja ... Rezika! ... I, nu, res ni lepa, dosti sem videl že lepših; toda, da bi se jo kar tja vrglo, pa tudi ni. Nekaj moškega ima na sebi, to je res; za vsako reč ne bode jokala. Toda korenjak je in dober delavec bo, zato se je ne boj! Navadila se bode tudi drugega obnašanja. — Res je, da človek rajši gleda lep, gladek obraz, kakor grd; pa kdo je bil še od takega gledanja sit, to mi povej. Jaz bi si upal z Reziko živeti, pa še dobro <pb n="84"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-084.jpg"/> bi živel. Žena mora biti možu pokorna, veš, zato smo možje tudi močnejši, kakor ženske, in kadar pride čas, treba je ženskam to pokazati, da ne vzrastejo človeku črez glavo. E, Ivan, nič se ne boj Rezike! ... Kar vzemi jo, saj vidiš, da se je drži pol Višave“</p>
+            <p n="SL-WIKI003731856">„Poslušaj me, moj sin! ... Usediva se! ... Otročji si še, zato me poslušaj, kaj ti povem jaz, tvoj oče, ki sem že skusil mnogo na svetu, in vem, kaj je ženska, in kaj je premoženje ... Stric, Bog mu povrni, ti je zapustil tako lepo premoženje, kakor ga ima le malo kdo. Zapisal pa je v testamentu, da moraš vzeti to Reziko, ki je tetina žlahtnica ... Gotovo je tako zahtevala ona, ki je imela pravico zahtevati del premoženja Vesel bodi, da vsega ni zahtevala! Stric, moder mož, pa ni hotel, da se Višava razbije, zato je zapisal, da se vzameta in tako ostane premoženje celo ... Jaz ne rečem, da je tako ravno najbolj prav, pa vendar, tako je ... Ne daj, da bi se premoženje delilo! Ti bodeš v veliki škodi! ... Vzeli ti bodo več, ne samo polovice, in vrhu tega bodeš imel na glavi Marušo in Reziko Vsi boste pod eno streho ... In misliš, da bode potem mir, ko pripelješ ženo domov? O, potem bode še-le pekel na Višavi! Ženske se bodo grizle, in največji revež bodeš ti. Na eni strani te bode ujedala žena, na drugi ti bode očitala Maruša premoženje, in grča ne bode še kmalu sperela — in potlej te bode grizla še vest, češ, ko bi bil naredil drugače ... O sin, ti ne poznaš ženskih ... Ti jih sodiš po rudečih licih in medenih besedah. — Tvoje izvoljenke ne poznam. Jaz ti tudi ne zamerim, da si si jo izbral, saj nisi vedel, kakšen bode testament. — Pa sedaj veš ... Mora že biti čedno dekle, ker si se zagledal v vanjo ... Toda pomisli! Sedaj je mlada, pa se bode postarala; rudeča lica bodo postala hrapava, glas osoren, in veselje se bode spremenilo v čmernost. Taka bo in tvoja bo, Višava pa ne bode tvoja ... Rezika! ... I, nu, res ni lepa, dosti sem videl že lepših; toda, da bi se jo kar tja vrglo, pa tudi ni. Nekaj moškega ima na sebi, to je res; za vsako reč ne bode jokala. Toda korenjak je in dober delavec bo, zato se je ne boj! Navadila se bode tudi drugega obnašanja. — Res je, da človek rajši gleda lep, gladek obraz, kakor grd; pa kdo je bil še od takega gledanja sit, to mi povej. Jaz bi si upal z Reziko živeti, pa še dobro  bi živel. Žena mora biti možu pokorna, veš, zato smo možje tudi močnejši, kakor ženske, in kadar pride čas, treba je ženskam to pokazati, da ne vzrastejo človeku črez glavo. E, Ivan, nič se ne boj Rezike! ... Kar vzemi jo, saj vidiš, da se je drži pol Višave“</p>
             <p n="SL-WIKI003731857">V Ivanovem srcu je zmagoval pohlep.</p>
             <p n="SL-WIKI003731858">„Ali ni druge rešitve?“ Beligoju šine zadovoljnost preko obraza. Jaz je ne vem, in nihče je ne ve ... Vzemi jo, ako hočeš imeti mir!“</p>
             <p n="SL-WIKI003731859">„Kaj bode pa rekla Marijanica?“ Staremu se nekaj posveti.</p>
@@ -2198,8 +2063,6 @@
             <p n="SL-WIKI003731874">„Ivan! ... Ivan! ... Pridi!“</p>
             <p n="SL-WIKI003731875">Magdalena je bila pa izkušena ženska. Poznala je prisege zaljubljencev. Ker je pa želela iz maščevanja, da bi prišla njena hči na Višavo, verjela je Ivanu tudi ona, a ta vera se ji je manjšala in izginjala.</p>
             <p n="SL-WIKI003731876">„Zvest do druge!“ mislila si je, in ta misel je vzbujala sovraštvo. Magdalena je verjela ljudem. Vsega ji ni bilo treba verjeti, saj je Ivan že sam pripovedoval, da mu Maruša usiljuje neko dekle. Zato se je njena jeza obračala v Marušo; njo je klela kot izvor vse nesreče, zakaj Maruša je bila izpodrinila njo, da ni prišla na Višavo, in sedaj se zopet Maruša upira, da bi ne prišla tja gori njena hči. O tem je bila prepričana. Pa vendar ji še ni ugasnilo vse upanje, da pride hči na Višavo.</p>
-            <pb n="85"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-085.jpg"/>
             <p n="SL-WIKI003731877">„Sedaj, ko je Ivan prost in sam svoj gospod na Višavi, otrese se vpliva Marušinega; kljuboval ji je doslej, kljuboval ji bode tudi sedaj. Videti je moški.“</p>
             <p n="SL-WIKI003731878">Hčerke pa ni znala tolažiti. Ljubila jo je, pa ji ni hotela vzbujati upov, ki bi se morda ne uresničili in bi jo pahnili potem še v večjo žalost, ko bi se ne izpolnili.</p>
             <p n="SL-WIKI003731879">„Kaj se kisaš, bode že prišel! Sedaj ima druge skrbi. Pa ne bodi taka. Pa ako ga ne bo, kaj za to, prišel bo pa drugi.“</p>
@@ -2221,8 +2084,6 @@
             <p n="SL-WIKI003731895">„Jaz sem, ako si namenjen k meni.“</p>
             <p n="SL-WIKI003731896">„Prav k tebi.“ Pogleda v tla in naredi nekaj korakov sem in tja, kakor bi nečesa iskal.</p>
             <p n="SL-WIKI003731897">„Ti imaš hčerko?“</p>
-            <pb n="86"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-086.jpg"/>
             <p n="SL-WIKI003731898">Magdalena prikima.</p>
             <p n="SL-WIKI003731899">„Lepo, mlado hčerko, Marijanico?“</p>
             <p n="SL-WIKI003731900">„Kaj vem, kako je drugim všeč! Moja hči je, meni ugaja.“</p>
@@ -2264,8 +2125,6 @@
             <p n="SL-WIKI003731936">„Za to?“</p>
             <p n="SL-WIKI003731937">„Proklet zato, ker ne izpolni priseg in obljub, ki jih je delal! Proklet zato, ker je mamil mojo hčer! Proklet zato, ker poroča, denar namesto žene! Tvoj sin je nezvest zato proklet, proklet!“</p>
             <p n="SL-WIKI003731938">„Mati! Mati!“ S tem krikom prileti iz hiše Marijanica in se vrže materi na vrat. „Ne kolnite ga! Ne kolnite ga, mati moja! Jaz ga ljubim!“</p>
-            <pb n="87"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-087.jpg"/>
             <p n="SL-WIKI003731939">Na obrazu so se poznale solze, na glasu bolest.</p>
             <p n="SL-WIKI003731940">„Ti ga še ljubiš? Ti? Izdajavca? Za denar proda svojo ljubezen, in ti ga še ljubiš?“</p>
             <p n="SL-WIKI003731941">„Moj Ivan!“</p>
@@ -2283,8 +2142,7 @@
             <p n="SL-WIKI003731953">„Proklet! Segel si po mrzlem denarju in vrgel proč gorko-čuteče srce! Proklet!“</p>
             <p n="SL-WIKI003731954">Tolažila je hčerko, katera ni mogla več zatajevati, kako hudo jo je potrlo vse to, in je sedaj jokala, tarnala in mrla za izgubljenim ženinom.</p>
             <p n="SL-WIKI003731955">„Mati, jaz grem za njim! Jaz ga ljubim!“</p>
-            <p n="SL-WIKI003731956">„Ha! Za njim? Ti, moja hči? O, seveda, le pojdi tja gori, pa poklekni predenj, povzdigni roke in ga prosi: Vzemi me! Vzemi <pb n="88"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-088.jpg"/> me! Smejal se ti bode, a Maruša te bode zasramovala. Ali misliš, da te bode maral? Ti ne poznaš pohlepnih ljudij!“</p>
+            <p n="SL-WIKI003731956">„Ha! Za njim? Ti, moja hči? O, seveda, le pojdi tja gori, pa poklekni predenj, povzdigni roke in ga prosi: Vzemi me! Vzemi  me! Smejal se ti bode, a Maruša te bode zasramovala. Ali misliš, da te bode maral? Ti ne poznaš pohlepnih ljudij!“</p>
             <p n="SL-WIKI003731957">„Ali v mojem srcu je samo Ivan!“</p>
             <p n="SL-WIKI003731958">„Iztrgaj si ga! Vrzi vun tega človeka, vun iz srca! Ne misli nanj! On nima srca, pohlepnež je, ki za denar proda svojo izbrano nevesto. Prodal bi pa tudi ženo, ako bi mu kdo obljubil denarja za njo!“</p>
             <p n="SL-WIKI003731959">„Pa kako bodem mogla brez njega živeti?“</p>
@@ -2314,14 +2172,11 @@
             <p n="SL-WIKI003731983">„Jaz sem, Marijanica, jaz, tvoj Ivan.“</p>
             <p n="SL-WIKI003731984">„Ha! Ti nesramnež, ti!“ Takrat pa všk! prileti Ivanu voda v obraz.</p>
             <p n="SL-WIKI003731985">„To imaš, slepar lažnjivi! To je moj blagoslov, druzega pa še dobiš!“ Magdalena zapre okno, a Ivan odide preklinjaje — — —</p>
-            <p n="SL-WIKI003731986">Mislil je, da se mu bode Marijanica oglasila, ga poslušala in mu odpustila, ko ji <pb n="89"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-089.jpg"/> pové, kaj hoče testament, in jo prosi odpuščenja.</p>
+            <p n="SL-WIKI003731986">Mislil je, da se mu bode Marijanica oglasila, ga poslušala in mu odpustila, ko ji  pové, kaj hoče testament, in jo prosi odpuščenja.</p>
             <p n="SL-WIKI003731987">Tak sprejem pa ga je raztogotil, da je s silo zatrl vse misli, ki so ga spominjale Marijanice.</p>
             <p n="SL-WIKI003731988">Nekam rad je šel z Reziko — k poroki, Beligoj in Maruša sta bila vesela in sta dejala:</p>
             <p n="SL-WIKI003731989">„Kako se to vse spremeni! Kako se imata rada! O, še prav srečna bosta!“</p>
          </div>
-         <pb n="90"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-090.jpg"/>
          <div>
             <head>XXV. „O, kaj sem jaz mislil!“ ...</head>
             <p n="SL-WIKI003731990">Nekaj let potem.</p>
@@ -2334,8 +2189,7 @@
             <p n="SL-WIKI003731997">„Ali ni lepši moj mož, kot je tvoja žena?“</p>
             <p n="SL-WIKI003731998">In Ivan je dobro čutil, kaj pravijo njene oči, in to ga je zabolelo, užalilo. Njegovo samoljubje je bilo ranjeno. Mislil je, da bode Marijanica ostala sama in hrepenela ter vzdihovala za nezvestim Ivanom, kar bi bilo ugajalo njegovemu samoljubju. Pa Marijanica mu ni bila hotela storiti te usluge.</p>
             <p n="SL-WIKI003731999">In nezvesti Ivan ji je očital sam pri sebi: „Saj me vendar ni tako ljubila, kakor je včasih dejala!“</p>
-            <p n="SL-WIKI003732000">S tem je opravičeval svoje dejanje. In to je bilo prav, da se je opravičeval tako <pb n="91"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-091.jpg"/> sam pred svojo vestjo. S tem je zatiral nemirne misli in želje in brisal vse slike, ki so ga spominjale nekdanje njegove neveste. Od tedaj so se sukale njegove misli samo o ženi. Toda ta zvezda - stalnica ni imela tiste potrebne privlačnosti, ki bi mogla obdržati Ivana na pravem tiru. Človek potrebuje razvedrila, tolažbe, ljubezni, in ako tega nima doma, išče si tega drugod.</p>
+            <p n="SL-WIKI003732000">S tem je opravičeval svoje dejanje. In to je bilo prav, da se je opravičeval tako  sam pred svojo vestjo. S tem je zatiral nemirne misli in želje in brisal vse slike, ki so ga spominjale nekdanje njegove neveste. Od tedaj so se sukale njegove misli samo o ženi. Toda ta zvezda - stalnica ni imela tiste potrebne privlačnosti, ki bi mogla obdržati Ivana na pravem tiru. Človek potrebuje razvedrila, tolažbe, ljubezni, in ako tega nima doma, išče si tega drugod.</p>
             <p n="SL-WIKI003732001">Maruša se je starala, in s starostjo se je redila njena čmernost in sitnost. Z Ivanom sta si prišla dostikrat navzkriž, toda vselej se je moral umakniti on, zakaj Rezika je potegnila dosledno z Marušo:</p>
             <p n="SL-WIKI003732002">„Kaj jim pa hočeš? Pusti jih! Teta so moja!“ Obema pa Ivan ni bil kos in je zato rajši odjenjal in požrl jezo, ki mu je potem, seve, obležala v želodcu.</p>
             <p n="SL-WIKI003732003">Z Jurjem pa tudi nista bila več taka prijatelja kot nekdaj. Zakaj hlapec ni vselej zaupljiv do svojega gospodarja. Vrh tega se je Ivanu zdelo, da je Jurij nekako priča, da se Ivan ni z najčistejšim namenom zvezal z Reziko. Jurij je bil zanj slaba vest. Sram ga je pa tudi bilo, njemu tožiti težave, katerih je bil sam kriv. Kmalu po ženitvi je bil vzel Ivan k sebi enega brata in sestro, da bi pomagala delati. Toda nista mogla dolgo časa prebivati na Višavi. Rezika jih je črtila, ker sta vlekla z Ivanom, pa jima je kmalu zagrenila življenje na Višavi, da sta jo pobrala kar skrivaj domov, ker ju Ivan očitno ni pustil.</p>
@@ -2356,8 +2210,6 @@
             <p n="SL-WIKI003732018">Tako so govorili vinski bratci. In Ivanu je bilo všeč to govorjenje, šegačkalo je njegov ponos, dušilo njegovo vest, in zato je rad ostajal v gostilni in pil in za vino dajal.</p>
             <p n="SL-WIKI003732019">„Pa ga dajmo še en liter, ker ste tako kratkočasni!“</p>
             <p n="SL-WIKI003732020">Doma se mu je pa zdelo dolgočasno in pusto. Maruša je godrnjala, očitala mu dobrote, ki jih uživa od nje in rajnega in pripovedovala, da nekdaj ni bilo tako na Višavi. Rezika se je pa zaganjala v moža. Nihče ji ni povedal, da lepa beseda lepo mesto najde.</p>
-            <pb n="92"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-092.jpg"/>
             <p n="SL-WIKI003732021">„Jaz ti bodem dala! Jaz ti bodem dala! Doma bodeš, rad bodeš doma na zapečku!“</p>
             <p n="SL-WIKI003732022">„Pa tebe bom gledal in teto, hahaha! Pa poslušal vajine čenče! Nista tako kratkočasni!“</p>
             <p n="SL-WIKI003732023">„Viš ga! Viš ga! Tak-le je!“ oglasila se je Maruša.</p>
@@ -2391,8 +2243,6 @@
             <p n="SL-WIKI003732051">„Tako ji je treba dopovedati. — Maruša, ali ji hočem jaz dopovedati?“</p>
             <p n="SL-WIKI003732052">„Daj nu, Jerčka, daj! stori to in potem si kar izberi dve jari kokoši.“</p>
             <p n="SL-WIKI003732053">„Boš videla!“ Maruša si je mencala roke od veselja. Dobri prijateljici sta bili še skupaj, ko pride Rezika k njima.</p>
-            <pb n="93"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-093.jpg"/>
             <p n="SL-WIKI003732054">„Ali ste zopet prišli po jajčka, Jera? Komaj bi bilo, ako bi naše kokoši po dvakrat na dan nesle, ker se tako radi oglašate tukaj.“</p>
             <p n="SL-WIKI003732055">„Lej, lej, kako me pa težko vidi!“ pravi Jera in sune Marušo. Ta jo pomenljivo pogleda.</p>
             <p n="SL-WIKI003732056">„O, saj ste lahko zmeraj pri nas“, pogovori Rezika.</p>
@@ -2434,8 +2284,6 @@
             <p n="SL-WIKI003732092">To rekši se Rezika upre, privzdigne moža in ga nese med glasnim krohotom skozi vrata.</p>
             <p n="SL-WIKI003732093">„Ali bodeš sedaj krotak?“ reče Rezika, ko ga izpusti pred hišo.</p>
             <p n="SL-WIKI003732094">„Kaj je bilo tega treba?“</p>
-            <pb n="94"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-094.jpg"/>
             <p n="SL-WIKI003732095">Ivan je bil javno osramočen, zato je vstalo sovraštvo do nje, ki mu je to naredila.</p>
             <p n="SL-WIKI003732096">Zažuga ji, rekoč: „To bodeš še pomnila!“ Nato se obrne pa gre.</p>
             <p n="SL-WIKI003732097">„Hihihi, pa si mislil, da te ne bom“, zasmejala se je Rezika za njim in je šla v hišo k teti, ki je jokala. Jera jo je tolažila, jokala in ž njo vred tarnala:</p>
@@ -2467,8 +2315,6 @@
             <p n="SL-WIKI003732120">„O, nič, nič!“ — Bridek smehljaj zaigra na sinovem obrazu. Žena pa pogleda moža. Očitanje se je bralo v njenih očeh. Premagati se ni mogla, ter je dejala možu:</p>
             <p n="SL-WIKI003732121">„Sedaj pa imaš! Le pogledi ga!“ In obrne se v stran, zakrije oči s predpasnikom in ihti, kakor bi klečala ob grobu najljubšega sina.</p>
             <p n="SL-WIKI003732122">„O ljubi moj Jezus! O ljuba mati božja!“ Ivan se je že kesal, da je prišel domov, pokazat svojo bolest.</p>
-            <pb n="95"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-095.jpg"/>
             <p n="SL-WIKI003732123">„Mati, saj ni nič! Ne jokajte!“</p>
             <p n="SL-WIKI003732124">„Pa vendar sin! Povej, kaj te teži! Zaupaj svoje težave starišem! Dokler ti moremo kaj pomagati, te ne zapustimo.“</p>
             <p n="SL-WIKI003732125">Ivan pa je bil trd, ko je videl mehko materino srce.</p>
@@ -2498,8 +2344,6 @@
             <p n="SL-WIKI003732149">„Zaradi teh žensk, ki jih imaš tam gori, pa res ni treba hoditi na tuje, kamor hodijo ljudje brez doma.“</p>
             <p n="SL-WIKI003732150">„O, tak dom! Rajši sem brez doma do konca svojega življenja. Nazaj ne grem več!“</p>
             <p n="SL-WIKI003732151">„To si moraš premisliti. Ta sklep si storil v naglici in nepremišljeno.“</p>
-            <pb n="96"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-096.jpg"/>
             <p n="SL-WIKI003732152">„Dobro sem premislil.“</p>
             <p n="SL-WIKI003732153">„Premisli pa še to, da Maruša ne bode dolgo, da se stara, da bo tudi njej prej ali slej zazvonilo, in da bosta potem z ženo sama.“</p>
             <p n="SL-WIKI003732154">„Pa se premisli, Ivan!“ pravi mati.</p>
@@ -2521,8 +2365,6 @@
             <p n="SL-WIKI003732170">„O, le vzemi! Najljubša mi je sicer ta podobica, pa jo le vzemi, ker te imam rada.“</p>
             <p n="SL-WIKI003732171">Tako se je vračal Ivan domov potolažen in pomirjen. Toda lahko je biti pogumen daleč od volčjega brloga. Ko se mu pa človek bliža, upada mu pogum, loteva se ga strah. Srce je zopet upadalo tudi Ivanu, in nemir se ga je loteval, ko se je bližal Višavi. Treba mu je bilo poguma. Zato zavije zopet v gostilno, da dobi ondi potrebnih močij. Zopet je pil, mnogo pil. Ko je čutil, da je dovolj srčan, šel je iz gostilne in se zibal na Višavo. „Jaz njima pokažem! Bosta videli, kdo je gospodar na Višavi!“ — Tako si je delal pogum.</p>
             <p n="SL-WIKI003732172">Večerno solnce se je ljubko oziralo na Višavo, a na jugu so se kopičili viharni oblaki; ognjene strele so švigale po njih in zamolkel grom je pretresal gore. Lepa se je zdela Ivanu v tem hipu Višava, in veselil se je, da zopet pride pod varno streho, predno prihruje nevihta.</p>
-            <pb n="97"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-097.jpg"/>
             <p n="SL-WIKI003732173">„Kje je? Kje pa je? Kam je šel?“ žrnela je Rezika, ko so minevali dnevi, in njega ni bilo.</p>
             <p n="SL-WIKI003732174">„Viš! To si ti vzrok, zakaj ga pa nisi strahovala!“ očitala jej je Maruša.</p>
             <p n="SL-WIKI003732175">„Moj ni nikoli tako naredil.“</p>
@@ -2557,8 +2399,7 @@
             <p n="SL-WIKI003732204">„Teta, zakaj ste pa tako hudi, saj mi ni nič hudega rekel.“</p>
             <p n="SL-WIKI003732205">„Da more človek tako otročji biti in nedolžen, kakor si ti! Oči imaš, pa ničesar ne vidiš. A jaz, ki sem že skoraj brljava in gluha, pa vse vidim in vse slišim in vse vem. Rezika, ti si goljufana. Ti misliš, da je Anza tvoj, pa ti se motiš. Sem glej! Ali ne vidiš tukaj ženske roke? — Ha? — In v roki te rožice. In spodaj se bere: ‚Ne žabi me!‘ Pri nji je bil, pri nji! O, sedaj se je pokazalo, da ima res drugo.“</p>
             <p n="SL-WIKI003732206">„Drugo, pravite?“</p>
-            <p n="SL-WIKI003732207">„I, seveda! Usedi se k meni. Jaz ti moram vse povedati, kaj je tvoj mož, kakšen nezvestnež <pb n="98"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-098.jpg"/> je on, ki ti je prisegel zvestobo do smrti. Ti si ga ljubila, a on te je varal in te še vara! O, ta ženska roka!“</p>
+            <p n="SL-WIKI003732207">„I, seveda! Usedi se k meni. Jaz ti moram vse povedati, kaj je tvoj mož, kakšen nezvestnež  je on, ki ti je prisegel zvestobo do smrti. Ti si ga ljubila, a on te je varal in te še vara! O, ta ženska roka!“</p>
             <p n="SL-WIKI003732208">Rezika se usede, pa gleda teto nedolžno pa radovedno. Maruša ji začne razkrivati ono, kar ji je bila ustvarila njena satanska domišljija, izrodek peklenske ljubosumnosti, ki nikdar ne miruje, dokler bije tisto srce, katero si je osvojila, ki ne miruje tudi potem ne, ko premine žrtev njenih strastij. Maruša je pripovedovala strastno in prepričevalno, kar je omamilo Reziko, da je pazno in s prepričanjem sledila nje pripovedi. Tako je izvedela, da je zakonska nezvestoba Debeloglavom v rodu, da je bil tak rajni njen mož, in da je tudi Ivan tak.</p>
             <p n="SL-WIKI003732209">Marušina ljubosumnost je omrežila tudi Reziko in prepojila vso njeno dušo in srce. Teti je verjela vse, do pičice, ko ji je ta natančno slikala z nepopisno zlobnostjo, kako jo vara Ivan. Rezikino srce je burno tolklo, tresla se je razburjenosti, ki so jo provzročale naraščajoče strasti.</p>
             <p n="SL-WIKI003732210">„Ali vidiš zdaj, kako si ti nesrečna? Oh, tako nesrečna, kakor sem bila jaz, tvoja teta!“</p>
@@ -2580,8 +2421,6 @@
             <p n="SL-WIKI003732226">„Sedaj te imam! O, sedaj mi ne uideš!“ Ivana je obšla grozna misel, da je žena zblaznela in ne ve, kaj počne. Strah ga obide. Spomni se, da se blazni ne zaveda svojega čina. Zbere vse moč, da se je otrese. S prostimi rokami se ji obesi za vrat in tišči njeno glavo k sebi.</p>
             <p n="SL-WIKI003732227">„Izpusti Reza! Izpusti!“ vpije moker od strahu. Ona se je pa napenjala, da bi se otresla tesnega objema. Jaz ti pokažem, vlačugar! Ali sem te dobila? Tako, tak si! Za drugimi se vlačiš!“ sika Rezika togotno in vrta z glavo.</p>
             <p n="SL-WIKI003732228">„Rezika, pomagaj si!“ osrčuje jo zadaj Maruša. Ko je čul Ivan njen glas, se mu je takoj zjasnilo.</p>
-            <pb n="99"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-099.jpg"/>
             <p n="SL-WIKI003732229">„Ha! Ali je tako? Prokleti satan!“</p>
             <p n="SL-WIKI003732230">Tisti hip hoče Rezika poprijeti z rokami, da bi bolj privila, a Ivan izpusti njen vrat in se upre z vsemi močmi vanjo ter jo odrine toliko, da dobi prostora zdse in vstane.</p>
             <p n="SL-WIKI003732231">„Kaj mi hočeti?“</p>
@@ -2600,8 +2439,6 @@
             <p n="SL-WIKI003732244">„Boditi pa sami! Jaz vama odpustim, pa moliti, da vama tudi Bog odpusti, ako se več ne vidimo!“</p>
             <p n="SL-WIKI003732245">V čumnati nastane vpitje, a Ivan brž odide v temno viharno in deževno noč. Ni še bil sto korakov od hiše, ko se posveti na veznem pragu, in Rezika zakliče:</p>
             <p n="SL-WIKI003732246">„Anza! Kam pa greš? Nazaj pojdi, Anza! Jaz ti bodem dala, ako ne bodeš ubogal!“</p>
-            <pb n="100"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-100.jpg"/>
             <p n="SL-WIKI003732247">„Vidiš ga, pa zopet gre za drugo, on, tvoj mož!“</p>
             <p n="SL-WIKI003732248">Te Marušine besede so ga še bolj pognale, da je bežal po temi in dežju, kakor pregnanec.</p>
          </div>
@@ -2639,8 +2476,6 @@
             <p n="SL-WIKI003732278">„Maruša, ušesa si zatisni ali me pa vun vrzi, jaz ti moram povedati, zato sem prišla. Da bi jaz tega ne bila nikdar videla!“</p>
             <p n="SL-WIKI003732279">„S katero si ga videla? Kje pije? Tomi povej, pa ga potem še enkrat potegni!“</p>
             <p n="SL-WIKI003732280">„On se je napil, tako napil, da nikdar več pil ne bode ... Utonil je.“</p>
-            <pb n="101"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-101.jpg"/>
             <p n="SL-WIKI003732281">Maruša osupne.</p>
             <p n="SL-WIKI003732282">„Naš? Ali je res?“</p>
             <p n="SL-WIKI003732283">„Pa meni ne verjameš, meni? Ali sem že kdaj samo mislila zlagati se? To mi povej! Mar ga ne poznam? Komaj dve uri je, odkar so ga potegnili iz vode. Res je nekoliko zabuhel, pa jaz sem ga spoznala. Vaš gospodar je.“</p>
@@ -2665,8 +2500,6 @@
             <p n="SL-WIKI003732302">„Ti sumiš?“</p>
             <p n="SL-WIKI003732303">„I, kaj bi še sumila! Sedaj je očito, sedaj je dokazano! Kakšni so dandanes ljudje!“</p>
             <p n="SL-WIKI003732304">Maruša je sedaj svoji prijateljici vse zaupala, kar je imela na srcu in ji pokazala tudi tisto nesrečno podobico, ki je izdala Ivana in utrdila Marušo v njenih sumnjah. In tudi Jera je bila prepričana o Ivanovi krivdi. Sklenila je roke, povzdignila oči, ter rekla:</p>
-            <pb n="102"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-102.jpg"/>
             <p n="SL-WIKI003732305">„ To je očitna kazen! Bog nas varuj greha!“</p>
             <p n="SL-WIKI003732306">„Pa tacega greha!“ dostavi Maruša.</p>
             <p n="SL-WIKI003732307">„Da sem se jaz v to nesrečno rodovino primožila!“</p>
@@ -2709,8 +2542,6 @@
             <p n="SL-WIKI003732344">„Že ona ve. Ali več ne veš? ‚Ne žabi me!‘ Vidiš, tudi ona ga ne more pozabiti.“</p>
             <p n="SL-WIKI003732345">Na Visoko je prinesel nesrečno novico hlapec Jurij.</p>
             <p n="SL-WIKI003732346">„Kdo bode pa živino pasel?“ zarezala je Maruša, ko je povedal, da gre.</p>
-            <pb n="103"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-103.jpg"/>
             <p n="SL-WIKI003732347">„Meni nič mari! Ti stara, meni se zdi, da ti je več za živino, kakor pa za gospodarja. Menda si ga ti pogubila!“</p>
             <p n="SL-WIKI003732348">Pa Jurij je slabo naletel. Maruša ga je oštela kakor nadležnega cigana; pa za to se ni zmenil in je šel. To je bilo joka na Visokem! Odpravili so se takoj zdomi, da vidijo nesrečnega sina, predno ga zagrebejo.</p>
             <p n="SL-WIKI003732349">„Moj sin! Moj ljubi sin!“ zajokala je mati, ko ga je videla na tistem golem odru v mrtvašnici. Oče se je naslonil na zid. Zamolkli vzdihi so se mu utrgavali, in solze so kapale na tla. Jokali so bratje in sestre, in vsak, kdor jih je videl. Potem so šli na Črno vodo, kjer se je bil sin ponesrečil. Malinar jih je povabil v hišo in jim pripovedoval:</p>
@@ -2723,8 +2554,6 @@
             <p n="SL-WIKI003732356">„Jaz sem ti že davno odpustila. Moža sem dobila in sem samo želela, da bi bil tudi ti tako srečen, kakor sem jaz.“</p>
             <p n="SL-WIKI003732357">„Bog ti povrni, Marijanica! Mirnejši bodem na tujem, ko bodem vedel, da v tvojem srcu ni nevolje. Bog vaju obvaruj! Ostanita srečna!“</p>
             <p n="SL-WIKI003732358">Branila sva mu izpod strehe, toda ni se dal ustaviti in je šel v grozno noč. O, ko bi bila midva vedela, da bode potem tako! Deroče vode so se valile po dolini in preplavljale tudi cesto; tema je bila pa taka, da se ni videlo tako daleč, kakor se seže z roko. Pa ga ni bilo ustaviti. Žena si je obrisala solze ter rekla:</p>
-            <pb n="104"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-104.jpg"/>
             <p n="SL-WIKI003732359">„Moliva mu za srečno pot! Meni se smili!“ Molila sva, in potem je povedala, kako sta se nekdaj rada imela. Ko se je zdanilo in prevedrilo, videli smo, koliko je naredila voda škode. Trgala je zemljo, podkopavala drevesa in razorala pota.</p>
             <p n="SL-WIKI003732360">„Bog ve, kako je hodil?“ To nama je bilo večkrat v mislih.</p>
             <p n="SL-WIKI003732361">Čez štiri ali pet dnij potem pa gre ona prat plenice. Jaz sem se ji smejal, ko sem slišal njeno petje. Odkar je mati, je vedno vesela. Kar naenkrat pa krikne, da smo bili vsi po koncu in smo planili gledat, kaj je. Tresla se je groze, ko je pripovedovala:</p>
@@ -2751,8 +2580,6 @@
             <p n="SL-WIKI003732382">„To podobico sem mu jaz dala.“ Oba jo pogledata.</p>
             <p n="SL-WIKI003732383">„Zadnjič sem mu jo dala v spomin.“ Vsi se pogledajo. Različne misli so jih naudajale. Rezika se obrne k Maruši pa reče:</p>
             <p n="SL-WIKI003732384">„Vidite, saj sem vam pravila, da je bil doma pri svojih, pa mi niste verjeli.“</p>
-            <pb n="105"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00373/WIKI00373-105.jpg"/>
             <p n="SL-WIKI003732385">Te besede so spravile Marušo v zadrego, pa samo za hip.</p>
             <p n="SL-WIKI003732386">„Pa jim ti verjameš? Ali ne verjameš več svojim očem, he?“</p>
             <p n="SL-WIKI003732387">„Hudoba!“ zakriči Beligoj.</p>

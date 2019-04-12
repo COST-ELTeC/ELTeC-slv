@@ -20,7 +20,7 @@
             <measure unit="pages">59</measure>
          </extent>
          <publicationStmt xml:lang="en">
-            <p>Added to ELTeC <date>2019-01-17</date>
+            <p>Added to ELTeC <date>2019-04-12</date>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -56,7 +56,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change xml:lang="en" when="2019-01-17">
+         <change xml:lang="en" when="2019-04-12">
             <name>Tomaž Erjavec</name>: converted to ELTeC</change>
          <change when="2015-04-03">
             <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
@@ -67,8 +67,6 @@
    </teiHeader>
    <text xml:lang="sl">
       <body xml:lang="sl">
-         <pb n="1"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-001.jpg"/>
          <div>
             <head>I.</head>
             <p n="SL-WIKI004571">Čez ljubljansko ravan so toplega jesenskega dne leta 1809. doneli lovski rogovi, naznanjajo, da je končana velika gosposka gonja na medvede v polhovgraških gozdih. V dolgem sprevodu se je pomikala pestra lovska družba po slabih potih proti poslopju, ležečemu samotno blizu redkega smrekovega gozdiča in obdanemu kroginkrog z dolgim zidom izza tlačanskih časov. To poslopje stoji še danes in se imenuje sedaj Kušljanov grad.</p>
@@ -90,8 +88,6 @@
             <p n="SL-WIKI0045717">»No, jaz vama že pošljem plesalcev,« je menil stari lovski čuvaj, »zakaj to nikakor ne gre, da bi se najlepše dekle skrivalo za vratmi, med tem ko se ves mladi svet veseli življenja.«</p>
             <p n="SL-WIKI0045718">Starec je odšel. Komaj je bil izginil, je Klarica prijela svojo starejšo sestro Ivanko za roko in jo molče potegnila za seboj. Zapustila je svoje mesto in poiskala drugo skrivališče, a tako, da je tudi od tam mogla neovirano opazovati okrog maršala Marmonta zbrano družbo.</p>
             <p n="SL-WIKI0045719">Klarica ni zapazila, da ji je sledil visok, širokopleč mož s črno brado, ki je že poprej stal v njeni bližini in ji posvečal največjo pozornost. Tudi zdaj se le v primerni razdalji postavil v senco ter zopet osredotočil svojo pozornost na Klarico. Ta mož je bil prvi gozdar markija d’Aureville, Anton Hrast. Njegovi temni pogledi, žareči izpod gostih obrvi, so viseli na dekletu tako, da še zapazil ni, ko se je njegovemu skrivališču približal hlapec s plamenico v rokah. Klarica je tedaj zapazila, kako jo motri Anton Hrast. Zardela je in hitro odšla s svojo sestro.</p>
-            <pb n="2"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-002.jpg"/>
             <p n="SL-WIKI0045720">Mehko in sladko so pele gosli, ki so jih spremljali topli akordi drugih glasbil. Z omamljivo silo je godba prevzela plesalce in plesalke in jim razgrevala kri ter vzbujala v njih tajne slutnje in vroča koprnenja. Vse hitreje in strastneje so se sukali mladi pari, vse bolj so plesalci povijali k sebi svoje plesalke in vse bolj so v teh objemih drhtela dekliška telesa. Tod in tam je za trenotek izginil kak par v senco, da si z naglim poljubom utolaži svojo ljubezensko žejo in zgodilo se je tudi, da je kak oficir izginil s svojo damo v grad in se šele čez delj časa vrnil. Nihče ni pazil na to, nihče se ni menil za to, vse je bilo prevzelo hrepenenje po uživanju življenskih sladkosti.</p>
             <p n="SL-WIKI0045721">Naposled je tudi maršala Marmonta zapustila hladna preudarnost, da je pustil v nemar svojega dostojanstva obzirnosti. Nenadoma je vstal in se z markizo Heleno zapodil v vrtinec plesalcev in plesalk. Godba je svirala nežno in mehko, gospoda pa se je spogledovala, kakor bi drug drugega opozarjal, da bo odslej markizi Heleni d’Aureville posvečati posebno pozornost.</p>
             <p n="SL-WIKI0045722">Klarica se je oklenila svoje sestre, kakor bi začela godba tudi nanjo dobivati svoj vpliv in bi jo bilo strah, da omami tudi njo. Pravkar se je bil marki d’Aureville s svojo lepo plesalko vrnil pred grad. Natočil je dve kupici penečega se vina in trčil s svojo plesalko.</p>
@@ -111,8 +107,6 @@
             <p n="SL-WIKI0045736">»Čutila je greh v svoji bližini in zato se je vseh ogibala in je naposled ušla.«</p>
             <p n="SL-WIKI0045737">Ta misel mu je bila zadoščenje in tolažba in ga je vsaj pomirila za hip, četudi mu ni dala nade, da si kdaj pridobi ljubezen Končanove Klarice.</p>
          </div>
-         <pb n="3"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-003.jpg"/>
          <div>
             <head>II.</head>
             <p n="SL-WIKI0045738">Blizu Vrhnike je stala majhna, skromna, a lična hiša. Nekoč le bila tam gostilna, ki je precej cvetela, ker le lastnik te hiše in te gostilne z dvema paroma vozil blago iz Trsta v Ljubljano in iz Ljubljane v Trst ter imel med vozniki mnogo znancev in prijateljev, ki so se radi ustavljali pri njegovi hiši.</p>
@@ -136,8 +130,6 @@
             <p n="SL-WIKI0045756">»Ker mi je to zoperno, ker tega ne morem in ne maram poslušati.«</p>
             <p n="SL-WIKI0045757">»Kakor hočeš,« je nekoliko nejevoljno rekla Ivanka in odšla v prodajalno.</p>
             <p n="SL-WIKI0045758">Klarica je ostala sama v sobi. Sedla je k oknu, naslonila glavo ob roko in gledala ven na vrt. Tihi mir je dobrodejno vplival nanjo. Polagoma se je umirila. Sanjavo je zrla predse in v njeni duši so se začele počasi porajati vsakovrstne slike. V duhu je še enkrat preživela ples na grajskem dvorišču, ugledala vse, kar je bila tam opazovala, a največkrat se je nehote spominjala mladega lepega moža v francoski oficirski uniformi.</p>
-            <pb n="4"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-004.jpg"/>
             <p n="SL-WIKI0045759">Marki d’Aureville! Že samo to ime je vzbudilo v Klarici čuvstva, ki so ji bila doslej popolnoma neznana. Neko toplo, sladko, tajinstveno hrepenenje se je polastilo njenega srca, kadar se je spomnila majorja. Iz teh čustev pa se je polagoma porajalo spoznanje, ki se ji je dozdevalo blazno.</p>
             <p n="SL-WIKI0045760">Skočila je s stola, kakor bi se hotela otresti misli, ki so jo bile prevzele, in naglo je hodila po sobi sem in tja.</p>
             <p n="SL-WIKI0045761">»Ne, ne, zaljubila se nisem,« si je rekla z lahnim usmevom na ustnih. »Nekako očaral me je, a samo očaral, zaljubljena pa nisem.«</p>
@@ -164,8 +156,6 @@
             <p n="SL-WIKI0045782">»Blazna sem, blazna,« si je govorila. »Kako bi drugače mogla le en sam trenotek misliti na tega moža? Še za ljubimko sem mu preslaba.«</p>
             <p n="SL-WIKI0045783">Begala je po vrtu, dokler se ni naredila noč in je ni prašla klicat Ivanka. Ta je kmalu zapazila, da je Klarica vsa prepadla, a ni mogla od sestre ničesar izvedeti. Spravila je Klarico v posteljo, misleč, da je obolela, in legla sama šele potem, ko se je prepričala, da je sestro objel trden spanec.</p>
          </div>
-         <pb n="5"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-005.jpg"/>
          <div>
             <head>III.</head>
             <p n="SL-WIKI0045784">Klara je po rodu pripadala priprostim slojem. Še njen stari oče, ki se ga je dobro spominjala, je bil tlačan, njen oče je bil kmet, četudi se je bavil z vozništvom in s krčmo, njena mati je bila kmečka hči in je ostala vse žive dni kmetica. Po svoji izobrazbi je pa pripadala Klara meščanskemu sloju. Odkar je bila prišla iz samostana, je to dalo dostikrat povod nesporazumljenjem in vzbujalo v Klarinem srcu nezadovoljnost. Ne da bi si bila želela, priti ven iz svojih razmer. A čutila se je tujo in osamljeno med ljudmi, na katere je bila navezana in med katerimi je živela. Samostanska vzgoja je bila razvila v njej mistiška nagnenja in utrjale so ta nagnenja romantiške knjige, v katerih je Klara iskala zabave, razvedrila in pozabe.</p>
@@ -195,8 +185,6 @@
             <p n="SL-WIKI00457108">»Jaz ga ljubim. Še vedno, kakor tisto noč, ko me je tu pod oknom prvič poljubil.«</p>
             <p n="SL-WIKI00457109">Ne ena solza se ni pojavila v lvankinih očeh, dasi je čez dolgih deset let prvič izpregovorila o svoji tajnosti. Toda vsa bolest njenega srca le drhtela v glasu, s katerim je razodela svojo skrivnost in ta glas je Klarico tako pretresel, da je ihte objela svojo sestro.</p>
             <p n="SL-WIKI00457110">»Uboga moja Ivanka.«</p>
-            <pb n="6"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-006.jpg"/>
             <p n="SL-WIKI00457111">Klarico je razkritje o nesrečni prvi in edini ljubezni njene sestre ganilo in jo globoko pretreslo. Ivanka je upala, da ji povrne Klarica njeno zaupanje z enakim zaupanjem. Stisnila jo je k sebi, naslonila svoje lice ob njeno lice in šepetale rekla:</p>
             <p n="SL-WIKI00457112">»Povej mi, Klarica, kdo je tisti, ki ga ljubiš ...«</p>
             <p n="SL-WIKI00457113">V tem trenotku se je že strgala Klarica iz objema svoje sestre.</p>
@@ -224,8 +212,6 @@
             <p n="SL-WIKI00457135">»Hrast me ljubi, Hrast samo čaka prijazne besede, vzpodbudnega pogleda, da bi me zasnubil,« si je rekla Klarica. »Če bi mogla postati njegova žena, bi živela na gradu in bila bi v markijevi bližini — vsaj toliko časa, dokler bo na Kranjskem.«</p>
             <p n="SL-WIKI00457136">Ta misel jo je prevzela v hipu z demonično silo. Naglo je odprla okno, se nasmehnila Antonu Hrastu, ki je bil ravno dospel do hiše, in mu polglasno zaklicala: »Dober dan, gospod Hrast,« potem pa okno hitro zopet zaprla in je zagrnila.</p>
             <p n="SL-WIKI00457137">Hrast je obstal in ni vedel, če je res njemu veljal ta nasmeh in ta pozdrav. Strme je zrl na okno, potem pa zmajevaje z glavo vstopil v hišo.</p>
-            <pb n="7"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-007.jpg"/>
             <p n="SL-WIKI00457138">Klarica se je zavedala, da je bila v tem trenotku odločena njena bodočnost. Vedela je, da jo Hrast zasnubi in odločena je bila, da stopi ž njim v zakon. A samo zato, da bi mogla bivati v bližini markija d’Aureville. Rekla si je, da ji je čisto nemogoče, udušiti svojo ljubezen do markija in da bi žalosti in hrepenenja umrla, če bi morala bivati daleč od njega. Vsi pomisleki so se razpršili sproti, tako močan je bil glas njenega srca. Hotela se je poročiti s Hrastom in mu biti vse življenje tako zvesta in vdana žena, kakor da ga je vzela iz ljubezni. Nikdar ne bo markijeva, nikdar ne bo marki izvedel, da ga ljubi in da je žrtvovala svojo bodočnost in svojo srečo, samo da bi mogla prebivati v njegovi bližini. To je bila po njeni sodbi edina oblika, v kateri je mogla uživati nekoliko preče. Pri tem ni čisto nič pomislila; kako grdo je njeno ravnanje z ozirom na Hrasta. Zavedala se je, da se mu je začela hliniti in da se mu bo morala hliniti vse življenje, a ni ji bilo mar za to in nič slabega ni videla v tem. Uvidevala je, da je nevarno igrati se z najsvetejšimi čuvstvi tako resnega in samozavestnega moža, kakor je Hrast, a tudi to pašno spoznanje ni zamoglo čisto nič vplivati na njen sklep.</p>
             <p n="SL-WIKI00457139">Poznala je Hrasta že davno. Že ko je bila še otrok, ga že ni marala in odkar se je povrnila iz samostana na svoj dom, se ga je celo še izogibala. Uganila je takoj, da jo Hrast ljubi in da bi ga oplašila in odbila od sebe. Je vedno grdo ž njim ravnala. Nikdar mu ni dala prijazne besede, nikdar mu ni segla v roke in če je prišel v prodajalno ali v gostilno, je vselej zbežala pred njim iz sobe. Bala se ga je. Govoril ji je preglasno in preveč odločno, njegovi koraki so ji bili pretrdi, njegovi pogledi preresni, njegova volja premočna, njegova vdanost do nje prevelika.</p>
             <p n="SL-WIKI00457140">Hrast je mnogo trpel vsled tega ravnanja Končanove Klance ali njegova ljubezen je bila tako velika, da se ji ni mogel odpovedati. Ničesar ni več upal, ničesar ni pričakoval, želel je samo še, da bi ga Klarica kdaj prijazno pogledala in mu privoščila dobro besedo, da bi sploh smel z njo občevati in ji služiti.</p>
@@ -253,8 +239,6 @@
             <p n="SL-WIKI00457162">»Ne Ivanka,« je zaklicala Klarica, »pozabljenja ne iščem v tem zakonu, prisegam ti to pri spominu na najino mater.«</p>
             <p n="SL-WIKI00457163">To je bilo rečeno s tako iskrenim glasom, da je Ivanka molče podala Klarici roko. In Klarica je zdaj vedela, da ji sestra veruje.</p>
          </div>
-         <pb n="8"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-008.jpg"/>
          <div>
             <head>IV.</head>
             <p n="SL-WIKI00457164">Dokler se je Klanca branila Hrasta in ni hotela ničesar slišati o njem, dotlej je Ivanka videla na Hrastu samo dobre in lepe strani njegovega značaja. Sedaj je naenkrat našla, da ima tudi svoje slabe lastnosti. Sama se ni zavedala, da je začela Hrasta primerjati s Klarico in razmišljevati o njih samo vsled tega, ker še vedno ni mogla verjeti da Klanca ljubi Hrasta in da ga hoče vzeti iz ljubezni. Vedela je, da Klarica nima nobenega znanja, poznala je natančno vse ljudi, s katerimi je prišla v dotiko, a nikogar ni bilo med njimi, za katerega bi se mogla sestra le ogreti. Ko bi bila Ivanka poznala kakega človeka, v katerega bi se Klarica mogla zaljubiti, bi sestri navzlic vsem slovesnim zatrjevanjem ne verjela. A nikogar ni našla, naj si je še tako belila glavo, in vsled tega je Klarici verjela. A raztolmačiti si te ljubezni do Hrasta le ni mogla in čimbolj je delala primere med Hrastom, bolj se ji je vsiljeval sum, da ljubi Klarica le koga drugega. Pri tem primerjanju je našla, kar je imenovala »slabe lastnosti« Antona Hrasta. Našla je, da je robat in trd, dočim je bila Klarica mehka in ljubezniva. Dasi je sama znala le za silo čitati, je vendar sprevidela, da je Hrast neizobražen, dočim je bila Klarica vzgojena v samostanu in je znala celo francoski. Našla je zdaj tudi, da je Hrast malobeseden, jako resen in svojevoljen, in da se bo slabo ujemal z veselo, zgovorno in občutljivo Klarico. Spoštovala je Hrasta kot poprej, a njene simpatije do njega so se močno ohladile.</p>
@@ -280,8 +264,6 @@
             <p n="SL-WIKI00457184">Stara markiza je bila Hrastu resnično naklonjena, ker je poznala njegove vrline in je svojo sneho precej pikro zavrnila.</p>
             <p n="SL-WIKI00457185">»Hrast je časti vreden, četudi preprost mož, njegova nevesta pa je izobraženo dekle iz premožne hiše.«</p>
             <p n="SL-WIKI00457186">»Potem jo pomilujem,« je vzkliknila markiza Helena, »zakaj nesrečna bo vse svoje življenje.«</p>
-            <pb n="9"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-009.jpg"/>
             <p n="SL-WIKI00457187">V tem je vstopil Hrast, ki sta mu sledili Ivanka in Klarica. Poznalo se je Klarici, da je bila močno razburjena. Trepetala je pri misli, da stoji pred materjo in pred ženo tistega moža, ki ga ljubi in bala se je, da bi se odprla vrata in bi vstopil v sobo marki sam.</p>
             <p n="SL-WIKI00457188">»Milostiva gospa markiza,« se je obrnil Hrast do stare gospe, »dovolite mi, da Vam predstavim svojo nevesto.«</p>
             <p n="SL-WIKI00457189">Klarica je stopila korak naprej in se priklonila pred staro gospo tako globoko, kakor se je doslej priklonila samo pred altarjem. Stara gospa ji je dala roko in Klarica je to fino mehko roko poljubila z največjo spoštljivostjo. Tedaj pa je stara gospa razprostrla roki in materinsko objela drhteče dekle.</p>
@@ -318,14 +300,10 @@
             <p n="SL-WIKI00457220">Hrast je mislil, da ostaneta Klarica in Ivanka pri njem na obedu, toda obe sta to odklonili.</p>
             <p n="SL-WIKI00457221">»Jaz ne morem ves dan izostati in kupčijo prepustiti dekli, se je izgovarjala Ivanka, ki se ji je sploh mudilo, da pride iz gradu, »Klarice pa tudi pri ženinu ne morem same pustiti, to bodete uvideli, gospod Hrast.«</p>
             <p n="SL-WIKI00457222">Molče je Hrast prikimal. Rad bi bil sestri zadržal, a videč, da je tudi Klarica nestrpna, se ni upal ugovarjati. Spremil ju je do voza in tam poljubil Klarici roko. Poljubil ji je roko prvič, kakor bi ji hotel s tem pokazati, da je odločen navaditi se finejšega obnašanja. Čutil je, da je premalo fin in izobražen za Klarico in domneval, da je to vzrok njenemu nekam čudnemu obnašanju.</p>
-            <pb n="10"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-010.jpg"/>
             <p n="SL-WIKI00457223">Gledal je za vozom toliko časa, dokler mu ni izginil izpred oči, potem pa se je naglo preoblekel, zadel puško na ramo in ne da bi bil obedoval, odšel v gozd.</p>
             <p n="SL-WIKI00457224">Tudi Hrast ni bil zadovoljen s tem dnevom, a sam ni vedel zakaj. Rekel si je večkrat, da ga Klarica sploh ne ljubi, a ni si vedel pojasniti, iz kakega vzroka se hoče ž njim poročiti. Znano mu je bilo, da ima Klarica lepo imetje in da ji torej ni treba zaradi preskrbljenja misliti na možitev. Priznal si je tudi, da bi Klarica prav lahko dobila moža, če bi le hotela, in moža v boljši službi ali boljših dohodkov, kakega uradnika ali trgovca ali večjega posestnika. Iz tega je sklepal, da ga Klarica vendarle ljubi in ga hoče vzeti iz ljubezni — a zdaj si zopet ni znal raztolmačiti, zakaj se vede tako čudno in hladno. Zopet mu je prišlo na misel, da ji je premalo fin in gosposki, da ga ima sicer rada, a da vpliva njegova preprostost in robatost neugodno nanjo.</p>
             <p n="SL-WIKI00457225">Legel je pod drevo, od koder je imel prost razgled po prijazni ravnini in dolgo razmišljal. Naposled je sklenil, da bo govoril pametno besedo z vrhniškim učiteljem. Hotel se je izobraziti in naučiti finejšega vedenja, da bi bil vreden ljubezni lepe Klarice.</p>
          </div>
-         <pb n="11"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-011.jpg"/>
          <div>
             <head>V.</head>
             <p n="SL-WIKI00457226">Anton Hrast je imel prav malo osebnih prijateljev. Kmečki ljudje ga niso marali, ker je vestno in natančno izpolnjeval svojo službo, na Vrhniko ali v Ljubljano je pa prišel le redkokdaj in imel tam le površna poznanstva.</p>
@@ -345,8 +323,6 @@
             <p n="SL-WIKI00457240">Srečnemu naključju se je imel Hrast zahvaliti, da je dobil gozdarsko službo in vzel je seboj Jurja ter ga namestil kot paznika. A bil mu je več kot samo dober prijatelj in zanesljiv služabnik; bil mu je edini zaupnik, s katerim se je pomenil o vseh stvareh, in ki ga je poiskal vselej, če mu je kaj težilo srce.</p>
             <p n="SL-WIKI00457241">Ko se je Hrast naveličal ležati pod drevesom in občudovati razgled, se je odpravil v gozd. Našel je Jurja v priprosti koči, ki je bila zgrajena sredi gozda in v kateri so prebivali markijevi gozdni pazniki. Juri je sedel pred kočo, ko je zagledal, da se mu bliža Hrast.</p>
             <p n="SL-WIKI00457242">»Nekaj mu je,« je šinilo Jurju v glavo, ko je videl izraz posebne resnobe in zamišljenosti na Hrastovem obrazu. A Juri je imel navado, da načeloma nikdar ni ničesar vprašal. Pozdravil je, in videč, da Hrast neče sesti, je molče zadel svojo puško in šel za gozdarjem. Hodila sta že celo uro in še ni nihče izpregovoril. Naenkrat je Hrast zavzdihnil in je rekel:</p>
-            <pb n="12"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-012.jpg"/>
             <p n="SL-WIKI00457243">»Ti si moj najboljši prijatelj, Juri.«</p>
             <p n="SL-WIKI00457244">»Mislim — od takrat ...«</p>
             <p n="SL-WIKI00457245">»Ti si edini človek, ki se veseli z menoj, če sem vesel, in ki se žalosti z menoj, če se mi primeri kaj žalostnega.«</p>
@@ -378,8 +354,6 @@
             <p n="SL-WIKI00457268">Po poroki sta Klarica in Hrast sedla v kočijo, ki jo je bila dala na razpolaganje stara markiza, in se odpeljala naravnost v grad, na novi dom Klarice. Pred gradom ju je pričakoval v novi praznični obleki paznik Juri.</p>
             <p n="SL-WIKI00457269">»Moj edini in najboljši prijatelj.« S temi besedami je Hrast predstavil Jurja svoji mladi ženi. Juri se je sicer okorno, a z veliko spoštljivostjo priklonil Klarici in ji želil vso srečo, a ko mu je Klarica pogledala v oko, jo je vendar zazeblo in tesneje se je stisnila k svojemu možu, kakor bi jo bilo strah njegovega prijatelja. Zdelo se ji je, kakor bi jo hotel Juri s svojimi očmi prebosti in kakor da bi iz njegovih pogledov žarela sovražnost.</p>
             <p n="SL-WIKI00457270">Morala je povesiti oči. Ko jih je zopet dvignila, je vnovič zagledala, da jo motri Juri ostro in očitajoče. Rekla si je, da jo vprašujejo pogledi »zakaj si ga vzela, ko ti zanj nič ni,« in ustrašila se je tega tako, da je naglo stopila mimo Jurja in pohitela v grad.</p>
-            <pb n="13"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-013.jpg"/>
             <p n="SL-WIKI00457271">Prvi dnevi zakonskega življenja so prinesli Klarici brutalno razočaranje. Žalostila se je mnogo in začela se je tudi kesati storjenega koraka, na srečo je bila le malokdaj sama. Stari gospe in markizi Heleni je bilo na deželi dolgočasno. Nič nista prikrivali, da se čutita v Iliriji kakor v prognanstvu in da komaj čakata, kdaj bo marki zopet poklican na Francosko. V svoji osamelosti sta bili veseli, da je Klarica v hiši. Iskali sta njeno družbo kadar sta bili sami doma in vabili sta jo k sebi, kadar sta imeli goste. In ti so prihajali malone vsak dan iz Ljubljane; marki je bil pravzaprav najredkejši gost na gradu.</p>
             <p n="SL-WIKI00457272">Ob sobotah je bila na gradu navadno velika pojedina in zbrala se je tedaj okrog stare markize vsa ljubljanska aristokracija, francoska in domača. Vsakdo je častil v stari markizi teto cesarjeve svakinje ali kaj pričakoval od njenega vpliva, in zato so se vsi radi odzivljali njenim vabilom. Od velikega lova sem je rad prihajal tudi maršal Marmont, če ne za dlje, vsaj za toliko časa, da je pozdravil staro markizo in njene goste ter pokramljal z ljubeznivo in pozorno markizo Heleno.</p>
             <p n="SL-WIKI00457273">Le nerada in največ vsled želje svojega moža se je Klarica odzvala povabilu na tako priredbo, na prvo, ki se je vršila od njene poroke. Dokler je bil Hrast samec, ni bil nikdar povabljen na tako pojedino. Zdaj pa je dobil povabilo in ponosen je bil na Klarico, da mu je do tega pomagala, ponosen tem bolj, ker je iz tega sklepal, da je Klarica, četudi hči preproste hiše, doprinesla dokaz, da je po svoji izobrazbi in po svojem vedenju ravnovredna ponosnim aristokratkam.</p>
@@ -400,8 +374,6 @@
             <p n="SL-WIKI00457288">Markizi je ta ponudba prav prišla, kajti komaj je že čakala, da se vrne k maršalu Marmontu.</p>
             <p n="SL-WIKI00457289">»Pravi angel ste, gospa Klarica,« je vzkliknila zadovoljno »in hvaležna sem vam za vašo prijaznost.«</p>
             <p n="SL-WIKI00457290">In že se je zasukala in pobegnila iz sobe, ne da bi se še zmenila za svojega otroka, tako se ji je mudilo, da bi prišla zopet k maršalu.</p>
-            <pb n="14"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-014.jpg"/>
             <p n="SL-WIKI00457291">Klarica je sedla in vzela malega Charlesa na kolena. Nekako ginjeno je ogledovala otroka, saj je bil sin onega moža, ki mu je bilo njeno srce brezmejno vdano. Nežno in z resnično ljubeznijo je otroku gladila lase in toplo ji je postalo v duši, prvič od ure, ko je postala žena Antona Hrasta.</p>
             <p n="SL-WIKI00457292">Mali Charles se je dobro počutil pri Klarici. Nekaj časa se je še igral z njo, potem pa se je stisnil k njej in kmalu mirno zaspal. Klarica ga je položila na posteljo. Sklonila se je nadenj, kakor bi ga hotela objeti, a samo poljubu podoben dih je zadel njegovo lice. Potem je Klarica odšla.</p>
             <p n="SL-WIKI00457293">Na hodniku jo je čakal Hrast z očitno nestrpnostjo.</p>
@@ -423,8 +395,6 @@
             <p n="SL-WIKI00457309">»Nekaj nosite v srcu, česar nočete nikomur razodeti.«</p>
             <p n="SL-WIKI00457310">Klarica je zardela do las, a na srečo ni markiza Helena svojim lastnim besedam pripisovala posebnega pomena, jih izgovorila le, ker so ji slučajno prišle na jezik in vsled tega tudi ni zapazila, kak učinek so napravile te besede.</p>
          </div>
-         <pb n="15"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-015.jpg"/>
          <div>
             <head>VII.</head>
             <p n="SL-WIKI00457311">V svoji prostorni sobi v prvem nadstropju takrat jako imenitne hiše, ki stoji še dandanes v Gosposkih ulicah v Ljubljani poleg »Narodne kavarne«, je zimskega popoldne ležala princezinja Dietrichstein na razkošni zofi in se je dolgočasila. Zunaj je bil trd mraz in melo je na vso moč, v sobi je bilo vroče, ker je v kaminu neprestano plapolal ogenj. Princezinja je bila namreč vajena nositi kar mogoče lahke, tanke obleke in zlasti doma se je oblačila, v toilete, kakršne ni v Ljubljani nihče nosil, kakršne pa so bile moderne v Parizu za časa direktorija. Ugajale so ji te lahne, skoro prozorne obleke, ker so samo toliko zaodevale telo, kolikor je bilo največ potrebno, in je bujna lepota oblik prišla do veliko večje veljave.</p>
@@ -464,8 +434,6 @@
             <p n="SL-WIKI00457345">»A saj vam tega nič ne zamerim, dragi marki, nasprotno. Tako krepostna pa le ni nobena ženska, da bi bila razžaljena, če kdo po njej zahrepeni. Čim manj spoštljive želje imajo moški glede kake ženske, toliko bolj laskavo je to zanjo.«</p>
             <p n="SL-WIKI00457346">»Princezinja,« je ječal marki, ki ga je ta cinizem spravljal v vse večjo zadrego. »Kar mi tu pripovedujete, so izrodki vaše fantazije ...«</p>
             <p n="SL-WIKI00457347">»Kaj še, dragi marki. Kar sem povedala, je gola resnica. Tako kakor jaz, mislijo vse ženske, samo da je malokatera tako odkritosrčna, kakor sem jaz.«</p>
-            <pb n="16"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-016.jpg"/>
             <p n="SL-WIKI00457348">Marki bi bil rad zasukal pogovor na kak drug predmet, a princezinja ga je prekinila pri prvih besedah.</p>
             <p n="SL-WIKI00457349">»Le mirno sedite, marki, in poslušajte, kar vam bom še povedala. Torej, ko sem videla, da me občudujete, ko sem iz vaših oči spoznala vaše želje, mi je to ugajalo. Poznavalec ste ženskih lepot, to pričajo različna razmerja, ki ste jih že imeli. Svojo hvaležnost za to sem vam izkazala s tem, da sem vam dovolila nekaj poljubov.«</p>
             <p n="SL-WIKI00457350">Marki se je hitro nagnil nad princezinjo in je poskusil jo poljubiti, a princezinja je bila hitrejša in je to preprečila.</p>
@@ -503,8 +471,6 @@
             <p n="SL-WIKI00457382">»Duhovita je in hudobna,« si je rekel marki. »Posmehuje se mi, ker sem se je hotel polastiti, a se mi ni posrečilo in ker je to preprečil tisti človek, ki hodi z ravno tistimi nameni semkaj, kakor jaz.«</p>
             <p n="SL-WIKI00457383">Prisiljeni pogovor, ki se je počasi razvil, je bil mučen tako baronu, kakor markiju in oba sta hitela, da sta mu naredila konec. Princezinja se je hudomušno smejala, ko sta morala skupno oditi in se drug drugemu delati prijazna, dasi je v njih dušah tlelo sovraštvo.</p>
          </div>
-         <pb n="17"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-017.jpg"/>
          <div>
             <head>VIII.</head>
             <p n="SL-WIKI00457384">Maršal Marmont je smatral za svojo glavno nalogo, pridobiti simpatije domačega prebivalstva za francosko cesarstvo. Francosko okupacijo je z resničnim veseljem pozdravilo samo malo število slovenskih narodnjakov in tisti tudi maloštevilni krogu, ki so bili sovražni krutemu policijskemu sistemu avstrijskemu. Pridobiti vse tiste, ki so simpatizirali še z Avstrijo, ali ki so se ravnodušno podvrgli novim gospodarjem, je bilo toliko težje, ker je imela dunajska vlada še vedno vse polno agentov in emisarjev na Kranjskem, ki so prebivalstvo hujskali proti Francozom. Marmont je pazil na vse, da si pridobi naklonjenost prebivalstva. V prvi vrsti je gledal na ženstvo, dobro vedoč, da so ženske najboljše agitatorice. Zaradi ljubljanskega ženstva je prirejal vsakovrstne izlete, zabave, koncerte in plese, in obneslo se mu je to tako dobro, da so celo žene in hčere plačanih avstrijskih emisarjev stale na njegovi strani.</p>
@@ -525,8 +491,6 @@
             <p n="SL-WIKI00457399">Listala sta dalje, a Klarica je zapazila, da jima že ni več za slike, da je bližina njiju teles začela vplivati na njiju živce. Maršal je položil svojo roko na markizino roko in ni več gledal v knjigo, nego na markizo in tudi markiza je začela drhteti in rdečica ji je silila v lice.</p>
             <p n="SL-WIKI00457400">»Ah, ljuba Klarica, bodite tako prijazni in prinesite ves moj lišp,« je naenkrat nekako plaho rekla markiza. »Laglje bo izbrati blago in določiti barve, če je lišp pri rokah. Medtem poiščeva z maršalom slike.«</p>
             <p n="SL-WIKI00457401">Nerada je šla Klarica iz sobe. Rada bi bila z očmi posvarila markizo, ki pa se ni upala dvigniti pogleda od knjig, kakor bi se bala, da je uganila Klarica njen namen in kakor bi se hotela umakniti njenemu posvarilu.</p>
-            <pb n="18"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-018.jpg"/>
             <p n="SL-WIKI00457402">Maršal Marmont je sledil odhajajoči Klarici z očmi. Komaj je bila vrata zaprla za seboj, je že položil svojo roko markizi Heleni okrog pasa, dihnil rahel poljub na njene lase in potem so njegove ustne iskale njenih usten.</p>
             <p n="SL-WIKI00457403">Maršal je bil pač vajen lahkih zmag nad ženskimi srci in to ga je zapeljalo, da je tudi pri markizi Heleni prezrl tisto nežnočutnost, ki jo zahtevajo pisav v takih trenotkih mehke ženske. Vsaj nekaj ljubih, nežnih besed bi bila markiza rada čula, predno jo je maršal poskusil poljubiti, a da ji je kar roko položil okrog pasa in jo hotel poljubiti, to jo je prestrašilo. Ubranila se je maršalovega poljuba in se izvila iz njegovih rok.</p>
             <p n="SL-WIKI00457404">»Ne — ne — nikakor ne,« je polglasno vzkliknila in se umaknila od mize za nekaj korakov.</p>
@@ -555,8 +519,6 @@
             <p n="SL-WIKI00457427">To je bilo vse, kar si je marki mislil, a da se njegova žena zapeljivemu maršalu ni vdala, to mu je bilo vendar prijetno, to je laskavo njegovemu samoljubju in ga vsaj deloma potolažilo za neprijetnosti in poniževanja, ki mu jih je provzročala princezinja Dietrichstein.</p>
             <p n="SL-WIKI00457428">Pustil je Heleno in Klarico pri njiju posvetovanjih o toaleti in o lišpu za veliko maskerado in šel iskat razvedrila in zabave v Koloretovo kavarno, kjer je bilo zbirališče francoskih oficirjev in kjer se je kartalo in popivalo cele noči.</p>
          </div>
-         <pb n="19"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-019.jpg"/>
          <div>
             <head>IX.</head>
             <p n="SL-WIKI00457429">Lahkoživost ni v Ljubljani nikdar slavila takih triumfov, kakor za francoske okupacije. Francoski oficirji, uradniki in vojaki so dajali slabe zglede in Ljubljančanje so te zglede zvesto posnemali. S Francozi vred je prišlo v Ljubljano tudi mnogo tujega, velikomestnega življenja vajenega ženstva, ki je pripadalo najrazličnejšim sloiem in je v vseh krogih razširjalo nazore in navade, ki so bile dotlej malomeščanskim Ljubljančanom popolnoma neznane, ali so se jim vsaj zdele gorostasne, nenravne in naravnost strašne.</p>
@@ -580,8 +542,6 @@
             <p n="SL-WIKI00457447">V predsobi je spala hišna na zofi in poleg nje je gorela luč. Ni se prebudila, ko sta šla princezinja in marki mimo nje, a tema dvema ni bilo nič na tem, če ju hišna tudi vidi.</p>
             <p n="SL-WIKI00457448">Pozabljeni so bili vsi oziri, pozabljene vse dolžnosti.</p>
             <p n="SL-WIKI00457449">V tej uri je postala princezinja Alma Dietrichstein ljubica markija Charlesa d’Aureville.</p>
-            <pb n="20"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-020.jpg"/>
             <p n="SL-WIKI00457450">Marki d’Aureville se ni vdajal iluzijam glede ljubezni princezije Dietrichstein. Poznal je svojo ljubico dovoli dobro, da je vedel, pri čem da je. Uvideval je, da se mu ni vdala iz tiste brezmejne ljubezni, ki daje včasih ženskam pogum, kljubovati vsemu svetu, marveč da je postala žrtev svoje krvi in svojega temperamenta, da se je je polastil v trenotku, ko je bila vsa razdražena vsled tega, kar je videla in doživela na maskeradi v gledališču.</p>
             <p n="SL-WIKI00457451">Tudi princezinja si je bila že drugi dan na jasnem, kako se je zgodilo, da je postala ljubica markija d’Aureville. Bila je lahkomiselna in ošabna in ni ji bilo žal tega, kar se je zgodilo.</p>
             <p n="SL-WIKI00457452">»Živeti, uživati trenotek, naj prinese bodočnost kar hoče,« to je bilo tudi njeno načelo.</p>
@@ -609,8 +569,6 @@
             <p n="SL-WIKI00457474">»Ljubim ... svojega ženina.«</p>
             <p n="SL-WIKI00457475">Marki se je molče priklonil in je odšel.</p>
          </div>
-         <pb n="21"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-021.jpg"/>
          <div>
             <head>X.</head>
             <p n="SL-WIKI00457476">V ljubljanski škofiji poleg stolne cerkve ni bilo nikdar takega življenja, kakor tedaj, ko je tamkaj stanoval guverner Ilirije maršal Marmont. Živeli so pač včasih v tem poslopju prej in pozneje tudi prav veseli škofje, ki so ljubili posvetna razveseljevanja in sprejemali v svojih dvoranah tudi lepe, a ne vedno krepostne dame in tudi greha se je mnogo storilo v teh prostorih, toda takega razkošja, kakor za časa maršala Marmonta, razkošja v vsakem oziru, niso ti zidovi niti poprej niti kasneje videli.</p>
@@ -631,8 +589,6 @@
             <p n="SL-WIKI00457491">Hoteč se skriti maršalu Marmontu, ki jo je bil zapazil med gosti in poskušal priti do nje, je stopila v stransko sobo, kjer je bila okrog buffeta velika gneča. Iz skupine kostumiranih dam je slišala svoje ime. Postala je in poslušala. Govorilo se je res o njej.</p>
             <p n="SL-WIKI00457492">»Zala je ta markiza, prav presrčna in ljubezniva,« je rekla ena dotičnih dam. »Res, obžalujem jo, da ima tako nesrečo v zakonu.«</p>
             <p n="SL-WIKI00457493">»Tako je, če ima žena preveč lepega in preveč zabavnega in veselega moža.«</p>
-            <pb n="22"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-022.jpg"/>
             <p n="SL-WIKI00457494">»In vi veste gotovo, da ima ljubezensko razmerje s princezinjo Dietrichstein?«</p>
             <p n="SL-WIKI00457495">»Imel je tako razmerje, draga prijateljica, a končano je, popolnoma končano.«</p>
             <p n="SL-WIKI00457496">»In kdo je stopil na njegovo mesto?«</p>
@@ -641,8 +597,6 @@
             <p n="SL-WIKI00457499">»Tudi meni in pravzaprav mu od srca privoščim, da ga je baron Gall v dvoboju ranil.«</p>
             <p n="SL-WIKI00457500">Trepetaje je poslušala markiza Helena ta pogovor, ki ji je razkril stvari, katerih doslej niti slutila ni. Spekla so jo razkritja, da bi se bila najraje razjokala in zbežala je iz sobe, da poišče kotiček, kjer bi se mogla odpočiti vsaj nekaj trenotkov.</p>
             <p n="SL-WIKI00457501">Nikdar ni mislila, da ji je njen mož zvest, a sodila je, da ima vendar le njo rad, z drugimi pa se samo kratkočasi. A da se je zaradi druge celo dvobojeval s tekmecem, to jo je bolelo toliko bolj, ker je čutila, da je osmešena in ponižana.</p>
-            <pb n="23"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-023.jpg"/>
             <p n="SL-WIKI00457502">Užaljena in ponižana je bila markiza Helena toliko bolj, ker si je štela v veliko zaslugo, da se ni dala premotiti maršalu Marmontu. Že jo je bil očaral, že je bila pripravljena, da stopi s pravega pota, a v zadnjem trenotku se je bila zavedla svojih zakonskih obvez. Vse to, si je zdaj očitala, je storila zaradi moža, ki ne samo, da jo vara, nego se zaradi druge ženske celo dvobojuje in s tem svojo ženo smeši.</p>
             <p n="SL-WIKI00457503">Kako žal ji je bilo zdaj, da je odbila od sebe maršala. Kar jezna je postala na Klarico, da jo je v tistem kritičnem trenotku motila in ji s svojimi očitajočimi pogledi obudila vest.</p>
             <p n="SL-WIKI00457504">Zdaj ne bo več tako otročja, si je rekla. Če je možu vse dovoljeno, če se mož tako daleč spozabi, da se zaradi druge ženske dvobojuje, potem se tudi ženi ne sme zameriti, če pozabi na dolžne obzire do moža in išče za svojo nesrečo drugod tolažbe.</p>
@@ -667,8 +621,6 @@
             <p n="SL-WIKI00457523">»Utrujena je in počitka potrebna,« je rekla sama pri sebi, ko se je v svoji sobi pripravljala za počitek. »Od utrujenosti še nikomur niso drhtele ustne in žarele oči. In par čašic šampanjca tudi ni tega provzročilo, saj je plesala kakor blazna. Ne. Nekaj drugega je vzrok. Pa ne, da se uresniči, kar sem že dostikrat rekla svojemu sinu: Med tem, ko loviš ti po tujih loviščih fazane, se bo v tvoje gnezdo vtihotapil kragulj in se polastil tvoje golobice. Lepa je, presrčna in ljubezni vredna, ta golobica, a mesto da bi se moj sin z njo bavil, si pusti zaradi druge ženske roko presekati. Spoznal bo šele, kaj ima na svoji ženi, ko bo že prepozno. Pa — naj se zgodi, kar se ne da preprečiti; vsak je sam kovač svoje zakonske sreče ali nesreče.</p>
             <p n="SL-WIKI00457524">S to filozofsko tolažbo je stara gospa legla v postelj in je mirno zaspala. Njej sami se v dolgih letih njenega zakona ni moglo ničesar očitati, toda spoznala je svet in ljudi in ker je bila vzrasla v idejah svojega časa, zato ni jemala ničesar tragično in je ni prestrašila niti misel, da bodeta njen sin in njena sneha hodila vsak svojo pot. »Živeti in uživati«, to je bilo načelo, ki ga je, četudi ne izvrševala, pa vziic svojim sivim lasem pripoznavala tudi stara markiza.</p>
          </div>
-         <pb n="24"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-024.jpg"/>
          <div>
             <head>XI.</head>
             <p n="SL-WIKI00457525">Marki d’Aureville je bil vsled svoje rane prisiljen ležati v postelji. Željno je čakal, da pride markiza Helena vsaj vprašat, kako se mu godi in željno je tudi čakal, da mu pove, kako je bilo na kostumnem plesu pri maršalu Marmontu, kako se je tam zabavala in kaj je vse tam videla in slišala. Kar neodpustno se mu je zdelo, da se markiza zanj nič ne zmeni. Pozabil je popolnoma, kako jo je zanemarjal, varal in celo osmešil ter se nanjo jezil, češ, da ima prav čudne pojme o svojih dolžnostih kot žena.</p>
@@ -680,8 +632,7 @@
             <p n="SL-WIKI00457531">»Ne odpošljem ga danes,« je rekla sama sebi. »Preveč bi si domišljal. Naj raje potrpi nekaj dni.«</p>
             <p n="SL-WIKI00457532">A komaj je zaklenila miznico, so jo obšle že druge misli.</p>
             <p n="SL-WIKI00457533">»Samo sebe varam. Govorim, da bi se preveč domišljal, v resnici pa me je le strah pred tem korakom. Kako sem vendar neumna. Niti toliko poguma nimam, da bi izpolnila svoj sklep in dano obljubo, samo ker sodijo ljudje, da je to greh. Moj mož je imel že nebroj ljubic, niti toliko ozirov ni imel name, da bi me obvaroval smešnosti, jaz pa se ne upam storiti tega, kar on vsak dan uganja.«</p>
-            <p n="SL-WIKI00457534">Odprla je zopet, miznico in vzela iz nje pismo. Pri tej priliki <pb n="25"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-025.jpg"/> je zagledala lično igračo, ki jo je bila pred nekaj dnevi kupila za svojega otroka. Ta igrača jo je spomnila, da ni samo žena, ki jo je mož prevaril in osmešil, nego da je tudi mati.</p>
+            <p n="SL-WIKI00457534">Odprla je zopet, miznico in vzela iz nje pismo. Pri tej priliki  je zagledala lično igračo, ki jo je bila pred nekaj dnevi kupila za svojega otroka. Ta igrača jo je spomnila, da ni samo žena, ki jo je mož prevaril in osmešil, nego da je tudi mati.</p>
             <p n="SL-WIKI00457535">Obsedela je pri mizi in je mehanično sukala v rokah pismo ter čitala naslov »Njegovi prevzvišenosti maršalu Marmontu, vojvodi Dubrovniškemu«. Ves zamišljen je bil izraz njenega dekliškega obličja. Skoro celo uro je tako sedela pri svoji mizici. Naenkrat je vrgla pisemce zopet v miznico in odskočila s sedeža.</p>
             <p n="SL-WIKI00457536">»Kako je le mogoče, da sem prišla na tako misel,« je šepetala in začela z naglimi koraki premerjati svojo sobo. »Že zaradi svojega otroka ne smem tega storiti.«</p>
             <p n="SL-WIKI00457537">Tedaj pa se je spomnila princezinje Dietrichstein in v trenotku so vsi njeni dobri sklepi zopet razpadli v nič. Pred oči ji je stopila podoba te ženske izredne lepote in elegance. Videla je, kako se porogljivo smeje njej, prevarani in osmešeni ženi, kako gleda nanjo z izrazom žaljivega pomilovanja. Vsa kri je zavrela v tem trenotku v mali markizi in spreletelo jo je bolestno čuvstvo, da jo je njen mož ne le varal, nego tudi ponižal in osramotil pred vsem svetom.</p>
@@ -692,8 +643,6 @@
             <p n="SL-WIKI00457542">»Ali želite, da pokličem hišno?« je vprašala Klarica, ki je takoj zapazila, da moti malo markizo.</p>
             <p n="SL-WIKI00457543">»Da,« je odgovorila markiza, a takoj vzkliknila »ne — počakajte malo. Če utegnete, ostanite malo tu.«</p>
             <p n="SL-WIKI00457544">Markiza je primaknila Klarici stol in je sama sedla za pisalno mizo. Maršalu namenjeno pismo je držala v rokah. Nehote je Klarica pogledala na pismo in streslo jo je po vsem životu, ko je čitala naslov. Zdaj je videla, da se nesrečno ljubavno razmerje, ki je je že enkrat zapazila in v kritičnem trenotku motila, ni še prenehalo, da ni še mrtvo, nego da je zadobilo še nevarnejši značaj. Trpka čuvstva so prešinila njeno srce in temen je postal njen pogled, a rekla ni ničesar.</p>
-            <pb n="26"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-026.jpg"/>
             <p n="SL-WIKI00457545">Mala markiza je pač vedela, kaj hoče Klarici reči, ni pa vedela, kako naj začne.</p>
             <p n="SL-WIKI00457546">»Ali si morete predstavljati, o čem sem ravnokar razmišljevala?« je končno vprašala in ne čakaje odgovora nadaljevala: »Razmišljevala sem o svojem življenju. Kar sem mislila, tega vi, modra Klarica, gotovo ne bodete odobravali.«</p>
             <p n="SL-WIKI00457547">Klarica se je silila, da bi se nasmehnila, a ni se ji posrečilo.</p>
@@ -718,8 +667,6 @@
             <p n="SL-WIKI00457566">»Verujte mi, markiza,« je nadaljevala Klarica, »najslajše kar more ženska občutiti, to čuti takrat, ko se žrtvuje za ljubljenega moža. To mi pravi srce. Preprosta žena sem in vaših krogov nič ne poznam. Nobenega pojma nimam, kako mislijo in čutijo ljudje vaših krogov. Slišala sem že večkrat, da jim je edino vodilo »živeti — uživati.« A jaz tega ne moreni verjeti, ker tudi ti ljudje imajo srce in dušo kakor vsi drugi.«</p>
             <p n="SL-WIKI00457567">Klarica se je bila nekoliko pomirila in je tiho dostavila:</p>
             <p n="SL-WIKI00457568">»Če bi me tista gospa, o kateri ste govorili, vprašala za svet, jaz bi ji rekla: Odpustite možu zaradi ljubezni, ki tli v vašem srcu in ki gotovo tudi v njegovem srcu ni ugasnila.«</p>
-            <pb n="27"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-027.jpg"/>
             <p n="SL-WIKI00457569">Markiza Helena je bila v svojem bistvu mehka žena. Dasi prava hči svojega časa, je vendar imela trenotke sanjavosti, ko so jo obšla romantična nagnenja. Sicer se ni mogla vdati Klaričinim nazorom, ker so se ji zdeli pretirani, a ugovarjati jim tudi ni hotela, ker je uvidevala, da je v njih mnogo resnice. To kar je markiza doživela, še ni zamoglo podreti tistih nazorov, ki so ji bili privzgojeni, nego jih je šele začelo podkopavati. Na tihem si je markiza rekla, da se je na plesu pri maršalu Marmontu vendar prenaglila. Postalo ji je žal, da se je tako zgodilo in nervozno so se igrali njeni prsti s pismom, namenjenim maršalu, kakor bi hoteli to pismo raztrgati.</p>
             <p n="SL-WIKI00457570">»Denimo, Klarica,« je po daljšem molku povzela markiza, »da bi se vam tako zgodilo kakor tisti ženi, o kateri sem vam pravila. Povejte mi po pravici, kaj bi vi v takem slučaju storili?«</p>
             <p n="SL-WIKI00457571">To vprašanje je spravilo Klarico v veliko zadrego. Nekaj trenotkov sploh ni vedela, kaj bi odgovorila. Spomnila se je, da se je poročila s svojim možem, ne da bi ga ljubila in ne da bi imela zanj količkaj nagnenja. Njen mož je ni mogel ne varati ne smešiti, ker ni zanj čutila ničesar drugega, kakor nekoliko hvaležnega priznanja, da ravna lepo ž njo. Pač pa se je Klarica zavedala, da pravzaprav ona vara in smeši svojega moža, četudi samo v mislih in četudi razen njenega srca nihče niti ne sluti njene brezmejne ljubezni do markija d’Aurevilla.</p>
@@ -736,13 +683,10 @@
             <p n="SL-WIKI00457582">»Gospa markiza — ali želite, da vam zdaj pošljem hišno?«</p>
             <p n="SL-WIKI00457583">Nekaj sekund je markiza molčala, potem je glasno in odločno rekla:</p>
             <p n="SL-WIKI00457584">»Ne, hvala vam Klarica.« In v naslednjem trenotku, ko je Klarica zapirala vrata za seboj, je videla, da je markiza Helena hitro raztrgala na drobne kosce maršalu Marmontu namenjeno pismo.</p>
-            <p n="SL-WIKI00457585">Klarica je obstala pred vratmi. Obe roki je stiskala k srcu, tako ji je utripalo, ne le od razburjenja, tudi od veselja, da je markiza raztrgala svoje pisemce. Bilo ji je prijetno zadoščenje, da je s svojim prigovarjanjem pripravila markizo do tega in jo takorekoč v zadnjem trenotku odvrnila od koraka, ki ga je bila že odločena storiti. Zavedala se je Klarica, da je s tem vsaj za nekaj časa rešila zakonski mir in zakonsko srečo markija d’Aurevilla, in ta zavest je bila sladka, saj si je Klarica rekla, da se je zavzela zanj, ki ga ljubi iz vse svoje duše, da je <pb n="28"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-028.jpg"/> branila njega in z vso svojo zgovornostjo reševala in rešila njegovo zakonsko srečo.</p>
+            <p n="SL-WIKI00457585">Klarica je obstala pred vratmi. Obe roki je stiskala k srcu, tako ji je utripalo, ne le od razburjenja, tudi od veselja, da je markiza raztrgala svoje pisemce. Bilo ji je prijetno zadoščenje, da je s svojim prigovarjanjem pripravila markizo do tega in jo takorekoč v zadnjem trenotku odvrnila od koraka, ki ga je bila že odločena storiti. Zavedala se je Klarica, da je s tem vsaj za nekaj časa rešila zakonski mir in zakonsko srečo markija d’Aurevilla, in ta zavest je bila sladka, saj si je Klarica rekla, da se je zavzela zanj, ki ga ljubi iz vse svoje duše, da je  branila njega in z vso svojo zgovornostjo reševala in rešila njegovo zakonsko srečo.</p>
             <p n="SL-WIKI00457586">»Obvarovala sem ga, da se mu žena ni izneverila, obvarovala sem ga, da ga žena ne bo varala in smešila,« si je rekla Klarica, »in zdaj čutim, kako blaženstvo je, če se človek žrtvuje za ljubljenega moža. V mojih rokah je bila njegova usoda. Lahko, igraje lahko bi pripravila markizo do tega, da se izneveri svojemu možu in mogla bi potem zavzeti njeno mesto v njegovem srcu. A ljubim ga preveč, da bi kaj takega storila. Če sem jaz srečna ali nesrečna, je vseeno; da je le on srečen in da nobena senca ne pade na njegov mir.«</p>
             <p n="SL-WIKI00457587">Še tisti dan je markiza Helena s Klarico zapustila Ljubljano in se zopet preselila na Kušljanov grad, hoteč se umakniti obiskom maršala Marmonta. Šla je tudi zategadelj, ker je že vse mesto vedelo za razmerje njenega moža s princezinjo Dietrichstein in za njegov dvoboj z baronom Gallom. Klarica pa se je bala prezirljivih opazk in porogljivih pogledov svoiih znancev in znank.</p>
          </div>
-         <pb n="29"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-029.jpg"/>
          <div>
             <head>XII.</head>
             <p n="SL-WIKI00457588">Gozdar Hrast in njegov paznik in prijatelj Juri sta sedela v lovski koči v gozdu in čakala večera, ko sta nameravala iti zasledovat lovske tatove. Na mizi je stal velik vrč vina, a pil je to žlahtno kapljico, poslano iz grajske kleti samo Juri. Hrast je bil molčeč in čemeren, dasi se je Juri na vse načine trudil, da bi ga pripravil do smeha. Pripovedoval mu je vsakovrstne šale, a Hrast ga je komaj poslušal; pravil je potem različne vesele ali strašne doživljaje v bitkah z lovskimi tatovi in vojaškimi beguni, a Hrast se za vse to ni zmenil. Sedel je pri oknu, opiral glavo v dlan in gledal ven, kakor bi poslušal, kako lomi sneg vejevje starih smrek.</p>
@@ -769,8 +713,6 @@
             <p n="SL-WIKI00457609">»Nikogar ne mislim sumničiti,« je zatrdil Juri, »samo dober svet sem ti dal.«</p>
             <p n="SL-WIKI00457610">»Taki sveti so morda v navadi pri gorenjskih hribovcih, meni jih pa ni treba.«</p>
             <p n="SL-WIKI00457611">»Nisem te hotel žaliti,« je izjavil Juri. »Tebe ne bi žalil, za ves svet ne. Kar pa se tiče gorenjskih hribovcev, ti lahko rečem, da je med njimi marsikaka dobra navada. Če vidi gorenjski hribovec, da se žena zanj ne zmeni, da je vesela sama med tujimi ljudmi, doma pa otožna, da žena samo sanjari in se še za gospodinjstvo ne meni, postane vselej pazljiv. In s tem se je preprečila že marsikatera nesreča.«</p>
-            <pb n="30"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-030.jpg"/>
             <p n="SL-WIKI00457612">Juri se je obrnil in je snel svojo puško s klina, kajti prišel je čas zasledovanja lovskih tatov. Pred hišo so bili zbrani že drugi pazniki in tako je moral tudi Hrast lotiti se svoje službe, dasi mu je bilo to skrajno neprijetno.</p>
             <p n="SL-WIKI00457613">S težkim srcem se je odpravil s pazniki v gozd. Postajališče je bilo vsakemu že vnaprej določeno, tako da so drug za drugim molče izginili od družbe in je naposled Hrast ostal sam. Mehanično je poiskal svoje postajališče. Bilo je to važno mesto, a Hrast ni bil v stanu misliti na svoje službene dolžnosti. Po glavi mu je rojilo samo to, kar mu je pripovedoval Juri. Ni mogel tajiti, da so Jurjeve besede vzbudile v njem veliko nezaupnost do Klarice. Ničesar, prav ničesar ni vedel, kar bi zamoglo vreči na Klarico le najmanjši sum, a nezaupen je bil vendar. Dopovedoval je sam sebi, da je Juri kmečki človek, neolikan in surov, da torej ni vstanu imeti kako prepričanje, naslanjajoče se na dejstva. Rekel si je, da govori iz Jurja samo sovraštvo proti ženskemu spolu, nastalo vsled njegove nesrečne ljubezni, in posebej še, da sovraži Klarico, ki je zavzela prvo mesto v Hrastovem srcu ter izpodrinila prijatelja. Kar je bil povedal Juri, se je vse tako ujemalo z njegovimi lastnimi opazovanji, z dejstvi in zlimi slutnjami, ki so se zdaj in zdaj porajale v njegovem srcu, da vsa prisiljena samotolažba ni mogla ničesar žaleči.</p>
             <p n="SL-WIKI00457614">Naslonil se je ob mogočno bukev, vzel puško pod pazduho in se še ganil ni, ko je komaj sto korakov od njega počila puška, dogovorjeno znamenje, da so pazniki izsledili skrivališče lovskih tatov in je obkolili. Šele ko je zaslišal kričanje in nove strele, je postal pozoren. Odstopil je od drevesa in ravnodušno pripravil svojo puško. V tem hipu so skočili iz gošče štirje možje, pred pazniki bežeči lovski tatovi, podrli Hrasta na tla in mu iztrgali puško, potem pa zopet izginili v gozdu.</p>
@@ -789,8 +731,6 @@
             <p n="SL-WIKI00457627">»Saj ti tudi ničesar ne očitam. Samo to vem in čutim vsak dan, da sem ti zopern in da nimaš zame nič ljubezni. Najbrž sem ti preveč preprost in preveč navaden ter premalo omikan. Jaz se te pač ne znam dosti nežno dotakniti, zakaj če te poljubim, te že boli, in če govorim s teboj, govorim najbrž tudi premalo nežno, ker pri vsaki moji besedi zadrhtiš.«</p>
             <p n="SL-WIKI00457628">»Ne govori tako, Anton, prosim te.«</p>
             <p n="SL-WIKI00457629">»Saj sem ti že rekel, da ti ničesar ne očitam. Sam, edino sam sem kriv, da me ne ljubiš, čeprav ti je moje srce vdano.«</p>
-            <pb n="31"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-031.jpg"/>
             <p n="SL-WIKI00457630">Hrastove besede so Klarico zbegale. Padla je na svoj stol in zakrila lice z rokama. Solze so ji silile v oči in ni jih mogla zadrževati. Razjokala se je, ker je morala priznati, da je vse resnično, kar je govoril Hrast in ker se je v tem priznanju zrcalila vsa njena nesreča. Zdaj je videla vse protislovje med svojimi tajnimi nagnenji in med svojim dejanjskim življenjem, med sladko skrivnostjo svojega srca in brutalno resnico svoje usode, in to jo je razžalostilo na smrt in ji pognalo solze v oči.</p>
             <p n="SL-WIKI00457631">Hrasta so te solze samo razdražile, zakaj sodil je, da so njegove besede in v njih obsežena očitanja to povzročile, dočim Klarica na to še mislila ni, marveč edino na svojo usodo.</p>
             <p n="SL-WIKI00457632">»To je res čudno,« se je ljutil Hrast. »Jaz bi imel tisoč vzrokov razjokati se nad svojo nesrečo — solze pa prelivaš ti. Morda me boš še krvnika imenovala in morilca svoje sreče, med tem ko krvavi moje srce in je moja duša do vrha polna žalosti in bridkosti.«</p>
@@ -816,8 +756,6 @@
             <p n="SL-WIKI00457652">»Prisegam ti pri spominu na svojo mater, da to ni res.«</p>
             <p n="SL-WIKI00457653">Premagala se je toliko, da se mu je nasmehnila, toda njena duša je bila žalostna na smrt.</p>
          </div>
-         <pb n="32"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-032.jpg"/>
          <div>
             <head>XIII.</head>
             <p n="SL-WIKI00457654">Težko je nositi velike skrbi, a še težje jih je prikrivati. To je spoznala tudi Klarica, ko je po burnem nastopu s svojim možem začela uvidevati, da mora bolestnosladko skrivnost svojega srca zakriti tako, da bi je nihče ne mogel uganiti, niti človek, ki mu ljubosumnost ostri razum in oči.</p>
@@ -854,8 +792,6 @@
             <p n="SL-WIKI00457685">»A ti, Klarica, ponosna moja Klarica, ti ga vzlic temu ljubiš?«</p>
             <p n="SL-WIKI00457686">»Da, Ivanka, čez vse na svetu.«</p>
             <p n="SL-WIKI00457687">Zavladal je molk v sobi. Pred hišo so postajali posli, se krohotali in se dražili z robatimi šalami in opomnjami, vmes se je čulo osorno poveljevanje Hrastovo, a sestri nista čuli niti tega ropota in vpitja, niti veselega prepevanja iz sobe markize Helene. Tesno objeti sta sloneli na zofi, zatopljeni v svoje misli. Ena je mislila na razočaranje, ki ji jo je prinesla preteklost, druga na bolečine, ki jih ji prinese prihodnjost.</p>
-            <pb n="33"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-033.jpg"/>
             <p n="SL-WIKI00457688">Po dolgem molku je prijela Ivanka svojo sestro za roko in jo je vprašala:</p>
             <p n="SL-WIKI00457689">»Torej res nisi še ničesar priznala markiju?«</p>
             <p n="SL-WIKI00457690">»Ničesar.«</p>
@@ -886,8 +822,6 @@
             <p n="SL-WIKI00457715">»Ne, ne — nikdar ... in za nobeno ceno ne grem od tod. In če bi me segnali iz gradu — dlje bi ne šla kot do kraja, od koder se ta grad še vidi. Če že ničesar nimam od svoje ljubezni, vsaj od daleč ga hočem videti, ki mi je najljubše bitje pod božjim solncem.«</p>
             <p n="SL-WIKI00457716">Ivanka ni ničesar več rekla, ker je uvidela, da pri Klarici ne zaleže več nobena beseda in noben svet. Roko v roki sta sedeli še cele ure, vsaka zatopljena v svoje misli. Šele ko se je začelo mračiti, je Ivanka vstala in se pripravila za odhod. Tudi sedaj ni nobena zinila. Molče sta se objeli in s tem objemom je bilo povedano vse.</p>
          </div>
-         <pb n="34"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-034.jpg"/>
          <div>
             <head>XIV.</head>
             <p n="SL-WIKI00457717">Marki Charles d’Aureville se je dolgočasil. Rana na roki se je sicer kmalu zacelila, a marki tudi po preteku zaradi bolezni dovoljenega dopusta ni nastopil svoje službe, ker ni hotel iti v Ljubljano, dokler ni bila njegova afera s princezinjo Dietrichsteinovo in baronom Gallom pozabljena. Prosil je za podaljšanje dopusta in prošnji njegovi se je seveda ugodilo. Upal je, da mu sploh ne o več treba ostati na Kranjskem, kajti pisaril je vsem svojim znancem v Parizu, naj že izposlujejo, da bo povišan in premeščen.</p>
@@ -896,8 +830,6 @@
             <p n="SL-WIKI00457720">Naravno je, da je v teh razmerah zapazil tudi Klarico, ki je bila poleg markize Helene edina mlada ženska na gradu.</p>
             <p n="SL-WIKI00457721">Marki je bil v svojem življenju toliko doživel, da ga je mogla zanimati samo ženska, ki se je na katerikoli način odlikovala med drugim ženstvom. Klarice doslej marki res še ni bil prav zapazil. V družbi se je Klarica iz ozirov na podrejeno stališče svojega moža vedla vedno jako skromno. Ni bila plaha, a zavedala se je, da ji je pristop v markijevo družino dovoljen le iz dobrohotnosti in zaradi tega je bilo njeno vedenje reservirano. Marki ni imel prilike spoznati, da je Klarica zgovorna in zabavna, izobražena in duhovita in seveda ni slutil, da nadkriljuje skromna Klarica v teh ozirih mnogo odličnih dam iz prvih rodovin. Iz navade, izogibati se priprostejšim ljudem, se za Klarico ni zmenil že zaradi tega, ker je bila soproga njegovega gozdarja, ki je bil po njegovi sodbi povsem nizek in brezpomemben človek. Pa tudi Klaričine lepote ni zapazil, ker ni imel prav nič pozornosti ne za ljudi, ne za dogodke v svoji hiši in ker se je Klanca vedla tako skromno, da marki ni prišel v položaj, si jo natančneje ogledati.</p>
             <p n="SL-WIKI00457722">Šele zdaj, ko je bil marki prisiljen živeti brez družbe, je z velikim začudenjem spoznal, da prebiva pod njegovo streho jako lepa mlada žena, ki zna biti prav ljubezniva in zabavna. Zapazil je to pri obedu in je kar strmel nad tem, kar mu je žena pozneje povedala o Klarici.</p>
-            <pb n="35"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-035.jpg"/>
             <p n="SL-WIKI00457723">Nekega deževnega dne je ležal marki na zofi. V rokah je držal knjigo, a čital ni nič; oči je imel odprte, a videl ni, kaj se godi okrog njega; bil je pač buden, a duh njegov je dremal.</p>
             <p n="SL-WIKI00457724">Naenkrat je udaril na njegovo uho mehak, topel, melodijozen glas, ki ga je v hipu prebudil. Marki ni bil zapazil, da je prišla v sobo Klarica in njegovi ženi pripovedovala, kako je tuj voznik v bližnji vasi povozil otroka in pobegnil. Marki je poslušal, a slišal je samo ta glas, ne da bi zapazil ali razumel, kaj je Klarica pripovedovala. Ta glas je bil tako prijeten in prikupen, da se je markiju zdelo, kakor bi ga božala mehka roka; ta glas je vzbudil v njem temno slutnjo, da je v njegovi bližini prava ženska.</p>
             <p n="SL-WIKI00457725">Obrnil se je na zofi in si prvič malo bolj ogledal Kiarico. Stala je pri oknu tako, da jo je mogel dobro videti.</p>
@@ -906,8 +838,7 @@
             <p n="SL-WIKI00457728">»Lahko hojo ima in oblečena je z nenavadnim okusom,« je rekel sam sebi. »Kdo bi mislil, da ima navaden gozdar tako ženo?«</p>
             <p n="SL-WIKI00457729">Dobre četrt ure je razmišljeval marki o svojem razkritju, potem je zadremal in ko se je prebudil, je bila Klarica zopet pozabljena. Toda vtisk, ki ga je bila napravila na markija, je ostal, ne samo, ker je bil globok, nego tudi zato, ker marki v svojem prostovoljnem pregnanstvu ni prišel v dotiko z drugimi ženskami.</p>
             <p n="SL-WIKI00457730">Čez nekaj dni je marki srečal Kiarico na stopnicah. Z naglim pogledom jo je premeril in dasi je govoril ž njo samo nekaj vsakdanjih, brezpomembnih besed, je Klarica vnovič napravila tak vtisk nanj, da je nehote svoje misli posvetil samo njej. Sam ni vedel, kaj sanjari, vedel je samo, da se njegove misli sučejo okrog Klarice.</p>
-            <p n="SL-WIKI00457731">Od tega dne je bilo markiju prav ljubo, če je videl Klarico. Izprva je samo želel, da jo sreča in da jo vidi, kmalu pa je začel iskati prilike, <pb n="36"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-036.jpg"/> da bi ž njo kramljal nekaj časa. Zdaj je ostajal raje doma, in če je videl Klarico, kako se je z njegovim sinčkom igrala na grajskem dvorišču, je ostal celo uro pri oknu. Rekel si je, da opazuje ta prizor, v resnici pa je opazoval samo Klarico.</p>
+            <p n="SL-WIKI00457731">Od tega dne je bilo markiju prav ljubo, če je videl Klarico. Izprva je samo želel, da jo sreča in da jo vidi, kmalu pa je začel iskati prilike,  da bi ž njo kramljal nekaj časa. Zdaj je ostajal raje doma, in če je videl Klarico, kako se je z njegovim sinčkom igrala na grajskem dvorišču, je ostal celo uro pri oknu. Rekel si je, da opazuje ta prizor, v resnici pa je opazoval samo Klarico.</p>
             <p n="SL-WIKI00457732">Začel je izmišljevati različne vzroke, da bi se mogel dlje časa muditi v Klaričini družbi. Najprej je povabil nekaj oficirjev iz Ljubljane, same dobre prijatelje, le da je njegova žena povabila na večerjo tudi Klarico in njenega moža. Dasi je vpričo markize in svojih gostov le malo govoril s Klarico, je bil tega večera vendar vesel.</p>
             <p n="SL-WIKI00457733">Markiza je rada jahala. Ko so prišli toplejši spomladanski dnevi, ji je bilo žal, da pri teh izletih na konju nima spremljevalke in sama je prosila svojega moža, naj nauči Klarico jahati. Marki je bil vesel te želje svoje žene in se je takoj ponudil Klarici za učitelja.</p>
             <p n="SL-WIKI00457734">Klarica se je branila. Izgovarjala se je, da jahanje ni primerno za njo, a v resnici se je branila, ker se je bala, da bo preveč občevala z markijem in da se utegne iz tega občevanja razviti katastrofa, pred katero je vedno trepetala.</p>
@@ -916,8 +847,6 @@
             <p n="SL-WIKI00457737">Z nobeno besedo in z nobeno kretnjo ni izdal marki svojih čuvstev, a Klarica je vendar videla, kako se je njegova simpatija spreminjala v nagnjenje, kako se je iz tega nagnjenja porajalo hrepenenje in kako je to ljubezensko hrepenenje razraščalo v strastno ljubezen.</p>
             <p n="SL-WIKI00457738">Nikdar se ni izdala niti z najmanjšo stvarco. Občevala je z markijem samo s prijazno špoštljivostjo, postavljala se vedno na stališče, da je marki gospodar, ona pa le žena njegovega uslužbenca in nikdar ni prekoračila te meje. A sluteč, da jej to še ne daje nobene varnosti, je začela skrbeti, da je bil pri jahalnih vajah kdo navzočen. Zlasti ljubo ji je bilo, če je bil prisoten Hrast; po pravici je smatrala njegovo navzočnost za najboljše varstvo zoper vse slučaje.</p>
          </div>
-         <pb n="37"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-037.jpg"/>
          <div>
             <head>XV.</head>
             <p n="SL-WIKI00457739">V starem Kušljanovem gradu je pa vendar prebivalo bitje, ki je uganilo, kaka čuvstva so se razvnela v markijevem srcu. Blaga gospa, markijeva mati, je bila filozofinja in ni imela nobenih iluzij glede moških sploh in posebno ne glede svojega sina. Uvidevala je prav dobro, da se njen sin dolgočasi in da išče zabave in razvedrila pri Klarici. A stara gospa je imela resnične simpatije za Klarico in zaradi tega ni hotela pripustiti, da bi se ji približal izkušnjavec, pa bodi to tudi njen lastni sin.</p>
@@ -945,8 +874,6 @@
             <p n="SL-WIKI00457761">»Ne, ne, gospod marki,« je jecljala Klarica, ki ni vedela, ne kaj je marki rekel, ne kaj mu je mehanično odgovorila.</p>
             <p n="SL-WIKI00457762">»Dovolite mi, gospa Klarica, da vas spremim na tem izprehodu. To krasno mlado jutro me je izvabilo iz gradu. Sicer pa ne tajim, da bi bil krenil na nasprotno stran, ko bi ne bil v daljavi med drevjem vas zagledal.«</p>
             <p n="SL-WIKI00457763">»Navadno hodim tod,« je zopet mehanično odgovorila Klarica in počasi, skoro omahuje nadaljevala svojo pot v markijevem spremstvu.</p>
-            <pb n="38"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-038.jpg"/>
             <p n="SL-WIKI00457764">Molče sta korakala nekaj časa po gozdu. Klarica je trepetaje čakala, kaj ji reče marki, ta pa je bil morda prvič v svojem življenju v zadregi in ni vedel kako bi začel. Zavedal se je, da ima pred seboj krepostno ženo in to mu je branilo nastopiti s tisto sigurnostjo, ki jo je sicer imel v občevanju z damami.</p>
             <p n="SL-WIKI00457765">»Dovolil sem si, vas na izprehodu nadlegovati, ker vas moram pravzaprav prostiti odpuščanja,« je končno izpregovoril marki, »da, odpuščanja.«</p>
             <p n="SL-WIKI00457766">»Morda vendar kaj slutite,« je nekako šaljivo menil marki. »Kaj si morate pač misliti o možu, ki ni ne slep in ne ravno slaboumen, pa živi več mesecev pod eno streho z lepo in ljubeznivo gospo, a tega niti ne zapazi.«</p>
@@ -975,8 +902,6 @@
             <p n="SL-WIKI00457789">»Umirite se, gospa Klarica,« je nežno in prikupno rekel marki in poljubil Klarici roko. »Bati se mi ni treba. Bodite prepričani, da vam nisem samo resnično vdan, nego da vas tudi ljubim iz vsega srca.«</p>
             <p n="SL-WIKI00457790">Izrečena je bila beseda, ki se je je Klarica najbolj bala in jo najbolj želela slišati iz markijevih ust. A vzlic vsi nežnosti in prikupnosti, s katero je govoril marki, je Klarica tudi v tem trenotku največjega razburjenja natančno spoznala, da to priznanje ljubezni ni prišlo markiju iz srca. Zabolelo jo je to in prešinilo jo je spoznanje, da marki pač hrepeni po njej, da je pa ne ljubi resnično. »Zdaj,« si je rekla, »mi zatrjuje, da me ljubi, zdaj, ko je po lastni krivdi prisiljen, dolgočasiti se v tej samoti, a prej me niti pogledal ni, prej se mu ni zdelo vredno, da bi se le ozrl name, ki sem živela v njegovi senci in ki sem srečo vsega svojega življenja žrtvovala svoji ljubezni do njega. Zdaj išče kratkočasja, morda za nekaj dni, kvečjemu za nekaj tednov.« Take misli so šinile Klarici bliskoma v glavo in vzbudile v njej zopet lastno voljo in običajno odločnost.</p>
             <p n="SL-WIKI00457791">»Nikar mi ne pripovedujte, da me resnično ljubite,« je rekla zamolklo in njen pogled je bil teman. »Vam ni prav nič zame, to mi je razodel glas, s katerim ste mi razkrili svojo ljubezen.«</p>
-            <pb n="39"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-039.jpg"/>
             <p n="SL-WIKI00457792">Marki je zopet prijel Klarico za roko in jo hotel poljubiti, a Klarica tega ni pustila.</p>
             <p n="SL-WIKI00457793">»Krivico mi delate, gospa Klarica, veliko krivico,« je rekel marki.</p>
             <p n="SL-WIKI00457794">»Ne, gospod marki, ne delam vam krivice,« ga je z odločnim poudarkom zavrnila Klarica.</p>
@@ -1000,8 +925,7 @@
             <p n="SL-WIKI00457812">»Gospa Klarica, verujte mi, jaz vas ljubim.«</p>
             <p n="SL-WIKI00457813">»Ne! Ko bi me ljubili, bi ne govorili z menoj tako, kakor poprej. Ponudili ste mi, naj postanem vaša metresa, ponudili ste mi, da me bodete vzdrževali, da mi bodete torej plačevali za mojo ljubezen. Ali nič ne pojmite, kako krvavo ponižanje tiči v teh vaših ponudbah zame, ki sem vas oboževala, ki sem žrtvovala svoje srce, vse kar sem imela, samo da sem prišla v vašo bližino.«</p>
             <p n="SL-WIKI00457814">Pri spominu na prestane dušne in srčne muke, je Klarico prevzela nevolja in z neko sovražnostjo je razjasnila markiju vse, kar je prestala od dneva slavnosti, prirejene na čast maršalu Marmontu, pa do te ure. Čutila je, da jo mora to za vselej ločiti od markija, a premagovati se ni mogla. Vsa trpkost, ki se je bila nabrala v dolgih mesecih v njenem srcu, je v tem trenotku udarila na dan.</p>
-            <p n="SL-WIKI00457815">Marki je strme poslušal. Ni se upal seči Klarici v besedo. Kar je slišal, ga je resnično pretreslo. Domišljal si je, da pozna ženski svet, a spoznal je zdaj, da niti pojma ni imel, kako vroča, kako požrtvovalna, kako blazna more biti ženska ljubezen. To je spoznal šele zdaj, spoznal pa je tudi, da je z oporno roko segel po tej cvetki in da je s svojo okornostjo ranil to srce tako, da tega ne more nikdar več popraviti. In ta lahkoživec, <pb n="40"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-040.jpg"/> ki ga je bila doslej sama frivolnost je vztrepetal pri misli, da je pahnil od sebe edino žensko, ki jo je doslej našel, da je zmožna resnične ljubezni.</p>
+            <p n="SL-WIKI00457815">Marki je strme poslušal. Ni se upal seči Klarici v besedo. Kar je slišal, ga je resnično pretreslo. Domišljal si je, da pozna ženski svet, a spoznal je zdaj, da niti pojma ni imel, kako vroča, kako požrtvovalna, kako blazna more biti ženska ljubezen. To je spoznal šele zdaj, spoznal pa je tudi, da je z oporno roko segel po tej cvetki in da je s svojo okornostjo ranil to srce tako, da tega ne more nikdar več popraviti. In ta lahkoživec,  ki ga je bila doslej sama frivolnost je vztrepetal pri misli, da je pahnil od sebe edino žensko, ki jo je doslej našel, da je zmožna resnične ljubezni.</p>
             <p n="SL-WIKI00457816">»Da, zaradi vas, marki, sem storila grdobijo, lahko rečem hudodelstvo, da sem se poročila s poštenim, častivrednim možem, ki me ljubi, ki pa ga jaz ne morem ljubiti in ga ne bom nikdar ljubila. O, kaznovali ste me zato, kruto ste me kaznovali.«</p>
             <p n="SL-WIKI00457817">»Klarica!«</p>
             <p n="SL-WIKI00457818">»Pustite me, da vam povem, kar mi je na srcu,« je rekla Klanca in potem nadaljevala nekako slovesno: »Da, marki, jaz vas ljubim, jaz vas obožavam, a moj sklep je, da ne bom nikdar vaša. Ne zaradi sebe. Kaj je moja oseba? V kmečki krčmi sem doma in za ljudi moje vrste se ne vprašuje dosti, naj se njih usoda obrne tako ali tako. Toda jaz hočem ohraniti čisto to ljubezen, ki polni zapuščajo moči in da pojema moja volja. Bala sem se, da bi utegnila pozabiti na svoj sklep. A zdaj je drugače. Vi, marki, ste me nehote rešili. Pokazali ste mi, da sem vam dobra — samo za kratkočasje. To me je streznilo, popolnoma streznilo.«</p>
@@ -1021,8 +945,6 @@
             <p n="SL-WIKI00457832">»Govorila bom ž njim.«</p>
             <p n="SL-WIKI00457833">»In kaj mu hočete reči?«</p>
             <p n="SL-WIKI00457834">»Resnico pač. Ostati hočem poštena žena in zato bom svojemu možu vse povedala.«</p>
-            <pb n="41"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-041.jpg"/>
             <p n="SL-WIKI00457835">Markiju je bilo sedaj le eno pred očmi: kaka nevarnost lahko nastane za Klarico, če svojemu možu vse razkrije. Bal se je resnično zanjo, in plaho vzkliknil:</p>
             <p n="SL-WIKI00457836">»Ali — gospa Klarica — to je blaznost.«</p>
             <p n="SL-WIKI00457837">»Ne bojte se zame. Hrast me ljubi. Vem, da ga bo bolelo moje priznanje, a pričalo mu bo tudi, da sem in da mu hočem ostati poštena družica. Dokler ni nihče vedel za skrivnost mojega srca, sem mogla tu ostati in z vami prebivati pod eno streho. Zdaj je to nemogoče in zato odidem na vsak način.«</p>
@@ -1060,16 +982,13 @@
             <p n="SL-WIKI00457869">»Le počasi, draga gospa,« je rekel flegmatično. »Najprej moram vedeti vse okolnosti — da morem vzeti potrebnih zdravil seboj.«</p>
             <p n="SL-WIKI00457870">Na zdravila Klarica doslej še mislila ni. Razložila je zdravniku hitro vse, kar je hotel vedeti. Zmajeval je z glavo in mrmral besede, ki jih sicer Klarica ni razumela, ki pa so ji vendar napolnile srce s strahom.</p>
             <p n="SL-WIKI00457871">Naposled je vojak pripeljal konja. Zdravnik ga je zasedel, a treba je bilo najprej jezditi v bolnico po zdravila in šele ko je bilo vse pripravljeno, sta Klarica in zdravnik zapustila mesto.</p>
-            <pb n="42"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-042.jpg"/>
             <p n="SL-WIKI00457872">V divjem diru sta zdravnik in Klarica prijezdila do Kušljanovega gradu. Hišna ju je videla, ko sta zavila za grajsko dvorišče in skočila s konj. Tekla jima je nasproti in se kar prestrašila, videč, kako upadla in izmučena je Klarica. Ta se je komaj vzdržala na nogah, a ko ji je hotela hišna pomagati in jo podpreti, da bi jo spremila v hišo, se je Klarica tega energično ubranila.</p>
             <p n="SL-WIKI00457873">»Kako je z otrokom?« je vprašal zdravnik, ki je bil v tem vzel iz tobolcev ob sedlu svoja zdravila in se je zdaj obrnil k hišni.</p>
             <p n="SL-WIKI00457874">»Slabo ... mrzlica ga trese ... tudi blede se mu ... In tudi gospe markizi ni dosti bolje ... Od samega strahu, da izgubi otroka, je vsa zbegana in iz uma.«</p>
             <p n="SL-WIKI00457875">Zdravnik se je molče obrnil od hišne in je šel v grad. Klarica mu je sledila, dasi je komaj še premikala noge. V sobi, kjer je ležal mali Charles, sta bila markiza in njen soprog. Komaj je ob postelji klečeča markiza zagledala zdravnika, je planila k njemu in s sklenjenima rokama prosila, kar prosi v takih trenotkih vsaka mati.</p>
             <p n="SL-WIKI00457876">»Rešite mi otroka, rešite mi edinca,« je jokala markiza, kakor da bi bil zdravnik gospodar življenju in smrti.</p>
             <p n="SL-WIKI00457877">Zdravnik je stopil k postelji in natančno preiskal otroka. Izbral je potem iz svoje torbe neka zdravila in je priredil za uporabo.</p>
-            <p n="SL-WIKI00457878">Šele sedaj se je ozrl po navzočih osebah. Videl je markizo, ki je zopet slonela ob otrokovi postelji in glasno jokala, videl je markija, ki je sedel v kotu pri oknu in gledal topo predse, <pb n="43"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-043.jpg"/> kakor da ga je zapustila vsa zavest, ali kakor da se sramuje, da je v tem usodnem trenotku njegova navzočnost docela nepotrebna. S hitrim pogledom je zdravnik presodil ves ta položaj in se obrnil h Klarici.</p>
+            <p n="SL-WIKI00457878">Šele sedaj se je ozrl po navzočih osebah. Videl je markizo, ki je zopet slonela ob otrokovi postelji in glasno jokala, videl je markija, ki je sedel v kotu pri oknu in gledal topo predse,  kakor da ga je zapustila vsa zavest, ali kakor da se sramuje, da je v tem usodnem trenotku njegova navzočnost docela nepotrebna. S hitrim pogledom je zdravnik presodil ves ta položaj in se obrnil h Klarici.</p>
             <p n="SL-WIKI00457879">»Pomagajte vi, gospa, drug ne more,« je rekel tiho. »Povedal vam bom natačno, kaj je storiti, a jutri zjutraj pridem zopet.«</p>
             <p n="SL-WIKI00457880">Klarica je samo lahko nagnila glavo, v dokaz, da je pripravljena prevzeti skrb za otroka. Stopila je z zdravnikom v sosedno sobo in pazno poslušala, kar ji je naročeval. Njena trdna volja je premagala njeno telesno utrujenost. Ta volja se je zrcalila na njenem obrazu, ko se je po zdravnikovem odhodu povrnila v bolnikovo sobo. Ostre so bile v tej uri vse njene poteze in vse njene kretnje in zapovedujoče je zvenel njen sicer vedno mehki glas. Storila je to zavest, da je šla v boj s smrtjo za življenje markijevega otroka.</p>
             <p n="SL-WIKI00457881">Kratko je odredila, naj markiza in marki zapustita sobo in dasi je markiza jokaje prosila, naj jo pusti pri otroku, se ni dala omehčati. Zaklenila je vsa vrata, dala hišni vsa potrebna navodila in potem prevzela varstvo otroka.</p>
@@ -1081,16 +1000,13 @@
             <p n="SL-WIKI00457887">Z radostjo je gledal, s kako presrčno ljubezjnijo se njegov otrok oklepa svoje rešiteljice. Mali Charles ni hotel nikogar drugega več poznati, kot Klarico. Tudi ne svoje matere, in z resnično žalostjo si je markiza priznala, da zanjo zdaj ni prostora v srcu njenega sina. Priznala je pa tudi, da kakor ni znala biti prava žena, tako tudi ne zna biti prava mati, dočim si je Klarica zaslužila naklonjenost malega Charlesa.</p>
             <p n="SL-WIKI00457888">»Z bolestjo in z ljubeznijo mu je Klarica rešila življenje,« je na tožbe svoje žene rekel marki, »in pravico ima, da zavzame prvo mesto v srcu najinega otroka.«</p>
          </div>
-         <pb n="44"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-044.jpg"/>
          <div>
             <head>XVI.</head>
             <p n="SL-WIKI00457889">Telesni in duševni napori ob postelji malega Charlesa so bili prevzeli Klarico v taki meri, da je zdaj njen mož zanjo moral poklicati zdravnika. A Klarica ni bila bolna, nego samo utrujena in izmučena, to pa tako, da vsled zdravnikovega naročila več dni ni smela iz postelje. Njeno živčevje je bilo tako razdraženo, da prve dni sploh ni našla pokoja in ni mogla zatisniti očesa. Končno je zaspala in spala kar nepretrgoma ves dan in vso noč in še dolgo do belega dne. Ko se je prebudila, je bila telesno okrepčana, samo bleda in upadla, kakor da bi bila prestala težko bolezen.</p>
             <p n="SL-WIKI00457890">Dasi je bil Hrast v srcu vesel, videč Klarico izven vsake nevarnosti, jo je vendar čemerno pozdravil.</p>
             <p n="SL-WIKI00457891">»Lahko bi si bila nakopala smrtno bolezen,« je rekel neprijazno. »Kaj ti je bilo treba, da si otroku stregla noč in dan? Saj ima otrok svojo mater. Če ta mati nima nič razuma za oskrbovanje svojega bolnega otroka, to vendar še ni vzrok, da se ti žrtvuješ. Naj bi si pa, najeli kako postrežnico iz Ljubljane.«</p>
             <p n="SL-WIKI00457892">Trdo so padla ta očitanja Klarici na srce. Bolelo jo je to očitanje toliko huje, ker ji je bilo žrtvovanje za bolnega otroka največje zadoščenje in ker je bil njen največji ponos, da je otroka otela gotove smrti.</p>
-            <p n="SL-WIKI00457893">»Lepo te prosim, pusti me vsaj zdaj pri miru,« je vzkliknila. Prvič kar je bila omožena, je bil ta vzklik izraz očitne nevolje. Klarica je bila v resnici nejevoljna na svojega moža. »Kaj,« si je rekla na tihem, »sem vse storila možu na ljube, in niti tega mi ne privošči, da sem stregla <pb n="45"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-045.jpg"/> otroku, ki ga ljubim zaradi njegovega očeta.«</p>
+            <p n="SL-WIKI00457893">»Lepo te prosim, pusti me vsaj zdaj pri miru,« je vzkliknila. Prvič kar je bila omožena, je bil ta vzklik izraz očitne nevolje. Klarica je bila v resnici nejevoljna na svojega moža. »Kaj,« si je rekla na tihem, »sem vse storila možu na ljube, in niti tega mi ne privošči, da sem stregla  otroku, ki ga ljubim zaradi njegovega očeta.«</p>
             <p n="SL-WIKI00457894">Hrast je dobro čutil, s kako nevoljo ga je bila Klarica zavrnila. Že je hotel vzkipeti, a premagal se je, ko je pogledal v ta bolehni, bledi in upadli obraz svoje žene.</p>
             <p n="SL-WIKI00457895">»Nesramno so te izkoriščali,« je rekel kolikor je mogel mirno. »Tebi so prepustili skrb za otroka in za njegovo postrežbo, sami pa so se prekladali po mehkih stolen in zevali ali pa si solze otirali. Ti brezsrčni ljudje mislijo, da si postala moja žena samo, da bi mogla biti njih sužnja. Nekajkrat me je nevolja tako razdražila, da sem te šel iskat in s silo bi te bil odpeljal, če bi mi le oil vrata odklenila.«</p>
             <p n="SL-WIKI00457896">»Še enkrat te prosim, pusti me v miru — vsaj zdaj,« je zavzdihnila Klarica, nakar je Hrast mrmraje vstal in trdih korakov odšel z doma.</p>
@@ -1100,8 +1016,6 @@
             <p n="SL-WIKI00457900">Da, ko bi bila našla svojega moža koj tedaj ko se je po slovesu od markija vračala iz gozda domov, tisti dan, ko jo je nizkotno zapeljevanje markijevo razžalilo v toliki meri, da mu je razkrila svojo vročo plemenito ljubezen. Tedaj bi bila govorila brez ovinkov, ker ji je takrat bilo čisto vse eno, kaj se zgodi.</p>
             <p n="SL-WIKI00457901">Zdaj je trepetala že pri sami misli, kako razkrije Hrastu svoje srce. Ni bila plaha in ni se bala moža v navadnem pomenu te besede. Ne, še vesela bi bila, ko bi postal samo nasilen in tudi če bi jo na mestu usmrtil. Bala se je samo očitanja, da je svojega moža varala.</p>
          </div>
-         <pb n="46"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-046.jpg"/>
          <div>
             <head>XVII.</head>
             <p n="SL-WIKI00457902">Klarica je imela trdni namen, da takoj razodene svojo skrivnost Hrastu, čim se vrne domov. Toda tega namena ni mogla izvršiti. Tatinski lovci so zadržali Hrasta do pozne noči doma, naslednjo jutro pa je moral navsezgodaj iti v Ljubljano, da pred sodiščem priča zoper zajete tatinske lovce, ki so bili v boju z gozdnimi pazniki enega ubili, drugega pa ranili.</p>
@@ -1128,8 +1042,6 @@
             <p n="SL-WIKI00457923">»Kaj mislite še vedno na odhod, Klarica? Nikari! Prosim vas, ne odidite; prosim vas, ostanite tu. Ostanite iz ljubezni do mojega otroka, ki ste mu rešili življenje.«</p>
             <p n="SL-WIKI00457924">»Ni mogoče, ni mogoče,« je dihnila Klarica. »Nepošteno bi ravnata napram svojemu možu. Sram me je, da sem toliko mesecev živela v laži; zadnji čas je, da izgine iz mojega življenja vse, kar ni odkritosrčnega, da se bom mogla zopet smatrati za dostojno ženo.«</p>
             <p n="SL-WIKI00457925">Marki je na vse načine prigovarjal Klarici, naj opusti svoj namen in naj ostane. Našel je nebroj pretvez, dokazov in argumentov, ki jih je spretno uporabil in na katere mu Klarica sploh ni mogla ničesar odgovoriti, a omehčati je ni mogel.</p>
-            <pb n="47"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-047.jpg"/>
             <p n="SL-WIKI00457926">Zadnji pomoček, s katerim je marki poskusil pripraviti Klarico do tega, da bi ostala v gradu, je bil ta, da jo je strašil s Hrastom.</p>
             <p n="SL-WIKI00457927">»Nič žalečega nečem reči o vašem možu,« je dejal marki, »a to morate sami priznati, da je priprost človek in da ni vajen krotiti samega sebe in svojih čuvstev. Ali si morete misliti, da bo Hrast verjel, kar mu hočete povedati, da se mu namreč niste izneverili? Kako naj verjame, da ste mu ostali zvesti, dasi ga ne ljubite in dasi ljubite tistega, ki vas je hotel zapeljati? Ne bo vam verjel, Klarica; prepričan sem, da vam ne bo verjel. Vse bo v njem vzkipelo, jeza na mene, sovraštvo njegovo proti aristokratom, osebna užaljenost njegova, razočaranje, čuvstvo, da je prevaran — vse to se bo zlilo v eno in udaril bo na dan tisti strašni srd, pri katerem izgubi človek vso razsodnost in preudarnost. Bojim se za vas, Klarica, in že iz ozirov na svoje življenje je potrebno, da molčite in da ostanete.«</p>
             <p n="SL-WIKI00457928">Klarica je pač čutila, da je marki govoril resnico, a vzlic temu se tudi zdaj ni vdala.</p>
@@ -1150,8 +1062,6 @@
             <p n="SL-WIKI00457943">»Ostanem, markiza ...«</p>
             <p n="SL-WIKI00457944">Po teh besedah se je od okna odmaknila temna postava in je previdno odšla v noč. Prisluškovalec je bil gozdni paznik Juri.</p>
          </div>
-         <pb n="48"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-048.jpg"/>
          <div>
             <head>XVIII.</head>
             <p n="SL-WIKI00457945">V mali, ob cesti stoječi krčmi, ležeči na potu iz Ljubljane v Brezovico, sta sedela dva temnogleda gosta in molče zrla pred se v čase. Pred hišo je stal voziček, s katerim sta se bila pripeljala in kočijaž je zadovoljno srkal dobro vinsko kapljico, saj se mu je prvikrat primerilo, da je gozdar Hrast ukazal ustaviti pri krčmi in je hlapcu naročil pijače.</p>
@@ -1174,15 +1084,11 @@
             <p n="SL-WIKI00457962">S trdim, brezsrčnim glasom in z vidnim sovraštvom je vrgel Juri to sumničenje Hrastu v obraz in zdaj so močnega, trdnega Hrasta zapustile vse moči. Poskusil je vstati izza mize. a padel je nazaj na svoj sedež, udaril z glavo ob mizo in ta kremeniti človek se je razjokal kakor otrok.</p>
             <p n="SL-WIKI00457963">Zdaj se je omehčalo tudi Jurjevo srce. Prijel je Hrasta za roko in rekel presrčno kolikor je mogel:</p>
             <p n="SL-WIKI00457964">»Ne jokaj. Hrast! Kdo bo jokal zaradi nezveste žene.« In ko s to zarobljeno tolažbo ni ničesar opravil, je hitro udaril na drugo struno: »Meni ne smeš zameriti, če ti je zdaj hudo pri srcu. Ko me je moja dekle izdala, mi je bilo ravno tako kakor zdaj tebi. Vem, kako to boli. Pa glej, jaz sem si rekel, da ti moram razodeti resnico in ti odpreti oči. Bolje, da veš, kaj se godi za tvojim hrbtom, kakor da bi te ljudje vlekli čez zobe in se ti posmehovati ...«</p>
-            <p n="SL-WIKI00457965">»Nehaj, nehaj,« je zakričal zdaj Hrast in planil izza mize. Vsa slabost ga je bila minila. Stal je kraj Jurja v vsi svoji sili in velikosti. Oči je <pb n="49"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-049.jpg"/> imel pač zatekle od solza, a iz teh oči je žarel tak ogenj, da je celo Jurju postalo tesno pri srcu. Z železno roko je zgrabil Hrast svojega prijatelja in ga stresel kakor strese orel zasačenega piščanca.</p>
+            <p n="SL-WIKI00457965">»Nehaj, nehaj,« je zakričal zdaj Hrast in planil izza mize. Vsa slabost ga je bila minila. Stal je kraj Jurja v vsi svoji sili in velikosti. Oči je  imel pač zatekle od solza, a iz teh oči je žarel tak ogenj, da je celo Jurju postalo tesno pri srcu. Z železno roko je zgrabil Hrast svojega prijatelja in ga stresel kakor strese orel zasačenega piščanca.</p>
             <p n="SL-WIKI00457966">»Slušaj me, Juri,« je rohnel Hrast. »Navaden kmečki fant sem ... tlačanski sin ali pa ciganski, ali kdo ve čigav ..., sam sem se prerinil nekoliko naprej ... a ne daleč ... Pravzaprav nisem nič drugega kot hlapec ... on pa je moj gospodar, je bogataš in velikaš in sorodnik najmogočnejšega vladarja na svetu. Marki Charles d’Aureville ... kaj, Juri... to se drugače glasi kakor Anton Hrast. Pa to me ne bo prav nič zadrževalo ... prav nič. Jaz, graščinski valpet Anton Hrast, bom stopil pred cesarjevega sorodnika, pred svetlega markija d’Aurevilla in bom ž njim govoril, kakor mož z možem, kakor bi bil tudi jaz cesarjev sorodnik, ali kakor bi bil tudi on ciganski otrok, ki ga je mati pustila s starimi cunjami vred za plotom obležati. Govoril bom ž njim, govoril ...«</p>
             <p n="SL-WIKI00457967">Hrast je naenkrat dvignil pest in udaril s tako silo po mizi, da se je preklala deska.</p>
             <p n="SL-WIKI00457968">A kakor bi si bil s tem činom olajšal srce, je umolknil, vzel klobuk in odšel. Trenotek kasneje se je že peljal proti domu.</p>
-            <pb n="50"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-050.jpg"/>
-            <p n="SL-WIKI00457969">Prišedši v bližino gradu, je Hrast zapustil voz in nadaljeval svojo pot peš, dočim je voz poslal naprej. Hotel je biti sam in hotel je <pb n="51"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-051.jpg"/> imeti še nekoliko časa, da bi razmišljal o tem, kaj stori. S povešeno glavo, počasnih korakov, je ubiral svojo pot. Srečavali so ga ljudje, ki so ga pozdravljali, a Hrast jih še videl ni ni ni slišal njihovih pozdravov.</p>
+            <p n="SL-WIKI00457969">Prišedši v bližino gradu, je Hrast zapustil voz in nadaljeval svojo pot peš, dočim je voz poslal naprej. Hotel je biti sam in hotel je  imeti še nekoliko časa, da bi razmišljal o tem, kaj stori. S povešeno glavo, počasnih korakov, je ubiral svojo pot. Srečavali so ga ljudje, ki so ga pozdravljali, a Hrast jih še videl ni ni ni slišal njihovih pozdravov.</p>
             <p n="SL-WIKI00457970">»Če mi marki ne da poštenega odgovora, ga na mestu ubijem,« je sam pri sebi rekel Hrast, ko je naposled dospel do gradu.</p>
             <p n="SL-WIKI00457971">Videl je, da stoje na dvorišču kočije, in da se okrog njih potikajo kočijaži in lakaji. Ustavil se je pred gradom in počakal, da se je prikazal grajski uslužbenec. Od tega je izvedel, da se je pripeljal na obisk maršal Marmont z mnogimi oficirji.</p>
             <p n="SL-WIKI00457972">»Morda je prišel markiju sporočit, da je premeščen na Francosko ali pa naznanit, da sam zapusti Ilirijo,« je s hripavim posmehom menil Hrast. »Marki je cesarjev sorodnik in takim se klanjajo tudi maršali. Še lepše bi pa bilo, če je Marmont odstavljen. Kralj Ilirski bi bil rad postal. Haha! Napoleon ima toliko sorodnikov, da še teh ni mogel vseh preskrbeti s kraljevskimi kronami.«</p>
@@ -1202,15 +1108,12 @@
             <p n="SL-WIKI00457986">Ko je zagledal grad pred seboj, je dvignil pest in z njo zažugal.</p>
             <p n="SL-WIKI00457987">»Zakurim vam, gospod marki, zakurim ... Ah, to bo veselje gledati, kako bakljado vam napravim.«</p>
          </div>
-         <pb n="52"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-052.jpg"/>
          <div>
             <head>XIX.</head>
             <p n="SL-WIKI00457988">Marki d’Aureville je sedel razmeroma zgodaj zjutraj v svoji sobi in se je ukvarjal s pisanjem dolgega in važnega pisma. Okna so bila odprta. Jutranje solnce je pošiljalo svoje tople žarke v prostorno sobo in marki je s slastjo sopel sveži pomladanski zrak. »Ko bi le ne bilo tega preklicanega pisanja,« je vzdihoval nepotrpežljivi marki in zopet odložil gosje pero. »Kako lepo bi bilo šetati zdaj med polji in pozneje, ko bo solnce topleje, po gozdih.«</p>
             <p n="SL-WIKI00457989">Ne voljno se je pripravil, da bi nadaljeval s pisanjem, ko je nekdo potrkal na vrata, močno, resolutno, kakor potrka gospodar pri svojem služabniku.</p>
             <p n="SL-WIKI00457990">Marki se je zganil. Ni bil vajen, da kdo na tak način trka na njegova vrata.</p>
-            <p n="SL-WIKI00457991">»Notri,« je velel kratko, kakor bi ga bilo brutalno trkanje razdražjlo, in obenem se je obrnil na svojem <pb n="53"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-053.jpg"/> stolu, da bi videl ranega obiskovalca čim prestopi prag.</p>
+            <p n="SL-WIKI00457991">»Notri,« je velel kratko, kakor bi ga bilo brutalno trkanje razdražjlo, in obenem se je obrnil na svojem  stolu, da bi videl ranega obiskovalca čim prestopi prag.</p>
             <p n="SL-WIKI00457992">Med vratmi se je prikazal Hrast. Držal se je pokonci in markiju se je zdelo, kakor bi bil čez noč zrasel, in trdo je stopil v sobo ter pozdravil samo s komaj vidnim nagnenjem svoje kuštrave glave.</p>
             <p n="SL-WIKI00457993">»Vi ste, Hrast? Kaj mi hočete tako zgodaj?« je vprašal marki in se ošabno naslonil na svoj stol. »Klical vas nisem.«</p>
             <p n="SL-WIKI00457994">»Govoriti moram z vami,« je osorno dejal Hrast in stopil bliže.</p>
@@ -1229,8 +1132,6 @@
             <p n="SL-WIKI004571007">»Kaj pravite?« je vzkliknil marki in se delal silno presenečenega. »Gospa Klarica, da bi prelomila zakonsko zvestobo, gospa Klarica naj bi imela prepovedano ljubavno razmerje. Dragi gospodine — ali se vam blede? V pomirjenje vam povem, da je ni dame, ki bi zaslužila tako spoštovanje, kakor gospa Klarica. Moja mati jo ljubi, kakor bi bila njena hči, in moja žena je ponosna, da jo sme imenovati svojo najboljšo prijateljico. Ko bi kdo drugi izrekel le najmanjši sum glede vaše soproge ...«</p>
             <p n="SL-WIKI004571008">Marki je čutil, da je zagovarjal Klarico s preveliko vnemo in da je Hrast to zapazil. Zato je sredi stavka umolknil in šele čez nekaj trenotkov rekel hladno:</p>
             <p n="SL-WIKI004571009">»Sploh se čudim, kako more tako resen in pameten človek kakor ste vi imeti take sume.«</p>
-            <pb n="54"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-054.jpg"/>
             <p n="SL-WIKI004571010">Če je marki mislil, da je s svojimi zagotovili in opomnjami razgnal Hrastove dvome in se odkrižal razljučenega Klaričinega soproga, je bil v zmoti. V Hrastu je pri markijevih besedah vse vzkipelo.</p>
             <p n="SL-WIKI004571011">»Nisem prišel razgovarjat se za krivde svoje žene,« je surovo zakričal Hrast, »nego prišel sem, da se z vami pogovorim.«</p>
             <p n="SL-WIKI004571012">Ta nepričakovani izbruh je bil tako silovit, da je marki vendar zadrhtel in prebledel, toda premagal se je in skočivši s stola s prisiljeno prezirljivostjo vzkliknil:</p>
@@ -1250,8 +1151,6 @@
             <p n="SL-WIKI004571026">»Čujte, Hrast,« je z ogorčenjem vzkliknil marki, »tudi ljubosumnim soprogom ne dovoljujem, da bi dvomili o moji častni besedi. Dal sem vam častno besedo in to vam mora zadostiti.«</p>
             <p n="SL-WIKI004571027">»Meni to ne zadostuje,« je zakričal Hrast obupano. »Nikakor mi ne zadostuje. Dali ste mi svojo častno besedo, da bi se me odkrižali, kakor se da beraču miloščina. Nasproti vaši besedi pa stoji pričevanje tistega moža, ki je vas in mojo ženo videl in slišal pri dveh vajinih sestankih. Ta priča je Juri.«</p>
             <p n="SL-WIKI004571028">»Torej Juri, moj gozdni hlapec je moj obtožitelj,« je s posmehom vzkliknil marki. »Veseli me, da ste mi to povedali. In seveda, če nastopi hlapec Juri kot priča proti markiju d’Aureville, potem verjamete vi Juriju več kot meni in moji častni besedi.«</p>
-            <pb n="55"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-055.jpg"/>
             <p n="SL-WIKI004571029">Hrastu je bilo malo mar za plemstvo in za častno besedo markija d’Aureville. Videl je v markiju samo obdolženca, v pazniku Jurja pa pričo in prijatelja, ki bi zanj dal če treba svoje življenje.</p>
             <p n="SL-WIKI004571030">»Lahko zaničujete Jurja, kakor hočete, gospod marki,« je dejal Hrast na porogljive opomnje markijeve. »Jaz pa poznam Jurja in mu verjamem navzlic vsem vašim častnim besedam. Juri je pošten, Juri je meni vdan, kakor nikomur na svetu. Mene Juri ni nalagal. Čemu tudi? Saj nima nobenega vzroka. Ko bi bil tu navzočen, bi vam povedal v obraz, kako ste mojo ženo zalezovali na njenem sprehodu v gozdu, kako ste se ji vsiljevali in jo zapeljevali. Videl vas je na svoje oči in slišal je, kaj ste govorili z mojo ženo. In tudi vas je opazoval oni dan, ko ste se za Klarico vtihotapili v moje stanovanje. Tudi takrat ste mojo ženo nadlegovali s svojimi zapeljivostimi in ste jo pregovorili ...«</p>
             <p n="SL-WIKI004571031">Hrast je s temi besedami izbruhnil iz sebe ves srd, kar se ga je bilo nabralo v njem, markija pa so te obdolžitve spravile kar iz uma.</p>
@@ -1284,8 +1183,6 @@
             <p n="SL-WIKI004571058">S težkimi koraki je šla Klarica ob strani svojega moža proti izhodu, pri vratih se je ustavila. Ozrla se je na markija. Vsa njena ljubezen, ves njen obup, vsa njena duša se je svetlikala v tem edinem pogledu.</p>
             <p n="SL-WIKI004571059">»Bodite srečni,« so dihnile njene ustne komaj slišno in vrata so se zaprla za njo.</p>
          </div>
-         <pb n="56"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-056.jpg"/>
          <div>
             <head>XX.</head>
             <p n="SL-WIKI004571060">Hrast bi bil najraje takoj zapustil grad in se s Klarico odpeljal v Ljubljano, toda moral je še ostati, da izroči začasnemu svojemu nasledniku graščinsko gospodarstvo.</p>
@@ -1314,8 +1211,6 @@
             <p n="SL-WIKI004571083">Vstal je s stola in postavil puško v kot. Klarica se je plaho umaknila do vrat sosedne sobe, a Juri ji ni sledil, ustavil se je sredi sobe.</p>
             <p n="SL-WIKI004571084">»Svoje dni sem hotel jaz kot vojak ubiti svojega predpostavljenca. Zavratno sem ga napadel z bajonetom, samo izreden slučaj je vzrok, da se mi to ni posrečilo. Le eno besedo naj bi bil rekel ta napadeni moj predpostavljenec, in v tistem trenotku bi me bili obesili ali pa ustrelili. A on te besede ni izrekel. Moje življenje je bilo v njegovih rokah, a on mi ga je daroval. Saj sem vam že pravil o tem dogodku, kaj ne? Od tistega trenotka je bilo moje življenje posvečeno njemu. Njegova sreča je cilj mojega življenja. In vidite, tega moža ste vi varali. Zame je bilo to dovolj vzroka, da sem storil, kar sem storil. Ne pustim in ne pustim, da bi Hrasta varala kaka ženska, bodisi katera koli. Videl sem vaš sestanek z markijem v gozdu in v vašem stanovanju in kar sem videl in slišal, to sem Hrastu povedal. To je bila moja dolžnost. S tatinskimi lovci sploh nimam usmiljenja, naj love divjačino ali tuje žene, in zato sem svojo dolžnost izpolnil z veseljem. In moje veselje je bilo toliko večje, ker vas sovražim iz vsega srca in mi je zadoščenje, da sem vas prvi spoznal za — vlačugo.«</p>
             <p n="SL-WIKI004571085">Klarica ni ničesar odgovorila. Valovalo je v nji vse, a srdite besede Jurjeve so ji bile vzele vso moč. Vrgla se je na stol in se v svoji onemogli bolesti razjokala, dočim se je Juri zopet vsedel na svoje mesto in vzel vnovič puško med noge.</p>
-            <pb n="57"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-057.jpg"/>
             <p n="SL-WIKI004571086">Čez grajsko dvorišče se je Hrast s hitrimi koraki bližal svojemu stanovanju. Opravil je bil svoja zadnja dela. Samo nekaj računov je bilo še treba spraviti v red. Hitel je, da izvrši še ta posel. Čez noč ni hotel več ostati v gradu za nobeno ceno.</p>
             <p n="SL-WIKI004571087">Vstopil je v svoje stanovanje in strme obstal pri vratih, videč Jurja sedeti tik njih, v drugi sobi pa Klarico ležati in jokati na svojem sedežu.</p>
             <p n="SL-WIKI004571088">»Kaj se je zgodilo?« je začudeno vprašal Hrast in obrnivši se k Jurju dostavil slabovoljno:</p>
@@ -1343,8 +1238,6 @@
             <p n="SL-WIKI004571110">Hrast se je zopet vrgel na svoj stol in naslonli giavo na roko. Drhteč je stala Klarica poleg njega, s sklonjeno glavo. Kaj se je že začela njenega mučeništva druga doba? Rekla si je, da nima pravice ugovarjati Hrastu le z najmanjšo besedico, da se mora odslej molče pokoravati vsaki njegovi zapovedi in zato je tiho zapustila sobo, pripravljena počakati, da jo Hrast pokliče.</p>
             <p n="SL-WIKI004571111">Minule so ure. Prišla je Ivanka, tolažila Klarico in jo nagovarjala, naj gre klicat Hrasta, a Klarica tega ni storila. »Ne smem,« je rekla in čakala na možev poziv. Toda Hrast ni prišel. Sedel je nepremično v svoji sobi za mizo, glavo naslonjeno na roko in mrmral nejasne besede. Računi so čakali uredbe, a Hrast se ni ganil. Začelo se je mračiti, a Hrasta ni bilo po Klarico.</p>
             <p n="SL-WIKI004571112">»Markijeva priležnica,« to je bila edina misel, ki jo je imel Hrast v teh urah in zganil se je šele, ko je nastalo okrog hiše silno vpitje, iz katerega je slišal nadvse obupni klic: Pomagajte — gori — rešite mi otroka!</p>
-            <pb n="58"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-058.jpg"/>
             <p n="SL-WIKI004571113">Gospodarsko poslopje, stoječe tik gradu, je bilo v plamenu, ogenj se je vsled vetra že razširil na grajsko streho in lizal okrog oken, tod in tam je že popokalo nekaj šip in je ogenj silil v notranje prostore.</p>
             <p n="SL-WIKI004571114">V hiši je bilo le malo ljudi. Marki je bil odšel hoteč s tem preprečiti, da bi še srečal Klarico ali njenega moža, markiza je bila šla s svojo taščo na izprehod, ker se je hotela umakniti slovesu od Klarice in Hrasta. Na gradu je bilo samo nekaj poslov.</p>
             <p n="SL-WIKI004571115">Mogočno se je dvigal plamen proti nebu, a pomoči nikjer. Posli so begali kakor brezumni okrog gradu in si niso vedeli pomagati, ker ni bilo pri hiši skoro nič priprav za gašenje. Kričali so in jokali, a nihče ni vedel, kaj naj stori.</p>
@@ -1364,8 +1257,6 @@
             <p n="SL-WIKI004571129">V tem, ko so ljudje stopili k markizi, pa se je med nje prerinila Klarica. Stisnila je obleko k životu, za trenotek je postala, potem pa se zapodila v goreči grad.</p>
             <p n="SL-WIKI004571130">Kakor onemogli ali okameneli so stali ljudje na grajskem dvorišču. Utihnil je tudi zadnji šum. Vse je zadrževalo sapo, nihče se ni ganil, vse je v groznem trepetu samo gledalo v plamen.</p>
             <p n="SL-WIKI004571131">Tedaj pa se je zganil Hrast. Prav kakor bi se bil šele zdaj zbudil iz svojih sanj in otresel svoje misli. Skočil je po bližnjo lestev in jo prislonil k zidu ob oknu, koder je bila otroška soba, potem je iztrgal najbližjemu človeku iz rok posodo z vodo in je šel po lestvi, vlomil okno in dasi mu je udaril plamen v obraz, je vendar skočil v sobo.</p>
-            <pb n="59"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00457/WIKI00457-059.jpg"/>
             <p n="SL-WIKI004571132">Tesno je bilo ljudem pri srcu, ko so zrli na grad, čigar zgornji del je bil ves v plamenu. Instinktivno, ne da bi bil kdo kaj rekel, so se s podvojenimi močmi lotili gašenja, in v vsaki duši je vstalo koprnenje, naj bi se Klarica in Hrast živa in nepoškodovana vrnila iz gorečega gradu.</p>
             <p n="SL-WIKI004571133">Zlasti pri Klarici so bile vse misli. Vsi so jo ljubili zaradi njene prijaznosti in dobrote in ta ljubezen se je spremenila zdaj v občudovanje, ko je šla Klarica v ogenj, da reši otroka markijevega. Vse ljudi je malone obenem prešinilo spoznanje, da Juri ni govoril resnice, ko je Klarico dolžil, da je markijeva zapuščena in z možem vred iz hiše segnana ljubica, saj bi sicer svojega življenja ne postavljala v nevarnost. In zdaj ljudje tudi niso več verjeli, da je Hrast požigalec in težek, a resničen sum je padel na Jurja.</p>
             <p n="SL-WIKI004571134">Naenkrat je zaoril po širnem dvorišču klic. Kar vsi so naenkrat zavzdihnili, kakor bi se jim bil kamen odvalil od srca. Vsa srca je olajšal ta klic. Tam iz plamena in iz dima, z gorečo obleko in tlečimi lasmi, se je zapodilo človeško bitje iz grada, držeč na rokah otroka.</p>

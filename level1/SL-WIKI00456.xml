@@ -20,7 +20,7 @@
             <measure unit="pages">53</measure>
          </extent>
          <publicationStmt xml:lang="en">
-            <p>Added to ELTeC <date>2019-01-17</date>
+            <p>Added to ELTeC <date>2019-04-12</date>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -56,7 +56,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change xml:lang="en" when="2019-01-17">
+         <change xml:lang="en" when="2019-04-12">
             <name>Tomaž Erjavec</name>: converted to ELTeC</change>
          <change when="2015-04-03">
             <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
@@ -67,8 +67,6 @@
    </teiHeader>
    <text xml:lang="sl">
       <body xml:lang="sl">
-         <pb n="1"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-001.jpg"/>
          <div>
             <head>I.</head>
             <p n="SL-WIKI004561">V nizki, a prostorni sobi starega poslopja v Florjanskih ulicah, so sedeli okrog velike mize štirje mladi možje. Pušili so iz dolgih pip, da je bila soba vsa v dimu in pridno praznili vrče rujnega vina, ki so stali pred njimi. Soba je bila skromno opremljena samo z najpotrebnejšim pohištvom in edini okras belih sten je bila slikovito razvrščena zbirka musket in samokresov, mečev in handžarjev, ki je visela nad posteljo.</p>
@@ -86,8 +84,6 @@
             <p n="SL-WIKI0045613">»Ker smo zdaj v letu 1715., so si torej Turki v šestnajstih letih toliko pomagali, da se upajo začeti novo vojno,« je menil Čerin. »Gre sej torej za navadno računsko zmoto.«</p>
             <p n="SL-WIKI0045614">»Nič — zmoto,« je ugovarjal Bosizio. »Neumnost sem storil, ko sem rekel, da si Turki v petdesetih letih ne bodo opomogli in zdaj bodi dovolj tega. Rajši naj nam pove Čerin, kaj je kaj novega na Notranjskem, na Vipavskem in na Goriškem, saj veste, da sem Goričan in me vse zanima, kar se tam godi.«</p>
             <p n="SL-WIKI0045615">Izpraznili so vrče, vžigali nove pipe in ko je bilo zopet dovolj vina na mizi, je začel Čerin pripovedovati o svojem obisku pri očetu in o svojih, izletih k sorodnikom in znancem. Pravil je zanimive in nezanimive stvari, o porokah in smrtnih slučajih, o nesrečah in o pravdah in o letini.</p>
-            <pb n="2"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-002.jpg"/>
             <p n="SL-WIKI0045616">»Zadnjih pet dni sem se mudil na gradiču pod Postojno,« je nekako skrivnostno zaključil svoje pripovedovanje. »Odkar sem bil prvič tamkaj, me je vedno vleklo tja. Svoj dopust sem porabil koj prve dni, da sem se zopet tam oglasil. In potem sem šel še večkrat tja in vedno raje in naposled sem ostal tamkaj kar pet dni in ni mi žal, o, ni mi žal.«</p>
             <p n="SL-WIKI0045617">Rekel je to s takim izrazom zadovoljstva in sreče, da so se njegovi tovariši spogledali.</p>
             <p n="SL-WIKI0045618">»Kaj nam pa mislite reči s tem namigavanjem?« je vprašal poročnik Snoj, ki je doslej molče slonel na svojem mehkem stolu in zamišljeno gledal v strop.</p>
@@ -108,8 +104,6 @@
             <p n="SL-WIKI0045633">»Iz česa ste to spoznali?« je vprašal Čerin. »Saj je mogoče, da stari Gornik vojakov ne ljubi, ali dobra duša je in nam je postregel, kar je najbolje mogel.«</p>
             <p n="SL-WIKI0045634">»Ugovarjam, ugovarjam odločno,« se je razkoračil Bosizio. »Postregel nam je dobro. Jedi so bile izvrstne in vino je bilo izvrstno. Toda stari Gornik se je v pogovoru z menoj izdal, da ima mnogo starega pikolita — pokusiti nam ga pa ni dal. Če ima pri nas kdo pikolit, pa ga gostu ne da pokusiti, je to dokaz, da gosta kljub navidezni prijaznosti ne mara.«</p>
             <p n="SL-WIKI0045635">Dasi je Bosizio govoril popolnoma resno, sta se mu Čerin in Gall vendar na glas smejala in ga s tem tako razljutila, da je začel na dolgo in na široko popisovati goriške navade in predpise gostoljubnosti s posebnim ozirom na pikolit.</p>
-            <pb n="3"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-003.jpg"/>
             <p n="SL-WIKI0045636">Snoj je ves čas nepremično stal pri oknu in gledal na temno cesto. Slišal je pač glasove svojih tovarišev, slišal tudi vsako posamično besedo, a ni ne vedel, ne poslušal, kaj govore. Rad bi bil odšel, a tako, da bi tovariši ne zapazili njegovega odhoda, kajti bal se je vsakega vprašanja, kaj da mu je. Pripravljen je bil žrtvovati svojo tiho, a gorečo ljubezen do Leonore, ali hudo mu je bilo pri srcu in njegova duša je bilo žalosti polna.</p>
             <p n="SL-WIKI0045637">Čemu naj bi tovarišem izdal tajnost svoje sedaj brezupne ljubezni in jim razkril rano svojega srca? Zavedal se je, da bi med njim in med Čerinom moralo prenehati dobro in iskreno prijateljstvo, čim bi prišla na dan popolna resnica, čim bi se razvedelo, da si je Čerin pridobil dekle, ki je je ljubil tudi Snoj. Zato je hotel Snoj tiho zapustiti družbo prijateljev in je le čakal za to ugodne prilike.</p>
             <p n="SL-WIKI0045638">Čerinu, Bosiziu in Gallu je pa med brezskrbnimi, zdaj resnimi, zdaj šaljivimi pogovori  hitro mineval z čas. Ko sta se Bosizio in Gall začela pripravljati za odhod, prav tedaj je vstopil v sobo Čerinov sluga in prinesel pismo.</p>
@@ -130,16 +124,12 @@
             <p n="SL-WIKI0045653">»Ali stanuje žena polkovnika Lamberga še v Gospodski ulici?« je šepetaje vprašal Bosizio.</p>
             <p n="SL-WIKI0045654">»Da,« je nekako prestrašeno potrdil Gall.</p>
             <p n="SL-WIKI0045655">»Ali ste vi, Gall, kaj radovedni? Jaz za svojo osebo sem časi jako radoveden. Na primer sedaj. Če dobi namreč dober prijatelj pismo, v katerem je izrecno zapisano, naj kapitanu Bosizin pove to in to, dobri prijatelj pa tega ne stori, potem je kapitan Bosizio radoveden, kakor najradovednejša babnica. Ali me razumete, prijatelj Gall? O, moje oko me nikdar ne goljufa in jaz znam časih tudi prav dobro čitati, posebno če mi je pisava tako znana, kakor pisava polkovnika Lamberga. In ker je polkovnik Lamberg sedaj v Gradcu, kjer je vojaška komora in je tamkaj bržkone izvedel jako zanimive stvari; in ker je pisal, naj se te zanimive stvari meni povedo, a povedane mi niso bile, je moja radovednost gotovo opravičena in utemeljena. In zato vas povabim, pojdite z menoj do polkovnikove žene.«</p>
-            <pb n="4"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-004.jpg"/>
             <p n="SL-WIKI0045656">»Pozno je že, gospod kapitan ...«</p>
             <p n="SL-WIKI0045657">»Pozno! Kaj to meni mar! In če bi moral hišna vrata vlomiti in napraviti v hiši tako klanje, kakor Herodeževi hlapci med betlehemskimi otroki — z Lambergovo ženo moram še nocoj govoriti.«</p>
             <p n="SL-WIKI0045658">»Ali — gospod kapitan, saj vendar ne boste ničesar zamudili, če počakate do jutri,« je pohlevno svaril Gall.</p>
             <p n="SL-WIKI0045659">»Ljuba nedolžna duša, kaj mi govorite, človek ne sme nikdar odlašati in čakati! Ko bi bil jaz v različnih bitkah odlašal rabiti svoje orožje in čakal, da zamahne sovražnik, bi že davno ne imel več svoje glave. Ne, nič ne bom čakal do jutri. Kar je Lamberg sporočil Čerinu, s katerim je v sorodu, to je gotovo sporočil tudi svoji ženi in to hočem zvedeti še danes, takoj.«</p>
             <p n="SL-WIKI0045660">Ne da bi čakal na daljne ugovore mladega Galla, ga je prijel pod pazduho in ga skoro šiloma vlekel za seboj po temnih ulicah na drugo stran Ljubljanice, kjer je v Gosposkih ulicah stanoval takratni zapovednik ljubljanske posadke, polkovnik baron Lamberg.</p>
          </div>
-         <pb n="5"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-005.jpg"/>
          <div>
             <head>II.</head>
             <p n="SL-WIKI0045661">Že davno so bile ugasle zadnje luči v mestu, ko je poročnik Snoj še vedno nemirno begal po zapuščenih mestnih ulicah. Zatopljen je bil v svoje misli, da ni vedel, kam ga noge neso. Vedno in vedno mu je prihajal pred oči prijazen gradič blizu sivega Nanosa in živo se je spominjal, kako je bilo tedaj, ko ga je slučaj zanesel tja in je spoznal Leonoro Gornikovo. Neizbrisen je bil vtisk, ki ga je Leonora nanj napravila in čim bolje jo je spoznal, toliko gorečnejša je bila njegova ljubezen do nje. In zdaj je bila zanj izgubljena.</p>
@@ -171,8 +161,6 @@
             <p n="SL-WIKI0045687">Še enkrat sta si stisnila roke in se potem naglo razšla, tako naglo, kakor bi bežala drug pred drugim.</p>
             <p n="SL-WIKI0045688">Čerin se je odpravil na svoje stanovanje, Snoj je ostal v vojašnici ves dan, ker se je bal, da bi morda zopet srečal Čerina.</p>
             <p n="SL-WIKI0045689">A prav, ko je po izvršenih opravilih legel na seno, da bi se odpočil in če mogoče nekoliko prespal, sta ga prišla kapitan Bosizio in poročnik Gall klicat na zaupen pogovor.</p>
-            <pb n="6"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-006.jpg"/>
             <p n="SL-WIKI0045690">Čerin je med tem uredil vse svoje stvari in jih izročil prevozniku, da jih pošlje na dom njegovega očeta, poslovil se je od svojih predpostavljencev in potem zapustil Ljubljano. Hitel je, kakor da mu gori pod nogami, kakor da komaj čaka, da zapusti mestno obzidje, kakor da bi se koga bal. Še predno je bilo poldne, je na svojem konju odjezdil iz mesta in v divjem diru ubral pot na Notranjsko. Neusmiljeno je priganjal konja, da so vasi kar švigale mimo njega, podil je žival, kakor bi ne mogel učakati, kdaj dospe na svoj cilj in ko je končno ležala Postojna za njim, pred njim pa veličastni Nanos, je veselo zavrisnil in zamahnil s klobukom, vedoč, da ni več daleč do Gornikovega gradiča.</p>
             <p n="SL-WIKI0045691">Tema je že objemala zemljo, ko je jezdec na upehanem konju dospel do male vode. Na griču je videl nizek stolp ubožne cerkvice, pod gričem so v večji razdalji stale kmetske koče, sredi vmes pa je vodila pot do gradiča, ki je bil še ves razsvetljen.</p>
             <p n="SL-WIKI0045692">Čerin je zadnjikrat vzpodbodel konja. Zveneli so udarci podkev ob kamenito cesto, da se je slišalo daleč naokrog in nekaj trenotkov pozneje se je Čerin ustavil pred gradičem. Naglo je skočil s konja in ne meneč se za zvesto, od dirjanja vso znojno žival, je pohitel v hišo.</p>
@@ -192,8 +180,6 @@
             <p n="SL-WIKI00456106">»Vsaka druga nevesta bi bila vesela, da ženinu ni treba iti na vojsko, tebi je pa menda še žal, da ostanem pri tebi. Otrok nedolžni, ti pač ne veš, kako strašna in grozovita je vojska in še posebno z divjimi Turki.«</p>
             <p n="SL-WIKI00456107">»Vojska mora biti res strašna,« je zamišljena govorila Leonora. »Slišala sem že mnogo o vojski in lahko si predstavljam vse njene grozote. A vendar mi je žal, da ne greš tudi ti v boj. Že dostikrat sem si sama očitala, da sem tako različna od drugih žensk, a spremeniti se pač ne morem. Jaz bi bila srečna in ponosna, če bi vedela, da braniš tudi ti cesarstvo pred sovražnimi Turki. Vem, da bi se proslavil na bojnem polju. In vidiš, de bi te zadela nesreča — če bi se ti več ne vrnil — jaz bi se sicer nikoli ne omožila in bi do svoje smrti žalovala po tebi, a rekla bi si: umrl je smrt junakov, ki je najlepša.«</p>
             <p n="SL-WIKI00456108">Čerin je drhtel po vsem životu in njegov bledi obraz je izdajal, s kako težo so padle te iskrene besede na njejegovo srce.</p>
-            <pb n="7"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-007.jpg"/>
             <p n="SL-WIKI00456109">»Ti bi morala pesmi zlagati,« se je prisiljeno šalil. »Poetičen talent imaš.«</p>
             <p n="SL-WIKI00456110">Njegove zadnje besede so bile izrečene tako trpko, da je naglo dvignila glavo in mu pogledala v obraz, ki je bil čudno prepadel. Ni si mogla tolmačiti tega, a vprašati ni več mogla ničesar, kajti prišla sta bila do gradiča, pred katerim je stal osedlan vojaški konj.</p>
             <p n="SL-WIKI00456111">»Vojak je v veži — dala sem mu zajtrk, ker se mora takoj vrniti.«</p>
@@ -230,8 +216,6 @@
             <p n="SL-WIKI00456142">Vprašala je to že zopet z mirnim glasom. Vse na njej je kazalo, da hoče vedeti popolno resnico.</p>
             <p n="SL-WIKI00456143">In Čerin ji ni ničesar prikril in ničesar utajil.</p>
             <p n="SL-WIKI00456144">»Polkovnik Lamberg, bratranec moje pokojne matere, mi je sporočil iz Gradca, da bo tudi naš polk poklican na Ogrsko na vojno proti Turkom. Naročil mi je, naj to povem eskadronskemu poveljniku. Jaz pa sem to prikril Bosiziu in vsem drugim. Nisem hotel v vojno. Ko sem dobil Lambergovo obvestilo, sem takoj sklenil, da izstopim iz armade in storil sem to koj drugi dan. Takrat ni še nihče vedel, da bo polk poklican na vojno, samo jaz sem to vedel. Mislil sem, da ne bo nihče uganil pravega vzroka mojemu odstopu, a kakor zdaj vidim, so izvedeli vse in me obsodili.«</p>
-            <pb n="8"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-008.jpg"/>
             <p n="SL-WIKI00456145">»To je vse?« je vprašala Leonora.</p>
             <p n="SL-WIKI00456146">»Vse in mislim, da je dovolj.«</p>
             <p n="SL-WIKI00456147">»Ni dovolj,« je ugovarjala Leonora. »Domenila sva se, da med nama ne sme biti nikoli nobenega nesporazumijenja. Povej, zakaj si izstopil iz armade in iz kakšnega vzroka nisi hotel v vojno.«</p>
@@ -249,8 +233,6 @@
             <p n="SL-WIKI00456159">»Zdaj so štirje,« je mrmral v brezmejnem obupanju in s tresočo se roko spravljal konce pavovih peres v svojo listnico. »Zdaj so štirje,« so šepetale njegove ustne in s  šibečimi se koleni je zapustil sobo in hišo.</p>
             <p n="SL-WIKI00456160">Malo časa pozneje se je zaslišalo peketanje konjskih kopit. Leonora, ki je jokala v svoji sobi, je planila k oknu, obupno je zaklicala: »Andrej, ostani, Andrej,« a bilo je že prepozno. Čerin je ni več slišal in je odjezdil v svet.</p>
          </div>
-         <pb n="9"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-009.jpg"/>
          <div>
             <head>III.</head>
             <p n="SL-WIKI00456161">V jasni noči, ko je Ljubljana že spala, sta se na Mestnem trgu srečala dva človeka. Eden je imel leseno nogo, vsled česar se je daleč slišal njegov korak. Ti udarci z leseno nogo so provzročili, da je od nasprotne strani prihajajoči človek dvignil glavo, tako da mu je mož z leseno nogo videl v obraz.</p>
@@ -278,8 +260,7 @@
             <p n="SL-WIKI00456183">»Tudi to je samo slučaj. Oče je name ustrelil, a me ni zadel.«</p>
             <p n="SL-WIKI00456184">Majorju je padla kupica iz rok. Slutil je, da se je stari vojak dejanjsko lotil svojega sina, a da bi bil nanj ustrelil, tega vendar ni mislil. Toda iz tega, kar mu je bil Čerin povedal, je spoznal, da na kako posredovanje ni mogel več misliti. In jasno mu je bilo tudi, da jih sploh ni besedi, ki bi mogle poravnati nasprotje med očetom in med ženinom in nevesto.</p>
             <p n="SL-WIKI00456185">»Kaj mislite storiti!« je čez dolgo časa zopet izpregovoril major Žun.</p>
-            <p n="SL-WIKI00456186">»Še sam ne vem,« je odgovoril Čerin. »Zavedam se, da sem človek brez časti. Ta zavest me bo vodila pri vseh mojih sklepih. Za zdaj sem tu v Ljubljani. Oče mi je vrgel doto moje matere pred noge; ni mnogo, a za nekaj časa bo zadostovalo. Zdaj razmišljam in ugibam, kaj naj storim. Sklenil sem doslej le to, da pojdem <pb n="10"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-010.jpg"/> doli v Slavonijo, ali na Ogrsko.«</p>
+            <p n="SL-WIKI00456186">»Še sam ne vem,« je odgovoril Čerin. »Zavedam se, da sem človek brez časti. Ta zavest me bo vodila pri vseh mojih sklepih. Za zdaj sem tu v Ljubljani. Oče mi je vrgel doto moje matere pred noge; ni mnogo, a za nekaj časa bo zadostovalo. Zdaj razmišljam in ugibam, kaj naj storim. Sklenil sem doslej le to, da pojdem  doli v Slavonijo, ali na Ogrsko.«</p>
             <p n="SL-WIKI00456187">»Saj tam bo vojna,« je vzkliknil major. »Kaj hočete tam?«</p>
             <p n="SL-WIKI00456188">»Ne vem,« je mirno rekel Čerin. »Doli pojdem in dolgo me ne bo nazaj ali celo nikdar.«</p>
             <p n="SL-WIKI00456189">Čerin je segel v žep in je vzel iz listnice štiri konce pavovih peres.</p>
@@ -289,8 +270,6 @@
             <p n="SL-WIKI00456193">»Ali ni morda mogoče, da bi nastale okolnosti, v katerih bi Bosizio, Gall in Snoj ta peresa vzeli nazaj? Mislim si, da pride človek lahko v nevarnosti, ko mu je treba rešitelja. Zato pojdem dol na južno Ogrsko ali v Slavonijo. Morda mi bo sreča mila, in če bi vsi trije vzeli svoja peresa nazaj, o potem ... potem bo morda tudi Leonora vzela svoje ...«</p>
             <p n="SL-WIKI00456194">»Kaj mislite, da bo Leonora na vas čakala,« je dejal Žun. »Po moji sodbi vas bo skušala čim preje pozabiti in snubcev ima vedno dovolj.«</p>
             <p n="SL-WIKI00456195">»Na to ne mislim, da bi name čakala,« je resignirano izjavil Čerin, »ali moje življenje nima nobene vrednosti zame, če ne dosežem, da vzame Leonora svoje pero nazaj.«</p>
-            <pb n="11"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-011.jpg"/>
             <p n="SL-WIKI00456196">Major Žun je bil prepričan, da je Čerinov namen brezupen. Zavedal se je, da bi moral Čerin izvršiti prave čudeže, če naj bi njegovi bivši tovariši preklicali storjeno mu sramoto, a kje in kako naj dobi priliko, kaj takega storiti.</p>
             <p n="SL-WIKI00456197">Čerin je uganil, kake misli roje majorju po glavi.</p>
             <p n="SL-WIKI00456198">»Moj namen se vam zdi pač blazen, kaj ne?« je vprašal z bolestnim usmevom na svojih brezkrvnih ustnicah. »Uvidevam sam, da ima ta načrt nekaj blaznega na sebi in malo, malo je upanja, da bi se mi posrečil le v najmanjši meri. A poskusiti hočem svojo srečo na vsak način.«</p>
@@ -307,8 +286,7 @@
             <p n="SL-WIKI00456209">»Kaj pa dela v Ljubljani,« je radovedno vprašal Čerin.</p>
             <p n="SL-WIKI00456210">»Jezo kuha,« se je smejal Žun. »Starhemberg je na Španskem izvojeval velike zmage, a po odhodu nadvojvode Karla, ko je ostal kot podkralj sam v Barceloni, mu niso poslali nič vojaštva več. Ker se vsled slabosti svoje armade ni mogel vzdržati, se je na angleških ladjah z vojaštvom vred prepeljal v Genovo. Od tedaj sta s cesarjem v hudem navskrižju. Starhemberg neče in neče na Dunaj, dasi mu je cesarica Elizabeta šele pred par dnevi pisala jako ljubeznivo pismo. Ostati hoče v Ljubljani, naravno pa je, da je v zvezi z vsemi mogočniki in zlasti njegov brat, general Maksimilijan grof Starhemberg, mu vedno poroča o vseh važnejših dogodkih. Tudi o vojnih pripravah zoper Turke je natančno podučen.«</p>
             <p n="SL-WIKI00456211">Zatrdilo, da je feldmaršal Starhemberg natančno podučen o vojnih pripravah zoper Turke, je Čerina bolj zanimalo, kakor vse drugo pripovedovanje zgovornega majorja. In Žuna ni bilo treba dolgo prositi, da je vse povedal, kar mu je bilo znano.</p>
-            <p n="SL-WIKI00456212">»Vojna bo gotovo, ljuta in krvava vojna,« je pripovedoval Žun. »Turki so jo začeli najprej proti beneški republiki. Hoteč ji vzeti, kar je še grškega ozemlja v njeni oblasti, so jo napadli od različnih strani in dosegli so uspehe. Pijani prelite krvi in hoteč zadobiti zopet Ogrsko, so izzvali cesarja na žaljiv način, češ, da je prelomil karlovški mir, ker je z beneško republiko sklenil alijanco. Veliki vezir Ali paša je izdal oklic, v katerem pravi, da je cesar najhujši vseh sovražnikov, kar jih ima Turčija in da je treba njegovo moč za vsako ceno zlomiti. Vojna še ni napovedana, a začela se je že.  Princ Evgen je svojo armado dobro pripravil in si izbral najboljše generale. Tudi Gvidona Starhemberga je povabil, a ta je odklonil. 75.000 mož bo zbral princ Evgen pri Petrovaradinu, <pb n="12"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-012.jpg"/> vodja infanterije bo feldmaršal Heiser, vodja konjenikov felmaršal Palffy, pod njimi pa bodo stali generali grof Mercy, Maksimilijan Starhemberg, princ Bevern, baron Efergenyi in Battée. Mogočna armada bo to, ali če bo mogla kljubovati Turkom, to je drugo vprašanje. Veliki vezir Ali paša bo sam vodil turško armado in  verodostojna poročila pravijo, da bo imel nad 150.000 mož na razpolago. To je vzrok, da so zdaj poklicali na Ogrsko tudi naše polke in tudi kirasirje, pri katerih ste vi služili.«</p>
+            <p n="SL-WIKI00456212">»Vojna bo gotovo, ljuta in krvava vojna,« je pripovedoval Žun. »Turki so jo začeli najprej proti beneški republiki. Hoteč ji vzeti, kar je še grškega ozemlja v njeni oblasti, so jo napadli od različnih strani in dosegli so uspehe. Pijani prelite krvi in hoteč zadobiti zopet Ogrsko, so izzvali cesarja na žaljiv način, češ, da je prelomil karlovški mir, ker je z beneško republiko sklenil alijanco. Veliki vezir Ali paša je izdal oklic, v katerem pravi, da je cesar najhujši vseh sovražnikov, kar jih ima Turčija in da je treba njegovo moč za vsako ceno zlomiti. Vojna še ni napovedana, a začela se je že.  Princ Evgen je svojo armado dobro pripravil in si izbral najboljše generale. Tudi Gvidona Starhemberga je povabil, a ta je odklonil. 75.000 mož bo zbral princ Evgen pri Petrovaradinu,  vodja infanterije bo feldmaršal Heiser, vodja konjenikov felmaršal Palffy, pod njimi pa bodo stali generali grof Mercy, Maksimilijan Starhemberg, princ Bevern, baron Efergenyi in Battée. Mogočna armada bo to, ali če bo mogla kljubovati Turkom, to je drugo vprašanje. Veliki vezir Ali paša bo sam vodil turško armado in  verodostojna poročila pravijo, da bo imel nad 150.000 mož na razpolago. To je vzrok, da so zdaj poklicali na Ogrsko tudi naše polke in tudi kirasirje, pri katerih ste vi služili.«</p>
             <p n="SL-WIKI00456213">Žun je vedel pazljivo poslušajočemu Čerinu povedati še mnogo zanimivih posamičnosti o vojnih pripravah proti Turkom. Govorilne z vnemo starega vojaka in je semintja s palico jezno udaril po svoji leseni nogi, zakaj, žal mu je bilo, da mora ostati doma za pečjo in da se ne more udeležiti vojne, obetajoče krvave boje, slavo in bogat plen. Šele, ko je bil že dvakrat in trikrat ponovil vse, kar je vedel, se je tudi spomnil, kaj je bil Čerinu obljubil.</p>
             <p n="SL-WIKI00456214">»Glejte, skoraj bi bil pozabil, čemu sem vam začel pripovedovati o Starhembergu,« je dejal Žun. »Pa je že tako: kadar začno stari vojaki govoriti o bojih, pozabijo na vse drugo. Poslušajte torej mojo misel. Če vam je prav, pojdem k feldmaršalu Starhembergu in ga prosim, naj vam da priporočilno pismo na svojega brata, grofa Maksimilijana. Veste, tako pismo z velikim pečatom. Tako pismo vam lahko mnogo koristi in vas lahko obvaruje velikih nevarnosti.«</p>
             <p n="SL-WIKI00456215">»Tako pismo bi seveda rad imel,« je menil Čerin. »Ali rajši grem brez takega pisma, kakor da bi kdo izvedel za mojo nesrečo.«</p>
@@ -318,8 +296,6 @@
             <p n="SL-WIKI00456219">»Njej ne smete ničesar povedati! Dajte mi svojo častno besedo, da mi izpolnite to prošnjo.«</p>
             <p n="SL-WIKI00456220">»Dam vam jo,« je slovesno izjavil major in podal Čerinu roko. »Po pismo pa pridite jutri zvečer.«</p>
          </div>
-         <pb n="13"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-013.jpg"/>
          <div>
             <head>IV.</head>
             <p n="SL-WIKI00456221">Armada princa Evgena je bila zbrana pri Futaku, ko je koncem meseca julija leta 1716. prišla v taborišče vest, da so Turki zgradili most čez Savo in da je njih armada začela prodirati v Srem. Veliki vezir Ali paša je bil na čelu te armade, ki so jo avstrijski vohuni cenili nad 200.000 mož, in jo je peljal čez Panovce na Slankamen in od tod na Sremske Karlovce, kjer je na ugodno ležeči višavi utaboril svojo vojsko. Po turškem običaju so bili okrog tabora postavljeni vozovi in utrjeni tako, da je tabor tvoril pravo trdnjavo.</p>
@@ -340,16 +316,12 @@
             <p n="SL-WIKI00456236">Med tem umikanjem je pridrvel Bosizio s svojo četico, a prekasno. Ni se mogel združiti več s Palffvjevimi konjeniki, kajti vmes so bili Palffyja zasledujoči Turki, od zadaj pa so mu sledili turški konjeniki.</p>
             <p n="SL-WIKI00456237">Bosizio je dvignil sabljo, in ko so bili zbrani njegovi kirasirji okrog njega, jim je kratko rekel:</p>
             <p n="SL-WIKI00456238">»Izgubljeni smo, a storimo junaško smrt. Za menoj — hura!</p>
-            <pb n="14"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-014.jpg"/>
             <p n="SL-WIKI00456239">In »hura« je zadonelo in z zadnjimi silami so se kirasirji zapodili naravnost med Turke, ki so bili pred njimi, mala četica med ogromno množico. S tisto besnostjo, ki jo vzbudi samo gotovost smrti, so kirasirji sekali med Turke, vsem naprej kapitan Bosizio, divjali so tako strahovito, da je med turškimi četami nastal nered. Tedaj pa so Palffyjevi dragonci pritisnili od nasprotne strani in Turki, misleč, da so napadeni od dveh strani, da so jim cesarski prišli za hrbet, so se začeli umikati. Naenkrat je bil Bosizio s svojim oddelkom sredi med dragonci — četa njegova je bila rešena. Predno so Turki spoznali pravi položaj, so se dragonci z Bosiziovo četo že umaknili.</p>
             <p n="SL-WIKI00456240">Šele zdaj je Bosizio zapazil, da njegova četa ni več polnoštevilna.</p>
             <p n="SL-WIKI00456241">»Kje je Snoj?« je vprašal in se prestrašen ozrl po svojih vojakih. »Ravnokar sem ga še videl.«</p>
             <p n="SL-WIKI00456242">Vojaki so obstali in se ozirali. Snoja ni bilo nikjer. Vzlic zopetnemu približevanju Turkov so se vrnili na bojišče in v naglici pregledali ranjence in mrliče, a med njimi ni bilo Snoja.</p>
             <p n="SL-WIKI00456243">»Ujet je — siromak,« je zazvdihnil Bosizio. »Ni mogoče drugače, kakor da so ga premagali in odpeljali seboj.«</p>
             <p n="SL-WIKI00456244">S povešeno glavo se je vrnil Bosizio s svojimi vojaki k dragoncem in odjezdil ž njimi v Petrovardin.</p>
-            <pb n="15"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-015.jpg"/>
             <p n="SL-WIKI00456245">Med pojezdom grofa Palffyja je princ Evgen odpravil svojo armado čez Donavo in jo zbral okrog Petrovaradina, kjer so bili še ohranjeni nasipi izza zadnje vojne s Turki. V območju topov petrovaradinske trdnjave, a zunaj utrdb in nasipov, je bilo utaborjeno kmetsko ljudstvo, ki je od vseh strani pribežalo semkaj pred Turki in s strahom in trepetom čakalo, kakšen bo konec bojev in vojne. V ubožnih, le za silo zadostujočih šotorih ali pa kar pod milim nebom na golih tleh, se je tu gnetlo več tisoč ljudi, ki so trpeli toliko bolj, ker jim je primanjkovalo tudi najpotrebnejših zdravil. Trpeli so molče in molče umirali.</p>
             <p n="SL-WIKI00456246">Ta množica je seveda kmalu izvedela od vojakov, kakšen uspeh je imel pojezd grofa Palffvja in izvedela je tudi, koliko ranjenih vojakov je padlo v roke Turkom, ki so jih odpeljali v svoje taborišče. Zlasti je vojaštvo žalovalo, da je hrabri podmaršal grof Breuner zapadel tej usodi. Čula pa so se tudi še druga imena padlih ali pogrešanih oficirjev in vojakov, in med njimi tudi ime kirasirskega poročnika Snoja.</p>
             <p n="SL-WIKI00456247">Nihče ni teh pogovorov in poročil poslušal s toliko pozornostjo, kakor mladi, kmečko oblečen človek. Najpreje se je mudil v obližju vojakov, ki so izza nasipov prihajali med begune, ali pa so bili na delu pri popravljanju in kopanju nasipov in ker je umel nemški, je tudi največ izvedel.</p>
@@ -361,8 +333,6 @@
             <p n="SL-WIKI00456253">Čerin se je priplazil do soteske, kjer je ležala gruča cesarskih in turških vojakov. Iz pripovedovanja vojakov v taboru je vedel, da je bil tod težko ranjen podpolkovnik baronov in da je ta soteska najbolj oddaljena od turškega taborišča. Vojaki-pokopovalci so bili daleč od njega, in nič se mu ni bilo bati, da bi ga tukaj presenetili.</p>
             <p n="SL-WIKI00456254">Preiskal je najprej vsakega tu ležečega vojaka, cesarskega in turškega, in je videl, da je en sam turški vojak še živ. Temu je obvezal rano in mu dal piti. Potem je naglo slekel dva mrtva Turka in njiju trupli zakopal v jamo, ki jo je v hitrici izkopal z mečem, katere so imeli mrliči pri sebi. Oblekel je potem obe turški obleki drugo vrh druge in si privezal turban ter opasal turški meč. Zdaj se ni več bal presenečenja, kajti vedel je, da je v turški armadi na tisoče pomohamedanjenih Srbov in Bolgarov, ki ne znajo turškega jezika, in ga torej ni bilo strah, da bi ga v temi spoznali kot kristjana.</p>
             <p n="SL-WIKI00456255">Po vojaškem običaju tistega časa je potem preiskal mrliče in vzel, kar je dobil pri njih. Plen je bil prav reven. Pri cesarskih vojakih je dobil vsaj nekaj denarja, pri turških pa niti denarja. Pač pa je dobil pri enem turških mrličev zlato žensko zapestnico, okrašeno z dragimi kamenji, in star prepoten pergament, na katerem je visel velik pečat. Obleka in orožje tega mrliča je kazalo, da je moral mož biti turški oficir, njegov zeleni turban pa je pričal, da je bil že opravil romanje v Meko.</p>
-            <pb n="16"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-016.jpg"/>
             <p n="SL-WIKI00456256">Videč, da se nihče zanj ne zmeni, se je odmaknil od miz, ki so jih razsvetljevale plamenice, proti šotorom bolnikov. Spoznal je, da bi bil med bolniki in ranjenci še najbolj varen. Njegova obleka je bila krvava od ranjenca, ki ga je prinesel v tabor, in v slučaju potrebe bi si lahko še sam prizadel kako rano, samo da bi mogel ostati v bolniškem oddelku.</p>
             <p n="SL-WIKI00456257">Naglo je stopil v šotor, ki ga je razsvetljevala ena sama plamenica. Ranjenci in bolniki so ležali na slami vsevprek. Eni so ječali, drugi glasno na pomoč klicali, zopet drugi so kleli v vseh mogočnih jezikih.</p>
             <p n="SL-WIKI00456258">Čerin se je skril za zaveso, s katero je bil zagrnjen vhod, da bi premotril šotor in si izbral najpripravnejše ležišče. Pazno je poslušal vsak klic in vsako izgovorjeno besedo ter se naposled vlegel na konec šotora, od koder je bil slišal pogovor v slovanskem jeziku.</p>
@@ -376,8 +346,6 @@
             <p n="SL-WIKI00456266">V bolniškem oddelku turškega tabora je streljanje provzročilo veliko vznemirjenost. Vse več ranjencev se je dvigalo z ležišč in šlo iz šotora poizvedovat kako in kaj. Vesti, ki so jih prinašali, so še povečevale vznemirjenost. Kdor se je le mogel pregibati, je vstal in je šel iz šotora, da raz vozove okrog taborišča opazuje bojevanje.</p>
             <p n="SL-WIKI00456267">Petrovaradinska bitka se je bila začela. Prvi naskok je vodil princ Wurttemberg. Srečno je zavzel eno turško baterijo, a ko so prikorakali cesarski pešaki, so se turški konjeniški zapodili nanje z najljutejšo silo in jih začeli razganjati.</p>
             <p n="SL-WIKI00456268">V turškem taboru je zavladalo nepopisno veselje, ponehal pa je tudi vsak red. Vse je bilo zbrano na vozovih okrog taborišča in vpilo in vriskalo, za bolnike in ranjence se ni nihče več zmenil.</p>
-            <pb n="17"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-017.jpg"/>
             <p n="SL-WIKI00456269">Tedaj si je Čerin obvezal desno roko z različnimi cunjami, ki so ležale v njegovi bližini in je zapustil bolniški šotor. Taborišče je bilo skoro zapuščeno, vse vojaštvo je bilo zunaj za nasipi, v taborišču so ostale le najpotrebnejše osebe. Na griču sredi taborišča je pred šotorom velikega vezirja plapolala zelena zastava. Sredi velike skupine oficirjev in vojakov, je sedel na belem konju Ali paša in je vodil bitko.</p>
             <p n="SL-WIKI00456270">Naglo je izginil Čerin med šotori. Hodil je hitro, kakor bi imel kako opravilo, da bi ga kdo ne ustavil in iskal, kje imajo Turki svoje jetnike. Obšel je malone ves tabor, a nikjer ni našel sledu.</p>
             <p n="SL-WIKI00456271">Bitka se je med tem popolnoma razvila in divje kričanje z vozov in razburjenost, ki je vladala med oficirji in vojaki, zbranimi okrog Ali paše, je razodevala Čerinu, da zmaguje cesarska armada. Povzpel se je na ograjo vozov in je od tamkaj pregledal vse bojišče. Videl je, kako se morajo turški konjeniki umikati pred cesarskimi kirasirji, videl je da je cesarska infanterija že zavzela prve turške nasipe in da pritiskajo cesarski konjeniki od desne in od leve na Turke. Uganil je, da utegne bitka vzeti slab konec za Turke in zato je naglo zapustil svoje opazovališče in nadaljeval iskanje jetnikov.</p>
@@ -395,8 +363,6 @@
             <p n="SL-WIKI00456283">Pred šotorom padlega velikega vezirja so ležala trupla obglavljenih cesarskih vojakov, ki so bili kot ranjenci prišli Turkom v roke, med njimi truplo generala grofa Breunerja. Pred temi žrtvami je princ Evgen dvignil svoj meč in prisegel, da bo te umore nad Turki strahovito maščeval:</p>
             <p n="SL-WIKI00456284">Ko je bila urejena in zbrana vsa armada, pa je princ Evgen dal dovoljenje, da smejo vojaki opleniti turško taborišče. Sebi je pridržal šotor velikega vezirja, v katerem je našel veliko bogastvo. Vse drugo je prepustil armadi.</p>
          </div>
-         <pb n="18"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-018.jpg"/>
          <div>
             <head>V.</head>
             <p n="SL-WIKI00456285">V mali zaduhli krčmi na Starem trgu v Ljubljani je bila zbrana vesela družba starejših in mlajših oficirjev in je z velikim zanimanjem poslušala pripovedovanje poročnika Snoja o njegovih doživljajih v vojni proti Turkom.</p>
@@ -412,8 +378,7 @@
             <p n="SL-WIKI00456295">»Ali še kaj mislite na Gornikova Leonoro?« ga je vprašala in ga s tem tako presenetila, da ni Snoj ničesar odgovoril. »Veste, prav huda sem bila, ko sem slišala, da ste se umaknili Čerinu. Moja želja je bila vedno, da bi se bila vzela Vi in Leonora. A kako ste me prevarali v mojih nadah.«</p>
             <p n="SL-WIKI00456296">»Leonora je kot Čerinova žena gotovo srečna in je že davno pozabila name,« je menil Snoj. »Kako se godi Leonori in njenemu možu?«</p>
             <p n="SL-WIKI00456297">Gospa Jerajeva je samega začudenja z obema rokama zamahnila po izraku.</p>
-            <p n="SL-WIKI00456298">»Kaj pa govorite?« Kaj se Vam sanja, ali pa ničesar ne veste,« je kričala na Snoja. »Leonora se ni omožila, ne s Čerinom, ne s kom drugim. Živa duša ne ve, kaj se je zgodilo. Čerin je izginil in nihče ne ve ne zakaj, ne kam. Leonora bo že <pb n="19"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-019.jpg"/> nekaj vedela, toda iz nje ni spraviti nobene besede.«</p>
+            <p n="SL-WIKI00456298">»Kaj pa govorite?« Kaj se Vam sanja, ali pa ničesar ne veste,« je kričala na Snoja. »Leonora se ni omožila, ne s Čerinom, ne s kom drugim. Živa duša ne ve, kaj se je zgodilo. Čerin je izginil in nihče ne ve ne zakaj, ne kam. Leonora bo že  nekaj vedela, toda iz nje ni spraviti nobene besede.«</p>
             <p n="SL-WIKI00456299">V nemem strmenju je poslušal Snoj to pripovedovanje.</p>
             <p n="SL-WIKI00456300">»In nihče ne ve, kam je Čerin izginil?« je končno vprašal, »nihče, ali je še živ, ali je umrl?«</p>
             <p n="SL-WIKI00456301">»Nihče,« je odgovorila gospa Jerajeva. »Kvečjemu če bi kaj vedel stari major Žun, ki ga je Čerin obiskal, predno je izginil.«</p>
@@ -424,8 +389,6 @@
             <p n="SL-WIKI00456306">»Če jo imate še kaj radi, obiščite jo,« je izjavila energična vdova. »In če se vzameta, ne bo tega nihče tako vesel, kakor jaz.«</p>
             <p n="SL-WIKI00456307">Gospa Jerajeva se je pripravila na daljši razgovor o tem njenem ženitovanjskem projektu. Toda učakala je veliko in prav neprijetno razočaranje. Snoj naenkrat ni imel nič več časa za gospo Jerajevo. Vsi poskusi podjetne vdove, nadaljevati začeto poglavje, so se ponesrečili. Snoj ni kraktomalo nič več odgovoril, nego se naglo poslovil ter gospo Jerajevo pustil sredi ceste samo. Glasno godrnjaje je gospa nadaljevala svojo pot, v srcu pa delala načrte in naklepe, kako bi Snoja in Leonoro vendarle skupaj spravila.</p>
             <p n="SL-WIKI00456308">Med tem je pa Snoj z dolgimi koraki naravnost hitel na stanovanje majorja Žuna. V njegovi notranjosti je divjal vihar. Če je Čerin res zapustil Leonoro in če jo je celo zapustil zaradi nesreče, vsled katere je obubožala, potem ni bilo nobene ovire več, da bi se sam ne mogel zopet približati dekletu, kateremu je bilo vdano njegovo srce.</p>
-            <pb n="20"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-020.jpg"/>
             <p n="SL-WIKI00456309">Major Žun je bil na svojem stanovanju. Ležal je na stari zofi, tolkel s palico, ob katero se je navadno opiral, po svoji leseni nogi, in se ljutil, da mora čepeti v Ljubljani, med tem, ko so njegovi tovariši v vojni. Ta dan je bil posebno slabe volje. Slišal je bil namreč, da se je Snoj vrnil z bojišča, in ljutil se je, da ga mladi oficir še vedno ni obiskal in da je svoje vojne doživljaje povedal vsem prej kakor njemu.</p>
             <p n="SL-WIKI00456310">Ko je Snoj vstopil v sobo, se je majorju lice razjasnilo. Kar planil je s svoje zofe in hitel Snoju z razprostrtima rokama nasproti.</p>
             <p n="SL-WIKI00456311">»Snoj — dečko — junak — pojdi na moje srce!«</p>
@@ -450,8 +413,7 @@
             <p n="SL-WIKI00456330">»Dovolite, da vas kakor očetovskega prijatelja vprašam za svet,« je končno izpregovoril Snoj. »Morda vam je znano, da sem bil jaz pri Gornikovih prej znan, kakor Čerin in drugi tovariši. Od prvega dne, ko sem spoznal Leonoro, sem jo ljubil ...«</p>
             <p n="SL-WIKI00456331">»Vi tudi?« se je začudil major.</p>
             <p n="SL-WIKI00456332">»Da! Od prvega dne sem jo ljubil in imel sem poštene namene. Videl sem pa, da je Leonora svojo ljubezen naklonila Čerinu in zato sem se molče umaknil. Sedaj pa, ko se govori, da sta se Čerin in Leonora razšla, bi jaz rad vedel, če je Leonora resnično in popolnoma svobodna in če se ji smem zdaj kot pošten človek zopet približati, ne da bi mi mogel Čerin očitati, da sem izrabil njegovo odsotnost in ga izpodrinil. Odgovorite mi samo na to: ali smem, ali ne smem?«</p>
-            <p n="SL-WIKI00456333">Major je naslonil glavo na zid in gledal dolgo časa kakor zamaknjen v zrak. V duhu je videl od krvi porošene planjave Slavonije in južne Ogrske, videl turške in cesarske vojake in videl med njimi begati mladega človeka s plavimi očmi, ki bi rad dosegel, da bi njegovi nekdanji <pb n="21"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-021.jpg"/> kameradje nazaj zahtevali poslana mu peresa. V duhu ga je videl celo v obleki turškega vojaka, kako reši cesarskega kirasirja gotove smrti. Spomnil pa se je tudi svoje obljube, dane ob slovesu. »Nikomur na svetu ne smete ničesar povedati — le čez tri leta šele mojemu očetu ...«</p>
+            <p n="SL-WIKI00456333">Major je naslonil glavo na zid in gledal dolgo časa kakor zamaknjen v zrak. V duhu je videl od krvi porošene planjave Slavonije in južne Ogrske, videl turške in cesarske vojake in videl med njimi begati mladega človeka s plavimi očmi, ki bi rad dosegel, da bi njegovi nekdanji  kameradje nazaj zahtevali poslana mu peresa. V duhu ga je videl celo v obleki turškega vojaka, kako reši cesarskega kirasirja gotove smrti. Spomnil pa se je tudi svoje obljube, dane ob slovesu. »Nikomur na svetu ne smete ničesar povedati — le čez tri leta šele mojemu očetu ...«</p>
             <p n="SL-WIKI00456334">Vzravnal se je na zofi, trdo je pogledal Snoju v obraz in odločno rekel:</p>
             <p n="SL-WIKI00456335">»Smete! Leonora je svobodna in če jo še vedno ljubite, jo smete tudi zasnubiti.«</p>
             <p n="SL-WIKI00456336">»Hvala vam za to pojasnilo,« je rekel Snoj in je staremu vojaku stisnil roko. »Zdaj vem, da bi mi tudi Čerin ne mogel očitati ničesar.«</p>
@@ -465,8 +427,6 @@
             <p n="SL-WIKI00456344">»Ah, vi ste prišli, gospod Snoj,« je vzkliknila Leonora. »Mislila sem si, da nas obiščete.«</p>
             <p n="SL-WIKI00456345">Odložila, je mandolino in dala Snoju roko. Videlo se ji je, da je vesela njegovega prihoda. Zapazila je, da je vrgel Snoj nagel pogled na njeno mandolino in z ljubkim smehljajem ga je vprašala:</p>
             <p n="SL-WIKI00456346">»Ali jo še spoznate? Lani ste mi jo poslali za Božič. Ta mandolina je sedaj moja edina prijateljica. Nekaj časa se je pač nisem dotaknila; preveč mi je klicala v spomin, kar bi rada pozabila; a sedaj sva že zopet dobri in kadar prebiram te tanke strune, tedaj mislim vedno tudi na vas in sem vesela, da ste moj prijatelj.«</p>
-            <pb n="22"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-022.jpg"/>
             <p n="SL-WIKI00456347">Dala mu je novič roko in on je to mehko roko vroče poljubil in sladke nade so se vzbudile v njegovem srcu in te nade so se premenile v pravo blaženstvo, ko je Leonora odločno izjavila, da mora vsaj nekaj dni ostati in da ga na noben način ne pusti prej oditi.</p>
             <p n="SL-WIKI00456348">Prijeten je bil ta večer v tihi samotni hiši pod Nanosom. Snoj je pripovedoval zopet o svojih doživljajih v vpojni in govorilo se je o vseh mogočih stvareh do pozne noči. A ko se je Snoj naposled spravil spat, se je na tihem čudil, da ves večer ni nihče omenil Čerina in zdelo se mu je, da stoji med njim in med Leonoro Čerinova senca. In to mu je nekoliko zagrenilo veselje na svidenju z Leonoro.</p>
             <p n="SL-WIKI00456349">Nekaj lepih dni je preživel Snoj pri Gornikovih. Z Leonoro sta obhodila vso okolico, se smejala in veselila in se zopet resno in pametno zgovarjala. A kadar je hotel Snoj razodeti Leonori svoja čustva, vselej je prenehal takoj po prvih besedah, vselej se mu je novic zazdelo, da leži Čerinova senca med njim in med njo.</p>
@@ -487,14 +447,11 @@
             <p n="SL-WIKI00456364">Tedaj pa je Leonora naslonila glavo na njegove prsi in se razjokala, Snoj pa ji je s tresočo roko gladil lase.</p>
             <p n="SL-WIKI00456365">V mraku se je Snoj poslovil in je odšel. Do ograje ga je spremila tudi Leonora, a stari Gornik je šel ž njim še dalje, češ, da ga mora spremiti vsaj do ceste.</p>
             <p n="SL-WIKI00456366">Pri razpotju pa se stari možkar ni mogel ločiti, še vedno je imel kaj vprašati in kaj naročiti. Šele prav nazadnje je dejal:</p>
-            <p n="SL-WIKI00456367">»Gospod Snoj — povejte mi, kaj je s Čerinom? Vi gotovo veste, kaj je ž njim, o, vi to gotovo veste. Nekaj dni pred požarom je prišel k nam in je drugi dan kar nagloma odjezdil. Se poslovil se ni. Nič ni rekel nikomur — kar šel je. In nihče ne ve, ne kam, ne zakaj. Saj bi vas ne izpraševal, ali jaz vem, kako je moji hčeri <pb n="23"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-023.jpg"/> pri srcu. Naj mi to tudi še tako zakriva, jaz ji vendar vidim v dušo, poznam njene bolesti in vem, kaj trpi. Vsaj gotovost bi hotel imeti, če je Čerin še živ in kje da je.«</p>
+            <p n="SL-WIKI00456367">»Gospod Snoj — povejte mi, kaj je s Čerinom? Vi gotovo veste, kaj je ž njim, o, vi to gotovo veste. Nekaj dni pred požarom je prišel k nam in je drugi dan kar nagloma odjezdil. Se poslovil se ni. Nič ni rekel nikomur — kar šel je. In nihče ne ve, ne kam, ne zakaj. Saj bi vas ne izpraševal, ali jaz vem, kako je moji hčeri  pri srcu. Naj mi to tudi še tako zakriva, jaz ji vendar vidim v dušo, poznam njene bolesti in vem, kaj trpi. Vsaj gotovost bi hotel imeti, če je Čerin še živ in kje da je.«</p>
             <p n="SL-WIKI00456368">Snoju se je stari mož smilil in v prvem trenotku mu je hotel celo povedati, v kakih okoliščinah je Čerin zapustil vojaško službo. Rekel si je, da bi ga potem Gornik in Leonora laglje pozabila. A še o pravem času se je spomnil, da bi to bilo njega samega nevredno. Mislil je, da nihče, tudi Leonora ne ve, v kakih razmerah se je Čerin ločil od svojih tovarišev in ni hotel svoje skrivnosti izrabiti, da bi ž njo premagal senco, ki je ležala med njim in Leonoro.</p>
             <p n="SL-WIKI00456369">»Ničesar ne vem, gospod Gornik, prav ničesar,« je rekel. »Odkar je Čerin zapustil naš polk, ni bilo nič več slišati o njem. Tudi v Ljubljani ne vedo ničesar, niti njegov posebni prijatelj major Žun. A če bom kaj izvedel — na mojo čast, gospod Gornik — takoj vam to sporočim.«</p>
             <p n="SL-WIKI00456370">»O, prosim vas, prosim,« je ječal stari mož. »Vsaj gotovost bi rad imel, da bi mi Leonona od žalosti ne umrla.«</p>
          </div>
-         <pb n="24"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-024.jpg"/>
          <div>
             <head>VI.</head>
             <p n="SL-WIKI00456371">Poražena Turčija se je vso zimo trudila, da bi dosegla mir. Toda na veliko veselje vse armade ni hotel princ Evgen ničesar slišati o miru, marveč si je postavil za cilj, zavzeti Belgrad in na njegovi trdnjavi razviti cesarsko zastavo.</p>
@@ -506,13 +463,10 @@
             <p n="SL-WIKI00456377">Bojevanje se je začelo 1. julija. Ta dan je pregnala cesarska armada Turke iz Zemuna, a pet dni pozneje se je vnela med cesarskimi in med turškimi ladjami na Savi in na Donavi ljuta bitka. Turški naskoki pa so bili vsi srečno odbiti. Od tega dne so se boji neprestano ponavljali, zdaj večji, zdaj manjši. Ko je 13. julija nastal velik vihar, ki je poškodoval mostove cesarske armade, so Turki z ljuto silo poskusili veliki most razdejati. 30.000 Turkov je napadlo most, ki ga je branilo samo šestdeset mož, a ti so se tako hrabro ustavljali strahovitemu navalu, da je utegnil general O’ Duyer jim prihiteti na pomoč in Turke pregnati. Toda vsi ti uspehi niso cesarski armadi nič  pomagali. Turki so se iz belgrajske trdnjave izselili in napravili taborišče zunaj Belgrada ter neprestano bombardirali utrdbe cesarske armade. Škoda, ki so jo provzročale bombe, je bila velika. Cesarski je niso mogli sproti popravljati. Vrh tega so v cesarski armadi nastale bolezni in se je bilo bati, da izgubi vojaštvo pogum in bojaželjnost.</p>
             <p n="SL-WIKI00456378">In prav tedaj se je od juga začela približevati mogočna armada velikega vezirja. Položaj cesarske armade je bil sedaj prav kritičen. Upanje, da zavzame armada Belgrad, še predno pride veliki vezir, se ni izpolnilo in sedaj je bila vsled tega cesarska armada v največji nevarnosti. Umakniti se ni več mogla, kajti spričo dveh velikih sovražnih armad ni bilo več mogoče priti čez Donavo in čez Savo, v svojem taboru pa armada tudi ni mogla ostati, saj bi bila stala med dvema ognjema.</p>
             <p n="SL-WIKI00456379">Tedaj se je princ Evgen odločil, da prehiti sovražnika in da se z vso svojo silo najprej loti armade velikega vezirja, a če to armado premaga in razbije, da potem naskoči in zavzame Belgrad.</p>
-            <p n="SL-WIKI00456380">Dne 16. avgusta se je vnela velika bitka. Samo majhno posadko je princ Evgen pustil v taborišču, vso drugo armado je peljal v boj proti armadi velikega vezirja. Pešaki so stali v sredi, na desnem in na levem krilu pa konjeniki. Ob eni uri zjutraj je bila armada razpostavljena in je princ Evgen ukazal, naj se začne pomikati proti sovražniku. A komaj se je začelo to pomikanje proti turškim utrdbam, je nastala gosta megla, tako da je bilo posamičnim oddelkom nemogoče zasledovati določeno jim smer. Konjeniki na desnem krilu, ki jim je zapovedoval feldmaršal grof Palffv, so zgrešili pot in so zašli za turške nasipe. Presenečeni Turki so z veliko premočjo napadli cesarsko konjeništvo in vnel se je velik boj. Turkom je to pokazalo, da se jim bliža <pb n="25"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-025.jpg"/> cesarska armada in razpostavili so vse svoje moči za boj. Bitka se je vnela na celi črti.</p>
+            <p n="SL-WIKI00456380">Dne 16. avgusta se je vnela velika bitka. Samo majhno posadko je princ Evgen pustil v taborišču, vso drugo armado je peljal v boj proti armadi velikega vezirja. Pešaki so stali v sredi, na desnem in na levem krilu pa konjeniki. Ob eni uri zjutraj je bila armada razpostavljena in je princ Evgen ukazal, naj se začne pomikati proti sovražniku. A komaj se je začelo to pomikanje proti turškim utrdbam, je nastala gosta megla, tako da je bilo posamičnim oddelkom nemogoče zasledovati določeno jim smer. Konjeniki na desnem krilu, ki jim je zapovedoval feldmaršal grof Palffv, so zgrešili pot in so zašli za turške nasipe. Presenečeni Turki so z veliko premočjo napadli cesarsko konjeništvo in vnel se je velik boj. Turkom je to pokazalo, da se jim bliža  cesarska armada in razpostavili so vse svoje moči za boj. Bitka se je vnela na celi črti.</p>
             <p n="SL-WIKI00456381">Konjenikom na desnem krilu se je slaba godila. Vzlic hrabrosti se niso mogli ubraniti turških navalov, niso mogli niti naprej niti nazaj. Šele ko je general grof Mercy prihitel na pomoč s konjeniki, so bili Turki odbiti, a ko je general grof Starhemberg pripeljal pešake, so bili Turki na desnem krilu premagani in pregnani iz njihovih utrdb.</p>
             <p n="SL-WIKI00456382">Med tem se je dvignila megla in princ Evgen je videl sedaj, da je vsa njegova armada v najgroznejši nevarnosti. Ker je bilo desno krilo zašlo v stran, je bila pretrgana zveza med tem krilom in središčem. Če bi se bili Turki vsuli v to odprtino, bi bili lahko cesarsko armado popolnoma pokončali. Toda princ Evgen jih je prehitel. Postavil se je sam na čelo voja princa Beverna, ga peljal v to odprtino in planil nad Turke.</p>
             <p n="SL-WIKI00456383">Strašna je bila bitka, a naposled so bili Turki premagani in so morali zapustiti svoj tabor ter se umakniti. Turki so pustili na bojišču 20.000 mrtvih in ranjenih, cesarska armada je pa imela 1500 mrtvih in 3500 ranjenih. Cesarski so zavojevali kakih 200 topov in 51 zastav, izgubili pa tudi sami več zastav.</p>
-            <pb n="26"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-026.jpg"/>
             <p n="SL-WIKI00456384">Širna bojna poljana je bita vsa posuta z mrliči in ranjenci. Preko teh trupel in teles so drveli cesarski konjeniki, zasledujoči premaganega sovražnika, za konjeniki pa so pritisnili pešaki. Skrb za ranjence je bila prepuščena maloštevilnemu sanitetnemu oddelku cesarske armade.</p>
             <p n="SL-WIKI00456385">Med ranjenci, ki so jih vojaki prinesli v cesarski tabor, je bil tudi kirasirski praporščak Gall. Težke so bile njegove rane, a hujše, kakor vse rane, ga je skelelo, da so Turki vzeli njegovemu eskadronu staroslavni prapor in ga odnesli seboj. Nobena tolažilna beseda ni nič zalegla. Mladi Gall je obžaloval, da ni mrtev obležal na bojišču, zakaj sodil je, da sme sovražnik odnesti prapor samo tedaj, če je njega čuvar mrtev.</p>
             <p n="SL-WIKI00456386">»Rama ti je prestreljena, ranjen si na rokah in na glavi — vsaka teh ran priča, da si z največjo hrabrostjo branil naš prapor,« so govorili Gallu njegovi prijatelji. »Ničesar si nimaš očitati in če je tvoj eskadron izgubil prapor, ni s tem omadeževana njegova čast. Eskadron se je čudovito hrabro vojskoval. Skoro polovica vsega moštva je padla, kapitan Bosizio pa je padel sovražniku v roke.«</p>
@@ -527,13 +481,10 @@
             <p n="SL-WIKI00456395">Peš je nadaljeval Čerin svojo pot, dokler ni pri vodnjaku poleg pogorele kmetske hiše zagledal konja, ki se ni umaknil od turškega vojaka, ki je ležal poleg njega na tleh. Čerin je prijel konja za uzdo in se potem nagnil nad vojaka. Videl je, da je bil vojak mrtev. Bržčas si je pri vodnjaku hotel močiti in obvezati strašno rano, ki jo je imel na glavi, a ga je prehitela smrt.</p>
             <p n="SL-WIKI00456396">Čerin je na konju nadaljeval svoje potovanje. Dasi je bila žival utrujena in je vse bolj pešala, jo je Čerin vendar neprestano vzpodbadal in jo podil, kolikor je mogel vso noč, dokler ni došel turške armade.</p>
             <p n="SL-WIKI00456397">Ta se je sedaj počasi pomikala proti jugu, saj so bili cesarski ustavili preganjanje in se povrnili v svoj tabor pred Belgradom. Toda reda ni bilo v tej armadi nobenega več. Vsa prizadevanja vojskovodij, ustaviti umikanje, so bila brez. uspeha. Na povelja  oficirjev vojaki sploh niso več poslušali in se tudi niso več ravnali po dobljenih ukazih. V turški armadi je vladala splošna zmešnjava. Posamezni oddelki so bili docela razkropljeni, tako da je bilo izključeno, jih spraviti skupaj.</p>
-            <p n="SL-WIKI00456398">Turška armada je bila že ves dan in vso noč na begu in ker se je zjutraj mnogo ur ljuto bojevala, je bila vsa upehana in izmučena, čim bližje je Čerin prihajal zadnjim turškim <pb n="27"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-027.jpg"/> četam, toliko več je na svojem potu našel onemoglih Turkov. Nekateri so bili vsled zadobljenih ran umrli, drugi so bili ali ranjeni, ali tako upehani, da so na potu obležali.</p>
+            <p n="SL-WIKI00456398">Turška armada je bila že ves dan in vso noč na begu in ker se je zjutraj mnogo ur ljuto bojevala, je bila vsa upehana in izmučena, čim bližje je Čerin prihajal zadnjim turškim  četam, toliko več je na svojem potu našel onemoglih Turkov. Nekateri so bili vsled zadobljenih ran umrli, drugi so bili ali ranjeni, ali tako upehani, da so na potu obležali.</p>
             <p n="SL-WIKI00456399">Ko je Čerin naposled zagledal zadnje vrste umikajoče se turške armade, je krenil na stran, da bi obšel turško vojsko in prišel pred njo. Zavedal se je, da se med to ogromno množino vojaštva ne bo mogel orijentirati, če je ne bi mogel natančno opazovati.</p>
             <p n="SL-WIKI00456400">Bil je že dan, ko je prišla turška armada v obližje Niša. Čerin je bil objezdil desno krilo turških čet in je skrit na drevesu z nekega griča opazoval pod njim pomikajoče se čete. Pešaki so korakali naprej, njim pa so sledili konjeniki; to je bil edini red, ki so ga mogli poveljniki vzdrževati. Med pešaki in konjeniki so bili otovorjeni vozovi, kar so jih Turki sploh mogli rešiti iz svojega tabora. Razen orožja in municije so na teh vozovih ležali tudi ranjenci, kar so jih Turki peljali seboj, ob vozove pa so bili privezani ujeti cesarski oficirji. Ujete vojake so Turki na potu pomorili, oficirje pa so peljali seboj, da bi jih zamenjali za turške oficirje, ki so jih ujeli cesarski.</p>
             <p n="SL-WIKI00456401">Kar je Čerin videl, mu je zadostovalo toliko, da je zamogel napraviti načrt, kako poskusi svojo srečo.</p>
-            <pb n="28"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-028.jpg"/>
             <p n="SL-WIKI00456402">V Nišu se je turška armada ustavila. Posamični razkropljeni oddelki so pač še drli naprej, ali jedro cele armade je Halil paša vendar zopet skupaj spravil in se ž njim utaboril v Nišu. Nameraval se je umakniti še dalje proti jugu, toda šele potem, ko zbere razkropljene oddelke, ko jih zopet uredi in ko se armada odpočije.</p>
             <p n="SL-WIKI00456403">Prebivalstvo niškega okoliša je dobilo ukaz, da priskrbi za armado živila. Vojaki so hodili po vaseh in hišah in prisilili prebivalstvo, da se je pokorilo temu ukazu. Od vseh strani so gonili živino v glavno taborišče in kmetsko prebivalstvo je moralo nositi moko in kar je drugega imelo. Vojaštvo je med tem plenilo po hišah in odnašalo, kar je bilo količkaj vredno.</p>
             <p n="SL-WIKI00456404">Med te kmetske ljudi se je vtihotapil tudi Čerin. Z njimi vred je gonil živino in brez težav je prišel v osrčje turškega tabora. Po stari turški navadi so bili tudi tu vozovi postavljeni okrog celega tabora, a šotorov ni bilo nič, ker jih je turška armada vse morala zapustiti pred Belgradom. Vojaštvo je ležalo vse vprek na golih tleh. Že dvakrat zapored se je bilo Čerinu posrečilo, da je prišel s kmetskimi ljudmi v tabor, a jetnikom se ni mogel približati. Videl jih je ležati zvezane na rokah in na nogah kraj vozov, a ni se jim mogel približati, kajti med njim in med jetniki je ležalo vse polno vojakov, na vozovih pa so ležale v boju pridobljene zastave in tudi prapor kirasirskega eskadrona, ki ga je hotel Čerin iztrgati iz turških rok. Bilo je nemogoče priti do jetnikov in do tabora.</p>
@@ -557,8 +508,6 @@
             <p n="SL-WIKI00456422">»Kdo ste?« vpraša eden njih.</p>
             <p n="SL-WIKI00456423">»Človek, ki hoče dobiti v boju ugrabljeni kirasirski prapor. Ta prapor leži na vozu, nekaj korakov od tod. Saj se razlikuje od vseh drugih in ga je lahko spoznati. Ali mi hočeta pomagati?«</p>
             <p n="SL-WIKI00456424">»Kako naj vam pomagava,« je odgovoril eden oficirjev, »ko sva zvezana na rokah in na nogah.«</p>
-            <pb n="29"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-029.jpg"/>
             <p n="SL-WIKI00456425">»To je moja stvar,« je dejal Čerin. »Mene bodo kmalu izpustili. Jaz pa vama pustim tu bodalo. Lahko prerežeta sebi in vsem tovarišem vezi in lahko vam bo v temi tudi čez vozove uteči. Morda bodo straže pri vašem begu koga ujele ali ustrelile, toda večina vas uteče gotovo. Če mi zastavita svojo častno besedo, da prineseta seboj prapor, vama pustim bodalo.«</p>
             <p n="SL-WIKI00456426">»Na čast in poštenje,« je rekel prvi oficir.</p>
             <p n="SL-WIKI00456427">»Na čast in poštenje,« je pritrdil drugi.</p>
@@ -577,8 +526,7 @@
             <p n="SL-WIKI00456440">»Treba je bežati,« so govorili. »Turki so se začeli že pomikati nizdol od svojega tabora.«</p>
             <p n="SL-WIKI00456441">Nabili so puške in ustrelili proti taboru, potem pa se spustili v beg. Pot jim je kazal Čerin, ki je s praporom v rokah jezdil naprej. Pri iskanju orožja je bil spoznal pokrajino in je vedel, da se bo z osvobojenimi jetniki rešil, če jih pripelje do košatega in razprostranega gozda, ki je ležal v bližini.</p>
             <p n="SL-WIKI00456442">Turški konjeniki so se bili med tem zbrali in se v manjših oddelkih odpravili iskat sovražnika. Pomikali so se prav počasi in previdno naprej in s tem omogočili ubeglim jetnikom, da so dospeli do gozda.</p>
-            <p n="SL-WIKI00456443">»Rešeni smo,« je dejal Čerin, ko so bili beguni skriti v gozdu. »Turki bodo preiskali vso okolico svojega tabora, a v ta gozd ne pojdejo, dokler <pb n="30"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-030.jpg"/> se ne zdani. Nekaj ur imamo torej časa, da se umaknemo iz njih obližja.«</p>
+            <p n="SL-WIKI00456443">»Rešeni smo,« je dejal Čerin, ko so bili beguni skriti v gozdu. »Turki bodo preiskali vso okolico svojega tabora, a v ta gozd ne pojdejo, dokler  se ne zdani. Nekaj ur imamo torej časa, da se umaknemo iz njih obližja.«</p>
             <p n="SL-WIKI00456444">Krepkih korakov so ubegli jetniki s Čerinom na čelu nadaljevali svojo pot skozi temni gozd. Marsikdo je na tem potu padel in se pobil, marsikdo si je ob trnju razpraskal roke in obraz, a vendar so bili veseli. Najsrečnejši in najveselejši pa je bil med njimi Andrej Čerin.</p>
             <p n="SL-WIKI00456445">Na drugem koncu gozda je ležala mala srbska vas. Bil je že dan, ko so begunci dospeli do te vasi, ležeče skoro tri ure od turškega tabora. Svesti so si bili, da jih Turki ne pridejo sem iskat in da so tukaj skoro popolnoma varni. A vzlic temu so si v vasi nakupili samo najpotrebnejšega živeža, potem pa zopet odšli in si daleč od vasi, daleč od pota izbrali skrivališče, da bi se odpočili.</p>
             <p n="SL-WIKI00456446">Šele tu si je Čerin svoje nove tovariše natančneje ogledal. Šestnajst jih je bilo, sami mladi možje različnih polkov, a nobenega kirasirja. A tudi osvobojeni jetniki so si šele tu ogledali moža, ki jim je pomagal, da so utekli in se mu zahvalili za njegovo pomoč.</p>
@@ -589,8 +537,6 @@
             <p n="SL-WIKI00456451">»En sam izmed nas je ostal v rokah Turkov,« so pripovedovali oficirji. »Ukovan je bil v železje, ker je bil že na potu poskusil uteči. A kdo da je in kako se zove, tega nihče ne ve. Oblečen je bil kot kirasirski kapitan, a Turki so ga držali tako daleč od nas, da ni bilo mogoče govoriti ž njim.«</p>
             <p n="SL-WIKI00456452">Čerin je sklonil glavo. Na misel mu je prišel kapitan Bosizio, ki so ga v cesarskem taboru pogrešali in ki je prišel v roke Turkov, a rekel ni ničesar. Molče se je z novimi tovariši odpravil proti Belgradu.</p>
          </div>
-         <pb n="31"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-031.jpg"/>
          <div>
             <head>VII.</head>
             <p n="SL-WIKI00456453">Zmaga princa Evgena nad turško armado Halil paše je vzela turški posadki v Belgradu vsako upanje na osvobojenje in rešitev. Že dan po tej zmagi je belgrajski zapovednik stopil v dogovore s princem Evgenom in doseglo se je sporazumljenje. Turški posadki in turškemu prebivalstvu je princ Evgen dovolil svoboden odhod. Dne 22. avgusta 1717 ni bilo nobenega Turka več v Belgradu in je cesarska armada zasedla mesto, cesarski so dobili v roke 600 topov, vse turško brodovje na Donavi in na Savi in ogromno množino streliva.</p>
@@ -614,8 +560,6 @@
             <p n="SL-WIKI00456471">»Da!« je potrdil Čerin. »Njegova vzvišenost, gospod feldmaršal grof Starhemberg v Ljubljani mi je dal na vas to priporočilo.«</p>
             <p n="SL-WIKI00456472">Poslušalci so se zganili. Priprost človek, ki ga nihče ne pozna, nosi seboj priporočilno pismo feldmaršala grofa Starhemberga! Vse je trepetalo radovednosti in sam general nič manj od drugih. Naglo je odprl pismo, je preletel z očmi in se razočaran obrnil do Čerina.</p>
             <p n="SL-WIKI00456473">»To je malo! Moj brat mi piše: »Izročitelja tega pisma, Andreja Čerina, ti toplo priporočam; če se obrne s kako prošnjo do tebe, ustrezi mu.«</p>
-            <pb n="32"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-032.jpg"/>
             <p n="SL-WIKI00456474">Zopet je general zmajeval z glavo in ugibajoč, kaj more biti pač s tem Andrejem Čerinom, je rekel:</p>
             <p n="SL-WIKI00456475">»Ali imate kake prošnje? Če je v mojih močeh, vam jih izpolnim.«</p>
             <p n="SL-WIKI00456476">»Samo eno prošnjo imam,« je skromno odgovoril Čerin, »da smem ta prapor izročiti poročniku Gallu.«</p>
@@ -641,8 +585,6 @@
             <p n="SL-WIKI00456496">Naenkrat je ves prebledel, oči so mu stopile iz votlin in na ves glas je zaklical:</p>
             <p n="SL-WIKI00456497">»Čerin —«</p>
             <p n="SL-WIKI00456498">Spoznal je bil tudi v blatni kmetski opravi vzlic gosti bradi svojega nekdanjega tovariša.</p>
-            <pb n="33"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-033.jpg"/>
             <p n="SL-WIKI00456499">Za trenotek je vladala v prostranem šotoru tišina. Z zaprtimi očmi je Gall ležal na svoji primitivni postelji in težko sopel, tako da so mu že hoteli zdravniki zopet pomagati. A ta slabost je Galla kmalu minila. Odprl je zopet oči, dolgo je počival njegov pogled na Čerinu, potem je tiho rekel:</p>
             <p n="SL-WIKI00456500">»Ali moreš odpustiti in pozabiti —?«</p>
             <p n="SL-WIKI00456501">»Hvala za to besedo,« je odgovoril Čerin in dal Gallu roko. »O, hvala ti.«</p>
@@ -672,8 +614,6 @@
             <p n="SL-WIKI00456522">»O kom pa govorite?« je čudeč se vprašala Leonora. »Kaj se je zgodilo?«</p>
             <p n="SL-WIKI00456523">»Top se je vnel pri nabijanju, smodnik se je vnel in mu puhnil v obraz — doživel sem že take slučaje — najbrže bo oslepel,« je v največji razburjenosti pripovedoval major. »Zdravniki nimajo nič upanja, da bi okreval.«</p>
             <p n="SL-WIKI00456524">»A kdo, kdo?« je vprašala Leonora.</p>
-            <pb n="34"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-034.jpg"/>
             <p n="SL-WIKI00456525">»Kdo, kdo,« je zakričal major. »Kdo drugi pač, kot poročnik Snoj.« Leonora je položila obe roki na srce.</p>
             <p n="SL-WIKI00456526">»Ni mogoče,« je zavzdihnila, »ni mogoče.«</p>
             <p n="SL-WIKI00456527">»Mogoče je in resnično je.« Major je bil nevoljen in je govoril z ostrim poudarkom.</p>
@@ -691,8 +631,6 @@
             <p n="SL-WIKI00456539">»Prav zato, ker je slep, ga hočem vzeti,« je odgovorila Leonora in tišje je dostavila:</p>
             <p n="SL-WIKI00456540">»Enega imam na vesti, naj popravim na drugem, kar sem zakrivila.«</p>
             <p n="SL-WIKI00456541">In nobene besede ni bilo več spraviti iz nje, naj je gospa Jerajeva uporabljala tudi vse svoje nenavadne zgovorniške zmožnosti.</p>
-            <pb n="35"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-035.jpg"/>
             <p n="SL-WIKI00456542">Mesec dni po tem dogodku je dobila Leonora pismo, pisano s tujo roko. To kratko pismo ji je naznanilo, da je Snoj zapustil bolnico in se je odpeljal domov, ter da utegne v štirinajstih dneh biti v Ljubljani. Na koncu pisma je bilo očividno v naglici pripisano: Snoj ni ozdravljen in morda nikoli več ne bo videl.</p>
             <p n="SL-WIKI00456543">Leonora je vedela, da je pismo ravno toliko časa potovalo v Ljubljano, kakor Snoj. Od tega trenotka ni več zapustila hiše, pač pa pošiljala služkinjo po dvakrat na dan na pošto vprašat, kdo se je pripeljal.</p>
             <p n="SL-WIKI00456544">»Pojdi ga sama pričakovat,« ji je prigovarjala gospa Jerajeva. — »Hvaležen ti bo in raje ti bo verjel, da ga ljubiš.«</p>
@@ -713,8 +651,6 @@
             <p n="SL-WIKI00456559">Pustila se je poljubovati in bila je ponosna, da je imela toliko moči v sebi in mogla tako heroično izpolnjevati svoj sklep. Hotela se je žrtvovati in zdelo se ji je, da ji ta žrtev ne bo pretežka, a vendar je čutila, da v njenem srcu ni ničesar tega, kar je bilo tedaj, ko jo je Čerin poljubil. Snoj pa je bil pri vsi svoji nesreči srečen, dasi se ni dal odmakniti od svojega sklepa in ni hotel privoliti, da bi bila Leonora njegova nevesta, ako ne ozdravi.</p>
             <p n="SL-WIKI00456560">»Glej, moje ljubo dekle,« ji je rekel, »kaj bi ti počela s slepim možem. Vse življenje bi bila nesrečna. Breme bi ti bil in nadloga.«</p>
             <p n="SL-WIKI00456561">»A jaz se vendar smatram za vezano,« ga je ona prekinila, »in nič me ni strah prihodnjosti, tudi če bi ti ne ozdravel.«</p>
-            <pb n="36"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-036.jpg"/>
             <p n="SL-WIKI00456562">Naj je tudi Snoj dosledno vztrajal pri tem, da je Leonora svobodna, in da se poroči ž njo samo če ozdravi, vendar jo je smatral za svojo nevesto, kajti upal je trdno, da naposled še ozdravi in da se potem uresniči koprnenje njegove duše.</p>
             <p n="SL-WIKI00456563">Od tega dneva je prihajal Snoj vsako popoludne na obisk h gospe Jerajevi in je presedel vsako popoludne na istem koncu zofe, kjer je prvič poljubil Leonoro. In te ure so bile zanj toliko lepše, ker je imel čut, da se mu polagoma vrača vid in so mu zdravniki dajali upanje, da bo okreval in vsaj za največjo potrebo zopet videl.</p>
             <p n="SL-WIKI00456564">»Ni mnogo, kar mi obetajo zdravniki,« je Snoj pripovedoval Leonori, »a toliko vendar, da mi zagotovi srečo življenja. Zakaj to ti povem, Leonora, če bom le količkaj videl, potem postaneš moja žena. Nečem, da bi imela slepega moža, a s slabovidnim možem boš že izhajala. Koj ko pade obveza z mojih oči, bo poroka, in potem pojdem na Noranjsko. Saj vem, da moreš biti srečna samo v domačem kraju. Tudi Čerin je to vedel in mi je enkrat rekel: Leonora je cvetlica, ki more živeti samo v notranjskem zraku.«</p>
@@ -737,8 +673,6 @@
             <p n="SL-WIKI00456581">»Turški meč,« je odgovoril Gall in nagnil glavo, da je Leonora videla veliko, široko brazgotino, segajočo od sredi glave do ust.</p>
             <p n="SL-WIKI00456582">»Odpustite mi mojo porednost,« je Leonora prosila vsa prestrašena. »Vajena sem, da sem se z vami vedno šalila, saj se še spominjate, kake burke sva časih uganjala. In potem tako sem se vas razveselila, da bi vas bila najraje objela — Gall, ljubi Gall, ne bodite hudi.«</p>
             <p n="SL-WIKI00456583">»Nič mi tako ne govorite,« se je branil mali Gall. »Norce sva vedno brila in jih bodeva še. Tu pri vas, ko vas vidim tako veselo, se šele prav zavedam, da sem zopet doma.«</p>
-            <pb n="37"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-037.jpg"/>
             <p n="SL-WIKI00456584">»Najprej mi morate povedati, kako ste dobili to strašno rano,« je silila Leonora. A svojega veselega razpoloženja ni mogla premagati. »O, Gall, zdaj izgledate tako marcijalično, kakor kak general. Kaj bodo rekla vsa dekleta od štirinajstih do sedemnajstih let, ki so Vas oboževala. Glejte, da postanete hitro kapitan, saj zaslužili ste to gotovo.«</p>
             <p n="SL-WIKI00456585">»Kdo drugi prej, kakor jaz,« je menil Gall nekako potrt. »Šel sem v vojno, z upanjem, da se odlikujem in si pridobim lavorik, a pridobil sem si samo mnogo ran in še življenje so mi drugi rešili.«</p>
             <p n="SL-WIKI00456586">»Gall — tega mi ne bodete natvezili,« je rekla Leonora. »Prepričana sem, da ste se hrabro vojskovali.«</p>
@@ -768,8 +702,6 @@
             <p n="SL-WIKI00456610">»Sedaj mi pa še enkrat vse od kraja povejte, ljubi Gall,« je rekla Leonora, ko se ji je zopet povrnil notranji mir. »Saj si lahko mislite, da me to zanima.«</p>
             <p n="SL-WIKI00456611">In zopet je Gall pripovedoval na dolgo in na široko vso zgodbo svojega ranjenja in kirasirskega prapora in Leonora ga je molče poslušala in ga gledala z jasnimi pogledi, ki so razodevali, kako neskončno je srečna in vesela. Do pozne noči je ostal Gall v hiši gospe Jerajeve, a ko je zapustil hišo, je vendar ponesel seboj veliko žalost, kajti pri slovesu mu je Leonora povedala, da je nevesta poročnika Snoja in da se ž njim poroči, naj ozdravi, ali naj oslepi. Skromna pamet Jošta pl. Galla tega sklepa ni mogla pojmiti in to ga je navdalo z veliko žalostjo.</p>
          </div>
-         <pb n="38"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-038.jpg"/>
          <div>
             <head>IX.</head>
             <p n="SL-WIKI00456612">Mali Jošt plem. Gall je znal biti jako trdoglav. O tem se je prepričala tudi Leonora, ko ga je prosila, naj nič več ne govori o Čerinu. To prošnjo ji je narekovalo spoznanje njenih dolžnosti napram Snoju. Iz svobodne volje je postala njegova nevesta in je hotela postati tudi njegova žena, in zato je hotela izbrisati iz svojega srca vsak spomin na Čerina.</p>
@@ -791,8 +723,7 @@
             <p n="SL-WIKI00456628">»Da, Čerin je to žvižgal,« je nekako trpko rekel Snoj. »Dobro se še spominjam, kako vesel je bil tisti dan in kaka čuvstva so mene navdajala.«</p>
             <p n="SL-WIKI00456629">V celi družbi sta bila samo Gall in Leonora, ki sta vedela, kaj je hotel Snoj s tem povedati in kaj pomeni trpkost Snojevih besed. Leonorini in Gallovi pogledi so se srečali — razumela sta se.</p>
             <p n="SL-WIKI00456630">»Čerin, Čerin ...« je menil Snoj in je govoril, kakor bi bil sam v sobi. »Kdo ve, kje je, kdo ve, če še živi?«</p>
-            <p n="SL-WIKI00456631">Snoj je bil edini človek v Ljubljani, ki ni še ničesar vedel o Čerinovih junaštvih. Leonora mu ni bila ničesar povedala, tudi Gall in Žun sta <pb n="39"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-039.jpg"/> molčala, z drugimi ljudmi pa sploh ni prišel v dotiko. Zapuščal je svoje stanovanje samo popoludne, da je obiskal Leonoro, sicer pa ves dan sameval doma, brez svojcev in brez družbe, ves odtujen svetu.</p>
+            <p n="SL-WIKI00456631">Snoj je bil edini človek v Ljubljani, ki ni še ničesar vedel o Čerinovih junaštvih. Leonora mu ni bila ničesar povedala, tudi Gall in Žun sta  molčala, z drugimi ljudmi pa sploh ni prišel v dotiko. Zapuščal je svoje stanovanje samo popoludne, da je obiskal Leonoro, sicer pa ves dan sameval doma, brez svojcev in brez družbe, ves odtujen svetu.</p>
             <p n="SL-WIKI00456632">Snojevo vprašanje po Čerinu je najbolj zadelo gospo Jerajevo, ki bi bila itak najraje preprečila in onemogočila zakonsko združitev med Leonoro in Snojem. Čakala je že dolgo na priliko, da bi prelomila Leonori dano obljubo in izpregovorila odkrito besedo o Čerinu, kajti zdelo se ji je nenaravno in krivično prikrivati, kaj je Čerin storil.</p>
             <p n="SL-WIKI00456633">»Čerin je živ in zdrav, in gotovo jako zadovoljen, da je doživel v vojski tako pečeščenje,« se je energično oglasila gospa Jerajeva, in ko so ji Leonora in Gall in major začeli dajati znamenja, naj molči, je samo odmahnila z roko. »Zakaj naj bi gospod Snoj ne vedel, da se je Čerin v vojski posebno odlikoval.«</p>
             <p n="SL-WIKI00456634">»Ljuba gospa,« je rekel Snoj s prizanesljivim usmevom na ustnih, »Čerin ni več vojak ... Kaj bi delal v vojski?«</p>
@@ -803,8 +734,6 @@
             <p n="SL-WIKI00456639">Snoj ni ničesar več vprašal. Molče je kimal z glavo, a vendar sta Leonora in Gall uganila, kaj se godi v njegovi duši.</p>
             <p n="SL-WIKI00456640">»Meni se zdi, da časih slepci tudi prav dobro vidijo,« je kasneje Gall šepetaje rekel Leonori in ta mu ni mogla ugovarjati.</p>
             <p n="SL-WIKI00456641">V Snoju je ta dogodek obudil težke dvome. Uverjen je bil, da je Leonora pač samo slučajno svirala tisti napev, ki je moral biti Čerinu neskončno ljub, ali uvideval je tudi, da se Čerin še ni odpovedal svoji ljubezni do Leonore, domneval je, da si hoče Čerin z doprinašanjem junaštev novič pridobiti Leonoro in to mu je provzročalo velike muke.</p>
-            <pb n="40"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-040.jpg"/>
             <p n="SL-WIKI00456642">Od tega dneva naprej ni vpričo Leonore nikdar več omenil Čerinovega imena. Bal se je tega imena in bal se je, da bi Čerin znal tudi od njega opravičeno zahtevati, naj vzame svoje pero nazaj. Vedel je, da bi bila v tistem trenotku Leonora zanj izgubljena.</p>
             <p n="SL-WIKI00456643">Tolažilo ga je le to, da bi Leonora gotovo ne hotela postati njegova žena, če bi še mislila na Čerina. V tem, da je bila Leonora pripravljena se ž njim poročiti, tudi če ne ozdravi in da ni hotela nič slišati o njegovih ugovorih, je videl jamstvo, da ga ljubi, da hoče iz ljubezni postati njegova žena.</p>
             <p n="SL-WIKI00456644">S tisto doslednostjo, s katero je Snoj vpričo Leonore molčal o Čerinu, je pa po svojih maloštevilnih znancih dal poizvedovati po Čerinu. Pogostoma je tudi z Gallom in Žunom govoril o Čerinu, a dveh stvari pri vseh teh pogovorih ni izvedel, zakaj sta se Leonora in Čerin razšla in ni izvedel, da je Gall svoje Čerinu poslano pero vzel ne le nazaj, nego je prinesel Leonori.</p>
@@ -824,8 +753,6 @@
             <p n="SL-WIKI00456658">»In Čerin — ali se je kaj slišalo o njem?«</p>
             <p n="SL-WIKI00456659">»Ničesar! Izginil je iz cesarskega tabora brez sledu. Iskali smo ga in poizvedovali po njem še dolgo, a vse zaman.«</p>
          </div>
-         <pb n="41"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-041.jpg"/>
          <div>
             <head>X.</head>
             <p n="SL-WIKI00456660">Po morju je plavala jadrenica, obložena do vrha z lesom, namenjenim v Egipt. Leto in dan je ta jadrenica vozila iz Soluna les v Egipt, iz Egipta pa žito v Solun. A mornarji na ti ladji so bili razen štirih vsi ujetniki. Nihče ni prišel ž njimi v dotiko, nihče ni imel prilike ž njimi govoriti, nihče ni vedel od kod da so in kako so prišli v sužnost turškega kapitana. Na nogah so imeli prikovano težko verigo, ki jim je onemogočila  svobodno kretanje in storila nemogoč vsak beg.</p>
@@ -847,8 +774,6 @@
             <p n="SL-WIKI00456676">»V svoji vreči imam med obleko tri samokrese, več bodal in streliva. Vzemite to orožje in skrijte je, saj morate ladjo bolje poznati, kakor jaz, in lahko najdete varno in priročno skrivališče. Tudi več pil je v moji vreči.«</p>
             <p n="SL-WIKI00456677">Videč, da je Bosizio v skrajnem začudenju odpiral usta in hotel še govoriti, je dejal mornar:</p>
             <p n="SL-WIKI00456678">»Ne vprašujte ničesar, nego storite kar sem vam rekel, čim prej, tem bolje! Glavno je, da ste oboroženi.«</p>
-            <pb n="42"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-042.jpg"/>
             <p n="SL-WIKI00456679">Bosizio se je takoj pokoril in je izginil pod krov. Lahko je našel na ladjo vtihotapljeno orožje. Ko se je zopet prikazal na krovu, je vsa njegova osebnost izdajala neupogljivo odločnost. Stopil je v bližino mornarja, navidezno se nagnil nad svoje delo, pri tem pa vprašal:</p>
             <p n="SL-WIKI00456680">»Kdo ste mladi mož, ki ga je usoda pripeljala kot angelja rešitelja na to razbojniško ladjo?«</p>
             <p n="SL-WIKI00456681">»Ni me pripeljala usoda na to ladjo, nego prosta volja,« je odgovoril mornar.</p>
@@ -869,8 +794,7 @@
             <p n="SL-WIKI00456696">To polnoči je šel kapitan spat in na njegovo mesto je stopil krmar sam. Pregledal je, če je vse v redu, in videč, da je veter slab, se je zavil v kožuh in se kraj krmila vlegel na krov. Z naročilom, naj ga Čerin prebudi, če bi nastal močnejši veter, je zaspal.</p>
             <p n="SL-WIKI00456697">Ladja je bila prepuščena Čerinovi skrbi.</p>
             <p n="SL-WIKI00456698">Čerin se je zavedal, da je prišel odločilni trenotek. Vedel je tudi, da brez prelivanja krvi se osvobojenje jetnikov ne izvrši. Kapitan in njegovi ljudje so bili vedno oboroženi, in Čerin ni dvomil, da se bodo ljuto branili. A spoznaval je, da se temu ni mogoče ogniti.</p>
-            <p n="SL-WIKI00456699">Na krovu ladje so bili razen njega samega in krmarja še trije ujetniki. Dva sta bila priklenjena ob jambor in sta imela uravnavati jadra, tretji pa je sedel na jamboru <pb n="43"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-043.jpg"/> in vsled tega ni bil priklenjen. Ostali jetniki so bili zaprti pod krovom.</p>
+            <p n="SL-WIKI00456699">Na krovu ladje so bili razen njega samega in krmarja še trije ujetniki. Dva sta bila priklenjena ob jambor in sta imela uravnavati jadra, tretji pa je sedel na jamboru  in vsled tega ni bil priklenjen. Ostali jetniki so bili zaprti pod krovom.</p>
             <p n="SL-WIKI00456700">Naglih korakov je šel Čerin pod krov in je odprl jetnikom vrata. Iz teme je slišal Bosiziov glas.</p>
             <p n="SL-WIKI00456701">»Kdo je?«</p>
             <p n="SL-WIKI00456702">»Vstanite, čas je prišel.« Zazvenele so verige in jetniki so stopili iz svoje ječe. »Ali ste se vse natančno domenili?« je vprašal Čerin.</p>
@@ -883,8 +807,6 @@
             <p n="SL-WIKI00456709">Nekaj korakov pred krmilom so se pojavili jetniki. Pred njimi je stopal Bosizio s samokresom v roki. Obstal je na koncu hlodov, ki so bili na ladji nakopičeni, in dal Čerinu z roko znamenje, naj stopi v stran. A Čerin je v tem hipu videl, da se je izpod krmarjevega kožuha prikazal svetli konec samokresa, in v trenotku se je zagnal nad krmarja, da bi mu onemogočil ustreliti. V tem trenotku pa je tudi že počil samokres in Čerin je zadet obležal nad krmarjem. Predno se je ta mogel dvigniti s krova, sta ga že popadla dva jetnika in ga čez ograjo vrgla v morje.</p>
             <p n="SL-WIKI00456710">Strel je prebudil kapitana in njegove ljudi. Pripravljeni vedno na kak upor jetnikov, so prihiteli s samokresi in meči, ali jetniki so jim zabranili, da bi se bili zbrali in orijentirali. Vsakega posameznika so napadli in ga premagali.</p>
             <p n="SL-WIKI00456711">Niti četrt ure ni trajal ta boj in zmaga je bila izvojevana. Jetniki so kapitana in njegove pirate vse pokončali, a tudi dva jetnika sta obležala v tem boju. Med tem, ko so osvobojenci metali mrliče v morje, je Bosizio hitel na krmilo in našel tam Čerina ležati v krvi.</p>
-            <pb n="44"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-044.jpg"/>
             <p n="SL-WIKI00456712">Krepki mož, ki je malo časa poprej s tako srditostjo klal svoje sovražnike, je skoro omedlel, videč, da leži Čerin ves krvav na tleh.</p>
             <p n="SL-WIKI00456713">»Čerin, za boga Čerin ... Kaj ti je?«</p>
             <p n="SL-WIKI00456714">Čerin je počasi odprl oči in se ozrl na Bosizia. »Zadet sem. Zadela me je krmariva kroglja ...«</p>
@@ -906,14 +828,11 @@
             <p n="SL-WIKI00456730">»Ko je bil kirasirski prapor zopet v Gallovih rokah,« je pripovedoval Čerin, »sem odšel skrivaj iz cesarskega tabora, da bi poiskal bežečo turško armado ...</p>
             <p n="SL-WIKI00456731">»In mene rešil iz turškega suženjstva,« ga je prekinil živahni Bosizio.</p>
             <p n="SL-WIKI00456732">»Seveda,« je preprosto rekel Čerin. »Ti si bil vendar na čelu prijateljev, ki so mi poslali ona strašna peresa, torej mi je bilo ravno največ na tem, da bi ti svoje pero nazaj vzel. Oblekel sem se v uniformo turškega vojaka, se oborožil in si obvezal glavo in roko. Tako so me ljudje smatrali za zaostalega ranjenca in so me puščali ne le v miru, nego mi še odgovarjali na moja poizvedovanja. Čuvši v Nišu, da je en del turške armade z vozovi krenil proti Mitrovici, sem slutil, da so tudi tebe peljali na to stran, če te niso prej umorili.</p>
-            <p n="SL-WIKI00456733">»Pozabili so me umoriti,« se je zasmejal Bosizio. »Ko so moji sojetniki s tvojo pomočjo ušli, jaz jim pa nisem mogel slediti, ker sem bil z železno verigo priklenjen k vozu, <pb n="45"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-045.jpg"/> sem se zaril v vozu med vreče in drugo šaro in si tako rešil življenje. V strašni zmedenosti, ki je vsled bega jetnikov nastala, me ni nihče iskal. Turki so mislili, da so jih cesarski dohiteli in so začeli iznova bežati na vse strani. Mene pa so na svojem vozu peljali seboj. Umiral sem že lakote in žeje, ko so me v Mitrovici našli. Pri razpadu armade so Turki sami pokradli in odpeljali, kar so mogli. Tudi voz, na katerem sem bil jaz, je bil z mnogimi drugimi vred in z vso vsebino prodan nekemu Albancu, ki me je potem vlekel v Solun in me prodal piratom.«</p>
+            <p n="SL-WIKI00456733">»Pozabili so me umoriti,« se je zasmejal Bosizio. »Ko so moji sojetniki s tvojo pomočjo ušli, jaz jim pa nisem mogel slediti, ker sem bil z železno verigo priklenjen k vozu,  sem se zaril v vozu med vreče in drugo šaro in si tako rešil življenje. V strašni zmedenosti, ki je vsled bega jetnikov nastala, me ni nihče iskal. Turki so mislili, da so jih cesarski dohiteli in so začeli iznova bežati na vse strani. Mene pa so na svojem vozu peljali seboj. Umiral sem že lakote in žeje, ko so me v Mitrovici našli. Pri razpadu armade so Turki sami pokradli in odpeljali, kar so mogli. Tudi voz, na katerem sem bil jaz, je bil z mnogimi drugimi vred in z vso vsebino prodan nekemu Albancu, ki me je potem vlekel v Solun in me prodal piratom.«</p>
             <p n="SL-WIKI00456734">»Jaz sem ti pa sledil ves pot, a nisem se ti mogel približati. V Mitrovici sem našel tvoj voz in šel sem potem neprestano za njim. V Solunu sem videl, v katero hišo so te peljali in stal sem v bližini na straži, dokler te niso peljali na piratsko ladjo. Tja ti seveda nisem mogel koj slediti. A ko sem izvedel, da se vrača ta ladja vsak mesec v Solun, sem si napravil načrt, kako te rešim. Najprej sem delal pri nalaganju lesa na to ladjo in ko sem se piratom s svojo pridnostjo prikupil, sem se ž njimi dogovoril, da me prepeljejo v Egipt. Vedel sem, da bi me kaj hitro zasužnjili in vkovali v železja, če bi jih ne spravil v kako zmoto. Zato sem jim natvezil, da grem v Egipt dvignit dedščino. Verjeli so in da bi se mogli polastiti te dedščine, so lepo z menoj delali, saj so morali prej izvedeti potrebne posamičnosti o tej dedščini, predno so se mogli mene lotiti. ln tako sem dobil čas in priliko se s teboj porazumeti in zdaj smo svobodni vsi skupaj.«</p>
             <p n="SL-WIKI00456735">Do poznega večera sta si Čerin in Bosizio pripovedovala še vsakovrstne svoje doživljaje od časa, kar sta se v Ljubljani ločila in imela sta si še marsikaj povedati, ko sta bila primorana pretrgati svoje pogovore, kajti treba je bilo rešiti se s piratske ladje.</p>
             <p n="SL-WIKI00456736">Ta se je bila pač precej približala otoku in do kopnega je bilo samo še nekaj milj, toda rešitev je bila težavna, ker jadrenica ni imela čolna. Osvobojenci so iz sodov in hlodov skovali velik splav, znesli nanj, kar se jim je zdelo vrededno vzeti in ko so bili pripravljeni na odhod, je Bosizio polil ladjo z oljem in zanetil ogenj. Le malo časa potem, ko so osvobojenci na svojem splavu odrinili, se je na ladji dvignil veli plamen in jim je svetil čez morje.</p>
          </div>
-         <pb n="46"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-046.jpg"/>
          <div>
             <head>XI.</head>
             <p n="SL-WIKI00456737">Naposled je vendar prišel tako dolgo in tako težko pričakovani dan, ko so zdravniki dovolili Snoju, da je odložil obvezo, ki jo je imel toliko časa nad očmi. Videl je zopet! Videl je sicer slabo in spoznaval, da za vojaški stan več ne bo, a vendar videl je, razločeval vse stvari in mogel končno pogledati v lepi, cvetoči obraz svoje neveste.</p>
@@ -942,8 +861,7 @@
             <p n="SL-WIKI00456760">»Da — res je,« je zaklical Snoj. »A kdo vam je to povedali«</p>
             <p n="SL-WIKI00456761">»Tisti, ki ni mogel in ni hotel tedaj z vami govoriti, a vam je zapestnico vtaknil v žep, kot plačilo za to, kar vam je bil vzel.«</p>
             <p n="SL-WIKI00456762">Bosizio je odprl papir, ki ga je mečkal v rokah in vzel iz njega drobno srebrno verižico, na kateri je visela tanka svetinjica.</p>
-            <p n="SL-WIKI00456763">»Ali poznate to verižico in svetinjico? Ko ste ležali zvezani v turškem <pb n="47"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-047.jpg"/> taboru pred Petrovaradinom, je prišel za turškega vojaka oblečen človek in je prerezal vrv, s katero ste bili zvezani, pretrgal pa tudi to verižico in jo vzel seboj. Zdaj vam je pošilja po meni, kajti tisti turški vojak je bil Andrej Čerin.«</p>
+            <p n="SL-WIKI00456763">»Ali poznate to verižico in svetinjico? Ko ste ležali zvezani v turškem  taboru pred Petrovaradinom, je prišel za turškega vojaka oblečen človek in je prerezal vrv, s katero ste bili zvezani, pretrgal pa tudi to verižico in jo vzel seboj. Zdaj vam je pošilja po meni, kajti tisti turški vojak je bil Andrej Čerin.«</p>
             <p n="SL-WIKI00456764">Roke so se tresle Snoju, ko je segel po verižici in mrzel pot ga je oblil.</p>
             <p n="SL-WIKI00456765">»Torej je Čerin tudi meni rešil življenje,« se je izvilo iz njegovih prsi. »Vsem trem, ki smo mu poslali peresa. Res, kapitan Bosizio, osramotil nas je vse tri in mene najhuje.«</p>
             <p n="SL-WIKI00456766">»Osramotil ni Čerin nikogar,« je ostro odgovoril Bosizio. »Dokazal nam je na najvzvišenejši način, da ni zaslužil našega očitanja, Čerin je človek, ki le ne more ubijati, ki pa je v stanu doprinašati največja junaštva. Ali tega ne razumete?«</p>
@@ -952,8 +870,6 @@
             <p n="SL-WIKI00456769">Bosizio je planil s stola, da je ta odletel nazaj.</p>
             <p n="SL-WIKI00456770">»Kaj — vi ste ženin Leonore Gornikove?«</p>
             <p n="SL-WIKI00456771">»Da,« je rekel Snoj »in že čez nekaj dni bo poroka.«</p>
-            <pb n="48"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-048.jpg"/>
             <p n="SL-WIKI00456772">Bosiziu je to naznanilo kar sapo zaprlo. Mrko je upiral svoje poglede v Snoja in sovražna čustva so se porajala v njegovi duši.</p>
             <p n="SL-WIKI00456773">»Poznate me dolgo, poročnik Snoj,« je rekel sarkastično »in znano vam je, da sem jako radoveden. Nobene pravice nimam se vtikati v vaše zadeve. Ali tam v beneški bolnici leži človek, ki je svoje življenje in svojo svobodo izpostavil najstrašnejši nevarnosti.«</p>
             <p n="SL-WIKI00456774">»Dovolite — ta mož ni bil več ženin Leonore Gornikove, ko sem jo jaz zasnubil.«</p>
@@ -972,15 +888,12 @@
             <p n="SL-WIKI00456787">Ker si nista imela nič več posebnega povedati, sta se kmalu ločila. Šele zdaj, ko je bil Snoj sam, je spoznal, v kako nevarnost je spravil svojo življensko srečo. Bolelo ga je toliko bridkeje, ker je, odkar je zopet videl, verjel, da Leonora neče postati njegova žena samo iz usmiljenja do oslepelega, vedno le njej udanega prijatelja, nego iz čistega nagnenja in iz prave ljubezni. Dokler se je bilo bati, da postane slep, je bil vedno pripravljen pustiti Leonori svobodo, ki mu jo je hotela žrtvovati, a sedaj, ko je zopet videl, mu je bila misel, da utegne Leonoro izgubiti, strašna.</p>
             <p n="SL-WIKI00456788">Dano obljubo je seveda hotel na vsak način izpolniti. Trden je bil njegov sklep, naj Čerin najde Leonoro neomoženo in trden je bil tudi njegov sklep, da se Leonori odpove, če bi videl, da je v njenem srcu še kaj nekdanje ljubezni do Čerina. A rekel si je tudi, da ima pravico se boriti za svojo srečo in da ni dolžan se popolnoma umakniti, ter prepustiti Čerinu bojišče.</p>
             <p n="SL-WIKI00456789">»Najbolje bo, da grem sam na Notranjsko,« je ukrepal sam pri sebi. »Bosizio bo obvestil Čerina, da je Leonora na Razdrtem. Kakor ima Čerin pravico, da gre tja, pridobit si Leonoro, tako imam jaz pravico, da grem tja si ohranit Leonoro.«</p>
-            <p n="SL-WIKI00456790">Sklenil je, da Leonori ničesar tega ne pove, kar mu je Bosizio razodel. Njegov namen je bil, pod kakršnokoli pretvezo odložiti poroko za nekaj časa. Nič ni hotel storiti proti Čerinu. Želel je sam, da bi se Leonora popolnoma neovirano odločila med njim in med Čerinom, a hotel je <pb n="49"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-049.jpg"/> biti vsaj v bližini, hotel je biti Leonori vsaj pred očmi v trenotku odločitve, da bi ne bila samo pod vplivom Čerinovim.</p>
+            <p n="SL-WIKI00456790">Sklenil je, da Leonori ničesar tega ne pove, kar mu je Bosizio razodel. Njegov namen je bil, pod kakršnokoli pretvezo odložiti poroko za nekaj časa. Nič ni hotel storiti proti Čerinu. Želel je sam, da bi se Leonora popolnoma neovirano odločila med njim in med Čerinom, a hotel je  biti vsaj v bližini, hotel je biti Leonori vsaj pred očmi v trenotku odločitve, da bi ne bila samo pod vplivom Čerinovim.</p>
             <p n="SL-WIKI00456791">Še tisti dan je pisal Leonori dolgo pismo in ji naznanil, da je poroko odložil. Navajal je raznovrstne vzroke in končno priporočal Leonori, naj še enkrat v svojem domačem kraju, kjer ni izpostavljena nobenim vplivom, dobro preudari, če je res samo in edino iz ljubezni sprejela njegovo snubitev in če je iz njene duše resnično izbrisan vsak spomin na njenega prejšnjega ženina.</p>
             <p n="SL-WIKI00456792">Nekaj dni pozneje je Bosizio zopet obiskal Snoja in mu povedal, da je Čerin že zapustil Benetke in da je na potu domov.</p>
             <p n="SL-WIKI00456793">»Bil sem sam pri Čerinovem očetu,« je pripovedoval Bosizio, »in ko sem se ločil od njega, je bil stari lev krotak, kakor ovca in zdaj težkega srca pričakuje sina, na katerega je streljal, ko sta se zadnjič videla.«</p>
             <p n="SL-WIKI00456794">Snoj je umel, kaj mu je hotel Bosizio namigniti, da pride namreč Čerin že v najbližnjih dneh tudi na Razdrto, in odpravil se je takoj sam na Notranjsko.</p>
          </div>
-         <pb n="50"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-050.jpg"/>
          <div>
             <head>XII.</head>
             <p n="SL-WIKI00456795">Od vipavske strani je dospel samoten jezdec pod sivi Nanos, odkoder se mu je odprl razgled na vse strani in kakor bi hotel s pogledi pozdraviti posebej vsako hišo, vsako drevo in vsak kamen, tako se je oziral okrog sebe.</p>
@@ -1015,16 +928,12 @@
             <p n="SL-WIKI00456824">»Da, Bosiziu sem je že dal, Snoju je še dam.«</p>
             <p n="SL-WIKI00456825">Leonora je peljala Čerina v sobo. Sedla je kraj njega in zahtevala, naj ji vse pove, kar je doživel. In Čerin, ki ni vedel, da Leonori še ni znano, kako je osvobodil Snoja in rešil Bosizia, je prostodušno popisal svoje doživljaje in veseleč se začudenja, ki ga je vse bolj kazala Leonora ni nič slutil, da so to za Leonoro popolnoma nove stvari.</p>
             <p n="SL-WIKI00456826">»Vse to si storil, Andrej, vse da bi jaz vzela svoje pero nazaj,« je rekla Leonora vsa bleda in prepadena, »med tem ko sem se jaz trudila, da bi izbrisala iz svojega srca vsak spomin nate.«</p>
-            <pb n="51"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-051.jpg"/>
             <p n="SL-WIKI00456827">Zakrila je lice z rokama, kajti ni hotela, da bi Čerin videl njene solze. Njeno telo je mrzlično drhtelo in pritajeno ihtenje je izdajalo vihar, ki je divjal v njeni notranjosti. Naenkrat je vstala.</p>
             <p n="SL-WIKI00456828">»Spozabila sem se,« je rekla in njen glas je bil trd. »Ne zameri Andrej — a jaz sem nevesta tvojega bivšega tovariša Snoja.«</p>
             <p n="SL-WIKI00456829">»Nevesta?« je vprašal počasi, med tem ko ga je nekaj streslo. »Snojeva nevesta?«</p>
             <p n="SL-WIKI00456830">»Da, Snojeva nevesta,« je rekla Leonora. »Nikogar na svetu nima, razen mene — vid njegov je tako slab in ne bo nikdar več popolnoma dober ... in ... jaz nisem mislila, da se boš še kdaj vrnil.«</p>
             <p n="SL-WIKI00456831">»In jaz nisem nikdar mislil, da boš name čakala. Nikdar! Prepričan sem bil, da si me popolnoma pozabila, a prišel sem vender, da ti vrnem dano mi pero. Samo eno mi dovoli, da ti povem: rad te imam, kakor nekdaj, ljubim te in iz te ljubezni ti želim vso srečo na vseh potih življenja.«</p>
             <p n="SL-WIKI00456832">Mehko in otožno so se glasile te besede, Leonoro pa so pretresle tako, da je naslonivši glavo ob roko zajokala na glas. Čerin se je nagnil k njej, poljubil njene lase in odšel. In Leonora ga ni zadrževala.</p>
-            <pb n="52"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-052.jpg"/>
             <p n="SL-WIKI00456833">V kuhinji pa so dekle stikale glave in šušljale in ugibale, kaj naj vse to pomeni.</p>
             <p n="SL-WIKI00456834">»Jaz pa vam rečem,« je zatrjevala dekla, ki je Čerina prva videla, »tega ima naša  gospodična rada in nikogar drugega na svetu. Jaz sem to vedela, ko je gospodična stopila iz hiše. Kako sta se pogledala! In ko je gospodična potem rekla »Andrej...« slišite, vsi pisarji tega sveta ne morejo popisati, koliko ljubezni je bilo v tej eni sami besedi.«</p>
             <p n="SL-WIKI00456835">In ženske so prikimavale in prisluškujoč na vratih so šepetale:</p>
@@ -1046,8 +955,7 @@
             <p n="SL-WIKI00456851">»Ti se hočeš žrtvovati, Leonora,« je dejal Snoj, »a tega ne morem dopustiti. Nisem prišel sem, da bi tvojo osebo iztrgal Čerinu, prišel sem z namenom, da bi se vojeval za tvojo ljubezen. A zdaj vidim, da ima tvojo ljubezen Čerin, edinole on, in zdaj tudi vem, da jo je vedno imel. Ti me imaš pač rada, razen Čerina morda nikogar tako kakor mene, ali svojo dušo si darovala Čerinu in njemu si zapadla za vse življenje. Slutil sem to mnogokrat, danes to vem. A očitati si nimava ničesar, ne ti meni ne jaz tebi. Ti si mislila, da boš mogla svojo prvo ljubezen brez sledu iztrgati iz svojega srca in si se motila, kakor sem se motil jaz, misleč, da boš Čerina počasi vendar pozabila. Oba sva bila v zmoti, ker sva oba pozabila, da je ljubezen moč vseh moči, da je večja in močnejša kakor življenje in smrt.«</p>
             <p n="SL-WIKI00456852">Se tisti večer je Snoj zapustil hišo Leonore Gornikove in se odpeljal v Ljubljano.</p>
             <p n="SL-WIKI00456853">* * *</p>
-            <p n="SL-WIKI00456854">Zopet se je smejala spomlad. Pogoreli Gornikov gradič je bil iznova <pb n="53"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-053.jpg"/> dozidan in polno rok je bilo na delu, da ga izpremeni v prijetno bivališče. Dva moža sta ogledovala to delo. Eden je bil ves siv in je težko hodil, a njegove oči so se še iskrile in krepko in odločno je bilo njegovo vedenje. To je bil »stari lev«, polkovnik Čerin. Njegov spremljevalec je bil major Žun.</p>
+            <p n="SL-WIKI00456854">Zopet se je smejala spomlad. Pogoreli Gornikov gradič je bil iznova  dozidan in polno rok je bilo na delu, da ga izpremeni v prijetno bivališče. Dva moža sta ogledovala to delo. Eden je bil ves siv in je težko hodil, a njegove oči so se še iskrile in krepko in odločno je bilo njegovo vedenje. To je bil »stari lev«, polkovnik Čerin. Njegov spremljevalec je bil major Žun.</p>
             <p n="SL-WIKI00456855">»Prav prijetno bivališče bo to, prav prijetno,« je godrnjal stari Čerin. »Več kot štirideset let sem se vojskoval po vsem svetu, a vse žive dni nisem napravil takega plena, kakor sta ga Bosizio in moj sin napravila na piratski ladji. Srečo mora imeti človek ...«</p>
             <p n="SL-WIKI00456856">Potem pa se je obrnil k svojemu spremljevalcu in nenadoma rekel:</p>
             <p n="SL-WIKI00456857">»Povejte, major, ali razumete vi mojega fanta? Najprej ni hotel iti v vojno — potem pa taka dejanja! Ali vi to razumete?«</p>

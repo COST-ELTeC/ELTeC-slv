@@ -20,7 +20,7 @@
             <measure unit="pages">53</measure>
          </extent>
          <publicationStmt xml:lang="en">
-            <p>Added to ELTeC <date>2019-01-17</date>
+            <p>Added to ELTeC <date>2019-04-12</date>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -56,7 +56,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change xml:lang="en" when="2019-01-17">
+         <change xml:lang="en" when="2019-04-12">
             <name>Tomaž Erjavec</name>: converted to ELTeC</change>
          <change when="2015-04-03">
             <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
@@ -67,8 +67,6 @@
    </teiHeader>
    <text xml:lang="sl">
       <body xml:lang="sl">
-         <pb n="1"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-001.jpg"/>
          <p n="SL-WIKI004611">V letu 1725. se je v župni cerkvi Preddvorom poročil gospod Ivan Jožef Friderik baron Benalja plemeniti Rosenbach, graščak Preddvorom in na Ljubelju, z žlahtno gospodično Eleonoro Cecilijo baronico Gallenfels, hčerko govneškega grajščaka, in grajski mašnik na Govneku, Mihael Prešeren, Ivi je bil pri poroki za pričo, je imel nalogo, da na svatbi napije novoporočencema.</p>
          <p n="SL-WIKI004612">Mašnik Mihael Prešeren, ki je rad gledal v bokal in še raje v dekliške oči, si je sestavil obširen govor, prepleten z mnogimi latinskimi citati in svetopisemskimi izreki in z zadovoljstvom je opazil, da je med njegovim govorom zdaj in zdaj postalo kako žensko oko rosno in da so se moški hrupno smejali šegavim namigavanjem, ki so sledila resnim čestitkam in opominom.</p>
          <p n="SL-WIKI004613">Z željo, da bi nebeški oče blagoslovil mladi zakon z množico otrok, je mašnik Mihael Prešeren zaključil svoj govor in med žvenketom srebrnih bokalov so veseli svatje ponavljali to željo, da je mladi gospe Eleonori Ceciliji stopila vsa kri v glavo in ji zalila lica, da je sramežljivosti žarela kakor makov cvet.</p>
@@ -82,8 +80,6 @@
             <p n="SL-WIKI004619">Spomladi leta 1785. je bila v Gosposkih ulicah v sedaj Gerlicijevi hiši zbrana večja družba v stanovanju barona Karla Paungartna. Tudi gospodarjev brat, Jožef Avguštin baron Paungarten, kapitan v Škofji Loki, je bil prišel s svojimi hčerami na to domačo nabavo, prirejeno v proslavo godu hišne gospodinje, kakor je prihajal redno na vsako prireditev, kjer je bilo kaj upanja, da bi katera njegovih treh hčera dobila moža.</p>
             <p n="SL-WIKI0046110">Ker so baroni Paungartni imeli veliko veljavo v mestu, se je njihovemu povabilu odzvalo mnogo ljudi, tako da so bile vse sobe polne. Med tem, ko so v obednici pripravljali večerjo, je domača hči kratkočasila povabljence s prepevanjem tedaj najbolj priljubljenih italijanskih pesmi. Sredi tega petja so se odprla vrata in čez prag je stopila mlada vitka dama čudovito velikih in svetlih oči. Vsi pogledi so se obrnili nanjo, gospodje in dame so ji šli nasproti ne meneč se za pevko in njeno petje in tudi gospodinja sama je prihitela, da jo pozdravi, dasi je bila sicer navada, da se gost pokloni gospodinji.</p>
             <p n="SL-WIKI0046111">Z mirno sigurnostjo, a nekako hladno in rezervirano je baronica Renata Benalja sprejela vse pozdrave. Prosila je pevko oproščenja, da jo je motila in jo povabila, naj nadaljuje svoje petje, češ, da jo vedno z veseljem posluša, potem pa se vsedla v kot, kakor bi želela, da ostane sama. A niso je pustili same; cela družba mladih gospodov ji je sledila. Najipogumnejša iz te družbe sta si prinesla stole in se vsedla vsak na eno stran poleg nje, tako da je za druge ostalo le malo prostora in so bili prisiljeni se polagoma raziti.</p>
-            <pb n="2"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-002.jpg"/>
             <p n="SL-WIKI0046112">Na desni baronice Benalja je sedel Štefan vitez Ogulin, mlad tanek mož, o katerem pravzaprav nihče ni natančno vedel kaj da je in s čim se bavi. Hrvatski oficirji, bivajoči z graničarskim polkom v Ljubljani, so ga vpeljali v družbo in Štefan vitez Ogulin se je hitro udomačil v plemiških in v meščanskih, krogih. Sicer si ni mogel nikjer pridobiti resničnega in istinitega zaupanja, a to ga ni čisto nič motilo. Pripovedoval je rad, da ima v hrvatski krajini in v sosedni Bosni obsežne gozde in se ponašal s svojim bogastvom. Ker je pogostoma potoval v Trst, so ljudje sodili, da se bavi s prodajo lesa iz svojih gozdov, da pa to iz aristokratske ošabnosti prikriva. »V Ljubljani hoče biti kavalir, v Trstu pa je barantač«, so govorili ljudje in si niso dalje belili glav z ugibanjem, od kod dobiva Štefan vitez Ogulin sredstva za svoje dosti gosposko življenje.</p>
             <p n="SL-WIKI0046113">Na drugi strani baronice Benalja je sedel kakih petintrideset let star mož. Močno junaško postavo je krasila kuštrava glava. Lep ta temni obraz pač ni bil, vse prej kot to, a bil je tako izrazit in značilen, da je povsod obujal pozornost in da ga ni več pozabil, kdor ga je le enkrat videl.</p>
             <p n="SL-WIKI0046114">Mihael plemeniti Kržinar je bil naslednik rodovine, ki si je iz malih začetkov pomagala do znatnega bogastva. Mihaelov praded je bil rojen v ubožni kmetski hiši na Notranjskem, a posvetil se je prevozništvu ter pol stoletja vodil sam visoko naložene parizarje iz Trsta do Dunaja in zopet nazaj. Z enim parom konj je začel, a ko je položil bič iz rok, je zapustil v Trstu več hiš, na Notranjskem več posestevin tudi nekaj grajščin. Takrat, ka je cesarica Marija Terezija podelila bivšemu krošnjarju s platnom Oblaku baronstvo s pridevkom Wolkensperg, je tudi starega furmana Kržinarja edini sin zadobil plemstvo v zahvalo, da je za vojne namene daroval cesarici desettisoč tolarjev.</p>
@@ -96,8 +92,6 @@
             <p n="SL-WIKI0046121">Renata je bila vedno mirna in ravnodušna. Tudi na večerji pri baronu Paungartenu, ko je sedela med Štefanom Ogulinom in Mihaelom Kržinarjem, se je vedla tako hladno, kakor da jih komaj pozna. A v svojem srcu je dobro vedela, kateri teh dveh mož ji bolje ugaja, čigav glas ji sega v dušo in čigavi pogledi so v stanu razburjati njeno kri. Izdala se ni nikdar, saj tudi Mihael Kržinar ni nikdar pokazal, da mu je zanjo le količkaj več, kot za druge ženske. Da jo Mihael Kržinar skrivaj morda ljubi, to ji sploh niti na misel ni prišlo.</p>
             <p n="SL-WIKI0046122">Evzebij baron Benalja je bil ponosen na svojo ženo. Poznal je življenje in vse nevarnosti, ki prete njegovi zakonski sreči in zato je skrbno pazil na Renato, dokler ni spoznal in se prepričal, da je vzvišena nad vsak dvom.</p>
             <p n="SL-WIKI0046123">Ko se je Renata zavedla, kaka čustva se porajajo v njenem srcu do Mihaela Kržinarja, se je potrudila na vso moč, da bi ta čustva zadušila že v kali. Občevala je z Mihaelom še hladneje, kakor z drugimi znanci in se ga ogibala kolikor je mogla, a moč njene ljubezni je vender rasla in njena hladnost ni odbila Kržinarja.</p>
-            <pb n="3"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-003.jpg"/>
             <p n="SL-WIKI0046124">Med tem ko je domača hči zabavala družbo z italijanskimi pesmimi, je Renata kramljala z Ogulinom in s Kržinarjem, kakor da sta dva starca, ki mlade žene ne moreta čisjto me zanimati. Ko je bil Kržinar poklican k bližnji mizi, pri kateri je sedelo več njegovih prijateljev, je pa Štefan Ogulin hitro premenil predmet pogovarjanja.</p>
             <p n="SL-WIKI0046125">»Pravijo, da se bo Kržinar oženil« je dejal Ogulin nekoliko malomarno pri tem pa ostro od strani pogledal Renato, kakor bi domneval, da mora njegovo naznanilo napravili nanjo poseben utis. Renata pa se ni zganila in niti z najmanjšim pregibom ni izdala, da jo to kaj zanima.</p>
             <p n="SL-WIKI0046126">»To je zame nekaj popolnoma novega« je odgovorila mirno. »In kdo je nevesta?«</p>
@@ -130,8 +124,6 @@
             <p n="SL-WIKI0046153">Domača zabava pri baronu Paungartnu je trajala do pozne noči. Mladina je plesala v obednici, moški so popivali, starejše ženske pa so se zabavale po ženski navadi. Renata ni hotela plesati in se je vsedla med starejše dame, kjer pa ni dolgo vztrajala. Zapustila je hišo prva, ne da bi se bila še srečala z Mihaelom Kržinarjem in ne da bi slutila, kako težak boj je med tem bil Mihael s svojim očetom zaradi nje.</p>
             <p n="SL-WIKI0046154">Stari Kržinar je med večerjo sedel na zgornjem koncu mize poleg hišne gospodinje. Bil je velik in močan kakor njegov sin, a nič na njeni ni razodevalo, da je bil njegov ded še kmetski furman. Deležen je bil odlične vzgoje in je vse svoje dni živel kakor največji aristokrat. Na svoje plemstvo je bil ponosen in živel je v mislih svoje dobe, da je plemič res boljši človek od navadnih ljudi. Svojega sina je ljubil nad vse, a tiraniziral ga je, kolikor je mogel in zlasti ga je silil, naj se poroči z bogato vdovo Terezijo Ahčinovo. Opazoval je z nevoljo, da je Mihael posvečal baronici Renati toliko pozornost in med večerjo je neprestano poskušal uganiti, kaj da imata med sabo.</p>
             <p n="SL-WIKI0046155">Čim je bila večerja končana in je mladi svet odšel na ples, je poklical Mihaela na stran.</p>
-            <pb n="4"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-004.jpg"/>
             <p n="SL-WIKI0046156">»Kaj nimaš danes nič časa za svojega očeta?« ga je vprašal navidezno mirno. »Ves večer si posvetil baronici Renati.«</p>
             <p n="SL-WIKI0046157">»Razumeva se dobro in zato se, rad ž njo pogovarjam,« je hladno odgovoril Mihael.</p>
             <p n="SL-WIKI0046158">»O, seveda, seveda! Saj sem videl, kako se razumeta in zdaj mi postaja jasno, zakaj se tako braniš neveste, ki sem ti jo izbral. Vsa Ljubljana že sušlja, da si zaljubljen v Renato. Tebi se seveda tega ne upa nihče reči, a jaz sem to že večkrat moral slišati. Ta ljubezen jo blaznost, ljubi Mihael; kar iz glave si jo izbij. Moja želja in volja je, da se poročiš s Terezijo Ahčinovo.«</p>
@@ -155,13 +147,9 @@
             <p n="SL-WIKI0046176">Od tega trenotka je bilo njegovo življenje nepretrgani boj proti samemu sebi. Vedel se je napram Renati vedno ravno tako, kakor napram vsaki drugi dami, a težko mu je to bilo, neizmerno težko. Govoril je ž njo vedno zgol o stvareh, ki niso imeli niti za njo niti zanj najmanjšega osebnega pomena. Niti o prijateljstvu nista nikdar govorila, kaj še o ljubezni in nikdar ni Mihael poskušal vzbuditi v Renati le najmanjše zanimanje za svojo osebo.</p>
             <p n="SL-WIKI0046177">To težko nalogo mu je olajšala izvrševati okolnost, da je bil Evzelij Benalja silno bolehen, izmozgan in izžit in da je mu bilo po človeški previdnosti sojenih le še malo let. Mihael nikakor ni želel baronu Benalji smrti, a misel, da ne bo dolgo živel, mu je dala v trenotkih potrtosti in obupanja vedno novih moči.</p>
             <p n="SL-WIKI0046178">Kar nič ni vedel, kako misli in sodi Renata o njem. Govorila je ž nji ni vedno le o stvareh, kjer je bilo nemogoče pokazati kako simpatijo in antipatijo in govorila je vedno tako hladno in se vedla tako reservirano, da njenih misli in njenih čuvstev ni mogel nihče uganiti. Toda Mihaela to ni plašilo. Upal je, da jo prepriča o svoji ljubezni in da si pridobi njeno naklonjenost, kadar pride čas, da bo sploh smel govoriti.</p>
-            <pb n="5"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-005.jpg"/>
             <p n="SL-WIKI0046179">Na eno stvar pa ni Mihael nikdar mislil: da ga je ves ljubljanski ženski svet najstrože nadzoroval in opazoval vsak njegov korak, vsako njegovo gesto. Ljubljančanke, videč, da se Mihael za nobeno ne zanima, so takoj uganile, da mora imeti kako srčno skrivnost in trudile so se na vso moč in z vso vztrajnostjo, da bi jo razkrile. Zapazile so, da se je Mihael, če je prišel v kako družbo sicer najprej, pridružil drugim damam in ne Renati, a da so jo njegovi pogledi neprestano iskali in če je niso našli, da je kmalu družbo zapustil. Zapazile so dalje, da je bil Mihael vedno nemiren in raztresen, ako se mu ni posrečilo, ostati vsaj nekaj trenotkov pri Renati in da je bil vedno kaj dobro razpoložen, če je mogel le malo časa z njo govoriti. Uspehe teh opazovanj je končno formuliral Štefan vitez Ogulin v obdolžitev: Mihael Kržinar je smrtno zaljubljen v baronico Renato Beiialjo. Ne, da bi Renata in Mihael kaj slutila, je šla ta obdolžitev od hiše do hiše, od rodovine do rodovine; vedela jo je končno vsa Ljubljana samo ne Renata in Mihael jo je izvedel, ko mu jo je v razburjenosti vrgel v obraz njegov oče.</p>
             <p n="SL-WIKI0046180">Sedaj ga je bilo strah, da nastanejo iz te dolžitve Renati velike neprilike, da bo trpela na ugledu, da jo bodo zlobni ljudje obrekovali in grdili njeno čast po krivici in da jo bo do blaznosti ljubosumni mož trpinčil in ji zagrenil življenje. Zavedal se je, da mora to preprečiti, naj velja kar hoče in v ta namen je bil sedaj pripravljeno poročiti se celo z bogato vdovo Terezijo Ahčinovo.</p>
          </div>
-         <pb n="6"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-006.jpg"/>
          <div>
             <head>II.</head>
             <p n="SL-WIKI0046181">Ljubljanski guverner je po dvakrat na leto priredil na Barju velik lov in povabil vse plemstvo, vse oficirje in tudi najpreinožnejše meščane. Lov sam je mikal samo lovce, toda lovu je vedno sledilo vesela zabava, združena s plesom pod milini nebom in na to zabavo so prihiteli povabljenci celo iz prav oddaljenih krajev. Na konjih, v ekvipažah in zlasti na čolnih je ob takih prilikah hitelo vse polno ljudi iz Ljubljane do Preserja in skoro tradicijonalno je bilo, da je take dni pri povratku ponoči utonil v Ljubljanici kak udeleženec, ki pri pijači ni poznal mere in meje.</p>
@@ -192,8 +180,6 @@
             <p n="SL-WIKI00461106">»Ali ju vidiš Renata — Kržinar in gospa Terezija — torej je le res, kar sem ti povedal, da sta skoro za ročena.«</p>
             <p n="SL-WIKI00461107">Benalja je govoril tako glasno, da sta ga Mihael in Terezija morala slišati.</p>
             <p n="SL-WIKI00461108">Mihael bi bil pač lahko baronici Renati kako pokazal, da je zašel v družbo gospe Terezije proti svoji volji in le po nesrečnem slučaju, toda storil tega ni. Rekel si je, da nima nobene pravice dovoliti si take intimnosti napram baronici Renati in zavedal se je tudi, da bi bilo to poniževalno za gospo Terezijo in da tega ni zaslužila.</p>
-            <pb n="7"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-007.jpg"/>
             <p n="SL-WIKI00461109">Zato je molče pozdravil, pogledal kar mogoče ravnodušno ženo, ki jo je ljubil z vso močjo svojega srca in šel naprej, kakor da je srečal znanko, za katero mu ni več kot za lanski sneg.</p>
             <p n="SL-WIKI00461110">Bil je pa jezen sam nase in ljutil se je na vsiljivo gospo Terezijo, ki ga je spravila v tako neprijeten položaj. Spominjal se je natančno vsake besede, ki jo je rekel par dni poprej na večerji pri baronu Paumgartnu in kako je Renato zagotavljal, da se nikdar ne poroči z gospo Terezijo.</p>
             <p n="SL-WIKI00461111">»Kaj si bo mislila o meni«, to mu je neprestano krožilo po glavi. »Rekla bo, da sem nestanoviten, da se z vsako rad zabavam, da sem se ji hlinil in kdo ve kaj še vse.«</p>
@@ -212,16 +198,12 @@
             <p n="SL-WIKI00461124">»Pa to bogastvo!« je nadaljeval Benalja. »Stari Kržinar, ki ne more zatajiti kramarske krvi svojega starega očeta, ki je bil furman, bi se razjedel same jeze, če bi lepo premoženje gospe Terezije ne prišlo v roke njegovega rodu. Stari Kržinar je skop in lakomen.«</p>
             <p n="SL-WIKI00461125">»Iz njegovih dejanj tega ni videti in tudi slišala nisem nikdar nič takega« je mirno z nekako prepričanostjo rekla Kenata.</p>
             <p n="SL-WIKI00461126">»Ti še marsičesa nisi slišala kar je v Ljubljani znano« se je razvnel Benalja, ki ga je najbolj razjezilo, kadar mu Renata ni slepo verjela. »Skopuh je stari Kržinar. Prav grd skopuh je. Javno nastopa z veliko slovesnostjo, kakor kak španski kabalero s sedemindvajsetimi imeni, skrivaj pa stiska kar le more. In Mihael bo ravno tak.«</p>
-            <pb n="8"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-008.jpg"/>
             <p n="SL-WIKI00461127">»Zdi se mi, da se motiš,« je zopet prav mirno in prav hladno rekla Renata. »Zapravljivca nista, ne stari Kržinar, ne njegov sin, a skoposti in umazanosti jim ne more nihče očitati.«</p>
             <p n="SL-WIKI00461128">Benalja se je začela razburjati. Postalo mu je sumljivo, da se Renata nekako poteguje za Kržinarja in njegovega sina.</p>
             <p n="SL-WIKI00461129">»Kaj pa imaš s temi Kržinarji, da se zanje tako zavzemaš?« je siknil polglasno in začel trepetati, da se mu je vlasulja s klobukom vred začela nagibati zdaj na to, zdaj na drugo stran.</p>
             <p n="SL-WIKI00461130">»Ne potegujem se prav nič za Kržinarje, ki mi sploh niso nič mari, nego potegujem se za resnico.«</p>
             <p n="SL-WIKI00461131">Ta odgovor je barona Benaljo vsaj toliko pomiril, da njegova vlasulja ni bila več v nevarnosti, vedel je, da je Renata do skrajnosti resnicoljubna in pravična in da bi se zavzela tudi za največjega svojega nasprotnika, če bi sodila, da se mu godi krivica.</p>
             <p n="SL-WIKI00461132">Toda obstanka na slavnosti ni imel Benalja nič več. V drugih razmerah bi za ves svet ne bil pripoznal, da je star, slab in bolehen, toda zdaj je hotel za vsako ceno priti iz bližine Mihaela Kržinarja. Samo pozdravil je guvernerja in njegove goste in izgovarjajoč se, da ma glavobol in da ga trga, se hitro zopet poslovil ter se z Renato vrnil v Ljubljano.</p>
-            <pb n="9"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-009.jpg"/>
             <p n="SL-WIKI00461133">Dokler je sedela Renata poleg svojega moža v starinski kočiji, se je znala premagovati. Skrbno ga je vpraševala za njegove bolečine in ga tolažila ter ga s prijaznim kramljanjem poskušala razvedriti. Toda ko je prišla v svojo sobo, ko je zaklenila vrata za seboj, so jo zapustile moči. Kakor bi bila vsa utrujena in izmučena, se je vrgla na stol in uprla glavo ob dlan. Njene misli so poletele tja ven v Preserje, kjer je bila Mihaela Kržinarja zapustila pri gospe Tereziji in ta spomin jo je zabolel v dušo tako, da so ji solze stopile v oči. Spoznala je sedaj, da ljubi Mihaela resnično in goreče in da bo vse žive dni neskončno nesrečna, če se poroči s Terezijo Ahčinovo.</p>
             <p n="SL-WIKI00461134">Na eno misel pa Renata ni prišla, da bi se namreč ravnala po izgledih drugih žena. Takratna Ljubljana ni bila v nravnostnih stvareh prav nič stroga. Zakonska zvestoba je postala pojem, ki ni imel nobene vsebine. Tudi če se je zgodil kak škandal, ga niti prizadeti niso jemali tragično. Renata je vedela, da bi ji noben človek ne zameril, če bi postala nezvesta svojemu možu, ki je bil star in pohabljen in ki jo je dobil za ženo samo vsled nesreče, ki je dohitela njenega očeta. Če so Ljubljančanje uvidevali, da nobena ljubezen ni večna in da vsaka ljubezen enkrat ugasne, so uvidevali toliko bolj, da mlada in cvetoča Renata ne more ljubiti starega, bolnega moža.</p>
             <p n="SL-WIKI00461135">Toda vzlic prepričanju, da bi ji nihče ne zameril, če bi poslušala glas svojega srca, je ni ne enkrat obšla misel, da prizna Mihaelu Kržinarju svojo ljubezen. Obljubila je svojemu možu zvestobo in trden je bil njen sklep, da izpolni svojo obljubo in mu to zvestobo ohrani.</p>
@@ -244,8 +226,6 @@
             <p n="SL-WIKI00461152">Glasno pa je pater Salezij še dalje tolažil Renato in ji dokazoval, da mora na vsak način ukrotiti svoje ljubezenske želje, da svoje ljubezni ne sme izdati in da mora ohraniti zvestobo svojemu možu. A njegove besede niso bile več tako tople, kakor prej; ker niso prišle iz srca, tudi v Renatinem srcu niso našle odmeva.</p>
             <p n="SL-WIKI00461153">»Kljubovati hočem svoji ljubezni do skrajnosti« je pri slovesu rekla Renata »in skušala bom ohraniti svojemu možu zvestobo — toda — če bi me on ljubil, on, po katerem koprnim — oče moj, potem ne vem kaj se zgodi.«</p>
          </div>
-         <pb n="10"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-010.jpg"/>
          <div>
             <head>III.</head>
             <p n="SL-WIKI00461154">Štefana viteza Ogulina življenjski cilj je bil, dobiti — bogato ženo. Sam je bil reven in služil si je kruh s kvartanjem in s sleparjenjem pri kvartah. Ker pa je vedel, da kot siromak ne dobi premožne žene, je prikrival, da je bil nekoč oficir, ki so ga zaradi prevelikih dolgov odslovili in se je izdajal za lastnika velikih posestev in gozdov na Hrvaškem in v Bosni. Sam je s primerno previdnostjo razširil po Ljubljani mnenje, da hodi v Trst prodajat svoj les, a da to kot aristokrat prikriva, dočim je hodil v Trst in tudi v Benetke le kvartat.</p>
@@ -267,8 +247,6 @@
             <p n="SL-WIKI00461170">Toplo ji je postalo v duši in notranji glas ji je rekel: Tebe ljubi, za Te se hoče žrtvovati. Polastilo se je je čustvo blaženosti, a ugasnilo je zopet hitro, ko je Renata spoznala, da bo Mihael za njo za vedno izgubljen, če se poroči z drugo.</p>
             <p n="SL-WIKI00461171">Razmislila se je, v spomin ji je prišlo, kako je ona sama žrtvovala svojo mladost, svojo lepoto in svojo srečo očetu ter se poročila z možem, ki je goloto svoje glave zakrival z vlasuljo in si barval lice, obrvi in listne, da bi poleg mlade cvetoče žene ne izgledal presmešno.</p>
             <p n="SL-WIKI00461172">»Ne, Mihael, tega ne smeš storiti,« so mrmrale njene ustne. »Kaj mi je mar za moje dobro ime, kaj mi je mar za mir v zakonu in za čast — samo da ti nisi za me izgubljen.«</p>
-            <pb n="11"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-011.jpg"/>
             <p n="SL-WIKI00461173">Razgrnila je Mihaelovo pismo vnovič in je zopet čitala, tako pazno, kakor da se je hoče na pamet naučiti.</p>
             <p n="SL-WIKI00461174">»Ali — kdo mi pravi, da sem jaz tista žena, ki jo Mihael ljubi in zaradi katere se hoče žrtvovati?« Prevzela jo je ta misel s toliko silo, to je zatrepetala po vsem životu.</p>
             <p n="SL-WIKI00461175">»Nikdar ni z nobeno besedo izdal, da me ljubi. V njegovih pogledih se mi je pač časih zdelo, da nekaj gori, toda, kako naj iz tega sklepam da je svojo ljubezen meni posvetil? Občeval je z menoj vedno hladno, kakor z vsako drugo, nikdar ni pokazal, da ima za me kaj več simpatije, nikdar ni poskusil doseči od mene niti najmanjšega izraza, da mi je na njem kaj ležeče. Zakaj ni tega storil?«</p>
@@ -300,8 +278,6 @@
             <p n="SL-WIKI00461201">Renata je imela navado, da je brezimna pisma uničila. To pot pa je napravila izjemo. Zdelo se ji je, da utegne to pismo še enkrat prav priti in zato je je shranila.</p>
             <p n="SL-WIKI00461202">Zvečer je šla, kakor vsak dan z nekima prijateljicama na sprehod. Takrat je bilo shajališče Ljubljančanov na Cojzovem vrtu, ki je bil tam, kjer je zdaj Cojzova cesta. Od šeste do osme ure zvečer je bila na tem vrtu zbrana vsa ljubljanska gospoda.</p>
             <p n="SL-WIKI00461203">Renata je s svojima prijateljicama sedla na klop pod staro lipo. Zbralo se je okrog njih mnogo mladega sveta in tudi nekaj starejših gospodov in končno se je prikazal tudi Mihael Kržinar ter se pridružil okrog Renate in njenih prijateljic zbrani družbi. Topli pogled, s katerim ga je sprejela Renata, je razgnal slabovoljnost, ki ga je trpinčila od dneva, ko je bil lov na barju in sestanek v Preserju, in mu je dal pogum, da se je približal Renati.</p>
-            <pb n="12"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-012.jpg"/>
             <p n="SL-WIKI00461204">Ko se je družba razhajala, je nanesel srečen slučaj, da je mogel Mihael iti nekaj korakov sam z Renato.</p>
             <p n="SL-WIKI00461205">»Dovolite mi neko vprašanje, milostiva baronica,« je naglo rekel Mihael. »Ali ste prejeli moje pismo?«</p>
             <p n="SL-WIKI00461206">Renata je povesila glavo. Spomnila se je ne le Mihaelovega, nego tudi brezimnega pisma in ni ničesar odgovorila.</p>
@@ -328,8 +304,6 @@
             <p n="SL-WIKI00461227">»Najbolje bo, da za nekaj časa zapustim Ljubljano.« si je rekel. »Renata bo iz tega spoznala, da sem ji v prenagljenosti razkril svoja čustva in kako mi je žal, da sem za trenotek pozabil na ozire, ki jih mora imeti pošten človek napram omoženi dami, če jo ljubi. Videla bo, da nečem motiti njenega zakonskega miru in odpustila mi bo ter mi dovolila, da občujem ž njo. še dalje.«</p>
             <p n="SL-WIKI00461228">Mihael je bil mož, ki je storjene sklepe vedno takoj izvršil. Predno se je naslednji dan še prav zjasnilo, se je Mihael že odpeljal na Lesno brdo pri Vrhniki, kateri gradič je bil last njegovega očeta.</p>
          </div>
-         <pb n="13"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-013.jpg"/>
          <div>
             <head>IV.</head>
             <p n="SL-WIKI00461229">Mihael Kržinar je tako nenadoma in nepričakovano izginil iz Ljubljane, da se njegovi znanci niso mogli prečuditi. Štefan vitez Ogulin se je skrivnostno smehljal, kadar se je govorilo o Mihaelovem begu; kdor mu je pogledal v obraz, si je moral misliti »ta ve nekaj«, ali če je kdo kaj vprašal, ni dobil odgovora in razjasnila. Štefan Ogulin je bil veliko preveč previden, da bi bil zinil le besedico.</p>
@@ -348,8 +322,6 @@
             <p n="SL-WIKI00461242">»Užaljen je in odšel je, da bi me laglje pozabil.«</p>
             <p n="SL-WIKI00461243">To je bil končni sad njenega razmišljevanja in ta misel ji je ležala na duši in jo bolela, kakor sveža opeklina.</p>
             <p n="SL-WIKI00461244">Ljubljana je bila v onih časih malo mesto in majhne so bile tudi družabne razmere ljubljanske. Javnih priredb ni bilo skoro nobenih. V predpustnem času sta bila dva plesa in pozimi nekaj gledaliških predstav, to je bilo vse. Ni bilo pevskih družb, ni bilo godbe, ni bilo vsem pristopnih zabav in razen Cojzovega vrta tudi ni bilo sprehajališč. Premožnejše rodovine so si pomagale s prirejanjem domačih zabav, na katere so vabile znance in znanke. Ljubljana je bila tedaj bogato mesto. Cvetela je trgovina in cvetela je obrtnost, a koder je mnogo denarja, tam je tudi mnogo življenjskega veselja. Gostije so bile na dnevnem redu.</p>
-            <pb n="14"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-014.jpg"/>
             <p n="SL-WIKI00461245">Evzebij baron Benalja ni bil prijatelj gostij. Ljubil je red in mir in ni maral glasnih gostov, posebno ne takih, ki so se radi sukali okoli njegove žene. A ker se družabnim dolžnostim ni mogel odtegniti, je priredil vsako zimo tri ali štiri posebno bogate pojedine.</p>
             <p n="SL-WIKI00461246">Tudi sedaj je nameraval prirediti tako domačo zabavo. Hitel je posebno, ker je želel, da bi se vršila, dokler je Mihael Kržinar odsoten. Dasi ni verjel nobene besede brezimnega pisma, mu je bilo vendar neprijetno, da bi se Renata sešla z Mihaelom, vsaj dokler ni slednji zaročen z gospo Terezijo.</p>
             <p n="SL-WIKI00461247">Priprave so bile že vse gotove, le nekaj dni je še bilo do le priredbe, ko je baron Evzebij Benalja nenadoma zbolel. Našli so ga brez zavesti v njegovi sobi in pri njem mladega popolnoma neznanega moža, ki mu je močil čelo in z mogočnim glasom klical na pomoč.</p>
@@ -359,8 +331,6 @@
             <p n="SL-WIKI00461251">»Evzebij je moj pravi stric« je odgovoril Lenard.</p>
             <p n="SL-WIKI00461252">Renata se je začudila in strme je gledala čvrstega mladega moža, ki je stal pred njo. Iz nekih besed svojega moža ji je bilo sicer znano, da ima nekje na kmetih še nekaj sorodništva, ali natančnega ni ničesar vedela, kajti baron Evzebij ni hotel ničesar vedeti o svojih sorodnikih, ni maral nikdar o njih govoriti in jih sploh ni hotel poznati.</p>
             <p n="SL-WIKI00461253">Z enim samim pogledom je premerila Renata netjaka svojega moža. Lenard je bil po njeni sodbi kakih šestindvajset let star. Obleka njegova je kazala, da živi na kmetih in sicer ne gosposko. Lice njegovo je bilo od solnca in vetra zagorelo in ustrojeno, roke njegove so bile velike in malo čedne, a kar je na Renato napravilo najslabši utis, to je bila nestalnost v Lenardovem pogledu. Nekaj zavratnega in grozečega je plapolalo v očeh tega mladega moža in Renati se je vsilil sum, da je ta Lenard baron Benalja vzrok, da se je onesvestil njen mož.</p>
-            <pb n="15"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-015.jpg"/>
             <p n="SL-WIKI00461254">»Obiskal sem danes prvič svojega strica« je dejal Lenard, čuteč, da mora pojasniti svojo navzočnost. »Nisem mislil, da je že tako star in slab.«</p>
             <p n="SL-WIKI00461255">Evzebij baron Benalja je ležal na svoji postelji, kamor so ga položili posli z Lenardovo pomočjo. Renata je stala kraj postelje. Ko je Lenard rekel, da je Evzebij star in slab, se je Renata nehote ozrla na svojega moža in se ga je kar ustrašila. Vlasulja mu je bila padla z glave in videla se je vsa golota te glave. Lice je bilo upadlo in vse nagubančeno — Evzebij to jutro še ni imel časa si lice poslikati — oči so bile motne. Tako strašno star in slab je bil Evzebij baron Benalja.</p>
             <p n="SL-WIKI00461256">Močenje z octom in z vodo je baronu Evzebiju dobro storilo; prišel je kmalu k zavesti. Njegovi plahi pogledi so iskali Renato, ki je stala sicer pri njegovem vzglavju, a je pustila poslom, da so močili njenega moža. Ko je videla, da je baron Evzebij prišel k sebi, se je sklonila nad njega.</p>
@@ -388,8 +358,7 @@
             <p n="SL-WIKI00461278">»Strašno — strašno —« je vzdihnil baron Evzebij.</p>
             <p n="SL-WIKI00461279">»Kakor sem Vam že prej rekel, je bila moja mati rokovnjaško dekle in naravno je, da smo tudi mi, njeni otroci, bili vzgojeni v rokovnjaškem duhu. Že kot otroka me je oče jemal seboj na rokovnjaške pojezde; ravno tako moje brate. Podnevi smo bili sinovi obubožanega barona, ponoči smo bili rokovnjaški otroci. Ko je oče umrl, sem jaz v rokovnjaški družin stopil na njegovo mesto in ko bi bil sam, bi si prav nič ne želel, priti iz te družbe. Toda obljubil sem očetu na smrtni postelji, da bom vestno skrbel za svoji sestri in to obljubo sem izpolnil. Vzgojeni sta bili v škofjeloškem samostanu. Nič ne slutita, da je mati rokovnjaška hči in nič ne slutita, da so bratje rokovnjači. Zdaj sta zapustili samostan. Starejša ima osemnajst let, mlajša sedemnajst. Naravno je, da ne moreta ostati pri nas na kmetih. Ali naj se poročita s kakimi kmeti? Baronica Benalja vendar ne more postati kmečka žena; posebno ne, ko je vzgojena gosposko. Če hočem, da se primerno množita, se moramo preseliti v Ljubljano. Vsi moramo priti sem, zakaj doma se ne moremo več otresti rokovnjaške družbe. A kaj bi bilo iz sester, če bi slučajno prišlo na dan, da so bratje razbojniki? Kaj bi bilo z vami, stric, če bi nekega dne kakega barona Benaljo obsodili na smrt na vešalih in bi isti povedal, da ste Vi njegov stric ter morda še pojasnil —«</p>
             <p n="SL-WIKI00461280">»Molči, molči,« je zaječal baron Evzebij.</p>
-            <p n="SL-WIKI00461281">»Dobro, pustiva to,« je rekel Lenard. »Prosim Vas samo, preudarite sedaj le to, kaj naj storimo. Sprevideli bodete, da nam je odprta ena sama <pb n="16"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-016.jpg"/> pot — da se preselimo v Ljubljano. In to se mudi, kajti rokovnjaški poglavar — znan je samo z imenom Rudeči Jakob — in nihče ne ve, kaj je bil prej — se je začel ozirati po moji sestri Eleonori in treba je, da mu hitro izginemo izpred oči. Rudeči Jakob je strašen človek; če bi mu ne dali Eleonore, nas vse uniči.«</p>
+            <p n="SL-WIKI00461281">»Dobro, pustiva to,« je rekel Lenard. »Prosim Vas samo, preudarite sedaj le to, kaj naj storimo. Sprevideli bodete, da nam je odprta ena sama  pot — da se preselimo v Ljubljano. In to se mudi, kajti rokovnjaški poglavar — znan je samo z imenom Rudeči Jakob — in nihče ne ve, kaj je bil prej — se je začel ozirati po moji sestri Eleonori in treba je, da mu hitro izginemo izpred oči. Rudeči Jakob je strašen človek; če bi mu ne dali Eleonore, nas vse uniči.«</p>
             <p n="SL-WIKI00461282">Lenard je umolknil in je čakal, da zdaj izreče Evzebij svoj sklep. Toda baron Evzebij se je samo nemirno premetaval po svojem ležišču in je bolestno vzdihoval.</p>
             <p n="SL-WIKI00461283">»Torej, stric,« je končno zopet povzel Lenard, »odločite se zdaj. Naša usoda je v Vaših rokah, ali tudi Vaša usoda je nekoliko v naših rokah. V Ljubljano pridemo na vsak način, ali kot Vaši prijatelji, ali pa kot Vaši sovražniki.«</p>
             <p n="SL-WIKI00461284">»Kaj torej zahtevaš,« je čez ne kaj trenotkov vprašal baron Evzebij »Pomisli, jaz nisem bogatin in ne morem vsega tega storiti, kar morda pričakuješ.«</p>
@@ -402,8 +371,6 @@
             <p n="SL-WIKI00461291">»Torej?« je vprašal Lenard, ko je čul trkanje na vratih, naznanjajoče, da je prišel zdravnik.</p>
             <p n="SL-WIKI00461292">»Storim kar zahtevaš,« je zaječal baron Evzebij ves onemogel.</p>
             <p n="SL-WIKI00461293">»Dobro,« je dejal Lenard in je odšel brez slovesa mimo vstopivšega zdravnika iz sobe.</p>
-            <pb n="17"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-017.jpg"/>
             <p n="SL-WIKI00461294">Ko je Lenard baron Benalja vstopil v sobo Štefana viteza Ogulina, je ta kar planil z zofe, na kateri je ležal, ter zaklical.</p>
             <p n="SL-WIKI00461295">»Torej — kaj ste opravili?«</p>
             <p n="SL-WIKI00461296">»Vse je dobro izteklo, tako, kakor sva se dogovorila.«</p>
@@ -430,8 +397,6 @@
             <p n="SL-WIKI00461317">Štefan vitez Ogulin je imel svoje veselje, kadar je prilika nanesla, da je mogel opazovati Lenarda in njegovi sestri. Z Lenardom sta se domenila, da bodeta občevala samo kot navadna znanca, Eleonora in Cecilija pa nista nič vedeli, da se Ogulin in Lenard že od prej poznata.</p>
             <p n="SL-WIKI00461318">Ker je baron Evzebij med tem popolnoma okreval od svoje slabosti, ki ga je bila popadla pri prvem obisku barona Lenarda, se je zdaj končno odločil, da vender priredi večerjo, ki jo je bil že prej pripravljal. Poleg običajnih znancev in znank je povabil seveda tudi Lenarda in njegovi dve sestri, da jih takorekoč slovesno vpelje v družbo ljubljanskih aristokratov.</p>
          </div>
-         <pb n="18"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-018.jpg"/>
          <div>
             <head>V.</head>
             <p n="SL-WIKI00461319">Domača zabava v hiši barona Evzebija Benalje je privabila vso ljubljansko gospodo. Samci so po takratni navadi prišli zgodaj, kajti običaj je zahteval, da so zbrani okrog hišnega gospodarja asistirali prejemanju gostov ter došle dame peljali do hišne gospodinje.</p>
@@ -461,8 +426,6 @@
             <p n="SL-WIKI00461343">»Dovolite mi. Vaša milost, spoštljivo opomnjo, da sem že šestintrideset let star in torej zmožen sam izbrati ženo. Gospa Terezija Ahčinova hodi k maši, k spovedi in k obhajilu, je torej dobra katoličanka in sodim, da s cerkvenega stališča ne morete ničesar reči proti njej. Sicer pa se mi zdi, da v zakonskih zadevah nimam dolžnosti, poslušati svete.«</p>
             <p n="SL-WIKI00461344">»Kržinarji ste vsi strašni ljudje,« se je smejal škof z vso dobrohotnostjo, dasi so bile Mihaelove besede malo uljudne. »Poznal sem Vašega starega očeta in poznam vašega očeta; vi ste ravno taki, kakor ona dva. Ponosen in samosvoj. Vidite, Mihael, to mi ugaja, take ljudi imam jaz rad. Dovolite mi pa vendar, da povem, zakaj mislim, da bi gospa Ahčinova ne bila prava žena za vas.</p>
             <p n="SL-WIKI00461345">»Prosim pa, Vaša milost, da pri tem ne razžalite gospe Ahčinove,« je z vso resnobo rekel Mihael.</p>
-            <pb n="19"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-019.jpg"/>
             <p n="SL-WIKI00461346">»Ne bom je žalil in nimam vzroka, da bi jo žalil,« je dejal škof. »Nikar ne bodite preveč občutljivi, opozarjam Vas le na razliko v temperamentu in v vseh življenjskih nazorih, ki je med Vami in med gospo Terezijo. Vidva nista vstvarjena drug za drugega in bojim se, da ne bodeta srečna. Jaz pa Vas imam rad, ljubi Mihael, želel bi, da postanete tako srečni, kakor le more kdo biti. Iz te moje želje za Vas se je rodil moj opomin.«</p>
             <p n="SL-WIKI00461347">Mihaelu je bil ta pogovor skrajno neprijeten. V njegovem srcu je bil storjen sklep, da se poroči z gospo Terezijo, samo da obvaruje Renato pred hudobnimi govoricami. V dolgih urah resnega premišljevanja na Lesnem brdu se je porodil ta njegov sklep in prišel je v Ljubljano, da ga čim prej izvrši. Kaj je bilo njemu na razliki v temperamentu in v življenjskih nazorih, na katero ga je opozoril škof. Saj ni iskal v zakonu z gospo Terezijo ne sreče, ne harmonije in ne zadovoljstva, nego je hotel ž njim samo rešiti čast in mir baronice Renate.</p>
             <p n="SL-WIKI00461348">»Zahvaljujem se Vaši milosti za blagohotnr opomin,« je dejal Mihael. »Uvaževal ga bom.«</p>
@@ -487,8 +450,6 @@
             <p n="SL-WIKI00461367">»No, ena tura se bo naposled že dala dobiti tudi še za vas lepi nezvestnik«, je zaljubljeno vzdihnila gospa Terezija. »Proti koncu prihodnjega plesa se oglasite«.</p>
             <p n="SL-WIKI00461368">»Hvala vam za to milost« je dejal Mihael in se je globoko priklonil, dasi bi bil najraje zbežal iz dvorane.</p>
             <p n="SL-WIKI00461369">Gospa Terezija se mu je koketno nasmehnila, ga pogledala zaljubljeno in zopet odšla z baronom Lenardoni, ki je z veliko nevoljo zapazil, kako velike simpatije goji njegova spremljevalka za Mihaela Kržinarja.</p>
-            <pb n="20"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-020.jpg"/>
             <p n="SL-WIKI00461370">Ko se je začel nov ples, je gospa Terezija zapustila Lenarda. Ta je komaj čakal, da dobi nekaj trenotkov svobode. Odhitel je takoj iskat Štefana viteza Ogulina, ga poklical na hodnik in ga začel nujno izpraševati za razmerje med gospo Terezijo in med Mihaelom Kržinarjem.</p>
             <p n="SL-WIKI00461371">Štefan vitez Ogulin je bil skrajno presenečen. Kakor jastreb je uprl svoje poglede v Lenarda, stopil prav blizu njega in mu grozeče zašepetal na uho:</p>
             <p n="SL-WIKI00461372">»Ljubi dečko — za gospo Terezijo se mi Vi nikar preveč ne ozirajte. Ta žlahtna ptica je drugemu namenjena, človeku, ki ne pozna nobene šale.«</p>
@@ -516,8 +477,6 @@
             <p n="SL-WIKI00461394">»Kaj ukažete, milostiva baronica?« je vprašal Mihael, ko je stal pred Renato.</p>
             <p n="SL-WIKI00461395">»Ničesar, ničesar, dragi gospod Kržinar« je zatrjevala Renata. »Lenard je prenagel. Pravil je, da v njegovih lahkomiselnih krogih ne verjamejo, da ste bili na Lesnem brdu in trde, da ste bili ali v Zagrebu ali v Trstu ali kdo ve kje. Saj nam to nič mari in jaz tudi nič ne dvomim o resničnosti vaših besed. Lenardu ne smete zameriti, da se je precfrznil vas poklicati.«</p>
             <p n="SL-WIKI00461396">»Zadostuje mi, da vi milostiva baronica, verjamete mojim besedam« je hladno rekel Mihael. »Kaj govore lahkoživi krogi barona Lenarda, mi je vse eno. Bil sem na Lesnem brdu in nisem niti koraka storil čez mejo svojega posestva.«</p>
-            <pb n="21"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-021.jpg"/>
             <p n="SL-WIKI00461397">Obrnil se je potem k ostalim gospodom in z ostrim, čeprav kratkim pogledom na Lenarda dejal:</p>
             <p n="SL-WIKI00461398">»Zahvaljujem se vam pa, da se tako živo zanimate za moje početje in upam, da izvira iz prijateljskih nagnenj, kajti samo prijatelji sinejo v šali izrekati dvome o resničnosti-besedi kakega poštenega človeka.«</p>
             <p n="SL-WIKI00461399">Kar poparjeni so sedeli gospodje m dame na svojih sedežih in so potrebovali več trenotkov, predno so prišli do sape. Hiteli so zagotavljati Mihaelu, da ni nihče dvomil o njegovih besedah, Lenard ni spravil nobene opravičevalne besede čez ustne, pač pa je porabil prvo priliko, da jo je popihal iz Mihaelove bližine.</p>
@@ -532,8 +491,6 @@
             <p n="SL-WIKI00461408">»Kako ste mogli biti tako neuljudni!« je rekla Renata s karajočim glasom. »Terezija je po pravici razžaljena.«</p>
             <p n="SL-WIKI00461409">»Vem, da sem neodpustljivo ravnal,« je dejal Mihael in kakor v sanjah dostavil polglasno: »A kako naravno je vendar, da sem tukaj pozabil na ples. Odpustila mi tega ne bo nikdar — a — mogoče, da bo to še na mojo srečo.</p>
          </div>
-         <pb n="22"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-022.jpg"/>
          <div>
             <head>VI.</head>
             <p n="SL-WIKI00461410">Mihael ni kar nič mislil, da ne sme kakor prikovan ostati kraj Renate in ji onemogočati izvrševanje gospodinjskih dolžnosti. Nekaj časa se tudi Renata ni domislila teh dolžnosti, tako ljubo ji je bilo, da je Mihael v njeni bližini. Toda polagoma se je Renata zavedla, da se posebno pri prizoru z gospo Terezijo ne more kar tako posvečati Mihaelu. Začela se je vznemirjati, zlasti ker se je spominjala, da je obljubila Mihaelu plesatižnjim. Rada bi bila to obljubo preklicala, a ni se upala. Bala se je, da bi to Mihaela žalilo in bolelo.</p>
@@ -570,8 +527,6 @@
             <p n="SL-WIKI00461441">Tako mehko je to rekla Renata, da je v Mihaela vse vzkipelo, a zdaj ga čustva niso premagala. Še en hiter, komaj viden pogled in razšla sta se.</p>
             <p n="SL-WIKI00461442">Ko je Mihael prekoračil prag sosedne sobe je zaslišal za seboj žvenket. V sobi, kjer je bil pravkar z Renato, se je morala razsuti šipa.</p>
             <p n="SL-WIKI00461443">»To je zlo znamenje« je pol v šali pol resno mislil Mihael in se ozrl v sobo, ki jo je ravnokar zapustil. Tedaj pa je zagledal med preprogami prepadeni obraz Lenarda barona Benalje.</p>
-            <pb n="23"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-023.jpg"/>
             <p n="SL-WIKI00461444">Mihael je planil pred Lenarda in ga prijel za goltanec. Kakor z železnimi kleščami ga je držal, tako da se Lenard še braniti ni mogel in je le mahal z rokama okrog sebe.</p>
             <p n="SL-WIKI00461445">»Lopov — ti si prisluškoval« je srdito zarohnel Mihael. »Če se premakneš, te na mestu ubijem.«</p>
             <p n="SL-WIKI00461446">Tako strašen je bil v tem trenotku Mihael Kržinar, da se ga je rokovnjaški baron bal kakor smrti.</p>
@@ -620,8 +575,6 @@
             <p n="SL-WIKI00461489">Mihael je bil zadovoljen, da njegov oče in kapitan Mrmolja nista vpraševala, zakaj je Lenarda prijel za vrat in ga imenoval lopova. Da bi jima to ne prišlo še na misel, je provzročil prav živahno razpravo o vprašanju, katero orožje bi bilo bolje izbrati. Končno so se zedinili, da prepuste določitev orožja Lenardu in da naj se dvoboj vrši še dopoldne v mestnem logu.</p>
             <p n="SL-WIKI00461490">»Zdaj, Mihael,« pojdi spat,« je rekel stari Kržinar, ko je bilo vse dogovorjeno. »Vem, da imaš krepke živce, a dobro bo le, če se od plesa in razburjenja te noči odpočiješ. Kadar bodeva z Mrmoljo vse v red spravila, te že pokličem.«</p>
          </div>
-         <pb n="24"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-024.jpg"/>
          <div>
             <head>VII.</head>
             <p n="SL-WIKI00461491">Mihael je spal več ur, trdno in mirno, navzlic vsem velikim razburjenjem minole noči. Zaspal je od utrujenosti hitro ko se je bil vlegel. Njegova zadnja misel je bila, da tisti, ki so na smrt obsojeni, spe dolgo in mirno.</p>
@@ -649,8 +602,6 @@
             <p n="SL-WIKI00461513">»Gospod plem. Kržinar voli orožje prvi,« je naznanil kapitan Mrmolja in pomudivši Mihaela flerete dostavil: »Prosim — izberite.«</p>
             <p n="SL-WIKI00461514">Mihael je vzel fleret, ki mu je ravno prišel v roke, ne da bi kaj izbiral; Lenard si je smrtonosno orožje natančno ogledal in končno vzel fleret, ki se mu je zdel nekoliko trdnejši od drugih.</p>
             <p n="SL-WIKI00461515">Sekundantje so vzeli sablje in potem peljali bojevnika na njiju mesti.</p>
-            <pb n="25"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-025.jpg"/>
             <p n="SL-WIKI00461516">Vse je bilo pripravljeno za boj, treba je le še bilo, da dobita nasprotnika znamenje.</p>
             <p n="SL-WIKI00461517">Tedaj se je obrnil stari Kržinar do svojega sina in je z veliko resnostjo rekel:</p>
             <p n="SL-WIKI00461518">»Mihael — kot tvoj sekundant sem ti dolžan priporočati, da storiš, kar je v tvojih močeh, da se zadeva poravna izlepa in brez boja. Ali ti je to mogoče?«</p>
@@ -689,8 +640,6 @@
             <p n="SL-WIKI00461551">»Jaz sem pripravljen prevzeti za izrečeno obdolžitev vso odgovornost« je grozeče izjavil stari Kržinar. »Kadar bo boj med mojim sinom in baronom Benaljo končan, sem vam na razpolaganje«.</p>
             <p n="SL-WIKI00461552">»Ker je gospod Mihael plem. Kržinar na desni roki tako ranjen, thi ne more več orožja držati, je boj pač končan«.</p>
             <p n="SL-WIKI00461553">Arogantno nastopanje Ogulinovo je Kržinarja do skrajnosti razljutilo. Najraje bi ga bil pobil, a Mrmolja ga je potegnil na stran.</p>
-            <pb n="26"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-026.jpg"/>
             <p n="SL-WIKI00461554">Ogulin videč kako obvezuje zdravnik Mihaelovo rano je bil popolnoma prepričan, da je dvoboju konec in tudi Lenard je bil tega mnenja in ni kar nič prikrival svojega zadovoljstva.</p>
             <p n="SL-WIKI00461555">»Dvoboj se bo nadaljeval,« je zagrmel stari Kržinar. »Ker se moj sin ne more boriti z desno roko, se bo boril z levo.«</p>
             <p n="SL-WIKI00461556">Ogulin in Lenard sta oba nekoliko prebledela; kaj takega nista pričakovala; smatrala sta, da je velika nevarnost že prestana in bila vsled tega prešerna.</p>
@@ -726,16 +675,12 @@
             <p n="SL-WIKI00461586">»Izpolnil sem le prijateljsko dolžnost in izpolnil jo bom do kraja. Lenard vas je dvakrat poskusil zavratno umoriti — to bo plačal njegov sekundant.«</p>
             <p n="SL-WIKI00461587">Mrmolja je bil mož beseda. Za naslednji dan ob 7. uri jutraj je bil napovedan dvoboj med njim in med Štefanom Ogulinom in ob en četrt na osem je že ležal Ogulin s prebodenim vratom smrtno ranjen na travi.</p>
          </div>
-         <pb n="27"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-027.jpg"/>
          <div>
             <head>VIII.</head>
             <p n="SL-WIKI00461588">Nekaj ur po dvoboju Mihaela Kržinarja z Lenardom Benaljo je že vsa Ljubljana vedela, kako se je boj vršil in kako sta bila nasprotnika ranjena. Stvar se ni dala prikrivati, kajti Lenard je bil težko ranjen in stanovalci v hiši, kjer je bivala njegova rodovina, so jo raznesli po vsi okolici, da je šla kakor blisk po mestu.</p>
             <p n="SL-WIKI00461589">Renata se je te vesti vstrašila, da ji je kar srce zastalo. Ni ji bilo za Lenarda, dasi se ji je smilil, a strah jo je bilo za Mihaela. Spomnila se je, kako je od nje slovo na plesu jemal in jo prosil njenega blagoslova in jasno ji je bilo, da se je moralo na tem plesu kaj dogoditi, kar je dalo povod dvoboju. A zaman je v mislih iskala, kaj bi to utegnilo biti in zaman je izpraševala svojega moža in svoje posle, če so zapazili kako prerekanje med Mihaelom in med Lenardom.</p>
             <p n="SL-WIKI00461590">Vzrok dvoboja jo je zanimal, ker se ji je neprestano vsiljevala slutnja, da je ona sama na katerikoli način v zvezi s tem dogodkom.</p>
             <p n="SL-WIKI00461591">Srce ji je krvavelo, toliko bolj, ker je zdaj šele prav spoznala, kako neskončno ljubi Mihaela. Dasi je vedela, da njegova rana ni nevarna, si je vendar delala zanj največje skrbi.</p>
-            <pb n="28"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-028.jpg"/>
             <p n="SL-WIKI00461592">Evzebij baron Benalja je svoji ženi po večerji obširno povedal, kako se je vršil dvoboj. Bil je sam pri Lenardu in zdravnik mu je natančno pojasnil ves dogodek. Evzebija je bilo sram, da se je njegov netjak nepošteno bojeval in to je bilo edino, kar je zamolčal svoji ženi.</p>
             <p n="SL-WIKI00461593">O vzroku dvoboja mu tudi zdravnik ni vedel ničesar povedati. Toda Evzebij je v prvem trenotku, ko je izvedel za dvoboj začel slutiti, da utegne njegova žena biti vede ali nevede povod nastalemu nasprotju. V tem, da se je Mihael izpostavil smrtni nevarnosti ter se ko je bil zavratno ranjen v desno roko bojeval z levo roko, je Evzebij baron Benalja videl le dokaz, da ljubi Mihael njegovo ženo še bolj, kakor svoje življenje Evzebij je bil popolnoma prepričan, da bi se resni, ponosni in prevdarni Mihael zaradi kake malenkosti gotovo ne bojeval, nego da je moral biti poseben povod dvoboju. In tak poseben povod je videl Evzebij samo v Renati.</p>
             <p n="SL-WIKI00461594">Pri tem spoznanju se je staremu gospodu kaj milo storilo; obupanje je leglo na njegovo srce, a mu ni zatemnilo prevdarnosti niti z gorjupom napolnilo njegove duše.</p>
@@ -751,8 +696,6 @@
             <p n="SL-WIKI00461604">»Govorim resnico. Poznam svet in poznam ljudi. Zdi se mi, da mi je čisto nemogoče ti pojasniti, kako srčno in iskreno te ljubim. Ti, Renata ko si v cvetu svoje lepote in svoje mladosti, svojih telesnih in dušnih sil, pač ne moreš pojmiti, da sem zmožen velike in globoke ljubezni do tebe. Kako bi mogla to verjeti, saj vidiš, kako sem star in slab, da nimam las in skrivam svojo goloto z vlasuljo, da si barvani lice in obrvi. In vendar te ljubim blazno in vse dni kar mi jih je še sojenih, mi bo krenila misel, da me ne moreš ljubiti in da sem ti jaz pokvaril mladost in življenje.«</p>
             <p n="SL-WIKI00461605">Nagnil je glavo, si zakril lice z rokama in se bridko razjokal.</p>
             <p n="SL-WIKI00461606">»Prosim te, Evzebij, nikar ne govori tako,« je novič vzklinila Renata, ki jo je moževa obupanost globoko pretresla. »Ali sem ti le z eno samo besedico kaj takega očitala, česar se zdaj sam dolžiš? Nikdar! In tudi v prihodnje ne boš nikdar kaj takega slišal. Živela bom zate, samo zate, samo tebi se bom posvečala že ker si tako dober. Da, še preveč si dober z menoj.«</p>
-            <pb n="29"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-029.jpg"/>
             <p n="SL-WIKI00461607">V Evzebiju baronu Benalji se je po dolgih letih zakrknjenosti oglasila vest.</p>
             <p n="SL-WIKI00461608">»Slabo me poznaš, ljuba Renata, misliš, da sem dober človek. Še nihče mi ni tega rekel. Vse svoje dni sem bil sebičen, do skrajnosti sebičen. Samo za tebe, Renata, bi bil vse storil, tebi sem bil dober in hvaležen sem ti, da to priznavaš. A najbrž bi niti tebi ne bil dober, če bi bila enake starosti. Toda, kaj hočem danes! Naj bom dober ali ne, saj bo kmalu vsega konec in ti, Renata, boš svobodna.«</p>
             <p n="SL-WIKI00461609">»Čemu mi to pripoveduješ?« je vprašala Renata z vidno žalostjo. »Kaj me smatraš za tako slabo, brezsrčno in pokvarjeno, da ti želim smrt?«</p>
@@ -787,8 +730,6 @@
             <p n="SL-WIKI00461635">Stari Kržinar se je nekoliko pomilovalno nasmehnil.</p>
             <p n="SL-WIKI00461636">»Ljuba milostiva — stvar je pač taka, da me je Mihael prosil za pomoč in da sem se jaz udal njegovi želji, ne da bi stavil pogoj, naj mi zaupa, česar sam iz lastnega nagiba ni hotel povedati.«</p>
             <p n="SL-WIKI00461637">»Vi ste ravno taki, kakor Mihael. Prav res, dva strašna človeka sta. Ah saj ne bi tako izpraševala, ko bi imela gotovost, da nisem jaz kriva teh strašnih dvobojev.«</p>
-            <pb n="30"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-030.jpg"/>
             <p n="SL-WIKI00461638">Stari Kržinar se je z roko udaril po čelu. Da mu ni prišlo prej na misel, da zna biti gospa Terezija vzrok dvoboju! Sam sebi se je zdaj čudil, daje prej mislil na vse mogoče in nemogoče žene, samo ne na ono, ki jo sam usiljuje svojemu sinu za nevesto.</p>
             <p n="SL-WIKI00461639">Gospa Terezija je začela pripovedovati na dolgo in široko, kako je Mihael na večeru pri baronu Benalji pozabil na ples, za kateri jo je angažiral, kako ga je našla zatopljenega v pogovor z baronico Renato in kako mu je pošteno povedala svoje mnenje.</p>
             <p n="SL-WIKI00461640">»Mihael me je tako razžalil, da mu tega ne morem odpustiti,« je končala gospa Terezija svoje pripovedovanje. Razžalil me je dvakrat zaporedoma in vsled tega tudi nisem hotela sprejeti njegovega opravičevanja. Zdaj se pa bojim, da je iz tega nastal med Lenardom in Mihaelom prepir, ki se je končal z dvobojem.«</p>
@@ -821,8 +762,6 @@
             <p n="SL-WIKI00461667">Renata je razumela, le predobro je razumela. Srce se ji je krčilo, a vendar je premagala svojo bolest.</p>
             <p n="SL-WIKI00461668">»Razumem Vas,« je rekla, »in storila bom vse, kar bo v mojih močeh, da izpolnim Vašo željo.«</p>
             <p n="SL-WIKI00461669">»Hvala Vam, milostiva,« je dejal Kržinar, »nikdar Vam ne bom nehal biti hvaležen.«</p>
-            <pb n="31"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-031.jpg"/>
             <p n="SL-WIKI00461670">Renata je odločno odkimala z glavo in ponosno pogledala staremu Kržinarju v oči.</p>
             <p n="SL-WIKI00461671">»Ni se Vam treba zahvaljevati! Kar ste vi danes izrekli kot svojo željo, to je bil od nekdaj moj namen tako glede Vašega sina kakor glede vsakega, ki bi se mi bil hotel približati. Poštena žena sem in ostati hočem poštena žena.«</p>
             <p n="SL-WIKI00461672">»Ne dvomim o tem, milostiva, a hvaležen sem Vam vendar. Dovolite, da Vam poljubim roko —«</p>
@@ -859,8 +798,7 @@
             <p n="SL-WIKI00461703">»Ljubi oče — to je že preveč neumno. Zaradi gospe Terezije se jaz ne bom nikdar in z nikomur dvobojeval. «</p>
             <p n="SL-WIKI00461704">»Ne?« Prav zategnjeno je izrekel stari Kržinar to besedo. »Nikdar? Z nikomur?«</p>
             <p n="SL-WIKI00461705">»Nikdar in z nikomur, ljubi oče — tudi če bi se odločil, da se ž njo poročim.«</p>
-            <p n="SL-WIKI00461706">»Kar je moja iskrena želja, «je naglo pripomnil Kržinar. »Vidiš — zdaj, ko je dvoboj končan, ti tudi lahko povem, česar prej nisem hotel. Zdi se mi, da si se dvobojeval z <pb n="32"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-032.jpg"/> Lenardom zaradi kake žene. Če ta žena ni gospa Terezija, mora biti kaka druga. In to mi ni všeč. Obljubil si mi, da si glede gospe Terezije premisliš ...«</p>
+            <p n="SL-WIKI00461706">»Kar je moja iskrena želja, «je naglo pripomnil Kržinar. »Vidiš — zdaj, ko je dvoboj končan, ti tudi lahko povem, česar prej nisem hotel. Zdi se mi, da si se dvobojeval z  Lenardom zaradi kake žene. Če ta žena ni gospa Terezija, mora biti kaka druga. In to mi ni všeč. Obljubil si mi, da si glede gospe Terezije premisliš ...«</p>
             <p n="SL-WIKI00461707">»Saj razmišljam pogostoma o tej stvari, se je hitro oglasil Mihael, a dogovorjeni rok še ni pretekel.«</p>
             <p n="SL-WIKI00461708">Da - a zdi se mi, da si vendar nekako vezan, da se v tem času ne zanimaš za nobeno drugo, kaj se da bi se dvobojeval.«</p>
             <p n="SL-WIKI00461709">»Nisem se dvobojeval zaradi kake ženske. Nihče na svetu ne ve, kaj je bil vzrok dvoboju. Lenard bo molčal, ker bi bilo zanj sramotno, če ni govoril in mene ne pripravi nobena sila na svetu do tega, da bi povedal vzrok dvoboju.</p>
@@ -868,8 +806,6 @@
             <p n="SL-WIKI00461711">»Dokler ne poteče dogovorjeni rok, ne morem ničesar reči. Še je nekaj tednov časa. Točno ob minuti, ko poteče rok, Vam povem, kako se zgodi.«</p>
             <p n="SL-WIKI00461712">Stari Kržinar ni bil kar nič zadovoljen s tem odgovorom, toda vedel je, da pri Mihaelu ničesar ne opravi, če bi ga začel siliti in nagovarjati in zato je umolknil.</p>
          </div>
-         <pb n="33"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-033.jpg"/>
          <div>
             <head>X.</head>
             <p n="SL-WIKI00461713">Lenard baron Benalja in Štefan vitez Ogulin sta ležala več tednov; Lenard je ležal pri svoji materi, Štefana pa so zdravili v bolnici. Vzlic temu, da sta drug o drugem le malo izvedela, sta si bila svesta, da gojita oba le eno misel, da ju oba navdaja le ena želja. Koprnela sta si poosveti, in v dolgih urah samote delala najstrašnejše načrte.</p>
@@ -895,13 +831,10 @@
             <p n="SL-WIKI00461733">»Čuješ rokovnjaški poglavar, ne pozabi s kom govoriš.«</p>
             <p n="SL-WIKI00461734">Rudeči Jakob se je zasmejal na ves glas.</p>
             <p n="SL-WIKI00461735">»Otročaj« je z izrazom preziranja zaklical Lenardu. »Ko bi ti vedel kdo sem jaz, bi šele prav spoznal, kaka reva da si. Pohodim in uničim te lahko. To sam dobro veš. Svarim te tudi: nikar ne ugibaj nobenih zavratnosti. Vsak poskus bi plačal z glavo.«</p>
-            <pb n="34"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-034.jpg"/>
             <p n="SL-WIKI00461736">Rudeči Jakob je govoril tako srdito, da je sicer drzni in neustrašni. Lenard postal nekako plah.</p>
             <p n="SL-WIKI00461737">»Toda, pustiva to« je nadaljeval Rudeči Jakob. »Jaz ti ne zaupam in ker hočem varno hoditi, zahtevam dvoje jamstev, če naj izpolnim najin dogovor. Prvo jamstvo je, da pošlješ ali Eleonoro ali celo rodovino čez poletje nazaj na strmolsko posestvo, kjer ste prej bivali. Eleonora mora ostati pod nadzorstvom mojih ljudi, zakaj ti si v stanu in me izdaš v tistem trenotku, ko je tvoje maščevanje izvršeno.«</p>
             <p n="SL-WIKI00461738">V Lenardu je vse vrelo, toda znal se je premagovati, znal je tudi s sovraštvom v srcu sladko govoriti.</p>
-            <p n="SL-WIKI00461739">»Ti si grd in nehvaležen človek Jakob,« je rekel očitajoče.»Storil sem zato že mnogo in ti z dejanji dokazal svoje prijateljstvo in svojo zvestobo, kako mi moreš torej očitati, da nisem vreden tvojega zaupanja. Ti me žališ, Jakob, a jaz sem v resnici zvest prijatelj in ti hočem zopet pokazati, da ti vzlic vsemu zaupam. Ker Eleonora vendar ne more dlje časa bivati <pb n="35"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-035.jpg"/> sama na pristavi, pride vsa moja rodovina čez poletje tja, jaz pa ostanem v mestu. Si-li zdaj zadovoljen.«</p>
+            <p n="SL-WIKI00461739">»Ti si grd in nehvaležen človek Jakob,« je rekel očitajoče.»Storil sem zato že mnogo in ti z dejanji dokazal svoje prijateljstvo in svojo zvestobo, kako mi moreš torej očitati, da nisem vreden tvojega zaupanja. Ti me žališ, Jakob, a jaz sem v resnici zvest prijatelj in ti hočem zopet pokazati, da ti vzlic vsemu zaupam. Ker Eleonora vendar ne more dlje časa bivati  sama na pristavi, pride vsa moja rodovina čez poletje tja, jaz pa ostanem v mestu. Si-li zdaj zadovoljen.«</p>
             <p n="SL-WIKI00461740">Kudeči Jakob je samo prikimal; verjel ni Lenardu ničesar.</p>
             <p n="SL-WIKI00461741">»In kaj je drugi pogoj — saj si govoril o dvojnem jamstvu?« je zopet povzel Lenard.</p>
             <p n="SL-WIKI00461742">»Spraviva vse v red.«</p>
@@ -943,8 +876,6 @@
             <p n="SL-WIKI00461778">»Potem je vse v redu« je končal Rudeči Jakob pogovor. »Kar bo pozneje storiti, ti že o pravem času povem. Zdaj mi pripravi ležišče, da bom do mraka lahko mirno spal.«</p>
             <p n="SL-WIKI00461779">Matjok je peljal Rudečega Jakoba pod streho, kjer je imel kamrico, zastavljeno od vseh strani s starim pohištvom in kjer je pripravil ležišče za rokovnjaškega poglavarja. Rudeči Jakob se je zaklenil, položil na mizico bodalo in dva napeta samokresa in potem mirno zaspal.</p>
          </div>
-         <pb n="36"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-036.jpg"/>
          <div>
             <head>XI.</head>
             <p n="SL-WIKI00461780">Leno so minevali dnevi. Evzebij baron Benalja se je držal svojega doma, kolikor mu je bilo največ mogoče. Časih se je zdelo Renati, da ostaja doma, samo da bi ona ne šla nikamor iz hiše. Renata je pazila na svojega moža bolj kakor na punčico v svojem očesu, samo da ga ohrani pri dobri volji in pri zdravju. Lahko ji to ni bilo, zakaj Evzebij je bil zdaj mehak in jokav, zdaj zopet siten in nestrpen.</p>
@@ -974,14 +905,11 @@
             <p n="SL-WIKI00461804">Gostje so peljali Evzebija do zofe in ga nanjo položili. Močili so mu čelo in glavo, raz katero je bila padla vlasulja in ko je prišel nekoliko k sebi, so mu dali piti konjaka, da se je okrepčal.</p>
             <p n="SL-WIKI00461805">Evzebijevi znanci so med tem pomirjevali razžaljene častnike in jim dopovedovali, naj vendar ne zahtevajo zadoščenja od tako starega in bolnega moža, marveč naj privolijo, da se stvar iz lepa poravna.</p>
             <p n="SL-WIKI00461806">»Dajte baronici Renati častno izjavo in baron Evzebij jo bo dal vam in vse bo v redu«, so govoril Evzebijevi prijatelji in bili trdno prepričani, da bo baron Evzebij s tako časno poravnavo zadovoljen.</p>
-            <p n="SL-WIKI00461807">Toda baron Evzebij Benalja ni hotel o taki poravnavi ničesar vedeti. <pb n="37"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-037.jpg"/> Komaj je prišel toliko k sebi, da ko je mogel ganili, je že izjavil, da poravnavi ne more biti govora. Ljuta jeza na žaljivce njegove žene mu je razvnela kri in odločen je bil, da vzlic svoji slabosti in starosti prime za orožje in brani v dvoboju čast svoje žene.</p>
+            <p n="SL-WIKI00461807">Toda baron Evzebij Benalja ni hotel o taki poravnavi ničesar vedeti.  Komaj je prišel toliko k sebi, da ko je mogel ganili, je že izjavil, da poravnavi ne more biti govora. Ljuta jeza na žaljivce njegove žene mu je razvnela kri in odločen je bil, da vzlic svoji slabosti in starosti prime za orožje in brani v dvoboju čast svoje žene.</p>
             <p n="SL-WIKI00461808">Evzebij baron Benalja je bil trdno prepričan, da ljubi njegova žena Mihaela Kržinarja, a čisto tako je bil trdno prepričan, da Renata svoje ljubezni ni nikdar izdala z nobeno besedico in z nobenim dejanjem, niti Mihaelu niti komu drugemu. Mogla je biti vzrok dvoboju med Mihaelom in med Lenardora, da, Evzebij ni dvomil, da je res bila Renata ta vzrok, ali nad vsak dvom je bilo, da Renata ni dala za to nobenega povoda in da ni o vsem tem ničesar vedela.</p>
             <p n="SL-WIKI00461809">Braniti čast svoje žene z orožjem v roki in storiti v tem boju smrt — ta misel je prevzela Evzebija z vso močjo, v takem dejanju je videl najlepši, vse presezajoči dokaz svoje ljubezni in udanosti do Renate.</p>
             <p n="SL-WIKI00461810">»Če padem, bo vsaj vedela in spoznala, kako resnično, presrčno in neskončno sem jo ljubil« je rekel sam pri sebi in glasno je zaklical »odklanjam vsako poravnavo.«</p>
             <p n="SL-WIKI00461811">Opiraje se na dva prijatelja je sicer teško stopajoč, a s ponosno povzdignjeno glavo, zapustil kavarno.</p>
-            <pb n="38"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-038.jpg"/>
             <p n="SL-WIKI00461812">S težavo je prišel baron Evzebij do svojega doma. Njegovo razburjenje je bilo tako veliko, da nič ni pazil nase. Stara in lena njegova kri se je z izredno naglostjo podila po njegovih žilah in zazdelo se mu je, kakor da ga je burni prizor v kavarni posvežil in poživil. Sicer je čutil, da mu srce bije z izredno silo, a sodil je, da je to naravna posledica vsega tega, kar je pravkar doživel.</p>
             <p n="SL-WIKI00461813">Posli so se ga ustrašili, ko so ga zagledali, tako je bil slab in prepaden. Vlasulja je ostala v kavarni pod zofo in gola glava je šele prav kazala, kako star in izmozgan je baron Evzebij Benalja.</p>
             <p n="SL-WIKI00461814">Prihitela je tudi Renata. Z udano skrbnostjo je sama pripravila vse, kar je bilo treba; priredila je posteljo in poslala po zdravnika. Toda Evzebij baron Benalja ni hotel v posteljo in ni maral nič slišati o zdravniku.</p>
@@ -1001,8 +929,6 @@
             <p n="SL-WIKI00461828">»Kržinarji imajo sploh slab glas« je zabavljal. »Stiskači so, ošabni, a brezvestni. In posebno ta Mihael; za vsakim ženskim krilom se lovi ...«</p>
             <p n="SL-WIKI00461829">»To ni res,« je Renata segla svojemu možu v besedo. Bilo ji je nemogoče še dlje poslušati tako obrekovanje moža, ki ga je ljubila z vso gorečnostjo svojega srca.</p>
             <p n="SL-WIKI00461830">Evzebija pa je Renatin ugovor, dasi je bil mirno izrečen, razdrazil do skrajnosti.</p>
-            <pb n="39"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-039.jpg"/>
             <p n="SL-WIKI00461831">»Kaj — ti ga še zagovarjaš?« je zakričal in vstal s stola ter se oprl ob mizo. »Ti se ga upaš pričo mene zagovarjati? Kaj ne uvidiš, kakšen sum mora to v meni vzbuditi.«</p>
             <p n="SL-WIKI00461832">»Evzebij — kako moreš tako govoriti?«</p>
             <p n="SL-WIKI00461833">»Govorim resnico. Morda bom moral dati svoje življenje, da operem tvojo čast — ali vse bolj vidim, da si me varala, da ljubiš tudi ti Mihaela, da si me izdala.«</p>
@@ -1017,8 +943,6 @@
             <p n="SL-WIKI00461842">» ... ljubim ... čez vse ... je jecljal stari mož in v tem trenotku padel na tla.</p>
             <p n="SL-WIKI00461843">»Jezus ... Evzebij ... ne umreti ... ne umreti,« je kričala Renata. Z močnima rokama je dvignila moža in ga stisnila k sebi. »Evzebij ... ali slišiš ... Evzebij ... govori...«</p>
             <p n="SL-WIKI00461844">Vse klicanje je bilo zaman, Evzebij baron Benalja je bil mrtev.</p>
-            <pb n="40"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-040.jpg"/>
             <p n="SL-WIKI00461845">S strahom v srcu je gledala Renata to staro truplo, ki je ležalo ob njenih nogah. Kako se je moglo to zgoditi. Spomnila se je, kar ji je zaupno povedal zdravnik tedaj, ko je Lenard Benalja prvič stopil pred svojega strica. Zdravnik je takrat opozarjal Renato, da ima njen mož srčno napako in da se ne sme razburiti.</p>
             <p n="SL-WIKI00461846">Dobrih deset minut se Renata ni ganila od svojega mrtvega moža.</p>
             <p n="SL-WIKI00461847">Šele ko je do cela premagala grozo, in se zavedla popolnoma, kaj se je zgodilo, tedaj se je takorekoč poživila.</p>
@@ -1034,8 +958,6 @@
             <p n="SL-WIKI00461857">»Mirna sem, ljubi gospod doktor. A zdaj sem sama na svetu. Nikogar nimam, ki bi mi šel na roko. Ali hočete Vi ukreniti, kar je za sedaj potrebno.«</p>
             <p n="SL-WIKI00461858">»Vse Vam naredim, milostiva,« je izjavil zdravnik. »Vi ste trudni in potrebni vsaj nekoliko počitka. Saj ni mala stvar tak prizor, kakor ste ga danes doživeli ...«</p>
             <p n="SL-WIKI00461859">»Da, malo počitka sem res potrebna,« je pritrdila Renata in odšla iz sobe, ko je bila poklicala hišno ključarko.</p>
-            <pb n="41"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-041.jpg"/>
             <p n="SL-WIKI00461860">Počasnih korakov je šla v svojo sobo in se vrgla na zofo. Tu se več ni bilo treba premagovati in zatajevati, tu je mogla svobodno dati duška svojim čustvom.</p>
             <p n="SL-WIKI00461861">Razjokala se je; njena bolest je bila pristna.</p>
             <p n="SL-WIKI00461862">Duša pokojnega barona Evzebija je mogla mirno počivati, zakaj Renata je žalovala po svojem možu iskreno. Ko bi njena bolest ne bila tako čista in iskrena, bi jo bila v tem stanju morala vsaj enkrat prešiniti misel, da je zdaj svobodna; nekako zadoščenje bi ji moralo biti, da ji zdaj ni treba več sile delati, da lahko svobodno posluša glas svojega srca in če hoče, se lahko tudi poroči z Mihaelom Kržinarjem.</p>
@@ -1050,8 +972,6 @@
             <p n="SL-WIKI00461871">Tako lepo in dobro je bilo vse napeljano. Kržinar je na Lesnem brdu - Renato bi bili pripeljali tja — Evzebij bi v svoji jezi nad to sramoto svoji ženi ničesar ne zapustil — nego vse meni — jaz bi bil spravil Rudečega Jakoba na vešala, Ogulina v ječo in bi bil vzel gospo Terezijo Ahčinovo ... Zdaj je ves ta lepi načrt pokvarjen.«</p>
             <p n="SL-WIKI00461872">Lenard bi bil rad govoril z Renato na samem. Morda je ugibal, bi se ji mogel vsiliti za oskrbnika njenega imetja ali celo za tolažnika. Toda Renata je bila napram Lenardu skrajno malobesedna in hladna in se ga je očitno izogibala. Še toliko ni mogel Lenard izvedeti, če je Evzebij zapustil oporoko.</p>
          </div>
-         <pb n="42"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-042.jpg"/>
          <div>
             <head>XII.</head>
             <p n="SL-WIKI00461873">Mihael Kržinar je energično poskrbel za varnost na Lesnem brdu. Rokovnjači so bili ravno napadli njegov grad in odgnali nekaj živine. Mihael je za dobro plačilo dobil dovolj ljudi, ki so bili pripravljeni iti ž njim na vojno zoper rokovnjače. Oborožil jih je in jih razdelil na več čet, ki so deloma stražile grad, deloma pa iskale v gozdih rokovnjačev.</p>
@@ -1079,8 +999,6 @@
             <p n="SL-WIKI00461895">»Lej ga — kaj bi se šalil. Dokler je živel baron Evzebij je bila tvoja ljubezen do Renate prava nesreča zanjo in zate. Bal sem se, fant moj, da ti uniči ta ljubezen mladost in veselje do življenja. Zato sem delal z vsemi silami na to, da bi se oženil s Terezijo Ahčinovo, ki je vesela in bogata ženska. Zdaj, ko je Evzebij mrtev, storiš najbolje, če zasnubiš Renato. Boljše žene, kakor je ona ne moreš dobiti.«</p>
             <p n="SL-WIKI00461896">»To je res — ali zdaj ni še čas o tem govoriti. Evzebij Benalja niti še pokopan ni.«</p>
             <p n="SL-WIKI00461897">»Moj bog, ali naj mar jokam za njim? Star je bil; njegov čas je potekel, naj v miru počiva, kar nas je živih pa smemo vendar računati s tem, da je izginila ovira, ki je ločila tebe in Renato.«</p>
-            <pb n="43"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-043.jpg"/>
             <p n="SL-WIKI00461898">»Ljubi oče — nikar se ne prenaglite. Saj še jaz ne vem, če bi me Renata hotela vzeti.«</p>
             <p n="SL-WIKI00461899">»Kaj — tebe — pa da ne bi vzela? Ne bodi smešen, Mihael. Vsaka, prav vsaka bi te z veseljem vzela, Renata pa tembolj, ker te ljubi.«</p>
             <p n="SL-WIKI00461900">»Gotovosti nimam nobene, da me Renata ljubi. Nikdar ni izdala, če kaj čuti zame. Renata ni taka, kakršne so druge ženske. V vsem je drugačna. Eno leto vsaj se ji sploh ne smem približati. Eno leto bo gotovo žalovala po možu in hudo bi zamerila, če bi se ji v tem času približal z ljubezenskimi in ženitovanjskimi ponudbami.</p>
@@ -1093,8 +1011,6 @@
             <p n="SL-WIKI00461907">Užaljena se je dvignila Renata in je ostro zaklicala.</p>
             <p n="SL-WIKI00461908">»Gospod baron — kaj hočete s tem reči.«</p>
             <p n="SL-WIKI00461909">»Ne razburjajte se, milostiva baronica« jo je miril notar. »Gospod baron Lenard mi lahko verjame, da sem jaz še prigovarjal baronu Evzebiju, naj se njega in njegovih bratov in sester spominja v oporoki, a tega ni hotel storiti na noben način.«</p>
-            <pb n="44"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-044.jpg"/>
             <p n="SL-WIKI00461910">Renata si je v svoji pravicoljubnosti štela v dolžnost opozoriti notarja na okoliščino, ki se ji je zdela važna.</p>
             <p n="SL-WIKI00461911">»Kolikor je meni znano, sta moj pokojni mož in baron Lenard vedno prijateljsko občevala in se mi čudno zdi, da se moj mož na svoje sorodnike ni nič oziral.«</p>
             <p n="SL-WIKI00461912">»Saj jih ni popolnoma pozabil« je smehljaje rekel notar, »samo v oporoki jih ni hotel omeniti. Plačal je pa dolg, ki je vknjižen na njihovem posestvu. Dotične pobotnice je izročil meni v shrambo z naročilom, da jih izročim baronici Eleonori in baronici Ceciliji — ker je ta dar njima namenjen.«</p>
@@ -1121,8 +1037,6 @@
             <p n="SL-WIKI00461933">Zdaj ji je pokojni mož zapustil vse svoje imetje. V izraz hvaležnosti za njeno dobroto, ljubezen in velikodušnost, kakor je bilo zapisano v oporoki. S polno pravico si je rekla, da sme v tem smislu denar sprejeti, v polni zavesti, da je bila poštena, zvesta, dobrotna in velikodušna žena.</p>
             <p n="SL-WIKI00461934">Zdaj je bila bogata — a vsi oni so ležali pod zemljo, ki so ž njo vred toliko jokali in trpeli zaradi uboštva.</p>
          </div>
-         <pb n="45"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-045.jpg"/>
          <div>
             <head>XIII.</head>
             <p n="SL-WIKI00461935">Na željo cesarskega notarja, ki je prevzel uredbo zapuščine pokojnega barona Evzebija, je ostala Renata v Ljubljani, vendar je imela namen, da odide čim prej mogoče na deželo, daleč na Dolenjsko, kjer so ležali vinogradi pokojnega njenega moža in kjer je vsako leto prebila nekaj tednov ob času trgatve. Tu je hotela v samoti preživeti čas žalovanja in v miru ter nemoteno storiti primerne sklepe za svojo prihodnjost.</p>
@@ -1146,8 +1060,6 @@
             <p n="SL-WIKI00461953">»Ni bilo nič posebnega, milostiva baronica.«</p>
             <p n="SL-WIKI00461954">»Ni bilo prav, da ste se dvobojevali.« Renata je z veliko resnobo pogledala Mihaelu v oči. »Ni mi znan vzrok dvoboju, a naj je bil kateri koli, to ni bilo prav, da ste se dvobojevali.«</p>
             <p n="SL-WIKI00461955">»Časih je človek primoran poslužiti se tega najskrajnejšega sredstva.«</p>
-            <pb n="46"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-046.jpg"/>
             <p n="SL-WIKI00461956">»In prouzroči s tem veliko nesrečo« je naglo dejala baronica Renata.</p>
             <p n="SL-WIKI00461957">Spomnila se je večera, ko jo je njen pokojni mož obsul z očitanji zaradi tega dvoboja in potem pred njo umrl.</p>
             <p n="SL-WIKI00461958">»Pride čas, ko vas bom vprašala, kaj je bil vzrok tega dvoboja je rekla čez nekaj trenotkov »in takrat vam bom tudi povedala, kako nesrečo je prouzročil.«</p>
@@ -1170,8 +1082,6 @@
             <p n="SL-WIKI00461975">Razšla sta se. Renata je kaznovala sama sebe s tem, da Mihaelu ni dala roke. Videla je, kako ga to boli, videla je žalost v njegovih očeh, a vender ga je pustila tako oditi. Eno leto je hotela posvetiti spominu svojega moža, popolnoma in neprikrajšano, in žal ji je bilo resnično, da je že zdaj grešila proti tej zaobljubi.</p>
             <p n="SL-WIKI00461976">»Kako bo mogoče prebiti celo leto, če sem že sedaj tako slaba, da ga le vidim.«</p>
             <p n="SL-WIKI00461977">Uro po Mihaelovem odhodu je baron Lenard Benalja že vedel, da je bil njegov tekmec pri Renati. Stiskal je pesti in prisegal sam pri sebi, da je bil to zadnji obisk Mihaelov v Renatini hiši.</p>
-            <pb n="47"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-047.jpg"/>
             <p n="SL-WIKI00461978">Lenard baron Benalja je bil v obupnem položaju. Denarja ni imel. Poprej mu je njegov stric dajal v mesečnih obrokih one tolarje, ki si jih je bil izgovoril. Sedaj ni dobival ničesar in podedoval tudi ni ničesar. Še za stanovanje ni imel.</p>
             <p n="SL-WIKI00461979">Ko je z Rudečim Jakobom sklenil krvno pogodbo, je lahkega srca obljubil, da pošlje Eleonoro in vso svojo rodovino na strmolsko pristavo pri Cerkljah in jih takorekoč izroči rokovnjaškemu poglavarju kot jamstvo, da izpolni tudi on pogodbo. Lenard ni nikdar mislil, da bo moral to obljubo tudi resnično izvršiti. Računal je, da čim izvrši Rdeči Jakob kar je obljubil, ga Lenard izda gosposki in ga spravi na vešala, s čimer bi bil ves račun poravnan.</p>
             <p n="SL-WIKI00461980">Toda nesreča ga ni zapustila. Evzebij je umrl, predno je bila Renata odpeljana in tudi Kržinar je utekel namenjeni mu usodi. Povrh, pa zdaj ni bilo denarja, niti toliko, da bi se bil mogel Lenard preživljati.</p>
@@ -1201,8 +1111,7 @@
             <p n="SL-WIKI004611001">»To bomo kmalu izvedeli« je menil mitničar.</p>
             <p n="SL-WIKI004611002">Voz je ustavil. Mitničar je prejel običajno plačilo in nesel potno dovoljenje baronice Renate stražniku v sobo na upogled.</p>
             <p n="SL-WIKI004611003">»Če daš za kozarec brinovca, pa ti povem, kdo je ta gospa, ki se tu pelje in kam da gre.«</p>
-            <p n="SL-WIKI004611004">Mitničar je vse to čital v potnem dovoljenju in Matjok je dobil za <pb n="48"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-048.jpg"/> kozarček brinovca najboljše pojasnilo.</p>
+            <p n="SL-WIKI004611004">Mitničar je vse to čital v potnem dovoljenju in Matjok je dobil za  kozarček brinovca najboljše pojasnilo.</p>
             <p n="SL-WIKI004611005">Od dolenjske mitnice jo je Matjok mahnil okrog grada v mesto, kajti v točilnici pri »bidelmonu« poleg rotovža so se od šeste do osme ure zjutraj shajali različni mestni uslužbenci, da se pokrepčajo z brinovčkom ali slivovko za naporno svojo službo.</p>
             <p n="SL-WIKI004611006">Matjok je na prvi pogled spoznal, da se je moralo zgoditi nekaj posebnega, nekaj silno važnega, kajti magistratni uslužbenci so stikali glave in govorili tako razburjeno, da niti Matjokovega prihoda niso zapazili. Skromni zakotni krojaček Matjok se seveda ni upal pridružiti se mogočnim magistratnim uslužbencem. Ponižno se je vsedel k vratom, naročil svoj brinovček in vzel svoj molek v roke. Molil seveda ni, nego vlekel na ušesa kar se je dalo.</p>
             <p n="SL-WIKI004611007">Že koj pri prvih besedah bi bil Matjok skoro skoprnel. Razumel ni vsega, kar se je govorilo, a slišal je vsaj toliko, da je zvezo lahko uganil. Bilo mu je jasno, da preti njegovemu gospodarju in dobrotniku Rdečemu Jakobu silna nevarnost, da je izdan in da pojdejo vojaki še ta dan od treh strani lovit rokovnjaško družbo.</p>
@@ -1217,8 +1126,6 @@
             <p n="SL-WIKI004611016">»Varnejši si v mestu, kakor bi bil zunaj pri nas. Bodi pameten. Ostani tu in poizveduj dalje. Rdeči Jakob bo tvojo zvestobo kraljevsko poplačal.«</p>
             <p n="SL-WIKI004611017">Matjok je ostal v mostu, v svojem stanovanju je odstranil vse, kar bi ga bilo moglo izdati, svoj denar je skrbno skril in potem hodil po krčmah in zabavljal na rokovnjače, da se je delala tema ter hvalil in slavil gosposko, ki tako energično čuva javno varnost.</p>
             <p n="SL-WIKI004611018">»Bog daj in mati božja in moj patron, da bi vojaki ujeli rokovnjače in jih vse obesili,« s temi besedami je končal Matjok v vsaki krčmi pogovor o rokovnjačih, dokler niso začele obilne množice zavžitega brinovca nanj vplivati. Strah, ki mu je razjedal srce, mu je dajal moč, da je pil čez vse mere in naposled nezavesten obležal v neki krčmi. Spravili so ga v hlev, da bi tam prespal svojo pijanost, a ni se več prebudil. Žganje ga je bilo umorilo.</p>
-            <pb n="49"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-049.jpg"/>
             <p n="SL-WIKI004611019">Lenard baron Benalja je šele popoldne izvedel o uspehu svojega pisma na policijsko ravnateljstvo. V kavarni so mu povedali, da je dobilo policijsko ravnateljstvo brezimno ovadbo, ki je pa navajala take natančnosti, da ni dvoma, da je neki rokovnjač sam izdal svoje tovariše. V gosposkih in meščanskih krogih je stvar vzbujala velikansko senzacijo, ker je bil vanjo zapleten Štefan vitez Ogulin. Policijsko ravnateljstvo je bilo v dvomih, če je Ogulin res zapleten v rokovnjaško družbo. Mislilo je, da ga hoče kdo iz kake maščevalnosti osumničiti. Zato je uradnik, ki je imel nočno službo ter dobil pismo še predno je bil dan — ker je Lenard zapisal na naslov »silno modno — skrajna nevarnost« — dal poklicati policijskega ravnatelja iz spanja in mu stvar naznanil. Ravnatelj je odredil, naj gre komisar z dvema detektivoma Ogulina iskat na dom, naj ga tam zasliši in izvrši hišno preiskavo, a šele če dobi vsaj nekaj dokazov za njegovo krivdo, naj ga aretira. Ogulin je pa pravočasno posvarjen pobegnil, in vsa Ljubljana je bila prepričana, da je bila obdolžitev utemeljena in Ogulin res zaveznik rokovnjaške družbe.</p>
             <p n="SL-WIKI004611020">Najbolj je bilo o tem prepričano policijsko ravnateljstvo, ker je pri hišni preiskavi našlo več sumljivih stvari, pričujočih da je bil Ogulin nevaren človek.</p>
             <p n="SL-WIKI004611021">Lenard baron Benalja je dobro igral svojo vlogo. Zabavljal je na ljudi, kako da so se mogli dati toliko časa varati in se jezil sam nase, da si je v svoji dvobojni zadevi izbral takega sekundanta. V svoje opravičevanje pa je navajal, da je še malo časa v Ljubljani in da se od njega ne sme pričakovati, da bo ljudi bolje poznal, kakor tisti, ki so že dolgo z njimi znani.</p>
@@ -1237,8 +1144,7 @@
             <p n="SL-WIKI004611034">Samo izreden slučaj, samo pravi čudež je mogel pomagati, da bi bil Lenard še kdaj videl svoji sestri in svoja brata, a on si niti želel ni, da bi se to še zgodilo. Da sta postali sestri rokovnjaški ljubici, to je bilo gotovo, ravnotako da sta tudi brata bila izgubljena.</p>
             <p n="SL-WIKI004611035">Počasi se je razblinilo zanimanje Ljubljane za usodo rodovine Benalja. Lenardu se je polagoma zdravje zboljševalo. Obupanost zaradi sester in bratov ga je začela zapuščati. V bistvu je bil trd, neusmiljen in brezsrčen človek, dasi je imel rad svoje brate in sestre. A natura njegovega značaja je pomagala, da se je pri njem hitreje začela celiti rana, ki mu jo je zadala nesreča sester in bratov, kakor bi se bilo to moglo zgoditi pri kakem drugem človeku.</p>
             <p n="SL-WIKI004611036">Zato pa je s toliko večjo močjo pritisnila nanj skrb za obstanek. Zadolžen je bil zdaj do skrajnosti, a znal ni ničesar, s čimur bi si bil mogel služiti kruh in edinole bogata nevesta ga je mogla rešiti in mu omogočiti obstanek, kakršnega si je želel.</p>
-            <p n="SL-WIKI004611037">Preiskava proti zaprtim kmetom in kmeticam, osumljenim, da so bili zavezniki in pomočniki ubegle rokovnjaške čete Rdečega Jakoba je šla med tem svojo pot. Osumljenci so pač tajili in se branili vsake krivde, a prišli so polagoma v svojih izpovedbah v vedno večja nasprotja. Zdaj in zdaj se je ta ali oni kako zarekel. Iz teh nesoglasij in protislovij se je začela porajati pri preiskovalnem sodniku slutnja, da odpeljani bratje in sestre barona Lenarda Benalje vendar niso samo žrtve rokovnjaške sovražnosti in maščevalnosti, marveč da so morali imeti z rokovnjači tajne in to zelo sumljive stike. Nova vse ostrejša in natančnejša zasliševanja <pb n="50"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-050.jpg"/> so to slutnjo podkrepila tako, da je naposled padla temna senca na Lenarda Benaljo samega.</p>
+            <p n="SL-WIKI004611037">Preiskava proti zaprtim kmetom in kmeticam, osumljenim, da so bili zavezniki in pomočniki ubegle rokovnjaške čete Rdečega Jakoba je šla med tem svojo pot. Osumljenci so pač tajili in se branili vsake krivde, a prišli so polagoma v svojih izpovedbah v vedno večja nasprotja. Zdaj in zdaj se je ta ali oni kako zarekel. Iz teh nesoglasij in protislovij se je začela porajati pri preiskovalnem sodniku slutnja, da odpeljani bratje in sestre barona Lenarda Benalje vendar niso samo žrtve rokovnjaške sovražnosti in maščevalnosti, marveč da so morali imeti z rokovnjači tajne in to zelo sumljive stike. Nova vse ostrejša in natančnejša zasliševanja  so to slutnjo podkrepila tako, da je naposled padla temna senca na Lenarda Benaljo samega.</p>
             <p n="SL-WIKI004611038">Oblastveni krogi so se šele zdaj začeli resneje zanimati za Lenarda Benaljo. Kdo se je prej zanj menil? Zadostovalo je, da ga je baron Evzebij Benalja priznal za svojega netjaka in vsa vrata so se mu odprla. Nihče ni vprašal, kje je bil poprej, kako je živel. Zdaj je to začelo oblastvene kroge kar najbolj zanimati in uvedli so sicer tajne a natančne poizvedbe.</p>
             <p n="SL-WIKI004611039">Lenard ni o tem ničesar vedel in ni ničesar slišal. A nekaj ljubljanskih gospodov, ki so bili v ožji dotiki z oblastvenimi krogi, so kmalu izvedeli, kaj se godi in eden prvih med temi je bil Mihael Kržinar.</p>
             <p n="SL-WIKI004611040">Lenard mu je bil vedno precej dvomljiv človek. Od dvoboja sem, ko ga je Lenard dvakrat poskusil zavratno umoriti, je bil prepričan, da je to nevaren človek, sposoben vsakega zločina. Ko je izvedel, da ga ima oblast na sumu, da je bil celo zaveznik rokovnjačev in išče dokazov za njegovo krivdo, se ni prav nič čudil, pač pa ga je spreletela slutnja, da je morda Lenard sam iz katerihkoli nagibov napravil ovadbo zoper rokovnjače, ti so se mu pa maščevali s tem, da so odpeljali njegove brate in sestre seboj.</p>
@@ -1262,8 +1168,6 @@
             <p n="SL-WIKI004611058">Stopil je tik pred lakaja in mu srepo pogledal v oči. Lakaj se ni zganil, kakor skala je stal pred Mihaelom. Mihael si je bil svest, da ta človek ni lakaj.</p>
             <p n="SL-WIKI004611059">»Izročim vam pisma pod enim pogojem« je rekel rdečelasi tujec, »da mi jih namreč čez pol ure pošljete po svoji služkinji pred hišo, kjer imam konja. Prijezdil sem namreč ravnokar v mesto. Pismom so dodani prepisi; primerjajte izvirnike s prepisi in potem mi vrnite izvirnike. Ali mi daste na to svojo častno besedo.«</p>
             <p n="SL-WIKI004611060">»Dam jo — na mojo čast, da storim, kakor zahtevate.«</p>
-            <pb n="51"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-051.jpg"/>
             <p n="SL-WIKI004611061">Za lakaja oblečeni tujec je vzel iz žepa zavoj pisem in jih je položil na mizo.</p>
             <p n="SL-WIKI004611062">»Zaupam vaši častni besedi« je dejal s povdarkom »in vam torej izročam pisma in prepise. Čakal bom pred hišo.«</p>
             <p n="SL-WIKI004611063">Hlastno je Mihael odvezal in razgrnil pisma — komaj jih je bil nekaj z očmi preletel, bi bil skoraj zakričal presenečenja. Ozrl se je po lakaju, a ta je bil že odšel; s ceste se je čulo, da nekdo pred hišo jaše gor in dol.</p>
@@ -1281,16 +1185,13 @@
             <p n="SL-WIKI004611075">»Izpridena laška in ciganska kri« — tako je nekje v teh pismih govoril Lenard sam o sebi in te besede so Mihaelu neprestano krožile po mislih.</p>
             <p n="SL-WIKI004611076">Dolgo je ugibal, kaj naj stori. Spoznal je, da bo sodna preiskava, ki je spravila Lenarda v velik suni, počasi gotovo še toliko dognala, da bo sodnija začela tudi proti Lenardu postopati in zdelo se mu je, da Lenard ne more uteči svoji usodi. Kdor ima toliko na vesti se ne reši več.</p>
             <p n="SL-WIKI004611077">»Ali naj vse naznanim policijskemu ravnatelja in mu izročim ta pisma?« tako se je vpraševal Mihael. Pamet mu je velevala, naj tako stori, srce pa mu je govorilo, da ne — zaradi Renate ne.</p>
-            <p n="SL-WIKI004611078">Renata in Lenard! Spominjal se je Mihael, kako se je Lenard prizadeval, da bi si pridobil Renato in spominjal se je tudi, da ga je ta človek poskusil dvakrat zavratno umoriti <pb n="52"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-052.jpg"/> ter v tretje najel razbojnike, da bi ga ubili.</p>
+            <p n="SL-WIKI004611078">Renata in Lenard! Spominjal se je Mihael, kako se je Lenard prizadeval, da bi si pridobil Renato in spominjal se je tudi, da ga je ta človek poskusil dvakrat zavratno umoriti  ter v tretje najel razbojnike, da bi ga ubili.</p>
             <p n="SL-WIKI004611079">»Mrčes je ta človek, ki zasluži vešala, ali da prihranim Renati žalost in razburjenje in da ji dokažem, da sem po svojem ljubezni, storim to, kar bi Renata storila na mojem mestu.«</p>
             <p n="SL-WIKI004611080">Vzel je pisma in vzlic pozni uri je šel iskat Lenarda Benaljo na njegov dom. V pritličju dotične hiše je bila znana krčma, v kateri so bili še veseli gostje, vsled česar so bila vrata še odprta. Ne da bi ga bil kdo opazil, je prišel Mihael v prvo nadstropje, kjer je iztaknil žensko, ki ga je po dolgem obotavljanju peljala v Lenardovo sobo.</p>
             <p n="SL-WIKI004611081">Kakor da je bila oplenjena, tako je izgledala ta soba. Lenarda je revščina silila prodajati pohištvo komad za komadom. Ker mu celo gostilničar v hiši brez plačila že ničesar ni hotel več dati. V sobi je bila samo miza in revna postelja, na kateri je Ležal Lenard.</p>
             <p n="SL-WIKI004611082">Plaho je Lenard dvignil glavo, ko je Mihael vstopil v sobo in v skrajnem iznenadenju je zaklical:</p>
             <p n="SL-WIKI004611083">»Vi — vi — kaj hočete od mene — tako pozno ponoči.«</p>
             <p n="SL-WIKI004611084">»Ne prihajam kot sovražnik« je rekel Mihael resno in nekako slovesno. Nimam sicer nobenega vzroka, da bi vam bil prijatelj, tudi kot človek ne morem imeti z vami usmiljenja ...«</p>
-            <pb n="53"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-053.jpg"/>
             <p n="SL-WIKI004611085">»Kaj torej hočete od mene?« se je razlutil Lenard. »Jaz ne potrebujem ne vašega prijateljstva, ne vašega usmiljenja.«</p>
             <p n="SL-WIKI004611086">»Ne ponujam vam ne enega, ne drugega«, je ostro in zaničljivo odgovoril Mihael.</p>
             <p n="SL-WIKI004611087">»Tega vi sploh vredni niste. A ker nosite tisto ime, kakor baronica Renata, zato sem vas prišel svarit.«</p>
