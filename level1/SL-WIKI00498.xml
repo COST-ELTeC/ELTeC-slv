@@ -20,7 +20,7 @@
             <measure unit="pages">80</measure>
          </extent>
          <publicationStmt xml:lang="en">
-            <p>Added to ELTeC <date>2019-01-17</date>
+            <p>Added to ELTeC <date>2019-04-12</date>
             </p>
          </publicationStmt>
          <sourceDesc>
@@ -56,7 +56,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change xml:lang="en" when="2019-01-17">
+         <change xml:lang="en" when="2019-04-12">
             <name>Tomaž Erjavec</name>: converted to ELTeC</change>
          <change when="2015-04-03">
             <name>Tomaž Erjavec</name>: meta-data, normalisation.</change>
@@ -67,8 +67,6 @@
    </teiHeader>
    <text xml:lang="sl">
       <body xml:lang="sl">
-         <pb n="1"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-001.jpg"/>
          <div>
             <head>I.</head>
             <p n="SL-WIKI004981">Upokojeni oficial Janez Trpotec je sedel v tesni spalnici in se tiščal peči. Ni še pritisnila zima, komaj hladna jesen, pa je mož že zavijal revmatične noge s staro plahto in premestil oguljeni naslanjač od okna k peči.</p>
@@ -90,8 +88,6 @@
             <p n="SL-WIKI0049817">Baruša je skomizgnila z rameni. Mož jo je gledal vprašujoče, in ker ni odgovorila, je začel vnovič sam:</p>
             <p n="SL-WIKI0049818">„O, poznam te, Baruša; vse dobre matere ste take. Kakor kokljica bi rada imela do smrti vse otroke pod perotmi. Lepo je to, nič ne rečem, in blagor se jim, ki to morejo. Vsak pa ne more, mi tudi ne! Menda je dosti za očeta, ako zaradi otrok komaj eno samo smotko na mesec pokadi, da se prihrani vsak vinar. Menda je dosti, ali ne?“</p>
             <p n="SL-WIKI0049819">„In če bi jih deset, nihče bi ti jih ne oponesel.“</p>
-            <pb n="2"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-002.jpg"/>
             <p n="SL-WIKI0049820">Trpotec je pogledal vnovič na inserat in na ženino opombo ni odgovoril. Zakaj zgodovina njegovega zakonskega življenja je pričala drugače, kakor je trdila Baruša.</p>
             <p n="SL-WIKI0049821">„Po moji pameti in previdnosti se stvar ne da kar nič odlašati. Zato bi sodil: pokliči Aleno in zmenimo se vpričo nje.“</p>
             <p n="SL-WIKI0049822">Za par hipov je že privrela hčerka Alena v sobo.</p>
@@ -114,8 +110,7 @@
             <p n="SL-WIKI0049839">„Stran ...“</p>
             <p n="SL-WIKI0049840">Oče in mati sta zaeno ponovila to besedo, ki je zabolela kakor rana v srcu. Oči so se jima ovlažile.</p>
             <p n="SL-WIKI0049841">Alena se je v hipu, ko je rezko izgovorila to besedo, sama preplašila izgovorjene besede in se zavedela, da je žalila. Iztegnila je roke, da so zdrsnili ohlapni rokavci nad komolce, in objela oba, očeta in mater, ki sta še z bolečino v srcu takoj odpuščala tej vroči krvi, ki je dehtela iz njenih poljubov, od njenih belih rok.</p>
-            <p n="SL-WIKI0049842">„Oprostita, ne zamerita, nisem mislila tako, nisem žalila, vaju bi tako rada imela pri sebi — vaju, samo vaju — ali vse drugo — to postopanje — ta prazni nič — to me goni proč — samo to <pb n="3"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-003.jpg"/>— in da bi gledala, kako si na starost zaradi mene ne smete nič privoščiti — to me peče — odpustita!“</p>
+            <p n="SL-WIKI0049842">„Oprostita, ne zamerita, nisem mislila tako, nisem žalila, vaju bi tako rada imela pri sebi — vaju, samo vaju — ali vse drugo — to postopanje — ta prazni nič — to me goni proč — samo to — in da bi gledala, kako si na starost zaradi mene ne smete nič privoščiti — to me peče — odpustita!“</p>
             <p n="SL-WIKI0049843">Alena je razklenila roke, pa prijela očetovo staro glavo med dlani in ga še enkrat poljubila v lice in takisto poljubila mater.</p>
             <p n="SL-WIKI0049844">Še so se svetile oči pritajenih solz, svetile očetu in materi in hčeri — ali te solze niso bile več grenke, to je bila sladkost, kakor jo rodi ljubezen, ki je pognala svoj sad na deblu družine.</p>
             <p n="SL-WIKI0049845">„Alenčica, oj, vedno si bila taka. Blisk in vihar — potem pa solze. Vidiš, otrok, zato se bojim zate.“</p>
@@ -146,8 +141,7 @@
             <p n="SL-WIKI0049870">„Ne pojutrišnjem, mama, kar jutri — jutri!“</p>
             <p n="SL-WIKI0049871">„No, pa jutri! Katero obleko bi, kaj misliš, Alena?“</p>
             <p n="SL-WIKI0049872">„Najlepše nikar za na kmete in na pot. Utegne deževati, ker me tako prijemlje v kolenih.“</p>
-            <p n="SL-WIKI0049873">„Oče, ti si čuden, ne razumeš! Najlepšo oblečeš, Alena, tisto moderno, in jaz tudi! Ne sme misliti zunaj tisti kmet, tisti Štefan, — bogve, kakšno ženo ima —, da sva prišli vbogajme prosit. Alena je uradniška hči — visoko izobražena, z maturo; bi pa prišla prvič taka med tuje ljudi, da bi rekli, lej, kako je posvaljkana in utepena! Še tega je treba, Alena, le nobel! Naj zvedo tam zunaj, da si iz Ljubljane, da nismo kar tako! In pomisli, oče, — Baruša se je razgrela in se s širokimi gestami okrenila k možu — to pomisli, kako napneva vse drugačno ceno za šolanje tistega paglavca, če sva tudi na oči to, kar sva. E, ljubček, poznam svet! In da mi daš denarja dovolj! Sicer <pb n="4"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-004.jpg"/>ostaneva obe doma. S kolodvora se popeljeva z izvoščkom, da veš!“</p>
+            <p n="SL-WIKI0049873">„Oče, ti si čuden, ne razumeš! Najlepšo oblečeš, Alena, tisto moderno, in jaz tudi! Ne sme misliti zunaj tisti kmet, tisti Štefan, — bogve, kakšno ženo ima —, da sva prišli vbogajme prosit. Alena je uradniška hči — visoko izobražena, z maturo; bi pa prišla prvič taka med tuje ljudi, da bi rekli, lej, kako je posvaljkana in utepena! Še tega je treba, Alena, le nobel! Naj zvedo tam zunaj, da si iz Ljubljane, da nismo kar tako! In pomisli, oče, — Baruša se je razgrela in se s širokimi gestami okrenila k možu — to pomisli, kako napneva vse drugačno ceno za šolanje tistega paglavca, če sva tudi na oči to, kar sva. E, ljubček, poznam svet! In da mi daš denarja dovolj! Sicer ostaneva obe doma. S kolodvora se popeljeva z izvoščkom, da veš!“</p>
             <p n="SL-WIKI0049874">„U, pol ure,“ je nenadoma zaskrbelo moža, ko je pomislil na ta po njegovi pameti čisto nepotrebni strošek.</p>
             <p n="SL-WIKI0049875">„Seve, pol ure, pol ure, — pet ur ti še hodim, zlahka, pet, tukaj pa ne, še pet minut ne! Da mi poreče kdo: o, škandal, taka gospoda pa peš! Seveda!“</p>
             <p n="SL-WIKI0049876">„Mama, in če ne bo voza?“</p>
@@ -179,8 +173,6 @@
             <p n="SL-WIKI00498102">„Ali jo boš pod lonec poveznila? Kakšna si!“</p>
             <p n="SL-WIKI00498103">„Kakšen si pa ti in vsi moški! Ali je treba, da se potika toliko takih deklet, ki so učene in lepe in poštenih rodbin, križem sveta. Ali je tega treba?“</p>
             <p n="SL-WIKI00498104">„Treba? Seveda bi ne bilo treba, če bi jim kdo vsako jutro nasul mizo z mano. Ta je pa skopnela v puščavi in je ni več.“</p>
-            <pb n="5"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-005.jpg"/>
             <p n="SL-WIKI00498105">„Nalašč me ne razumeš, ker me nočeš, ker ste moški vsi enaki, sem že rekla. Koliko je ženinov, ki so pri dobrem kruhu, pa mar je komu pridne in dobre in lepe! Nič!“</p>
             <p n="SL-WIKI00498106">„Ljuba duša, ali si čudna! Če hoče ženska moža, mora prav zaradi njega v svet, zaradi njega, da veš!“</p>
             <p n="SL-WIKI00498107">„Kako pa! Ženske naj nore za moškimi! Narobesvet!“</p>
@@ -195,8 +187,6 @@
             <p n="SL-WIKI00498116">Ko je stala pred zrcalom in si spletala kodre v tenke kitice, jo je prvič v življenju prevzelo s čudovito silo omamno, gizdavo čuvstvo. Prevzelo jo je s toliko močjo, da je videla v steklu, kako je zardela sama pred seboj. In takrat so se stene njene ozke sobice še bolj stisnile, strop se je ponižal prav do nje, da je srce občutilo tesnobo. Nemirno je vztrepetalo in koprnelo: vun — vun — v svet — v življenje! Dajte solnca roži, dajte bele ceste in prostranega neba tej duši, dajte dvoran in blestečih kandelabrov temu prelestnemu telesu, dajte piti skritim sanjam iz studenca živih ...</p>
             <p n="SL-WIKI00498117">Vsa je vztrepetala, vsa drhtela. Široko odprtih oči hrepeneči sijaj je žarel v zrcalu, žarel in gledal za nepoznanimi cilji v daljavo, kjer je solnce, kjer je luč, kjer se smeja prostranost ... Strop se je višal, stene se razmikale in kakor omotično se je zazibala bela postelj. In v njenih mislih ni bilo ne grenkobe slovesa, ni bilo oči materinih in ne očetovih, njene misli so bile same rože, in nad rožami skrivnostni vonj, nepoznan in neokusen, in vendar je tako silno žejalo po tem slaju njeno dušo.</p>
          </div>
-         <pb n="6"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-006.jpg"/>
          <div>
             <head>II.</head>
             <p n="SL-WIKI00498118">Dobro dolgo se je zasedel Janez Trpotec tistega dne pri „Zlati rački“, ko sta žena in hči iskali službe pri Smrekarju. Dokler je bil doma, je bil nemiren in razburjen. Pogledaval je na uro in glasno momljal sam s seboj.</p>
@@ -213,8 +203,7 @@
             <p n="SL-WIKI00498129">In ker je bilo v njegovem srcu veselja veliko in nad njim trdna zavest, da ga nihče ne nadzoruje, jo je zavil še v kavarno ter tam po črnem posrebal šilec slivovke.</p>
             <p n="SL-WIKI00498130">Kaj dobre volje in čudovito zdravih nog se je še nekoliko poizprehodil, preden se je nameril domov. Pred durmi se je hipoma zopet domislil žene in hčere ter se je ustrašil, kaj da je tako pozabil nanji. Zato se je tik pred vratmi okrenil, šel v trgovino in se vrnil obložen domov. Tu je razpostavil po mizi par buteljk piva, mrzli prigrizek, štručke rženega in maslenega kruha, krožnike in kozarce in primaknil tri stole k mizi. Med delom se je pogovarjal sam s seboj.</p>
             <p n="SL-WIKI00498131">„Viž, Baruša, kaj sem pripravil? Vem, da si trudna, ti in Alenčica. — Takole, ti boš tu — Alenčica meni vis-a-vis — pa se pokrepčamo in pomenimo. —“</p>
-            <p n="SL-WIKI00498132">Ko je dovršii delo ob mizi, je sedel v naslanjač, trdno prepričan, da samo za pol urice; potem pa <pb n="7"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-007.jpg"/>jima gre naproti do kolodvora. Nalašč, dasi je zjutraj rekel, da ji počaka doma. Nalašč, da ji preseneti in jima dokaže, da si je samo zato nakačil brke in za nič drugega ne. Tako je sklenil in upognil glavo na prsi in zadremal. — —</p>
+            <p n="SL-WIKI00498132">Ko je dovršii delo ob mizi, je sedel v naslanjač, trdno prepričan, da samo za pol urice; potem pa jima gre naproti do kolodvora. Nalašč, dasi je zjutraj rekel, da ji počaka doma. Nalašč, da ji preseneti in jima dokaže, da si je samo zato nakačil brke in za nič drugega ne. Tako je sklenil in upognil glavo na prsi in zadremal. — —</p>
             <p n="SL-WIKI00498133">Nad Ljubljano je ležala megla, lena in pusta jesenska megla. Po ulicah so že gorele svetilke, obdane z meglenimi kolobarji. V sobi Janeza Trpotca pa ni gorela luč. Kakor je mož sedel in se upognil, tako je sedel in spal v naslanjaču. Celo tedaj se ni prebudil, ko so zacvrkale deske pred vratmi, ko so se ta veselo odprla in sta stopili v sobo Baruša in Alena.</p>
             <p n="SL-WIKI00498134">„Moj Bog,“ se je zavzela Baruša strahoma, „moj Bog, Alena, ni ga, očeta ni — in vse odprto! Alena, luč, hitro luč!“</p>
             <p n="SL-WIKI00498135">Ob tem klicu je zahrkalo v kotu. Alena je prasknila luč — Trpotec je izpregledal, se ustrašil, začudil in se razveselil.</p>
@@ -253,8 +242,6 @@
             <p n="SL-WIKI00498168">„Papa, kaj je naredil med kosilom!“</p>
             <p n="SL-WIKI00498169">„Povej, povej, Alena!“</p>
             <p n="SL-WIKI00498170">Obe sta se zasmejali.</p>
-            <pb n="8"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-008.jpg"/>
             <p n="SL-WIKI00498171">Trpotec je pa poprijel za besedo „kosilo“ in poizkusil to vrzel zamašiti.</p>
             <p n="SL-WIKI00498172">„Kosilo? Je bilo?“</p>
             <p n="SL-WIKI00498173">Baruša je tlesknila z jezikom in pokazala od dobrega vina razpaljena lica.</p>
@@ -297,8 +284,6 @@
             <p n="SL-WIKI00498207">Tedaj se je Alena iztrgala iz materinega objema, stisnila ustnice in si otrla solzne oči.</p>
             <p n="SL-WIKI00498208">„Ne, papá! Grem!“</p>
             <p n="SL-WIKI00498209">Iz teh besed je zvenela odločna volja in je govoril protest njenega srca, da te grenke ure ne želi živeti vnovič.</p>
-            <pb n="9"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-009.jpg"/>
             <p n="SL-WIKI00498210">„Z Bogom, papa! Bog ti povrni trud in ljubezen.“</p>
             <p n="SL-WIKI00498211">Hči je poljubila očetu roko, ki je krčevito stiskala njeno in drgetala bolesti.</p>
             <p n="SL-WIKI00498212">„Bog s teboj, moj otrok, moja — Alenčica —“</p>
@@ -331,8 +316,6 @@
             <p n="SL-WIKI00498239">„Da, po opisu gospe Smrekarjeve. Tako ste ji namreč imponirali, da je bila kar očarana!“</p>
             <p n="SL-WIKI00498240">Alena je bila še preveč otrok, da bi se ji ne bile prilegle te laskave besede. Domislila se je sicer imenitne dame, ki je dvorljivca odslovila za vselej samo zato, ker je bil tako predrzenv da ji je povedal v obraz, kako je krasna. Toda to ni vplivalo. Izpod umetne Alenine maske je takoj prisvetilo zaupanje tiste duše, ki namerja prvi korak v svet in išče samih rož ter prav zato trnja ne vidi.</p>
             <p n="SL-WIKI00498241">„Tako? Torej od tam, gospod doktor!“</p>
-            <pb n="10"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-010.jpg"/>
             <p n="SL-WIKI00498242">Alena se je obrnila proti njemu in videla njegove lokave oči, ki so že pile sijaj velikega mesta. Fant ni bil lep, vsaj tak ne, kakor si je njena mlada domišljija slikala lepe mladeniče. Slok, kretnje elegantne, obraz bled, spodnja čeljust mu je stala za spoznanje naprej, da je bilo težko uganiti, ali naj je to znak moške odločnosti, ali pa brezobzirne trmoglavosti.</p>
             <p n="SL-WIKI00498243">„Da, od tam, gospica! Sedaj se vračam na Dunaj, in Smrekarjevi so bili tako prijazni, da sem se pripeljal na kolodvor. Občujemo prav mnogo pri Smrekarjevih. Čestitam Vam na tej službi!“</p>
             <p n="SL-WIKI00498244">„Hvala, to me pa resnično veseli. Saj veste, človek gre, pa ne ve, kam!“</p>
@@ -361,15 +344,12 @@
             <p n="SL-WIKI00498267">Edino tolpa kričečih kavk je spremljala voz, se preletavala in posedala tako blizu ob cesti, da je hlapec zamahnil z bičem po njih in se je ena zadeta — opotekla ter še z večjim krakanjem dvignila v zrak.</p>
             <p n="SL-WIKI00498268">„Oh, ti črni tiči,“ je izpregovorila vsa preplašena hlapcu.</p>
             <p n="SL-WIKI00498269">„Ahà! Tiči! Jeseni pridejo k nam, samo v jeseni in natečni so! Nate!“</p>
-            <p n="SL-WIKI00498270">In je zopet švistnil z bičem po predrznih spremljevalkah. Aleno je pa prevzel hipoma čuden <pb n="11"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-011.jpg"/>strah. In ko je hlapec na kozlu s hripavim glasom zapel: „Le-ti ta črni vrani, le-ti bodo moji pogrebovci“, ji je srce tako vztrepetalo, da je pritisnila roko na prsi in vznemirjena vzkliknila:</p>
+            <p n="SL-WIKI00498270">In je zopet švistnil z bičem po predrznih spremljevalkah. Aleno je pa prevzel hipoma čuden strah. In ko je hlapec na kozlu s hripavim glasom zapel: „Le-ti ta črni vrani, le-ti bodo moji pogrebovci“, ji je srce tako vztrepetalo, da je pritisnila roko na prsi in vznemirjena vzkliknila:</p>
             <p n="SL-WIKI00498271">„Kriste, kaj to pomeni!“</p>
             <p n="SL-WIKI00498272">Hlapec se je ozrl, zatezajoč pesem venomer dalje, prekinil pa je sredi verza, ko je videl Alenino preplašeno lice, in rekel:</p>
             <p n="SL-WIKI00498273">„Ahà, nič ne pomeni! Hi!“</p>
             <p n="SL-WIKI00498274">In je zamahnil ob konjih.</p>
          </div>
-         <pb n="12"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-012.jpg"/>
          <div>
             <head>IV.</head>
             <p n="SL-WIKI00498275">Nič ni potrkal, kar vstopil je.</p>
@@ -383,8 +363,7 @@
             <p n="SL-WIKI00498283">„Sem mislil, da Vam te želje ne bo treba razodevati, jo bom pa vseeno, Alena, zapomnite si tole: Odslej in dokler ste pri nas, ste <hi rend="spaced">naša</hi>. Razumete? Naša, to se pravi, živite po naše, vedite se po naše in vso mestno hinavščino obesite na kljuko. Vse tisto njerganje: „Oprostite“ pa „pardon“ pa „prosim“ in ne vem kaj še vse, vse tisto je pri nas popolnoma odveč. Poglejte me! Že tri ure sem delal — Smrekar je iztegnil težki roki, da so se mu mišice napele kakor atletu — umazan sem, predpasnik sem si raztrgal — vidite — a vendar imam v žepu — s težko dlanjo je udaril po njem — več drobiža, samega drobiža, recimo za tobak, za berače, kakor kaka židana učiteljica gaže na mesec. Pri nas velja delo in denar — vse drugo je nič, pajčevina, s katero še zaplate ne prišiješ na raztrgan komolec. To si zapomnite!“</p>
             <p n="SL-WIKI00498284">„Zapomnim si, zapomnim.“</p>
             <p n="SL-WIKI00498285">Alena ni vedela, da mehanično ponavlja te besede.</p>
-            <p n="SL-WIKI00498286">„Prav. — Zdaj to, za kar sem prišel. S fantom začnita precej. Menda še leži. Pojdite nadenj in ga potegnite iz postelje. Če ne vstane izlepa, naj izgrda. Spočetka je dve uri pouka dovolj. Po učenju pa obiščite našo poštarico, saj ste že <pb n="13"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-013.jpg"/>videli, da imam tam na pristavici pošto. Skoro zastonj dajem stanovanje, pa naj bo, da nimam pošte tako od rok. Poštarica Erna je nervozna ženska, jaz ji pravim, da je sitna. No, jo boste že spoznali. Takisto je prav, da greste tudi v šolo. Imamo dve učiteljici. Le zvohajte se, kar vas je tičev istega perja. Takole. Sedaj se mi bo pa že prilegla klobasa in polič vina.“ Smrekar se je obrnil, zažvižgal in odšel trdih korakov, da se je tresel pod.</p>
+            <p n="SL-WIKI00498286">„Prav. — Zdaj to, za kar sem prišel. S fantom začnita precej. Menda še leži. Pojdite nadenj in ga potegnite iz postelje. Če ne vstane izlepa, naj izgrda. Spočetka je dve uri pouka dovolj. Po učenju pa obiščite našo poštarico, saj ste že videli, da imam tam na pristavici pošto. Skoro zastonj dajem stanovanje, pa naj bo, da nimam pošte tako od rok. Poštarica Erna je nervozna ženska, jaz ji pravim, da je sitna. No, jo boste že spoznali. Takisto je prav, da greste tudi v šolo. Imamo dve učiteljici. Le zvohajte se, kar vas je tičev istega perja. Takole. Sedaj se mi bo pa že prilegla klobasa in polič vina.“ Smrekar se je obrnil, zažvižgal in odšel trdih korakov, da se je tresel pod.</p>
             <p n="SL-WIKI00498287">Alena je trenotek obstala in gledala skoz odprta vrata za njim, potem zaprla tiho, da se ni slišalo, sedla na posteljo, roke sklenjene v naročju. V njej je valovilo, pred njo je stal še vedno Smrekar z iztegnjenima rokama, vzboklih mišic, ropotajoč z drobižem v žepu — in na njegovem licu izraz, ki prezira vse — razen denarja. Alena je občutila šele sedaj ost, ki je tičala v njegovih besedah, ki je pa ni zadela kakor izprožena puščica, ampak se je vbadala počasi v njeno srce. Tesno ji je bilo v prsih, grenkoba ji je silila v grlo. Ozrla se je na odprti kovčeg, iz katerega je snoči izložila prtljago — in ta zevajoča skrinjica jo je vabila: Nazaj, nazaj! Tu si prodana — tu si dekla! Ali njen temperament je razbil tesnobo v prsih, skočila je s postelje, zaloputnila zevajoči pokrov in skoro zakričala: Mamá, mamá, prav imaš, to je kmet, bahat sirovež! In domislila se je Ivana Bresta in nič več ni zasledila žalitve v njegovih besedah.</p>
             <p n="SL-WIKI00498288">Ko je odprla vrata, je še slišala žvižganje iz kuhinje, Alena si je pa zapela pesem in šla po učenca.</p>
             <p n="SL-WIKI00498289">Viktor je stal polopravljen pri velikem lesenem konju in mu čupal grivo iz repa.</p>
@@ -420,8 +399,6 @@
             <p n="SL-WIKI00498319">„To je že od sile! To ropotanje!“ Tako se je oglasilo za pregrajo, zadirčno, nervozno. Alena je zaničljivo namrdnila obraz. Tedaj se je odprlo okence in isti glas je zaklical:</p>
             <p n="SL-WIKI00498320">„Kam pa tiščite? Kaj je?“</p>
             <p n="SL-WIKI00498321">Alena je stopila od kljuke do linice.</p>
-            <pb n="14"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-014.jpg"/>
             <p n="SL-WIKI00498322">„Ne zamerite, gotovo ste silno zaposljeni! Samo hipec dovolite, da se Vam predstavim: Alena Trpotec, domača učiteljica pri Smrekarjevih.“</p>
             <p n="SL-WIKI00498323">„Aah — gospica Alena — a — kako me veseli!“</p>
             <p n="SL-WIKI00498324">Glas poštarice se je zvišal za kvinto, in bolj je zapela nego izpregovorila te besede. Vrata so se hitro odprla, in še preden je Alena videla njen obraz, je zašepetala sama pri sebi: Maskarada! Erna je Aleni iskreno stisnila roko in jo vedla na staro komodo za rdečim zagrinjalom, ki je delil njeno privatno stanovanje od urada.</p>
@@ -462,8 +439,7 @@
             <p n="SL-WIKI00498359">Postrežnica ji je pokazala: Tu so gospodična Mara, tu pa gospodična Minka.</p>
             <p n="SL-WIKI00498360">Potrkala je na Marina vrata.</p>
             <p n="SL-WIKI00498361">Mara je slonela na gugalniku, se zibala in kadila cigareto.</p>
-            <p n="SL-WIKI00498362">„Servus, kolega,“ je pozdravila Aleno prav fantovski in ji segla v roko. „Po obrazu Vas že <pb n="15"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-015.jpg"/>poznam. Na abiturientski veselici sem Vas že videla. Sedite!“</p>
+            <p n="SL-WIKI00498362">„Servus, kolega,“ je pozdravila Aleno prav fantovski in ji segla v roko. „Po obrazu Vas že poznam. Na abiturientski veselici sem Vas že videla. Sedite!“</p>
             <p n="SL-WIKI00498363">„Vaš pozdrav me izredno veseli. Dasi sem zasebna učiteljica, pa upam, da bomo kljubtemu koleginje.“</p>
             <p n="SL-WIKI00498364">„Gotovo da! Posebno, ker vidim, da je kaj ognja v Vas. Nate cigarete!“</p>
             <p n="SL-WIKI00498365">Alena si je prižgala in ob prvem dimu zakašljala, da so ji stopile solze v oči.</p>
@@ -480,8 +456,6 @@
             <p n="SL-WIKI00498376">„Koleginjo — imam —, pa ta ima poklic, zato ni ljubezni med nama. In izprehodi! Ali naj na stara debla trkam in se s smrekami pogovarjam, pa s tičicami, kakor princezinje v bajkah. Za take sanjarije mora biti človek nekoliko trčen, jaz pa nisem. To ni svet in to ni življenje! Vsaj zame ne!“</p>
             <p n="SL-WIKI00498377">„Gospodična koleginja, ste rekli, ima poklic.“</p>
             <p n="SL-WIKI00498378">„Da, ima ga, kakor ga sto drugih nima. To je naš socialist! Vsaj jaz jo tako nazivam. Ste bili že pri njej?“</p>
-            <pb n="16"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-016.jpg"/>
             <p n="SL-WIKI00498379">„Še ne!“</p>
             <p n="SL-WIKI00498380">„Pojdiva, Vas spremim. Čudili se boste!“</p>
             <p n="SL-WIKI00498381">Mara in Alena sta stopili v Minkino stanovanje.</p>
@@ -543,8 +517,6 @@
             <p n="SL-WIKI00498434">„Res ne boš?“</p>
             <p n="SL-WIKI00498435">„Kaj pa tičeš gospodično, smrkolin!“</p>
             <p n="SL-WIKI00498436">„Gospod Smrekar, nikar, saj sem mu dovolila, da me tiče. Bova še bolj prijatelja.“</p>
-            <pb n="17"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-017.jpg"/>
             <p n="SL-WIKI00498437">„Uh, ti si tudi pregrob s fantom, kadar se nastaviš,“ je zamrmrala žena in mu ponudila čaj.</p>
             <p n="SL-WIKI00498438">„Spat naj gre!“</p>
             <p n="SL-WIKI00498439">„Pa pojdiva, Viktor! Spremim te!“</p>
@@ -599,8 +571,7 @@
             <p n="SL-WIKI00498488">Mešetar je zopet nagnil kozarec in ga izpraznil v dušku.</p>
             <p n="SL-WIKI00498489">„E, Štefan, smetano smo pobrali.“</p>
             <p n="SL-WIKI00498490">„Kako pa z vdovo Strniška? Ta Brnotov drobiž me ne briga toliko. Pri njej bo pa masla na cente.“</p>
-            <p n="SL-WIKI00498491">„Tudi njene gozdove sem prehodil, dvakrat, trikrat. Tu pa rečem: Vsaka ura je zlata vredna <pb n="18"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-018.jpg"/>— za izgubo ali za dobiček! Nikomur se še ne sanja ne, kaj je denarja po teh njenih tokavah. Njej sami pa najmanj. Kaj pa baba ve. Nič.“</p>
+            <p n="SL-WIKI00498491">„Tudi njene gozdove sem prehodil, dvakrat, trikrat. Tu pa rečem: Vsaka ura je zlata vredna — za izgubo ali za dobiček! Nikomur se še ne sanja ne, kaj je denarja po teh njenih tokavah. Njej sami pa najmanj. Kaj pa baba ve. Nič.“</p>
             <p n="SL-WIKI00498492">„Jaz pa vem, dobro vem.“</p>
             <p n="SL-WIKI00498493">„Nič ne veš, Štefan, ti tudi ne. Samo jaz vem — in pa še eden!“</p>
             <p n="SL-WIKI00498494">Mešetar je potrepetal z levim očesom, Štefan se je nagnil razburjen do njega.</p>
@@ -639,8 +610,6 @@
             <p n="SL-WIKI00498527">Iz sobe so doneli še vedno težki koraki Smrekarjevi. Pero se je ustavljalo — zatikalo — podobe so vršele po glavi — roka je omagovala — dokler ni omagala — — — Glava ji je klonila na mizo ...</p>
             <p n="SL-WIKI00498528">Ko se je prebudila iz težke dremotnosti, ni bilo več čuti trdih korakov. Pomela si je oči, pogledala pričeto pismo, zgrabila ga in raztrgala na kosce in za njim raztrgala tudi Brestovo razglednico.</p>
          </div>
-         <pb n="19"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-019.jpg"/>
          <div>
             <head>VI.</head>
             <p n="SL-WIKI00498529">Nad vas se je obesilo pusto in megleno jutro. Od drevja so polzele kaplje — in zadnje georgine in krizanteme na vrtu so kakor objokane povešale cvetove.</p>
@@ -649,8 +618,7 @@
             <p n="SL-WIKI00498532">Smrekar to noč ni zatisnil očesa. Novica, kakor mu jo je bil razodel mešetar, ga je grizla in razburjala, da ga je kuhala vročica. Ko je odbilo tri po polnoči, je tiho vstal, se napol oblekel in šel v drugo sobo, kjer je prižgal luč in sedel k pisalni mizi.</p>
             <p n="SL-WIKI00498533">Da bi se premamil in premotil, je odprl zamazano računsko knjigo in pretehtaval dolžnike in obresti, sešteval in računal. Toda komaj dve strani je presodil, ko mu je roka sama od sebe izpustila svinčnik; glavo je vprl na komolec, številke v knjigi so se zmedle, oči so zastrmele v plamen sveče, ki se je širil in širil ter se izpremenil v moten kolobar. In sredi tega nejasnega kolobarja je stala stara vdova Strniška in se mu rogala. Tujo, laško govorico je slišal, celo cvenk cekinov in srebrnikov, ki so jih tujci nasipali v svoje žepe. Osramočen se je vračal domov, klobuk na oči. In po cesti so škripali parizarji, obloženi s hlodi, in vozniki so pokali z biči tako samopašno, da ga je vselej zabolelo, kakor bi udarjali po njem. Sram ga je bilo te tovorne procesije in še ozreti se ni upal v okna, ko je stopal mimo hiš. Pa dasi se ni ozrl, je čutil, da izza prislonjenih vetrnic mežikajo oči njegovih dolžnikov in se mu njih usta porogljivo reže.</p>
             <p n="SL-WIKI00498534">„O kanalje beraške, posvetim vam! Biriča vam pošljem pred vrata, biriča z bobnom, da izterja vse te širom doline razupane stotake! Bomo videli, kdo se bo tedaj režal in se čeljustil ter mežikal skoz okna. Bomo videli! Naj vam preloži Talijan, naj le, Smrekar vam ne bo več prekladal, beračem!“</p>
-            <p n="SL-WIKI00498535">Polagoma je ugašal motni kolobar krog sveče in ginil, komolec je izpodpolznil po mizi, glava je Smrekarju omahnila na laket. V sanjah so begale mimo njega sence. In vse so se mu režale v obraz. Tudi Minko je videl med njimi, celo Joka, ki se <pb n="20"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-020.jpg"/>mu je ognil s pota za grm, pljunil skoz rumene zobe tobakovo vodo in potresel z denarjem v žepu.</p>
+            <p n="SL-WIKI00498535">Polagoma je ugašal motni kolobar krog sveče in ginil, komolec je izpodpolznil po mizi, glava je Smrekarju omahnila na laket. V sanjah so begale mimo njega sence. In vse so se mu režale v obraz. Tudi Minko je videl med njimi, celo Joka, ki se mu je ognil s pota za grm, pljunil skoz rumene zobe tobakovo vodo in potresel z denarjem v žepu.</p>
             <p n="SL-WIKI00498536">Smrekar je pa grgral in se stresal v spanju ...</p>
             <p n="SL-WIKI00498537">Sveča je dogorela, stenj je omahnil, visoko je zaplapolal zadnji zubelj, skoz okna je gledalo sivo, pusto jutro.</p>
             <p n="SL-WIKI00498538">Smrekar se ni prebudil.</p>
@@ -698,8 +666,6 @@
             <p n="SL-WIKI00498580">Viktor je potegnil vijugasto črto preko obraza: „V imenu Očeta — ino Duha — Amen.“</p>
             <p n="SL-WIKI00498581">Tlesknil je z rokami, se zasmejal in skočil s postelje.</p>
             <p n="SL-WIKI00498582">„Sem te tako učila? To ni križ! Še enkrat!“</p>
-            <pb n="21"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-021.jpg"/>
             <p n="SL-WIKI00498583">Viktor se je smejal in iskal razmetane obleke po sobi. Alena mu je pomagala, ko se je oblačil.</p>
             <p n="SL-WIKI00498584">Všeč ji je bilo, ker je mali razposajenec neprestano brbljal in nagajal, da je njegov glas dušil besede, ki so prihajale iz sosednje sobe. Alena je nalašč govorila kaj glasno, ker se ji je gabil mešetar in gabilo delo, kakor ga je slutila med Štefanom in Jokom. Kljubtemu je posili razločila posamezne besede: Lahi, Strniška, profit, Minka ...</p>
             <p n="SL-WIKI00498585">„Kaj me briga ta umazanost,“ si je kričala v dušo, zaeno se je pa budilo silno zanimanje za to spletko.</p>
@@ -731,8 +697,6 @@
             <p n="SL-WIKI00498611">Strah je plul iz te misli in roke so se mu mehanično gibale, kakor bi segal in iskal tisto drobno stvar, ki bi mu utegnila uničiti najlepši dobiček.</p>
             <p n="SL-WIKI00498612">Prestopil se je za korak, pa se vrnil takoj in sedel spet na štor.</p>
             <p n="SL-WIKI00498613">Tudi Aleno je zdramila postiljonova trobenta. Nehala je s poukom in se namenila na pošto. V kuhinji se je oglasila pri Smrekarici in ji rekla, da gre gledat, če je kaj pisma od staršev.,</p>
-            <pb n="22"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-022.jpg"/>
             <p n="SL-WIKI00498614">Ko je pa izgovorila, je čutila, da ji je laž napisana na čelu, in je zato hitro odšla.</p>
             <p n="SL-WIKI00498615">„A — seveda — kako ste pridni, gospodična,“ jo je pozdravila Erna, ki je razdeljevala pošto in pobirala pisma izpod rok pismonošu, ki je udarjal pečate nanje. — „Kako ste pridni, da me obiščete!“</p>
             <p n="SL-WIKI00498616">„Nikar se ne motite, gospodična Erna! Morda bo kaj zame!“</p>
@@ -774,8 +738,6 @@
             <p n="SL-WIKI00498649">„Torej se ujemate pravzaprav z gospodično Maro, ki trdi, da nima skoro nobena izmed nas poklica — za šolo.“</p>
             <p n="SL-WIKI00498650">„Tega ne trdim. Edino to pravim: celo tisti, ki ima najiskrenejši poklic, celo tisti občuti breme. Boste že izkušali! Pridejo trenotki, ko se Vam bo ura vlekla kakor dolgočasni tedni.“</p>
             <p n="SL-WIKI00498651">Alena bi bila najrajša priznala, da je že danes okusila nekaj tega bremena, ko še ni bilo „dobro jutro“ njenega poklica. Pa se je potajila.</p>
-            <pb n="23"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-023.jpg"/>
             <p n="SL-WIKI00498652">„Tembolj sodim, da je po tako napornem delu treba oddiha — ne pa novega dela.“</p>
             <p n="SL-WIKI00498653">„Oddiha, da, to je resnica. Ali oddih je za vsakega drugačne mode. Postavim koleginja Mara se oddiha, ko se guglje na stolu in kadi cigarete. Angleški državnik se oddahne, ko gre kopat na svojo pristavo in tamkaj krtačit govedo. Jaz se oddiham, ko delam tole, kakor vidite, kar mi je največja uteha za srce.“</p>
             <p n="SL-WIKI00498654">„Za srce,“ je povzela Alena s skoro sentimentalnim glasom.</p>
@@ -812,8 +774,6 @@
             <p n="SL-WIKI00498685">Tistega dne Smrekarja ni bilo pri obedu. Alena ni nalašč vprašala, kje je, pa ji je žena sama od sebe razlagala, da se je odpeljal s kolesljem zaradi kupčije v Mirni dol, da ga pred nočjo ne bo in bržkone še zvečer ne.</p>
             <p n="SL-WIKI00498686">„Noč ga bo dala, vem, dobro vem. Ne veste, Alena, kako je takole kupčijsko življenje nemirno. Res se zasluži nekaj! Toda to trpljenje in te večne skrbi in strah zanj. Brez denarja seveda ne hodi po svetu — in kadar gre, ne zatisnem očesa, dokler se ne vrne. Vedno me skrbi, da ne bi nekoč zvedela: Smrekarja so ubili, oropali. Trpljenje, gospodična, je ta kruh — in ljudje nam ga zavidajo.“</p>
             <p n="SL-WIKI00498687">Ob tem pripovedovanju se je Aleni vzbujal sum, da je tudi ona zapletena v goljufivo stvar, ki jo snujeta Štefan in Jok, in je zato dvomila o iskrenosti takega govorjenja. Sodila je, da cika nevoščljivost na Minko zaradi pisma. Zato se ni mogla ogreti ob tem pogovoru in se je bavila kar največ z Viktorjem.</p>
-            <pb n="24"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-024.jpg"/>
             <p n="SL-WIKI00498688">Po pouku jo je gospa povabila na polje. Megla se je razkadila in žolto jesensko solnce je obsijalo poljane.</p>
             <p n="SL-WIKI00498689">Viktor je gnal ovčke in pripovedoval, kako jih je v sanjah prodajal, mati se mu je smejala, vmes pa razlagala Aleni, kam so sejali ozimino, koliko so pridelali krompirja in koruze. Ko so prišli do obdelane njive, kjer so orali praho, so krenili na gozdno pot — in se vrnili domov šele o mraku.</p>
             <p n="SL-WIKI00498690">Smrekarica je prav vedela. Štefana ni bilo domov do mraka in ga ni bilo do večerje. Alena se je oprostila, da mora pisati staršem, in šla v svojo sobo.</p>
@@ -829,8 +789,6 @@
             <p n="SL-WIKI00498696">Ko je pihnila luč, so se oglasile stopinje iz obednice — nekdo je plosknil z roko in se zasmejal — potem pa je bilo grčanje, kakor Jokov smeh.</p>
             <p n="SL-WIKI00498697">Alena je potegnila odejo čez glavo.</p>
          </div>
-         <pb n="25"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-025.jpg"/>
          <div>
             <head>VIII.</head>
             <p n="SL-WIKI00498698">Tisto dopoldne, ko je stal na preži za pregrajo na pošti mešetar Jok, je njegovo prisluškujoče uho natančno ujelo besede poštarice Erne: „Gospa Strniška v Marevževcu.“ Občutil je, da je nekaj šinilo ob teh besedah skoz njegovo telo, skoz srce in mozg. Toda ni se ganil; samo njegovo levo, pomežikujoče oko je obstalo in ni trenilo. Kakor bi prisluškal z očmi. Potrpežljivo je čakal in se ni gnetel med ljudi, ki so vsi obenem tiščali k okencu, ko se je odprlo. Zadnji je prišel na vrsto, kupil dopisnico in malomarno odšel. Pred vrati je izvlekel zamazan zvezek iz žepa, vtaknil med popisane liste dopisnico, spravil vse spet v žep in se napotil. Roke je potisnil v žepe, tulasti klobuk se mu je kar sam od sebe obesil na oči, rameni je dvignil, da je bilo videti odzadaj, ker mu je glava zlezla med pleča, kakor bi hodil jetičnik.</p>
@@ -844,8 +802,6 @@
             <p n="SL-WIKI00498706">„Kam si se namenil,“ je vprašal Martinek in ogledoval čutaro proti oknu. „Kupčija, kaj?“</p>
             <p n="SL-WIKI00498707">„Ne bo, danes že ne. Za kravami pogledam k Sv. Antonu. Tale Vrbek z Grabna me sili.“</p>
             <p n="SL-WIKI00498708">„Vrbek? No, no!“</p>
-            <pb n="26"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-026.jpg"/>
             <p n="SL-WIKI00498709">Plankar je odšel iz hiše, da natoči. Stara, lesena ura je hreščeče odbila eno. Mimo okna se je zazibala pismonoševa oguljena čepica.</p>
             <p n="SL-WIKI00498710">Jok je vstal. Srce se mu je vznemirilo. Toda hitro je sedel, ker so se odprla vrata in je vstopil pismonoša.</p>
             <p n="SL-WIKI00498711">„Saj sem vedel,“ je pohvalil samega sebe mešetar in se potuhnil, kakor bi mu bilo malo mar pismonoše.</p>
@@ -881,8 +837,7 @@
             <p n="SL-WIKI00498741">Pljunil je predse na cesto, kakor bi se mu gabilo. Niže je sklonil glavo, ki mu je prikinknila ob vsakem koraku, kot da bi hodil tudi z njo. Več kot pol ure je že bil na cesti in ni se mu pojavila misel v pobešeni glavi. Tolkel je in tolkel po samotni poti in se ni ozrl ne na levo, ne na desno! Dasi je tuintam slišal kričeči glas rateja z njive, z brega ovčarski zvonec, se ni ustavil in se ni z nikomer razgovarjal.</p>
             <p n="SL-WIKI00498742">Ko se je začela dvigati cesta v klanec proti Marevževcu, je hipoma obstal. Klobuk je potisnil nazaj, postavil predse palico in se oberoč vprl nanjo, potem se pa oprezno ogledoval. Kakor bi se bil predramil iz dremavice, je zbiral misli. Potipal je na prsih, če se mu ni gumb pri kamižoli odpel, potem je segel v žep po listnico, se ozrl še enkrat naokrog, pogledal tudi nazaj po poti, nato pa odmotal zamazani trak od listnice in poiskal pismo. Dasi ni znal brati in je imel v listnici mnogo papirjev, je kljubtemu naglo uganil, katero pismo je na Strniško. Vzel ga je v roke in ga ogledal, vtaknil ga spet nazaj, zamotal listnico in jo spravil. Ko je zapenjal gumb, so se mu prsti tresli, da mu je dvakrat izpodletelo, preden je zapel.</p>
             <p n="SL-WIKI00498743">„Zdajle bi Smrekarju lahko zajec pretekel pot, ko bi jaz hotel. In prileglo bi se mu pravzaprav! Zakaj je včasih tako skop! Naj le sam gazi po blatu in tokavah! Sam! Bi se hitro naveličal. — In sam naj laže, da bo njega obešal vrag za jezik, ne mene.“</p>
-            <p n="SL-WIKI00498744">Ko je tako razmišljal, se je še enkrat ogledal po okolici in nastavil korak po cesti. Komaj je stopil <pb n="27"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-027.jpg"/>dvakrat, pa se je nenadoma obrnil in zavil s ceste v hosto na stezo, ki je bila zamedena z listjem.</p>
+            <p n="SL-WIKI00498744">Ko je tako razmišljal, se je še enkrat ogledal po okolici in nastavil korak po cesti. Komaj je stopil dvakrat, pa se je nenadoma obrnil in zavil s ceste v hosto na stezo, ki je bila zamedena z listjem.</p>
             <p n="SL-WIKI00498745">„Jezični dohtarji trdijo, da ima vsak paragraf skrivna durca, kjer se človek v stiski izmuzne. Jok si tudi ne bo zarinil vseh les, da ne bi, če se ujame v ta precep, izmaknil prstov iz njega. Ne bo si jih ne! Nisem tako neumen, kakor se sanja Smrekarju.“</p>
             <p n="SL-WIKI00498746">Takole se mu je nenadno posvetilo v glavi in zato se je skril na zapuščeno stezo v lesu, kjer je prišel v Marevževec, ne da bi ga kdo opazil.</p>
             <p n="SL-WIKI00498747">Tamkaj je stala pod gozdom Strniškina bela hiša, tiha in samotna, kakor njena gospodinja, vdova brez otrok. Pred hišo so rjavele razorane njive, ozimina je zelenela.</p>
@@ -921,8 +876,6 @@
             <p n="SL-WIKI00498777">„Izda me v tej pijanosti.“</p>
             <p n="SL-WIKI00498778">Postavil je svečo na tla in se vrnil k vratom. Z roko je prijel za debeli ključ, da bi ga zavrtel in pogledal skoz vrata.</p>
             <p n="SL-WIKI00498779">„Ba, kaj mi more! Kdo bi verjel pijancu!“</p>
-            <pb n="28"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-028.jpg"/>
             <p n="SL-WIKI00498780">Roka je izpustila ključ, zunaj je pa Jok glasneje zakričal:</p>
             <p n="SL-WIKI00498781">„Pomagaj, če ne, povem, povem —“</p>
             <p n="SL-WIKI00498782">Smrekar je odklenil in stopil k Joku, ki je visel na vseh štirih in ni mogel kvišku. Oprijel ga je in dvignil z močno roko.</p>
@@ -947,8 +900,6 @@
             <p n="SL-WIKI00498801">„Preneumno! Ali je vredno, da se ga spominjam? Mara naj misli nanj! Pa zabavlja, lisica, ko ga ima rada.“</p>
             <p n="SL-WIKI00498802">Alena je odšla na pošto, da je še ujela postiljona, ki je imel že napreženo ter je lezel nerodno na kozla, čepico hudo po strani.</p>
             <p n="SL-WIKI00498803">Po zajtrku je šla budit Viktorja, ki se je pa že gugal na lesenem konju in ga vlekel za okuzmano grivo.</p>
-            <pb n="29"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-029.jpg"/>
             <p n="SL-WIKI00498804">Viktor se je razveselil učiteljice in pognal gugalnik, da se je zibal še v večjih nihljajih. Potem je skočil s konja, prijel Aleno za roko in ji splezal v naročje, jo tesno objel in skočil spet na tla.</p>
             <p n="SL-WIKI00498805">Učiteljica ga je bila vesela, ure so potekle tako naglo, da so sedli takoj k obedu, ko sta nehala z učenjem.</p>
             <p n="SL-WIKI00498806">Pri mizi je vladalo izredno živahno razpoloženje. Viktor je znosil Aleni, karkoli je dosegel sladčic in sadja, na krožnik, Smrekar se je smejal in pil s slastjo več nego ponavadi.</p>
@@ -999,8 +950,7 @@
             <p n="SL-WIKI00498851">Smrekar je stopil pred njo, prekrižal roke na prsih in ji z orjaškim telesom zagradil pot, ker je slutil, da namerava planiti iz sobe.</p>
             <p n="SL-WIKI00498852">„Da, moje škode bi se veselili, da! Pa se je ne boste! Sem že poskrbel, da se je ne boste!“</p>
             <p n="SL-WIKI00498853">„Gospod Smrekar,“ je ponovila Alena, „jaz sem že povedala, da nič ne vem, da mi ni nič mar —“</p>
-            <p n="SL-WIKI00498854">„Da nič ne vem,“ ji je presekal besedo Smrekar. „Vse veste, smete tudi vedeti — vedeti zase — zase — ker ste naša, naša! Ali Vam nisem <pb n="30"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-030.jpg"/>povedal — in če ne veste, Vam povem še enkrat — in povem tudi to, da ste napisali naslov na Strniško za tisto pismo, ki sem ga sam jaz prestregel — zato prestregel, da se ne bo redil Taljan.“</p>
+            <p n="SL-WIKI00498854">„Da nič ne vem,“ ji je presekal besedo Smrekar. „Vse veste, smete tudi vedeti — vedeti zase — zase — ker ste naša, naša! Ali Vam nisem povedal — in če ne veste, Vam povem še enkrat — in povem tudi to, da ste napisali naslov na Strniško za tisto pismo, ki sem ga sam jaz prestregel — zato prestregel, da se ne bo redil Taljan.“</p>
             <p n="SL-WIKI00498855">„To je krivica. — Vi ste — Vi ste —“ Alena je težko dihala, besede so se ji trgale iz ust — „Pustite me — dajte kuverto nazaj —“</p>
             <p n="SL-WIKI00498856">Smrekar je stopil bliže do nje.</p>
             <p n="SL-WIKI00498857">„Le recite, kar recite: Slepar — slepar!“</p>
@@ -1008,8 +958,6 @@
             <p n="SL-WIKI00498859">„Torej ste pomagali sleparju tudi Vi — pomagali — razumete? Črno na belem je Vaša pisava — torej —“</p>
             <p n="SL-WIKI00498860">In spet se je zakrohotal ter jo gledal z divjim pogledom, da je Alena onemogla in se sesedla na stol.</p>
          </div>
-         <pb n="31"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-031.jpg"/>
          <div>
             <head>X.</head>
             <p n="SL-WIKI00498861">Ko se je Alena pod težo Smrekarjeve grožnje sesedla na stol, se je Smrekar vseeno prestrašil. Divji pogled in takisto divji krohot je zatajil in se sklonil do Alene, ki je ihtela na stolu in si zakrivala obraz.</p>
@@ -1027,8 +975,6 @@
             <p n="SL-WIKI00498873">„Toži, da jo boli glava. Oprostila se je. Je bila res bleda.“</p>
             <p n="SL-WIKI00498874">„Glava, glava! Od česa neki? Gosposka bolezen! Ko bi le en dan nosila moje skrbi, bi ji glava počila!“</p>
             <p n="SL-WIKI00498875">„Morda je preoster zrak, ker ga še ni vajena.“</p>
-            <pb n="32"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-032.jpg"/>
             <p n="SL-WIKI00498876">„Preoster zrak, seveda, preoster —.“</p>
             <p n="SL-WIKI00498877">Smrekar je začel bobnati po mizi s težkimi prsti in je umolknil. Viktorček se je splazil kradoma v svojo sobico in se lotil igrač, mati je odšla v kuhinjo, da je ostal Smrekar sam.</p>
             <p n="SL-WIKI00498878">„Preoster zrak —“ se je sarkastično nasmehnil Smrekar in bobnal dalje in razmišljal ...</p>
@@ -1057,8 +1003,7 @@
             <p n="SL-WIKI00498901">„Skrbi? — Kdo jih nima?“</p>
             <p n="SL-WIKI00498902">Smrekarica je čutila želo v odgovoru.</p>
             <p n="SL-WIKI00498903">„No, Vaše so posebno težke,“ je odvrnila Smrekarica pikro in odšla s krožniki.</p>
-            <p n="SL-WIKI00498904">Aleni se je za hip dobro zdelo, da jo je zbodla. Ali takoj se je kesala in vzela z mize kozarce ter jih nesla za njo v kuhinjo. Tam je stal pred družinsko mizo Smrekar in glasno dajal povelja poslom. Ko je vstopila Alena, je premolknil, jo <pb n="33"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-033.jpg"/>gospodarski premeril in nato spet nadaljeval. Aleni se je zdelo, da jo je ta pogled vprašal: Kaj se vtičeš med nas, ko nočeš biti naša? Zato se je naglo obrnila in odšla.</p>
+            <p n="SL-WIKI00498904">Aleni se je za hip dobro zdelo, da jo je zbodla. Ali takoj se je kesala in vzela z mize kozarce ter jih nesla za njo v kuhinjo. Tam je stal pred družinsko mizo Smrekar in glasno dajal povelja poslom. Ko je vstopila Alena, je premolknil, jo gospodarski premeril in nato spet nadaljeval. Aleni se je zdelo, da jo je ta pogled vprašal: Kaj se vtičeš med nas, ko nočeš biti naša? Zato se je naglo obrnila in odšla.</p>
             <p n="SL-WIKI00498905">Popoldne sta se uri pri pouku grozno vlekli. Viktor je bil še vedno užaljen, Alena pa kaj malo razpoložena za pouk. Čutila je dobro, da je iskrenost in veselje zlagano, da bi najrajši prijela dečka za lase in ga kaznovala, samo da bi si oteščala notranje vznemirjenje. Težko je pričakala konca in se vrlo zatajevala obe dolgi uri, med katerima ji je kljuvalo v dušo, kar ji je bil oponesel Smrekar: Kruhek, kruhek! Domislila se je Minke, ki ji je govorila o delu, o bremenu, ki ne vpraša: ugodno ali neugodno, priložno ali nepriložno. Zato je sklenila, da jo takoj obišče in ji vse razodene.</p>
             <p n="SL-WIKI00498906">Po pouku je vprašala Viktorja, če bi šla k ovčkam.</p>
             <p n="SL-WIKI00498907">„Nak,“ je rekel Viktor. „Zato, ker si huda!“</p>
@@ -1082,8 +1027,7 @@
             <p n="SL-WIKI00498922">Kolikokrat si je ponavljala: „Kaj mi mar!“ Ali vselej je čutila, da ji je mar, da jo stvar tem bolj zanima, čim bolj jo prikrivajo pred njo. Dasi ji ni Smrekar niti z besedico žugnil, dasi je bil prijazen kot le kaj, se je vendar zagrizla vanjo radovednost tako globoko, da je po dolgem razmišljanju sklenila:</p>
             <p n="SL-WIKI00498923">„S Strniško se snidem! Tam izvem vse. Pomagati mi mora Minka!“</p>
             <p n="SL-WIKI00498924">Kakor pozdrav v slovo je sijalo solnce, ko so se napotile popoldne Alena, Minka in Mara proti Marevževcu. Previdno jih je izvabila Alena na izprehod, ne da bi katera le količkaj slutila, kaj so njeni cilji in nameni.</p>
-            <p n="SL-WIKI00498925">„Pozdravljen, solnček, pozdravljen za slovo!“ je vzklikala vesela Mara, snela slamnik in si ga pripela ob pas. „Le obsij me, saj ni več daleč <pb n="34"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-034.jpg"/>blato in brozga in megla, ko se zaližemo v sobe kakor polži. Ah, krasen poklic, kajne, Alena!“</p>
+            <p n="SL-WIKI00498925">„Pozdravljen, solnček, pozdravljen za slovo!“ je vzklikala vesela Mara, snela slamnik in si ga pripela ob pas. „Le obsij me, saj ni več daleč blato in brozga in megla, ko se zaližemo v sobe kakor polži. Ah, krasen poklic, kajne, Alena!“</p>
             <p n="SL-WIKI00498926">„Je več bridkosti v njem, kakor sem sanjala v Ljubljani.“</p>
             <p n="SL-WIKI00498927">„Več bridkosti? Ne več — sama suha bridkost in nič drugega, puščoba in dolgčas, da bi ga prodajale na kilometre!“</p>
             <p n="SL-WIKI00498928">„Jaz se veselim zime! Ko ob takih dneh delam kakor za stavo, začne pošteno mesti okrog oken, to je zame užitek. Ko dovršim delo za Miklavža, imam že drug načrt za zimo.“</p>
@@ -1127,8 +1071,6 @@
             <p n="SL-WIKI00498966">Tako je Bresta hladno obsodila Minka, kateri je bilo tako očitno navdušenje obeh tovarišic zaradi dijakovega prihoda sila odveč.</p>
             <p n="SL-WIKI00498967">Alena in Mara sta se ob Minkini pikri opazki spogledali. Druga drugi sta brali z obraza, kar bi bili radi obe zabrisali.</p>
             <p n="SL-WIKI00498968">„Briga me njegov semester! Nekaj zabave bo vendarle z njim. Za silo je dober!“</p>
-            <pb n="35"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-035.jpg"/>
             <p n="SL-WIKI00498969">Tako je izkušala prikriti rdečico Mara.</p>
             <p n="SL-WIKI00498970">„Egoistka!“ je zamrmrala Minka.</p>
             <p n="SL-WIKI00498971">„Ne sodimo,“ ga je opravičevala Alena. „Bržkone ima vzrok, da se je vrnil tako hitro z Dunaja.“</p>
@@ -1166,8 +1108,7 @@
             <p n="SL-WIKI004981000">Brest je povedal po pravici, da sta Jok in Smrekar barantala pri Strniški.</p>
             <p n="SL-WIKI004981001">Ko je Smrekar z mešetarjevo pomočjo prestregel pismo lesnega trgovca iz Trsta, je kljub prvemu, nenadnemu sklepu dolgo omahoval, preden se je odločil. Alenina obsodba, ko mu je, tresoč se stida in ogorčenja, rekla v lice „slepar“, ga je morila in mučila, da je dosti ur preležal na postelji in bdeč z zaprtimi očmi pretuhtaval v nemirnih nočeh, kaj bi ukrenil. Tudi zlagane brzojavke na trgovca v Trstu ni upal odposlati. Skoraj se je že odločil, da počaka na preži in takrat, ko bi prišel Taljan, poseže vmes ter — ali kupi sam ali tujcu tako podraži, da si ne bo upal zlepa več v te kraje po kupčiji.</p>
             <p n="SL-WIKI004981002">Ko pa ni bilo par dni nikogar iz Trsta in ko je prišel Jok ter mu povedal, da se Strniška silno togoti na vse trgovce, češ, sami sleparji so, se je odločil v trenotku, poslal Joka na drugo pošto z zlagano brzojavko in se pripravil na kupčijo.</p>
-            <p n="SL-WIKI004981003">Dasi je imel dokaj gotovine doma, si je izposodil še nekaj tisočakov, nabil z bankovci listnico kakor blazino, spisal kupno pogodbo, v kateri je <pb n="36"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-036.jpg"/>navel natančno vse parcele in previdno izpustil samo ceno za gozde.</p>
+            <p n="SL-WIKI004981003">Dasi je imel dokaj gotovine doma, si je izposodil še nekaj tisočakov, nabil z bankovci listnico kakor blazino, spisal kupno pogodbo, v kateri je navel natančno vse parcele in previdno izpustil samo ceno za gozde.</p>
             <p n="SL-WIKI004981004">Nato je poslal Joka, da mu gre pripravljat in mečit Strniško, sam je pa napregel in se peljal s kolesljem na Staniško vas, da bi se vrnil potem kakor slučajno mimo Marevževca.</p>
             <p n="SL-WIKI004981005">Jok si je pri Plankarju pomiril vest in namočil jezik z najboljšo slivovko, preden se je napotil k Strniški.</p>
             <p n="SL-WIKI004981006">„Dober dan Bog daj, gospodinja!“</p>
@@ -1208,8 +1149,6 @@
             <p n="SL-WIKI004981041">„Kako je?“</p>
             <p n="SL-WIKI004981042">„Je že naša! Mehka kakor medna hruška! Kar pojdiva. Za jutri sem te napovedal, Štefan, ali opraviva še danes.“</p>
             <p n="SL-WIKI004981043">Smrekar je vesel udaril po konju, ki je zbežal, da je zanašalo zadnji konec voza.</p>
-            <pb n="37"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-037.jpg"/>
             <p n="SL-WIKI004981044">„Toda povem ti, Štefan, da se bo ženska dobro krčila.“</p>
             <p n="SL-WIKI004981045">„Koliko, sodiš, bo vzkočila?“</p>
             <p n="SL-WIKI004981046">„Pet bank po tisoč!“</p>
@@ -1259,8 +1198,6 @@
             <p n="SL-WIKI004981090">Nato sta umolknila.</p>
             <p n="SL-WIKI004981091">Po polju se je razlegalo drdranje koleslja in šviganje biča v tihi jesenski večer.</p>
          </div>
-         <pb n="38"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-038.jpg"/>
          <div>
             <head>XIII.</head>
             <p n="SL-WIKI004981092">„Oho, moška je ta! Ali ste šli na uro gledat?“</p>
@@ -1284,8 +1221,6 @@
             <p n="SL-WIKI004981110">„Ah, ta Smrekar!“</p>
             <p n="SL-WIKI004981111">Alena je obrnila glavo proti steni, jo podprla z dlanjo, da je zakrila lice pred Brestom, ki je videl samo njene krasne lase, na katere je plula luč izpod stropa.</p>
             <p n="SL-WIKI004981112">„Gospodična Alena, kaj Vam je! Iz Vaše besede doni bolest!“</p>
-            <pb n="39"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-039.jpg"/>
             <p n="SL-WIKI004981113">„Če doni, ni zlagana!“</p>
             <p n="SL-WIKI004981114">Alena je še vedno upirala pogled v steno.</p>
             <p n="SL-WIKI004981115">„Gospodična, če mi zaupate, morda bi Vam—“</p>
@@ -1323,8 +1258,6 @@
             <p n="SL-WIKI004981147">„Tako je prav! Vsak naj brani svoj stan in poklic! To je stanovska zavest! Na zdravje, gospodična!“</p>
             <p n="SL-WIKI004981148">Aleni ni bilo všeč, da jo je Brest prekinil in da ji ni hotel na pomoč. Jezna in razburjena je trčila, da je plusknilo vino čez rob kozarca.</p>
             <p n="SL-WIKI004981149">Smrekar je ob tem že dvignil čašo in izpil v dušku, kljubtemu je opazil Alenino razburjenost.</p>
-            <pb n="40"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-040.jpg"/>
             <p n="SL-WIKI004981150">„Gospod Ivan, naša gospodična,“ tu je zakašljal, ker ga je beseda „naša“ zbodla. Zato je povzel še enkrat. „Gospodična Alena je vihrava, da je kaj. Kakor majhen lonček, za vsak nič vzkipi. Da boste vedeli, zakaj se je sedaj ujezila —“</p>
             <p n="SL-WIKI004981151">„Za stanovsko zavest,“ ga je prekinila Alena osorno. Brest jo je miril mahljaje z desnico.</p>
             <p n="SL-WIKI004981152">„Pripovedujte, gospod Smrekar!“</p>
@@ -1364,8 +1297,6 @@
             <p n="SL-WIKI004981186">„Samo, če dovolite!“</p>
             <p n="SL-WIKI004981187">Obrnila sta se in prehodila nekaj pota molče. Brest je čutil, da valovi v njem srce, hladni razum se je umikal čuvstvom.</p>
             <p n="SL-WIKI004981188">„Gospodična, pri večerji ste vprašali, če sem mož! Morda mi razodenete sedaj, kar Vas teži pri Smrekarjevih.“</p>
-            <pb n="41"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-041.jpg"/>
             <p n="SL-WIKI004981189">Alena se je nenadoma spet ustavila in ga motrila.</p>
             <p n="SL-WIKI004981190">Nato je izpregovorila rezko, s trdim poudarkom.</p>
             <p n="SL-WIKI004981191">„Smrekar je slepar!“</p>
@@ -1406,8 +1337,6 @@
             <p n="SL-WIKI004981223">Mara je čakala gostov. V peči je prasketal ogenj, okno je bilo zagrnjeno in sredi mize je gorela svetilka. Dva stola si je izposodila iz šolske sobe.</p>
             <p n="SL-WIKI004981224">„Že luč!“ sta se začudili Alena in Minka, ko sta hkrati vstopili.</p>
             <p n="SL-WIKI004981225">„Saj je tema v tej sibirski puščavi. Sedita!“</p>
-            <pb n="42"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-042.jpg"/>
             <p n="SL-WIKI004981226">„In zakurila je! Poglej, Minka!“</p>
             <p n="SL-WIKI004981227">Alena je stopila k peči in si grela roke.</p>
             <p n="SL-WIKI004981228">„Da bi zmrzovale, kaj še! Saj je že itak naše življenje tako mrzlo — brr —“</p>
@@ -1451,8 +1380,6 @@
             <p n="SL-WIKI004981266">„Pač,“ se je oglasila hitro Mara, ki je točila Brestu.</p>
             <p n="SL-WIKI004981267">„Pomislite, zadnja beseda naše debate je bila: revolucionar!“</p>
             <p n="SL-WIKI004981268">„Tako! Zelo zanimivo! Prepričan sem, da jo je spravila gospodična Minka!“</p>
-            <pb n="43"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-043.jpg"/>
             <p n="SL-WIKI004981269">„Da, jaz sem izrekla to besedo! Mislim namreč, da je v naši moški inteligenci premalo tega duha. Toda prosim, da me prav razumete! Ne mislim na krvave bombe, ampak krvi, valujoče krvi za splošno delo, za socialno delo, za narod sploh — pogrešam tam, kjer bi imela biti.“</p>
             <p n="SL-WIKI004981270">„Gospodična Minka, jaz sem že opetovano trdil, da Vas občudujem. Toda — delo za narod — ali ni to pravzaprav fraza?“</p>
             <p n="SL-WIKI004981271">Ironija mu je igrala okrog ustnic, ko je še enkrat ponovil: delo za narod.</p>
@@ -1498,8 +1425,6 @@
             <p n="SL-WIKI004981311">„Moram, da, moram! Če bi jo srečal kak pijanec! Nedelja je!“</p>
             <p n="SL-WIKI004981312">Šele na pol pota jo je dohitel.</p>
             <p n="SL-WIKI004981313">„Kako sem se Vas ustrašila?“</p>
-            <pb n="44"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-044.jpg"/>
             <p n="SL-WIKI004981314">„Ali ste res mislili, da Vas pustim samo ponoči, v nedeljo zvečer?“</p>
             <p n="SL-WIKI004981315">„Ni me strah. Koga naj bi se bala?“</p>
             <p n="SL-WIKI004981316">Pričela sta polagoma stopati drug ob drugem.</p>
@@ -1518,8 +1443,6 @@
             <p n="SL-WIKI004981329">Alena ga je pogledala.</p>
             <p n="SL-WIKI004981330">Roki sta se obrnili v slovo, Alena je občutila, kako krepko jo je stisnil Brest, in vsa se je vznemirila.</p>
          </div>
-         <pb n="45"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-045.jpg"/>
          <div>
             <head>XV.</head>
             <p n="SL-WIKI004981331">Alena je prejela od doma že tretje pismo, odkar sama ni nič pisala staršem. Rdečica jo je oblila, ko je iz kratkih in okornih stavkov gledala nanjo tesna skrb materina. Kakor bi izza peči zrle očetove oči, hrepeneče in rosne, take so se ji zdele vrstice v pismu.</p>
@@ -1549,8 +1472,6 @@
             <p n="SL-WIKI004981355">„Ah!“ je vzdihnila Alena.</p>
             <p n="SL-WIKI004981356">Obe sta potem molčali. Ko sta že prišli skoz vas in se je za Plankarjem cesta zavila skoz molčeče polje, je izpregovorila Minka:</p>
             <p n="SL-WIKI004981357">„Alena, razodeni mi, kaj ti je, če mi zaupaš! Ako mi ne, bodi prepričana, da nisem radovedna.“</p>
-            <pb n="46"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-046.jpg"/>
             <p n="SL-WIKI004981358">„Veruj, Minka, da pravzaprav sama ne vem, čemu sem se razburila. Domov namreč nisem odgovorila takoj na pisma — in zato je prišlo danes tako žalostno in skrbi polno pismo od mame, da sem kar nesrečna.“</p>
             <p n="SL-WIKI004981359">Minka ni takoj nič rekla. Samo karajoče je pogledala Aleno in spet sta nekaj trenotkov molčali.</p>
             <p n="SL-WIKI004981360">„Alena,“ je izpregovorila Minka in bridek vzdih je bil v tej besedi. „Ti si otrok in ne veš, kaj imaš, ko imaš mamo. Da bi jo jaz še imela in bi jo samo enkrat še mogla objeti!“</p>
@@ -1587,8 +1508,7 @@
             <p n="SL-WIKI004981391">„Odpusti, Minka, odpusti!“</p>
             <p n="SL-WIKI004981392">Minka je držala njeno roko in govorila, kakor da ne bi slišala prošnje.</p>
             <p n="SL-WIKI004981393">„Alena! Pomni! Žal mi je tvojega miru, žal tembolj, če se ti skali ob Brestu; zakaj on ni mož, ti pa si moža vredna. Dovolj! In sedaj ne besedice več o tem, dokler ne zaprosiš sama zanjo.“</p>
-            <p n="SL-WIKI004981394">Prijateljici sta nadaljevali pot ob levi in ob desni ceste — molče. Težko škripajoči vozovi, <pb n="47"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-047.jpg"/>obloženi s hlodi, so ju srečavali, tuintam je prifrčala izpod sivega neba, kakor cvetni listič, bela snežinka in izginila na rjavem travniku.</p>
+            <p n="SL-WIKI004981394">Prijateljici sta nadaljevali pot ob levi in ob desni ceste — molče. Težko škripajoči vozovi, obloženi s hlodi, so ju srečavali, tuintam je prifrčala izpod sivega neba, kakor cvetni listič, bela snežinka in izginila na rjavem travniku.</p>
             <p n="SL-WIKI004981395">Ko sta prišli do Strniške, je zaropotala veriga, iz pasice je planil zvesti čuvaj in ju oblajal.</p>
             <p n="SL-WIKI004981396">Alena se je psa prestrašila in se stisnila k Minki.</p>
             <p n="SL-WIKI004981397">„Ali naj grem tudi v hišo?“</p>
@@ -1632,8 +1552,6 @@
             <p n="SL-WIKI004981435">„Tako!“</p>
             <p n="SL-WIKI004981436">Jok je skočil kvišku.</p>
             <p n="SL-WIKI004981437">„Gospodični na pričo, obe! Gosposka naj govori!“</p>
-            <pb n="48"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-048.jpg"/>
             <p n="SL-WIKI004981438">Tedaj se je Strniška obrnila šele od okna proti njemu in stopila korak po sobi.</p>
             <p n="SL-WIKI004981439">„Gosposka naj govori! Saj tudi bo, in bo poiskala neko pismo in tiste sleparske prste, ki so ga ukrali!“</p>
             <p n="SL-WIKI004981440">Jok je zaripel, iz bolnega očesa so se pocedile solze.</p>
@@ -1664,8 +1582,7 @@
             <p n="SL-WIKI004981462">„Ah, kako me je groza te samote!“</p>
             <p n="SL-WIKI004981463">Alena je izgovorila polglasno te besede, a se je svojega glasu skoro ustrašila. Privila je luč, da bi ji svetloba dala poguma.</p>
             <p n="SL-WIKI004981464">Začela je razmišljati dogodke, ki so jo tako vznemirili. Slišala je vnovič glas Erne in jo videla, kako ji pomežikuje izza okenca. Mara se je obračala od nje, Minka je bila užaljena, ker ji je povedala resnico v oči — in potem to pismo — in Smrekarjev cinični grohot.</p>
-            <p n="SL-WIKI004981465">„Zavist in zloba! Ni ga, da bi mu segla v roko, ni ga. Edini Brest mi je privoščil prijateljsko besedo, edini on — nehote je pogledala roki, kamor jo je poljubil — in še tega so mi nevoščljivi — <pb n="49"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-049.jpg"/>in še od njega bi me odgrizli, da bi bila, kakor žalostna vrba sredi planjave — sama, posuta z biči zlovražnih pogledov. Ne, ne! Tega veselja ne učakate. Vse mu povem, vse!“</p>
+            <p n="SL-WIKI004981465">„Zavist in zloba! Ni ga, da bi mu segla v roko, ni ga. Edini Brest mi je privoščil prijateljsko besedo, edini on — nehote je pogledala roki, kamor jo je poljubil — in še tega so mi nevoščljivi — in še od njega bi me odgrizli, da bi bila, kakor žalostna vrba sredi planjave — sama, posuta z biči zlovražnih pogledov. Ne, ne! Tega veselja ne učakate. Vse mu povem, vse!“</p>
             <p n="SL-WIKI004981466">Nenadoma ji je šinilo v misel, da bi mu pisala, in vse razodela in zatožila tovarišice in mu povedala, kako trpi zaradi njega. Toda takoj je opustila to misel, ko je vedela, da pismo ne bi bila skrivnost. Zato je sklenila, da mu vse pove ob prvi priliki, pove samo zaraditega, da bo spoznal, kako nekolegialne so njene koleginje. Ko je še nekaterekrati premislila Brestovo trditev, da se ji ni bati zaradi pisma, da je njena vest čista — se je toliko pomirila, da je legla.</p>
             <p n="SL-WIKI004981467">Imela je nemirno spanje, ker so jo nadlegovali v polsnu zmedeni pojmi; grozeče postave, ki so se ji režale v žalostno lice brez usmiljenja in sočutja. Vendar se je v jutru dvignila pokrepčana iz postelje, silnejša, in skoro se je nasmehnila pretiranemu strahu, ki jo je zvladal snoči. Ko je odgrnila zaveso, jo je pozdravilo živo migotanje skoz okno. Sneg je naletaval, zrak je bil napolnjen s plešočimi roji snežink, ki so se vrtele in plule nad zemljo, se ji približevale in se spet dvigale, kakor da bi si še ne upale zagrniti zemlje z belim kožuščkom. Živo življenje in vesela radost je bila razsuta po zraku. Alena je stala dolgo pri oknu, zamišljena v veseli roj snežink, ki so ji pregnale vse otožne misli, da je odprla okno ter lovila bele metuljčke kakor otrok.</p>
             <p n="SL-WIKI004981468">„Alena, sneg, sneg!“ je priklical Viktorček v njeno sobo in kazal klobuček, v katerega je nalovil belih sneženih kosmičev, ki so se sproti tajali in ginili brez sledu. Alena je morala z njim na vrt, kjer sta lovila in stregla sneg, dokler se nista oba upehana in zasopla utrudila ter šla k pouku.</p>
@@ -1674,8 +1591,6 @@
             <p n="SL-WIKI004981471">Tako je v razvneti domišljiji, ki jo je mučila vsako noč, dočakala Miklavževega večera. Koprnela je, da bi videla Bresta in se prepričala, je li njena sumnja upravičena. Zaeno je sklepala trdne sklepe, da ne sme nihče opaziti njenega trpljenja, ker bi se le zavistno pasli ob njeni bolesti. Vesela bo, razigrana, in šalila se bo z Brestom, nalašč predrzno šalila, da jim pokaže, kako je samostojna in kako je jeziki nič ne brigajo.</p>
             <p n="SL-WIKI004981472">Ko se je zmračilo na Miklavžev večer, so se zbrali veljaki iz cele fare. Prišel je župan in občinski svetovalci, prišli vsi oni premožnejši, ki so darovali za revne šolarje, prišla sta župnik in kaplan in seveda vsa inteligenca, med katero je oblastno vstopil Smrekar. Obdarovanci so napeto čakali v šolski sobi. Z njimi očetje ali matere. Tudi pridni součenci premožnejših rodbin so prišli pogledat s starši.</p>
             <p n="SL-WIKI004981473">V sobi je medlo gorela sveča. Ko je Minka videla, da so vsi zbrani, je pozvončkala. Tedaj so se odprla vrata, bengalična luč je razsvetlila sobo, prikazal se je angel, za njim drugi in tretji — nato Miklavž — in za vratmi so obstali parkeljni rožljaje z verigami. Ne samo otroke, celo starše je prevzelo radostno očaranje in po sobi je zaplul vzdih začujenja: A-a-h!</p>
-            <pb n="50"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-050.jpg"/>
             <p n="SL-WIKI004981474">Ko so se otroci nekoliko opogumili, so zapeli pod Minkinim vodstvom Miklavžu pesem v pozdrav. Potem je Miklavž pozval kaplana, da je izpraševal otroke.</p>
             <p n="SL-WIKI004981475">Miklavž jih je pohvalil, blagoslovil in jim povedal, da so angeli prinesli darove, ki jih čakajo v sosednji sobi. Spet je zapel zvonček in Miklavž je izginil; verige parkeljnov so zarožljale po veži — luč je ugasnila.</p>
             <p n="SL-WIKI004981476">Tedaj je Minka odprla vrata v sosednjo sobo in vedla vanjo šolarje. Veseli vzkliki so zadoneli po šoli, otroci so hiteli po klopeh in iskali listkov, kjer je bilo napisano vsakega posameznika ime. Oblekce, predpasniki, gorke nogavice, čevlji — vsega je bilo v obilici, kakor v bogati štacuni. Otrokom so žarele oči, ko so stiskali k sebi zvežnje, matere so si otirale solze. Vse je gledalo na Minko, kateri je gorelo lice v radosti. Kaj Smrekar, kaj župan in župnik — nocoj jih ni videl nihče. Vsi so zrli samo vanjo, vsa srca so se ji klanjala. Revne vdove so se ji zahvaljevale solznih oči in ji stiskale roke, vse se je gnetlo krog nje. In ko so se že poslavljali, se je preril župnik do nje, jo v imenu cele fare zahvalil s tako iskrenimi besedami, da je Minka sama začutila kipečo radost v očeh, matere so pa naglas ihtele.</p>
@@ -1705,8 +1620,7 @@
             <p n="SL-WIKI004981500">„No, gospod profesor, kako Vi sodite o tem večeru in o Minki?“</p>
             <p n="SL-WIKI004981501">„Na vsak način je Minka zelo požrtvovalno delala. To je hvale vredno!“</p>
             <p n="SL-WIKI004981502">„Zares,“ sta pritrdili Smrekarica in Alena.</p>
-            <p n="SL-WIKI004981503">„Tako! Torej ste vsi tako kratkovidni, kakor tisti bajtarji in berači, ki joka, če dobi pisano cunjico v dar. Le preudarite: Kdo je dal vse to? <pb n="51"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-051.jpg"/>Kdo? — Mi, mi — jaz, župan, župnik, Strniška — mi smo darovali. Kaj je dala Minka? Nič. Če je nekoliko šivala, kaj tisto! Saj nima drugega posla! In vsi tiščite vanjo in jo zahvaljujete in slavite! To je demagoštvo, to je pavovo perje, s katerim se lišpa ta ženska.“</p>
+            <p n="SL-WIKI004981503">„Tako! Torej ste vsi tako kratkovidni, kakor tisti bajtarji in berači, ki joka, če dobi pisano cunjico v dar. Le preudarite: Kdo je dal vse to? Kdo? — Mi, mi — jaz, župan, župnik, Strniška — mi smo darovali. Kaj je dala Minka? Nič. Če je nekoliko šivala, kaj tisto! Saj nima drugega posla! In vsi tiščite vanjo in jo zahvaljujete in slavite! To je demagoštvo, to je pavovo perje, s katerim se lišpa ta ženska.“</p>
             <p n="SL-WIKI004981504">„To je resnica, gospod Smrekar, da ste darovali drugi; toda vse delo in aranžma je njena zasluga!“</p>
             <p n="SL-WIKI004981505">„Zasluga, zasluga! Poznam njene zasluge! Drugi ji sezidajte hišo, ona se bo pa košatila v njej in gledala skoz okno! Saj se poznamo! Vem tudi, da snuje neko društvo in s kaplanom stikata glave ter si namigavata o posojilnici. Še tega je treba. Oba preženem!“</p>
             <p n="SL-WIKI004981506">Smrekar je jezno udaril po mizi in izpil v dušku kozarec črnine.</p>
@@ -1716,8 +1630,6 @@
             <p n="SL-WIKI004981510">Tedaj je zastavil in začel pisati:</p>
             <p n="SL-WIKI004981511">Slavni c. kr. okrajni šolski svet v ...</p>
          </div>
-         <pb n="52"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-052.jpg"/>
          <div>
             <head>XVII.</head>
             <p n="SL-WIKI004981512">Par dni po Miklavževem večeru je Alena preživela v resnični muki. Presedala je cele ure v sobici in zrla ob zaprti knjigi v zasneženo ravan, kjer so posedale na drevesih lačne vrane in se krakaje preletavale krog vasi. Njene misli so bile zbegane. Kolobar strahov se je vrtel krog nje. Iz tega vrtinca so režali vanjo obrazi mešetarja, Smrekarja in jezna, žugajoča roka Strniškina. Pred seboj je videla obraze sodnikov, ki se ji čudijo in se spogledujejo s tehtnimi pogledi. Časniki poročajo, oče bere poročila izpred sodišča, roke se mu tresejo; mati joka ... V groznici je drhtela po vsem životu, pot ji je silil na čelo, nervozne roke so stiskale robec.</p>
@@ -1728,8 +1640,6 @@
             <p n="SL-WIKI004981517">Sram jo je bilo, tako strašno sram — toda bolj kot pred Maro in Erno, pred Brestom.</p>
             <p n="SL-WIKI004981518">„Kaj si neki misli? — Kje je moj ponos? — Ah — bahal se bo, po pravici bahal pred tovariši: Ponudila mi je ljubezen — izzivala — haha-ha! In kako je preje nastopala in kako se nosila! To so ženske! — O Bog, zakaj sem tako nesrečna!“</p>
             <p n="SL-WIKI004981519">Alena je stisnila glavo v dlani, v senceh je čutila utripe razburjenega srca.</p>
-            <pb n="53"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-053.jpg"/>
             <p n="SL-WIKI004981520">Tako je preteklo pol tedna, da se Alena ni genila iz sobe. Edino Viktor, ki je imel neprestano opravka s sneženimi vali in pusti, jo je tuintam vzdramil in spravil v dobro voljo. Sicer je pa čakala vsako uro poročil o naperjeni pravdi, hrepenela je po Brestu — in se ga bala in ga zaničevala, vse hkrati.</p>
             <p n="SL-WIKI004981521">Teden je potekal, o pravdi ni zinil nihče. Smrekar je bil vesel, žaga je pela monotono pesem nočindan, Strniškini gozdi so bili neizčrpni. Grmade hlodov so se večale, skladi desk so rastli. Štefan je pisal in računil, pri mizi se šalil, v pisarni celo prepeval z robatim glasom.</p>
             <p n="SL-WIKI004981522">Nekoč je vprašal: „Kje tiči Brest, Alena? Ali nič ne veste?“</p>
@@ -1766,8 +1676,7 @@
             <p n="SL-WIKI004981553">Minka je stopila k postelji in prijela z obema rokama za ponudeno desnico.</p>
             <p n="SL-WIKI004981554">„Kako je, mati? Tako imate jasno in veselo oko! To je dobro znamenje. Ne bo hudega, kaj ne?“</p>
             <p n="SL-WIKI004981555">Ob tem ji je že zrahljala blazine, s katerimi je bila obložena, popravila veliko ruto, ki je zdrsnila starici z ramen, in ji pogladila pramen belih las, ki so ji silili na čelo.</p>
-            <p n="SL-WIKI004981556">Starica se je smehljala in jo gledala s hvaležnimi očmi, jo prijela vnovič za roko in govorila: <pb n="54"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-054.jpg"/>„Oh, gospodična, kako znate postreči! Kakor bi me sam angel božji potolažil, tako se prileže staremu človeku takale mehka roka, ki je tako pripravna kakor Vaša, Bog plačaj, gospodična!“</p>
+            <p n="SL-WIKI004981556">Starica se je smehljala in jo gledala s hvaležnimi očmi, jo prijela vnovič za roko in govorila: „Oh, gospodična, kako znate postreči! Kakor bi me sam angel božji potolažil, tako se prileže staremu človeku takale mehka roka, ki je tako pripravna kakor Vaša, Bog plačaj, gospodična!“</p>
             <p n="SL-WIKI004981557">„Oj, mamka, kako se lepo šalite! Kmalu boste zdravi! Bolnik, ki je takole dobre volje, se naglo izkoplje iz postelje.“</p>
             <p n="SL-WIKI004981558">„Bog Vas usliši! Veste, saj mi ni nič zato, če bi umrla. Samo zaradi fanta bi rada še tako dolgo živela, da se pririje do kruha. Samo zato. Potem se zgodi, kakor je božja volja!“</p>
             <p n="SL-WIKI004981559">„Ali ni Ivana doma?“</p>
@@ -1813,8 +1722,7 @@
             <p n="SL-WIKI004981599">„Prosim, lepo prosim, gospodična!“</p>
             <p n="SL-WIKI004981600">Brestovka je stiskala s koščenimi rokami Minkino desnico, kakor bi se upapolno oprijemala vrvi, ki jo dvigne z bolniške postelje.</p>
             <p n="SL-WIKI004981601">Nato so odšli.</p>
-            <p n="SL-WIKI004981602">Mrak je legal silno hitro na zimsko pokrajino. Sneg ni več pršal v drobnih zrncih, začelo <pb n="55"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-055.jpg"/>je naletavati v debelih kosmih. Zaviti v kapuce so šli skoz vas. Pred šolo je Minka opozorila Bresta, da se ji zdi mati dokaj slaba in bo skoro gotovo treba zdravnika. Nato sta se Brest in Alena poslovila in krenila proti Smrekarju. Žive duše ni bilo na poti. Stopala sta polagoma, molče. Brest se je ozrl po poti nazaj in pogledal preko Alene naprej. V kolikor je mogel presoditi v mraku in metežu, se ni bilo nadejati popotnika ob tej uri. Zato je zagazil v sneg, da je stopal z Aleno vštric in je izpregovoril:</p>
+            <p n="SL-WIKI004981602">Mrak je legal silno hitro na zimsko pokrajino. Sneg ni več pršal v drobnih zrncih, začelo je naletavati v debelih kosmih. Zaviti v kapuce so šli skoz vas. Pred šolo je Minka opozorila Bresta, da se ji zdi mati dokaj slaba in bo skoro gotovo treba zdravnika. Nato sta se Brest in Alena poslovila in krenila proti Smrekarju. Žive duše ni bilo na poti. Stopala sta polagoma, molče. Brest se je ozrl po poti nazaj in pogledal preko Alene naprej. V kolikor je mogel presoditi v mraku in metežu, se ni bilo nadejati popotnika ob tej uri. Zato je zagazil v sneg, da je stopal z Aleno vštric in je izpregovoril:</p>
             <p n="SL-WIKI004981603">„Gospodična, ali se Vam ne zdi, da bi bilo to ugodno mesto? Ko bi mi razodeli, kakor Vam je želja.“</p>
             <p n="SL-WIKI004981604">Alena se je za hip ustavila in se ozrla izpod kapuce v njegove oči. Nato je takoj nadaljevala pot. Noga ji je spodrsnila ob ledeni grudi, da je omahnila in se zadela ob Bresta.</p>
             <p n="SL-WIKI004981605">Zadonel je njen smeh. Pa utihnil, kakor bi ga presekal.</p>
@@ -1853,8 +1761,6 @@
             <p n="SL-WIKI004981638">„Dovolite, gospod Smrekar, nekaj bi Vas vprašal.“</p>
             <p n="SL-WIKI004981639">„No?“</p>
             <p n="SL-WIKI004981640">„Kako je zaradi tistega pisma na Strniško, ki se je izgubilo, s katerim je baje gospodična Alena nekaj v zvezi?“</p>
-            <pb n="56"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-056.jpg"/>
             <p n="SL-WIKI004981641">Na to vprašanje je Smrekar Bresta srdito pogledal, se nagnil na stolu naprej, zapenjajoč gumb pri rokavu, in bolj zarohnel nego izgovoril:</p>
             <p n="SL-WIKI004981642">„Pismo? Kakšno pismo? Jaz nič ne vem o tistem pismu! Kdo Vam je kaj kvasil? Povejte ga! Tožim ga! Ali sem jaz poštar? Ali sem pismonoša? Kaj me briga, če se je izgubilo?“</p>
             <p n="SL-WIKI004981643">Brest je bil v zadregi. S tako grozno odločnostjo je tajil Štefan, da Brest ni vedel, ali ga vara Alena, ali Smrekar.</p>
@@ -1889,8 +1795,6 @@
             <p n="SL-WIKI004981672">Pusti strahovi so odbežali iz Alenine sobice, srce ji je bilo čudovito radostno, vse polno še nikoli občutenega hrepenenja. Z Viktorjem se je sankala po bregu, vriskala in se smejala kakor razposajen otrok. Bližale so se božične počitnice, od doma so prihajala pisma, kako jo težko pričakujejo — in v njeni duši je vstala radost, da se prvič vrne domov k staršem, prvič v življenju ne več kot otrok, ampak kot zrela in izkušena ženska.</p>
             <p n="SL-WIKI004981673">Ko se je nekega dne napotila proti šoli, so pridrsele po poti sani in obstale pred šolo. Iz njih je stopil okrajni šolski nadzornik.</p>
          </div>
-         <pb n="57"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-057.jpg"/>
          <div>
             <head>XVIII.</head>
             <p n="SL-WIKI004981674">Ko so zapeli kraguljčki pred šolskim poslopjem, so se pojavile za šipami vseh učnih sob radovedne glave učiteljskega osobja. Sredi take zime nenadoma gosposke sani pred šolo, to je dogodek! Ko je nadučitelj spoznal nadzornika, je odskočil h katedru in zvil v žep proračun, kakor si ga je sestavljal ob skromni plači za božične praznike. Mara je skrila cigareto, ki si jo je pripravila za par dimov med odmorom. Minka se je vrnila mirno k podobi, pred katero je razlagala žetev in žito. Dasi ji ni bilo treba ničesar skrivati, jo je kljubtemu izpreletelo kakor mučna slutnja in srce se ji je vznemirilo.</p>
@@ -1898,8 +1802,6 @@
             <p n="SL-WIKI004981676">Nadzornik je nehote često prekinil delo ob uradnih spisih in se zamislil v pouk. Nekaj izvirnega in posebnega je zapazil v metodi. Kakor da ni šola, tako je premišljeval sam pri sebi. To je družina, velika družina otrok in sredi med njimi mati, ki pozna srce in glavo slehernega, ki ima pretehtane značaje in osebnosti vsakega otročiča do najmanjše malenkosti. V teh otroških očeh ni bojazni in ni raztresenosti. Vse zre v učiteljico, kakor bi jim mati rezala belega kruha. In vendar uči marsikaj, kar nikakor ni predpisano. Toda uspeh je jasen in izvrsten — torej ...</p>
             <p n="SL-WIKI004981677">Ko so šolarji zapustili koncem pouka sobo, se je nadzornik poslovil in suhoparno omenil, da se po obedu vrne.</p>
             <p n="SL-WIKI004981678">„Ali je sitnaril, kajne?“ je prihitela Mara z zamujeno cigareto k Minki.</p>
-            <pb n="58"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-058.jpg"/>
             <p n="SL-WIKI004981679">„Zakaj to vprašaš?“</p>
             <p n="SL-WIKI004981680">„Ker je bil tako dolgo pri tebi. Dve uri, še več! Pri meni in pri nadučitelju je bil samo četrt ure. To nekaj pomeni!“</p>
             <p n="SL-WIKI004981681">„Pomeni?“</p>
@@ -1938,8 +1840,6 @@
             <p n="SL-WIKI004981714">„Kakšno prepričanje?“</p>
             <p n="SL-WIKI004981715">„Da je vsak izobraženec narodov dolžnik zato, ker ga je narod šolal s tem, da je plačeval davek. Zato nima le pravice, ampak vsak izobraženec ima dolžnost, da narodu plačuje vsaj obresti od tega dolga s tem, da dviga narodovo izobrazbo kakorkoli, da mu pomaga z znanjem, ki si ga je pridobil v šoli, ki so plačane z ljudskim denarjem. To je moje prepričanje!“</p>
             <p n="SL-WIKI004981716">Nastala je dolga pavza, nadzornik je pisal beležke na polo.</p>
-            <pb n="59"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-059.jpg"/>
             <p n="SL-WIKI004981717">„Nadalje sta v zvezi s kaplanom in snujeta hranilnico in posojilnico. Ali ni vse to politika, pot k prepirom? Kaj se vmešavate?“</p>
             <p n="SL-WIKI004981718">„Odločno zanikam, da bi bila politika, če se ustanovi zavod, ki bi marsikoga otel iz rok oderuhov in pijavk. Toda če bi tudi bila politika, trdim, da imam pravico politikovati, ker menda živim v ustavni državi in imam kot inteligentka volilno pravico.“</p>
             <p n="SL-WIKI004981719">„Sufragetka,“ je zamrmral nadzornik, ki je pisal na katedru.</p>
@@ -1980,8 +1880,7 @@
             <p n="SL-WIKI004981754">Nadzornik je stopil v vežo in vrata zaprl, nadučitelj je obrnil ključ.</p>
             <p n="SL-WIKI004981755">Zunaj so zaorili veseli vriski. Ko so trije tožniki šli osramočeni zadnji izpred šole, se je sklonilo nekaj deklet v sneg in toča kep je posula krive priče.</p>
             <p n="SL-WIKI004981756">Nadzornik je bil oplašen vsled nenavadno izjavljene ljudske volje. Dolgo je hodil zamišljen po sobi, preden je pozval vse učiteljsko osobje h konferenci.</p>
-            <p n="SL-WIKI004981757">„Vsekako je bil danes neprijeten dogodek. Ali vkljubtemu moram poudariti, da ste gospodična <pb n="60"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-060.jpg"/>Minka jako vrla učiteljica, in Vam čestitam na uspehih v šoli in zaeno na ljubezni, katero uživate pri ljudstvu.“</p>
+            <p n="SL-WIKI004981757">„Vsekako je bil danes neprijeten dogodek. Ali vkljubtemu moram poudariti, da ste gospodična Minka jako vrla učiteljica, in Vam čestitam na uspehih v šoli in zaeno na ljubezni, katero uživate pri ljudstvu.“</p>
             <p n="SL-WIKI004981758">„Hvala za čestitko, gospod nadzornik. Jo odklanjam, ker v šoli vršim samo svojo dolžnost, zunaj nje pa še nisem toliko storila, da bi bila te ljudske ljubezni vredna.“</p>
             <p n="SL-WIKI004981759">Minka se je tresla od razburjenja, da je Mara stopila k njej in jo objela čez pas.</p>
             <p n="SL-WIKI004981760">„Bravo, moj socialist!“</p>
@@ -2017,8 +1916,6 @@
          <div>
             <head>XIX.</head>
             <p n="SL-WIKI004981789">Kakor nevihta je planil pretekli dogodek na tiho zimsko pokrajino, hipoma razburil vso vas, pa se je kakor nevihta hitro polegel.</p>
-            <pb n="61"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-061.jpg"/>
             <p n="SL-WIKI004981790">Drugo jutro je sijalo solnce mirno na belo ravan, kmetje so prenašali koše s skednjev in krmili goved, oblečeni v podričane kožuhe, otroci so premlevali v šoli abece; Smrekarjeva žaga je sakála brezbrižno staro pesem, gospodar je v rano jutro hodil krog skladovnic in prešteval žaganice ter si zapisaval okorne številke v notes.</p>
             <p n="SL-WIKI004981791">Alena je šla še pred poukom na izprehod, da si ohladi razbeljeno glavo. Ves ta stari red v okolici, vsesplošna brezčutnost jo je iznenadila. Celo dolgo prečuto noč so jo mučile strašne slike. Krik ljudstva, grožnje Smrekarjeve, bodoča sodba, zatožna klop — ji je mrgotalo pred očmi. Zato je bila prepričana, da jo te nočne slike sprejmo žive in žugajoče, ko prestopi v jutro prag svoje sobe. Toda v solnčni luči se je vse razblinilo. Ščinkovci in strnadi so se prepirali na dvorišču s požrešnimi vrabci za zrnje, ki je ostalo kokošim, kakor vsako jutro, od soseda se je slišalo hripavo bevskanje sitnega psa, kakor vsako jutro, gostaške deklice so hitele z lončki mleka, zakesneli šolarji so se podvizali z okornimi čevlji po nerodni poti, sama gola vsakdanjost.</p>
             <p n="SL-WIKI004981792">„Ali so bile samo sanje?“ je premišljala Alena.</p>
@@ -2056,8 +1953,6 @@
             <p n="SL-WIKI004981824">„Sem.“</p>
             <p n="SL-WIKI004981825">„Komu?“</p>
             <p n="SL-WIKI004981826">„Brestu!“</p>
-            <pb n="62"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-062.jpg"/>
             <p n="SL-WIKI004981827">Minka je šla spet parkrat po sobi gorindol. Nato je rekla:</p>
             <p n="SL-WIKI004981828">„Bolje bi bilo, ko bi bila meni.“</p>
             <p n="SL-WIKI004981829">„Ne obsojaj me zato. Brest je tako dober!“</p>
@@ -2101,8 +1996,6 @@
             <p n="SL-WIKI004981867">„Kako me veseli, Alena! Slutil sem, da pridete!“</p>
             <p n="SL-WIKI004981868">„Ne verjamem, morda ste slutili neko drugo,“ mu je pomagala.</p>
             <p n="SL-WIKI004981869">Brest ji je stisnil še enkrat roko in jo hrepeneče pogledal.</p>
-            <pb n="63"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-063.jpg"/>
             <p n="SL-WIKI004981870">„Kako ste zlobni, Alenčica!“</p>
             <p n="SL-WIKI004981871">„Zato pridem na zatožno klop!“</p>
             <p n="SL-WIKI004981872">„Šaljivka!“</p>
@@ -2119,8 +2012,6 @@
             <p n="SL-WIKI004981883">Brest je postal za trenotek in gledal v te oči, ki so zrle, skoro orošene od solz, nekam v daljavo, kakor bi iskale nekoga in ga klicale. V njem se je vse vzvaloviio, vsak premislek je izginil, roke so se same od sebe razkrilile — in preden se je zavedel sam in se zavedla Alena, so se dotaknile njegove ustnice Aleninih.</p>
             <p n="SL-WIKI004981884">Kakor bi bila hipoma oba vzdramljena iz sanj, sta odstopila za korak vsaksebi. Alena je iskala besede — nerazločno slovo je prišlo preko šepetajočih ustnic, naglo se je obrnila in odšla, za njo je stopal Brest, ki je čutil, da mu kleca koleno po stopnicah.</p>
          </div>
-         <pb n="64"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-064.jpg"/>
          <div>
             <head>XX.</head>
             <p n="SL-WIKI004981885">Dovolj! Če ne gre, ne gre!“</p>
@@ -2137,8 +2028,6 @@
             <p n="SL-WIKI004981896">„Dober večer, gospod Smrekar!“</p>
             <p n="SL-WIKI004981897">„Vendar spet enkrat! Me veseli!“</p>
             <p n="SL-WIKI004981898">Štefan mu je podal roko, na kateri je Brest začutil smolnate lise, ko jo je stisnil.</p>
-            <pb n="65"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-065.jpg"/>
             <p n="SL-WIKI004981899">„Ali ne motim?“</p>
             <p n="SL-WIKI004981900">„Ne bodite sitni,“ ga je potolažil Smrekar podomače ter ga prijel za komolec in odšel z njim po stopnicah.</p>
             <p n="SL-WIKI004981901">„Kar v obednico pojdite; morda je tam Alena in Viktor. Jaz pridem takoj!“</p>
@@ -2181,8 +2070,6 @@
             <p n="SL-WIKI004981938">„Naj bo, kar sem obljubil,“ se je odločil Brest drugi večer in takoj odšel k Smrekarju.</p>
             <p n="SL-WIKI004981939">„Saj res nisem iz železa,“ je modroval tretji večer, zaprl knjigo in šel isto pot.</p>
             <p n="SL-WIKI004981940">In hodil je slednji večer do Božiča.</p>
-            <pb n="66"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-066.jpg"/>
             <p n="SL-WIKI004981941">Tisti dan pred Božičem so čakale Smrekarjeve sani pred hišo po kosilu. Smrekarica je posodila Aleni kožušček, vsi so jo spremili do vrat; kraguljčki so zapeli in sanke so zdrsnile z dvorišča.</p>
             <p n="SL-WIKI004981942">Ko so sani na ovinku krenile iz vasi na glavno cesto, se je nekdo umaknil v sneg, dvignil klobuk in pozdravljal. Alena se je ozrla in spoznala Bresta. Srce je vzkipelo, bela rutica je odgovarjala Brestovemu pozdravu, dokler niso sani izginile v daljavi.</p>
             <p n="SL-WIKI004981943">„Minka se moti,“ je razmišljala Alena. „Kako je dober! Ti večeri, ko je zahajal on k nam, so bili najlepši.“</p>
@@ -2224,8 +2111,7 @@
             <p n="SL-WIKI004981979">Starejša učiteljica se je zasmejala.</p>
             <p n="SL-WIKI004981980">„Oj, kako vprašate! Tako se vpraša za petošolce. Ko gre za res, se vpraša: <hi rend="spaced">Kaj</hi> je, <hi rend="spaced">kaj</hi>? To velja! Od lepih brčic in milih pogledov, pa od chic-hoje in od postrani klobuka — se ni še nihče do sita najedel.“</p>
             <p n="SL-WIKI004981981">„Mm, kakšna lepa proza!“ je ugovarjala Marijanica in pripovedovala Aleni z žarečimi očmi, da je on uradnik na postaji in zal, kot le kaj.</p>
-            <p n="SL-WIKI004981982">Sredi živahnega in veselega pogovora se je Alena mnogo bolj umirila, nego bi bila ždela sama v kotu in bi bila razmišljala grozeče slutnje. Tudi v družbi ji je silila tuintam neljuba misel v glavo. Ali mimogrede jo je premagala, ko se je jasno spomnila, kako je bil Smrekar zadnji čas vesel, da ji ni nihče omenil nič o pravdi in da Joka ni bilo že dolgo na izpregled. Torej je brez dvoma <pb n="67"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-067.jpg"/>stvar uredil Smrekar in vse zvalil na mešetarja, katerega je gotovo dobro plačal.</p>
+            <p n="SL-WIKI004981982">Sredi živahnega in veselega pogovora se je Alena mnogo bolj umirila, nego bi bila ždela sama v kotu in bi bila razmišljala grozeče slutnje. Tudi v družbi ji je silila tuintam neljuba misel v glavo. Ali mimogrede jo je premagala, ko se je jasno spomnila, kako je bil Smrekar zadnji čas vesel, da ji ni nihče omenil nič o pravdi in da Joka ni bilo že dolgo na izpregled. Torej je brez dvoma stvar uredil Smrekar in vse zvalil na mešetarja, katerega je gotovo dobro plačal.</p>
             <p n="SL-WIKI004981983">Vlak je obstal na ljubljanskem kolodvoru. Tovarišice so si voščile vesele praznike in hitele iz voza.</p>
             <p n="SL-WIKI004981984">Komaj je Alena stopila na peron, je že zagledala sloko postavo, ki je čakala ob izhodu in motrila prišlece. Aleno je prevzelo čudovito hrepenenje. Prerinila se je skoz potnike in še preden jo je oče dobro spoznal, mu je že ovila roke okoli vratu in ga poljubila.</p>
             <p n="SL-WIKI004981985">Trpotcu je samega veselja obtičala vsaka beseda v grlu — in pretrgano slovkovanje je dokazovalo, kako mu gre na jok. Tesno je držal hčerko za roko in besedice ni črhnil, dokler nista stala pred kolodvorom.</p>
@@ -2259,8 +2145,6 @@
             <p n="SL-WIKI004982010">Mož sredi veže se je počasi okrenil in dvignil glavo, da je videl skoz naočnike, ko so mu zlezli konec nosu.</p>
             <p n="SL-WIKI004982011">Minka je zapazila pod vratom kolar, izza katerega je molel uhelj hodničnega platna.</p>
             <p n="SL-WIKI004982012">„Župnik,“ je naglo pomislila in ni vedela, ali bi se čudila, ali smejala originalu.</p>
-            <pb n="68"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-068.jpg"/>
             <p n="SL-WIKI004982013">„No, kaj bo dobrega,“ jo je nagovoril župnik Boštjan z nizkim, nekoliko prehlajenim glasom.</p>
             <p n="SL-WIKI004982014">„Ali bi mogla govoriti z gospodom župnikom?“</p>
             <p n="SL-WIKI004982015">Gospod Boštjan jo je pomeril od vrha do tal, nato pa rekel nekoliko užaljen:</p>
@@ -2275,8 +2159,6 @@
             <p n="SL-WIKI004982024">„Slišala sem, oprostite, da sem tako indiskretna — —“</p>
             <p n="SL-WIKI004982025">„Le naravnost, kaj bi te fraze! Pri nas smo naturni ljudje!“ jo je prekinil župnik.</p>
             <p n="SL-WIKI004982026">„Ali res, gospod župnik, mislite odpovedati pouk v zasilni šoli?“</p>
-            <pb n="69"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-069.jpg"/>
             <p n="SL-WIKI004982027">„Nič ne mislim. Sem ga že odpovedal. K Svetemu dnevu je jezdil hlapec s pismom na pošto. No, in kaj Vas to skrbi?“</p>
             <p n="SL-WIKI004982028">„Jaz sem učiteljica iz Zaselja, nameravam prositi semkaj.“</p>
             <p n="SL-WIKI004982029">„Kogâ?“ se je začudil župnik, popravil naočnike in se nagnil proti njej, da mu je izpodrsnil naslonjeni komolec.</p>
@@ -2318,8 +2200,6 @@
             <p n="SL-WIKI004982065">„Vidite, to je naša divjačina! Takile so!“</p>
             <p n="SL-WIKI004982066">Minka se je ozrla za njimi, izza ogla je pogledal razkuštran deček in ji je pokazal osle.</p>
             <p n="SL-WIKI004982067">Na robu planote je čakal župnikov pastir s sankami.</p>
-            <pb n="70"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-070.jpg"/>
             <p n="SL-WIKI004982068">„Da se ne boste mučili, Vas moj pastir potegne do mlina. Pot je drsna.“</p>
             <p n="SL-WIKI004982069">Minka se je začudila.</p>
             <p n="SL-WIKI004982070">„Le sedite in nič se ne bojte. Fant je boljši za take neumnosti kot za pametno delo. Z Bogom!“</p>
@@ -2366,15 +2246,11 @@
             <p n="SL-WIKI004982111">„Če ne bo preveč, če ne bo pretežko,“ je skrbela mati, ko je Alena že v svoji sobi brala Brestovo pismo.</p>
             <p n="SL-WIKI004982112">Pismo jo je vabilo, da mora biti na Silvestrovo opoldne že pri Smrekarju, ker je Štefan zaradi nje preložil svoje godovanje, in potem da je silno pusto in prazno, kar je odšla, da prazniki brez nje niso bili prazniki, ampak dolgčas, neskončni dolgčas — — —</p>
             <p n="SL-WIKI004982113">Dvakrat je prečitala Alena pismo, rdečica ji je plula v lice; tiha sobica, kjer se je te dni tako otročjesladko izpočila, ko ji je mama postiljala postelj in jo skrbno zagrinjala vsak večer, ta sobica ji je bila hipoma tesna in pusta, srce je zahrepenelo vun, nazaj, nazaj ...</p>
-            <pb n="71"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-071.jpg"/>
             <p n="SL-WIKI004982114">Brez volje je dvignila pismo k ustnicam in šepetala:</p>
             <p n="SL-WIKI004982115">„Ivan, kako si dober!“ — — —</p>
             <p n="SL-WIKI004982116">Dasi ni bilo brez boja in so tekle solze, je bila vendar Alena na Silvestrovo pri Smrekarju in je vsa radostna vezovala Štefana ter se zabavala z Brestom, ki se ji je zdel ljub in lep, kakor nikoli, da je vsa omamljena v pozni noči zaupala gluhim stenam svoje sobe veliko tajno srca:</p>
             <p n="SL-WIKI004982117">„Ivan, Ivan, jaz te ljubim ...“</p>
          </div>
-         <pb n="72"
-             facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-072.jpg"/>
          <div>
             <head>XXII.</head>
             <p n="SL-WIKI004982118">Na sv. Blaža dan je bil v Zaselju semenj — edini v letu. Iz vse okolice, zlasti s hribov, se je trlo ljudstva. Hribovci so postavili na trg zvežnje grabelj, senenih vil, toporišč, kožuhovine vsake vrste, navadne ovčje kože in dragoceno kunino krzno. Okoliški kovači so ponujali železnino: krampe, sekire, motike in lemeže, pod šatori so razobesili in razložili od semnja do semnja potujoči štacunarji pisano robo, pred katero se je gnetla mladina. Tudi živine se je dokaj nagnalo.</p>
@@ -2393,8 +2269,6 @@
             <p n="SL-WIKI004982131">„Dan?“ se je zamislil Andrec iz Bukovja.</p>
             <p n="SL-WIKI004982132">„Da tega ne veš in se čudiš?“</p>
             <p n="SL-WIKI004982133">„Nič se ne čudim, ker ima dan, zakaj Jok ima grehov na plečih, da bi zaslužil že sto sodnjih dni. Toda čudim se, ker ga je vendarle zatela zanka.“</p>
-            <pb n="73"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-073.jpg"/>
             <p n="SL-WIKI004982134">„Zatela ga je pač,“ je razlagal Rahne, stoječ ob mizi, „toda Jok se izmuzne.“</p>
             <p n="SL-WIKI004982135">„Kakor kane,“ je povzel besedo Zaseljan Štupar. „Tudi Smrekarja preveč skrbi ta reč.“</p>
             <p n="SL-WIKI004982136">„Ali misliš? Ne verjamem,“ je popravljal krčmar, ki se je rad štulil med vaško gospodo. „Ne verjamem, da bi ga kaj skrbelo!“</p>
@@ -2429,8 +2303,6 @@
             <p n="SL-WIKI004982165">„Zahvaljen Bog, stokrat zahvaljen, in Smrekar z njim vred, če ima kaj deleža pri tem, da je Minka pri nas!“</p>
             <p n="SL-WIKI004982166">„Ti po pravici govoriš, Štupar,“ je pričel Markovec, ko je Andrec od veselja praznil kozarec.</p>
             <p n="SL-WIKI004982167">„Alena je zbegana. Je bila moja tudi, ne da bi jo opravljal ali ji oponašal. Ko sem ji razodel med štirimi očmi in ji naravnost povedal: Micka, rad te imam in vzamem te, je bila taka, da je šla zjutraj z jerbasom na korito po vode.“</p>
-            <pb n="74"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-074.jpg"/>
             <p n="SL-WIKI004982168">„Hahaha,“ se je smejal Andrec židane volje in pomikal kozarec sosedu. „Ta bo lepa, Štupar, če se vaša Alena tako zbega, da bo otroke <hi rend="italic">i</hi> za <hi rend="italic">a</hi> 
                naučila. Hahaha, Babilon v Zaselju!“</p>
             <p n="SL-WIKI004982169">Rahne je vlekel na uho ob sosednji mizi in se približal pogledat, če je steklenica že prazna.</p>
@@ -2471,8 +2343,6 @@
             <p n="SL-WIKI004982204">Ko bi bili videli, kako so jo spreletale barve!</p>
             <p n="SL-WIKI004982205">„Res, tisto je pa res,“ je mencala. „Večkrat je tako naredil, večkrat, in tudi oklešček je slonel topot na vratih, res je.“</p>
             <p n="SL-WIKI004982206">„In sedaj govori, če sem mešetil v tvojo izgubo, ali v tvoj dobiček? Ha?“</p>
-            <pb n="75"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-075.jpg"/>
             <p n="SL-WIKI004982207">„Nič ne rečem, ne morem! Po pravici povem: Za pettisoč si privil Smrekarja!“</p>
             <p n="SL-WIKI004982208">„Za pettisoč,“ se je začudil sodnik in si zapisal.</p>
             <p n="SL-WIKI004982209">„No torej! Ali sem potemtakem falot, gospod sodnik?“</p>
@@ -2498,8 +2368,6 @@
             <p n="SL-WIKI004982229">Črne sence so se gugale sredi bele planjave. Mraz je pritiskal, da se jim je obešalo ivje na brke in kučme. Možje so se glasno razgovarjali, da se je razlegalo po dolini in je utihnil lajajoči lisjak v hribu ter poslušal. Preden so prišli do razpotja, so zapeli kraguljčki. Od nasprotne strani je letela dolga senca po poti proti razpotju.</p>
             <p n="SL-WIKI004982230">„Smrekar!“ je spoznal kraguljce Markovec. „Postojmo, da odpelje pred nami! Pri Sv. Volbenku je bil zaradi neke kupčije.“</p>
             <p n="SL-WIKI004982231">Vrsta črnih senc je obstala druga za drugo v ozki gazi.</p>
-            <pb n="76"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-076.jpg"/>
             <p n="SL-WIKI004982232">Toda prav takrat so nenadoma obstale tudi Smrekarjeve sanke.</p>
             <p n="SL-WIKI004982233">„Hoj! Hooj!“ je klical hlapec in se motal s kozla.</p>
             <p n="SL-WIKI004982234">„Možje, sem pojte,“ se je razlegel Smrekarjev glas.</p>
@@ -2543,8 +2411,6 @@
             <p n="SL-WIKI004982269">„Ah, Ivan,“ je začela Alena in iskala robca, ker so ji silile zopet solze v oko. „Ivan, ti ne smeš zahajati sem. Ljudje so tako čudni!“</p>
             <p n="SL-WIKI004982270">„Ah, ljudje! Spet toisto! Kolikokrat sva že govorila o tem. Kaj me briga to ljudstvo! Samo nič vredno, zato je táko. Bodi močna —“</p>
             <p n="SL-WIKI004982271">„Ne govore samo ljudje. Tudi Minka mi je danes pisala in me odločno svarila.“</p>
-            <pb n="77"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-077.jpg"/>
             <p n="SL-WIKI004982272">„Pred kom te je svarila!“</p>
             <p n="SL-WIKI004982273">„Pred teboj!“</p>
             <p n="SL-WIKI004982274">„A, reci ji, lepa hvala za tako skrb! Kaj se briga ta eksaltirana, napol prismojena demagogka zame? Naj se briga za bolne krave in za tiste razcapane bukovške otroke! To je že preneumno!“</p>
@@ -2568,8 +2434,6 @@
             <p n="SL-WIKI004982292">Brest je dopušil cigareto, potem vstal in stopil k Aleni:</p>
             <p n="SL-WIKI004982293">„Dušica, trudna si. Lezi! Spanec te pokrepča. Jaz grem!“</p>
             <p n="SL-WIKI004982294">Alena je naglo vstala in umeknila roko, katere je iskal Brest za slovo.</p>
-            <pb n="78"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-078.jpg"/>
             <p n="SL-WIKI004982295">„Še nekaj, Ivan. Rekel si prej, naj ne govoriva o tem, kar mi je pisala Minka. Toda moram ti razodeti še eno stvar, meni se zdi modra. Minka mi namreč svetuje, naj povabim mamo semkaj za par dni. Tedaj bi bila prilika, da ljudem pokažemo, če gremo skupno na izprehod, v gostilno, k Smrekarju, da so njih govorice zlobne, da najine ljubezni ne skrivava pred starši, da je poštena, kajne, Ivan?“</p>
             <p n="SL-WIKI004982296">Alena je videla, da je Bresta spreletelo. Vendar ji je z ljubeznivim smeškom odgovoril mirno:</p>
             <p n="SL-WIKI004982297">„Alenčica, nikar ne ceremonij! Ali ne bi bila z njimi ubita vsa tiha lepota najinega prijateljstva? Ali nisi samostojna ti, samostojen jaz? Čemu Minkino mešetarjenje? Vrzi njeno pismo v ogenj in pozabi. Bodi močna in bodiva hvaležna usodi, da sva užila skrivnostno lepe ure gorkega koprnenja. Lahko noč, dušica!“</p>
@@ -2593,8 +2457,6 @@
             <p n="SL-WIKI004982315">„Izvrstno! Torej spet enaki: Ti — sama — jaz sama — servus, koleginja! Lahko noč!“</p>
             <p n="SL-WIKI004982316">Mara se je zasukala in odfrlela, pojoč iz sobe.</p>
             <p n="SL-WIKI004982317">Alena je obstala na mestu kakor vkopana. Srepo je zrla na vrata, skoz katere je odšla znanilka zla — Mara. Vsa kri ji je izginila iz lic, ustnice so se ji krčevito stiskale, na čelu so se razpredle temne gubice.</p>
-            <pb n="79"
-                facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-079.jpg"/>
             <p n="SL-WIKI004982318">„Varalica!“ je siknila skoz zobe, potem se pa kakor strta in pohojena zgrudila na stol, nagnila glavo na mizo in začela ihteti ...</p>
             <p n="SL-WIKI004982319">Za par dni je govorilo vse Zaselje, ki je pograbilo vsako malenkostno novico sredi prazne zimske puščobe s slastjo, o Brestovem begu.</p>
             <p n="SL-WIKI004982320">„Prav je naredila učiteljica Alena, da mu je pokazala skoz vrata. Kaj bi voglaril, nepridnež!“ Tako so sklepali nekateri.</p>
@@ -2613,8 +2475,7 @@
             <p n="SL-WIKI004982333">Nekega dne je videla skoz šolsko okno, kako je pismonoša zavil krog ogla. Vsa je vztrepetala. Potrkalo je. Planila je k vratom. Pismonoša ji je dal priporočeno pismo. Alena je šla za kateder, otroci so zašumeli in začeli šepetati. Ni jih svarila. V lice ji je šinila kri, ko je spoznala Brestovo pisavo. S tresočimi prsti je odtrgala rob pisma. Polna upanja, da njena vera ni bila osramočena, je začela brati.</p>
             <p n="SL-WIKI004982334">Velecenjena gospica!</p>
             <p n="SL-WIKI004982335">(Ta naslov jo je razburil. Tako je tuje zvenel. Brala je dalje.)</p>
-            <p n="SL-WIKI004982336">Dolžnost mi je, da Vam pišem to pismo. Zakaj bojim se, da ne bi zaradi najinega prijateljstva trpelo Vaše blago srce, ker bi si utegnilo buditi upe, ki so neizvedljivi. Zato Vas prosim: Najino prijateljstvo naj bo kakor lep žarek, ki redno posveti v življenje, — in samo žarek, drugega nič. Veste, da sem reven, veste, da imam dolgove — kateri študent-siromak je brez njih —, veste, kako človek po zakonu pride dandanes lahko takoj do ustaljenih razmer, gmotnih in družinskih, ker ga <pb n="80"
-                   facs="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-080.jpg"/> zveza z odlično nevesto uvede hipoma v boljše kroge, ki so za vsakdanji kruh takorekoč potrebni. Je žalostna resnica. Upam, da sedaj razumete vse, tudi moj beg iz Zaselja. Bodite prepričani, da ohranim lepim trenotkom v Vaši družbi trajen spomin.</p>
+            <p n="SL-WIKI004982336">Dolžnost mi je, da Vam pišem to pismo. Zakaj bojim se, da ne bi zaradi najinega prijateljstva trpelo Vaše blago srce, ker bi si utegnilo buditi upe, ki so neizvedljivi. Zato Vas prosim: Najino prijateljstvo naj bo kakor lep žarek, ki redno posveti v življenje, — in samo žarek, drugega nič. Veste, da sem reven, veste, da imam dolgove — kateri študent-siromak je brez njih —, veste, kako človek po zakonu pride dandanes lahko takoj do ustaljenih razmer, gmotnih in družinskih, ker ga  zveza z odlično nevesto uvede hipoma v boljše kroge, ki so za vsakdanji kruh takorekoč potrebni. Je žalostna resnica. Upam, da sedaj razumete vse, tudi moj beg iz Zaselja. Bodite prepričani, da ohranim lepim trenotkom v Vaši družbi trajen spomin.</p>
             <p n="SL-WIKI004982337">Velespoštovanjem</p>
             <p n="SL-WIKI004982338">Ivan Brest.</p>
             <p n="SL-WIKI004982339">Alena je brala prvič, brala drugič. Mehanično je zvila pismo in ga skrila v žep. Pred očmi so ji začele pluti črne sence, krog čela jo je stiskala hladna teža, iz prsi, ki so se nemirno dvigale, niso mogli na dan vzdihi. Zdelo se ji je, da bi zakričala na pomoč, pa se ustnice niso razklenile, jezik ji je bil mrtev, vlažen mraz ji je polival mozeg, stene sobe so se zavrtele krog nje, vsi šolarji so se s stenami strnili v vrtinčasti ples — solnčna luč v oknih je ugasnila.</p>

@@ -143,7 +143,7 @@
 		    select="//t:teiHeader//t:fileDesc/t:extent/t:measure[@unit='words']"/>
       <xsl:choose>
         <xsl:when test="$words &lt; 50000">short</xsl:when>
-        <xsl:when test="$words &gt; 150000">long</xsl:when>
+        <xsl:when test="$words &gt; 100000">long</xsl:when>
         <xsl:otherwise>medium</xsl:otherwise>
       </xsl:choose>   
     </xsl:variable>
@@ -188,10 +188,13 @@
   <xsl:template match="t:change/t:date"/>
 
   <!-- body -->
-  <xsl:template match="t:pb">
-    <pb n="{@n}"
-	facs="{key('id', substring-after(@facs, '#'))/t:graphic[1]/@url}"/>
-  </xsl:template>
+  <!-- We do not preserve page breaks, as not all novels will have them -->
+  <xsl:template match="t:pb"/>
+  <!--
+      <pb n="{@n}"
+      facs="{key('id', substring-after(@facs, '#'))/t:graphic[1]/@url}"/>
+      </xsl:template>
+  -->
 
   <xsl:template match="t:lg">
     <p>
