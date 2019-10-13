@@ -22,17 +22,18 @@ while (<>) {
 	next
     }
     unless ($imp_id =~ /^WIKI\d+$/) {
-	print STDERR "WARN: non-IMP signature '$imp_id' for $author: $title\n";
-	next
+     	print STDERR "WARN: non-IMP signature '$imp_id' for $author: $title\n";
+     	next
     }
     ($index_year = $published) =~ s/[,-].+//; 
     $fName_txt = "$imp_id-$index_year.xml";
-    $fName_ana = "$imp_id-$index_year-ana.xml";
+    #These anas are useless for now
+    #$fName_ana = "$imp_id-$index_year-ana.xml";
     print "# $imp_id: $author. $title\n";
     print "unzip IMP-dl-tei.zip     IMP-dl-tei/$fName_txt\n";
-    print "unzip IMP-corpus-tei.zip IMP-corpus-tei/$fName_ana\n";
+    #print "unzip IMP-corpus-tei.zip IMP-corpus-tei/$fName_ana\n";
     print "$FIX IMP-dl-tei/$fName_txt     > $imp_id.txt.xml\n";
-    print "$FIX IMP-corpus-tei/$fName_ana > $imp_id.ana.xml\n";
+    #print "$FIX IMP-corpus-tei/$fName_ana > $imp_id.ana.xml\n";
 }
 print "rm IMP-dl-tei.zip\n";
 print "rm -r IMP-dl-tei\n";

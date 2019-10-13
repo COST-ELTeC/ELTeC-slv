@@ -98,7 +98,7 @@ unzip IMP-dl-tei.zip     IMP-dl-tei/WIKI00373-1900.xml
 unzip IMP-corpus-tei.zip IMP-corpus-tei/WIKI00373-1900-ana.xml
 java -jar /usr/local/bin/saxon9he.jar -xsl:../Scripts/id_p.xsl IMP-dl-tei/WIKI00373-1900.xml     > WIKI00373.txt.xml
 java -jar /usr/local/bin/saxon9he.jar -xsl:../Scripts/id_p.xsl IMP-corpus-tei/WIKI00373-1900-ana.xml > WIKI00373.ana.xml
-# WIKI00135: Janežič, Ivan. Gospa s pristave
+# WIKI00135: Janežič-Kraljev, Ivan. Gospa s pristave
 unzip IMP-dl-tei.zip     IMP-dl-tei/WIKI00135-1894.xml
 unzip IMP-corpus-tei.zip IMP-corpus-tei/WIKI00135-1894-ana.xml
 java -jar /usr/local/bin/saxon9he.jar -xsl:../Scripts/id_p.xsl IMP-dl-tei/WIKI00135-1894.xml     > WIKI00135.txt.xml

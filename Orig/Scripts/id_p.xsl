@@ -14,15 +14,10 @@
 
   <xsl:template match="tei:body//tei:p">
     <xsl:copy>
-      <!--xsl:attribute name="xml:id">
-	<xsl:text>SL-</xsl:text>
-	<xsl:value-of select="substring-before(/tei:TEI/@xml:id, '-')"/>
-	<xsl:text>.</xsl:text>
-	<xsl:number level="any" from="tei:body"/>
-      </xsl:attribute-->
       <xsl:attribute name="n">
-	<xsl:text>SL-</xsl:text>
-	<xsl:value-of select="substring-before(/tei:TEI/@xml:id, '-')"/>
+	<xsl:text>SLV-</xsl:text>
+	<xsl:value-of select="replace(substring-before(/tei:TEI/@xml:id, '-'), 'WIKI', '')"/>
+	<xsl:text>.</xsl:text>
 	<xsl:number level="any" from="tei:body"/>
       </xsl:attribute>
       <xsl:apply-templates/>
