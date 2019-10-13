@@ -20,7 +20,10 @@ while (<IDX>) {
     elsif ($sex =~ /Ž/i) {$eltec_sex = 'F'}
     else {die "Bad sex $sex for $imp_id in index!\n"};
     if    ($canon =~ /DA/i)    {$eltec_canon = 'high'}
-    elsif ($canon =~ /DELNO/i) {$eltec_canon = 'medium'}
+    #Now only low and high are allowed!!!
+    #elsif ($canon =~ /DELNO/i) {$eltec_canon = 'medium'}
+    #Provisionaly setting to "high"!
+    elsif ($canon =~ /DELNO/i) {$eltec_canon = 'high'}
     elsif ($canon =~ /NE/i)    {$eltec_canon = 'low'}
     else {die "Bad canon $canon for $imp_id in index!\n"};
     if    (!$reprints)    {$reprints = 0}
@@ -45,7 +48,11 @@ $_ = <>;
 my ($eltec_sex, $birth, $death, $label, $eltec_canon, $reprints) =
     split "\t", $meta{$imp_id};
 
-$id = "SL-$imp_id"; #ELTeC ID (also filename)
+#$id = "SL-$imp_id"; #ELTeC ID (also filename)
+#Now changed to:
+$id = "SLV-$imp_id";
+$id =~ s/-WIKI//;
+
 s| xml:id=".+?"| xml:id="$id"|;
 s|</author>| ($birth-$death)</author>|;
 
