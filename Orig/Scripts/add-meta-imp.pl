@@ -13,19 +13,28 @@ while (<IDX>) {
     chomp;
     my ($author, $sex, $birth, $death, $title, 
 	$label, $published, $digitised, $period, $words, $canon, 
-	$reprints, $imp_id) =
+	$reprints, $status, $signature, $url) =
 	    split /\t/;
+    $imp_id = $url;
+    next if $status eq 'WAIT';
+    unless ($imp_id) {
+	print STDERR "WARN: no source for $author: $title\n";
+	next
+    }
     next unless $imp_id and $imp_id =~ /^WIKI\d+$/;
+
     if    ($sex =~ /M/i) {$eltec_sex = 'M'}
     elsif ($sex =~ /Ž/i) {$eltec_sex = 'F'}
     else {die "Bad sex $sex for $imp_id in index!\n"};
+
     if    ($canon =~ /DA/i)    {$eltec_canon = 'high'}
-    #Now only low and high are allowed!!!
+    elsif ($canon =~ /NE/i)    {$eltec_canon = 'low'}
     #elsif ($canon =~ /DELNO/i) {$eltec_canon = 'medium'}
+    #Now only low and high are allowed!
     #Provisionaly setting to "high"!
     elsif ($canon =~ /DELNO/i) {$eltec_canon = 'high'}
-    elsif ($canon =~ /NE/i)    {$eltec_canon = 'low'}
     else {die "Bad canon $canon for $imp_id in index!\n"};
+
     if    (!$reprints)    {$reprints = 0}
     elsif ($reprints =~ /^\d+$/) {}
     else {die "Bad reprints $reprints for $imp_id in index!\n"};
@@ -44,7 +53,7 @@ $_ = <>;
 ($imp_id) = /xml:id="(.+?)-\d\d\d\d"/so 
     or die "Bad ID in $_!\n";
 
-##Note that reprints is not yet used, as it is not clear where to put it!
+##Note that reprints is not used, as it is not clear where to put this info!
 my ($eltec_sex, $birth, $death, $label, $eltec_canon, $reprints) =
     split "\t", $meta{$imp_id};
 

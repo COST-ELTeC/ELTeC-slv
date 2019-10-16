@@ -15,8 +15,10 @@ while (<>) {
     chomp;
     my ($author, $sex, $birth, $death, $title, 
 	$label, $published, $digitised, $period, $words, $canon, 
-	$reprints, $imp_id) =
+	$reprints, $status, $signature, $url) =
 	    split /\t/;
+    $imp_id = $url;
+    next if $status eq 'WAIT';
     unless ($imp_id) {
 	print STDERR "WARN: no source for $author: $title\n";
 	next
@@ -25,6 +27,7 @@ while (<>) {
      	print STDERR "WARN: non-IMP signature '$imp_id' for $author: $title\n";
      	next
     }
+    
     ($index_year = $published) =~ s/[,-].+//; 
     $fName_txt = "$imp_id-$index_year.xml";
     #These anas are useless for now

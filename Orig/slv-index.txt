@@ -1,101 +1,101 @@
-Ime in priimek	Spol	Rojstvo	Smrt	Naslov	Oznaka (roman, povest itn.)	Letnica nastanka	Letnica digitalizirane izdaje	Obdobje	Število besed	Kanoničnost 	Število ponatisov	Signatura IMP
-Bartel, Anton	m	1853	1938	Pomladanski vetrovi	Povest iz časov francoskih vojsk	1881	2015	C	65,101	NE		WIKI00094
-Bedenek, Jakob	m	1850	1916	Od pluga do krone	Zgodovinski roman iz minulega stoletja	1891	2015	C	81,444	NE		WIKI00024
-Cankar, Ivan	m	1876	1918	Tujci	brez oznake	1901	2015	D	43,930	DA		WIKI00410
-Cankar, Ivan	m	1876	1918	Na klancu	brez oznake	1902	2015	D	59,234	DA		WIKI00401
-Cankar, Ivan	m	1876	1918	Martin Kačur	Življenjepis idealista	1906	2015	D	40,481	DA		WIKI00398
-Cankar, Ivan	m	1876	1918	Novo življenje	brez oznake	1908	2015	D	31,296	DA		WIKI00404
-Carli Lukovič, Alojz	m	1846	1891	Zadnji dnevi v Ogleju	Izviren roman iz petega stoletja	1876	2009	B	35,907	NE		https://sl.wikisource.org/wiki/Zadnji_dnevi_v_Ogleju
-Cigler, Janez	m	1792	1867	Sreča v nesreči	Popisovanje čudne zgodbe dveh dvojčkov	1836	2007	A	33,829	DA		https://sl.wikisource.org/wiki/Sre%C4%8Da_v_nesre%C4%8Di_ali_popisovanje_%C4%8Dudne_zgodbe_dveh_dvoj%C4%8Dkov
-Detela, Fran	m	1850	1926	Malo življenje	Povest	1882	2015	C	56,394	NE		WIKI00363
-Detela, Fran	m	1850	1926	Veliki grof	Zgodovinski roman	1885	2015	C	45,301	DELNO	4	WIKI00112
-Detela, Fran	m	1850	1926	Pegam in Lambergar	Povest	1891	2015	C	62,317	DA		WIKI00111
-Detela, Fran	m	1850	1926	Trojka	Povest	1897	2015	C	78,500	DA		WIKI00278
-Detela, Fran	m	1850	1926	Novo življenje	Povest	1908	2015	D	43,379	DA		WIKI00364
-Detela, Fran	m	1850	1926	Tujski promet	Povest	1912	2015	D	56,703	DA		WIKI00368
-Fajdiga, Ivan	m	1854	1935	Nebesa	Roman	1905		D	?	NE		https://sl.wikisource.org/wiki/Nebesa_(Ivan_Fajdiga)
-Fatur, Lea	ž	1865	1943	V burji in strasti	Povest	1905	2015	D	34,780	NE		WIKI00502
-Fatur, Lea	ž	1865	1943	Za Adrijo	Povest iz uskoško-benečanskih bojev	1909	2015	D	101,214	NE		WIKI00506
-Fatur, Lea	ž	1865	1943	Komisarjeva hči	Zgodovinska povest	1910	2015	D	58,623	NE		WIKI00352
-Govekar, Fran	m	1871	1949	V krvi	brez oznake	1896	2015	C	50,499	DA		WIKI00048
-Govekar, Fran	m	1871	1949	Svitanje	Roman	1919-1921	2015	D	?	NE		https://sl.wikisource.org/wiki/Svitanje_(Fran_Govekar)
-Gruden, Josip	m	1869	1922	Na vojvodskem prestolu	Povest iz slovenske starodavnosti	1901	2015	D	32,552	NE		WIKI00425
-Jaklič, Fran	m	1868	1937	Ljudska osveta	Povest	1892	2015	D	31,531	NE		WIKI00126
-Jaklič, Fran	m	1868	1937	O, ta testament	Novela	1900	2015	D	56,991	NE		WIKI00373
-Janežič-Kraljev, Ivan	m	1855	1922	Gospa s pristave	Zgodovinski roman	1894	2015	C	96,309	NE		WIKI00135
-Jelenc, Vitomir Feodor	m	1885	1922	Žena	Roman	1910	2018	D	37,876	NE		https://sl.wikisource.org/wiki/%C5%BDena_(Vitomir_Feodor_Jelenc)
-Jurčič, Josip	m	1844	1881	Cvet in sad	Izviren roman	1877	2015	B	50,336	DA		WIKI00279
-Jurčič, Josip	m	1844	1881	Deseti brat	Izvirni roman	1866	2008	B	66,857	DA	20+	https://sl.wikisource.org/wiki/Deseti_brat_(Josip_Jur%C4%8Di%C4%8D)
-Jurčič, Josip	m	1844	1881	Med dvema stoloma	Izviren roman	1876	2008	B	21,504	DA		https://sl.wikisource.org/wiki/Med_dvema_stoloma
-Jurčič, Josip	m	1844	1881	Doktor Zober	Izviren roman	1876	2008	B	34,355	DA	14	https://sl.wikisource.org/wiki/Doktor_Zober
-Jurčič, Josip	m	1844	1881	Ivan Erazem Tatenbah	Izviren historičen roman iz sedemnajstega veka slovenske zgodovine	1873	2008	B	22,475	DA		https://sl.wikisource.org/wiki/Ivan_Erazem_Tatenbah
-Jurčič, Josip	m	1844	1881	Lepa Vida	Roman	1877	2007	B	21,097	DA		https://sl.wikisource.org/wiki/Lepa_Vida_(Josip_Jur%C4%8Di%C4%8D)
-Jurčič, Josip	m	1844	1881	Slovenski svetec in učitelj	Zgodovinski roman. Fragment	1886	2015	C	43,284	DA		WIKI00217
-Jurčič, Josip, Kersnik, Janko	m	1844	1881	Rokovnjači	Historičen roman	1881	2015	C	49,509	DA		WIKI00216
-Kersnik, Janko	m	1852	1897	Na Žerinjah	Izviren roman	1876	2015	B	32,465	DA		WIKI00194
-Kersnik, Janko	m	1852	1897	Ciklamen	Roman	1883	2015	C	37,097	DA		WIKI00058
-Kersnik, Janko	m	1852	1897	Agitator	Roman	1885	2015	C	26,256	DA		WIKI00187
-Koder, Anton	m	1851	1918	Marjetica	Izviren roman	1877	2015	B	61,876	DELNO	4	WIKI00099
-Koder, Anton	m	1851	1918	Zvezdana	Roman	1883	2015	C	31,016	NE		WIKI00103
-Koder, Anton	m	1851	1918	Luteranci	Historičen roman	1883	2015	C	42,357	NE		WIKI00098
-Koder, Anton	m	1851	1918	Kmetski triumvirat	Historičen roman	1884	2011	C	43,127	NE		https://sl.wikisource.org/wiki/Kmetski_triumvirat
-Kovačič, Ivo	m	1873	1936	Mladi gozdar	Izvirni roman	1903-1904	2018	C	25,196	NE		https://sl.wikisource.org/wiki/Mladi_gozdar
-Kraigher, Alojz	m	1877	1959	Mlada ljubezen	brez oznake	1917	2015	D	76,484	DA		WIKI00355
-Kveder, Zofka	ž	1878	1926	Nada	brez oznake	1907	2013	D	41,937	DA
-Kveder, Zofka	ž	1878	1926	Njeno življenje	Povest	1914	2008	D	58,748	DA		https://sl.wikisource.org/wiki/Njeno_%C5%BEivljenje
-Lah, Ivan	m	1881	1938	Brambovci	Zgodovinski roman	1910-1911	2008	D	369,223	NE		https://sl.wikisource.org/wiki/Brambovci
-Levstik, Vladimir	m	1886	1957	Blagorodje doktor Ambrož Čander	Imaginarna karikatura	1909	2015	D	49,762	NE		WIKI00345
-Levstik, Vladimir	m	1886	1957	Za svobodo in ljubezen	Roman z Balkana	1913	2015	D	124,500	NE		WIKI00483
-Levstik, Vladimir	m	1886	1957	Gadje gnezdo	Povest iz dni trpljenja in nad	1918	2015	D	38,343	DA		WIKI00478
-Mahnič, Anton	m	1850	1920	Zadnji samotar	Izviren zgodovinski roman	1885-1886	2015	C	75,308	NE		https://sl.wikisource.org/wiki/Zadnji_samotar
-Malovrh, Miroslav	m	1861	1922	Tolovajski glavar Črni Jurij in njegovi divji tovariši	Ljudski roman	1903	2017	D	258,374	NE		https://sl.wikisource.org/wiki/Tolovajski_glavar_%C4%8Crni_Jurij_in_njegovi_divji_tovari%C5%A1i,_1._del
-Malovrh, Miroslav	m	1861	1922	Pod novim orlom	Zgodovinska povest	1904	2015	D	65,382	NE		WIKI00458
-Malovrh, Miroslav	m	1861	1922	Kralj Matjaž	Zgodovinska povest	1904	2015	D	61,395	NE		WIKI00455
-Malovrh, Miroslav	m	1861	1922	Strahovalci dveh kron	Zgodovinska povest	1907	2015	D	91,184	NE		WIKI00459
-Malovrh, Miroslav	m	1861	1922	Ljubezen Končanove Klare	brez oznake	1908	2015	D	45,667	NE		WIKI00457
-Malovrh, Miroslav	m	1861	1922	Zadnji rodovine Benalja	Povest	1909	2015	D	40,138	NE		WIKI00461
-Malovrh, Miroslav	m	1861	1922	V študentskih ulicah	Ljubezenska povest	1909	2015	D	48,915	NE		WIKI00460
-Malovrh, Miroslav	m	1861	1922	Zaljubljeni kapucin	Vesela povest iz ljubljanske preteklosti	1910	2015	D	32,365	NE		WIKI00462
-Malovrh, Miroslav	m	1861	1922	Ljubezen in junaštva strahopetnega praporščaka	Roman	1910	2015	D	31,157	NE		WIKI00456
-Maselj Podlimbarski, Fran	m	1852	1917	Gorski potoki	Povest Ivana Gorca	1895	2015	C	34,499	NE		WIKI00132
-Maselj Podlimbarski, Fran	m	1852	1917	Potresna povest	brez oznake	1903	2015	D	36,674	NE		WIKI00310
-Maselj Podlimbarski, Fran	m	1852	1917	Povest Ivana Polaja	brez oznake	1909	2015	D	48,107	NE		WIKI00311
-Maselj Podlimbarski, Fran	m	1852	1917	Gospodin Franjo	Roman	1913	2008	D	173,283	DA		https://sl.wikisource.org/wiki/Gospodin_Franjo
-Mencinger, Janez	m	1838	1912	Abadon	Bajka za starce	1893	2015	C	93,056	DA		WIKI00174
-Meško, Ksaver	m	1874	1964	Kam plovemo	brez oznake	1897	2015	C	69,096	DA		WIKI00072
-Murnik, Rado	m	1870	1932	Groga in drugi	brez oznake	1895	2015	C	67,070	DELNO		WIKI00473
-Murnik, Rado	m	1870	1932	Hči grofa Blagaja	Roman	1911-1913	2015	D	112,737	NE		WIKI00526
-Murnik, Rado	m	1870	1932	Na Bledu	brez oznake	1917	2015	D	34,302	NE		WIKI00476
-Nadlišek, Marica	ž	1867	1940	Fata morgana	brez oznake	1898	2018	D	41,671	NE		https://sl.wikisource.org/wiki/Fata_morgana_(Marica_Nadli%C5%A1ek_Bartol)
-Pajk, Pavlina	ž	1854	1901	Arabela	Roman	1885	2015	C	38,910	NE		WIKI00231
-Pajk, Pavlina	ž	1854	1901	Slučaji usode	Roman	1897	2015	C	57,515	DELNO	2	WIKI00240
-Pajk, Pavlina	ž	1854	1901	Judita	Roman	1896	2018	C	22,947	NE		https://sl.wikisource.org/wiki/Judita_(Pavlina_Pajk)
-Pajk, Pavlina	ž	1854	1901	Dušne borbe	brez oznake	1896	2015	C	30,192	NE		WIKI00234
-Pesjak, Luiza	ž	1828	1898	Beatin dnevnik	Roman	1887	2015	C	29,412	NE		WIKI00227
-Podmilšak, Josip	m	1845	1874	Žalost in veselje	Povest za prosto ljudstvo	1870	2015	B	76,732	NE		WIKI00122
-Pregelj, Ivan	m	1883	1960	Tlačani	Roman iz osemnajstega stoletja	1915-1916	2015	D	71,634	DA		WIKI00417
-Prelesnik, Matija	m	1872	1905	Naš stari greh	Polabska povest	1903	2015	D	63,180	NE		WIKI00452
-Prelesnik, Matija	m	1872	1905	V smrtni senci	Baltiška povest	1904	2015	D	70,603	NE		WIKI00454
-Prepeluh, Albin	m	1881	1937	Mina	Roman	1910		D	20,147	NE		https://sl.wikisource.org/wiki/Mina_(Albin_Prepeluh)
-Saleški Finžgar, Fran	m	1871	1962	Kvišku	brez oznake	1899	2015	C	41,330	NE		WIKI00273
-Saleški Finžgar, Fran	m	1871	1962	Moja duša vasuje	brez oznake	1903	2015	D	31,168	DA		WIKI00497
-Saleški Finžgar, Fran	m	1871	1962	Iz modernega sveta	Roman	1904	2015	D	60,980	DA		WIKI00496
-Saleški Finžgar, Fran	m	1871	1962	Sama	Povest	1912	2015	D	49,744	DA		WIKI00498
-Saleški Finžgar, Fran	m	1871	1962	Boji	Povest	1915-1916	2015	D	36,249	DA		WIKI00354
-Sket, Jakob	m	1852	1912	Milko Vogrin	Novela	1883	2015	C	76,226	NE		WIKI00172
-Stritar, Josip	m	1836	1923	Zorin	brez oznake	1870	2011	B	 31.976	DA		https://sl.wikisource.org/wiki/Zorin
-Stritar, Josip	m	1836	1923	Sodnikovi	brez oznake	1875	2009	B	58.910 	DA		https://sl.wikisource.org/wiki/Sodnikovi
-Stritar, Josip	m	1836	1923	Gospod Mirodolski	brez oznake	1876	2013	B	55,460	DA		https://www.biblos.si/isbn/9789612428211
-Šorli, Ivo	m	1877	1958	Štefan Zaplotnik	Povest veselega človeka	1916	2015	D	33,807	NE		WIKI00325
-Štrukelj, Ivan	m	1869	1948	Zmota in povrat	Povest	1892	2015	C	33,156	NE		WIKI00092
-Štrukelj, Ivan	m	1869	1948	Spletke	Povest iz nedavnih časov	1894	2015	C	38,383	NE		WIKI00090
-Tavčar, Ivan	m	1851	1923	4000	Času primerna povest iz prihodnjih dob	1891	2015	C	34,073	DA		WIKI00136
-Tavčar, Ivan	m	1851	1923	V Zali	brez oznake	1894	2015	C	39,837	DA		WIKI00055
-Tavčar, Ivan	m	1851	1923	Izza kongresa	Zgodovinski roman	1905-1908	2015	D	94,723	DA		WIKI00406
-Tavčar, Ivan	m	1851	1923	Visoška kronika	Svoji ženi Frančiški, sedanji Visošci, poklanja Emil Leon. 1695.	1919	2008	D	58,804	DA		https://sl.wikisource.org/wiki/Viso%C5%A1ka_kronika
-Trošt, Ivo	m	1865	1937	Temni oblaki	Povest	1895	2015	C	32,011	NE		WIKI00421
-Vodeb, Emil	m	1880	1921	Libera nos a malo	Zgodovinski roman	1911	2011	D	36,285	NE		https://sl.wikisource.org/wiki/Libera_nos_a_malo
-Vošnjak, Josip	m	1834	1911	Pobratimi	Roman	1889		C	64,263	NE		https://sl.wikisource.org/wiki/Pobratimi
-Zbašnik, Fran	m	1855	1935	Žrtve	Povest	1901	2015	D	56,077	NE		WIKI00488
-Zbašnik, Fran	m	1855	1935	Pisana mati	Povest	1909	2015	D	69,977	NE		WIKI00391
-Zbašnik, Fran	m	1855	1935	Z viharja v zavetje	Roman iz življenja preproste deklice	1900		D	101,783	NE		https://sl.wikisource.org/wiki/Z_viharja_v_zavetje				
+Ime in priimek	Spol	Rojstvo	Smrt	Naslov	Oznaka	Letnica nastanka	Letnica digitalizirane izdaje	Obdobje	Število besed	Kanoničnost 	Število ponatisov	Status	Signatura	URL	ALT URL		
+Cankar, Izidor	m	1886	1959	S poti		1913	2007	D		DA		ADD	SLV30001	http://nl.ijs.si/e-zrc/izidor/tei/spoti-2007-10-08.xml			
+Sket, Jakob	m	1852	1912	Miklova Zala	Povest iz turških časov	1884		C	40,908	DA		ADD	SLV20002	http://lit.ijs.si/miklovaz.html	https://sl.wikisource.org/wiki/Miklova_Zala		
+Kočevar, Ferdo	m	1833	1878	Mlinarjev Janez	Po narodni pripovedki iz srede petnajstoga stoletja	1859		A	35,936	DELNO		ADD	SLV20001	http://lit.ijs.si/janez1.html	https://sl.wikisource.org/wiki/Mlinarjev_Janez		
+Zbašnik, Fran	m	1855	1935	Z viharja v zavetje	Roman iz življenja preproste deklice	1900	2019	D	101,783	NE		WAIT	SLV10032	https://sl.wikisource.org/wiki/Z_viharja_v_zavetje			
+Lah, Ivan	m	1881	1938	Brambovci	Zgodovinski roman	1910-1911	2008	D	369,223	NE		WAIT	SLV10031	https://sl.wikisource.org/wiki/Brambovci			
+Govekar, Fran	m	1871	1949	Svitanje	Roman	1919-1921	2015	D		NE		WAIT	SLV10030	https://sl.wikisource.org/wiki/Svitanje_(Fran_Govekar)			
+Kersnik, Janko	m	1852	1897	Rošlin in Vrjanko	Povest	1889		C	38,390	DA		ADD	SLV10029	https://sl.wikisource.org/wiki/Ro%C5%A1lin_in_Vrjanko			
+Vošnjak, Josip	m	1834	1911	Pobratimi	Roman	1889	2019	C	64,263	NE		ADD	SLV10028	https://sl.wikisource.org/wiki/Pobratimi			
+Vodeb, Emil	m	1880	1921	Libera nos a malo	Zgodovinski roman	1911	2011	D	36,285	NE		ADD	SLV10027	https://sl.wikisource.org/wiki/Libera_nos_a_malo			
+Tavčar, Ivan	m	1851	1923	Visoška kronika	Svoji ženi Frančiški, sedanji Visošci, poklanja Emil Leon. 1695.	1919	2008	D	58,804	DA		ADD	SLV10026	https://sl.wikisource.org/wiki/Viso%C5%A1ka_kronika			
+Stritar, Josip	m	1836	1923	Gospod Mirodolski		1876	2013	B	55,460	DA		ADD	SLV10025	https://sl.wikisource.org/wiki/Gospod_Mirodolski			
+Stritar, Josip	m	1836	1923	Sodnikovi		1875	2009	B	58.910 	DA		ADD	SLV10024	https://sl.wikisource.org/wiki/Sodnikovi			
+Stritar, Josip	m	1836	1923	Zorin		1870	2011	B	 31.976	DA		ADD	SLV10023	https://sl.wikisource.org/wiki/Zorin			
+Prepeluh, Albin	m	1881	1937	Mina	Roman	1910	2019	D	20,147	NE		ADD	SLV10022	https://sl.wikisource.org/wiki/Mina_(Albin_Prepeluh)			
+Pajk, Pavlina	ž	1854	1901	Judita	Roman	1896	2018	C	22,947	NE		ADD	SLV10021	https://sl.wikisource.org/wiki/Judita_(Pavlina_Pajk)			
+Nadlišek, Marica	ž	1867	1940	Fata morgana		1898	2018	D	41,671	NE		ADD	SLV10020	https://sl.wikisource.org/wiki/Fata_morgana_(Marica_Nadli%C5%A1ek_Bartol)			
+Milčinski, Fran	m	1867	1932	Ptički brez gnezda		1917		D	91,918	DELNO		ADD	SLV10019	https://sl.wikisource.org/wiki/Pti%C4%8Dki_brez_gnezda			
+Maselj Podlimbarski, Fran	m	1852	1917	Gospodin Franjo	Roman	1913	2008	D	173,283	DA		ADD	SLV10018	https://sl.wikisource.org/wiki/Gospodin_Franjo			
+Malovrh, Miroslav	m	1861	1922	Tolovajski glavar Črni Jurij in njegovi divji tovariši	Ljudski roman	1903	2017	D	258,374	NE		ADD	SLV10017	https://sl.wikisource.org/wiki/Tolovajski_glavar_%C4%8Crni_Jurij_in_njegovi_divji_tovari%C5%A1i,_1._del			
+Mahnič, Anton	m	1850	1920	Zadnji samotar	Izviren zgodovinski roman	1885-1886	2015	C	75,308	NE		ADD	SLV10016	https://sl.wikisource.org/wiki/Zadnji_samotar			
+Kveder, Zofka	ž	1878	1926	Njeno življenje	Povest	1914	2008	D	58,748	DA		ADD	SLV10015	https://sl.wikisource.org/wiki/Njeno_%C5%BEivljenje			
+Kveder, Zofka	ž	1878	1926	Nada		1907	2013	D	41,937	DA		ADD	SLV10014	https://sl.wikisource.org/wiki/Nada_(Zofka_Kveder)			
+Kovačič, Ivo	m	1873	1936	Mladi gozdar	Izvirni roman	1903-1904	2018	C	25,196	NE		ADD	SLV10013	https://sl.wikisource.org/wiki/Mladi_gozdar			
+Koder, Anton	m	1851	1918	Kmetski triumvirat	Historičen roman	1884	2011	C	43,127	NE		ADD	SLV10012	https://sl.wikisource.org/wiki/Kmetski_triumvirat			
+Jurčič, Josip	m	1844	1881	Lepa Vida	Roman	1877	2007	B	21,097	DA		ADD	SLV10011	https://sl.wikisource.org/wiki/Lepa_Vida_(Josip_Jur%C4%8Di%C4%8D)			
+Jurčič, Josip	m	1844	1881	Ivan Erazem Tatenbah	Izviren historičen roman iz sedemnajstega veka slovenske zgodovine	1873	2008	B	22,475	DA		ADD	SLV10010	https://sl.wikisource.org/wiki/Ivan_Erazem_Tatenbah			
+Jurčič, Josip	m	1844	1881	Doktor Zober	Izviren roman	1876	2008	B	34,355	DA	14	ADD	SLV10009	https://sl.wikisource.org/wiki/Doktor_Zober			
+Jurčič, Josip	m	1844	1881	Med dvema stoloma	Izviren roman	1876	2008	B	21,504	DA		ADD	SLV10008	https://sl.wikisource.org/wiki/Med_dvema_stoloma			
+Jurčič, Josip	m	1844	1881	Deseti brat	Izvirni roman	1866	2008	B	66,857	DA	20+	ADD	SLV10007	https://sl.wikisource.org/wiki/Deseti_brat_(Josip_Jur%C4%8Di%C4%8D)			
+Jelenc, Vitomir Feodor	m	1885	1922	Žena	Roman	1910	2018	D	37,876	NE		ADD	SLV10006	https://sl.wikisource.org/wiki/%C5%BDena_(Vitomir_Feodor_Jelenc)			
+Finžgar, Fran Saleški	m	1871	1962	Pod svobodnim soncem		1906-1907		D	161,635	DA		ADD	SLV10005	https://sl.wikisource.org/wiki/Pod_svobodnim_soncem			
+Fajdiga, Ivan	m	1854	1935	Nebesa	Roman	1905	2019	D		NE		ADD	SLV10004	https://sl.wikisource.org/wiki/Nebesa_(Ivan_Fajdiga)			
+Cigler, Janez	m	1792	1867	Sreča v nesreči	Popisovanje čudne zgodbe dveh dvojčkov	1836	2007	A	33,829	DA		ADD	SLV10003	https://sl.wikisource.org/wiki/Sre%C4%8Da_v_nesre%C4%8Di_ali_popisovanje_%C4%8Dudne_zgodbe_dveh_dvoj%C4%8Dkov			
+Carli Lukovič, Alojz	m	1846	1891	Zadnji dnevi v Ogleju	Izviren roman iz petega stoletja	1876	2009	B	35,907	NE		ADD	SLV10002	https://sl.wikisource.org/wiki/Zadnji_dnevi_v_Ogleju			
+Cankar, Ivan	m	1876	1918	Hiša Marije Pomočnice		1904		D	33,991	DA		ADD	SLV10001	https://sl.wikisource.org/wiki/Hi%C5%A1a_Marije_Pomo%C4%8Dnice			
+Murnik, Rado	m	1870	1932	Hči grofa Blagaja	Roman	1911-1913	2015	D	112,737	NE		OK	SLV00526	WIKI00526			
+Fatur, Lea	ž	1865	1943	Za Adrijo	Povest iz uskoško-benečanskih bojev	1909	2015	D	101,214	NE		OK	SLV00506	WIKI00506			
+Fatur, Lea	ž	1865	1943	V burji in strasti	Povest	1905	2015	D	34,780	NE		OK	SLV00502	WIKI00502			
+Finžgar, Fran Saleški	m	1871	1962	Sama	Povest	1912	2015	D	49,744	DA		OK	SLV00498	WIKI00498			
+Finžgar, Fran Saleški	m	1871	1962	Moja duša vasuje	brez oznake	1903	2015	D	31,168	DA		OK	SLV00497	WIKI00497			
+Finžgar, Fran Saleški	m	1871	1962	Iz modernega sveta	Roman	1904	2015	D	60,980	DA		OK	SLV00496	WIKI00496			
+Levstik, Vladimir	m	1886	1957	Za svobodo in ljubezen	Roman z Balkana	1913	2015	D	124,500	NE		OK	SLV00483	WIKI00483			
+Levstik, Vladimir	m	1886	1957	Gadje gnezdo	Povest iz dni trpljenja in nad	1918	2015	D	38,343	DA		OK	SLV00478	WIKI00478			
+Murnik, Rado	m	1870	1932	Na Bledu	brez oznake	1917	2015	D	34,302	NE		OK	SLV00476	WIKI00476			
+Murnik, Rado	m	1870	1932	Groga in drugi	brez oznake	1895	2015	C	67,070	DELNO		OK	SLV00473	WIKI00473			
+Malovrh, Miroslav	m	1861	1922	Zadnji rodovine Benalja	Povest	1909	2015	D	40,138	NE		OK	SLV00461	WIKI00461			
+Malovrh, Miroslav	m	1861	1922	V študentskih ulicah	Ljubezenska povest	1909	2015	D	48,915	NE		OK	SLV00460	WIKI00460			
+Malovrh, Miroslav	m	1861	1922	Strahovalci dveh kron	Zgodovinska povest	1907	2015	D	91,184	NE		OK	SLV00459	WIKI00459			
+Malovrh, Miroslav	m	1861	1922	Pod novim orlom	Zgodovinska povest	1904	2015	D	65,382	NE		OK	SLV00458	WIKI00458			
+Malovrh, Miroslav	m	1861	1922	Ljubezen in junaštva strahopetnega praporščaka	Roman	1910	2015	D	31,157	NE		OK	SLV00456	WIKI00456			
+Malovrh, Miroslav	m	1861	1922	Kralj Matjaž	Zgodovinska povest	1904	2015	D	61,395	NE		OK	SLV00455	WIKI00455			
+Prelesnik, Matija	m	1872	1905	V smrtni senci	Baltiška povest	1904	2015	D	70,603	NE		OK	SLV00454	WIKI00454			
+Prelesnik, Matija	m	1872	1905	Naš stari greh	Polabska povest	1903	2015	D	63,180	NE		OK	SLV00452	WIKI00452			
+Gruden, Josip	m	1869	1922	Na vojvodskem prestolu	Povest iz slovenske starodavnosti	1901	2015	D	32,552	NE		OK	SLV00425	WIKI00425			
+Trošt, Ivo	m	1865	1937	Temni oblaki	Povest	1895	2015	C	32,011	NE		OK	SLV00421	WIKI00421			
+Pregelj, Ivan	m	1883	1960	Tlačani	Roman iz osemnajstega stoletja	1915-1916	2015	D	71,634	DA		OK	SLV00417	WIKI00417			
+Cankar, Ivan	m	1876	1918	Tujci		1901	2015	D	43,930	DA		OK	SLV00410	WIKI00410			
+Tavčar, Ivan	m	1851	1923	Izza kongresa	Zgodovinski roman	1905-1908	2015	D	94,723	DA		OK	SLV00406	WIKI00406			
+Cankar, Ivan	m	1876	1918	Na klancu	brez oznake	1902	2015	D	59,234	DA		OK	SLV00401	WIKI00401			
+Cankar, Ivan	m	1876	1918	Martin Kačur	Življenjepis idealista	1906	2015	D	40,481	DA		OK	SLV00398	WIKI00398			
+Zbašnik, Fran	m	1855	1935	Pisana mati	Povest	1909	2015	D	69,977	NE		OK	SLV00391	WIKI00391			
+Jaklič, Fran	m	1868	1937	O, ta testament	Novela	1900	2015	D	56,991	NE		OK	SLV00373	WIKI00373			
+Detela, Fran	m	1850	1926	Novo življenje	Povest	1908	2015	D	43,379	DA		OK	SLV00364	WIKI00364			
+Detela, Fran	m	1850	1926	Malo življenje	Povest	1882	2015	C	56,394	NE		OK	SLV00363	WIKI00363			
+Kraigher, Alojz	m	1877	1959	Mlada ljubezen	brez oznake	1917	2015	D	76,484	DA		OK	SLV00355	WIKI00355			
+Fatur, Lea	ž	1865	1943	Komisarjeva hči	Zgodovinska povest	1910	2015	D	58,623	NE		OK	SLV00352	WIKI00352			
+Levstik, Vladimir	m	1886	1957	Blagorodje doktor Ambrož Čander	Imaginarna karikatura	1909	2015	D	49,762	NE		OK	SLV00345	WIKI00345			
+Šorli, Ivo	m	1877	1958	Štefan Zaplotnik	Povest veselega človeka	1916	2015	D	33,807	NE		OK	SLV00325	WIKI00325			
+Tavčar, Ivan	m	1851	1923	Cvetje v jeseni		1917		D	30,439	DA		ADD	SLV00324	WIKI00324			
+Maselj Podlimbarski, Fran	m	1852	1917	Potresna povest	brez oznake	1903	2015	D	36,674	NE		OK	SLV00310	WIKI00310			
+Jurčič, Josip	m	1844	1881	Cvet in sad	Izviren roman	1877	2015	B	50,336	DA		OK	SLV00279	WIKI00279			
+Detela, Fran	m	1850	1926	Trojka	Povest	1897	2015	C	78,500	DA		OK	SLV00278	WIKI00278			
+Finžgar, Fran Saleški	m	1871	1962	Kvišku	brez oznake	1899	2015	C	41,330	NE		OK	SLV00273	WIKI00273			
+Pajk, Pavlina	ž	1854	1901	Slučaji usode	Roman	1897	2015	C	57,515	DELNO	2	OK	SLV00240	WIKI00240			
+Pajk, Pavlina	ž	1854	1901	Dušne borbe	brez oznake	1896	2015	C	30,192	NE		OK	SLV00234	WIKI00234			
+Pajk, Pavlina	ž	1854	1901	Arabela	Roman	1885	2015	C	38,910	NE		OK	SLV00231	WIKI00231			
+Pesjak, Luiza	ž	1828	1898	Beatin dnevnik	Roman	1887	2015	C	29,412	NE		OK	SLV00227	WIKI00227			
+Jurčič, Josip	m	1844	1881	Slovenski svetec in učitelj	Zgodovinski roman. Fragment	1886	2015	C	43,284	DA		OK	SLV00217	WIKI00217			
+Jurčič, Josip, Kersnik, Janko	m	1844	1881	Rokovnjači	Historičen roman	1881	2015	C	49,509	DA		OK	SLV00216	WIKI00216			
+Kersnik, Janko	m	1852	1897	Na Žerinjah	Izviren roman	1876	2015	B	32,465	DA		OK	SLV00194	WIKI00194			
+Kersnik, Janko	m	1852	1897	Agitator	Roman	1885	2015	C	26,256	DA		OK	SLV00187	WIKI00187			
+Mencinger, Janez	m	1838	1912	Abadon	Bajka za starce	1893	2015	C	93,056	DA		OK	SLV00174	WIKI00174			
+Sket, Jakob	m	1852	1912	Milko Vogrin	Novela	1883	2015	C	76,226	NE		OK	SLV00172	WIKI00172			
+Tavčar, Ivan	m	1851	1923	4000	Času primerna povest iz prihodnjih dob	1891	2015	C	34,073	DA		OK	SLV00136	WIKI00136			
+Janežič-Kraljev, Ivan	m	1855	1922	Gospa s pristave	Zgodovinski roman	1894	2015	C	96,309	NE		OK	SLV00135	WIKI00135			
+Maselj Podlimbarski, Fran	m	1852	1917	Gorski potoki	Povest Ivana Gorca	1895	2015	C	34,499	NE		OK	SLV00132	WIKI00132			
+Jaklič, Fran	m	1868	1937	Ljudska osveta	Povest	1892	2015	D	31,531	NE		OK	SLV00126	WIKI00126			
+Podmilšak, Josip	m	1845	1874	Žalost in veselje	Povest za prosto ljudstvo	1870	2015	B	76,732	NE		OK	SLV00122	WIKI00122			
+Detela, Fran	m	1850	1926	Veliki grof	Zgodovinski roman	1885	2015	C	45,301	DELNO	4	OK	SLV00112	WIKI00112			
+Detela, Fran	m	1850	1926	Pegam in Lambergar	Povest	1891	2015	C	62,317	DA		OK	SLV00111	WIKI00111			
+Koder, Anton	m	1851	1918	Zvezdana	Roman	1883	2015	C	31,016	NE		OK	SLV00103	WIKI00103			
+Koder, Anton	m	1851	1918	Marjetica	Izviren roman	1877	2015	B	61,876	DELNO	4	OK	SLV00099	WIKI00099			
+Koder, Anton	m	1851	1918	Luteranci	Historičen roman	1883	2015	C	42,357	NE		OK	SLV00098	WIKI00098			
+Bartel, Anton	m	1853	1938	Pomladanski vetrovi	Povest iz časov francoskih vojsk	1881	2015	C	65,101	NE		OK	SLV00094	WIKI00094			
+Štrukelj, Ivan	m	1869	1948	Zmota in povrat	Povest	1892	2015	C	33,156	NE		OK	SLV00092	WIKI00092			
+Štrukelj, Ivan	m	1869	1948	Spletke	Povest iz nedavnih časov	1894	2015	C	38,383	NE		OK	SLV00090	WIKI00090			
+Meško, Ksaver	m	1874	1964	Kam plovemo	brez oznake	1897	2015	C	69,096	DA		OK	SLV00072	WIKI00072			
+Kersnik, Janko	m	1852	1897	Ciklamen	Roman	1883	2015	C	37,097	DA		OK	SLV00058	WIKI00058			
+Govekar, Fran	m	1871	1949	V krvi	brez oznake	1896	2015	C	50,499	DA		OK	SLV00048	WIKI00048			
+Bedenek, Jakob	m	1850	1916	Od pluga do krone	Zgodovinski roman iz minulega stoletja	1891	2015	C	81,444	NE		OK	SLV00024	WIKI00024			
