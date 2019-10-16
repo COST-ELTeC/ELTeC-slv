@@ -24,7 +24,7 @@ while (<>) {
 	next
     }
     unless ($imp_id =~ /^WIKI\d+$/) {
-     	print STDERR "WARN: non-IMP signature '$imp_id' for $author: $title\n";
+     	#print STDERR "WARN: non-IMP signature '$imp_id' for $author: $title\n";
      	next
     }
     
@@ -40,5 +40,5 @@ while (<>) {
 }
 print "rm IMP-dl-tei.zip\n";
 print "rm -r IMP-dl-tei\n";
-print "rm IMP-corpus-tei.zip\n";
-print "rm -r IMP-corpus-tei\n";
+#print "rm IMP-corpus-tei.zip\n";
+#print "rm -r IMP-corpus-tei\n";
