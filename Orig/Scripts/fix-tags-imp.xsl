@@ -18,10 +18,78 @@
   <xsl:variable name="Today" select="substring-before(current-date() cast as xs:string, '+')"/>
 
   <xsl:template match="/">
-    <xsl:text disable-output-escaping="yes">&#10;&lt;?</xsl:text>
-    <xsl:text>xml-model href="https://distantreading.github.io/Schema/eltec-1.rng"</xsl:text>
+    <xsl:text disable-output-escaping="yes">&#10;&lt;?xml-model</xsl:text>
+    <xsl:text> href="../../Schemas/eltec-1.rng"</xsl:text>
+    <xsl:text> type="application/xml"</xsl:text>
+    <xsl:text>&#10;            schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
     <xsl:text disable-output-escaping="yes">?&gt;&#10;</xsl:text>
-    <xsl:apply-templates/>
+    <xsl:text disable-output-escaping="yes">&lt;?xml-model</xsl:text>
+    <xsl:text> href="../../Schemas/eltec-1.rng"</xsl:text>
+    <xsl:text> type="application/xml"</xsl:text>
+    <xsl:text>&#10;            schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:text>
+    <xsl:text disable-output-escaping="yes">?&gt;&#10;</xsl:text>
+    <xsl:variable name="pass1">
+      <xsl:apply-templates/>
+    </xsl:variable>
+    <!-- Give correct @xml:id to TEI and @n to p -->
+    <xsl:apply-templates mode="id" select="$pass1"/>
+  </xsl:template>
+
+  <xsl:template mode="id" match="tei:TEI">
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <!-- From "WIKI00024-1891" to "SLV00024" -->
+      <xsl:variable name="id">
+	<!--xsl:text>SLV</xsl:text>
+	    <xsl:value-of select="replace(@xml:id, 'WIKI(\d+)-.+', '$1')"/-->
+	<!-- Already correctly set in add-metadata -->
+	<xsl:value-of select="@xml:id"/>
+      </xsl:variable>
+      <xsl:attribute name="xml:id" select="$id"/>
+      <xsl:apply-templates mode="id">
+	<xsl:with-param name="id" select="$id"/>
+      </xsl:apply-templates>
+    </xsl:copy>
+  </xsl:template>
+  
+  <xsl:template mode="id" match="tei:text">
+    <xsl:param name="id"/>
+    <xsl:copy>
+      <xsl:attribute name="n">
+	<xsl:value-of select="$id"/>
+      </xsl:attribute>
+      <xsl:apply-templates mode="id">
+	<xsl:with-param name="id" select="$id"/>
+      </xsl:apply-templates>
+    </xsl:copy>
+  </xsl:template>
+
+  <xsl:template mode="id" match="tei:text//tei:p">
+    <xsl:param name="id"/>
+    <xsl:copy>
+      <xsl:attribute name="n">
+	<xsl:value-of select="$id"/>
+	<xsl:text>.</xsl:text>
+	<xsl:number level="any" from="tei:text"/>
+      </xsl:attribute>
+      <xsl:apply-templates mode="id">
+	<xsl:with-param name="id" select="$id"/>
+      </xsl:apply-templates>
+    </xsl:copy>
+  </xsl:template>
+  
+  <!-- Copy everything else -->
+  <xsl:template mode="id" match="*">
+    <xsl:param name="id"/>
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <xsl:apply-templates mode="id">
+	<xsl:with-param name="id" select="$id"/>
+      </xsl:apply-templates>
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template mode="id" match="text()">
+    <xsl:value-of select="."/>
   </xsl:template>
 
   <!-- Suppress these attributes -->
@@ -41,24 +109,10 @@
   <xsl:template match="tei:title[@type='reg']"/>
   
   <!-- Suppress these tags -->
-
-  <!-- Not sure if hi/emph should be suppresed, cf. unclear statements in
-       https://distantreading.github.io/encoding_proposal.html
-       But note that one problem with hi/emph is not addressed:
-       without them <p> content is plain text (modulo empty <pb/>), which
-       makes it much easier to linguistically annotate text, as you don't need
-       to worry about existing annotation inside paragraphs.
-  -->
-  <!--xsl:template match="tei:hi | tei:emph">
+  <xsl:template match="tei:hi | tei:emph">
     <xsl:apply-templates/>
-  </xsl:template-->
-  <!-- Seems <l> is to be left intact, cf.
-       https://github.com/distantreading/WG1/wiki/textFeatures
-  -->
-  <!--xsl:template match="tei:l">
-    <xsl:apply-templates/>
-  </xsl:template-->
-
+  </xsl:template>
+  
   <!-- Change these elements -->
 
   <!-- teiHeader -->
@@ -66,18 +120,25 @@
   <xsl:template match="tei:titleStmt/tei:title">
     <title>
       <xsl:value-of select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:title[@type='orig']"/>
-      <xsl:text> : ELTeC edition</xsl:text>
+      <xsl:text> : edicija ELTeC</xsl:text>
     </title>
     <xsl:apply-templates select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:author"/>
   </xsl:template>
   
   <xsl:template match="tei:titleStmt/tei:respStmt">
     <respStmt>
-      <name>Tomaž Erjavec</name>
       <resp xml:lang="en">Conversion from IMP to ELTeC.</resp>
+      <name>Tomaž Erjavec</name>
     </respStmt>
     <respStmt>
-      <xsl:apply-templates/>
+      <resp xml:lang="en">Selection and ELTeC metadata of included novels.</resp>
+      <name>Miran Hladnik</name>
+      <name>Marko Juvan</name>
+      <name>Katja Mihurko Poniž</name>
+    </respStmt>
+    <respStmt>
+      <xsl:apply-templates select="tei:resp"/>
+      <xsl:apply-templates select="tei:name"/>
     </respStmt>
   </xsl:template>
   
@@ -99,11 +160,13 @@
 
   <xsl:template match="tei:publicationStmt">
     <publicationStmt xml:lang="en">
-      <p>Added to ELTeC <date><xsl:value-of select="$Today"/></date></p>
-      <!-- ELTeC will have to discuss <availablity>! -->
-      <!--p>This work is licensed under the
-        <ref target="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
-        Attribution-ShareAlike 4.0 International License</ref>.</p-->
+      <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+      <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+      <date><xsl:value-of select="$Today"/></date>
+      <availability>
+	<licence target="https://creativecommons.org/licenses/by/4.0/"/>
+      </availability>
+      <!--ref type="doi" target="https://doi.org/10.5281/zenodo.XXXXXX"/-->
     </publicationStmt>
   </xsl:template>
 
@@ -113,34 +176,34 @@
     <xsl:variable name="titlePageImage"
 		  select="/tei:TEI/tei:facsimile/tei:surface[1]/tei:graphic[1]/@url"/>
     <bibl type="digitalSource">
-      <title><xsl:value-of select="tei:title[1]"/></title>
-      <author><xsl:value-of select="tei:author"/></author>
-      <publisher>
+      <author><xsl:value-of select="replace(tei:author[1], ' \(\d+-\d+\)', '')"/></author>
+      <title><xsl:value-of select="tei:title[1]"/> : edicija IMP</title>
+      <xsl:apply-templates select="//tei:teiHeader//tei:publicationStmt/tei:date"/>
+      <!--publisher>
 	<xsl:text>CLARIN.SI </xsl:text>
         <ref target="{$imp-handle}"><xsl:value-of select="$imp-handle"/></ref>
-      </publisher>
+      </publisher-->
+      <idno type="handle"><xsl:value-of select="$imp-handle"/></idno>
       <idno type="url">
 	<xsl:text>http://nl.ijs.si/imp/wikivir/dl/</xsl:text>
 	<xsl:value-of select="ancestor::tei:teiHeader//tei:idno"/>
 	<xsl:text>.html</xsl:text>
       </idno>
       <idno type="wikilink"><xsl:value-of select="tei:pubPlace/tei:ref[1]/@target"/></idno>
-      <idno type="urn"><xsl:value-of select="tei:pubPlace/tei:ref[2]/@target"/></idno>
-      <idno type="handle"><xsl:value-of select="$imp-handle"/></idno>
     </bibl>
-    <bibl type="unspecified" xml:lang="en">
+    <bibl type="unspecified">
+      <author><xsl:value-of select="replace(tei:author[1], ' \(\d+-\d+\)', '')"/></author>
+      <xsl:apply-templates select="tei:title"/>
+      <xsl:apply-templates select="tei:date"/>
+      <idno type="urn"><xsl:value-of select="tei:pubPlace/tei:ref[2]/@target"/></idno>
       <ref target="{$titlePageImage}">Title page</ref>
       <ref target="{$facsimile}">Facsimile</ref>
-      <xsl:apply-templates select="tei:date"/>
     </bibl>
   </xsl:template>
   
   <xsl:template match="tei:encodingDesc">
     <encodingDesc n="eltec-1">
-      <p/>
-      <!--projectDesc>
-	<p xml:lang="en">COST Action CA16204 - Distant Reading for European Literary History</p>
-      </projectDesc-->
+      <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
     </encodingDesc>
   </xsl:template>
   
@@ -167,11 +230,16 @@
         <xsl:when test="$year &lt; 1900 and $year &gt; 1879">T3</xsl:when>
         <xsl:when test="$year &lt; 1921 and $year &gt; 1899">T4</xsl:when>
         <xsl:otherwise>
-	  <xsl:message select="concat('ERROR: Strange year ', $year)"/>
+	  <xsl:message terminate="yes" select="concat('ERROR: Strange year ', $year)"/>
 	  <xsl:text>???</xsl:text>
 	</xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
+    <xsl:if test="normalize-space(@key) and @key ne $slot">
+      <xsl:message terminate="no" select="concat('ERROR: periods for ',
+					  /tei:TEI/@xml:id, ' do not match: ',
+					  @key, ' !== ', $slot)"/>
+    </xsl:if>
     <eltec:timeSlot key="{$slot}"/>
   </xsl:template>
   
@@ -184,7 +252,7 @@
   <xsl:template match="tei:revisionDesc">
     <revisionDesc>
       <change xml:lang="en" when="{$Today}">Tomaž Erjavec: converted to ELTeC</change>
-      <xsl:apply-templates/>
+      <!--xsl:apply-templates/-->
     </revisionDesc>
   </xsl:template>
   <xsl:template match="tei:change">
@@ -261,17 +329,25 @@
       </xsl:template>
   -->
 
+  
+  <!-- cf. https://github.com/distantreading/WG1/wiki/textFeatures
+       But note that Wiki sources most likely wont have <l>s marked up
+  -->
   <xsl:template match="tei:lg">
     <p>
       <xsl:apply-templates/>
     </p>
   </xsl:template>
-  
-  <!-- Hmm, dodgy -->
+  <xsl:template match="tei:l">
+    <l>
+      <xsl:apply-templates/>
+    </l>
+  </xsl:template>
+
+  <!-- Do not mark up corrections - there are few, we don't have this in
+       WikiSource, and it complicates processing -->
   <xsl:template match="tei:choice">
-    <corr>
-      <xsl:value-of select="tei:corr"/>
-    </corr>
+    <xsl:value-of select="tei:corr"/>
   </xsl:template>
   
   <!-- Copy everything else -->
@@ -281,8 +357,6 @@
     </xsl:copy>
   </xsl:template>
   <xsl:template match="text()">
-    <!--Normalisation would glue together "xxx <hi>bla</hi> yyy" -->
-    <!--xsl:value-of select="normalize-space(.)"/-->
     <xsl:value-of select="."/>
   </xsl:template>
 </xsl:stylesheet>
