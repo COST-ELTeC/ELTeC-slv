@@ -10,8 +10,8 @@ Vošnjak, Josip	m	1834	1911	Pobratimi	Roman	1889	2019	C	64,263	NE		ADD	SLV10028	
 Vodeb, Emil	m	1880	1921	Libera nos a malo	Zgodovinski roman	1911	2011	D	36,285	NE		ADD	SLV10027	https://sl.wikisource.org/wiki/Libera_nos_a_malo			
 Tavčar, Ivan	m	1851	1923	Visoška kronika	Svoji ženi Frančiški, sedanji Visošci, poklanja Emil Leon. 1695.	1919	2008	D	58,804	DA		ADD	SLV10026	https://sl.wikisource.org/wiki/Viso%C5%A1ka_kronika			
 Stritar, Josip	m	1836	1923	Gospod Mirodolski		1876	2013	B	55,460	DA		ADD	SLV10025	https://sl.wikisource.org/wiki/Gospod_Mirodolski			
-Stritar, Josip	m	1836	1923	Sodnikovi		1875	2009	B	58.910 	DA		ADD	SLV10024	https://sl.wikisource.org/wiki/Sodnikovi			
-Stritar, Josip	m	1836	1923	Zorin		1870	2011	B	 31.976	DA		ADD	SLV10023	https://sl.wikisource.org/wiki/Zorin			
+Stritar, Josip	m	1836	1923	Sodnikovi		1875	2009	B	58.910	DA		ADD	SLV10024	https://sl.wikisource.org/wiki/Sodnikovi			
+Stritar, Josip	m	1836	1923	Zorin		1870	2011	B	31.976	DA		ADD	SLV10023	https://sl.wikisource.org/wiki/Zorin			
 Prepeluh, Albin	m	1881	1937	Mina	Roman	1910	2019	D	20,147	NE		ADD	SLV10022	https://sl.wikisource.org/wiki/Mina_(Albin_Prepeluh)			
 Pajk, Pavlina	ž	1854	1901	Judita	Roman	1896	2018	C	22,947	NE		ADD	SLV10021	https://sl.wikisource.org/wiki/Judita_(Pavlina_Pajk)			
 Nadlišek, Marica	ž	1867	1940	Fata morgana		1898	2018	D	41,671	NE		ADD	SLV10020	https://sl.wikisource.org/wiki/Fata_morgana_(Marica_Nadli%C5%A1ek_Bartol)			
@@ -77,7 +77,7 @@ Pajk, Pavlina	ž	1854	1901	Dušne borbe	brez oznake	1896	2015	C	30,192	NE		OK	SL
 Pajk, Pavlina	ž	1854	1901	Arabela	Roman	1885	2015	C	38,910	NE		OK	SLV00231	WIKI00231			
 Pesjak, Luiza	ž	1828	1898	Beatin dnevnik	Roman	1887	2015	C	29,412	NE		OK	SLV00227	WIKI00227			
 Jurčič, Josip	m	1844	1881	Slovenski svetec in učitelj	Zgodovinski roman. Fragment	1886	2015	C	43,284	DA		OK	SLV00217	WIKI00217			
-Jurčič, Josip, Kersnik, Janko	m	1844	1881	Rokovnjači	Historičen roman	1881	2015	C	49,509	DA		OK	SLV00216	WIKI00216			
+Jurčič, Josip	m	1844	1881	Rokovnjači	Historičen roman	1881	2015	C	49,509	DA		OK	SLV00216	WIKI00216			
 Kersnik, Janko	m	1852	1897	Na Žerinjah	Izviren roman	1876	2015	B	32,465	DA		OK	SLV00194	WIKI00194			
 Kersnik, Janko	m	1852	1897	Agitator	Roman	1885	2015	C	26,256	DA		OK	SLV00187	WIKI00187			
 Mencinger, Janez	m	1838	1912	Abadon	Bajka za starce	1893	2015	C	93,056	DA		OK	SLV00174	WIKI00174			
@@ -85,7 +85,7 @@ Sket, Jakob	m	1852	1912	Milko Vogrin	Novela	1883	2015	C	76,226	NE		OK	SLV00172	W
 Tavčar, Ivan	m	1851	1923	4000	Času primerna povest iz prihodnjih dob	1891	2015	C	34,073	DA		OK	SLV00136	WIKI00136			
 Janežič-Kraljev, Ivan	m	1855	1922	Gospa s pristave	Zgodovinski roman	1894	2015	C	96,309	NE		OK	SLV00135	WIKI00135			
 Maselj Podlimbarski, Fran	m	1852	1917	Gorski potoki	Povest Ivana Gorca	1895	2015	C	34,499	NE		OK	SLV00132	WIKI00132			
-Jaklič, Fran	m	1868	1937	Ljudska osveta	Povest	1892	2015	D	31,531	NE		OK	SLV00126	WIKI00126			
+Jaklič, Fran	m	1868	1937	Ljudska osveta	Povest	1892	2015	C	31,531	NE		OK	SLV00126	WIKI00126			
 Podmilšak, Josip	m	1845	1874	Žalost in veselje	Povest za prosto ljudstvo	1870	2015	B	76,732	NE		OK	SLV00122	WIKI00122			
 Detela, Fran	m	1850	1926	Veliki grof	Zgodovinski roman	1885	2015	C	45,301	DELNO	4	OK	SLV00112	WIKI00112			
 Detela, Fran	m	1850	1926	Pegam in Lambergar	Povest	1891	2015	C	62,317	DA		OK	SLV00111	WIKI00111			

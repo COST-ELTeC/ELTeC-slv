@@ -33,6 +33,7 @@ Pregelj, Ivan, 1883-1960	VIAF	22231284	http://viaf.org/viaf/22231284
 Prelesnik, Matija, 1872-1905	CONOR	127306595	https://plus.si.cobiss.net/opac7/conor/127306595
 Prepeluh, Albin, 1881-1937	VIAF	79068165	http://viaf.org/viaf/79068165
 Saleški Finžgar, Fran, 1871-1962	VIAF	56648253	http://viaf.org/viaf/56648253
+Finžgar, Fran Saleški, 1871-1962	VIAF	56648253	http://viaf.org/viaf/56648253
 Sket, Jakob, 1852-1912	VIAF	93569857	http://viaf.org/viaf/93569857
 Stritar, Josip, 1836-1923	VIAF	70948422	http://viaf.org/viaf/70948422
 Tavčar, Ivan, 1851-1923	VIAF	100298803	http://viaf.org/viaf/100298803
