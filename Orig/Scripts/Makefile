@@ -31,7 +31,7 @@ grab-eziss:
 	wget http://nl.ijs.si/e-zrc/izidor/tei/spoti-2007-10-08.xml
 	wget http://nl.ijs.si/e-zrc/izidor/tei/tei2.dtd
 	mv spoti-2007-10-08.xml ../eZISS/
-xxx-convert-wiki:
+convert-wiki:
 	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt \
 	'../Wiki/*.md.xml' ../../level1
 grab-wiki:
