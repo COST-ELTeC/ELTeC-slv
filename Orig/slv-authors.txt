@@ -24,6 +24,7 @@ Malovrh, Miroslav, 1861-1922	VIAF	233014487	http://viaf.org/viaf/233014487
 Maselj Podlimbarski, Fran, 1852-1917	VIAF	24474637	http://viaf.org/viaf/24474637
 Mencinger, Janez, 1838-1912	VIAF	53025627	http://viaf.org/viaf/53025627
 Meško, Ksaver, 1874-1964	VIAF	62359223	http://viaf.org/viaf/62359223
+Milčinski, Fran, 1867-1932	VIAF	72324490	http://viaf.org/viaf/72324490
 Murnik, Rado, 1870-1932	VIAF	66026290	http://viaf.org/viaf/66026290
 Nadlišek, Marica, 1867-1940	VIAF	6737472	http://viaf.org/viaf/6737472
 Pajk, Pavlina, 1854-1901	VIAF	260393202	http://viaf.org/viaf/260393202
