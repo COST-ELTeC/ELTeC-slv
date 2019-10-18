@@ -127,26 +127,32 @@
   
   <xsl:template match="tei:titleStmt/tei:respStmt">
     <respStmt>
-      <resp xml:lang="en">Conversion from IMP to ELTeC.</resp>
+      <xsl:apply-templates select="tei:resp"/>
+      <xsl:apply-templates select="tei:name"/>
+    </respStmt>
+    <respStmt>
+      <resp>Pretvorba iz IMP v zapis ELTeC.</resp>
+      <resp xml:lang="en">Conversion from IMP to ELTeC encoding.</resp>
       <name>Tomaž Erjavec</name>
     </respStmt>
     <respStmt>
-      <resp xml:lang="en">Selection and ELTeC metadata of included novels.</resp>
-      <name>Miran Hladnik</name>
+      <resp>Izbira romanov in dodajanje metapodatkov ELTeC.</resp>
+      <resp xml:lang="en">Novel selection and ELTeC metadata.</resp>
       <name>Marko Juvan</name>
+      <name>Miran Hladnik</name>
       <name>Katja Mihurko Poniž</name>
     </respStmt>
     <respStmt>
-      <xsl:apply-templates select="tei:resp"/>
-      <xsl:apply-templates select="tei:name"/>
+      <resp>Skrbištvo WikiVira.</resp>
+      <resp xml:lang="en">Stewardship of WikiVir (Slovene WikiSource).</resp>
+      <name>Miran Hladnik</name>
     </respStmt>
   </xsl:template>
   
   <xsl:template match="tei:titleStmt/tei:respStmt/tei:resp
 		       [. = 'Pretvorba zapisa Wiki/DjVu v TEI.']">
-    <xsl:copy>
-      <xsl:text>Conversion form Wiki/DjVu to TEI.</xsl:text>
-    </xsl:copy>
+    <resp><xsl:value-of select="."/></resp>
+    <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>
   </xsl:template>
   
   <xsl:template match="tei:extent">
@@ -225,10 +231,10 @@
       <xsl:variable name="year"
 		    select="//tei:teiHeader//tei:sourceDesc/tei:bibl/tei:date[1]"/>
       <xsl:choose>
-	<xsl:when test="$year &lt; 1860 and $year &gt; 1839">T1</xsl:when>
-        <xsl:when test="$year &lt; 1880 and $year &gt; 1859">T2</xsl:when>
-        <xsl:when test="$year &lt; 1900 and $year &gt; 1879">T3</xsl:when>
-        <xsl:when test="$year &lt; 1921 and $year &gt; 1899">T4</xsl:when>
+	<xsl:when test="$year &gt;= 1840 and $year &lt;= 1859">T1</xsl:when>
+        <xsl:when test="$year &gt;= 1860 and $year &lt;= 1879">T2</xsl:when>
+        <xsl:when test="$year &gt;= 1880 and $year &lt;= 1899">T3</xsl:when>
+        <xsl:when test="$year &gt;= 1900 and $year &lt;= 1920">T4</xsl:when>
         <xsl:otherwise>
 	  <xsl:message terminate="yes" select="concat('ERROR: Strange year ', $year)"/>
 	  <xsl:text>???</xsl:text>

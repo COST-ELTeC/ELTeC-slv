@@ -19,14 +19,13 @@ while (<IDX>) {
 }
 close IDX;
 
-
 #Read in index, covert Slovene values to ELTeC ones, and store in hash
 open IDX, '<:utf8', $indexFile or die "Can't open input $indexFile\n";
 while (<IDX>) {
     next if /Kanoničnost/;
     chomp;
     #Fix remnants of excel saved as text
-    s/^"//; s/"$//; s/\t"//; s/"\t//; s/""/"/g; s/­//g;
+    s/^"//; s/"$//; s/\t"/\t/; s/"\t/\t/; s/""/"/g; s/­//g;
     my ($author, $sex, $birth, $death, $title, 
 	$label, $published, $digitised, $period, $words, $canon, 
 	$reprints, $status, $signature, $url) =
@@ -86,7 +85,7 @@ $_ = <>;
 ($imp_id) = /xml:id="(.+?)-\d\d\d\d"/s 
     or die "Bad ID in $_!\n";
 
-##Note that reprints is not used, as it is not clear where to put this info!
+##Note that label and reprints is not used, as it is not clear where to put this info!
 my ($signature, $title, $label, 
     $author, $eltec_sex, $birth, $death, $registry, $registry_id,
     $eltec_period, $eltec_canon, $reprints) =
