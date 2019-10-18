@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00483-1913.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Za_svobodo_in_ljubezen</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Levstik, Vladimir</author>
-               <title xml:lang="sl">Za svobodo in ljubezen</title>
+               <title xml:lang="sl">Za svobodo in ljubezen. Roman z Balkana.</title>
                <date>1913</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-E18A58QH</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00483/WIKI00483-000.jpg">Title page</ref>

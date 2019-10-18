@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00094-1881.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Pomladanski_vetrovi</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Bartel, Anton</author>
-               <title xml:lang="sl">Pomladanski vetrovi</title>
+               <title xml:lang="sl">Pomladanski vetrovi. Povest iz časov francoskih vojsk.</title>
                <date>1881</date>
                <idno type="urn">http://www.ff.uni-lj.si/slovjez/Poml_v1-RiS1.pdf</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00094/WIKI00094-001.png">Title page</ref>

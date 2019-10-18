@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00398-1906.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Martin_Ka%C4%8Dur</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Cankar, Ivan</author>
-               <title xml:lang="sl">Martin Kačur</title>
+               <title xml:lang="sl">Martin Kačur. Življenjepis idealista.</title>
                <date>1906</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-NI962W5L</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00398/WIKI00398-001.png">Title page</ref>

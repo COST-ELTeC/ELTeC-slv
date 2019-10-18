@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00421-1895.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Temni_oblaki</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Trošt, Ivo</author>
-               <title xml:lang="sl">Temni oblaki</title>
+               <title xml:lang="sl">Temni oblaki. Povest.</title>
                <date>1895</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-QT1W4RI3</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00421/WIKI00421-001.png">Title page</ref>

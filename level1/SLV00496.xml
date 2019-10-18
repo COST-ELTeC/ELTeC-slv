@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00496-1904.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Iz_modernega_sveta</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Finžgar, Fran Saleški</author>
-               <title xml:lang="sl">Iz modernega sveta</title>
+               <title xml:lang="sl">Iz modernega sveta. Roman.</title>
                <date>1904</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-EETUROEK</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00496/WIKI00496-001.jpg">Title page</ref>

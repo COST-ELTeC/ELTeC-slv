@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00240-1897.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Slu%C4%8Daji_usode</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Pajk, Pavlina</author>
-               <title xml:lang="sl">Slučaji usode</title>
+               <title xml:lang="sl">Slučaji usode. Roman.</title>
                <date>1897</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-EYLGJDM7</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00240/WIKI00240-000.jpg">Title page</ref>

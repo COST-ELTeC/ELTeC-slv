@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00325-1916.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/%C5%A0tefan_Zaplotnik</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Šorli, Ivo</author>
-               <title xml:lang="sl">Štefan Zaplotnik</title>
+               <title xml:lang="sl">Štefan Zaplotnik. Povest veselega človeka.</title>
                <date>1916</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-0PZGZK9L</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00325/WIKI00325-001.png">Title page</ref>

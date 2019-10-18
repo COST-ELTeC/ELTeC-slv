@@ -2,8 +2,8 @@ test-wiki:
 	rm -f tmp/*
 	#add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV10027 < ../Wiki/SLV10027.md.xml > tmp/SLV10027.xml
 	#java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV10027.xml > tmp/SLV10027.eltec.xml
-	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10005.md.xml' tmp
-	#wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
+	#wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10005.md.xml' tmp
+	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
 	$j tmp/*.xml
 
 test-eziss:
@@ -12,9 +12,10 @@ test-eziss:
 wiki-markup:
 	cat ../Wiki/*.md | perl -pe 's|>|>\n|' | grep '<' | perl -pe 's|.*<|<|; s|>.*|>|' | sort | uniq -c
 test-imp:
+	rm -f tmp/*
 	add-meta-imp.pl ../slv-index.txt ../slv-authors.txt < ../IMP/WIKI00024-1891.xml > tmp/WIKI00024.xml
-	#$s -xsl:fix-tags-imp.xsl tmp/WIKI00024.xml > tmp/SL-WIKI00024.xml
-	#$j tmp/SL-WIKI00024.xml
+	$s -xsl:fix-tags-imp.xsl tmp/WIKI00024.xml > tmp/SL-WIKI00024.xml
+	$j tmp/SL-WIKI00024.xml
 test-id:
 	$s -xsl:id_p.xsl tmp/WIKI00024-1891.xml > tmp/WIKI00024-1891.id.xml
 

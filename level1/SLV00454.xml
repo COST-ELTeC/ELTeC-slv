@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00454-1904.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/V_smrtni_senci</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Prelesnik, Matija</author>
-               <title xml:lang="sl">V smrtni senci</title>
+               <title xml:lang="sl">V smrtni senci. Baltiška povest.</title>
                <date>1904</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-C226NO6Q</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00454/WIKI00454-001.jpg">Title page</ref>

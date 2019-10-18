@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00364-1908.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Novo_%C5%BEivljenje_(Detela)</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Detela, Fran</author>
-               <title xml:lang="sl">Novo življenje</title>
+               <title xml:lang="sl">Novo življenje. Povest.</title>
                <date>1908</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-7BJX8M1T</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00364/WIKI00364-001.png">Title page</ref>

@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00498-1912.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Sama</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Finžgar, Fran Saleški</author>
-               <title xml:lang="sl">Sama</title>
+               <title xml:lang="sl">Sama. Povest.</title>
                <date>1912</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-427BKT1F</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00498/WIKI00498-001.jpg">Title page</ref>

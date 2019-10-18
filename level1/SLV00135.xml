@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00135-1894.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Gospa_s_Pristave</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Janežič-Kraljev, Ivan</author>
-               <title xml:lang="sl">Gospa s pristave</title>
+               <title xml:lang="sl">Gospa s pristave. Zgodovinski roman.</title>
                <date>1894</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-DU2I23MU</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00135/WIKI00135-001.jpg">Title page</ref>

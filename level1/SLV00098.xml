@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00098-1883.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Luteranci</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Koder, Anton</author>
-               <title xml:lang="sl">Luteranci</title>
+               <title xml:lang="sl">Luteranci. Historičen roman.</title>
                <date>1883</date>
                <idno type="urn">http://www.ff.uni-lj.si/slovjez/luteranci/index.html</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00098/WIKI00098-001.jpg">Title page</ref>

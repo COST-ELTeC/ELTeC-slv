@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00112-1885.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/V%C3%A9liki_grof</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Detela, Fran</author>
-               <title xml:lang="sl">Veliki grof</title>
+               <title xml:lang="sl">Veliki grof. Zgodovinski roman.</title>
                <date>1885</date>
                <idno type="urn">http://archive.org/details/ljubljanskizvon05ljubuoft</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00112/WIKI00112-001.png">Title page</ref>

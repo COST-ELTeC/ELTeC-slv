@@ -54,9 +54,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00216-1881.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Rokovnja%C4%8Di_(LZ)</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Jurčič, Josip</author>
-               <title xml:lang="sl">Rokovnjači</title>
+               <title xml:lang="sl">Rokovnjači. Historičen roman.</title>
                <date>1881</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-JZB0QP6A</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00216/WIKI00216-001.png">Title page</ref>

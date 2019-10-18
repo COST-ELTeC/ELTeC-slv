@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00111-1891.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Pegam_in_Lambergar_(prva_izdaja)</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Detela, Fran</author>
-               <title xml:lang="sl">Pegam in Lambergar</title>
+               <title xml:lang="sl">Pegam in Lambergar. Povest.</title>
                <date>1891</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-RD5X87UJ</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00111/WIKI00111-001.jpg">Title page</ref>

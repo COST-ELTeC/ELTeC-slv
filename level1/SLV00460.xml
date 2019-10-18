@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>V študentovskih ulicah : edicija ELTeC</title>
+            <title>V študentskih ulicah : edicija ELTeC</title>
             <author ref="viaf:233014487">Malovrh, Miroslav (1861-1922)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
@@ -47,15 +47,15 @@
          <sourceDesc>
             <bibl type="digitalSource">
                <author>Malovrh, Miroslav</author>
-               <title>V študentovskih ulicah : edicija IMP</title>
+               <title>V študentskih ulicah : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00460-1909.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/V_%C5%A0tudentovskih_ulicah</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Malovrh, Miroslav</author>
-               <title xml:lang="sl">V študentovskih ulicah</title>
+               <title xml:lang="sl">V študentskih ulicah. Ljubezenska povest.</title>
                <date>1909</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-VK2B44R2</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00460/WIKI00460-001.jpg">Title page</ref>

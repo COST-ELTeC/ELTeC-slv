@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00455-1904.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Kralj_Matja%C5%BE</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Malovrh, Miroslav</author>
-               <title xml:lang="sl">Kralj Matjaž</title>
+               <title xml:lang="sl">Kralj Matjaž. Zgodovinska povest.</title>
                <date>1904</date>
                <idno type="urn">http://www.ff.uni-lj.si/slovjez/mh/Kralj_matjaz.pdf</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00455/WIKI00455-000.png">Title page</ref>

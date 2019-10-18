@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00345-1909.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Blagorodje_doktor_Ambro%C5%BE_%C4%8Cander</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Levstik, Vladimir</author>
-               <title xml:lang="sl">Blagorodje doktor Ambrož Čander</title>
+               <title xml:lang="sl">Blagorodje doktor Ambrož Čander. Imaginarna karikatura.</title>
                <date>1909</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-E6YJVQ5K</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00345/WIKI00345-001.png">Title page</ref>

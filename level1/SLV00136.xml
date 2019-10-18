@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00136-1891.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/4000</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Tavčar, Ivan</author>
-               <title xml:lang="sl">4000</title>
+               <title xml:lang="sl">4000. Času primerna povest iz prihodnjih dob.</title>
                <date>1891</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-9PTCPZYF</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00136/WIKI00136-001.png">Title page</ref>

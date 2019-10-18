@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00217-1886.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Slovenski_svetec_in_u%C4%8Ditelj_(LZ)</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Jurčič, Josip</author>
-               <title xml:lang="sl">Slovenski svetec in učitelj</title>
+               <title xml:lang="sl">Slovenski svetec in učitelj. Zgodovinski roman. Fragment.</title>
                <date>1886</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-TT3S4UW7</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00217/WIKI00217-001.png">Title page</ref>

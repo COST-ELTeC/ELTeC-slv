@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00391-1909.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Pisana_mati</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Zbašnik, Fran</author>
-               <title xml:lang="sl">Pisana mati</title>
+               <title xml:lang="sl">Pisana mati. Povest.</title>
                <date>1909</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-RNUBXWMB</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00391/WIKI00391-000.png">Title page</ref>

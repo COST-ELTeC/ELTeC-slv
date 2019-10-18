@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00452-1903.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Na%C5%A1_stari_greh</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Prelesnik, Matija</author>
-               <title xml:lang="sl">Naš stari greh</title>
+               <title xml:lang="sl">Naš stari greh. Polabska povest.</title>
                <date>1903</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-3BZMHSWH</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00452/WIKI00452-001.jpg">Title page</ref>

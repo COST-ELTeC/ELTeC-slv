@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00478-1918.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Gadje_gnezdo</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Levstik, Vladimir</author>
-               <title xml:lang="sl">Gadje gnezdo</title>
+               <title xml:lang="sl">Gadje gnezdo. Povest iz dni trpljenja in nad.</title>
                <date>1918</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-8UWH3PT1</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00478/WIKI00478-000.jpg">Title page</ref>

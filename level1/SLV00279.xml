@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00279-1877.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Cvet_in_sad_(1877)</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Jurčič, Josip</author>
-               <title xml:lang="sl">Cvet in sad</title>
+               <title xml:lang="sl">Cvet in sad. Izviren roman.</title>
                <date>1877</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-1TIBWLDI</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00279/WIKI00279-000.jpg">Title page</ref>

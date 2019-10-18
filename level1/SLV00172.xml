@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00172-1883.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Milko_Vogrin</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Sket, Jakob</author>
-               <title xml:lang="sl">Milko Vogrin</title>
+               <title xml:lang="sl">Milko Vogrin. Novela.</title>
                <date>1883</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-0KCZMR1Y</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00172/WIKI00172-001.jpg">Title page</ref>

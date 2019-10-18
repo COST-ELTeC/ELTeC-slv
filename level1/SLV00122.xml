@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00122-1870.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/%C5%BDalost_in_veselje</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Podmilšak, Josip</author>
-               <title xml:lang="sl">Žalost in veselje</title>
+               <title xml:lang="sl">Žalost in veselje. Povest za prosto ljudstvo.</title>
                <date>1870</date>
                <idno type="urn">http://www.ff.uni-lj.si/slovjez/mh/Zalost_in_veselje.pdf</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00122/WIKI00122-000.png">Title page</ref>

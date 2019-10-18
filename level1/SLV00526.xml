@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00526-1911.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/H%C4%8Di_grofa_Blagaja</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Murnik, Rado</author>
-               <title xml:lang="sl">Hči grofa Blagaja</title>
+               <title xml:lang="sl">Hči grofa Blagaja. Roman.</title>
                <date>1911</date>
                <date>1912</date>
                <date>1913</date>

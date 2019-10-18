@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00126-1892.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Ljudska_osveta</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Jaklič, Fran</author>
-               <title xml:lang="sl">Ljudska osveta</title>
+               <title xml:lang="sl">Ljudska osveta. Povest.</title>
                <date>1892</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-TMOEJC60</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00126/WIKI00126-001.jpg">Title page</ref>

@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00194-1876.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Na_%C5%BDerinjah</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Kersnik, Janko</author>
-               <title xml:lang="sl">Na Žerinjah</title>
+               <title xml:lang="sl">Na Žerinjah. Izviren roman.</title>
                <date>1876</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-XLUKNMJQ</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00194/WIKI00194-000.png">Title page</ref>

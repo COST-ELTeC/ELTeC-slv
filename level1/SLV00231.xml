@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00231-1885.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Arabela</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Pajk, Pavlina</author>
-               <title xml:lang="sl">Arabela</title>
+               <title xml:lang="sl">Arabela. Roman.</title>
                <date>1885</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-I9MYTA0C</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00231/WIKI00231-001.jpg">Title page</ref>

@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00363-1882.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Malo_%C5%BEivljenje_(LZ)</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Detela, Fran</author>
-               <title xml:lang="sl">Malo življenje</title>
+               <title xml:lang="sl">Malo življenje. Povest.</title>
                <date>1882</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-T31X5D77</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00363/WIKI00363-001.png">Title page</ref>

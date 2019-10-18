@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00174-1893.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Abadon</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Mencinger, Janez</author>
-               <title xml:lang="sl">Abadon</title>
+               <title xml:lang="sl">Abadon. Bajka za starce.</title>
                <date>1893</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-16DDM0T9</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00174/WIKI00174-001.png">Title page</ref>

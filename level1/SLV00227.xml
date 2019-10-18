@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00227-1887.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Beatin_dnevnik</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Pesjak, Luiza</author>
-               <title xml:lang="sl">Beatin dnevnik</title>
+               <title xml:lang="sl">Beatin dnevnik. Roman.</title>
                <date>1887</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-6S6H6MFZ</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00227/WIKI00227-000.png">Title page</ref>

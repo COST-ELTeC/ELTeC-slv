@@ -119,7 +119,7 @@
 
   <xsl:template match="tei:titleStmt/tei:title">
     <title>
-      <xsl:value-of select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:title[@type='orig']"/>
+      <xsl:value-of select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:title[@type='reg']"/>
       <xsl:text> : edicija ELTeC</xsl:text>
     </title>
     <xsl:apply-templates select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:author"/>
@@ -186,7 +186,7 @@
 		  select="/tei:TEI/tei:facsimile/tei:surface[1]/tei:graphic[1]/@url"/>
     <bibl type="digitalSource">
       <author><xsl:value-of select="replace(tei:author[1], ' \(\d+-\d+\)', '')"/></author>
-      <title><xsl:value-of select="tei:title[1]"/> : edicija IMP</title>
+      <title><xsl:value-of select="tei:title[@type='reg']"/> : edicija IMP</title>
       <xsl:apply-templates select="//tei:teiHeader//tei:publicationStmt/tei:date"/>
       <!--publisher>
 	<xsl:text>CLARIN.SI </xsl:text>
@@ -200,9 +200,9 @@
       </idno>
       <idno type="wikilink"><xsl:value-of select="tei:pubPlace/tei:ref[1]/@target"/></idno>
     </bibl>
-    <bibl type="unspecified">
+    <bibl type="printSource">
       <author><xsl:value-of select="replace(tei:author[1], ' \(\d+-\d+\)', '')"/></author>
-      <xsl:apply-templates select="tei:title"/>
+      <xsl:apply-templates select="tei:title[@type='orig']"/>
       <xsl:apply-templates select="tei:date"/>
       <idno type="urn"><xsl:value-of select="tei:pubPlace/tei:ref[2]/@target"/></idno>
       <ref target="{$titlePageImage}">Title page</ref>

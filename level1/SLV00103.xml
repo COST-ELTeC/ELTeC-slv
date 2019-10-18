@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00103-1883.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Zvezdana</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Koder, Anton</author>
-               <title xml:lang="sl">Zvezdana</title>
+               <title xml:lang="sl">Zvezdana. Roman.</title>
                <date>1883</date>
                <idno type="urn">http://www.ff.uni-lj.si/slovjez/zvezdana1.pdf</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00103/WIKI00103-001.png">Title page</ref>

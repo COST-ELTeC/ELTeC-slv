@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00425-1901.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Na_vojvodskem_prestolu</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Gruden, Josip</author>
-               <title xml:lang="sl">Na vojvodskem prestolu</title>
+               <title xml:lang="sl">Na vojvodskem prestolu. Povest iz slovenske starodavnosti.</title>
                <date>1901</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-96MM2JK0</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00425/WIKI00425-001.jpg">Title page</ref>

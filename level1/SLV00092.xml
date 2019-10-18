@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00092-1892.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Zmota_in_povrat</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Štrukelj, Ivan</author>
-               <title xml:lang="sl">Zmota in povrat</title>
+               <title xml:lang="sl">Zmota in povrat. Povest.</title>
                <date>1892</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-I2GQ0OPQ</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00092/WIKI00092-001.jpg">Title page</ref>

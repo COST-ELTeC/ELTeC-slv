@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00278-1897.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Trojka</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Detela, Fran</author>
-               <title xml:lang="sl">Trojka</title>
+               <title xml:lang="sl">Trojka. Povest.</title>
                <date>1897</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-Q18D7XVW</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00278/WIKI00278-000.jpg">Title page</ref>

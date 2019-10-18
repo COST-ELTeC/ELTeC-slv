@@ -93,6 +93,11 @@ my ($signature, $title, $label,
 
 $id = $signature;
 
+#Put full title in "orig" title, "reg" will be used for regular title. (hacky)
+if ($label and $label ne 'brez oznake') {
+    s|(<title type="orig"[^>]*>).+?</title>|$1$title. $label.</title>|s
+}
+
 s| xml:id=".+?"| xml:id="$id"|;
 ($an) = m|<author>(.+)</author>|;
 print STDERR "WARN: $id authors mismatch: $an !== $author, taking $author\n"

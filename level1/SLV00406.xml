@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00406-1905.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Izza_kongresa_(LZ)</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Tavčar, Ivan</author>
-               <title xml:lang="sl">Izza kongresa</title>
+               <title xml:lang="sl">Izza kongresa. Zgodovinski roman.</title>
                <date>1905</date>
                <date>1906</date>
                <date>1907</date>

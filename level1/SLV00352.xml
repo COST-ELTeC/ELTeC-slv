@@ -53,9 +53,9 @@
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00352-1910.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Komisarjeva_h%C4%8Di</idno>
             </bibl>
-            <bibl type="unspecified">
+            <bibl type="printSource">
                <author>Fatur, Lea</author>
-               <title xml:lang="sl">Komisarjeva hči</title>
+               <title xml:lang="sl">Komisarjeva hči. Zgodovinska povest.</title>
                <date>1910</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-2M149WGR</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00352/WIKI00352-001.jpg">Title page</ref>

@@ -83,7 +83,7 @@ close IDX;
 local $/ = undef;
 $_ = <>;
 
-##Note that label and reprints is not used, as it is not clear where to put this info!
+##Note that reprints is not used, as it is not clear where to put this info!
 my ($signature, $url, $title, $label, 
     $author, $eltec_sex, $birth, $death, $registry, $registry_id,
     $digitised, $published, $eltec_period, $eltec_canon, $reprints) =
@@ -92,6 +92,9 @@ die unless $doc_id eq $signature;
 
 print STDERR "ERROR: bad digitisation date '$digitised'\n"
     unless $digitised =~ /^[12][901]\d\d$/;
+
+if ($label and $label ne 'brez oznake') {$orig_title = "$title. $label."}
+else {$orig_title = $title}
 
 s|<TEI.+>|<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="$doc_id">|;
 $teiHeader = <<"END";
@@ -110,9 +113,9 @@ $teiHeader = <<"END";
             <idno type="wikilink">$url</idno>
             <date>$digitised</date>
          </bibl>
-         <bibl type="unspecified">
+         <bibl type="printSource">
             <author>$author</author>
-            <title>$title</title>
+            <title>$orig_title</title>
             <date>$published</date>
          </bibl>
       </sourceDesc>
