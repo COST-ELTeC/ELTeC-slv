@@ -10,18 +10,26 @@
             <title>Agitator : edicija ELTeC</title>
             <author ref="viaf:34746806">Kersnik, Janko (1852-1897)</author>
             <respStmt>
-               <resp xml:lang="en">Conversion from IMP to ELTeC.</resp>
+               <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
+               <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>
+               <name>Domen Kermc</name>
+            </respStmt>
+            <respStmt>
+               <resp>Pretvorba zapisa IMP v ELTeC.</resp>
+               <resp xml:lang="en">Conversion from IMP to ELTeC encoding.</resp>
                <name>Tomaž Erjavec</name>
             </respStmt>
             <respStmt>
-               <resp xml:lang="en">Selection and ELTeC metadata of included novels.</resp>
-               <name>Miran Hladnik</name>
+               <resp>Izbira romanov in dodajanje metapodatkov ELTeC.</resp>
+               <resp xml:lang="en">Novel selection and ELTeC metadata.</resp>
                <name>Marko Juvan</name>
+               <name>Miran Hladnik</name>
                <name>Katja Mihurko Poniž</name>
             </respStmt>
             <respStmt>
-               <resp>Conversion form Wiki/DjVu to TEI.</resp>
-               <name>Domen Kermc</name>
+               <resp>Skrbištvo WikiVira.</resp>
+               <resp xml:lang="en">Stewardship of WikiVir (Slovene WikiSource).</resp>
+               <name>Miran Hladnik</name>
             </respStmt>
          </titleStmt>
          <extent>
@@ -30,8 +38,8 @@
          </extent>
          <publicationStmt xml:lang="en">
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date>2019-10-17</date>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2019-10-18</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -70,7 +78,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
-         <change xml:lang="en" when="2019-10-17">Tomaž Erjavec: converted to ELTeC</change>
+         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00187">

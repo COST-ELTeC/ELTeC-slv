@@ -131,7 +131,7 @@
       <xsl:apply-templates select="tei:name"/>
     </respStmt>
     <respStmt>
-      <resp>Pretvorba iz IMP v zapis ELTeC.</resp>
+      <resp>Pretvorba zapisa IMP v ELTeC.</resp>
       <resp xml:lang="en">Conversion from IMP to ELTeC encoding.</resp>
       <name>Tomaž Erjavec</name>
     </respStmt>
@@ -167,7 +167,10 @@
   <xsl:template match="tei:publicationStmt">
     <publicationStmt xml:lang="en">
       <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-      <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+      <xsl:comment>
+	<distributor ref="https://zenodo.org/communities/eltec/">Zenodo</distributor>
+      </xsl:comment>
+      <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
       <date><xsl:value-of select="$Today"/></date>
       <availability>
 	<licence target="https://creativecommons.org/licenses/by/4.0/"/>

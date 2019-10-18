@@ -1,4 +1,5 @@
 test-wiki:
+	rm -f tmp/*
 	#add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV10027 < ../Wiki/SLV10027.md.xml > tmp/SLV10027.xml
 	#java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV10027.xml > tmp/SLV10027.eltec.xml
 	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp

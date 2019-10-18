@@ -11,6 +11,7 @@ print "wget https://www.clarin.si/repository/xmlui/bitstream/handle/11356/1031/I
 while (<>) {
     next if /Kanoničnost/;
     chomp;
+    s/^"//; s/"$//; s/\t"/\t/g; s/"\t/\t/g; s/""/"/g; s/­//g;
     my ($author, $sex, $birth, $death, $title, 
 	$label, $published, $digitised, $period, $words, $canon, 
 	$reprints, $status, $signature, $url) =

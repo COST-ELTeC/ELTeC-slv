@@ -25,7 +25,7 @@ while (<IDX>) {
     next if /Kanoničnost/;
     chomp;
     #Fix remnants of excel saved as text
-    s/^"//; s/"$//; s/\t"/\t/; s/"\t/\t/; s/""/"/g; s/­//g;
+    s/^"//; s/"$//; s/\t"/\t/g; s/"\t/\t/g; s/""/"/g; s/­//g;
     my ($author, $sex, $birth, $death, $title, 
 	$label, $published, $digitised, $period, $words, $canon, 
 	$reprints, $status, $signature, $url) =
