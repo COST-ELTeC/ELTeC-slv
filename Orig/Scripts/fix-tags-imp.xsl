@@ -281,7 +281,7 @@
       <xsl:apply-templates/>
     </xsl:copy>
     <xsl:if test=".//tei:note">
-      <back xmlns="http://www.tei-c.org/ns/1.0">
+      <back>
         <div type="notes">
 	  <xsl:apply-templates mode="notes" select=".//tei:note"/>
         </div>
@@ -301,7 +301,7 @@
   </xsl:template>
   
   <xsl:template match="tei:note">
-    <ref xmlns="http://www.tei-c.org/ns/1.0">
+    <ref>
       <xsl:attribute name="target">
         <xsl:value-of select="concat('#', /tei:TEI/@xml:id, '_N')"/>
 	<xsl:number from="tei:body" level="any"/>
@@ -312,14 +312,27 @@
   <!-- Add type to divs (taken more or less from ELTeC Scripts releaseChecker.xsl  -->
   <xsl:template match="tei:body//tei:div">
     <xsl:choose>
+      <!-- Hard-code liminal divs, as there are very few -->
+      <xsl:when test="(/tei:TEI/@xml:id = 'SLV00024' and not(preceding::tei:div)) or
+		      (/tei:TEI/@xml:id = 'SLV00112' and not(preceding::tei:div)) or
+		      (/tei:TEI/@xml:id = 'SLV00325' and not(preceding::tei:div)) or
+		      (/tei:TEI/@xml:id = 'SLV00497' and not(preceding::tei:div)) or
+		      (/tei:TEI/@xml:id = 'SLV10004' and not(preceding::tei:div[2])) or
+		      (/tei:TEI/@xml:id = 'SLV20001' and not(preceding::tei:div))
+		      ">
+        <div type="liminal">
+          <xsl:apply-templates select="@*"/>
+          <xsl:apply-templates/>
+        </div>
+      </xsl:when>
       <xsl:when test="tei:p and not(child::tei:div)">
-        <div type="chapter" xmlns="http://www.tei-c.org/ns/1.0">
+        <div type="chapter">
           <xsl:apply-templates select="@*"/>
           <xsl:apply-templates/>
         </div>
       </xsl:when>
       <xsl:when test="tei:div">
-        <div type="group" xmlns="http://www.tei-c.org/ns/1.0">
+        <div type="group">
           <xsl:apply-templates select="@*"/>
           <xsl:apply-templates/>
         </div>

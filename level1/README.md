@@ -1,4 +1,6 @@
 # ELTeC-slv
 Folder for level1: richer TEI Encoding
 
-Texts (currently) automatically converted to ELTeC from TEI: annotation needs checking.
+Texts automatically converted to ELTeC from sources (IMP, WikiSource).
+
+The pipeline for downloading sources and coverting them to ELTeC is in directory ../Orig/.

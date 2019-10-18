@@ -30,6 +30,14 @@ val:
 imp:	grab-imp convert-imp
 wiki:	grab-wiki convert-wiki
 
+convert-limi:
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00024*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00112*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00325*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00497*.xml' ../../level1
+	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10004.md.xml' ../../level1
+	#SLV20001 (slovlit or wikisource?)
+
 grab-eziss:
 	#Only one novel, so we don't complicate
 	mkdir -p ../eZISS
