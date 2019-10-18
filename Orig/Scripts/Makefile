@@ -1,3 +1,7 @@
+incipits:
+	$s -xi -xsl:first-head.xsl ../../driver.tei
+explicits:
+	$s -xi -xsl:last-tail.xsl ../../driver.tei
 test-wiki:
 	rm -f tmp/*
 	#add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV10027 < ../Wiki/SLV10027.md.xml > tmp/SLV10027.xml

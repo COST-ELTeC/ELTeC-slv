@@ -258,6 +258,17 @@
     </xsl:choose>
   </xsl:template>
   
+  <xsl:template match="tei:head">
+    <xsl:variable name="text">
+      <xsl:apply-templates/>
+    </xsl:variable>
+    <xsl:if test="normalize-space($text)">
+      <xsl:copy>
+	<xsl:value-of select="normalize-space($text)"/>
+      </xsl:copy>
+    </xsl:if>
+  </xsl:template>
+
   <xsl:template match="tei:p | tei:eg">
     <xsl:variable name="text">
       <xsl:apply-templates/>

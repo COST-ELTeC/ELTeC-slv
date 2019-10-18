@@ -339,14 +339,39 @@
   -->
 
   
+  <xsl:template match="tei:head">
+    <xsl:variable name="text">
+      <xsl:apply-templates/>
+    </xsl:variable>
+    <xsl:if test="normalize-space($text)">
+      <xsl:copy>
+	<xsl:value-of select="normalize-space($text)"/>
+      </xsl:copy>
+    </xsl:if>
+  </xsl:template>
+
   <!-- cf. https://github.com/distantreading/WG1/wiki/textFeatures
        But note that Wiki sources most likely wont have <l>s marked up
   -->
-  <xsl:template match="tei:lg">
-    <p>
+  <xsl:template match="tei:p | tei:lg">
+    <xsl:variable name="text">
       <xsl:apply-templates/>
-    </p>
+    </xsl:variable>
+    <!-- Don't output empty paragraphs -->
+    <xsl:if test="normalize-space($text)">
+      <p>
+	<xsl:choose>
+	  <xsl:when test="tei:l">
+	    <xsl:apply-templates/>
+	  </xsl:when>
+	  <xsl:otherwise>
+	    <xsl:value-of select="normalize-space($text)"/>
+	  </xsl:otherwise>
+	</xsl:choose>
+      </p>
+    </xsl:if>
   </xsl:template>
+  
   <xsl:template match="tei:l">
     <l>
       <xsl:apply-templates/>
