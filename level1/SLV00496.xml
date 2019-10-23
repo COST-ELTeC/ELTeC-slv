@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00496">
    <teiHeader>
@@ -36,32 +36,22 @@
             <measure unit="words">61974</measure>
             <measure unit="pages">106</measure>
          </extent>
-         <publicationStmt xml:lang="en">
-            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
-            <date>2019-10-18</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <author>Finžgar, Fran Saleški</author>
                <title>Iz modernega sveta : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00496-1904.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Iz_modernega_sveta</idno>
-            </bibl>
-            <bibl type="printSource">
+            </bibl><bibl type="printSource">
                <author>Finžgar, Fran Saleški</author>
                <title xml:lang="sl">Iz modernega sveta. Roman.</title>
                <date>1904</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-EETUROEK</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00496/WIKI00496-001.jpg">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00496/WIKI00496.pdf">Facsimile</ref>
-            </bibl>
-         </sourceDesc>
+            </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -77,7 +67,7 @@
             <eltec:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
          <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>

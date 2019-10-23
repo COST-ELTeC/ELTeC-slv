@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00216">
    <teiHeader>
@@ -37,32 +37,22 @@
             <measure unit="words">49692</measure>
             <measure unit="pages">138</measure>
          </extent>
-         <publicationStmt xml:lang="en">
-            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
-            <date>2019-10-18</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <author>Jurčič, Josip</author>
                <title>Rokovnjači : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00216-1881.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Rokovnja%C4%8Di_(LZ)</idno>
-            </bibl>
-            <bibl type="printSource">
+            </bibl><bibl type="printSource">
                <author>Jurčič, Josip</author>
                <title xml:lang="sl">Rokovnjači. Historičen roman.</title>
                <date>1881</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-JZB0QP6A</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00216/WIKI00216-001.png">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00216/WIKI00216.pdf">Facsimile</ref>
-            </bibl>
-         </sourceDesc>
+            </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -78,7 +68,7 @@
             <eltec:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
          <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
