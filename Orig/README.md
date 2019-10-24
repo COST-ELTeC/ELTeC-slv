@@ -1,25 +1,31 @@
 # ELTeC-slv
 
-Folder for the original Slovene data from Wikisource, either directly or through the IMP corpus. Included are download and transformation scripts.
+Folder for the original Slovene data from [Wikivir](https://sl.wikisource.org/) either
+directly or via the [IMP Digital Library](http://hdl.handle.net/11356/1031). Included
+are download and transformation scripts.
 
-Workflow used for converting the initial batch of Slovenian texts which come from the [IMP Digital library](http://nl.ijs.si/imp/index-en.html):
+## Conversion process
 
-1. The current master table of the novels together with IDs and ELTeC-specific metadata missing from the IMP originals is in `slv-index-imp.txt`;
+All the scripts are in the `Scripts/` directory, which also includes a `Makefile`. Run
+`make all` to download all the source files from the web, add to them ELTeC metadata
+and covert them to ELTeC level-1 encoding. The source files are stored in dedicated
+directories, one per source (currently `IMP` and `Wiki`, which are gitignored. The
+scripts assume some installed programs, in particular Perl, Java and Saxon - the paths
+to some of these might need to be changed.
 
-2. The list is first processed with `grab-imp.pl` which generates `grab-imp.sh`, a shell script that downloads the XMLs from the CLARIN.SI repository and stores them locally (based on LB's pipeline);
+The ELTeC metadata is in the file `slv-index.txt` which is a TSV file directly exported
+from the master Excel spreadsheet. `slv-authors.txt` contains the VIAF or CONOR codes
+of the authors of the novels.
 
-3. Each IMP file is run through `add-meta-imp.pl` which adds `slv-index-imp.txt` metadata to it and calculates the number of words and adds this count to the TEI file.
+The conversion process is then roughly as follows:
 
-4. Each file is then converted by `fix-tags-imp.xsl` to make the encoding compliant with ELTeC Level-1.
+1. A Perl script first takes the URLs from the index and generates a bash script to
+download and (for Wiki source) pre-process them.
 
-5. Steps 3 and 4 can be performed for all the files together, including validation agains the ELTeC schema with the script `imp2eltec.pl`. How to run this script and 1 and 2 is exemplified in the `Makefile`. To run the complete process type `make all` in this directory (assuming the necessary programs and installed in the same directories as expected).
+2. Metadata from the index is then added to each file, and the resulting file tweeked to conform to ELTeC level-1 schema
 
-== Work in progress ==
+3. The files are validated according to the ELTeC level-1 schema, assumed to be cloned to `Schemas` as a sister directory to `ELTeC-slv`.
 
-* do the same for WikiSource texts.
-
-Some (maybe old versions) have been downloaded into Wiki/ as mark-down
-files.
 
 TEI Stylesheets include the markdowntotei conversion (the Stylesheets
 are .gitignored here) but it has to be tweaked as Wiki MD uses
