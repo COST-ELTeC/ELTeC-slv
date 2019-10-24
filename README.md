@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3518109.svg)](https://doi.org/10.5281/zenodo.3518109)
+
 # ELTeC-slv
 
 This is the Slovenian novel collection for the ELTeC, the European Literary Text Collection, produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net). 
