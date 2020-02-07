@@ -28,8 +28,8 @@ while (<IDX>) {
     #Fix remnants of excel saved as text
     s/^"//; s/"$//; s/\t"/\t/g; s/"\t/\t/g; s/""/"/g; s/­//g;
     my ($author, $sex, $birth, $death, $title, 
-	$label, $published, $digitised, $period, $words, $canon, 
-	$reprints, $status, $signature, $url) =
+	$label, $published, $source, $digitised, $period, $words, $canon, 
+	$reprints, $status, $signature, $url, $alturl) =
 	    split /\t/;
     
     #If more than one year, we take the last one
