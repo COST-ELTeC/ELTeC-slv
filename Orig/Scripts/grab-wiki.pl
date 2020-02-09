@@ -18,8 +18,8 @@ while (<>) {
     chomp;
     s/^"//; s/"$//; s/\t"/\t/g; s/"\t/\t/g; s/""/"/g; s/­//g;
     my ($author, $sex, $birth, $death, $title, 
-	$label, $published, $digitised, $period, $words, $canon, 
-	$reprints, $status, $signature, $url) =
+	$label, $published, $source, $digitised, $period, $words, $canon, 
+	$reprints, $status, $signature, $url, $alturl) =
 	    split /\t/;
     next if $status eq 'WAIT';
     next unless $signature =~ /SLV1/; #WikiVir have signature starting with SLV1

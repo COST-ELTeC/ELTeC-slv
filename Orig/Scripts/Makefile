@@ -11,7 +11,7 @@ test-wiki:
 	$j tmp/*.xml
 
 test-eziss:
-	$s -xsl:prep_poti.xsl ../eZISS/spoti-2019-10-15.xml > ../eZISS/spoti.xml
+	$s -xsl:prep_spoti.xsl ../eZISS/spoti-2019-10-15.xml > ../eZISS/spoti.xml
 	$j ../eZISS/spoti.xml
 wiki-markup:
 	cat ../Wiki/*.md | perl -pe 's|>|>\n|' | grep '<' | perl -pe 's|.*<|<|; s|>.*|>|' | sort | uniq -c
@@ -29,14 +29,6 @@ val:
 	../../level1/*.xml
 imp:	grab-imp convert-imp
 wiki:	grab-wiki convert-wiki
-
-convert-limi:
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00024*.xml' ../../level1
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00112*.xml' ../../level1
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00325*.xml' ../../level1
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00497*.xml' ../../level1
-	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10004.md.xml' ../../level1
-	#SLV20001 (slovlit or wikisource?)
 
 grab-eziss:
 	#Only one novel, so we don't complicate
