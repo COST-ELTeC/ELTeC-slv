@@ -4,11 +4,11 @@ explicits:
 	$s -xi -xsl:last-tail.xsl ../../driver.tei
 test-wiki:
 	rm -f tmp/*
-	#add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV10027 < ../Wiki/SLV10027.md.xml > tmp/SLV10027.xml
-	#java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV10027.xml > tmp/SLV10027.eltec.xml
+	add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV10030 < ../Wiki/SLV10030.md.xml > tmp/SLV10030.xml
+	java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV10030.xml > tmp/SLV10030.eltec.xml
 	#wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10005.md.xml' tmp
-	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
-	$j tmp/*.xml
+	#wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
+	$j tmp/*.eltec.xml
 
 test-eziss:
 	$s -xsl:prep_spoti.xsl ../eZISS/spoti-2019-10-15.xml > ../eZISS/spoti.xml

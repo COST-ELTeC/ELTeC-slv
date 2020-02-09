@@ -144,20 +144,26 @@
   
   <xsl:template match="eltec:timeSlot">
     <xsl:variable name="slot">
-      <xsl:variable name="year"
-		    select="//tei:teiHeader//tei:sourceDesc/tei:bibl/tei:date[1]"/>
+      <xsl:variable name="year" select="//tei:teiHeader//tei:sourceDesc/
+					tei:bibl[@type='printSource']/tei:date"/>
       <xsl:choose>
 	<xsl:when test="$year &gt;= 1840 and $year &lt;= 1859">T1</xsl:when>
         <xsl:when test="$year &gt;= 1860 and $year &lt;= 1879">T2</xsl:when>
         <xsl:when test="$year &gt;= 1880 and $year &lt;= 1899">T3</xsl:when>
         <xsl:when test="$year &gt;= 1900 and $year &lt;= 1920">T4</xsl:when>
 	<xsl:when test="$year &lt;= 1840">
-	  <xsl:message terminate="no" select="concat('ERROR: Book too old: ', $year)"/>
+	  <xsl:message terminate="no">
+	    <xsl:text>WARN: Book too old: </xsl:text>
+	    <xsl:value-of select="$year"/>
+	  </xsl:message>
 	  <xsl:text>T1</xsl:text>
 	</xsl:when>
 	<xsl:when test="$year &gt;= 1920">
-	  <xsl:message terminate="no" select="concat('ERROR: Book too new: ', $year)"/>
-	  <xsl:text>T1</xsl:text>
+	  <xsl:message terminate="no">
+	    <xsl:text>WARN: Book too new: </xsl:text>
+	    <xsl:value-of select="$year"/>
+	  </xsl:message>
+	  <xsl:text>T4</xsl:text>
 	</xsl:when>
         <xsl:otherwise>
 	  <xsl:message terminate="yes" select="concat('what?:', $year)"/>
@@ -301,6 +307,24 @@
     </xsl:if>
   </xsl:template>
   
+  <!-- In Wiki SLV10030 we find a row of dashes in a list -->
+  <xsl:template match="tei:list">
+    <xsl:choose>
+      <xsl:when test="matches(tei:item, '^[ -]+$')">
+	<milestone type="subChapter" rend="dashes" unit="dash"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
+
+  <xsl:template match="tei:item">
+    <p>
+      <xsl:apply-templates/>
+    </p>
+  </xsl:template>
+
   <xsl:template match="tei:l">
     <xsl:copy>
       <xsl:value-of select="normalize-space(.)"/>

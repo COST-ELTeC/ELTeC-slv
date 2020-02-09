@@ -1,6 +1,18 @@
 ### Grab selected WikiVir books and prepare them for ElTeC
 cd ../Wiki
 rm -f *
+# SLV10032 / Z_viharja_v_zavetje: Zbašnik, Fran. Z viharja v zavetje
+wget -q -O 'Z_viharja_v_zavetje.md' 'https://sl.wikisource.org/w/index.php?title=Z_viharja_v_zavetje&action=raw'
+/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/fix-text-wiki.pl < 'Z_viharja_v_zavetje.md' > SLV10032.md
+/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/Stylesheets/bin/markdowntotei --profiledir=/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/profiles  SLV10032.md
+# SLV10031 / Brambovci: Lah, Ivan. Brambovci
+wget -q -O 'Brambovci.md' 'https://sl.wikisource.org/w/index.php?title=Brambovci&action=raw'
+/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/fix-text-wiki.pl < 'Brambovci.md' > SLV10031.md
+/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/Stylesheets/bin/markdowntotei --profiledir=/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/profiles  SLV10031.md
+# SLV10030 / Svitanje_(Fran_Govekar): Govekar, Fran. Svitanje
+wget -q -O 'Svitanje_(Fran_Govekar).md' 'https://sl.wikisource.org/w/index.php?title=Svitanje_(Fran_Govekar)&action=raw'
+/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/fix-text-wiki.pl < 'Svitanje_(Fran_Govekar).md' > SLV10030.md
+/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/Stylesheets/bin/markdowntotei --profiledir=/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/profiles  SLV10030.md
 # SLV10029 / Ro%C5%A1lin_in_Vrjanko: Kersnik, Janko. Rošlin in Vrjanko
 wget -q -O 'Ro%C5%A1lin_in_Vrjanko.md' 'https://sl.wikisource.org/w/index.php?title=Ro%C5%A1lin_in_Vrjanko&action=raw'
 /home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/fix-text-wiki.pl < 'Ro%C5%A1lin_in_Vrjanko.md' > SLV10029.md
