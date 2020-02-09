@@ -1,6 +1,7 @@
 Bartel, Anton, 1853-1938	VIAF	10824798	http://viaf.org/viaf/10824798
 Bedenek, Jakob, 1850-1916	VIAF	84381657	http://viaf.org/viaf/84381657
 Cankar, Ivan, 1876-1918	VIAF	56657726	http://viaf.org/viaf/56657726
+Cankar, Izidor, 1886-1958	VIAF	51848354	http://viaf.org/viaf/51848354
 Carli Lukovič, Alojz, 1846-1891	VIAF	50937590	http://viaf.org/viaf/50937590
 Cigler, Janez, 1792-1867	VIAF	247997342	http://viaf.org/viaf/247997342
 Detela, Fran, 1850-1926	VIAF	61405029	http://viaf.org/viaf/61405029
