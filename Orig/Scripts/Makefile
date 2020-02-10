@@ -2,19 +2,18 @@ incipits:
 	$s -xi -xsl:first-head.xsl ../../driver.tei
 explicits:
 	$s -xi -xsl:last-tail.xsl ../../driver.tei
-test-wiki:
-	rm -f tmp/*
-	add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV10030 < ../Wiki/SLV10030.md.xml > tmp/SLV10030.xml
-	java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV10030.xml > tmp/SLV10030.eltec.xml
-	#wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10005.md.xml' tmp
-	#wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
-	$j tmp/*.eltec.xml
 
 test-eziss:
 	$s -xsl:prep_spoti.xsl ../eZISS/spoti-2019-10-15.xml > ../eZISS/spoti.xml
 	$j ../eZISS/spoti.xml
-wiki-markup:
-	cat ../Wiki/*.md | perl -pe 's|>|>\n|' | grep '<' | perl -pe 's|.*<|<|; s|>.*|>|' | sort | uniq -c
+test-wiki:
+	rm -f tmp/*
+	#add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV10030 < ../Wiki/SLV10030.md.xml > tmp/SLV10030.xml
+	#java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV10030.xml > tmp/SLV10030.eltec.xml
+	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV20002.md.xml' tmp
+	#wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
+	$j tmp/*.xml
+
 test-imp:
 	rm -f tmp/*
 	add-meta-imp.pl ../slv-index.txt ../slv-authors.txt < ../IMP/WIKI00024-1891.xml > tmp/WIKI00024.xml
@@ -23,13 +22,17 @@ test-imp:
 test-id:
 	$s -xsl:id_p.xsl tmp/WIKI00024-1891.xml > tmp/WIKI00024-1891.id.xml
 
-all:	clean imp wiki val
+all:	wiki eziss val
+xall:	clean imp wiki eziss val
 val:
 	java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-1.rng \
 	../../level1/*.xml
+eziss:	grab-eziss convert-eziss
 imp:	grab-imp convert-imp
 wiki:	grab-wiki convert-wiki
 
+convert-eziss:
+	$s -xsl:prep_spoti.xsl ../eZISS/spoti-2019-10-15.xml > ../../level1/SLV30001.xml
 grab-eziss:
 	#Only one novel, so we don't complicate
 	mkdir -p ../eZISS

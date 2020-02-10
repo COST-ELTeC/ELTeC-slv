@@ -22,7 +22,8 @@ while (<>) {
 	$reprints, $status, $signature, $url, $alturl) =
 	    split /\t/;
     next if $status eq 'WAIT';
-    next unless $signature =~ /SLV1/; #WikiVir have signature starting with SLV1
+    #WikiVir have signature starting with SLV1, those that are also on http://lit.ijs.si/ are SLV2!
+    next unless $signature =~ /SLV[12]/; 
     unless ($url =~ m|https://sl.wikisource.org/wiki/|) {
 	print STDERR "ERROR: SLV1 but wrong url $url\n";
 	next

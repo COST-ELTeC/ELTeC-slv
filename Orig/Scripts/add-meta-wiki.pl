@@ -36,7 +36,7 @@ while (<IDX>) {
     $published =~ s/(\d+)-(\d+)/$2/;
     
     next if $status eq 'WAIT';
-    next unless $signature =~ /SLV1/; #WikiVir have signature starting with SLV1
+    next unless $signature =~ /SLV[12]/; #WikiVir have signature starting with SLV1 or SLV2
     unless ($url =~ m|https://sl.wikisource.org/wiki/|) {
 	print STDERR "ERROR: SLV1 but wrong url $url\n";
 	next

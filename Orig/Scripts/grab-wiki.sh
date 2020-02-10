@@ -1,6 +1,14 @@
 ### Grab selected WikiVir books and prepare them for ElTeC
 cd ../Wiki
 rm -f *
+# SLV20002 / Miklova_Zala: Sket, Jakob. Miklova Zala
+wget -q -O 'Miklova_Zala.md' 'https://sl.wikisource.org/w/index.php?title=Miklova_Zala&action=raw'
+/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/fix-text-wiki.pl < 'Miklova_Zala.md' > SLV20002.md
+/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/Stylesheets/bin/markdowntotei --profiledir=/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/profiles  SLV20002.md
+# SLV20001 / Mlinarjev_Janez_(1859): Kočevar, Ferdo. Mlinarjev Janez
+wget -q -O 'Mlinarjev_Janez_(1859).md' 'https://sl.wikisource.org/w/index.php?title=Mlinarjev_Janez_(1859)&action=raw'
+/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/fix-text-wiki.pl < 'Mlinarjev_Janez_(1859).md' > SLV20001.md
+/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/Stylesheets/bin/markdowntotei --profiledir=/home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/profiles  SLV20001.md
 # SLV10032 / Z_viharja_v_zavetje: Zbašnik, Fran. Z viharja v zavetje
 wget -q -O 'Z_viharja_v_zavetje.md' 'https://sl.wikisource.org/w/index.php?title=Z_viharja_v_zavetje&action=raw'
 /home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Scripts/fix-text-wiki.pl < 'Z_viharja_v_zavetje.md' > SLV10032.md
