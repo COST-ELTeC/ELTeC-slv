@@ -8,12 +8,12 @@ This is the Slovenian novel collection for the ELTeC, the European Literary Text
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.  
 
-The ELTeC-slv collection currently contains 94 novels encoded at level 1. The corpus composition criteria are not yet fully fulfilled.
+The ELTeC-slv collection contains 100 novels encoded at level 1. The corpus composition criteria are not fully fulfilled, as Slovene does not have enough novels to respect all the sampling criteria.
 
 ## Contributors
 
 * Collection editor(s): Tomaž Erjavec, Miran Hladnik, Marko Juvan, Katja Mihurko Poniž
-* Sources: [Wikivir](https://sl.wikisource.org/) either directly or via the [IMP Digital Library](http://hdl.handle.net/11356/1031)
+* Sources: [Wikivir](https://sl.wikisource.org/) either directly or via the [IMP Digital Library](http://hdl.handle.net/11356/1031) and [eZISS](http://nl.ijs.si/e-zrc/) for one novel ([Izidor Cankar: S poti](http://nl.ijs.si/e-zrc/izidor/index-en.html))
 
 ## Licence
 
