@@ -18,16 +18,14 @@
   <xsl:variable name="Today" select="substring-before(current-date() cast as xs:string, '+')"/>
 
   <xsl:template match="/">
-    <xsl:text disable-output-escaping="yes">&#10;&lt;?xml-model</xsl:text>
-    <xsl:text> href="../../Schemas/eltec-1.rng"</xsl:text>
-    <xsl:text> type="application/xml"</xsl:text>
-    <xsl:text>&#10;            schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
-    <xsl:text disable-output-escaping="yes">?&gt;&#10;</xsl:text>
-    <xsl:text disable-output-escaping="yes">&lt;?xml-model</xsl:text>
-    <xsl:text> href="../../Schemas/eltec-1.rng"</xsl:text>
-    <xsl:text> type="application/xml"</xsl:text>
-    <xsl:text>&#10;            schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:text>
-    <xsl:text disable-output-escaping="yes">?&gt;&#10;</xsl:text>
+    <xsl:processing-instruction name="xml-model">
+      href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
+    <xsl:text>&#10;</xsl:text>
+    <xsl:processing-instruction name="xml-model">
+      href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
+    <xsl:text>&#10;</xsl:text>
     <xsl:variable name="pass1">
       <xsl:apply-templates/>
     </xsl:variable>
@@ -278,6 +276,14 @@
   <xsl:template match="tei:body">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
+      <xsl:variable name="incipit">
+	<xsl:apply-templates mode="incipit" select="tei:*"/>
+      </xsl:variable>
+      <xsl:if test="$incipit/tei:*">
+	<div type="liminal">
+	  <xsl:copy-of select="$incipit"/>
+	</div>
+      </xsl:if>
       <xsl:apply-templates/>
     </xsl:copy>
     <xsl:if test=".//tei:note">
@@ -289,6 +295,14 @@
     </xsl:if>
   </xsl:template>
 
+  <xsl:template mode="incipit" match="tei:body/tei:*">
+    <xsl:if test="self::tei:p or self::tei:lg">
+      <p>
+	<xsl:apply-templates/>
+      </p>
+    </xsl:if>
+  </xsl:template>
+  
   <xsl:template mode="notes" match="tei:note">
     <xsl:copy>
       <xsl:apply-templates select="@*"/>
@@ -363,6 +377,9 @@
     </xsl:if>
   </xsl:template>
 
+  <!-- These will be wrapped in a liminal div -->
+  <xsl:template match="tei:body/tei:p | tei:body/tei:lg"/>
+  
   <!-- cf. https://github.com/distantreading/WG1/wiki/textFeatures
        But note that Wiki sources most likely wont have <l>s marked up
   -->

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00476">
    <teiHeader>
       <fileDesc>
@@ -36,22 +36,32 @@
             <measure unit="words">34406</measure>
             <measure unit="pages">95</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-10</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Murnik, Rado</author>
                <title>Na Bledu : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00476-1917.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Na_Bledu</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Murnik, Rado</author>
                <title xml:lang="sl">Na Bledu</title>
                <date>1917</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-CN0BSC9T</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00476/WIKI00476-001.png">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00476/WIKI00476.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,29 +77,31 @@
             <eltec:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-10">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00476">
       <body xml:lang="sl">
-         <p n="SLV00476.1">
-            <l>Vse ure dneva, ki čez svod hite,</l>
-            <l>odsevajo v zrcalu te vode,</l>
-            <l>vse zarje vanjo omakajo perot,</l>
-            <l>vse zvezde vanjo pišejo svoj pot.</l>
-         </p>
-         <p n="SLV00476.2">Zupančič.</p>
-         <p n="SLV00476.3">Jezero sanja v svetotihem krilu planinskih velikanov. Mlado jutranje zlato še plaho poigrava na bledomodrem oboku in na zardelih okamenelih orjakih, odgrinja mrak nad črnimi šumami in zelenimi livadami. V smaragdni gladini se ogleduje nebo in breg in otok in grad. Tiho, tiho pozvanja nad vodami; moli, prosi. Trepetaje umolkne.</p>
-         <p n="SLV00476.4">Nenadoma zapihlja vesela sapica, obujena med vonjavo jelovino in dehtečimi tratami pod ledenimi palačami kraljestva Zlatorogovega. Predramljeni vali se lesketajo, kakor da je naglo bežeča poletna noč pozabila svoje najlepše zvezde v jezeru. Pred ranim vetrom plešejo iskre in kolobarci mimo ljubkega otoka proti divji skali, kakor z velikanskim mečem odsekani tikoma nad bregom. Po rahlo valujočih vodah zažiga jutro zelen ogenj. Dalje in dalje rajajo luči in plamenci po kristalnih cestah, prelivajo barve in svit, se utrinjajo in utapljajo in ugašajo v mračnih globinah.</p>
-         <p n="SLV00476.5">Vekomaj bi sanjala duša, zamaknjena v milino jezera, v veličanstvo gora. Blagodejen mir tolaži in blaži nepokojno hrepenečega duha: zemljan se čuti tako brezželjnega — tako srečnega člana ogromnega stvarstva!</p>
-         <p n="SLV00476.6">Po pesku hotelskega vrta so se bližali koraki in ugledal sem Igorja Kalana, prijatelja izza vseučiliške glorije, precej velikega, lepega mladega moža. Pozdravila sva se prisrčno; obadva je dokaj veselilo nenadno svidenje po mnogih letih. Igor Kalan je bil še vedno živahen in hudomušen kakor svoje dni. Samozavestni, krepkovoljni obraz mu je bil jako ogorel. Črne brke si je podjetno vihal naravnost proti ušesom.</p>
-         <p n="SLV00476.7">Prihitela je natakarica. Igor si je naročil kave in nasmodil kubo. Tedaj sem opazil na njegovi roki poročni prstan.</p>
-         <p n="SLV00476.8">„Kaj? Naš neugnani Igor Kalan se je dal vpreči v zakonski jarem?“</p>
-         <p n="SLV00476.9">„Je že taka, bratec moj! Laudabiliter se subiecit, bi dejal naš nepozabni profesor Ivan Vavm. Jaz pa pravim kakor modri Mohamed: Kismet! Komur je usojeno, ta se oženi — hočeš, nočeš, moraš! Komur pa ni namenjeno, pa lahko počenja in uganja, karkoli hoče — sam praznil bo bokale. Usoda, kismet, fatum nam ravna življenje. Da me takrat, pred osmimi leti, ni bilo na Bledu, bi bil še danes soliden samotar, ki se vrača vsako noč ob eni domov. Veš, kaj? Moja žena se je peljala z obema dečkoma v Ljubljano in se vrne popoldne. Ako hočeš, ti pa povem, kako sem se zaljubil, zaročil, poročil in hvalevredno pofilistril!“</p>
-         <p n="SLV00476.10">„Prosim, Igor, kar sproži!“</p>
-         <p n="SLV00476.11">„Tukaj naju bi utegnil kdo motiti. Dajva, dajva, popeljiva se po jezeru!“</p>
-         <p n="SLV00476.12">Najela sva čoln, plačala in se izročila valovom. Bliskoma so ubežale ribice od najine ladjice. Že so pluli tudi drugi čolni po jezeru. V lahnih valih prečiste vode so se zvijale in gugale podobe pisane obale. Obrežni pragi, dvorci, verande in gaji so se jeli odmikati od naju; jezero se je širilo in širilo. Nad nama so strigle vesele blejske lastovice, prijatelj Igor pa je jel pripovedovati.</p>
+         <div type="liminal">
+            <p n="SLV00476.1">
+               <l>Vse ure dneva, ki čez svod hite,</l>
+               <l>odsevajo v zrcalu te vode,</l>
+               <l>vse zarje vanjo omakajo perot,</l>
+               <l>vse zvezde vanjo pišejo svoj pot.</l>
+            </p>
+            <p n="SLV00476.2">Zupančič.</p>
+            <p n="SLV00476.3">Jezero sanja v svetotihem krilu planinskih velikanov. Mlado jutranje zlato še plaho poigrava na bledomodrem oboku in na zardelih okamenelih orjakih, odgrinja mrak nad črnimi šumami in zelenimi livadami. V smaragdni gladini se ogleduje nebo in breg in otok in grad. Tiho, tiho pozvanja nad vodami; moli, prosi. Trepetaje umolkne.</p>
+            <p n="SLV00476.4">Nenadoma zapihlja vesela sapica, obujena med vonjavo jelovino in dehtečimi tratami pod ledenimi palačami kraljestva Zlatorogovega. Predramljeni vali se lesketajo, kakor da je naglo bežeča poletna noč pozabila svoje najlepše zvezde v jezeru. Pred ranim vetrom plešejo iskre in kolobarci mimo ljubkega otoka proti divji skali, kakor z velikanskim mečem odsekani tikoma nad bregom. Po rahlo valujočih vodah zažiga jutro zelen ogenj. Dalje in dalje rajajo luči in plamenci po kristalnih cestah, prelivajo barve in svit, se utrinjajo in utapljajo in ugašajo v mračnih globinah.</p>
+            <p n="SLV00476.5">Vekomaj bi sanjala duša, zamaknjena v milino jezera, v veličanstvo gora. Blagodejen mir tolaži in blaži nepokojno hrepenečega duha: zemljan se čuti tako brezželjnega — tako srečnega člana ogromnega stvarstva!</p>
+            <p n="SLV00476.6">Po pesku hotelskega vrta so se bližali koraki in ugledal sem Igorja Kalana, prijatelja izza vseučiliške glorije, precej velikega, lepega mladega moža. Pozdravila sva se prisrčno; obadva je dokaj veselilo nenadno svidenje po mnogih letih. Igor Kalan je bil še vedno živahen in hudomušen kakor svoje dni. Samozavestni, krepkovoljni obraz mu je bil jako ogorel. Črne brke si je podjetno vihal naravnost proti ušesom.</p>
+            <p n="SLV00476.7">Prihitela je natakarica. Igor si je naročil kave in nasmodil kubo. Tedaj sem opazil na njegovi roki poročni prstan.</p>
+            <p n="SLV00476.8">„Kaj? Naš neugnani Igor Kalan se je dal vpreči v zakonski jarem?“</p>
+            <p n="SLV00476.9">„Je že taka, bratec moj! Laudabiliter se subiecit, bi dejal naš nepozabni profesor Ivan Vavm. Jaz pa pravim kakor modri Mohamed: Kismet! Komur je usojeno, ta se oženi — hočeš, nočeš, moraš! Komur pa ni namenjeno, pa lahko počenja in uganja, karkoli hoče — sam praznil bo bokale. Usoda, kismet, fatum nam ravna življenje. Da me takrat, pred osmimi leti, ni bilo na Bledu, bi bil še danes soliden samotar, ki se vrača vsako noč ob eni domov. Veš, kaj? Moja žena se je peljala z obema dečkoma v Ljubljano in se vrne popoldne. Ako hočeš, ti pa povem, kako sem se zaljubil, zaročil, poročil in hvalevredno pofilistril!“</p>
+            <p n="SLV00476.10">„Prosim, Igor, kar sproži!“</p>
+            <p n="SLV00476.11">„Tukaj naju bi utegnil kdo motiti. Dajva, dajva, popeljiva se po jezeru!“</p>
+            <p n="SLV00476.12">Najela sva čoln, plačala in se izročila valovom. Bliskoma so ubežale ribice od najine ladjice. Že so pluli tudi drugi čolni po jezeru. V lahnih valih prečiste vode so se zvijale in gugale podobe pisane obale. Obrežni pragi, dvorci, verande in gaji so se jeli odmikati od naju; jezero se je širilo in širilo. Nad nama so strigle vesele blejske lastovice, prijatelj Igor pa je jel pripovedovati.</p>
+         </div>
          <div type="chapter">
             <head>1.</head>
             <p n="SLV00476.13">Po prostovoljskem letu sem se izneveril pravoslovju in šel k pošti. Našemu uradu je načeloval ravnatelj Milan Jarnik, majhen pa hud gospod. Kratki in trdi so se mu jezili lasje, brki in brada nepristransko na vse plati kakor togotemu ježu bodice.</p>

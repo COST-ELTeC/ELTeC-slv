@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00461">
    <teiHeader>
       <fileDesc>
@@ -36,22 +36,32 @@
             <measure unit="words">40327</measure>
             <measure unit="pages">53</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-10</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Malovrh, Miroslav</author>
                <title>Zadnji rodovine Benalja : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00461-1909.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Zadnji_rodovine_Benalja</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Malovrh, Miroslav</author>
                <title xml:lang="sl">Zadnji rodovine Benalja. Povest.</title>
                <date>1909</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-T753R2ZJ</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461-001.jpg">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00461/WIKI00461.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,20 +77,22 @@
             <eltec:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-10">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00461">
       <body xml:lang="sl">
-         <p n="SLV00461.1">V letu 1725. se je v župni cerkvi Preddvorom poročil gospod Ivan Jožef Friderik baron Benalja plemeniti Rosenbach, graščak Preddvorom in na Ljubelju, z žlahtno gospodično Eleonoro Cecilijo baronico Gallenfels, hčerko govneškega grajščaka, in grajski mašnik na Govneku, Mihael Prešeren, Ivi je bil pri poroki za pričo, je imel nalogo, da na svatbi napije novoporočencema.</p>
-         <p n="SLV00461.2">Mašnik Mihael Prešeren, ki je rad gledal v bokal in še raje v dekliške oči, si je sestavil obširen govor, prepleten z mnogimi latinskimi citati in svetopisemskimi izreki in z zadovoljstvom je opazil, da je med njegovim govorom zdaj in zdaj postalo kako žensko oko rosno in da so se moški hrupno smejali šegavim namigavanjem, ki so sledila resnim čestitkam in opominom.</p>
-         <p n="SLV00461.3">Z željo, da bi nebeški oče blagoslovil mladi zakon z množico otrok, je mašnik Mihael Prešeren zaključil svoj govor in med žvenketom srebrnih bokalov so veseli svatje ponavljali to željo, da je mladi gospe Eleonori Ceciliji stopila vsa kri v glavo in ji zalila lica, da je sramežljivosti žarela kakor makov cvet.</p>
-         <p n="SLV00461.4">Želja govneškega mašnika Mihaela Prešerna se je izpolnila. Bog je izdatno blagoslovil zakon žlahtnega gospoda Ivana Jožefa Friderika in njegove dobre družice gospe Eleonore Cecilije in ko sta zopet v navzočnosti mašnika Mihaela Prešerna praznovala desetletnico svoje poroke, je v preddvorskem gradu bilo že osem kodrastih otrok, a baron Ivan Jožef Friderik je mladeniško prešernostjo prisegal, da božja milost še dolgo ne bo nehala obsevati njegovega zakona in da se bo njegova rodovina še prav znatno pomnožila.</p>
-         <p n="SLV00461.5">Srečno in zadovoljno, veselo in brezskrbno sta živela Ivan Jožef Friderik in Eleonora Cecilija na preddvorskem gradu sredi velikega števila zdravih in čvrstih otrok. Pojedina je sledila pojedini in presledki so bili le tedaj, kadar je Eleonora Cecilija ležala v otročji postelji. Nista dosti marala, da se jima je pri tem početju premoženje krčilo od leta do leta in da so istotako rasli dolgovi. Ko ni bilo več mogoče delati dolgov, sta začela prodajati les, potem še drugo imetje, zdaj nekaj sveta, zdaj nekaj gozda in nista si delala nobenih skrbi za prihodnjost, dokler naposled niso upniki postali nadležni in trdi, začeli pritiskati z rubežnimi in končno barona Ivana Jožefa Friderika prisilili, da je moral vse prodati in zapustili grajščino, na kateri je gospodoval njegov rod ravno devetindevetdeset let.</p>
-         <p n="SLV00461.6">Kot srečen in bogat kondotjer je prišel prvi Benalja iz solnčne Italije na Kranjsko, kot siromak je zapustil njegov pravnuk Ivan Jožef Friderik preddvorski grad in ni popeljal ničesar drugega s seboj, kakor celo vrsto otrok. »Malo preveč blagoslova je nebeški oče podelil najinemu zakonu«, je zavzdihnil Ivan Jožef Friderik pri slovesu od preddvorske grajščine, ko se je ozrl po glavah svojih otrok. To je bila edina pritožba, ki je prišla kdaj čez njegove ustne.</p>
-         <p n="SLV00461.7">Od vseh razsežnih posestev, kar jih je nekdaj imel baron Benalja, je Ivanu Jožefu Frideriku ostala le mala hiša, nekdanja pristava strmolske grajščine. Pristava je ležala blizu Cerkelj na samoti in k tej hiši je pripadal dosti velik gozd. Tu se je naselil Ivan Jožef Friderik baron Benalja s svojo rodovino in tu je hotel z delom popraviti, kar je v lahkomiselnosti storil svoji rodovini s tem, da je zapravil podedovano premoženje. Trudil se je pošteno, delal kar je mogel in pri tem posvečal vso skrb vzgoji svojih otrok, kajti uvideval je, da si bodo morali z delom služiti svoj kruh. Kakor je bil prej lahkomiseln in zapravljiv, tako resen in štedljiv je bil zdaj. Trpljenje njegovo na pristavi je trajalo dlje, nego veselo življenje na preddvorski graščini.</p>
-         <p n="SLV00461.8">Minila so leta. Otroci so dorasli in Ivan Jožef Friderik je imel mnogo skrbi in mnogo težkih ur, da jih je spravil do kruha. Najstarejši sin je šel v Trst, da se posveti trgovini. Eden sinov je postal uradnik, drugi grajščinski oskrbnik, tretji je šel k vojakom; enega je dal študirat za duhovnika, drugega za zdravnika; ta je šel sem, oni tja, zapustili so starše in rodovino, razkropili so po svetu in ko sta legla Ivan Jožef Friderik in Eleonora Cecilija k večnemu počitku, je stal ob njiju grobu samo najmlajši sin Ivan Lenard. Tega za življenja nista hotela pustiti od sebe, dasi mu nista imela zapustiti drugega kot malo posestvo ter neznatno svoto denarja, katero je bil Ivan Jožef Friderik v letih pokore s trdim delom, štedenjem in stradanjem nabral. Zatemnel je sijaj nekdaj tako mogočne, veljavne in bogate rodovine Benalja, njeni člani so takorekoč stopili iz prve vrste kranjskega plemstva in se umaknili v drugo vrsto, med uradniško in vojaško plemstvo ali med meščanstvo. Veliki plemenitaši jih niso več smatrali za ravnovredne.</p>
+         <div type="liminal">
+            <p n="SLV00461.1">V letu 1725. se je v župni cerkvi Preddvorom poročil gospod Ivan Jožef Friderik baron Benalja plemeniti Rosenbach, graščak Preddvorom in na Ljubelju, z žlahtno gospodično Eleonoro Cecilijo baronico Gallenfels, hčerko govneškega grajščaka, in grajski mašnik na Govneku, Mihael Prešeren, Ivi je bil pri poroki za pričo, je imel nalogo, da na svatbi napije novoporočencema.</p>
+            <p n="SLV00461.2">Mašnik Mihael Prešeren, ki je rad gledal v bokal in še raje v dekliške oči, si je sestavil obširen govor, prepleten z mnogimi latinskimi citati in svetopisemskimi izreki in z zadovoljstvom je opazil, da je med njegovim govorom zdaj in zdaj postalo kako žensko oko rosno in da so se moški hrupno smejali šegavim namigavanjem, ki so sledila resnim čestitkam in opominom.</p>
+            <p n="SLV00461.3">Z željo, da bi nebeški oče blagoslovil mladi zakon z množico otrok, je mašnik Mihael Prešeren zaključil svoj govor in med žvenketom srebrnih bokalov so veseli svatje ponavljali to željo, da je mladi gospe Eleonori Ceciliji stopila vsa kri v glavo in ji zalila lica, da je sramežljivosti žarela kakor makov cvet.</p>
+            <p n="SLV00461.4">Želja govneškega mašnika Mihaela Prešerna se je izpolnila. Bog je izdatno blagoslovil zakon žlahtnega gospoda Ivana Jožefa Friderika in njegove dobre družice gospe Eleonore Cecilije in ko sta zopet v navzočnosti mašnika Mihaela Prešerna praznovala desetletnico svoje poroke, je v preddvorskem gradu bilo že osem kodrastih otrok, a baron Ivan Jožef Friderik je mladeniško prešernostjo prisegal, da božja milost še dolgo ne bo nehala obsevati njegovega zakona in da se bo njegova rodovina še prav znatno pomnožila.</p>
+            <p n="SLV00461.5">Srečno in zadovoljno, veselo in brezskrbno sta živela Ivan Jožef Friderik in Eleonora Cecilija na preddvorskem gradu sredi velikega števila zdravih in čvrstih otrok. Pojedina je sledila pojedini in presledki so bili le tedaj, kadar je Eleonora Cecilija ležala v otročji postelji. Nista dosti marala, da se jima je pri tem početju premoženje krčilo od leta do leta in da so istotako rasli dolgovi. Ko ni bilo več mogoče delati dolgov, sta začela prodajati les, potem še drugo imetje, zdaj nekaj sveta, zdaj nekaj gozda in nista si delala nobenih skrbi za prihodnjost, dokler naposled niso upniki postali nadležni in trdi, začeli pritiskati z rubežnimi in končno barona Ivana Jožefa Friderika prisilili, da je moral vse prodati in zapustili grajščino, na kateri je gospodoval njegov rod ravno devetindevetdeset let.</p>
+            <p n="SLV00461.6">Kot srečen in bogat kondotjer je prišel prvi Benalja iz solnčne Italije na Kranjsko, kot siromak je zapustil njegov pravnuk Ivan Jožef Friderik preddvorski grad in ni popeljal ničesar drugega s seboj, kakor celo vrsto otrok. »Malo preveč blagoslova je nebeški oče podelil najinemu zakonu«, je zavzdihnil Ivan Jožef Friderik pri slovesu od preddvorske grajščine, ko se je ozrl po glavah svojih otrok. To je bila edina pritožba, ki je prišla kdaj čez njegove ustne.</p>
+            <p n="SLV00461.7">Od vseh razsežnih posestev, kar jih je nekdaj imel baron Benalja, je Ivanu Jožefu Frideriku ostala le mala hiša, nekdanja pristava strmolske grajščine. Pristava je ležala blizu Cerkelj na samoti in k tej hiši je pripadal dosti velik gozd. Tu se je naselil Ivan Jožef Friderik baron Benalja s svojo rodovino in tu je hotel z delom popraviti, kar je v lahkomiselnosti storil svoji rodovini s tem, da je zapravil podedovano premoženje. Trudil se je pošteno, delal kar je mogel in pri tem posvečal vso skrb vzgoji svojih otrok, kajti uvideval je, da si bodo morali z delom služiti svoj kruh. Kakor je bil prej lahkomiseln in zapravljiv, tako resen in štedljiv je bil zdaj. Trpljenje njegovo na pristavi je trajalo dlje, nego veselo življenje na preddvorski graščini.</p>
+            <p n="SLV00461.8">Minila so leta. Otroci so dorasli in Ivan Jožef Friderik je imel mnogo skrbi in mnogo težkih ur, da jih je spravil do kruha. Najstarejši sin je šel v Trst, da se posveti trgovini. Eden sinov je postal uradnik, drugi grajščinski oskrbnik, tretji je šel k vojakom; enega je dal študirat za duhovnika, drugega za zdravnika; ta je šel sem, oni tja, zapustili so starše in rodovino, razkropili so po svetu in ko sta legla Ivan Jožef Friderik in Eleonora Cecilija k večnemu počitku, je stal ob njiju grobu samo najmlajši sin Ivan Lenard. Tega za življenja nista hotela pustiti od sebe, dasi mu nista imela zapustiti drugega kot malo posestvo ter neznatno svoto denarja, katero je bil Ivan Jožef Friderik v letih pokore s trdim delom, štedenjem in stradanjem nabral. Zatemnel je sijaj nekdaj tako mogočne, veljavne in bogate rodovine Benalja, njeni člani so takorekoč stopili iz prve vrste kranjskega plemstva in se umaknili v drugo vrsto, med uradniško in vojaško plemstvo ali med meščanstvo. Veliki plemenitaši jih niso več smatrali za ravnovredne.</p>
+         </div>
          <div type="chapter">
             <head>I.</head>
             <p n="SLV00461.9">Spomladi leta 1785. je bila v Gosposkih ulicah v sedaj Gerlicijevi hiši zbrana večja družba v stanovanju barona Karla Paungartna. Tudi gospodarjev brat, Jožef Avguštin baron Paungarten, kapitan v Škofji Loki, je bil prišel s svojimi hčerami na to domačo nabavo, prirejeno v proslavo godu hišne gospodinje, kakor je prihajal redno na vsako prireditev, kjer je bilo kaj upanja, da bi katera njegovih treh hčera dobila moža.</p>

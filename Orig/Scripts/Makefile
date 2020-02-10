@@ -1,3 +1,5 @@
+elements:
+	$s -xi -xsl:text-elements.xsl ../../driver.tei | sort | uniq -c
 incipits:
 	$s -xi -xsl:first-head.xsl ../../driver.tei
 explicits:
@@ -8,19 +10,17 @@ test-eziss:
 	$j ../eZISS/spoti.xml
 test-wiki:
 	rm -f tmp/*
-	#add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV10030 < ../Wiki/SLV10030.md.xml > tmp/SLV10030.xml
-	#java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV10030.xml > tmp/SLV10030.eltec.xml
-	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV20002.md.xml' tmp
+	#add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV20001 < ../Wiki/SLV20001.md.xml > tmp/SLV20001.xml
+	#java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV20001.xml > tmp/SLV20001.eltec.xml
+	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV20001.md.xml' tmp
 	#wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
 	$j tmp/*.xml
 
 test-imp:
 	rm -f tmp/*
-	add-meta-imp.pl ../slv-index.txt ../slv-authors.txt < ../IMP/WIKI00024-1891.xml > tmp/WIKI00024.xml
-	$s -xsl:fix-tags-imp.xsl tmp/WIKI00024.xml > tmp/SL-WIKI00024.xml
-	$j tmp/SL-WIKI00024.xml
-test-id:
-	$s -xsl:id_p.xsl tmp/WIKI00024-1891.xml > tmp/WIKI00024-1891.id.xml
+	add-meta-imp.pl ../slv-index.txt ../slv-authors.txt < ../IMP/WIKI00048-1896.xml > tmp/WIKI00048.xml
+	$s -xsl:fix-tags-imp.xsl tmp/WIKI00048.xml > tmp/WIKI00048.eltec.xml
+	$j tmp/WIKI00048.eltec.xml
 
 all:	wiki eziss val
 xall:	clean imp wiki eziss val
@@ -39,6 +39,9 @@ grab-eziss:
 	wget http://nl.ijs.si/e-zrc/izidor/tei/spoti-2007-10-08.xml
 	wget http://nl.ijs.si/e-zrc/izidor/tei/tei2.dtd
 	mv spoti-2007-10-08.xml ../eZISS/
+fix-wiki:
+	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt \
+	'../Wiki/SLV20001.md.xml' ../../level1
 convert-wiki:
 	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt \
 	'../Wiki/*.md.xml' ../../level1
@@ -47,6 +50,15 @@ grab-wiki:
 	chmod +x grab-wiki.sh
 	mkdir -p ../Wiki
 	./grab-wiki.sh
+fix-imp:
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00048-*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00058-*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00132-*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00279-*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00324-*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00421-*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00461-*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00476-*.xml' ../../level1
 convert-imp:
 	imp2eltec.pl ../slv-index.txt ../slv-authors.txt \
 	'../IMP/*.xml' ../../level1

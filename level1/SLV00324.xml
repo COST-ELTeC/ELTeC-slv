@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00324">
    <teiHeader>
       <fileDesc>
@@ -36,22 +36,32 @@
             <measure unit="words">26476</measure>
             <measure unit="pages">70</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-10</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Tavčar, Ivan</author>
                <title>Cvetje v jeseni : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00324-1917.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Cvetje_v_jeseni_(LZ)</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Tavčar, Ivan</author>
                <title xml:lang="sl">Cvetje v jeseni</title>
                <date>1917</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-ZUIL2E7C</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00324/WIKI00324-001.png">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00324/WIKI00324.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,37 +77,39 @@
             <eltec:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-10">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00324">
       <body xml:lang="sl">
-         <p n="SLV00324.1">Blagor mu, ki ima v časih groze in trepeta še moč, spominjati se zornih prejšnjih dni!</p>
-         <p n="SLV00324.2">Sedeli smo na najlepšem ljubljanskem vrtu. V senci pod divjim kostanjem.</p>
-         <p n="SLV00324.3">Gospa Marica je z belo roko prekladala posode ter nalivala kave, da je silil prijeten duh pod zelene veje.</p>
-         <p n="SLV00324.4">Tudi gospa Mica ni hotela brez dela ostati: narezala je belega kruha ter ga simetrično razstavila po mizi. Vmes pa je postavljala gospa Dinca male krožnike z rumenim medom in surovim maslom.</p>
-         <p n="SLV00324.5">Pri človekoljubnem tem delu, ki je veljalo v prvi vrsti meni, me je prešinila misel — bog zna od kod je prišla — ki ni bila ljubezniva za ljubko trojico, katere gost sem bil danes na najlepšem ljubljanskem vrtu.</p>
-         <p n="SLV00324.6">Premišljeval sem: „Kakor so lepe in srcu prikupljive, pa bi vendar življenje zastavil, da ta trojičica ni nikdar poznala tiste vsemogočne ljubezni, katera ni dana vsakemu, komur je pa dana, tega pretresa, kakor pretresa vihar gozdove na gori!“</p>
-         <p n="SLV00324.7">V svoji neprevidnosti dal sem besedo tej svoji misli. Kakor trije čmrljčki so se dvignile ter brenčale okrog mene.</p>
-         <p n="SLV00324.8">„Kaj, da me nismo iz ljubezni vzele svojih mož?“</p>
-         <p n="SLV00324.9">Prav ostro so me napadale, posebno gospa Dinca: „Da bi jaz svojega moža ne bila iz ljubezni vzela?“</p>
-         <p n="SLV00324.10">Polastila se me je hudobija: „Moje mnenje govori, da si svojega moža vzela, ker prideluje vsako leto obilo dobrega in dragega vina.“</p>
-         <p n="SLV00324.11">Že sem upal, da pridem v dotiko z njeno sladko ročico. Ali vmes je posegla gospa Marica: „In jaz sem svojega vzela, ker sladkor in moko na debelo prodaja?“</p>
-         <p n="SLV00324.12">„In jaz,“ je hitela gospa Mica, „svojega, ker z dobičkom razpečava sukno in platno?“</p>
-         <p n="SLV00324.13">Nobena ni hotela odnehati od čebljanja in iz oči jim je plamtel ogenj, da sem menil, sedaj in sedaj bom upepeljen!</p>
-         <p n="SLV00324.14">Na Kamniških planinah se je pričela megla kaditi izza vrhov.</p>
-         <p n="SLV00324.15">„Vreme se spremeni“ sem pripomnil, da bi napeljal govorico v drugo strugo.</p>
-         <p n="SLV00324.16">Uni-sono: „Užaljene smo!“</p>
-         <p n="SLV00324.17">„Saj niste same, ljube prijateljice, saj imate obilo tovarišic! Čas, recimo moderni čas je tak, da je zakonska ljubezen prav važno blago, kise za visoko ceno prodaja, za visoko ceno kupuje. Kaj morete ve za to? Žrtev ste dneva, ki vas je rodil. A same dobro veste, da bi danes Leander ne plaval čez Helespont, če bi pri dekletu ne slutil nekaj težkih hranilničnih knjižic! Tudi jaz ne morem za to, da je tako!“</p>
-         <p n="SLV00324.18">„Obrekovalec! Hudobnež!“</p>
-         <p n="SLV00324.19">Posadil sem. se na konja: „Kaj veste ve tri, kaj vedo vaše tovarišice, kaj ve moderna ženska o tisti ljubezni, ki pretresa telo in dušo, ki veže dušo in telo, ki je kakor nevihta, ki pride, da ne veš odkod, ki te podsuje, ki te stolče, da se od nje nikdar več ne oddahneš, ki jo pa vendar hočeš imeti, in najsi radi nje življenje izgubiš! Kaj vi veste o taki ljubezni!“</p>
-         <p n="SLV00324.20">„Mi ljubimo svoje može!“</p>
-         <p n="SLV00324.21">„Dokler so v stanu mesec za mesecem polagati stotake na mizo! Če bi ne bilo teh stotakov, če bi ne bilo obleke in svile, ljubi Jezus! koliko ženic bi svoje može še ljubilo?“</p>
-         <p n="SLV00324.22">„Ti dobro to veš, ker si — oženjen!“</p>
-         <p n="SLV00324.23">Grenko-zasmehljivo so se smejale.</p>
-         <p n="SLV00324.24">„Zasmehujte me, kolikor vas je volja! Da, prijateljice, kar vam ni bilo dano, dano je bilo meni! Pretresla me je ljubezen, enaka viharju, enaka nevihti! Prišla je pozno, prav tako je prišla, kakor pride časih kako cvetje v pozni jeseni. Sadu ni rodila, kakor ga ne rodi jesenski cvet. Če me hočete poslušati, vam razgrnem vse. Pri tem tudi izveste, čemu nisem hotel zakonske družice, katera bi me bila ravnotako okrog prsta obvijala, kakor obvijate ve svoje može. Pri poslušanju se bodete morda obilo smejale! Vprašanje je torej: me li hočete poslušati?“</p>
-         <p n="SLV00324.25">Gospa Marica, gospa Mica in gospa Dinca so z enim glasom odgovorile, da hočejo poslušati.</p>
+         <div type="liminal">
+            <p n="SLV00324.1">Blagor mu, ki ima v časih groze in trepeta še moč, spominjati se zornih prejšnjih dni!</p>
+            <p n="SLV00324.2">Sedeli smo na najlepšem ljubljanskem vrtu. V senci pod divjim kostanjem.</p>
+            <p n="SLV00324.3">Gospa Marica je z belo roko prekladala posode ter nalivala kave, da je silil prijeten duh pod zelene veje.</p>
+            <p n="SLV00324.4">Tudi gospa Mica ni hotela brez dela ostati: narezala je belega kruha ter ga simetrično razstavila po mizi. Vmes pa je postavljala gospa Dinca male krožnike z rumenim medom in surovim maslom.</p>
+            <p n="SLV00324.5">Pri človekoljubnem tem delu, ki je veljalo v prvi vrsti meni, me je prešinila misel — bog zna od kod je prišla — ki ni bila ljubezniva za ljubko trojico, katere gost sem bil danes na najlepšem ljubljanskem vrtu.</p>
+            <p n="SLV00324.6">Premišljeval sem: „Kakor so lepe in srcu prikupljive, pa bi vendar življenje zastavil, da ta trojičica ni nikdar poznala tiste vsemogočne ljubezni, katera ni dana vsakemu, komur je pa dana, tega pretresa, kakor pretresa vihar gozdove na gori!“</p>
+            <p n="SLV00324.7">V svoji neprevidnosti dal sem besedo tej svoji misli. Kakor trije čmrljčki so se dvignile ter brenčale okrog mene.</p>
+            <p n="SLV00324.8">„Kaj, da me nismo iz ljubezni vzele svojih mož?“</p>
+            <p n="SLV00324.9">Prav ostro so me napadale, posebno gospa Dinca: „Da bi jaz svojega moža ne bila iz ljubezni vzela?“</p>
+            <p n="SLV00324.10">Polastila se me je hudobija: „Moje mnenje govori, da si svojega moža vzela, ker prideluje vsako leto obilo dobrega in dragega vina.“</p>
+            <p n="SLV00324.11">Že sem upal, da pridem v dotiko z njeno sladko ročico. Ali vmes je posegla gospa Marica: „In jaz sem svojega vzela, ker sladkor in moko na debelo prodaja?“</p>
+            <p n="SLV00324.12">„In jaz,“ je hitela gospa Mica, „svojega, ker z dobičkom razpečava sukno in platno?“</p>
+            <p n="SLV00324.13">Nobena ni hotela odnehati od čebljanja in iz oči jim je plamtel ogenj, da sem menil, sedaj in sedaj bom upepeljen!</p>
+            <p n="SLV00324.14">Na Kamniških planinah se je pričela megla kaditi izza vrhov.</p>
+            <p n="SLV00324.15">„Vreme se spremeni“ sem pripomnil, da bi napeljal govorico v drugo strugo.</p>
+            <p n="SLV00324.16">Uni-sono: „Užaljene smo!“</p>
+            <p n="SLV00324.17">„Saj niste same, ljube prijateljice, saj imate obilo tovarišic! Čas, recimo moderni čas je tak, da je zakonska ljubezen prav važno blago, kise za visoko ceno prodaja, za visoko ceno kupuje. Kaj morete ve za to? Žrtev ste dneva, ki vas je rodil. A same dobro veste, da bi danes Leander ne plaval čez Helespont, če bi pri dekletu ne slutil nekaj težkih hranilničnih knjižic! Tudi jaz ne morem za to, da je tako!“</p>
+            <p n="SLV00324.18">„Obrekovalec! Hudobnež!“</p>
+            <p n="SLV00324.19">Posadil sem. se na konja: „Kaj veste ve tri, kaj vedo vaše tovarišice, kaj ve moderna ženska o tisti ljubezni, ki pretresa telo in dušo, ki veže dušo in telo, ki je kakor nevihta, ki pride, da ne veš odkod, ki te podsuje, ki te stolče, da se od nje nikdar več ne oddahneš, ki jo pa vendar hočeš imeti, in najsi radi nje življenje izgubiš! Kaj vi veste o taki ljubezni!“</p>
+            <p n="SLV00324.20">„Mi ljubimo svoje može!“</p>
+            <p n="SLV00324.21">„Dokler so v stanu mesec za mesecem polagati stotake na mizo! Če bi ne bilo teh stotakov, če bi ne bilo obleke in svile, ljubi Jezus! koliko ženic bi svoje može še ljubilo?“</p>
+            <p n="SLV00324.22">„Ti dobro to veš, ker si — oženjen!“</p>
+            <p n="SLV00324.23">Grenko-zasmehljivo so se smejale.</p>
+            <p n="SLV00324.24">„Zasmehujte me, kolikor vas je volja! Da, prijateljice, kar vam ni bilo dano, dano je bilo meni! Pretresla me je ljubezen, enaka viharju, enaka nevihti! Prišla je pozno, prav tako je prišla, kakor pride časih kako cvetje v pozni jeseni. Sadu ni rodila, kakor ga ne rodi jesenski cvet. Če me hočete poslušati, vam razgrnem vse. Pri tem tudi izveste, čemu nisem hotel zakonske družice, katera bi me bila ravnotako okrog prsta obvijala, kakor obvijate ve svoje može. Pri poslušanju se bodete morda obilo smejale! Vprašanje je torej: me li hočete poslušati?“</p>
+            <p n="SLV00324.25">Gospa Marica, gospa Mica in gospa Dinca so z enim glasom odgovorile, da hočejo poslušati.</p>
+         </div>
          <div type="chapter">
             <head>I.</head>
             <p n="SLV00324.26">Ko se je po travnikih otava kosila — katerega leta je to bilo, nima za vas, častite gospe, nikakega pomena — sem vzel v roko pratiko ter izračunal, da dosežem točno po štirinajstih dneh osemintrideseto leto svojega, brezpomembnega življenja. Teh osemintrideset let mi je tičalo neprijetno v kosteh: spodaj se mi je pričenjalo telo že nekako nesimetrično zaokrožati, zgoraj ob sencih pa je že nekaj sivelo, kakor po zimi, če leži ivje na vejevju. Sicer pa se mi je dobro godilo. Nekaj let že nisem poznal nikakih skrbi, kakor so me svoj čas davile na visoki šoli, in v pravdah sem koval če že ne rumenjakov, vsaj srebrnjake, tako da sta se napolnila dan za dnevom lonec in skleda. Vzlic temu pa me je tistega dne, ko sem ob roki pratike določil svojo starost, zavest, da se staram, prav potlačila in ravnotako me je potlačilo prepričanje, da mi na svetu ne ostaja drugega, nego tisto, kar imenuje Latinec: fructus consumere.</p>

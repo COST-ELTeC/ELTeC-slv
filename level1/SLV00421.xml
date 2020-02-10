@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00421">
    <teiHeader>
       <fileDesc>
@@ -36,22 +36,32 @@
             <measure unit="words">32352</measure>
             <measure unit="pages">96</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-10</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Trošt, Ivo</author>
                <title>Temni oblaki : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00421-1895.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Temni_oblaki</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Trošt, Ivo</author>
                <title xml:lang="sl">Temni oblaki. Povest.</title>
                <date>1895</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-QT1W4RI3</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00421/WIKI00421-001.png">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00421/WIKI00421.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,37 +77,39 @@
             <eltec:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-10">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00421">
       <body xml:lang="sl">
-         <p n="SLV00421.1">Duh slovenskih taborov je pregnal temne oblake nezavednosti, duh taborov je pokazal našim ljudem pravo ceno človeštva in silo Slovanstva.</p>
-         <p n="SLV00421.2">„Živi, živi, duh slovenski!“ odmevalo je po širnih straneh naše domovine. Ta klic je donel tudi po notranjskih doléh in bregeh, ko ga je vzbudil tabor na Kalcu in v Vipavi.</p>
-         <p n="SLV00421.3">Marsikdo, ki je prej trdovratno objemal svojo kranjščino, prerodil se je v plamenu nove dobe ter postal navdušen, za narodno stvar delaven in požrtvovalen Slovenec. Nekatere je bodrilo k temu lastno prepričanje, da treba pomagati narodu iz nezavedne temote, druge so vzbudile rodbinske zveze in prijateljske spone z nesmrtnim pesnikom, rodoljubom Miroslavom Vilharjem, da so krenili na pravo pot. Ostala je pa še vedno peščica takih mož, mimo katerih je drvil duh časa, kakor drvi hudournik mimo mogočne skale, ki sicer nima prave podlage, vendar se ne uda zbok lastne teže. Trdovratno kljubuje njegovi silovitosti.</p>
-         <p n="SLV00421.4">Takšen trdovratnik je bil tudi Luka Korenčan, imovit tržan v Ilirski Bistrici, stara korenina in neomajan kot stoletni hrast, trden v lastnem prepričanju kot stari grad nad virom Bistrice.</p>
-         <p n="SLV00421.5">Pozdravljen, na sivi skali stari grad, pozdravljen ti, vrli znanec Korenčan, tisočkrat pozdravljen, Bistrice hladni vir, mnogokrat pozdravljen, spomin velikega rodoljuba Vilharja! Pozdravljam te, notranjska stran, in tebe, čudovita Reka! Čuden je tvoj tek, a še čudnejše je človeško življenje. Lepa je zemlja ob tvojih bregovih, dičen je tod naš slovenski rod. Pozdravljeni, bregovi, pozdravljeni, stari znanci!</p>
-         <p n="SLV00421.6">Razigrala se mi je duša o lepih spominih nedavnega časa.</p>
-         <p n="SLV00421.7">Korenčan je imel svojo obširno hišo, žago, mlin in druga gospodarska poslopja ob viru Bistrice, v onem kotičku, ki je že marsikoga navdušil za lepoto slovenske domovine. Luka je sezidal svoje prepričanje na lastno bogastvo. Bil je razumen, a tudi samosvesten. Kar je sam spoznal za pravo, tega se je držal, vse drugo mu ni bilo prav nič mari. „Dokler imam kaj, spoštovali me bodo vsi, če sem Slovenec ali Nemec, Kranjec ali celo Francoz; če sem pa brez premoženja, prezirali me bodo vsi, ako vpijem tudi noč in dan: živio Slovenec!“ Tako je modroval proti vsakomur, ki si je prizadeval omajati njegovo prepričanje. Vse zastonj. To je bilo prav tako nemogoče, kakor če bi se kdo trudil, premeniti njegovo ime, ki mu je bilo dika in ponos. Njegovi predniki so bili vsi Korenčani in sicer bogati, prav v davne čase nazaj bogati Korenčani. Luka se je držal starih rodovinskih izporočil in, ponosen na svoje pokolenje, ostal veren Kranjec.</p>
-         <p n="SLV00421.8">Njegov nekdanji sošolec in prijatelj, Andrej Lesar iz B. poleg Reke pri Košani, bil je povsem drugačen. Vzgoja mu sicer ni mogla vcepiti rodoljubja, zato se ga je v poznejih letih oprijel sam z glavo in srcem. Kadar ga je obiskal Vilhar, bilo je v njegovi hiši pravo gostovanje. Navdušeno so prepevali slovenske pesmi, prepevali probujeni slovenski domovini. Tedaj bi bil opazil, da celo skrivnostna Reka veseleje šumi ob hiši in žaga urneje poje po bukovem lesu.</p>
-         <p n="SLV00421.9">Kmalu potem so jeli zidati železnico iz Št. Petra na Reko. Zaslužka je bilo mnogo povsod, delavcev je ob vsej črti kar mrgolelo, živahno je bilo tudi zvečer v gostilnah. Ljudje so mislili, da se je pokrajina izpremenila v rajski log, koder se cedi med, mleko in vino. Ljudstvo po bistriški in košanski dolini je razumno, a tudi delavno. Rado zasluži, rado moli in tudi veseli se rado. Tedaj je bilo vsega zadosti.</p>
-         <p n="SLV00421.10">Mnogi posestniki, katerim so silile prihranjene stare petice iz skrinje v pisani svet, poskusili so svojo srečo ob zidanju železnice in jemali manjše oddelke ceste v lastno zvršitev, najemali so sami delavce, sami jih plačevali ter jih sami tudi odpuščali. Lesar in Korenčan sta hotela s tem pomnožiti svoje denarje.</p>
-         <p n="SLV00421.11">Dasi z domovanjem daleč narazen, srečala sta se v tem času večkrat ter nadzorovala vsak svoje krdelce in se, kakor sta bila navajena že izza mladih let, cesto tudi sporekla. Obrnila sta se potem godrnjaje vsak v svojo stran, a drugi dan sta bila zopet prijatelja. Lesar je pripuhal smodko Korenčanu nasproti, ta mu je pa že od daleč ponujal roko v pozdrav ter povpraševal, kako je kaj spal prošlo noč. Tedaj je po navadi še dostavil:</p>
-         <p n="SLV00421.12">„Andrej, živio Slovenec! Kaj ne?“</p>
-         <p n="SLV00421.13">— Kako pa porečeš ti? zavrnil ga je Lesar. — Saj praviš, da nisi in ne maraš biti Slovenec.</p>
-         <p n="SLV00421.14">„I no, živio Kranjec!“</p>
-         <p n="SLV00421.15">— Glej, to se že samo ob sebi ne zlaga, torej ni za nič. Nerodno je tako kakor trditev sama, da smo mi Kranjci.</p>
-         <p n="SLV00421.16">„No, potem: živio denar!“</p>
-         <p n="SLV00421.17">— Luka, ti se šališ, rekel je Lesar, in oba sta se smejala.</p>
-         <p n="SLV00421.18">Navzlic temu sta ostala prijatelja.</p>
-         <p n="SLV00421.19">Često se jima je pridružil tudi Peter Tomažič, Korenčanov sosed, ki bi bil tudi rad pridobil ob železnici nekaj stotakov. Peter je bil popolnoma Lesarjevega prepričanja, in kadar se ni bavil z elektriko in galvanizmom, spravila sta se oba na Korenčana. Obdelovala sta ga zastran kranjščine tako, da je brcal z rokama in nogama, udal se pa ni. Korenčan je trda kost.</p>
-         <p n="SLV00421.20">Nekega dne potem so javili časniki to-le novico: (Zavraten napad.) Nekdo je napadel predsinočnjim znanega rodoljuba, gospoda Andreja Lesarja iz B. ob notranjski Reki. S seboj je nesel nekaj tisočakov, katere mu je napadnik vzel, ko ga je udaril z neko stvarjo po tilniku, da je omedlel. Zločinca iščejo. Sodi se, da mora biti domačin. — Na pol mrtvega je našel gospod Luka Korenčan iz Bistrice. Pripeljal se je mimo še o pravem času in ga spravil domov. Upanje je, da ozdravi.</p>
-         <p n="SLV00421.21">Ugibali so potem ljudje to in ono, uganili pa niso nič. Lesar sicer res ni umrl takoj potem, a tudi ozdravel ni. Spomin mu je otemnel, da se ni mogel domisliti, kdo ga je napadel in mu vzel denarje. Niti sumiti si ni upal nikogar. Napad je moral biti dobro premišljen. Hudobneža je iskala pravica, a našla ni niti sledu. Lesar je hiral, in pol leta potem so ga nesli h košanski cerkvi sv. Štefana.</p>
-         <p n="SLV00421.22">Na domu je pozneje vladala gospodinja posestvo in vzgajala nedorastla otroka Ivana in Gabrijelo. Dolgo so žalovali po ljubljenem očetu, slednjič je pa skrbna mati vedno češče ponavljala, da bodo spomin rajnega očeta najlepše spoštovali s tem, če se ravnajo po njegovih naukih. Gabrijela je bila v marsičem podobna očetu. Smilili so se ji siromaki, ljubila je svoj rojstni kraj, in ko je dorastla, cenila je svoj jezik in slovenski rod. Ivan je bil nekoliko drugačen. Posebno so nanj močno uplivali šolski nauki. Ko je dovršil realko, ni kazal one ljubezni do svojega rodu in jezika kot njegova sestra. Njegov vzor je bila spretnost v gospodarstvu in pa imetek.</p>
-         <p n="SLV00421.23">Vendar je vel med njima do materine smrti in še pozneje duh pokojnega Lesarja, duh slovenski. Bili so sicer časi, ko je kazalo, da se preseli v hišo nesloga in razpor, kopičili so se na obzorju Lesarjevih potomcev temni oblaki in naznanjali hudo hudo nevihto. — Ko se v naravi bliža hudo vreme, buči grom, švigajo strele, temni se nebo, in vse pričakuje v strahu hude ure; le redki so dnevi, da prežene nasprotni veter grozeče oblake in odvrne ledeno zrnje, ki preti poljedelcu uničiti nado. Ali so pa tudi v življenju tako močni, tako vstrajni vetrovi?</p>
-         <p n="SLV00421.24">Železnica je stekla na Reko. Luka Korenčan je nabral poleg plesnivih petič, podedovanih po rajnem očetu, še lepo svotico tolarjev. Tudi med priprostim ljudstvom se je marsikje poznalo zidanje železnice. Nekaterim je vzbujala železna cesta neprijetne spomine o neplačanih dolgovih in o dolgih računih v gostilni; druge je pa spominjalo srečnih časov samo vedno žejno grlo.</p>
-         <p n="SLV00421.25">Vilhar se je preselil v boljši svet, a duh njegov še živi med njegovimi rojaki. Slava velikemu rodoljubu!</p>
+         <div type="liminal">
+            <p n="SLV00421.1">Duh slovenskih taborov je pregnal temne oblake nezavednosti, duh taborov je pokazal našim ljudem pravo ceno človeštva in silo Slovanstva.</p>
+            <p n="SLV00421.2">„Živi, živi, duh slovenski!“ odmevalo je po širnih straneh naše domovine. Ta klic je donel tudi po notranjskih doléh in bregeh, ko ga je vzbudil tabor na Kalcu in v Vipavi.</p>
+            <p n="SLV00421.3">Marsikdo, ki je prej trdovratno objemal svojo kranjščino, prerodil se je v plamenu nove dobe ter postal navdušen, za narodno stvar delaven in požrtvovalen Slovenec. Nekatere je bodrilo k temu lastno prepričanje, da treba pomagati narodu iz nezavedne temote, druge so vzbudile rodbinske zveze in prijateljske spone z nesmrtnim pesnikom, rodoljubom Miroslavom Vilharjem, da so krenili na pravo pot. Ostala je pa še vedno peščica takih mož, mimo katerih je drvil duh časa, kakor drvi hudournik mimo mogočne skale, ki sicer nima prave podlage, vendar se ne uda zbok lastne teže. Trdovratno kljubuje njegovi silovitosti.</p>
+            <p n="SLV00421.4">Takšen trdovratnik je bil tudi Luka Korenčan, imovit tržan v Ilirski Bistrici, stara korenina in neomajan kot stoletni hrast, trden v lastnem prepričanju kot stari grad nad virom Bistrice.</p>
+            <p n="SLV00421.5">Pozdravljen, na sivi skali stari grad, pozdravljen ti, vrli znanec Korenčan, tisočkrat pozdravljen, Bistrice hladni vir, mnogokrat pozdravljen, spomin velikega rodoljuba Vilharja! Pozdravljam te, notranjska stran, in tebe, čudovita Reka! Čuden je tvoj tek, a še čudnejše je človeško življenje. Lepa je zemlja ob tvojih bregovih, dičen je tod naš slovenski rod. Pozdravljeni, bregovi, pozdravljeni, stari znanci!</p>
+            <p n="SLV00421.6">Razigrala se mi je duša o lepih spominih nedavnega časa.</p>
+            <p n="SLV00421.7">Korenčan je imel svojo obširno hišo, žago, mlin in druga gospodarska poslopja ob viru Bistrice, v onem kotičku, ki je že marsikoga navdušil za lepoto slovenske domovine. Luka je sezidal svoje prepričanje na lastno bogastvo. Bil je razumen, a tudi samosvesten. Kar je sam spoznal za pravo, tega se je držal, vse drugo mu ni bilo prav nič mari. „Dokler imam kaj, spoštovali me bodo vsi, če sem Slovenec ali Nemec, Kranjec ali celo Francoz; če sem pa brez premoženja, prezirali me bodo vsi, ako vpijem tudi noč in dan: živio Slovenec!“ Tako je modroval proti vsakomur, ki si je prizadeval omajati njegovo prepričanje. Vse zastonj. To je bilo prav tako nemogoče, kakor če bi se kdo trudil, premeniti njegovo ime, ki mu je bilo dika in ponos. Njegovi predniki so bili vsi Korenčani in sicer bogati, prav v davne čase nazaj bogati Korenčani. Luka se je držal starih rodovinskih izporočil in, ponosen na svoje pokolenje, ostal veren Kranjec.</p>
+            <p n="SLV00421.8">Njegov nekdanji sošolec in prijatelj, Andrej Lesar iz B. poleg Reke pri Košani, bil je povsem drugačen. Vzgoja mu sicer ni mogla vcepiti rodoljubja, zato se ga je v poznejih letih oprijel sam z glavo in srcem. Kadar ga je obiskal Vilhar, bilo je v njegovi hiši pravo gostovanje. Navdušeno so prepevali slovenske pesmi, prepevali probujeni slovenski domovini. Tedaj bi bil opazil, da celo skrivnostna Reka veseleje šumi ob hiši in žaga urneje poje po bukovem lesu.</p>
+            <p n="SLV00421.9">Kmalu potem so jeli zidati železnico iz Št. Petra na Reko. Zaslužka je bilo mnogo povsod, delavcev je ob vsej črti kar mrgolelo, živahno je bilo tudi zvečer v gostilnah. Ljudje so mislili, da se je pokrajina izpremenila  v rajski log, koder se cedi med, mleko in vino. Ljudstvo po bistriški in košanski dolini je razumno, a tudi delavno. Rado zasluži, rado moli in tudi veseli se rado. Tedaj je bilo vsega zadosti.</p>
+            <p n="SLV00421.10">Mnogi posestniki, katerim so silile prihranjene stare petice iz skrinje v pisani svet, poskusili so svojo srečo ob zidanju železnice in jemali manjše oddelke ceste v lastno zvršitev, najemali so sami delavce, sami jih plačevali ter jih sami tudi odpuščali. Lesar in Korenčan sta hotela s tem pomnožiti svoje denarje.</p>
+            <p n="SLV00421.11">Dasi z domovanjem daleč narazen, srečala sta se v tem času večkrat ter nadzorovala vsak svoje krdelce in se, kakor sta bila navajena že izza mladih let, cesto tudi sporekla. Obrnila sta se potem godrnjaje vsak v svojo stran, a drugi dan sta bila zopet prijatelja. Lesar je pripuhal smodko Korenčanu nasproti, ta mu je pa že od daleč ponujal roko v pozdrav ter povpraševal, kako je kaj spal prošlo noč. Tedaj je po navadi še dostavil:</p>
+            <p n="SLV00421.12">„Andrej, živio Slovenec! Kaj ne?“</p>
+            <p n="SLV00421.13">— Kako pa porečeš ti? zavrnil ga je Lesar. — Saj praviš, da nisi in ne maraš biti Slovenec.</p>
+            <p n="SLV00421.14">„I no, živio Kranjec!“</p>
+            <p n="SLV00421.15">— Glej, to se že samo ob sebi ne zlaga, torej ni za nič. Nerodno je tako kakor trditev sama, da smo mi Kranjci.</p>
+            <p n="SLV00421.16">„No, potem: živio denar!“</p>
+            <p n="SLV00421.17">— Luka, ti se šališ, rekel je Lesar, in oba sta se smejala.</p>
+            <p n="SLV00421.18">Navzlic temu sta ostala prijatelja.</p>
+            <p n="SLV00421.19">Često se jima je pridružil tudi Peter Tomažič, Korenčanov sosed, ki bi bil tudi rad pridobil ob železnici nekaj stotakov. Peter je bil popolnoma Lesarjevega prepričanja, in kadar se ni bavil z elektriko in galvanizmom, spravila sta se oba na Korenčana. Obdelovala sta ga zastran kranjščine tako, da je brcal z rokama in nogama, udal se pa ni. Korenčan je trda kost.</p>
+            <p n="SLV00421.20">Nekega dne potem so javili časniki to-le novico: (Zavraten napad.) Nekdo je napadel predsinočnjim znanega rodoljuba, gospoda Andreja Lesarja iz B. ob notranjski  Reki. S seboj je nesel nekaj tisočakov, katere mu je napadnik vzel, ko ga je udaril z neko stvarjo po tilniku, da je omedlel. Zločinca iščejo. Sodi se, da mora biti domačin. — Na pol mrtvega je našel gospod Luka Korenčan iz Bistrice. Pripeljal se je mimo še o pravem času in ga spravil domov. Upanje je, da ozdravi.</p>
+            <p n="SLV00421.21">Ugibali so potem ljudje to in ono, uganili pa niso nič. Lesar sicer res ni umrl takoj potem, a tudi ozdravel ni. Spomin mu je otemnel, da se ni mogel domisliti, kdo ga je napadel in mu vzel denarje. Niti sumiti si ni upal nikogar. Napad je moral biti dobro premišljen. Hudobneža je iskala pravica, a našla ni niti sledu. Lesar je hiral, in pol leta potem so ga nesli h košanski cerkvi sv. Štefana.</p>
+            <p n="SLV00421.22">Na domu je pozneje vladala gospodinja posestvo in vzgajala nedorastla otroka Ivana in Gabrijelo. Dolgo so žalovali po ljubljenem očetu, slednjič je pa skrbna mati vedno češče ponavljala, da bodo spomin rajnega očeta najlepše spoštovali s tem, če se ravnajo po njegovih naukih. Gabrijela je bila v marsičem podobna očetu. Smilili so se ji siromaki, ljubila je svoj rojstni kraj, in ko je dorastla, cenila je svoj jezik in slovenski rod. Ivan je bil nekoliko drugačen. Posebno so nanj močno uplivali šolski nauki. Ko je dovršil realko, ni kazal one ljubezni do svojega rodu in jezika kot njegova sestra. Njegov vzor je bila spretnost v gospodarstvu in pa imetek.</p>
+            <p n="SLV00421.23">Vendar je vel med njima do materine smrti in še pozneje duh pokojnega Lesarja, duh slovenski. Bili so sicer časi, ko je kazalo, da se preseli v hišo nesloga in razpor, kopičili so se na obzorju Lesarjevih potomcev temni oblaki in naznanjali hudo hudo nevihto. — Ko se v naravi bliža hudo vreme, buči grom, švigajo strele, temni se nebo, in vse pričakuje v strahu hude ure; le redki so dnevi, da prežene nasprotni veter grozeče oblake in odvrne ledeno zrnje, ki preti poljedelcu uničiti nado. Ali so pa tudi v življenju tako močni, tako vstrajni vetrovi?</p>
+            <p n="SLV00421.24">Železnica je stekla na Reko. Luka Korenčan je nabral poleg plesnivih petič, podedovanih po rajnem očetu, še lepo svotico tolarjev. Tudi med priprostim  ljudstvom se je marsikje poznalo zidanje železnice. Nekaterim je vzbujala železna cesta neprijetne spomine o neplačanih dolgovih in o dolgih računih v gostilni; druge je pa spominjalo srečnih časov samo vedno žejno grlo.</p>
+            <p n="SLV00421.25">Vilhar se je preselil v boljši svet, a duh njegov še živi med njegovimi rojaki. Slava velikemu rodoljubu!</p>
+         </div>
          <div type="chapter">
             <head>I.</head>
             <p n="SLV00421.26">

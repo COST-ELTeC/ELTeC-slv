@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00132">
    <teiHeader>
       <fileDesc>
@@ -36,22 +36,32 @@
             <measure unit="words">34687</measure>
             <measure unit="pages">100</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-10</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Maselj Podlimbarski, Fran</author>
                <title>Gorski potoki : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00132-1895.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Gorski_potoki</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Maselj Podlimbarski, Fran</author>
                <title xml:lang="sl">Gorski potoki. Povest Ivana Gorca.</title>
                <date>1895</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-44323MRI</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00132/WIKI00132-001.jpg">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00132/WIKI00132.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,34 +77,36 @@
             <eltec:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-10">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00132">
       <body xml:lang="sl">
-         <p n="SLV00132.1">
-            <l>A te convien tenere altro viaggio.</l>
-         </p>
-         <p n="SLV00132.2">Dante.</p>
-         <p n="SLV00132.3">Pogovarjali smo se o politiki, o slovanstvu: kdaj zazori naš dan, kdaj se utelesi naša stara pravda, in ali si jo priborimo z „uma svetlim mečem“ ali kako. Ni treba pristavljati, da smo imeli najrazličnejše, nasprotujoče si nazore in da nas je bilo skoraj toliko strank kolikor glav.</p>
-         <p n="SLV00132.4">„Nam treba močne nadvlade,“ je dejal štiridesetleten mož — zvali so ga Ivana Gorca, „sicer se pokoljemo med seboj tako, da ne bo po Slovencih ne duha ne sluha.“ To je rekel z dobrohotnim usmevom, polnim ironije, ki se smejé ob vse zadene, pa tudi vse spregleda in odpusti, ki se človeku dobrega srca rodi v poznejših letih in po mnogih izkušnjah. Prikladna je taka ironija v mnogoglavi druščini, kjer se govori o politiki, kjer treba toliko odpustiti in toliko spregledati.</p>
-         <p n="SLV00132.5">„Naš up je naša mladina,“ je menil drug možak motnega, solzivega pogleda, znan kot velik idealist.</p>
-         <p n="SLV00132.6">„Kako si to mislite?“ je vprašal Ivan Gorec.</p>
-         <p n="SLV00132.7">„No, tako — “ je zajecal idealist. „Naša mladina je navdušena za našo stvar, ona ima v prsih še tisti ogenj, katerega so nam več ali manj že zadušile skrbi in pretege življenja.“</p>
-         <p n="SLV00132.8">„In pa plača, žena, otroci — le odkrito govorite!“ je primaknil Ivan Gorec.</p>
-         <p n="SLV00132.9">„Da, tudi to so pretege, ki ovirajo razvoj jeklenih značajev,“ je pritrdil idealist, „in teh ne pozna mladina. Dandanes se mladina drugače vzgaja, nego smo se mi, torej bo opravičila nade, katere gojimo o njej.“</p>
-         <p n="SLV00132.10">„To so lepe besede, a so že jako obrabljene. Mladina, mladina, kaj je mladina! To ni nič! Vihrav in igriv vzrast brez vztrajnosti in idej. Njo tako zaduši življenje, kakor je nas in tako opraviči nade, kakor smo jih mi. Kaj menite?“</p>
-         <p n="SLV00132.11">Gorec se je tako smehljal, da se je kazalo, da ni popolnoma prepričan o resničnosti svojih besed, da hoče le izzivati, poslušati tuja mnenja.</p>
-         <p n="SLV00132.12">„Tako torej!“ se je začudil idealist, ki ni povsem razumel Gorca. „A kdo nam neti ogenj za našo dobro stvar?“</p>
-         <p n="SLV00132.13">„To bi bil še narobe svet, da bi ga nam netila mladina; sami si ga moramo netiti, mladino pa učiti, kako se naj uči in pripravlja, pripravlja, pravim, za bodoče službovanje domovini. Možje naj služijo domovini; nezreli mladiči naj stoje ob strani in se naj uče ob vzgledih značajnih mož, potem se lahko poreče, da skupina naroda služi domovini.“</p>
-         <p n="SLV00132.14">„Tudi to so lepe besede,“ je dejal idealist nekoliko ozlovoljen. „Kje pa imamo tiste značajne može?“</p>
-         <p n="SLV00132.15">„Imamo jih, nekateri so očiti, mnogo je pa skritih. Da, da ... le smejte se! Domoljubje se ne kaže v hrupnih besedah, ampak v tihih dejanjih in kdor vestno izpolnjuje zapoved božjo, ki pravi, da ljubi svojega bližnjega, tisti je že pravi rodoljub. Vsemu narodu posameznik težko pomaga, vsakdo pa lahko pokaže svoje rodoljubje s tem, da pomaga svojemu najbližnjemu bratu. In takih značajnikov, takih vzgledov je dosti.“</p>
-         <p n="SLV00132.16">„V tem, ko bomo mi na tihem, kakor pravite, brez hrupnih besed pomagali brat bratu, bomo hrumeli naši sosedje po svoji navadi in naravi nad našimi glavami in nas res zbrisali s površja zemlje. Dandanes se ohrani hrumeč in kričeč narod. Italijani in Madžari naj nam bodo zgled!“</p>
-         <p n="SLV00132.17">„Jaz bi prej rekel, naj posnemamo v rodoljubju požrtvovalne Čehe, samo s to izjemo, naj se naša mladina izogiblje hrumnih demonstracij češke mladine. Pride morda čas, ko bodo mogoči in modri činitelji poklicali ves narod na delo od petnajstletnika pa do trhlega starca, pride morda dan — da po Jokajevem povem — ko se bodo kupovale kose, s katerimi se ne bo kosila trava. Ali ne verujete temu? Da, vse je mogoče! Pomislite na upor Tirolske v začetku našega stoletja. Takrat, pravim, mora tudi mladina stopiti k delu, sedaj v mirnih časih naj se peča z učenjem, da se kar najbolje izuri za svoj resni in težki poklic. Mene boli srce, kadar se spomnim, koliko čeških mladeničev vzdihuje po ječah, in da ti mladi ljudje s svojimi nepremišljenimi demonstracijami nič niso koristili, še poslabšali so stanje narodu, ki je čudovito napredoval v vseh strokah. Tako se je godilo tudi italijanski mladini. Slišal sem, da so bili pred nekaterimi desetletji mlečnolični laški mladeniči neredki gostje na ljubljanskem gradu, pa tudi drugod je bilo dosti zaprtih zaradi političnih pregreškov. Ali mislite, da bi bila Italija kdaj edina, da ni bilo drugih činiteljev? Jaz sam sem izkusil, s kakim ognjem stopi mladina, če hoče kaj doseči, na polzko pot nezakonitosti in dovolj bridko sem čutil nasledke, ker sem prišel z zakoni v nasprotje, čeprav sem se potegnil za pravico in resnico.“</p>
-         <p n="SLV00132.18">„Kdaj je bilo to?“ je nas vprašalo več obenem.</p>
-         <p n="SLV00132.19">„Oj, to je dolga povest,“ je dejal zamišljeno Ivan Gorec, spuščaje in odpihovaje smotkih dim skozi nos. „Da, to je dolga povest, ali s politiko nima opraviti ničesar.“</p>
-         <p n="SLV00132.20">„Tem bolje, tem bolje!“ smo se nekateri oglasili, ker naše misli so se bile obrusile ob neplodnem politikovanju in nerazrešljivih vprašanjih. Poznali smo Ivana Gorca, da je s svojim nasmehom dal vedeti, da bi se naprošen rad iznebil svoje povesti, vedeli smo tudi, da mu gladko teče beseda in da zna pripovedovati mične prigodbe, vzete iz svojega življenja, torej smo napeljali govorico tako, da je naš zgovorni tovariš pričel svojo povest. Evo je!</p>
+         <div type="liminal">
+            <p n="SLV00132.1">
+               <l>A te convien tenere altro viaggio.</l>
+            </p>
+            <p n="SLV00132.2">Dante.</p>
+            <p n="SLV00132.3">Pogovarjali smo se o politiki, o slovanstvu: kdaj zazori naš dan, kdaj se utelesi naša stara pravda, in ali si jo priborimo z „uma svetlim mečem“ ali kako. Ni treba pristavljati, da smo imeli najrazličnejše, nasprotujoče si nazore in da nas je bilo skoraj toliko strank kolikor glav.</p>
+            <p n="SLV00132.4">„Nam treba močne nadvlade,“ je dejal štiridesetleten mož — zvali so ga Ivana Gorca, „sicer se pokoljemo med seboj tako, da ne bo po Slovencih ne duha ne sluha.“ To je rekel z dobrohotnim usmevom, polnim ironije, ki se smejé ob vse zadene, pa tudi vse spregleda in odpusti, ki se človeku dobrega srca rodi v poznejših letih in po mnogih izkušnjah. Prikladna je taka ironija v mnogoglavi druščini, kjer se govori o politiki, kjer treba toliko odpustiti in toliko spregledati.</p>
+            <p n="SLV00132.5">„Naš up je naša mladina,“ je menil drug možak motnega, solzivega pogleda, znan kot velik idealist.</p>
+            <p n="SLV00132.6">„Kako si to mislite?“ je vprašal Ivan Gorec.</p>
+            <p n="SLV00132.7">„No, tako — “ je zajecal idealist. „Naša mladina je navdušena za našo stvar, ona ima v prsih še tisti ogenj, katerega so nam več ali manj že zadušile skrbi in pretege življenja.“</p>
+            <p n="SLV00132.8">„In pa plača, žena, otroci — le odkrito govorite!“ je primaknil Ivan Gorec.</p>
+            <p n="SLV00132.9">„Da, tudi to so pretege, ki ovirajo razvoj jeklenih značajev,“ je pritrdil idealist, „in teh ne pozna mladina. Dandanes se mladina drugače vzgaja, nego smo se mi, torej bo opravičila nade, katere gojimo o njej.“</p>
+            <p n="SLV00132.10">„To so lepe besede, a so že jako obrabljene. Mladina, mladina, kaj je mladina! To ni nič! Vihrav in igriv vzrast brez vztrajnosti in idej. Njo tako zaduši življenje, kakor je nas in tako opraviči nade, kakor smo jih mi. Kaj menite?“</p>
+            <p n="SLV00132.11">Gorec se je tako smehljal, da se je kazalo, da ni popolnoma prepričan o resničnosti svojih besed, da hoče le izzivati, poslušati tuja mnenja.</p>
+            <p n="SLV00132.12">„Tako torej!“ se je začudil idealist, ki ni povsem razumel Gorca. „A kdo nam neti ogenj za našo dobro stvar?“</p>
+            <p n="SLV00132.13">„To bi bil še narobe svet, da bi ga nam netila mladina; sami si ga moramo netiti, mladino pa učiti, kako se naj uči in pripravlja, pripravlja, pravim, za bodoče službovanje domovini. Možje naj služijo domovini; nezreli mladiči naj stoje ob strani in se naj uče ob vzgledih značajnih mož, potem se lahko poreče, da skupina naroda služi domovini.“</p>
+            <p n="SLV00132.14">„Tudi to so lepe besede,“ je dejal idealist nekoliko ozlovoljen. „Kje pa imamo tiste značajne može?“</p>
+            <p n="SLV00132.15">„Imamo jih, nekateri so očiti, mnogo je pa skritih. Da, da ... le smejte se! Domoljubje se ne kaže v hrupnih besedah, ampak v tihih dejanjih in kdor vestno izpolnjuje zapoved božjo, ki pravi, da ljubi svojega bližnjega, tisti je že pravi rodoljub. Vsemu narodu posameznik težko pomaga, vsakdo pa lahko pokaže svoje rodoljubje s tem, da pomaga svojemu najbližnjemu bratu. In takih značajnikov, takih vzgledov je dosti.“</p>
+            <p n="SLV00132.16">„V tem, ko bomo mi na tihem, kakor pravite, brez hrupnih besed pomagali brat bratu, bomo hrumeli naši sosedje po svoji navadi in naravi nad našimi glavami in nas res zbrisali s površja zemlje. Dandanes  se ohrani hrumeč in kričeč narod. Italijani in Madžari naj nam bodo zgled!“</p>
+            <p n="SLV00132.17">„Jaz bi prej rekel, naj posnemamo v rodoljubju požrtvovalne Čehe, samo s to izjemo, naj se naša mladina izogiblje hrumnih demonstracij češke mladine. Pride morda čas, ko bodo mogoči in modri činitelji poklicali ves narod na delo od petnajstletnika pa do trhlega starca, pride morda dan — da po Jokajevem povem — ko se bodo kupovale kose, s katerimi se ne bo kosila trava. Ali ne verujete temu? Da, vse je mogoče! Pomislite na upor Tirolske v začetku našega stoletja. Takrat, pravim, mora tudi mladina stopiti k delu, sedaj v mirnih časih naj se peča z učenjem, da se kar najbolje izuri za svoj resni in težki poklic. Mene boli srce, kadar se spomnim, koliko čeških mladeničev vzdihuje po ječah, in da ti mladi ljudje s svojimi nepremišljenimi demonstracijami nič niso koristili, še poslabšali so stanje narodu, ki je čudovito napredoval v vseh strokah. Tako se je godilo tudi italijanski mladini. Slišal sem, da so bili pred nekaterimi desetletji mlečnolični laški mladeniči neredki gostje na ljubljanskem gradu, pa tudi drugod je bilo dosti zaprtih zaradi političnih pregreškov. Ali mislite, da bi bila Italija kdaj edina, da ni bilo drugih činiteljev? Jaz sam sem izkusil, s kakim ognjem stopi mladina, če hoče kaj doseči, na polzko pot nezakonitosti in dovolj bridko sem čutil nasledke, ker sem prišel z zakoni v nasprotje, čeprav sem se potegnil za pravico in resnico.“</p>
+            <p n="SLV00132.18">„Kdaj je bilo to?“ je nas vprašalo več obenem.</p>
+            <p n="SLV00132.19">„Oj, to je dolga povest,“ je dejal zamišljeno Ivan Gorec, spuščaje in odpihovaje smotkih dim skozi nos. „Da, to je dolga povest, ali s politiko nima opraviti ničesar.“</p>
+            <p n="SLV00132.20">„Tem bolje, tem bolje!“ smo se nekateri oglasili, ker naše misli so se bile obrusile ob neplodnem politikovanju in nerazrešljivih vprašanjih. Poznali smo Ivana Gorca, da je s svojim nasmehom dal vedeti, da bi se naprošen rad iznebil svoje povesti, vedeli smo tudi, da mu gladko teče beseda in da zna pripovedovati mične prigodbe, vzete iz svojega življenja, torej smo napeljali govorico tako, da je naš zgovorni tovariš pričel svojo povest. Evo je!</p>
+         </div>
          <div type="chapter">
             <head>I.</head>
             <p n="SLV00132.21">Med tiste ljudi, s katerimi živim v prijateljstvu že izza mladih let, štejem na prvem mestu Frančiška Lazarja. Poznal sem ga že na ljubljanski gimnaziji. Bil je dve leti starejši od mene, hodila sva pa skupaj v isti razred in stanovala sva skupaj pri Gregorki v enonadstropni hiši poleg Kravje doline. Frančišek na gimnaziji ni imel posebne sreče. Boril se je s hladom in gladom, poleg tega pa je bil izmed tistih mladeničev, ki prva učna leta ne morejo pozabiti, da so odtrgani od domačih pašnikov in se pozneje ne morejo sprijazniti z nadzorovanjem, katerim pa misli, ko so se utrdile in ublažile, tako rade uhajajo od ozkih predalov šolskih knjig k tistim tvoritvam bujne domišljije, katerim se v poznejših letih tako radi posmejemo. Res se je odlikoval v nekaterih predmetih, a drugi so se mu zdeli tako pusti, da je le za silo prebil z njimi. Temno se spominjam šolskih let. Zdi se mi, da gledajo obrazi nekdanjih tovarišev name mrko in brezpodobno, kakor gledajo z nekaterih slik glave, naslikane v meglenem ozadju, brez pravega izraza, brez znatnih potez in obrisov, brez življenja in značaja. Le Frančiškov obraz je med to množico jasen in rezek, le Lazar mi stoji še živo pred očmi, zamišljen in skrivaj čitajoč „Slovenski Narod“, med tem ko učitelj predava poslušnim in neposlušnim učencem o bistvu in nebistvu hroščev in podobne gomazni.</p>
