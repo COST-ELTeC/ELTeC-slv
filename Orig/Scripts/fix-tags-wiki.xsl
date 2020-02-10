@@ -7,7 +7,7 @@
 		xmlns:tei="http://www.tei-c.org/ns/1.0"    
 		xmlns:eltec="http://distantreading.net/eltec/ns"
 		xmlns="http://www.tei-c.org/ns/1.0"
-		exclude-result-prefixes="xs h tei eltec">
+		exclude-result-prefixes="xs h et tei eltec">
 
   <xsl:output indent="yes"/>
   <xsl:strip-space elements="tei:*"/>
