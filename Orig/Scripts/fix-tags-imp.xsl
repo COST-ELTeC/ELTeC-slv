@@ -259,8 +259,8 @@
   </xsl:template>
   
   <xsl:template match="tei:revisionDesc">
-    <revisionDesc>
-      <change xml:lang="en" when="{$Today}">Tomaž Erjavec: converted to ELTeC</change>
+    <revisionDesc xml:lang="en">
+      <change when="{$Today}">Tomaž Erjavec: converted to ELTeC</change>
       <!--xsl:apply-templates/-->
     </revisionDesc>
   </xsl:template>
