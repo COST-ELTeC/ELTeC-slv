@@ -14,6 +14,7 @@ Janežič-Kraljev, Ivan, 1855-1922	VIAF	68374219	http://viaf.org/viaf/68374219
 Jelenc, Vitomir Feodor, 1885-1922	VIAF	66265062	http://viaf.org/viaf/66265062
 Jurčič, Josip, 1844-1881	VIAF	54483391	http://viaf.org/viaf/54483391
 Kersnik, Janko, 1852-1897	VIAF	34746806	http://viaf.org/viaf/34746806
+Kočevar, Ferdo, 1833-1878	VIAF	172466996	http://viaf.org/viaf/172466996
 Koder, Anton, 1851-1918	VIAF	172847595	http://viaf.org/viaf/172847595
 Kovačič, Ivo, 1873-1936	VIAF	81042077	http://viaf.org/viaf/81042077
 Kraigher, Alojz, 1877-1959	VIAF	44335953	http://viaf.org/viaf/44335953
