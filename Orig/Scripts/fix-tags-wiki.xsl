@@ -3,6 +3,7 @@
 		xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 		xmlns:xs="http://www.w3.org/2001/XMLSchema" 
 		xmlns:h="http://www.w3.org/1999/xhtml" 
+		xmlns:et="http://nl.ijs.si/et" 
 		xmlns:tei="http://www.tei-c.org/ns/1.0"    
 		xmlns:eltec="http://distantreading.net/eltec/ns"
 		xmlns="http://www.tei-c.org/ns/1.0"
@@ -14,16 +15,13 @@
   <xsl:variable name="Today" select="substring-before(current-date() cast as xs:string, '+')"/>
 
   <xsl:template match="/">
-    <xsl:text disable-output-escaping="yes">&#10;&lt;?xml-model</xsl:text>
-    <xsl:text> href="../../Schemas/eltec-1.rng"</xsl:text>
-    <xsl:text> type="application/xml"</xsl:text>
-    <xsl:text>&#10;            schematypens="http://relaxng.org/ns/structure/1.0"</xsl:text>
-    <xsl:text disable-output-escaping="yes">?&gt;&#10;</xsl:text>
-    <xsl:text disable-output-escaping="yes">&lt;?xml-model</xsl:text>
-    <xsl:text> href="../../Schemas/eltec-1.rng"</xsl:text>
-    <xsl:text> type="application/xml"</xsl:text>
-    <xsl:text>&#10;            schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:text>
-    <xsl:text disable-output-escaping="yes">?&gt;&#10;</xsl:text>
+    <xsl:processing-instruction name="xml-model">
+      href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
+    <xsl:text>&#10;</xsl:text>
+    <xsl:processing-instruction name="xml-model">
+      href="../../Schemas/eltec-1.rng" type="application/xml"
+      schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
     <xsl:variable name="pass1">
       <xsl:apply-templates/>
     </xsl:variable>
@@ -339,10 +337,27 @@
   </xsl:template>
   
   <xsl:template match="text()">
-    <!-- Fixing escaped asterisk and ordinals -->
-    <xsl:value-of select="replace(
+    <!-- Fixing escaped asterisk, ordinals and mdashes -->
+    <xsl:variable name="text"
+		  select="replace(
+			  replace(
 			  replace(.,
+			  '&amp;ndash;', '–'),
 			  '✱', '*'),
 			  '\\(\d+\.)', '$1')"/>
+     <xsl:value-of select="et:unescapeCharacters($text)"/>
   </xsl:template>
+
+  <xsl:function name="et:unescapeCharacters">
+    <xsl:param name="text" as="xs:string"/>
+    <xsl:analyze-string select="$text" regex="&amp;#([0-9]+);">
+      <xsl:matching-substring>
+	<xsl:value-of select="codepoints-to-string(xs:integer(regex-group(1)))"/>
+      </xsl:matching-substring>
+      <xsl:non-matching-substring>
+	<xsl:value-of select="."/>
+      </xsl:non-matching-substring>
+    </xsl:analyze-string>
+  </xsl:function>
+  
 </xsl:stylesheet>
