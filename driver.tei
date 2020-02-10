@@ -107,4 +107,10 @@
   <xi:include href="level1/SLV10027.xml"/>
   <xi:include href="level1/SLV10028.xml"/>
   <xi:include href="level1/SLV10029.xml"/>
+  <xi:include href="level1/SLV10030.xml"/>
+  <xi:include href="level1/SLV10031.xml"/>
+  <xi:include href="level1/SLV10032.xml"/>
+  <xi:include href="level1/SLV20001.xml"/>
+  <xi:include href="level1/SLV20002.xml"/>
+  <xi:include href="level1/SLV30001.xml"/>
 </teiCorpus>
