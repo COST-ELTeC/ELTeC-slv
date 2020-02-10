@@ -27,13 +27,14 @@ xall:	clean imp wiki eziss val
 val:
 	java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-1.rng \
 	../../level1/*.xml
-eziss:	grab-eziss convert-eziss
+eziss:	convert-eziss
 imp:	grab-imp convert-imp
 wiki:	grab-wiki convert-wiki
 
 convert-eziss:
 	$s -xsl:prep_spoti.xsl ../eZISS/spoti-2019-10-15.xml > ../../level1/SLV30001.xml
-grab-eziss:
+#Can't use the following anymore, as manual edits!
+xxgrab-eziss:
 	#Only one novel, so we don't complicate
 	mkdir -p ../eZISS
 	wget http://nl.ijs.si/e-zrc/izidor/tei/spoti-2007-10-08.xml

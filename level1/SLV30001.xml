@@ -3,7 +3,7 @@
       schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
       schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV20001">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV30001">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -545,8 +545,10 @@
             <p>„Za nekaj nadzvezdnega, preljubi? Ne za vizionarno osvajanje Neosvojljivega, temuč za slavnosten govor o stvareh, ki jih vsi poznamo, najdražji? Za riman shod beraških misli, ki se sicer klatijo po vsej deželi? Za ritmično dirko javnoznanih starcev? Ali pravzaprav za dišeč šopek cvetja z domačih livad? Pa da boš potolažen: Moja pesem je slaba, čeprav bi jih mnogo reklo, da ni lepa.“</p>
             <p>(Fritz se je malokdaj hvalil, dasi je poln napuha, ali morda prav zato, toda kadar je rekel, da je zložil dobro pesem, je bila dobra.)</p>
             <p>„In kaj naj pomeni:</p>
-            <l>Po cesti grem in slišim svoj korak</l>
-            <l>in sem vesel, da ga sam ne odmevam?“</l>
+            <p>
+               <l>Po cesti grem in slišim svoj korak</l>
+               <l>in sem vesel, da ga sam ne odmevam?“</l>
+            </p>
             <p>„Še nikdar nisem bil tako srečen kot nocoj, Guter. (Pa ne misli, da ti bom pravil komentar k pesmi, kajti pesem sama je komentar človeka.) Od tistega časa, ko so me prvič zabolele zvezde, ko me je vse bolelo: tema in luč in vse knjige in vse slike in vsake tuje oči. Morda še veš, kako je, ko deček dorašča?“</p>
             <p>Legel je na divan, razpel roke in zaprl oči; še nikdar nisem prej videl, da bi si bil dovolil tako izrečno lirsko pozo.</p>
             <p>„Deček, ki dorašča!“ Spomnil sem se lastne mladosti.</p>
@@ -780,8 +782,10 @@
             <p>„Ali hočeš, da pripišem pesmi dva verza?“</p>
             <p>„Kako?“</p>
             <p>„Tako:</p>
-            <l>Vzemi mojo roko, draga,</l>
-            <l>in me vodi. Ti vidiš.“</l>
+            <p>
+               <l>Vzemi mojo roko, draga,</l>
+               <l>in me vodi. Ti vidiš.“</l>
+            </p>
             <p>„Ne. Vso pesem bi moral izpremeniti.“</p>
             <p>„Moje pesmi izidejo pri Vischerju. Ali hočeš, da ti jih posvetim in jim postavim ta motto?“</p>
             <p>„Zelo ljubezniv bi bil.“</p>

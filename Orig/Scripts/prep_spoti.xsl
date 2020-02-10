@@ -25,7 +25,7 @@
   </xsl:template>
 
   <xsl:template match="tei:TEI">
-    <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV20001">
+    <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV30001">
       <xsl:apply-templates/>
     </TEI>
   </xsl:template>
