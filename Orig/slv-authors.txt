@@ -1,5 +1,5 @@
-Bartel, Anton, 1853-1938	VIAF	10824798	http://viaf.org/viaf/10824798
-Bedenek, Jakob, 1850-1916	VIAF	84381657	http://viaf.org/viaf/84381657
+Bartel, Anton, 1853-1938	VIAF	10824798	http://viaf.org/viaf/10824798	https://sl.wikipedia.org/wiki/Anton_Bartel
+Bedenek, Jakob, 1850-1916	VIAF	84381657	http://viaf.org/viaf/84381657	https://sl.wikipedia.org/wiki/Jakob_Bedenek
 Cankar, Ivan, 1876-1918	VIAF	56657726	http://viaf.org/viaf/56657726
 Cankar, Izidor, 1886-1958	VIAF	51848354	http://viaf.org/viaf/51848354
 Carli Lukovič, Alojz, 1846-1891	VIAF	50937590	http://viaf.org/viaf/50937590
@@ -35,7 +35,6 @@ Podmilšak, Josip, 1845-1874	VIAF	305144647704454014387	http://viaf.org/viaf/305
 Pregelj, Ivan, 1883-1960	VIAF	22231284	http://viaf.org/viaf/22231284
 Prelesnik, Matija, 1872-1905	VIAF	3285157470199222640002	http://viaf.org/viaf/3285157470199222640002
 Prepeluh, Albin, 1881-1937	VIAF	79068165	http://viaf.org/viaf/79068165
-Saleški Finžgar, Fran, 1871-1962	VIAF	56648253	http://viaf.org/viaf/56648253
 Finžgar, Fran Saleški, 1871-1962	VIAF	56648253	http://viaf.org/viaf/56648253
 Sket, Jakob, 1852-1912	VIAF	93569857	http://viaf.org/viaf/93569857
 Stritar, Josip, 1836-1923	VIAF	70948422	http://viaf.org/viaf/70948422
