@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00458">
    <teiHeader>
@@ -36,22 +36,32 @@
             <measure unit="words">66787</measure>
             <measure unit="pages">107</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-18</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Malovrh, Miroslav</author>
                <title>Pod novim orlom : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00458-1904.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Pod_novim_orlom</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Malovrh, Miroslav</author>
                <title xml:lang="sl">Pod novim orlom. Zgodovinska povest.</title>
                <date>1904</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-JOH4SRIX</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00458/WIKI00458-001.jpg">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00458/WIKI00458.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,8 +77,8 @@
             <eltec:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00458">
@@ -1913,8 +1923,8 @@
                <p n="SLV00458.1634">Mara in strežnica sta pomagali Kopitarju, kolikor sta mogli. Spravili sta ga zopet k zavesti, spoznal je vse, Konradu je dal roko in težko hropeč je šepetal:</p>
                <p n="SLV00458.1635">— Konrad — če bom — mrtev — postavi — na moj grob — kamen — zapisano — naj bo — samo Andrej Kopitar — Liberté — Egalité — Fraternité.</p>
                <p n="SLV00458.1636">Potem je Andrej Kopitar nagnil glavo in na rokah baronice Cojzove umrl. Zunaj pa je šumelo življenje in avstrijski vojaki so vpili »Vivat Kaiser Franc«, ko je z rotovža padel francoski cesarski orel.</p>
-               <p n="SLV00458.1637">* * *</p>
-               <p n="SLV00458.1638">Napoleon je bil 13 dni so odhodu Francozov iz Ljubljane pri Lipskem poražen in Ilirija je bij zopet združena z Avstrijo. Ilirski sen je bil dosanjan. Mnogi ilirski uradniki so rajši popustili službe, kakor da bi bili služili avstrijski vladi, mnogo meščanov se je izselilo. Po smrti starega Damjana se je tudi Konrad Podobnik s svojo ženo preselil v Benetke in čez 20 let je dobil tam »hišnega prijatelja«, na katerega ni bil ljubosumen. Ta hišni prijatelj je bil maršal Marmont, ki je zadnja leta svojega življenja preživel v Benetkah. Grob Andreja Kopitarja je bil vedno okrašen s cvetkami, kamna na tem grobu pa ni bilo, ker avstrijska policija ni pustila, da bi bilo na njem zapisano: Liberté — Egalité — Fraternité</p>
+               <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+               <p n="SLV00458.1637">Napoleon je bil 13 dni so odhodu Francozov iz Ljubljane pri Lipskem poražen in Ilirija je bij zopet združena z Avstrijo. Ilirski sen je bil dosanjan. Mnogi ilirski uradniki so rajši popustili službe, kakor da bi bili služili avstrijski vladi, mnogo meščanov se je izselilo. Po smrti starega Damjana se je tudi Konrad Podobnik s svojo ženo preselil v Benetke in čez 20 let je dobil tam »hišnega prijatelja«, na katerega ni bil ljubosumen. Ta hišni prijatelj je bil maršal Marmont, ki je zadnja leta svojega življenja preživel v Benetkah. Grob Andreja Kopitarja je bil vedno okrašen s cvetkami, kamna na tem grobu pa ni bilo, ker avstrijska policija ni pustila, da bi bilo na njem zapisano: Liberté — Egalité — Fraternité</p>
             </div>
          </div>
       </body>

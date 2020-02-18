@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00455">
    <teiHeader>
@@ -36,22 +36,32 @@
             <measure unit="words">62083</measure>
             <measure unit="pages">292</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-18</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Malovrh, Miroslav</author>
                <title>Kralj Matjaž : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00455-1904.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Kralj_Matja%C5%BE</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Malovrh, Miroslav</author>
                <title xml:lang="sl">Kralj Matjaž. Zgodovinska povest.</title>
                <date>1904</date>
                <idno type="urn">http://www.ff.uni-lj.si/slovjez/mh/Kralj_matjaz.pdf</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00455/WIKI00455-000.png">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00455/WIKI00455.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,8 +77,8 @@
             <eltec:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00455">
@@ -1401,13 +1411,13 @@
             <p n="SLV00455.1252">— Anton Magajna, vdaj se, je zakričal prijor in vojščaki so obenem namerili puške.</p>
             <p n="SLV00455.1253">— Nikdar, je odgovoril Anton Magajna in se visoko vzravnal, v tem ko sta se njegova spremljevalca spustila v brezno.</p>
             <p n="SLV00455.1254">Vojščaki so se zapodili proti njemu, med tem ko je prijor z mogočnim glasom zapel strahotno pesem: Dies irae, dies illa — Solvet saecla in favilla. A komaj so vojščaki se približali Magajni, ko se je ta nenadoma obrnil in skočil v brezno.</p>
-            <p n="SLV00455.1255">* * *</p>
-            <p n="SLV00455.1256">Kmetski punt je bil premagan in kmetsko ljudstvo je zadela strašna kazen, a spomin na kralja Matjaža vzlic temu ni izginil.</p>
-            <p n="SLV00455.1257">Ko je nadvojvoda Karel pregnal evangelike iz vseh notranjeavstrijskih dežel, tedaj sta morala tudi Erazem pl. Obričan in njegova žena Anka za vedno zapustiti domovino. Pokatoličanjenje se je izvršilo s kruto silo, samo ena oseba je bila v celem vrhniškem okraju, kateri se niti cerkveni niti posvetni oblastiki niso upali približati, dasi kljubujé vsem zakonom in ne mene se za obljubljene kazni ni hotela nikdar prejemati niti zakramentov niti je šla v cerkev. To je bila gospa Regina.</p>
-            <p n="SLV00455.1258">Ko sta Erazem in Anka pred svojim odhodom v Nemčijo jemala od nje slovo, sta prvič po strašni katastrofi — omenila tudi Antona Magajno.</p>
-            <p n="SLV00455.1259">Mirno jima je gospa Regina odgovorila:</p>
-            <p n="SLV00455.1260">— Kar sem jaz doživela, se nikdar ne pozabi. Če se človeku odseka roka, se rana pač zaceli in minejo vse bolečine, a roka se več ne dobi nazaj. Tako je tudi z menoj. Izgubljeni notranji mir sem pač zopet našla, ali sreče ne najdeni več. Eno pa me tolaži in mi daje moč, da hodim neupognjeno svojo pot. Čeprav je padla moreča slana na ponosne sanje, ki sva jih sanjala z Antonom Magajno, čeprav siplje drevje samo velo listje na grozni grob kralja Matjaža, to zavest nosim v svoji duši: duh kralja Matjaža ne umrje nikdar in zmagal bode, ker ima nepremagljivo še varnejše zavetišče kot je Sveta gora, namreč narodovo srce.</p>
-            <p n="SLV00455.1261">In jasno so sijale velike, črne oči gospe Regine, jasno kakor mlado solnce, kadar budi prirodo k vstajenju.</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV00455.1255">Kmetski punt je bil premagan in kmetsko ljudstvo je zadela strašna kazen, a spomin na kralja Matjaža vzlic temu ni izginil.</p>
+            <p n="SLV00455.1256">Ko je nadvojvoda Karel pregnal evangelike iz vseh notranjeavstrijskih dežel, tedaj sta morala tudi Erazem pl. Obričan in njegova žena Anka za vedno zapustiti domovino. Pokatoličanjenje se je izvršilo s kruto silo, samo ena oseba je bila v celem vrhniškem okraju, kateri se niti cerkveni niti posvetni oblastiki niso upali približati, dasi kljubujé vsem zakonom in ne mene se za obljubljene kazni ni hotela nikdar prejemati niti zakramentov niti je šla v cerkev. To je bila gospa Regina.</p>
+            <p n="SLV00455.1257">Ko sta Erazem in Anka pred svojim odhodom v Nemčijo jemala od nje slovo, sta prvič po strašni katastrofi — omenila tudi Antona Magajno.</p>
+            <p n="SLV00455.1258">Mirno jima je gospa Regina odgovorila:</p>
+            <p n="SLV00455.1259">— Kar sem jaz doživela, se nikdar ne pozabi. Če se človeku odseka roka, se rana pač zaceli in minejo vse bolečine, a roka se več ne dobi nazaj. Tako je tudi z menoj. Izgubljeni notranji mir sem pač zopet našla, ali sreče ne najdeni več. Eno pa me tolaži in mi daje moč, da hodim neupognjeno svojo pot. Čeprav je padla moreča slana na ponosne sanje, ki sva jih sanjala z Antonom Magajno, čeprav siplje drevje samo velo listje na grozni grob kralja Matjaža, to zavest nosim v svoji duši: duh kralja Matjaža ne umrje nikdar in zmagal bode, ker ima nepremagljivo še varnejše zavetišče kot je Sveta gora, namreč narodovo srce.</p>
+            <p n="SLV00455.1260">In jasno so sijale velike, črne oči gospe Regine, jasno kakor mlado solnce, kadar budi prirodo k vstajenju.</p>
          </div>
       </body>
    </text>

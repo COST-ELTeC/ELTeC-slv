@@ -20,11 +20,11 @@
   <xsl:template match="/">
     <xsl:processing-instruction name="xml-model">
       href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
+            schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
     <xsl:text>&#10;</xsl:text>
     <xsl:processing-instruction name="xml-model">
       href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
+            schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
     <xsl:text>&#10;</xsl:text>
     <xsl:variable name="pass1">
       <xsl:apply-templates/>
@@ -380,26 +380,33 @@
   <!-- These will be wrapped in a liminal div -->
   <xsl:template match="tei:body/tei:p | tei:body/tei:lg"/>
   
-  <!-- cf. https://github.com/distantreading/WG1/wiki/textFeatures
-       But note that Wiki sources most likely wont have <l>s marked up
-  -->
+  <!-- cf. https://github.com/distantreading/WG1/wiki/textFeatures -->
   <xsl:template match="tei:p | tei:lg">
     <xsl:variable name="text">
       <xsl:apply-templates/>
     </xsl:variable>
-    <!-- Don't output empty paragraphs -->
-    <xsl:if test="normalize-space($text)">
-      <p>
-	<xsl:choose>
-	  <xsl:when test="tei:l">
-	    <xsl:apply-templates/>
-	  </xsl:when>
-	  <xsl:otherwise>
-	    <xsl:value-of select="normalize-space($text)"/>
-	  </xsl:otherwise>
-	</xsl:choose>
-      </p>
-    </xsl:if>
+    <xsl:choose>
+      <xsl:when test="not(normalize-space($text))"/>
+      <xsl:when test="matches($text, '^[ -]+$')">
+	<milestone type="subChapter" rend="dashes" unit="dash"/>
+      </xsl:when>
+      <xsl:when test="matches($text, '^\*$')">
+	<milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+      </xsl:when>
+      <xsl:when test="matches($text, '^[ *]+$')">
+	<milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+      </xsl:when>
+      <xsl:when test="tei:l">
+	<p>
+	  <xsl:apply-templates/>
+	</p>
+      </xsl:when>
+      <xsl:otherwise>
+	<p>
+	  <xsl:value-of select="normalize-space($text)"/>
+	</p>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
   
   <xsl:template match="tei:l">

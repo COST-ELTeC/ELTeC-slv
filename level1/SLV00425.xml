@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00425">
    <teiHeader>
@@ -36,22 +36,32 @@
             <measure unit="words">32791</measure>
             <measure unit="pages">60</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-18</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Gruden, Josip</author>
                <title>Na vojvodskem prestolu : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00425-1901.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Na_vojvodskem_prestolu</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Gruden, Josip</author>
                <title xml:lang="sl">Na vojvodskem prestolu. Povest iz slovenske starodavnosti.</title>
                <date>1901</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-96MM2JK0</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00425/WIKI00425-001.jpg">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00425/WIKI00425.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,8 +77,8 @@
             <eltec:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00425">
@@ -838,50 +848,50 @@
             <p n="SLV00425.728">Knez Ingo je v proslavo veselega dogodka drugi dan napravil malo gostijo. In zopet se je zbrala v gradu odlična družba, kakor ob usodepolnem pirovanju prejšnjega leta. Le frankovski plemiči se niso odzvali kneževemu vabilu. Nikak neljub dogodek ni letos kalil prijateljske sloge in svetega miru. Brez vrišča in šuma se je vršilo gostovanje, podobno ljubezenskim gostijam prvih kristjanov, kjer je nadzemeljska sreča obilno nadomeščala svetno razkošje.</p>
             <p n="SLV00425.729">Prostemu narodu se je spomin na te dogodke globoko vtisnil v dušo. Ljudska domišljija jih je po svoje preobrazila in okrasila. In še sedaj so nam v pravljici o Ingovem piru, ponižanju poganskih županov, njih krstu in o častnem gostovanju ob zlatih posodah ohranjeni temni sledovi znamenitih dogodkov, ki so se vršili v sivi starodavnosti.</p>
             <p n="SLV00425.730">Po letu pa se je izpolnilo prerokovanje starega Volkonje. Knežna Milena se je o kresu preselila kot zakonska družica k Stojmiru na Osoje ter prinesla v zapuščeni županji dvorec novo življenje. In zopet so gorele kresne grmade po osojskih gorah, a ne v čast starim bogovom, temveč v vesel pozdrav mladi, srečni dvojici — — —</p>
-            <p n="SLV00425.731">* * *</p>
-            <p n="SLV00425.732">Knez Ingo je preživel te dogodke le za malo let. Njegovo poslanstvo je bilo izvršeno, in Bog ga je poklical po zasluženo plačilo. Toda spomin njegov je bil blagoslovljen med narodom. Za Ingovega kneževanja se je završil dolgoletni boj med poganstvom in krščanstvom s popolno zmago križa. Slovenski narod je vstopil v krog omikanih narodov in iz barbarstva krenil na pot mirnega kulturnega razvoja. A poleg tega je znal Ingo tudi čuvati narodno samostojnost. Zasluga njegovega previdnega ravnanja je, da je Karol še pustil Slovenom lastne kneze, da jim ni s silo zatrl domače ustave in vsilil tujih grofov. Stari vzor slovenskega vojvoda, ki je izšel iz ljudstva, ki mogočno in pravično vlada, je v Ingu iznova oživel. Pravljica celo pripisuje njemu starodavni obred slovesnega umeščevanja slovenskih knezov. To znači dovolj jasno, da je bil Ingo izmed najslavnejših slovanskih knezov, kar jih je vladalo na vojvodskem prestolu.</p>
-            <p n="SLV00425.733">Za njim sta kneževala gorotanskim Slovenom Pribislav in Žmiteh. Oba sta bila miroljubna moža in vneta kristjana. Toda le kratka dôba jima je bila prisojena in za malo let po Ingovi smrti je vojvodski prestol zopet osirotel.</p>
-            <p n="SLV00425.734">Napočili so takrat za Gorotan zopet hudi časi. Obri, nekaj let prej od Karolovega sina Pipina do cela poraženi, so se začeli iznova gibati. V Dolenji Panoniji, med Savo in Dravo, pa se je pripravljala huda nevihta. Ljudevit je zbiral okoli sebe pristaše starega poganstva in netil upor zoper Franke. V takih razmerah je trebalo na čelu naroda bojevitega moža, ki bi mogočno zavrnil napade ropaželjnih Obrov, a tudi vnetega kristjana, ki bi ščitil sveto vero proti poganskemu nasilstvu. Pozornost vseh se je sedaj obrnila na Stojmira ... Glas naroda, želja škofa Teodorika in volja cesarja Karola so ga dvignili na prestol. Vsi so pričakovali od njega, da bode vladal v duhu svojega prednika Inga, da bode obnovil sijaj in slavo nekdanjih slovenskih knezov.</p>
-            <p n="SLV00425.735">Njegovo vmeščenje se je vršilo na gospesvetskem polju z velikansko slovesnostjo in ob navzočnosti nebrojne množice naroda.</p>
-            <p n="SLV00425.736">Vidov dan je bil odločen za to znamenito slavje.</p>
-            <p n="SLV00425.737">Že nekaj dni poprej so začele dohajati trume iz vseh krajev širnega Gorotana. Prebivalstvo v Gradišču se je podesetilo in po širni ravnini so se belile dolge vrste šatorov. Župani so dohajali v bojni opravi z mogočnim spremstvom. Nekateri so prijahali s svojimi oddelki na leporejenih konjih in vihteli mnogobarvene zastavice. A prišlo je tudi mnogo preprostega, neoboroženega ljudstva, mnogo ženstva in otrok, ki se je hotelo udeležiti redkega narodnega praznika. Frankovski kupci so v lesenih kolibah razpostavili na ogled tujo robo: meče, nože, žensko nakitje ali fino tkanino in jo zamenjavali za ustrojene živalske kože in za domače platno. Vinogradniki iz južnih krajev, od Kolpe, Soče in s Spodnjega Posavja so pripeljali vozove, visoko obložene z mehovi, polnimi vina. Drugi so v senci dreves točili sladko medico iz velikih ilovnatih vrčev.</p>
-            <p n="SLV00425.738">Vsaka zadruga je imela svoje lastno taborišče, vsaka se je razločevala od druge po narodni noši, po govorici, po šegah in običajih.</p>
-            <p n="SLV00425.739">Ko so bile na večer pred praznikom zbrane vse trume udeležencev, tedaj se je v topli poletni noči razvil slikovit prizor narodnega življenja ...</p>
-            <p n="SLV00425.740">Vsa ravan je bila posejana z velikimi ognji in v njih svitu so se rdečili šotori, cerkev, poslopja, gore in vsa okolica.</p>
-            <p n="SLV00425.741">Ob Glini je taborila četa Krajincev od Kolpe, ki so bili oblečeni v belo prtenino. Možje so nosili srajco iz domačega platna, prepasano s širokim, rjavim jermenom in torbo ob strani, ženske pa so imele bele jopiče in krila, okrašena z vdelanimi cveticami. Vrtili so janjca na ražnju. Ob drevesu je stal star mož — slepec, udarjal na strune in s tožnim glasom pel o knezu Samu, vojvodu Ingu in drugih slavnih možeh ...</p>
-            <p n="SLV00425.742">Na drugi strani potoka je mladina plesala „kolo“. Mladeniči in dekleta so se držali za roke in se ob vriskanju in petju vrtili okoli ognja. Nekateri so celo skakali preko plamena; te je pozdravljal in hvalil glasen vrišč ...</p>
-            <p n="SLV00425.743">Med šatori in ognji so hodili v malih oddelkih godci z dudljami, piščali, rogovi in delali strašen hrup. Za njimi se je prerivala mladež obojega spola in s petjem spremljala nevbrano godbo.</p>
-            <p n="SLV00425.744">Najbolj živo je bilo ob šatorih, kjer se je točilo vino in medica. Vinski duhovi so mnogim razgreli glave. Hrup in krik je vedno bolj naraščal. Mladeniči so poskakavali od tâl, metali kučme v zrak in se med seboj prerivali. Možje so kričé hvalili svoja posestva in živino in se glasno prepirali. Tuintam se je vnel celo tepež, katerega so starejšine pomirili. Pozno v noč, ali bolje, v zgodnjo jutro je trajalo to šumno gibanje in vrvenje ...</p>
-            <p n="SLV00425.745">Drugi dan dopoldne pa se je vršil zgodovinsko znameniti čin, ko je narod sam izročil svojemu izvoljencu vladarsko oblast.</p>
-            <p n="SLV00425.746">Pred knežjim gradom, kjer je stal starodavni kamen, so se zbrali udeleženci. V notranjem krogu so stali župani in starejšine, škof z duhovščino, in drugi odlični možje. Okoli njih se je gnetlo prosto ljudstvo, veselo razvneto in nestrpno pričakujoč dogodkov, ki so se imeli izvršiti.</p>
-            <p n="SLV00425.747">Vitoglav iz Blatograda, ki je bil najstarejši med župani, sede na kamen in nepremično pričakuje kneza.</p>
-            <p n="SLV00425.748">Kmalu se začujejo iz dalje radostni pozdravi, ki se vedno bolj množe in širijo, dokler vsa množica ne izbruhne v viharne klice, razlegajoče se kakor grom po širni planjavi ...</p>
-            <p n="SLV00425.749">Stojmir je prihajal s svojim spremstvom. Jahal je na belem žrebcu, in dvanajst županov z zastavicami okoli njega. A ni ga krasil škrlat in zlato nakitje. Slovenski knez je prihajal v kmetiški obleki iz sive volne v znamenje, da je preprost sin narodov, prav kot oni, ki so ga pozdravljali za svojega vladarja.</p>
-            <p n="SLV00425.750">Med vedno se ponavljajočimi klici dospè Stojmir s spremljevavci do knežjega kamna, kjer jih je čakalo starejšinstvo.</p>
-            <p n="SLV00425.751">Vsi stopijo raz konje. Med množico pa nastane hipoma nema tišina.</p>
-            <p n="SLV00425.752">Tedaj se Vitoglav, na kamnu sedeč, napol obrne proti prišelcem in vpraša:</p>
-            <p n="SLV00425.753">„Kdo je tisti, ki prihaja s spremstvom?“</p>
-            <p n="SLV00425.754">„Stojmir, sin Slavomira, župan na Osojah in sedaj knez v deželi“, odgovoré župani soglasno.</p>
-            <p n="SLV00425.755">„Je-li prostega rodu?“</p>
-            <p n="SLV00425.756">„Slavnega očeta sin je, prost in vreden vojvodstva.“</p>
-            <p n="SLV00425.757">„Je-li pravičen sodnik, ki bode branil pravdo vdov in sirot, in pospeševal blagor dežele?“</p>
-            <p n="SLV00425.758">„Vedno je bil pravičen in bode!“ odgovoré vsi v zboru.</p>
-            <p n="SLV00425.759">„Ali ima pravo, krščansko vero?“ vpraša iznova Vitoglav, „in je-li pripravljen braniti jo s svojo krvjo?“</p>
-            <p n="SLV00425.760">„Branil bode vero in domovino!“</p>
-            <p n="SLV00425.761">„In po kateri pravici hoče zasesti vojvodski prestol?“</p>
-            <p n="SLV00425.762">„Po volji naroda.“</p>
-            <p n="SLV00425.763">Vitoglav si izgovori po stari šegi še nekaj darov in svoboščin zase in za svoje potomce in novemu knezu ponovi željo, naj bode pravičen sodnik in moder vladar. Stojmir slovesno obljubi.</p>
-            <p n="SLV00425.764">Nato stopi predenj drug župan, nudeč mu na dlani košček kruha s soljo in vode v kmetiškem klobuku. Stojmir pokusi kruh in izpije požirek vode v znamenje zmernosti in zdržnosti.</p>
-            <p n="SLV00425.765">Potem stopi na knežji kamen, izdere meč in zamahne ž njim na vse štiri dele sveta. Starejšinstvo in ljudstvo pa zaori gromoviti krik:</p>
-            <p n="SLV00425.766">„Dolgo živi knez!“</p>
-            <p n="SLV00425.767">„Na mnoga leta!“</p>
-            <p n="SLV00425.768">„Živel! Slava!“</p>
-            <p n="SLV00425.769">Raz stolp gospesvetske cerkve so se oglasili zvonovi. Knez se napoti z vsemi župani in starejšinami v cerkev. Množice se mu spoštljivo umikajo, a ponavljajo še vedno radostne klice in pozdrave. Nekateri mahajo z zastavami, drugi se želé dotekniti vojvodovih rok in obleke. Ženske mu sipljejo cvetja na pot. Le počasi je dospel slavnostni sprevod v božji hram.</p>
-            <p n="SLV00425.770">Škof Teodorik je služil slovesno mašo in blagoslovil kneza. Naposled je zadonela zahvalnica: „Te Deum laudamus“. Zvonovi so slovesno zvonili, in z njihovimi glasovi so kipele proti nebu iskrene molitve in goreče želje nebrojnega naroda, ki je obdajal hišo božjo.</p>
-            <p n="SLV00425.771">Pri svečanem obedu, ki se je po končani božji službi vršil v knežjem gradu, je nosil Stojmir že dragoceno vojvodsko opravo. Najimenitnejši župani so mu stregli. Ob njegovi strani je sedela kneginja Milena. Ona, hči slavnega kneza Inga, je bila Stojmiru kakor poroštvo srečnega in slavnega vladanja. — — —</p>
-            <p n="SLV00425.772">Popoldne je bil na gospesvetskem polju javen deželni zbor. Sedeč na starem kamenitem vojvodskem stolu je Stojmir sprejemal pritožbe naroda, razsojal pravde, delil svoboščine in darove. Med mnogimi drugimi veledušnimi darili je bila tudi znamenita cerkvena ustanova. Stojmir in Milena sta položila na oltar Gospe Svete darilno listino, v kateri sta odstopila imenovani cerkvi del svojega posestva na Osojah, z namenom, da se ondi sezida cerkev Marije Device in ustanovi samostan, ki bode imel nalogo vzgajati misijonarje za slovenske pokrajine.</p>
-            <p n="SLV00425.773">Oporoka očeta Ozorja je bila izvršena.</p>
-            <p n="SLV00425.774">Stojmir je kneževal srečno in slavno, toda le kratek čas. V bojih z Obri je našel junaško smrt. Za njim je vladal še nekaj let Edgar. Vstaja panonskega Ljudevita pa je naredila konec slovenski samostalnosti, in na svobodne slovenske kneze spominja dandanes samo še vojvodski prestol sredi gospesvetskega polja.</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV00425.731">Knez Ingo je preživel te dogodke le za malo let. Njegovo poslanstvo je bilo izvršeno, in Bog ga je poklical po zasluženo plačilo. Toda spomin njegov je bil blagoslovljen med narodom. Za Ingovega kneževanja se je završil dolgoletni boj med poganstvom in krščanstvom s popolno zmago križa. Slovenski narod je vstopil v krog omikanih narodov in iz barbarstva krenil na pot mirnega kulturnega razvoja. A poleg tega je znal Ingo tudi čuvati narodno samostojnost. Zasluga njegovega previdnega ravnanja je, da je Karol še pustil Slovenom lastne kneze, da jim ni s silo zatrl domače ustave in vsilil tujih grofov. Stari vzor slovenskega vojvoda, ki je izšel iz ljudstva, ki mogočno in pravično vlada, je v Ingu iznova oživel. Pravljica celo pripisuje njemu starodavni obred slovesnega umeščevanja slovenskih knezov. To znači dovolj jasno, da je bil Ingo izmed najslavnejših slovanskih knezov, kar jih je vladalo na vojvodskem prestolu.</p>
+            <p n="SLV00425.732">Za njim sta kneževala gorotanskim Slovenom Pribislav in Žmiteh. Oba sta bila miroljubna moža in vneta kristjana. Toda le kratka dôba jima je bila prisojena in za malo let po Ingovi smrti je vojvodski prestol zopet osirotel.</p>
+            <p n="SLV00425.733">Napočili so takrat za Gorotan zopet hudi časi. Obri, nekaj let prej od Karolovega sina Pipina do cela poraženi, so se začeli iznova gibati. V Dolenji Panoniji, med Savo in Dravo, pa se je pripravljala huda nevihta. Ljudevit je zbiral okoli sebe pristaše starega poganstva in netil upor zoper Franke. V takih razmerah je trebalo na čelu naroda bojevitega moža, ki bi mogočno zavrnil napade ropaželjnih Obrov, a tudi vnetega kristjana, ki bi ščitil sveto vero proti poganskemu nasilstvu. Pozornost vseh se je sedaj obrnila na Stojmira ... Glas naroda, želja škofa Teodorika in volja cesarja Karola so ga dvignili na prestol. Vsi so pričakovali od njega, da bode vladal v duhu svojega prednika Inga, da bode obnovil sijaj in slavo nekdanjih slovenskih knezov.</p>
+            <p n="SLV00425.734">Njegovo vmeščenje se je vršilo na gospesvetskem polju z velikansko slovesnostjo in ob navzočnosti nebrojne množice naroda.</p>
+            <p n="SLV00425.735">Vidov dan je bil odločen za to znamenito slavje.</p>
+            <p n="SLV00425.736">Že nekaj dni poprej so začele dohajati trume iz vseh krajev širnega Gorotana. Prebivalstvo v Gradišču se je podesetilo in po širni ravnini so se belile dolge vrste šatorov. Župani so dohajali v bojni opravi z mogočnim spremstvom. Nekateri so prijahali s svojimi oddelki na leporejenih konjih in vihteli mnogobarvene zastavice. A prišlo je tudi mnogo preprostega, neoboroženega ljudstva, mnogo ženstva in otrok, ki se je hotelo udeležiti redkega narodnega praznika. Frankovski kupci so v lesenih kolibah razpostavili na ogled tujo robo: meče, nože, žensko nakitje ali fino tkanino in jo zamenjavali za ustrojene živalske kože in za domače platno. Vinogradniki iz južnih krajev, od Kolpe, Soče in s Spodnjega Posavja so pripeljali vozove, visoko obložene z mehovi, polnimi vina. Drugi so v senci dreves točili sladko medico iz velikih ilovnatih vrčev.</p>
+            <p n="SLV00425.737">Vsaka zadruga je imela svoje lastno taborišče, vsaka se je razločevala od druge po narodni noši, po govorici, po šegah in običajih.</p>
+            <p n="SLV00425.738">Ko so bile na večer pred praznikom zbrane vse trume udeležencev, tedaj se je v topli poletni noči razvil slikovit prizor narodnega življenja ...</p>
+            <p n="SLV00425.739">Vsa ravan je bila posejana z velikimi ognji in v njih svitu so se rdečili šotori, cerkev, poslopja, gore in vsa okolica.</p>
+            <p n="SLV00425.740">Ob Glini je taborila četa Krajincev od Kolpe, ki so bili oblečeni v belo prtenino. Možje so nosili srajco iz domačega platna, prepasano s širokim, rjavim jermenom in torbo ob strani, ženske pa so imele bele jopiče in krila, okrašena z vdelanimi cveticami. Vrtili so janjca na ražnju. Ob drevesu je stal star mož — slepec, udarjal na strune in s tožnim glasom pel o knezu Samu, vojvodu Ingu in drugih slavnih možeh ...</p>
+            <p n="SLV00425.741">Na drugi strani potoka je mladina plesala „kolo“. Mladeniči in dekleta so se držali za roke in se ob vriskanju in petju vrtili okoli ognja. Nekateri so celo skakali preko plamena; te je pozdravljal in hvalil glasen vrišč ...</p>
+            <p n="SLV00425.742">Med šatori in ognji so hodili v malih oddelkih godci z dudljami, piščali, rogovi in delali strašen hrup. Za njimi se je prerivala mladež obojega spola in s petjem spremljala nevbrano godbo.</p>
+            <p n="SLV00425.743">Najbolj živo je bilo ob šatorih, kjer se je točilo vino in medica. Vinski duhovi so mnogim razgreli glave. Hrup in krik je vedno bolj naraščal. Mladeniči so poskakavali od tâl, metali kučme v zrak in se med seboj prerivali. Možje so kričé hvalili svoja posestva in živino in se glasno prepirali. Tuintam se je vnel celo tepež, katerega so starejšine pomirili. Pozno v noč, ali bolje, v zgodnjo jutro je trajalo to šumno gibanje in vrvenje ...</p>
+            <p n="SLV00425.744">Drugi dan dopoldne pa se je vršil zgodovinsko znameniti čin, ko je narod sam izročil svojemu izvoljencu vladarsko oblast.</p>
+            <p n="SLV00425.745">Pred knežjim gradom, kjer je stal starodavni kamen, so se zbrali udeleženci. V notranjem krogu so stali župani in starejšine, škof z duhovščino, in drugi odlični možje. Okoli njih se je gnetlo prosto ljudstvo, veselo razvneto in nestrpno pričakujoč dogodkov, ki so se imeli izvršiti.</p>
+            <p n="SLV00425.746">Vitoglav iz Blatograda, ki je bil najstarejši med župani, sede na kamen in nepremično pričakuje kneza.</p>
+            <p n="SLV00425.747">Kmalu se začujejo iz dalje radostni pozdravi, ki se vedno bolj množe in širijo, dokler vsa množica ne izbruhne v viharne klice, razlegajoče se kakor grom po širni planjavi ...</p>
+            <p n="SLV00425.748">Stojmir je prihajal s svojim spremstvom. Jahal je na belem žrebcu, in dvanajst županov z zastavicami okoli njega. A ni ga krasil škrlat in zlato nakitje. Slovenski knez je prihajal v kmetiški obleki iz sive volne v znamenje, da je preprost sin narodov, prav kot oni, ki so ga pozdravljali za svojega vladarja.</p>
+            <p n="SLV00425.749">Med vedno se ponavljajočimi klici dospè Stojmir s spremljevavci do knežjega kamna, kjer jih je čakalo starejšinstvo.</p>
+            <p n="SLV00425.750">Vsi stopijo raz konje. Med množico pa nastane hipoma nema tišina.</p>
+            <p n="SLV00425.751">Tedaj se Vitoglav, na kamnu sedeč, napol obrne proti prišelcem in vpraša:</p>
+            <p n="SLV00425.752">„Kdo je tisti, ki prihaja s spremstvom?“</p>
+            <p n="SLV00425.753">„Stojmir, sin Slavomira, župan na Osojah in sedaj knez v deželi“, odgovoré župani soglasno.</p>
+            <p n="SLV00425.754">„Je-li prostega rodu?“</p>
+            <p n="SLV00425.755">„Slavnega očeta sin je, prost in vreden vojvodstva.“</p>
+            <p n="SLV00425.756">„Je-li pravičen sodnik, ki bode branil pravdo vdov in sirot, in pospeševal blagor dežele?“</p>
+            <p n="SLV00425.757">„Vedno je bil pravičen in bode!“ odgovoré vsi v zboru.</p>
+            <p n="SLV00425.758">„Ali ima pravo, krščansko vero?“ vpraša iznova Vitoglav, „in je-li pripravljen braniti jo s svojo krvjo?“</p>
+            <p n="SLV00425.759">„Branil bode vero in domovino!“</p>
+            <p n="SLV00425.760">„In po kateri pravici hoče zasesti vojvodski prestol?“</p>
+            <p n="SLV00425.761">„Po volji naroda.“</p>
+            <p n="SLV00425.762">Vitoglav si izgovori po stari šegi še nekaj darov in svoboščin zase in za svoje potomce in novemu knezu ponovi željo, naj bode pravičen sodnik in moder vladar. Stojmir slovesno obljubi.</p>
+            <p n="SLV00425.763">Nato stopi predenj drug župan, nudeč mu na dlani košček kruha s soljo in vode v kmetiškem klobuku. Stojmir pokusi kruh in izpije požirek vode v znamenje zmernosti in zdržnosti.</p>
+            <p n="SLV00425.764">Potem stopi na knežji kamen, izdere meč in zamahne ž njim na vse štiri dele sveta. Starejšinstvo in ljudstvo pa zaori gromoviti krik:</p>
+            <p n="SLV00425.765">„Dolgo živi knez!“</p>
+            <p n="SLV00425.766">„Na mnoga leta!“</p>
+            <p n="SLV00425.767">„Živel! Slava!“</p>
+            <p n="SLV00425.768">Raz stolp gospesvetske cerkve so se oglasili zvonovi. Knez se napoti z vsemi župani in starejšinami v cerkev. Množice se mu spoštljivo umikajo, a ponavljajo še vedno radostne klice in pozdrave. Nekateri mahajo z zastavami, drugi se želé dotekniti vojvodovih rok in obleke. Ženske mu sipljejo cvetja na pot. Le počasi je dospel slavnostni sprevod v božji hram.</p>
+            <p n="SLV00425.769">Škof Teodorik je služil slovesno mašo in blagoslovil kneza. Naposled je zadonela zahvalnica: „Te Deum laudamus“. Zvonovi so slovesno zvonili, in z njihovimi glasovi so kipele proti nebu iskrene molitve in goreče želje nebrojnega naroda, ki je obdajal hišo božjo.</p>
+            <p n="SLV00425.770">Pri svečanem obedu, ki se je po končani božji službi vršil v knežjem gradu, je nosil Stojmir že dragoceno vojvodsko opravo. Najimenitnejši župani so mu stregli. Ob njegovi strani je sedela kneginja Milena. Ona, hči slavnega kneza Inga, je bila Stojmiru kakor poroštvo srečnega in slavnega vladanja. — — —</p>
+            <p n="SLV00425.771">Popoldne je bil na gospesvetskem polju javen deželni zbor. Sedeč na starem kamenitem vojvodskem stolu je Stojmir sprejemal pritožbe naroda, razsojal pravde, delil svoboščine in darove. Med mnogimi drugimi veledušnimi darili je bila tudi znamenita cerkvena ustanova. Stojmir in Milena sta položila na oltar Gospe Svete darilno listino, v kateri sta odstopila imenovani cerkvi del svojega posestva na Osojah, z namenom, da se ondi sezida cerkev Marije Device in ustanovi samostan, ki bode imel nalogo vzgajati misijonarje za slovenske pokrajine.</p>
+            <p n="SLV00425.772">Oporoka očeta Ozorja je bila izvršena.</p>
+            <p n="SLV00425.773">Stojmir je kneževal srečno in slavno, toda le kratek čas. V bojih z Obri je našel junaško smrt. Za njim je vladal še nekaj let Edgar. Vstaja panonskega Ljudevita pa je naredila konec slovenski samostalnosti, in na svobodne slovenske kneze spominja dandanes samo še vojvodski prestol sredi gospesvetskega polja.</p>
          </div>
       </body>
    </text>

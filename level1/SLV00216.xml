@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00216">
    <teiHeader>
@@ -37,22 +37,32 @@
             <measure unit="words">49692</measure>
             <measure unit="pages">138</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-18</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Jurčič, Josip</author>
                <title>Rokovnjači : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00216-1881.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Rokovnja%C4%8Di_(LZ)</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Jurčič, Josip</author>
                <title xml:lang="sl">Rokovnjači. Historičen roman.</title>
                <date>1881</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-JZB0QP6A</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00216/WIKI00216-001.png">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00216/WIKI00216.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -68,8 +78,8 @@
             <eltec:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00216">
@@ -1752,10 +1762,10 @@
             <p n="SLV00216.1396">Posestvo je bilo sedaj uže last njenega vnuka, in ona imela je tu le živež in poboljšek izgovorjen. Doma se je mudila večjidel pri pravnukih in molila je, mnogo molila.</p>
             <p n="SLV00216.1397">To pač tako pride na stare dni!</p>
             <p n="SLV00216.1398">Lansko zimo pa so jo pokopali tam gori na Rovskem pokopališču, tja, kjer sta uže skoro sedem deset let počivala strijc Blaž in Pavlek.</p>
-            <p n="SLV00216.1399">---------</p>
-            <p n="SLV00216.1400">EPILOG.</p>
-            <p n="SLV00216.1401">Ko sem se lotil dela, dovršiti ta roman, katerega nadaljevanje je prezgodna Jurčičeva smrt pretrgala, vodila sta me dvojna ozira: prvič prepričanje, da „Zvon“ ne sme takoj v prvem svojem tečaji ostati na dolgu s povestjo, katera je v svojem početku uže vso pozornost vzbudila: drugič misel in želja, da tudi onemu odlomku, katerega je zapustil Jurčič, ne more biti na kvar, ako se povest bodisi dobro ali slabo završi.</p>
-            <p n="SLV00216.1402">Našel sem v zapuščini mnogo historičnega gradiva, mnogo zapisanih rekov in dovtipov in s pomočjo tega materijala in opiraje se na spomin, v katerem mi je bil še marsikateri pogovor z ranjkim prijateljem o „rokovnjačih“, poskusil sem dopolniti in dovršiti roman. Kar je slabega, moram vzeti na svoj račun, in to tem rajši, ako sem čitateljem z izvršitvijo bolj ustregel, nego, ko bi bil odlomek v miru pustil. Na Brdu, novembra meseca 1881. Janko Kersnik.</p>
+            <milestone type="subChapter" rend="dashes" unit="dash"/>
+            <p n="SLV00216.1399">EPILOG.</p>
+            <p n="SLV00216.1400">Ko sem se lotil dela, dovršiti ta roman, katerega nadaljevanje je prezgodna Jurčičeva smrt pretrgala, vodila sta me dvojna ozira: prvič prepričanje, da „Zvon“ ne sme takoj v prvem svojem tečaji ostati na dolgu s povestjo, katera je v svojem početku uže vso pozornost vzbudila: drugič misel in želja, da tudi onemu odlomku, katerega je zapustil Jurčič, ne more biti na kvar, ako se povest bodisi dobro ali slabo završi.</p>
+            <p n="SLV00216.1401">Našel sem v zapuščini mnogo historičnega gradiva, mnogo zapisanih rekov in dovtipov in s pomočjo tega materijala in opiraje se na spomin, v katerem mi je bil še marsikateri pogovor z ranjkim prijateljem o „rokovnjačih“, poskusil sem dopolniti in dovršiti roman. Kar je slabega, moram vzeti na svoj račun, in to tem rajši, ako sem čitateljem z izvršitvijo bolj ustregel, nego, ko bi bil odlomek v miru pustil. Na Brdu, novembra meseca 1881. Janko Kersnik.</p>
          </div>
       </body>
       <back>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00098">
    <teiHeader>
@@ -36,22 +36,32 @@
             <measure unit="words">42385</measure>
             <measure unit="pages">109</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-18</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Koder, Anton</author>
                <title>Luteranci : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00098-1883.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Luteranci</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Koder, Anton</author>
                <title xml:lang="sl">Luteranci. Historičen roman.</title>
                <date>1883</date>
                <idno type="urn">http://www.ff.uni-lj.si/slovjez/luteranci/index.html</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00098/WIKI00098-001.jpg">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00098/WIKI00098.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,8 +77,8 @@
             <eltec:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00098">
@@ -1290,15 +1300,15 @@
             <p n="SLV00098.1038">To priložnost je porabila gosposka in poslala svoje skrivno biriče v Šmarico; kajti dobro je vedela, da pride tu najlažje krivoverskim ščuvalcem na sled, ki bodo hodili kropit svojega mrtvega somišljenika.</p>
             <p n="SLV00098.1039">In v resnici že prvo noč ukradejo krivoverci Knafljevo truplo v Šmarici ter je odnesó skrivaje v Podgorje, kjer je pokopljejo na svojem pokopališči.</p>
             <p n="SLV00098.1040">Pri tej priliki zasači gosposka i glasovito pridigarico Stobejko in ubeglega pisarja Nagliča, Gogalo pa je rešila njegova nenavadna telesna moč.</p>
-            <p n="SLV00098.1041">* * *</p>
-            <p n="SLV00098.1042">S Knafljevo smrtjo je bil končan krivoverski boj na Gorenjskem, ki je trajal več kot šestdeset let.</p>
-            <p n="SLV00098.1043">Posebno ko so zvedeli prijatelji novoverstva, da si je prerezala Stobejka v ječi žile na rokah in kmalu potém umrla, polastil se jih je nekakov obup.</p>
-            <p n="SLV00098.1044">Sicer je še bilo pogostoma čuti o Gogali, ki se je bil vrnol po teh dogodbah na Gorenjsko ter je imel bajé pri Brdskem grajščaku, baronu Pavlu, poleg Kranja varno zavetje, a krivoverstvo je pojemalo od iste dobe.</p>
-            <p n="SLV00098.1045">Največje zasluge za to pridobil si je nedvomno Ljubljanski škof Hren, ki je s pomočjo deželne gosposke energično postopal proti luteranstvu.</p>
-            <p n="SLV00098.1046">Le priprosti črevljarček Kriškar, ki je igral veliko vlogo v našej povesti, ni mogel preživeti žalostite osode svojega mojstra v domovini. Odšel je na Nemško, kamor je že bil prej s Knafljem namenjen, in ta se ni vrnol več v svojo domovino.</p>
-            <p n="SLV00098.1047">Nekdanja Mekinjska opatica Lavra Koronini pa je živela po obsodbi cele zapuščena ter umrla v Tržaškem samostanu „Klarissinaric“ v začetku sedemnajstega veka.</p>
-            <p n="SLV00098.1048">Vse svoje krivoverske prijatelje preživel pa je edini kovač Gogala. Ko je videl, da mu je uničen zadnji up v njegovem delovanji in ni bilo tudi iz Nemškega nobene pomoči več, popustil je nehvaležno luteransko apostolstvo ter postal vnovič navaden kovač.</p>
-            <p n="SLV00098.1049">Tako se je bil zopet povrnol blaženi mir v ubogo deželo, in od tedaj do današnjega dne ni na Slovenskem nikdo veš kalil katoliške vere!</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV00098.1041">S Knafljevo smrtjo je bil končan krivoverski boj na Gorenjskem, ki je trajal več kot šestdeset let.</p>
+            <p n="SLV00098.1042">Posebno ko so zvedeli prijatelji novoverstva, da si je prerezala Stobejka v ječi žile na rokah in kmalu potém umrla, polastil se jih je nekakov obup.</p>
+            <p n="SLV00098.1043">Sicer je še bilo pogostoma čuti o Gogali, ki se je bil vrnol po teh dogodbah na Gorenjsko ter je imel bajé pri Brdskem grajščaku, baronu Pavlu, poleg Kranja varno zavetje, a krivoverstvo je pojemalo od iste dobe.</p>
+            <p n="SLV00098.1044">Največje zasluge za to pridobil si je nedvomno Ljubljanski škof Hren, ki je s pomočjo deželne gosposke energično postopal proti luteranstvu.</p>
+            <p n="SLV00098.1045">Le priprosti črevljarček Kriškar, ki je igral veliko vlogo v našej povesti, ni mogel preživeti žalostite osode svojega mojstra v domovini. Odšel je na Nemško, kamor je že bil prej s Knafljem namenjen, in ta se ni vrnol več v svojo domovino.</p>
+            <p n="SLV00098.1046">Nekdanja Mekinjska opatica Lavra Koronini pa je živela po obsodbi cele zapuščena ter umrla v Tržaškem samostanu „Klarissinaric“ v začetku sedemnajstega veka.</p>
+            <p n="SLV00098.1047">Vse svoje krivoverske prijatelje preživel pa je edini kovač Gogala. Ko je videl, da mu je uničen zadnji up v njegovem delovanji in ni bilo tudi iz Nemškega nobene pomoči več, popustil je nehvaležno luteransko apostolstvo ter postal vnovič navaden kovač.</p>
+            <p n="SLV00098.1048">Tako se je bil zopet povrnol blaženi mir v ubogo deželo, in od tedaj do današnjega dne ni na Slovenskem nikdo veš kalil katoliške vere!</p>
          </div>
       </body>
    </text>

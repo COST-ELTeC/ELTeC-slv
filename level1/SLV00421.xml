@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://relaxng.org/ns/structure/1.0"?>
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00421">
    <teiHeader>
       <fileDesc>
@@ -39,7 +39,7 @@
          <publicationStmt xml:lang="en">
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
-            <date>2020-02-10</date>
+            <date>2020-02-18</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -78,7 +78,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc xml:lang="en">
-         <change when="2020-02-10">Tomaž Erjavec: converted to ELTeC</change>
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00421">
@@ -822,13 +822,13 @@
             <p n="SLV00421.684">Tomažič si je na tihem mel roki, da se mu je še sploh tako posrečila napitnica, potem se je pa pomeknil bliže profesorju in napeljal govor na električne baterije, a nista se umela; pozneje je začel o potu na mesec, toda zaman. Frankić je razlagal bratu neke slovenske besede in povpraševal Tomažiča, če je res tako. Prikimoval mu je, dasi bi bil rad govoril o svojem predmetu.</p>
             <p n="SLV00421.685">Luna je plavala po jasnem nebu, slovesni mir je kraljeval po naravi, v družbi pa je zopet vel duh Vilharjev, duh vzorov in svete navdušenosti za narod in njega svetinje.</p>
             <p n="SLV00421.686">Mirno kakor po navadi se je pomikala skrivnostna Reka mimo hiše, in valčki so se zaletavali drug ob drugega, kakor da bi si pripovedovali lepe zgodbe davnih časov.</p>
-            <p n="SLV00421.687">* * *</p>
-            <p n="SLV00421.688">Matej Suhorec zopet zida, a sedaj zida sam s svojim denarjem in sam za-se. Ponujal se mu je Lah Menigo, toda pokazal mu je vrata. Najel je domače delavce ter jim razložil, naj narede na starem pogorišču njemu primerno stanovanje. Mož se ne more ločiti od priljubljenega kota v Hrastju. Lesar mu je zastonj pustil prostor in podrtine, dasi je sodišče prisodilo njemu vse Gašperjevo posestvo. Gašper je umrl v ječi.</p>
-            <p n="SLV00421.689">— Nekaj let pozneje se je oglasila pri Mateju Barba. Prav lepo ga je prosila, da bi ji dovolil bivati pod streho, pa Matej jo je zapodil. Prišla je drugič, ali ostal je trd kot kamen. Tretjič ji je prav natančno očital vse grehe njenega življenja — kolikor jih je namreč vedel — potem jo je vzprejel. Barba se je lotila prejšnje kupčije z različno drobnjavo v Trst in z različno drobnjavo zopet iz Trsta, kar ji je toliko vrglo, da je siromašno živela pri bratu. Poštenosti jo je naučila sila in pa dogodki zadnjih let. Nobene pritožbe ni bilo več med gospodinjami. Da, življenje je najboljša šola, najboljši učitelj, a včasih ima težko roko!</p>
-            <p n="SLV00421.690">Stari Korenčan hodi kakor prej okoli delavcev in okoli žage, nemški pa ne govori več tako rad kot nekdaj. „Novi časi, novi časi,“ pravi, ko se mu zaleti jezik v stari tir. Če mu priskaklja nasproti mali vnuček in steza ročici, da bi ga prijel za suknjo, poboža mu zlate lasce in vpraša: „Kako ti je ime?“ — Slavoj! reče otrok veselo. Tedaj se starcu razjasni lice, vzame ga v naročje in nese s seboj. Mali Slavoj ima deda zelo rad.</p>
-            <p n="SLV00421.691">Ko obišče Korenčanovo hišo prof. Frankić, razvesele se ga vsi, kakor da jih je obiskal dobri duh ljubezni in blagoslova božjega. Govore o minilih časih ter snujejo načrte, kako bi pomagali milemu narodu, da ne zajde v tir pogubnega dobičkarstva brez Boga, brez duše in brez srca. Navadno se pelje potem vsa družina k Lesarju, kjer poišče mali Slavoj najprej nežno Jelico, da se igrata; pa tudi sporečeta se in ujezita — Slavoj je veljaven — kar ju pa ne ovira, da se ne bi ločila v prijaznosti. Drugi se snidejo v prijateljskem krogu, kjer Ivan ponosno opozarja na to, koliko je njegova ženka že napredovala v slovenskem jeziku.</p>
-            <p n="SLV00421.692">Čisto, vedro je njihovo obzorje. Kdo bi jim tudi kalil težko pričakovano srečo? Zadosti dolgo jih je tlačila sovražna usoda. Prijazno solnce rodbinske sreče jim zato sije toliko lepše in ljubeznivejše; — meni pa samo misel na ljube znance vzbuja v srcu tisočero lepih spominov in krasnih nad v najbližjo bodočnost.</p>
-            <p n="SLV00421.693">Pozdravljen, hladni vir Bistrice! Pozdravljena, tiha Reka! ...</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV00421.687">Matej Suhorec zopet zida, a sedaj zida sam s svojim denarjem in sam za-se. Ponujal se mu je Lah Menigo, toda pokazal mu je vrata. Najel je domače delavce ter jim razložil, naj narede na starem pogorišču njemu primerno stanovanje. Mož se ne more ločiti od priljubljenega kota v Hrastju. Lesar mu je zastonj pustil prostor in podrtine, dasi je sodišče prisodilo njemu vse Gašperjevo posestvo. Gašper je umrl v ječi.</p>
+            <p n="SLV00421.688">— Nekaj let pozneje se je oglasila pri Mateju Barba. Prav lepo ga je prosila, da bi ji dovolil bivati pod streho, pa Matej jo je zapodil. Prišla je drugič, ali ostal je trd kot kamen. Tretjič ji je prav natančno očital vse grehe njenega življenja — kolikor jih je namreč vedel — potem jo je vzprejel. Barba se je lotila prejšnje kupčije z različno drobnjavo v Trst in z različno drobnjavo zopet iz Trsta, kar ji je toliko vrglo, da je siromašno živela pri bratu. Poštenosti jo je naučila sila in pa dogodki zadnjih let. Nobene pritožbe ni bilo več med gospodinjami. Da, življenje je najboljša šola, najboljši učitelj, a včasih ima težko roko!</p>
+            <p n="SLV00421.689">Stari Korenčan hodi kakor prej okoli delavcev in okoli žage, nemški pa ne govori več tako rad kot nekdaj. „Novi časi, novi časi,“ pravi, ko se mu zaleti jezik v stari tir. Če mu priskaklja nasproti mali vnuček in steza ročici, da bi ga prijel za suknjo, poboža mu zlate lasce in vpraša: „Kako ti je ime?“ — Slavoj! reče otrok veselo. Tedaj se starcu razjasni lice, vzame ga v naročje in nese s seboj. Mali Slavoj ima deda zelo rad.</p>
+            <p n="SLV00421.690">Ko obišče Korenčanovo hišo prof. Frankić, razvesele se ga vsi, kakor da jih je obiskal dobri duh ljubezni in blagoslova božjega. Govore o minilih časih ter snujejo načrte, kako bi pomagali milemu narodu, da ne zajde v tir pogubnega dobičkarstva brez Boga, brez duše in brez srca. Navadno se pelje potem vsa družina k Lesarju, kjer poišče mali Slavoj najprej nežno Jelico, da se igrata; pa tudi sporečeta se in ujezita — Slavoj je veljaven — kar ju pa ne ovira, da se ne bi ločila v prijaznosti. Drugi se snidejo v prijateljskem krogu, kjer Ivan ponosno opozarja na to, koliko je njegova ženka že napredovala v slovenskem jeziku.</p>
+            <p n="SLV00421.691">Čisto, vedro je njihovo obzorje. Kdo bi jim tudi kalil težko pričakovano srečo? Zadosti dolgo jih je tlačila sovražna usoda. Prijazno solnce rodbinske sreče jim zato sije toliko lepše in ljubeznivejše; — meni pa samo misel na ljube znance vzbuja v srcu tisočero lepih spominov in krasnih nad v najbližjo bodočnost.</p>
+            <p n="SLV00421.692">Pozdravljen, hladni vir Bistrice! Pozdravljena, tiha Reka! ...</p>
          </div>
       </body>
    </text>

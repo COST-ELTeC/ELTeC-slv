@@ -1,3 +1,5 @@
+milestones:
+	$s -xi -xsl:find-milestones.xsl ../../driver.tei
 elements:
 	$s -xi -xsl:text-elements.xsl ../../driver.tei | sort | uniq -c
 incipits:
@@ -51,18 +53,8 @@ grab-wiki:
 	chmod +x grab-wiki.sh
 	mkdir -p ../Wiki
 	./grab-wiki.sh
-fix-imp:
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00048-*.xml' ../../level1
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00058-*.xml' ../../level1
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00132-*.xml' ../../level1
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00279-*.xml' ../../level1
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00324-*.xml' ../../level1
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00421-*.xml' ../../level1
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00461-*.xml' ../../level1
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00476-*.xml' ../../level1
 convert-imp:
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt \
-	'../IMP/*.xml' ../../level1
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/*.xml' ../../level1
 grab-imp:
 	grab-imp.pl < ../slv-index.txt > grab-imp.sh
 	mkdir -p ../IMP

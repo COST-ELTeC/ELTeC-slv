@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00460">
    <teiHeader>
@@ -36,22 +36,32 @@
             <measure unit="words">49115</measure>
             <measure unit="pages">63</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-18</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Malovrh, Miroslav</author>
                <title>V študentskih ulicah : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00460-1909.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/V_%C5%A0tudentovskih_ulicah</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Malovrh, Miroslav</author>
                <title xml:lang="sl">V študentskih ulicah. Ljubezenska povest.</title>
                <date>1909</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-VK2B44R2</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00460/WIKI00460-001.jpg">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00460/WIKI00460.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,8 +77,8 @@
             <eltec:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00460">
@@ -1268,15 +1278,15 @@
             <p n="SLV00460.1143">»Jaz sem tu, Franek,« je dihnila komaj slišno. Nagnila se je, da poljubi brata na usta, a v trenotku z obupnim vzklikom odskočila.</p>
             <p n="SLV00460.1144">»Franek — Franek« — je odmevalo njeno klicanje po sobi in hiši, a Franek se ni več zganil.</p>
             <p n="SLV00460.1145">Storjene žrtve so bile zaman doprinešene.</p>
-            <p n="SLV00460.1146">* * *</p>
-            <p n="SLV00460.1147">Začetkom meseca aprila je v gostilno pri »Citronenbaumu« vstopil prileten oficir z zlatim ovratnikom in z mnogimi redovi na prsih in je vprašal za gospo Rožančevo. Rožanc se ni upal nič reči in ničesar vprašati; spoštljivo je peljal odličnega gosta v svoje stanovanje. Vzlic vsi radovednosti se ni upal slediti oficirju v sobo svoje žene, nego je za njim tiho zaprl vrata in ostal na hodniku.</p>
-            <p n="SLV00460.1148">Vstopivši v sobo, je tuji oficir zagledal pred seboj v preprosti, a okusni obleki čudovito lepo mlado ženo, ki ji je dajal izraz žalosti poseben čar. Zravnal se je in se globoko priklonil.</p>
-            <p n="SLV00460.1149">»Milostiva gospa,« je rekel, »dovolite, da se vam predstavim — dragonski polkovnik grof Schliessen.«</p>
-            <p n="SLV00460.1150">Heleni je zastajal sapa in spreletele so jo zle slutnje. Srce se ji jo krčilo. Položila je roko na prsi, iz njenih oči je pa zasvetil tak strah, da je polkovnik naglo pristopil k nji in jo podprl.</p>
-            <p n="SLV00460.1151">»Milostiva gospa — bodite močni — « Posadil jo je na stol in jo prijel za roko. »Milostiva gospa — saj gotovo slutite, kaj me je privedlo — nesrečna usoda — prinašam vam zadnje pozdrave — «.</p>
-            <p n="SLV00460.1152">»Leon —!« je vzkliknila Helena.</p>
-            <p n="SLV00460.1153">»V bitki pri Mortari je bil zadet v hrbet in je izdihnil na mojih rokah. V smrtni uri mi je zaupal vse. Naročil mi je, naj vam sporočim, da se vas je tudi v zadnjem trenotku smrti spominjal v srčni ljubezni in da vas prosi odpuščanja. Za dediča svojega premoženja je določil vašega bolnega brata.«</p>
-            <p n="SLV00460.1154">»Moj brat — je mrtev — umrl — je na dan moje — poroke,« je dihnila Helena, sklonila glavo in brez zavesti zdrknila s stola.</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV00460.1146">Začetkom meseca aprila je v gostilno pri »Citronenbaumu« vstopil prileten oficir z zlatim ovratnikom in z mnogimi redovi na prsih in je vprašal za gospo Rožančevo. Rožanc se ni upal nič reči in ničesar vprašati; spoštljivo je peljal odličnega gosta v svoje stanovanje. Vzlic vsi radovednosti se ni upal slediti oficirju v sobo svoje žene, nego je za njim tiho zaprl vrata in ostal na hodniku.</p>
+            <p n="SLV00460.1147">Vstopivši v sobo, je tuji oficir zagledal pred seboj v preprosti, a okusni obleki čudovito lepo mlado ženo, ki ji je dajal izraz žalosti poseben čar. Zravnal se je in se globoko priklonil.</p>
+            <p n="SLV00460.1148">»Milostiva gospa,« je rekel, »dovolite, da se vam predstavim — dragonski polkovnik grof Schliessen.«</p>
+            <p n="SLV00460.1149">Heleni je zastajal sapa in spreletele so jo zle slutnje. Srce se ji jo krčilo. Položila je roko na prsi, iz njenih oči je pa zasvetil tak strah, da je polkovnik naglo pristopil k nji in jo podprl.</p>
+            <p n="SLV00460.1150">»Milostiva gospa — bodite močni — « Posadil jo je na stol in jo prijel za roko. »Milostiva gospa — saj gotovo slutite, kaj me je privedlo — nesrečna usoda — prinašam vam zadnje pozdrave — «.</p>
+            <p n="SLV00460.1151">»Leon —!« je vzkliknila Helena.</p>
+            <p n="SLV00460.1152">»V bitki pri Mortari je bil zadet v hrbet in je izdihnil na mojih rokah. V smrtni uri mi je zaupal vse. Naročil mi je, naj vam sporočim, da se vas je tudi v zadnjem trenotku smrti spominjal v srčni ljubezni in da vas prosi odpuščanja. Za dediča svojega premoženja je določil vašega bolnega brata.«</p>
+            <p n="SLV00460.1153">»Moj brat — je mrtev — umrl — je na dan moje — poroke,« je dihnila Helena, sklonila glavo in brez zavesti zdrknila s stola.</p>
          </div>
       </body>
    </text>

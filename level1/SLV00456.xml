@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00456">
    <teiHeader>
@@ -36,22 +36,32 @@
             <measure unit="words">31249</measure>
             <measure unit="pages">53</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-18</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Malovrh, Miroslav</author>
                <title>Ljubezen in junaštva strahopetnega praporščaka : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00456-1910.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Ljubezen_in_juna%C5%A1tva_strahopetnega_prapor%C5%A1%C4%8Daka</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Malovrh, Miroslav</author>
                <title xml:lang="sl">Ljubezen in junaštva strahopetnega praporščaka. Roman.</title>
                <date>1910</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-YXITHQMO</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456-001.jpg">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00456/WIKI00456.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,8 +77,8 @@
             <eltec:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00456">
@@ -960,15 +970,15 @@
             <p n="SLV00456.850">»Ne delaj si nepotrebnih bolesti,« je rekla Leonora in položila svojo roko na Snojevo ramo. »Tvoja nevesta sem in postati hočem tvoja žena ...«</p>
             <p n="SLV00456.851">»Ti se hočeš žrtvovati, Leonora,« je dejal Snoj, »a tega ne morem dopustiti. Nisem prišel sem, da bi tvojo osebo iztrgal Čerinu, prišel sem z namenom, da bi se vojeval za tvojo ljubezen. A zdaj vidim, da ima tvojo ljubezen Čerin, edinole on, in zdaj tudi vem, da jo je vedno imel. Ti me imaš pač rada, razen Čerina morda nikogar tako kakor mene, ali svojo dušo si darovala Čerinu in njemu si zapadla za vse življenje. Slutil sem to mnogokrat, danes to vem. A očitati si nimava ničesar, ne ti meni ne jaz tebi. Ti si mislila, da boš mogla svojo prvo ljubezen brez sledu iztrgati iz svojega srca in si se motila, kakor sem se motil jaz, misleč, da boš Čerina počasi vendar pozabila. Oba sva bila v zmoti, ker sva oba pozabila, da je ljubezen moč vseh moči, da je večja in močnejša kakor življenje in smrt.«</p>
             <p n="SLV00456.852">Se tisti večer je Snoj zapustil hišo Leonore Gornikove in se odpeljal v Ljubljano.</p>
-            <p n="SLV00456.853">* * *</p>
-            <p n="SLV00456.854">Zopet se je smejala spomlad. Pogoreli Gornikov gradič je bil iznova dozidan in polno rok je bilo na delu, da ga izpremeni v prijetno bivališče. Dva moža sta ogledovala to delo. Eden je bil ves siv in je težko hodil, a njegove oči so se še iskrile in krepko in odločno je bilo njegovo vedenje. To je bil »stari lev«, polkovnik Čerin. Njegov spremljevalec je bil major Žun.</p>
-            <p n="SLV00456.855">»Prav prijetno bivališče bo to, prav prijetno,« je godrnjal stari Čerin. »Več kot štirideset let sem se vojskoval po vsem svetu, a vse žive dni nisem napravil takega plena, kakor sta ga Bosizio in moj sin napravila na piratski ladji. Srečo mora imeti človek ...«</p>
-            <p n="SLV00456.856">Potem pa se je obrnil k svojemu spremljevalcu in nenadoma rekel:</p>
-            <p n="SLV00456.857">»Povejte, major, ali razumete vi mojega fanta? Najprej ni hotel iti v vojno — potem pa taka dejanja! Ali vi to razumete?«</p>
-            <p n="SLV00456.858">»Zdi se mi, da pač.«</p>
-            <p n="SLV00456.859">»Jaz ne,« je odločno izjavil stari lev. »In to dekle — ali je vi razumete?«</p>
-            <p n="SLV00456.860">»Pač, razumem jo!«</p>
-            <p n="SLV00456.861">»Jaz tudi nje ne,« je izjavil polkovnik. »Čudna sta ta dva človeka, a rada se imata in srečna sta, da kaj takega še nisem videl na svetu.«</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV00456.853">Zopet se je smejala spomlad. Pogoreli Gornikov gradič je bil iznova dozidan in polno rok je bilo na delu, da ga izpremeni v prijetno bivališče. Dva moža sta ogledovala to delo. Eden je bil ves siv in je težko hodil, a njegove oči so se še iskrile in krepko in odločno je bilo njegovo vedenje. To je bil »stari lev«, polkovnik Čerin. Njegov spremljevalec je bil major Žun.</p>
+            <p n="SLV00456.854">»Prav prijetno bivališče bo to, prav prijetno,« je godrnjal stari Čerin. »Več kot štirideset let sem se vojskoval po vsem svetu, a vse žive dni nisem napravil takega plena, kakor sta ga Bosizio in moj sin napravila na piratski ladji. Srečo mora imeti človek ...«</p>
+            <p n="SLV00456.855">Potem pa se je obrnil k svojemu spremljevalcu in nenadoma rekel:</p>
+            <p n="SLV00456.856">»Povejte, major, ali razumete vi mojega fanta? Najprej ni hotel iti v vojno — potem pa taka dejanja! Ali vi to razumete?«</p>
+            <p n="SLV00456.857">»Zdi se mi, da pač.«</p>
+            <p n="SLV00456.858">»Jaz ne,« je odločno izjavil stari lev. »In to dekle — ali je vi razumete?«</p>
+            <p n="SLV00456.859">»Pač, razumem jo!«</p>
+            <p n="SLV00456.860">»Jaz tudi nje ne,« je izjavil polkovnik. »Čudna sta ta dva človeka, a rada se imata in srečna sta, da kaj takega še nisem videl na svetu.«</p>
          </div>
       </body>
    </text>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://relaxng.org/ns/structure/1.0"?>
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00476">
    <teiHeader>
       <fileDesc>
@@ -39,7 +39,7 @@
          <publicationStmt xml:lang="en">
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
-            <date>2020-02-10</date>
+            <date>2020-02-18</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -78,7 +78,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc xml:lang="en">
-         <change when="2020-02-10">Tomaž Erjavec: converted to ELTeC</change>
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00476">
@@ -1149,10 +1149,10 @@
             <p n="SLV00476.983">Mi pa smo se še dolgo zidane volje zabavali na plesišču in pri omizju. Gospod Zlatoust je vrtal s kazalcem po zraku, nam priporočal svojo veselo filozofijo in nas svaril, naj se nikdar ne vdamo duhomorni žalosti. Ko smo se vračali domov, je bežala jutranja sapa ko srebrna senca preko spavajočega jezera in nam prijetno hladila vroče glave. Že so peli solidni petelini in na vse grlo so nas ponočnjake zmerjali blejski vrabci.</p>
             <p n="SLV00476.984">Debela teta je odpotovala še tisto jutro s svojimi kovčegi, škatlami in škatlicami. Prisegla je, da je ne bo nikoli več nazaj na Bled, kjer so jo imeli tako hudo za norca. Ubogi Bled!</p>
             <p n="SLV00476.985">Drugo leto sva se poročila Olga in jaz v cerkvici na Jezeru, malo pozneje pa Nada in doktor Jurinac, Minka in Jaka.</p>
-            <p n="SLV00476.986">* * *</p>
-            <p n="SLV00476.987">Tako je pripovedoval prijatelj Igor Kalan. Najina ladjica se je bližala bregu.</p>
-            <p n="SLV00476.988">„Poglej, tamle so naši!“ mi je dejal bivši sošolec. Na bregu je stala mlada gospa in dva dečka, dva krepka dunajska Slovenca v mornarski obleki; mahala sta z belima robcema. Gospa Olga Kalanova je bila še vedno sveže lepa; posebno krasne so bile njene velike temnosive oči, ki je v njih gorel vesel in ponosen ogenj. Na bregu me je Igor predstavil in me povabil za drugi dan na obed. Zopet sem sam.</p>
-            <p n="SLV00476.989">Sam! Ali na veličastnih planinah sije stotera krasota, kakor da je naglo bežeča poletna noč izgubila svojo diamantno pečo na samotnih višavah, in nad jezerom in nad mano švigajo vesele lastovke, vesele misli, in hvalijo slovanskega raja lepoto in mir!</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV00476.986">Tako je pripovedoval prijatelj Igor Kalan. Najina ladjica se je bližala bregu.</p>
+            <p n="SLV00476.987">„Poglej, tamle so naši!“ mi je dejal bivši sošolec. Na bregu je stala mlada gospa in dva dečka, dva krepka dunajska Slovenca v mornarski obleki; mahala sta z belima robcema. Gospa Olga Kalanova je bila še vedno sveže lepa; posebno krasne so bile njene velike temnosive oči, ki je v njih gorel vesel in ponosen ogenj. Na bregu me je Igor predstavil in me povabil za drugi dan na obed. Zopet sem sam.</p>
+            <p n="SLV00476.988">Sam! Ali na veličastnih planinah sije stotera krasota, kakor da je naglo bežeča poletna noč izgubila svojo diamantno pečo na samotnih višavah, in nad jezerom in nad mano švigajo vesele lastovke, vesele misli, in hvalijo slovanskega raja lepoto in mir!</p>
          </div>
       </body>
    </text>

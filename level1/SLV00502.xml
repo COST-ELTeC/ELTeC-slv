@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00502">
    <teiHeader>
@@ -36,22 +36,32 @@
             <measure unit="words">35526</measure>
             <measure unit="pages">60</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-18</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Fatur, Lea</author>
                <title>V burji in strasti : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00502-1905.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/V_burji_in_strasti</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Fatur, Lea</author>
                <title xml:lang="sl">V burji in strasti. Povest.</title>
                <date>1905</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-GFX483P3</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00502/WIKI00502-001.jpg">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00502/WIKI00502.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,8 +77,8 @@
             <eltec:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00502">
@@ -882,25 +892,25 @@
             <p n="SLV00502.703">Skalnate gore stoje tiho, nemo, kot bi razmišljevale skrivnosti stvarjenja, šepeče grmovje, trava, drevesa, hrepenenja pesem doni v naravi — hrepenenje stvarstva po Stvarniku ...</p>
             <p n="SLV00502.704">Tudi njena duša hrepeni, silno, močno, po Večnem, Neustvarjenem ... Dan se dela v duši, veliki jasni dan, rastejo peroti duha, pada teža telesa — svoboden se klanja duh Izvoru svojemu ...</p>
             <p n="SLV00502.705">Veselo so zvonili zvonovi, burja je polegla, sneg je padal rahlo, tiho ...</p>
-            <p n="SLV00502.706">* * *</p>
-            <p n="SLV00502.707">Vinko se je bil poslovil v župnišču in stopil k Bašetu, kjer je izpregal navadno njegov oče. Res so bili že tu; od veselja drhteča ga je objemala mati, krepko mu je stiskal oče desnico, bolj plašno stari Hrvatin, saj to ni bil več „mlečnik“, ampak „gospod“.</p>
-            <p n="SLV00502.708">„Kar po starem me imenujte, oče“, se je nasmehnil mladenič in pozdravljal prijazno zgrbljeno, staro Hrvatinko. Solze so jo oblile in vzdihnila je:</p>
-            <p n="SLV00502.709">„Sveti večer je, vsi smo tukaj, samo naše revice ni ...“</p>
-            <p n="SLV00502.710">In vsem se je storilo inako pri spominu na ljubko živooko deklico, ki blodi, bogvé kod po širnem svetu ...</p>
-            <p n="SLV00502.711">Gostilniška soba se je polnila ljudi, ki so prihajali od daleč in se hoteli pogreti; ta je izpil merico žganja, drugi kupico vina, govorili so o zimi, o hudi poti, o nekdanjih čudnih dogodljajih ob svetih večerih in spominjali se mrtvih znancev in prijateljev.</p>
-            <p n="SLV00502.712">Močno je vabil Vinka glas zvona na prosto, želel je biti sam v skrivnostni sveti noči, hotel se je vglobiti v svetu nerazumne tajne, poslušati glas lastnega srca, ki je živelo svetu odtujeno življenje ...</p>
-            <p n="SLV00502.713">Oprostil se je, da gre malo naprej, stariši in Hrvatinovi naj se le še pogrejejo — in odhitel.</p>
-            <p n="SLV00502.714">Čudna se mu je zdela noč, ki ga je vzela v svoje krilo, čudne oblike hiš in dreves, trepetajoči plamenčki sveč na oknih in tresoče se veje, a nad vse čudna se mu je videla cerkev na griču, velikanska, mogočna, nesklonjena od viharjev. Vleklo ga je gori — in bližala se je cerkev, z obzidja so gledali duhovi, beli nagrobni kameni, nejasna, ogromna, se je črtala strma Straža v temini, burja je zatulila, zagnala se in molčala, potuhnila se ...</p>
-            <p n="SLV00502.715">Prišel je do cerkve, a ni stopil po gladkih škrlih skozi visoka vrata, vleklo ga je nekaj v tihi temni kot, k samotnemu grobu.</p>
-            <p n="SLV00502.716">Vinko ni pozabil Luce. Večkrat so se mu zasmejale v resnem učenju njene žarne oči, spominjal se je minolih sanj in nasmehnil se sam sebi. Iskal je poti do groba — kupi snega so mu jo zapirali. Že se je hotel vrniti, ali šepetalo je krog njega kakor tihe prošnje, klicalo ga, vabilo ...</p>
-            <p n="SLV00502.717">Skozi cerkvena okna je padal medel svit na lipove gole veje; pripogibale so se, kimale mu, stokale ...</p>
-            <p n="SLV00502.718">Gazil je naprej, za seboj je slišal glas materin: „Kam gaziš, Vinko?“</p>
-            <p n="SLV00502.719">Nekaj ji je reklo iti za sinom ...</p>
-            <p n="SLV00502.720">Vinko ni odgovarjal, hitel je naprej, gnan od čudne sile. Mati za njim, in od cerkve se je slišal glas očetov in Hrvatinovih.</p>
-            <p n="SLV00502.721">Bil je že blizu groba. Mahoma se ustavi. — Srce se mu je stisnilo: Črnelo je na beli odeji groba ...</p>
-            <p n="SLV00502.722">„Pojdite hitro“, je zaklical s čudnim glasom. Razburjeni so prihiteli, se ustavili, spogledali ... Oče je stopil pogumno k grobu, prižgal žveplenko, posvetil ... Luca je ležala z glavo na grobu, veter ji je bil vzel omotačo, snežinke so se svetile ko biseri v črnih laseh, lice je bilo mirno, smehljajoče, roke so oklepale križ ...</p>
-            <p n="SLV00502.723">Skrivnosten je bil Lucin prvi in zadnji prihod v zasneženo krajino; bila je cvetka juga, hči vročega solnca, zdihnila je med skalami, v pišu burje, žrtva strasti ...</p>
-            <p n="SLV00502.724">Doneli so zvonovi in vabili, burja se je plazila tiho po tleh, klanjaje se svetosti velikega večera; sneg je padal rahlo, tiho, kakor sladka tolažba na bolno upanje ...</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV00502.706">Vinko se je bil poslovil v župnišču in stopil k Bašetu, kjer je izpregal navadno njegov oče. Res so bili že tu; od veselja drhteča ga je objemala mati, krepko mu je stiskal oče desnico, bolj plašno stari Hrvatin, saj to ni bil več „mlečnik“, ampak „gospod“.</p>
+            <p n="SLV00502.707">„Kar po starem me imenujte, oče“, se je nasmehnil mladenič in pozdravljal prijazno zgrbljeno, staro Hrvatinko. Solze so jo oblile in vzdihnila je:</p>
+            <p n="SLV00502.708">„Sveti večer je, vsi smo tukaj, samo naše revice ni ...“</p>
+            <p n="SLV00502.709">In vsem se je storilo inako pri spominu na ljubko živooko deklico, ki blodi, bogvé kod po širnem svetu ...</p>
+            <p n="SLV00502.710">Gostilniška soba se je polnila ljudi, ki so prihajali od daleč in se hoteli pogreti; ta je izpil merico žganja, drugi kupico vina, govorili so o zimi, o hudi poti, o nekdanjih čudnih dogodljajih ob svetih večerih in spominjali se mrtvih znancev in prijateljev.</p>
+            <p n="SLV00502.711">Močno je vabil Vinka glas zvona na prosto, želel je biti sam v skrivnostni sveti noči, hotel se je vglobiti v svetu nerazumne tajne, poslušati glas lastnega srca, ki je živelo svetu odtujeno življenje ...</p>
+            <p n="SLV00502.712">Oprostil se je, da gre malo naprej, stariši in Hrvatinovi naj se le še pogrejejo — in odhitel.</p>
+            <p n="SLV00502.713">Čudna se mu je zdela noč, ki ga je vzela v svoje krilo, čudne oblike hiš in dreves, trepetajoči plamenčki sveč na oknih in tresoče se veje, a nad vse čudna se mu je videla cerkev na griču, velikanska, mogočna, nesklonjena od viharjev. Vleklo ga je gori — in bližala se je cerkev, z obzidja so gledali duhovi, beli nagrobni kameni, nejasna, ogromna, se je črtala strma Straža v temini, burja je zatulila, zagnala se in molčala, potuhnila se ...</p>
+            <p n="SLV00502.714">Prišel je do cerkve, a ni stopil po gladkih škrlih skozi visoka vrata, vleklo ga je nekaj v tihi temni kot, k samotnemu grobu.</p>
+            <p n="SLV00502.715">Vinko ni pozabil Luce. Večkrat so se mu zasmejale v resnem učenju njene žarne oči, spominjal se je minolih sanj in nasmehnil se sam sebi. Iskal je poti do groba — kupi snega so mu jo zapirali. Že se je hotel vrniti, ali šepetalo je krog njega kakor tihe prošnje, klicalo ga, vabilo ...</p>
+            <p n="SLV00502.716">Skozi cerkvena okna je padal medel svit na lipove gole veje; pripogibale so se, kimale mu, stokale ...</p>
+            <p n="SLV00502.717">Gazil je naprej, za seboj je slišal glas materin: „Kam gaziš, Vinko?“</p>
+            <p n="SLV00502.718">Nekaj ji je reklo iti za sinom ...</p>
+            <p n="SLV00502.719">Vinko ni odgovarjal, hitel je naprej, gnan od čudne sile. Mati za njim, in od cerkve se je slišal glas očetov in Hrvatinovih.</p>
+            <p n="SLV00502.720">Bil je že blizu groba. Mahoma se ustavi. — Srce se mu je stisnilo: Črnelo je na beli odeji groba ...</p>
+            <p n="SLV00502.721">„Pojdite hitro“, je zaklical s čudnim glasom. Razburjeni so prihiteli, se ustavili, spogledali ... Oče je stopil pogumno k grobu, prižgal žveplenko, posvetil ... Luca je ležala z glavo na grobu, veter ji je bil vzel omotačo, snežinke so se svetile ko biseri v črnih laseh, lice je bilo mirno, smehljajoče, roke so oklepale križ ...</p>
+            <p n="SLV00502.722">Skrivnosten je bil Lucin prvi in zadnji prihod v zasneženo krajino; bila je cvetka juga, hči vročega solnca, zdihnila je med skalami, v pišu burje, žrtva strasti ...</p>
+            <p n="SLV00502.723">Doneli so zvonovi in vabili, burja se je plazila tiho po tleh, klanjaje se svetosti velikega večera; sneg je padal rahlo, tiho, kakor sladka tolažba na bolno upanje ...</p>
          </div>
       </body>
    </text>

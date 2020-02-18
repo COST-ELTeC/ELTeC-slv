@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00122">
    <teiHeader>
@@ -36,22 +36,32 @@
             <measure unit="words">77352</measure>
             <measure unit="pages">223</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-18</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Podmilšak, Josip</author>
                <title>Žalost in veselje : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00122-1870.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/%C5%BDalost_in_veselje</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Podmilšak, Josip</author>
                <title xml:lang="sl">Žalost in veselje. Povest za prosto ljudstvo.</title>
                <date>1870</date>
                <idno type="urn">http://www.ff.uni-lj.si/slovjez/mh/Zalost_in_veselje.pdf</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00122/WIKI00122-000.png">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00122/WIKI00122.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,8 +77,8 @@
             <eltec:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00122">
@@ -1367,28 +1377,28 @@
             <p n="SLV00122.1234">„Mati se imenuje Angela, meni pa so prej djali Paolo, v samostanu pa so me prekerstili v Alfonza.“</p>
             <p n="SLV00122.1235">„O Paolo, Paolo, o draga žena Angela,“ vzdihne Lavrencij, „vidva toraj še živeta in jaz vaju sem menil že zdavnej mertva.“ Pri tej priči oklene se Alfonza in dve svitli solzici zaigrate mu v očeh. „Moj sin Paolo,“ nadaljuje potem, „tu te objema tvoj oče; oni nesrečni Lavrencij Saturni sem jaz; poznaš li to-le podobico?“ Pri tej priči privleče iz nedrija žensko sliko ter jo podá Alfonzu.</p>
             <p n="SLV00122.1236">„To je slika moje matere. O ravno taka je bila, ko sem bil jaz še otrok, sedaj pa jej je upadel obraz žalosti in terpkosti.“ Alfonza so premagala čutila, oklenil se je očetu krog vrata in šepetal: „Oče, oče, vi ste zopet pri meni, ko sva vas že z materjo objokovala mertve, o mati, zakaj niste tukaj, da bi skupaj uživali to veselje! Potem sta si Alfonzo in Lavrencij razodela vsa hudobna djanja njunih sovražnikov, ki so se ženi nalegali, da je Lavrencij že mertev, njemu pa, da njegove žene ni več na svetu, da je umerla žalosti.</p>
-            <p n="SLV00122.1237">* * *</p>
-            <p n="SLV00122.1238">Naša povest se bliža koncu. Le nekaj potrebnih reči imamo še omeniti.</p>
-            <p n="SLV00122.1239">Poglejmo v novojorško barkostajo. Ondi si ravno podajajo nekteri prijatelji roke, gotovo so se zeló ljubili, kajti solzé jih oblivajo in videti je, da je ločitev grozno težka. Še enkrat se poljubijo in si sežejo v roke, častitljiv mož v černej halji, dá jim blagoslov, potem pa jih odnese čoln na pripravljeno ladijo. — Topovi zagermé — ptuja ladija je zapustila novojorško luko. Na bregu še stojé nektere osebe ter mahajo z belimi robci in na ladiji jim odzdravljajo. Ladija prihaja manjša in manjša, slednjič je znati samo mala pičica, dokler se popolnoma ne skrije. „Lastavica“ je, ki odnaša v domovino Tomaževo družino; jako urno plava, kot vedela, kakó hrepené ti ljudje po svojej domovini. Tudi Polde ni hotel ostati v Ameriki, kajti Gorenska stran mu je bila ljubša, nego daljna dežela, kjer človek nikdar ne vidi domačih ljudi in tudi ne čuje domačega jezika. Odpeljal se je s Tomaževimivredv Evropo.</p>
-            <p n="SLV00122.1240">Kaj pa se je zgodilo z drugimi osebami?</p>
-            <p n="SLV00122.1241">Lavrencij je kmalo zapustil Ameriko ter šel na Laško k svojej ženi, Alfonzo pa je ostal med svojimi divjaki, kakor je obljubil.</p>
-            <p n="SLV00122.1242">Robert, na čegar ladiji je služil Ferdinand, pošiljal je svoje ladije tudi v Terst in ondi je postavil Ferdinanda za oskerbnika, ker se ta ni hotel daleč ločiti od svojih starišev ter jih je moral vsaj vsako leto enkrat obiskati.</p>
-            <p n="SLV00122.1243">Ko pride Tomaž na svoje posestvo, začudi se močno, ko vidi vse tako lepo obdelano. Njegov prijatelj Anton mu je zvesto ves čas oskerboval posestvo ter mu še prihranil lepo število denarja.</p>
-            <p n="SLV00122.1244">Zopet so dihali slovenski zrak po dolzih, dolzih letih. O kako vsi drugačni čuti so jih navdajali. Zdelo se jim je, da rodi polje lepše žito, nego prej, da tertje nosi veče grozde in sadno drevje slajše sadje. Vsaka najmanjša stvar jih je spominjala nekdanjih časov; Anton pa je tudi vse tako ohranil, kot je bilo, prav nič ni zanemaril. Sicer ni vedel, ali se še kedaj vernejo, upal je pa vendar, saj na svetu ni nič nemogoče.</p>
-            <p n="SLV00122.1245">Nekega dne se pripelje po cesti za Savo lahni voziček in v njem so sedele tri osebe. Po poti se približa star mož že sivih las, ki je nesel precaj debel smrekov verhač. — Aleš reče ustaviti voz in. stopi z njega. Ko vidi mož, da se mu krasno opravljen, gosposki človek bliža, sname ponižno klobuček z glave in obstane ob kraji ceste.</p>
-            <p n="SLV00122.1246">„Dober dan, oče! preveč ste naložili,“ pozdravi ga mladeneč.</p>
-            <p n="SLV00122.1247">„Bog daj! — Saj me res nekoliko pobira, pa kaj se če, starost me lomi, starost.“</p>
-            <p n="SLV00122.1248">„Ali ime več ne poznate?“ pravi mladeneč dalje.</p>
-            <p n="SLV00122.1249">„I naka, — ne vem, da bi vas bil kedaj videl.“</p>
-            <p n="SLV00122.1250">„Ali se še spominjate Aleša?“</p>
-            <p n="SLV00122.1251">„O Aleš? Da, da, v vojake so ga vzeli, potem pa ga nisem več videl niti slišal o njem. Škoda fanta, tako dober človek je bil. — Sta bila morda znana?“</p>
-            <p n="SLV00122.1252">„Tu stoji Aleš pred vami,“ pravi uni ter mu poda roko.</p>
-            <p n="SLV00122.1253">„Oh jeminete no,“ čudi se starec, kot ne bi še popolnoma verjel, „pa ste vsi drugačni, Aleš ni imel berk pod nosom, kot jih imate vi.“</p>
-            <p n="SLV00122.1254">„O Peter, nič me ne vikajte, vaš nekdanji Aleš je tu z dušo in telesom, lejte še sedaj imam tukaj tisto svetinico, ktero ste mi ohranili, ko ste me našli v gozdu, s to svetinico sem našel svojega očeta in vse svoje domače.“</p>
-            <p n="SLV00122.1255">„Je že res, že res,“ pravi starec in obličje se mu veselja zažari, „o ti preljubi moj Aleš, da te le zopet vidim; kako mi je bilo dolgčas po tebi, ne morem ti povedati,“ in njegova vela roka je deržala Alešovo roko, kot nekdaj pri odhodu k vojakom.</p>
-            <p n="SLV00122.1256">Sedaj se prebližata tudi oče in mati ter se zahvalita dobremu možu za tolikanjo dobroto, da jima je ohranil dete in ga odredil. — Peter spravi svoj verhač v čoln, potem pa veli tudi drugim vstopiti se va-nj, in čeravno star, veslal je vendar urno prek Save. — Kakovi spomini so se zbujali sedaj v Alešu! Tu je tekla bistra Sava, kot nekdaj, na trati je stala lesena koča in pred vežó klopica, kraj hiše pa kozji hlevec, krog in krog je rastlo sadno drevje, ktero je Peter pridno čedil, dalje pa so se dvigali verhovi in skaline, po kterih je nekdaj plezal Aleš ter pasel kozé. Vsa mladostna doba mu je bila živa pred očmi, doba, ktere se človek vse življenje tako radostno spominja; saj je najlepši čas življenja!</p>
-            <p n="SLV00122.1257">Aleš je hotel po sili vzeti Petra na svoj dom, ali ta je rekel, da mu je ta kraj najljubši, da ga ne zapusti po nobenej ceni, preden ga ne ponesó odtod, in to obljubo je tudi spolnil. — Ko ga je tretjo spomlad hotel Aleš obiskati, bil je že v černej zemlji.</p>
-            <p n="SLV00122.1258">Pri Tomaževih se je zopet vse vredilo, kot nekdaj. Ker se Tomaž sam ni hotel več ukvarjati z gospodarstvom, oženil je Aleša ter mu izročil vse posestvo. V blagem miru so živeli tudi sedaj in vsako leto v praznik Marijinega vnebovzetja so šli vsi v Petrovše na božjo pot zahvalit se Božjej Porodnici, ki jim je izprosila toliko milosti pri Bogu.</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV00122.1237">Naša povest se bliža koncu. Le nekaj potrebnih reči imamo še omeniti.</p>
+            <p n="SLV00122.1238">Poglejmo v novojorško barkostajo. Ondi si ravno podajajo nekteri prijatelji roke, gotovo so se zeló ljubili, kajti solzé jih oblivajo in videti je, da je ločitev grozno težka. Še enkrat se poljubijo in si sežejo v roke, častitljiv mož v černej halji, dá jim blagoslov, potem pa jih odnese čoln na pripravljeno ladijo. — Topovi zagermé — ptuja ladija je zapustila novojorško luko. Na bregu še stojé nektere osebe ter mahajo z belimi robci in na ladiji jim odzdravljajo. Ladija prihaja manjša in manjša, slednjič je znati samo mala pičica, dokler se popolnoma ne skrije. „Lastavica“ je, ki odnaša v domovino Tomaževo družino; jako urno plava, kot vedela, kakó hrepené ti ljudje po svojej domovini. Tudi Polde ni hotel ostati v Ameriki, kajti Gorenska stran mu je bila ljubša, nego daljna dežela, kjer človek nikdar ne vidi domačih ljudi in tudi ne čuje domačega jezika. Odpeljal se je s Tomaževimivredv Evropo.</p>
+            <p n="SLV00122.1239">Kaj pa se je zgodilo z drugimi osebami?</p>
+            <p n="SLV00122.1240">Lavrencij je kmalo zapustil Ameriko ter šel na Laško k svojej ženi, Alfonzo pa je ostal med svojimi divjaki, kakor je obljubil.</p>
+            <p n="SLV00122.1241">Robert, na čegar ladiji je služil Ferdinand, pošiljal je svoje ladije tudi v Terst in ondi je postavil Ferdinanda za oskerbnika, ker se ta ni hotel daleč ločiti od svojih starišev ter jih je moral vsaj vsako leto enkrat obiskati.</p>
+            <p n="SLV00122.1242">Ko pride Tomaž na svoje posestvo, začudi se močno, ko vidi vse tako lepo obdelano. Njegov prijatelj Anton mu je zvesto ves čas oskerboval posestvo ter mu še prihranil lepo število denarja.</p>
+            <p n="SLV00122.1243">Zopet so dihali slovenski zrak po dolzih, dolzih letih. O kako vsi drugačni čuti so jih navdajali. Zdelo se jim je, da rodi polje lepše žito, nego prej, da tertje nosi veče grozde in sadno drevje slajše sadje. Vsaka najmanjša stvar jih je spominjala nekdanjih časov; Anton pa je tudi vse tako ohranil, kot je bilo, prav nič ni zanemaril. Sicer ni vedel, ali se še kedaj vernejo, upal je pa vendar, saj na svetu ni nič nemogoče.</p>
+            <p n="SLV00122.1244">Nekega dne se pripelje po cesti za Savo lahni voziček in v njem so sedele tri osebe. Po poti se približa star mož že sivih las, ki je nesel precaj debel smrekov verhač. — Aleš reče ustaviti voz in. stopi z njega. Ko vidi mož, da se mu krasno opravljen, gosposki človek bliža, sname ponižno klobuček z glave in obstane ob kraji ceste.</p>
+            <p n="SLV00122.1245">„Dober dan, oče! preveč ste naložili,“ pozdravi ga mladeneč.</p>
+            <p n="SLV00122.1246">„Bog daj! — Saj me res nekoliko pobira, pa kaj se če, starost me lomi, starost.“</p>
+            <p n="SLV00122.1247">„Ali ime več ne poznate?“ pravi mladeneč dalje.</p>
+            <p n="SLV00122.1248">„I naka, — ne vem, da bi vas bil kedaj videl.“</p>
+            <p n="SLV00122.1249">„Ali se še spominjate Aleša?“</p>
+            <p n="SLV00122.1250">„O Aleš? Da, da, v vojake so ga vzeli, potem pa ga nisem več videl niti slišal o njem. Škoda fanta, tako dober človek je bil. — Sta bila morda znana?“</p>
+            <p n="SLV00122.1251">„Tu stoji Aleš pred vami,“ pravi uni ter mu poda roko.</p>
+            <p n="SLV00122.1252">„Oh jeminete no,“ čudi se starec, kot ne bi še popolnoma verjel, „pa ste vsi drugačni, Aleš ni imel berk pod nosom, kot jih imate vi.“</p>
+            <p n="SLV00122.1253">„O Peter, nič me ne vikajte, vaš nekdanji Aleš je tu z dušo in telesom, lejte še sedaj imam tukaj tisto svetinico, ktero ste mi ohranili, ko ste me našli v gozdu, s to svetinico sem našel svojega očeta in vse svoje domače.“</p>
+            <p n="SLV00122.1254">„Je že res, že res,“ pravi starec in obličje se mu veselja zažari, „o ti preljubi moj Aleš, da te le zopet vidim; kako mi je bilo dolgčas po tebi, ne morem ti povedati,“ in njegova vela roka je deržala Alešovo roko, kot nekdaj pri odhodu k vojakom.</p>
+            <p n="SLV00122.1255">Sedaj se prebližata tudi oče in mati ter se zahvalita dobremu možu za tolikanjo dobroto, da jima je ohranil dete in ga odredil. — Peter spravi svoj verhač v čoln, potem pa veli tudi drugim vstopiti se va-nj, in čeravno star, veslal je vendar urno prek Save. — Kakovi spomini so se zbujali sedaj v Alešu! Tu je tekla bistra Sava, kot nekdaj, na trati je stala lesena koča in pred vežó klopica, kraj hiše pa kozji hlevec, krog in krog je rastlo sadno drevje, ktero je Peter pridno čedil, dalje pa so se dvigali verhovi in skaline, po kterih je nekdaj plezal Aleš ter pasel kozé. Vsa mladostna doba mu je bila živa pred očmi, doba, ktere se človek vse življenje tako radostno spominja; saj je najlepši čas življenja!</p>
+            <p n="SLV00122.1256">Aleš je hotel po sili vzeti Petra na svoj dom, ali ta je rekel, da mu je ta kraj najljubši, da ga ne zapusti po nobenej ceni, preden ga ne ponesó odtod, in to obljubo je tudi spolnil. — Ko ga je tretjo spomlad hotel Aleš obiskati, bil je že v černej zemlji.</p>
+            <p n="SLV00122.1257">Pri Tomaževih se je zopet vse vredilo, kot nekdaj. Ker se Tomaž sam ni hotel več ukvarjati z gospodarstvom, oženil je Aleša ter mu izročil vse posestvo. V blagem miru so živeli tudi sedaj in vsako leto v praznik Marijinega vnebovzetja so šli vsi v Petrovše na božjo pot zahvalit se Božjej Porodnici, ki jim je izprosila toliko milosti pri Bogu.</p>
          </div>
       </body>
    </text>

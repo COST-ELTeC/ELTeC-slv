@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV00172">
    <teiHeader>
@@ -36,22 +36,32 @@
             <measure unit="words">76466</measure>
             <measure unit="pages">171</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-23"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
-         <sourceDesc><bibl type="digitalSource">
+         <publicationStmt xml:lang="en">
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
+            <date>2020-02-18</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="digitalSource">
                <author>Sket, Jakob</author>
                <title>Milko Vogrin : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
                <idno type="url">http://nl.ijs.si/imp/wikivir/dl/WIKI00172-1883.html</idno>
                <idno type="wikilink">http://sl.wikisource.org/wiki/Milko_Vogrin</idno>
-            </bibl><bibl type="printSource">
+            </bibl>
+            <bibl type="printSource">
                <author>Sket, Jakob</author>
                <title xml:lang="sl">Milko Vogrin. Novela.</title>
                <date>1883</date>
                <idno type="urn">http://www.dlib.si/?URN=URN:NBN:SI:DOC-0KCZMR1Y</idno>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00172/WIKI00172-001.jpg">Title page</ref>
                <ref target="http://nl.ijs.si/imp/wikivir/facs/WIKI00172/WIKI00172.pdf">Facsimile</ref>
-            </bibl></sourceDesc>
+            </bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
          <p xml:lang="en">This edition for ELTeC was automatically down-converted from the IMP digital library edition, and several pieces of ELTeC-specific metadata were added.</p>
@@ -67,8 +77,8 @@
             <eltec:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc><change when="2019-10-23">Checked by releaseChecker script</change>
-         <change xml:lang="en" when="2019-10-18">Tomaž Erjavec: converted to ELTeC</change>
+      <revisionDesc xml:lang="en">
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV00172">
@@ -1415,9 +1425,9 @@
             <p n="SLV00172.1294">Temne in nejasne so bile s prva Skenovskim te besede, ali Vogrin jim je takoj raztolmačil njih pomen. Dolgo je pripovedoval naš rojak o raznih bojih in dogodkih v Bosni. Govoril je o običajih in navadah prostega bosanskega naroda ter jim slikal krasoto zasedene dežele, naglašujóč njene vrednosti za Avstrijo!</p>
             <p n="SLV00172.1295">Vsi so vestno in pazno sledili njegovim besedam. Osobito pa sta Olga in Rihard vsa zamaknena poslušala, ko jim je Vogrin razlagal, kako je v Doboji odbil napad ustašev ter rešil z drugimi vred tudi — barona Roberta. Napósled so mu pa vsi čestitali, vzlasti pa gospod Skenovski in gospá na njegovem odlikovanji, iz srca želéč, naj mu novi poklic in stan več veselja in sreče prinese, kakor je je užival do sedaj!</p>
             <p n="SLV00172.1296">Pozno v noči se je še le poslovil Vogrin od gostoljubne rodbine. Ali zdaj so ga navdajali novi čuti. Ves pomlajen in navdušen ločil se je ta večer od svoje Olge. — — —</p>
-            <p n="SLV00172.1297">* * *</p>
-            <p n="SLV00172.1298">Jaz pa nisem več let videl potém svojega prijatelja, odkar sem ga bil zapustil v Bosni. Še le letos o velikih počitnicah, ko sem zopet potoval po Koroškem, snidem se z njim. Krasno Vrbsko jezero me je vabilo k sebi. Jaz izstopim v Porečah na slovenska tla, in tú me sprejme nekdanji šolski tovariš in prijatelj dr. Sirnik. In zdaj si ne morem kaj, da bi si ne ogledal ville Skenovske, o kterej isti je Vogrin daleč tam dole v Bosni toliko pripovedoval!</p>
-            <p n="SLV00172.1299">In glej, ko pridem do vrtnih vrat, vidim že od daleč, da mi gre naproti prijatelj Milko. Nató me pelje na krasni vrt, in ondi me predstavi svojej blagej ženi Olgi, roj. Skenovskej, ki je ravno igrala s cvetóčim, dveletnim svojim sinčekom. In tú smo potém oživljali spomine na pretekle čase, občudujóč krasoto svoje domovine, a nad nami je plaval angelj mirú in zakonske sreče!</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV00172.1297">Jaz pa nisem več let videl potém svojega prijatelja, odkar sem ga bil zapustil v Bosni. Še le letos o velikih počitnicah, ko sem zopet potoval po Koroškem, snidem se z njim. Krasno Vrbsko jezero me je vabilo k sebi. Jaz izstopim v Porečah na slovenska tla, in tú me sprejme nekdanji šolski tovariš in prijatelj dr. Sirnik. In zdaj si ne morem kaj, da bi si ne ogledal ville Skenovske, o kterej isti je Vogrin daleč tam dole v Bosni toliko pripovedoval!</p>
+            <p n="SLV00172.1298">In glej, ko pridem do vrtnih vrat, vidim že od daleč, da mi gre naproti prijatelj Milko. Nató me pelje na krasni vrt, in ondi me predstavi svojej blagej ženi Olgi, roj. Skenovskej, ki je ravno igrala s cvetóčim, dveletnim svojim sinčekom. In tú smo potém oživljali spomine na pretekle čase, občudujóč krasoto svoje domovine, a nad nami je plaval angelj mirú in zakonske sreče!</p>
          </div>
       </body>
    </text>
