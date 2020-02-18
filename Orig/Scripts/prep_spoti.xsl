@@ -18,11 +18,11 @@
   <xsl:template match="/">
     <xsl:processing-instruction name="xml-model">
       href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
+            schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
     <xsl:text>&#10;</xsl:text>
     <xsl:processing-instruction name="xml-model">
       href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
+            schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
       <xsl:text>&#10;</xsl:text>
     <xsl:apply-templates/>
   </xsl:template>
@@ -174,7 +174,7 @@
 
   <!-- Only one label, and this is it, follow French example: -->
   <xsl:template match="tei:label">
-    <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+    <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
   </xsl:template>
 
   <!-- Notes are editorial -->
@@ -213,7 +213,7 @@
   <!-- We have a funny (last) section which we merge into previous one -->
   <xsl:template mode="pass2" match="tei:div[tei:head='***']"/>
   <xsl:template mode="pass2" match="tei:head[.='***']">
-    <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+    <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
   </xsl:template>
   <xsl:template mode="pass2" match="tei:div[following-sibling::tei:div[1][tei:head='***']]">
     <xsl:copy>
@@ -224,14 +224,21 @@
   </xsl:template>
   
   <xsl:template mode="pass2" match="tei:body//tei:p">
-    <xsl:copy>
-      <xsl:attribute name="n">
-	<xsl:value-of select="$id"/>
-	<xsl:text>.</xsl:text>
-	<xsl:number level="any" from="tei:text"/>
-      </xsl:attribute>
-      <xsl:apply-templates mode="pass2"/>
-    </xsl:copy>
+    <xsl:choose>
+      <xsl:when test="normalize-space(.)='*'">
+	<milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:copy>
+	  <xsl:attribute name="n">
+	    <xsl:value-of select="$id"/>
+	    <xsl:text>.</xsl:text>
+	    <xsl:number level="any" from="tei:text"/>
+	  </xsl:attribute>
+	  <xsl:apply-templates mode="pass2"/>
+	</xsl:copy>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
   <xsl:template mode="pass2" match="*">
     <xsl:copy>

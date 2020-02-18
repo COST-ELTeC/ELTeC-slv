@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://relaxng.org/ns/structure/1.0"?>
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"?>
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV30001">
    <teiHeader>
       <fileDesc>
@@ -572,7 +572,7 @@
             <p n="SLV30001.438">„Nikakor, mein Liebling, in ti pojdeš z menoj. Potem sva to reč končala. Ali boš kmalu vstal?“</p>
             <p n="SLV30001.439">„Takoj; preden boš ti legel.“</p>
             <p n="SLV30001.440">„Ne, najdražji. Le umil se bom, potem grem v Brero. Danes bi se upal spreti z Michelangelom.“</p>
-            <p n="SLV30001.441">*</p>
+            <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
             <p n="SLV30001.442">H kosilu je prišel izredno dobre volje, zdrav in svež, le obraz mu je bil ponočnjaško zardel.</p>
             <p n="SLV30001.443">„Ester mi je pisala, preljubi.“</p>
             <p n="SLV30001.444">Bil sem slabe volje; tudi sem bil naveličan večnih vesti brez novic.</p>
@@ -835,7 +835,7 @@
             <p n="SLV30001.656">„Ne, saj je toplo,“ se je nasmehnila Ester od vrat.</p>
             <p n="SLV30001.657">„In ne ostajaj zunaj predolgo. Hladno je.“</p>
             <p n="SLV30001.658">Profesor je gledal zadovoljno za Fritzom, in ko so se vrata zaprla, je dejal proti družbi: „Morda bo popolnoma dober delavec, kadar se unese.“ Pogovor je polagoma prešel na druge stvari, le miss Harton je še želela nekaterih pojasnil. Ko smo se menili o vsakdanjih stvareh, nam je bilo prijetneje.</p>
-            <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
             <p n="SLV30001.659">Gospa je čez nekaj časa postala nemirna in je venomer pogledovala proti vratom. Slednjič je vstala:</p>
             <p n="SLV30001.660">„Predolgo je ni nazaj, prehladila se bo,“ je rekla in mislila na Ester. „Ali gremo na vrt k drugim? Ali morda še ostanete tukaj?“</p>
             <p n="SLV30001.661">Pogovor je že bil zelo nezanimiv (nihče ni več hotel resno odgovarjati na pomisleke gospodične Harton) in tako sem šel na vrt. O njem pravi naša hišna gospodinja: „Bog je najprej ustvaril moj vrt, ko je pa videl, da je presamoten in brez okolice, je ukazal sezidati Firenze.“ Fritz sicer trdi, da je to z zgodovinskega stališča nemogoče, toda v Firenzi vendar ni veliko hiš, ki bi imele take vrtove. Na dveh straneh meji na poslopje, na drugih dveh je obdan z razmerno nizkim zidom. Vse steze so tako ozke, da moreta hoditi le dva človeka vštric, samo v sredi, kjer se stekajo, je majhna krožina, nekoliko prostornejša. Ves vrt je zasajen samo z vrtnicami; toliko jih je, da človek sploh ne opazi drugih rož, ki rastejo pod njimi. Kadar so vse v polnem cvetju, mora biti ta mali prostor prečudno lep. Sedaj cvetejo zadnje, toda kadar gremo po vrtu, nam je vendar prijetno pri srcu; že zavest, da so vsepovsod vrtnice krog nas, je laskava.</p>
@@ -971,7 +971,7 @@
             <p n="SLV30001.782">„Zakaj si tak?“ sem rekel Fritzu. „Vidiš, kako je žalostna.“</p>
             <p n="SLV30001.783">„Kakšen pa sem?“ je odgovoril in odšel h klavirju. Naročil je nekaj igralcu, ki se je nasmehnil, in takoj zaigral napamet. Tudi Fritz se je nasmehnil, stopil pred Karlo in potem sta zaplesala enega izmed tistih plesov, ki so v novejšem času zelo priljubljeni. Zelo je različen od polke in tudi umetnost ni. Videl sem, kako je Fritzu obraz oživel; on je izvrsten plesalec.</p>
             <p n="SLV30001.784">Odšel sem v svojo sobo in sem proti jutru zaspal, ko se je spodaj hrup malo polegel.</p>
-            <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
             <p n="SLV30001.785">Danes je naša hiša dalj spala kot navadno. Bilo je že precej pozno, toda popolnoma mirno v sobah in na hodnikih, ko je Fritz prišel k meni, športno napravljen, zapet do vratu in preko ledij prepasan. Bil je pobit in lep, kakor morda nikoli.</p>
             <p n="SLV30001.786">„Sedaj se odpeljem. Prosim te, razdeli to napitnino med služinčad. Pri fotografu imam še nekaj plošč, pošlji jih za menoj, kadar ti sporočim naslov. Esteri povej, da ji bom pisal, in če povpraša maman po meni, reci, da sem šel gledat viseči pisanski stolp.“</p>
             <p n="SLV30001.787">„Kam greš?“</p>
