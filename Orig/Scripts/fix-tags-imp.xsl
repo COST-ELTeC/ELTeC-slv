@@ -121,7 +121,7 @@
       <xsl:text> : edicija ELTeC</xsl:text>
     </title>
     <author>
-      <xsl:variable name="author" select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:author"/>
+      <xsl:variable name="author" select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:author[1]"/>
       <xsl:attribute name="ref">
 	<xsl:choose>
 	  <xsl:when test="contains($author/@ref, ' ')">

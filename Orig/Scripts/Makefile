@@ -20,9 +20,9 @@ test-wiki:
 
 test-imp:
 	rm -f tmp/*
-	add-meta-imp.pl ../slv-index.txt ../slv-authors.txt < ../IMP/WIKI00048-1896.xml > tmp/WIKI00048.xml
-	$s -xsl:fix-tags-imp.xsl tmp/WIKI00048.xml > tmp/WIKI00048.eltec.xml
-	$j tmp/WIKI00048.eltec.xml
+	add-meta-imp.pl ../slv-index.txt ../slv-authors.txt < ../IMP/WIKI00216-1881.xml > tmp/WIKI00216.xml
+	$s -xsl:fix-tags-imp.xsl tmp/WIKI00216.xml > tmp/WIKI00216.eltec.xml
+	$j tmp/WIKI00216.eltec.xml
 
 all:	wiki eziss val
 xall:	clean imp wiki eziss val
@@ -53,6 +53,8 @@ grab-wiki:
 	chmod +x grab-wiki.sh
 	mkdir -p ../Wiki
 	./grab-wiki.sh
+fix-imp:
+	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00216-1881.xml' ../../level1
 convert-imp:
 	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/*.xml' ../../level1
 grab-imp:
