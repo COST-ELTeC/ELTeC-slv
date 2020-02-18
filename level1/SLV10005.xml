@@ -2,7 +2,8 @@
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10005">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10005">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +40,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Finžgar, Fran Saleški</author>
+               <author ref="https://sl.wikipedia.org/wiki/Fran_Sale%C5%A1ki_Fin%C5%BEgar">Finžgar, Fran Saleški</author>
                <title>Pod svobodnim soncem : edicija WikiVir</title>
                <idno type="wikilink">https://sl.wikisource.org/wiki/Pod_svobodnim_soncem</idno>
                <date>2019</date>
@@ -2398,10 +2399,10 @@
             <p n="SLV10005.2246">Radovanu je zdrknila čaša iz roke in se razbila na mozaiku. Zakričal je in se sesedel. Epafrodit pa se je stresel v mrzlici, stisnil krčevito ustnice in bruhnil kletev na despojno:</p>
             <p n="SLV10005.2247">»Zmagala si, kača, prekleta ...«</p>
          </div>
-	</div>
-        <div type="collection">
-          <head>Druga knjiga</head>
-          <div type="chapter">
+       </div>
+       <div type="collection">
+         <head>Druga knjiga</head>
+         <div type="chapter">
             <head>Prvo poglavje</head>
             <p n="SLV10005.2248">Nad Bizancem je noč. Zvezde na gosto, nebo blizu. S trgov so odšli zadnji igralci. Hladen mir povsod. Le iz tabern ob Zlatem rogu blizu Kampa še doni krik in petje, strune in bobenčki. Toda Kamp je daleč, ob Zlatem rogu je pusto. Patricijev po zlatih palačah ne moti hrup pijanih vojakov in proletarcev. Vsa okna spe.</p>
             <p n="SLV10005.2249">V carski palači pa bedi veliko okno. Železni Upravda ne pozna pokoja.</p>
@@ -4942,6 +4943,6 @@
             <p n="SLV10005.4712">Huni so iskali pri njih zavetja in gostoljubja, obrski kakan je odpovedal zvezo Bizancu in prosil prijateljstva Slovenov in Antov, ki so napolnjeni z Iztokovim duhom živeli v bratski slogi in uživali slavo pod svobodnim soncem.</p>
          </div>
        </div>
-     </body>
+      </body>
    </text>
 </TEI>

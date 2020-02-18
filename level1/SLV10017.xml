@@ -2,7 +2,8 @@
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10017">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10017">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +40,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Malovrh, Miroslav</author>
+               <author ref="https://sl.wikipedia.org/wiki/Miroslav_Malovrh">Malovrh, Miroslav</author>
                <title>Tolovajski glavar Črni Jurij in njegovi divji tovariši : edicija WikiVir</title>
                <idno type="wikilink">https://sl.wikisource.org/wiki/Tolovajski_glavar_%C4%8Crni_Jurij_in_njegovi_divji_tovari%C5%A1i,_1._del</idno>
                <date>2017</date>

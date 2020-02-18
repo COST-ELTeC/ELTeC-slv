@@ -2,7 +2,8 @@
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10022">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10022">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +40,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Prepeluh, Albin</author>
+               <author ref="https://sl.wikipedia.org/wiki/Albin_Prepeluh">Prepeluh, Albin</author>
                <title>Mina : edicija WikiVir</title>
                <idno type="wikilink">https://sl.wikisource.org/wiki/Mina_(Albin_Prepeluh)</idno>
                <date>2019</date>

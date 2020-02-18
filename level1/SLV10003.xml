@@ -2,7 +2,8 @@
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10003">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10003">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +40,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Cigler, Janez</author>
+               <author ref="https://sl.wikipedia.org/wiki/Janez_Cigler">Cigler, Janez</author>
                <title>Sreča v nesreči : edicija WikiVir</title>
                <idno type="wikilink">https://sl.wikisource.org/wiki/Sre%C4%8Da_v_nesre%C4%8Di_ali_popisovanje_%C4%8Dudne_zgodbe_dveh_dvoj%C4%8Dkov</idno>
                <date>2007</date>

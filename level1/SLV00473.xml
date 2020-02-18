@@ -46,7 +46,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Murnik, Rado</author>
+               <author ref="https://sl.wikipedia.org/wiki/Rado_Murnik">Murnik, Rado</author>
                <title>Groga in drugi : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>

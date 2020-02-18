@@ -46,7 +46,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Finžgar, Fran Saleški</author>
+               <author ref="https://sl.wikipedia.org/wiki/Fran_Sale%C5%A1ki_Fin%C5%BEgar">Finžgar, Fran Saleški</author>
                <title>Sama : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>

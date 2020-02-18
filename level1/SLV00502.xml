@@ -46,7 +46,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Fatur, Lea</author>
+               <author ref="https://sl.wikipedia.org/wiki/Lea_Fatur">Fatur, Lea</author>
                <title>V burji in strasti : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>

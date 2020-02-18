@@ -46,7 +46,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Govekar, Fran</author>
+               <author ref="https://sl.wikipedia.org/wiki/Fran_Govekar">Govekar, Fran</author>
                <title>V krvi : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>

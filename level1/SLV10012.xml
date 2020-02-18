@@ -2,7 +2,8 @@
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10012">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10012">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +40,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Koder, Anton</author>
+               <author ref="https://sl.wikipedia.org/wiki/Anton_Koder">Koder, Anton</author>
                <title>Kmetski triumvirat : edicija WikiVir</title>
                <idno type="wikilink">https://sl.wikisource.org/wiki/Kmetski_triumvirat</idno>
                <date>2011</date>

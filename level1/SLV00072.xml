@@ -46,7 +46,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Meško, Ksaver</author>
+               <author ref="https://sl.wikipedia.org/wiki/Franc_Ksaver_Me%C5%A1ko">Meško, Ksaver</author>
                <title>Kam plovemo : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>

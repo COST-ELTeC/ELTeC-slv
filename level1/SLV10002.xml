@@ -2,7 +2,8 @@
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10002">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10002">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +40,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Carli Lukovič, Alojz</author>
+               <author ref="https://sl.wikipedia.org/wiki/Alojzij_Carli">Carli Lukovič, Alojz</author>
                <title>Zadnji dnevi v Ogleju : edicija WikiVir</title>
                <idno type="wikilink">https://sl.wikisource.org/wiki/Zadnji_dnevi_v_Ogleju</idno>
                <date>2009</date>

@@ -46,7 +46,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Štrukelj, Ivan</author>
+               <author ref="https://sl.wikipedia.org/wiki/Ivan_%C5%A0trukelj_(duhovnik)">Štrukelj, Ivan</author>
                <title>Spletke : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>

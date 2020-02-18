@@ -46,7 +46,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Kraigher, Alojz</author>
+               <author ref="https://sl.wikipedia.org/wiki/Alojz_Kraigher">Kraigher, Alojz</author>
                <title>Mlada ljubezen : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>

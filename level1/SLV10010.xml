@@ -2,7 +2,8 @@
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10010">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10010">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -39,7 +40,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Jurčič, Josip</author>
+               <author ref="https://sl.wikipedia.org/wiki/Josip_Jur%C4%8Di%C4%8D">Jurčič, Josip</author>
                <title>Ivan Erazem Tatenbah : edicija WikiVir</title>
                <idno type="wikilink">https://sl.wikisource.org/wiki/Ivan_Erazem_Tatenbah</idno>
                <date>2008</date>

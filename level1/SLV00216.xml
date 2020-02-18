@@ -8,8 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title>Rokovnjači : edicija ELTeC</title>
-            <author ref="viaf:54483391">Jurčič, Josip (1844-1881)</author>
-            <author>Kersnik, Janko</author>
+            <author ref="viaf:54483391">Jurčič, Josip (1844-1881) Kersnik, Janko</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>
@@ -47,7 +46,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Jurčič, Josip</author>
+               <author ref="https://sl.wikipedia.org/wiki/Josip_Jur%C4%8Di%C4%8D">Jurčič, Josip</author>
                <title>Rokovnjači : edicija IMP</title>
                <date>2015-04-03</date>
                <idno type="handle">http://hdl.handle.net/11356/1031</idno>
