@@ -11,11 +11,11 @@ binmode STDOUT, 'utf8';
 open IDX, '<:utf8', $authorFile or die "Can't open input $authorFile\n";
 while (<IDX>) {
     chomp;
-    my ($authordates, $registry, $id, $url) = split /\t/;
+    my ($authordates, $registry, $id, $url, $wiki) = split /\t/;
     #We assume no names are doubled, so we ignore birth-death dates
     ($author) = $authordates =~ /(.+), \d\d\d\d-\d\d\d\d$/ 
 	or die "Bad author $authordates\n";
-    $author{$author} = join "\t", (lc $registry, $id);
+    $author{$author} = join "\t", (lc $registry, $id, $wiki);
 }
 close IDX;
 
@@ -41,12 +41,10 @@ while (<IDX>) {
     next unless $imp_id and $imp_id =~ /^WIKI\d+$/;
 
     if (exists $author{$author}) {
-	($registry, $registry_id) = split(/\t/, $author{$author})
+	($registry, $registry_id, $wiki) = split(/\t/, $author{$author});
+	$wiki = 0 unless $wiki and $wiki ne '-';
     }
-    else {
-	$registry = 0;
-	$registry_id = 0;
-    }
+    else {die "Can't find author info for $author!\n"}
     
     if    ($sex =~ /M/i) {$eltec_sex = 'M'}
     elsif ($sex =~ /Ž/i) {$eltec_sex = 'F'}
@@ -73,7 +71,7 @@ while (<IDX>) {
     ## Note that for IMP $author, $title, $published is really taken from the teiHeader
     ## Similarly $period, $words is computed by the conversion scripts
     $meta{$imp_id} = join "\t", ($signature, $title, $label, 
-				 $author, $eltec_sex, $birth, $death, $registry, $registry_id,
+				 $author, $eltec_sex, $birth, $death, $registry, $registry_id, $wiki,
 				 $eltec_period, $eltec_canon, $reprints);
 }
 close IDX;
@@ -87,7 +85,7 @@ $_ = <>;
 
 ##Note that label and reprints is not used, as it is not clear where to put this info!
 my ($signature, $title, $label, 
-    $author, $eltec_sex, $birth, $death, $registry, $registry_id,
+    $author, $eltec_sex, $birth, $death, $registry, $registry_id, $wiki,
     $eltec_period, $eltec_canon, $reprints) =
     split "\t", $meta{$imp_id};
 
@@ -105,11 +103,12 @@ print STDERR "WARN: $id authors mismatch: $an !== $author, taking $author\n"
 s|<author>.+</author>|<author>$author ($birth-$death)</author>|;
 
 if ($registry) {
-    s|<author>|<author ref="$registry:$registry_id">|
+    s|<author>|<author ref="$registry:$registry_id">|;
+    if ($wiki) {s|<author ref="(.+?)">|<author ref="$1 $wiki">| or die "$_"}
+    else {print STDERR "WARN: $id author $author has no WIKI\n"}
 }
-else {
-    print STDERR "WARN: $id author $an has no VIAF/CONOR\n"
-}
+else {die "ERROR: $id author $author has no VIAF/CONOR\n"}
+
 
 #Calculate and insert number of words
 ($wDOC) = m|<body[ >](.+)</body>|s;

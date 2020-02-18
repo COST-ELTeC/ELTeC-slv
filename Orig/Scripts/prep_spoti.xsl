@@ -41,7 +41,7 @@
       <fileDesc>
         <titleStmt>
           <title>S poti : edicija ELTeC</title>
-            <author ref="viaf:34746806">Cankar, Izidor (1886-1958)</author>
+            <author ref="viaf:51848354">Cankar, Izidor (1886-1958)</author>
             <respStmt>
                <resp>Pretvorba zapisa eZISS v ELTeC.</resp>
                <resp xml:lang="en">Conversion from eZISS TEI to ELTeC encoding.</resp>
@@ -76,7 +76,7 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author>Izidor Cankar</author>
+               <author ref="https://sl.wikipedia.org/wiki/Izidor_Cankar">Izidor Cankar</author>
                <title>S poti : edicija eZISS</title>
                <idno type="wikilink">nl.ijs.si/e-zrc/izidor/</idno>
                <date>2007</date>

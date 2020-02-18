@@ -12,11 +12,11 @@ binmode STDOUT, 'utf8';
 open IDX, '<:utf8', $authorFile or die "Can't open input $authorFile\n";
 while (<IDX>) {
     chomp;
-    my ($authordates, $registry, $id, $url) = split /\t/;
+    my ($authordates, $registry, $id, $url, $wiki) = split /\t/;
     #We assume no names are doubled, so we ignore birth-death dates
     ($author) = $authordates =~ /(.+), \d\d\d\d-\d\d\d\d$/ 
 	or die "Bad author $authordates\n";
-    $author{$author} = join "\t", (lc $registry, $id);
+    $author{$author} = join "\t", (lc $registry, $id, $wiki);
 }
 close IDX;
 
@@ -43,12 +43,10 @@ while (<IDX>) {
     }
 
     if (exists $author{$author}) {
-	($registry, $registry_id) = split(/\t/, $author{$author})
+	($registry, $registry_id, $wiki) = split(/\t/, $author{$author});
+	$wiki = 0 unless $wiki and $wiki ne '-';
     }
-    else {
-	$registry = 0;
-	$registry_id = 0;
-    }
+    else {die "Can't find author info for $author!\n"}
     
     if    ($sex =~ /M/i) {$eltec_sex = 'M'}
     elsif ($sex =~ /Ž/i) {$eltec_sex = 'F'}
@@ -74,7 +72,7 @@ while (<IDX>) {
     
     ## Note that $period, $words is computed by the conversion scripts
     $meta{$signature} = join "\t", ($signature, $url, $title, $label, 
-				 $author, $eltec_sex, $birth, $death, $registry, $registry_id,
+				 $author, $eltec_sex, $birth, $death, $registry, $registry_id, $wiki,
 				 $digitised, $published, $eltec_period, $eltec_canon, $reprints);
 }
 close IDX;
@@ -85,7 +83,7 @@ $_ = <>;
 
 ##Note that reprints is not used, as it is not clear where to put this info!
 my ($signature, $url, $title, $label, 
-    $author, $eltec_sex, $birth, $death, $registry, $registry_id,
+    $author, $eltec_sex, $birth, $death, $registry, $registry_id, $wiki,
     $digitised, $published, $eltec_period, $eltec_canon, $reprints) =
     split "\t", $meta{$doc_id};
 die unless $doc_id eq $signature;
@@ -140,6 +138,13 @@ if ($registry) {
 }
 else {
     print STDERR "WARN: $doc_id author $author has no VIAF/CONOR\n"
+}
+
+if ($wiki) {
+    s|<author>|<author ref="$wiki">|
+}
+else {
+    print STDERR "WARN: $doc_id author $author has no WIKI\n"
 }
 
 #Calculate and insert number of words

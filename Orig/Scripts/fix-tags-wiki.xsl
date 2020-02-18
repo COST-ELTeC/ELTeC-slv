@@ -22,6 +22,7 @@
     <xsl:processing-instruction name="xml-model">
       href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
+    <xsl:text>&#10;</xsl:text>
     <xsl:variable name="pass1">
       <xsl:apply-templates/>
     </xsl:variable>
