@@ -71,7 +71,9 @@
    </teiHeader>
    <text n="SLV10005">
       <body>
-         <div type="chapter">
+        <div type="collection">
+          <head>Prva knjiga</head>
+          <div type="chapter">
             <head>Prvo poglavje</head>
             <p n="SLV10005.1">Od vzhoda, severa in zapada so se zgrinjali vojščaki. Dan na dan so se vračali na znojnih konjičih sli v gradišče in naznanjali starosti Svarunu, da so dobro opravili. Potem so posedali po dvorišču in polegali krog ognjev. Hlapci so jim rezali kose pečenih koštrunov z ražnja; Ljubinica, staroste Svaruna lepa hči, jim je točila medu in obdarovala vsakega s kožuščkom iz bele jagnječevine. Sin Iztok pa je za slehernim poslancem odjezdil iz gradišča in hitel prihajajočim vojščakom naproti.</p>
             <p n="SLV10005.2">»Svetovit te je navdahnil, starešina, vile so vas pospremile, hrabri vojščaki, da ste pregazili močvirja, da ste preplezali gorska sedla in prišli do gradišča staroste – mojega očeta Svaruna, ki vas zahvaljuje in pozdravlja!«</p>
@@ -2396,7 +2398,10 @@
             <p n="SLV10005.2246">Radovanu je zdrknila čaša iz roke in se razbila na mozaiku. Zakričal je in se sesedel. Epafrodit pa se je stresel v mrzlici, stisnil krčevito ustnice in bruhnil kletev na despojno:</p>
             <p n="SLV10005.2247">»Zmagala si, kača, prekleta ...«</p>
          </div>
-         <div type="chapter">
+	</div>
+        <div type="collection">
+          <head>Druga knjiga</head>
+          <div type="chapter">
             <head>Prvo poglavje</head>
             <p n="SLV10005.2248">Nad Bizancem je noč. Zvezde na gosto, nebo blizu. S trgov so odšli zadnji igralci. Hladen mir povsod. Le iz tabern ob Zlatem rogu blizu Kampa še doni krik in petje, strune in bobenčki. Toda Kamp je daleč, ob Zlatem rogu je pusto. Patricijev po zlatih palačah ne moti hrup pijanih vojakov in proletarcev. Vsa okna spe.</p>
             <p n="SLV10005.2249">V carski palači pa bedi veliko okno. Železni Upravda ne pozna pokoja.</p>
@@ -4936,6 +4941,7 @@
             <p n="SLV10005.4711">Irena je rodila sedem dečkov, vrlih sokolov, Iztokov duh pa je rodil tisoče, ki so se vojskovali z Bizantinci, prehodili Ilirijo, dospeli v Helado do Epafroditovega groba in potrkali na vrata samega Bizanca.</p>
             <p n="SLV10005.4712">Huni so iskali pri njih zavetja in gostoljubja, obrski kakan je odpovedal zvezo Bizancu in prosil prijateljstva Slovenov in Antov, ki so napolnjeni z Iztokovim duhom živeli v bratski slogi in uživali slavo pod svobodnim soncem.</p>
          </div>
-      </body>
+       </div>
+     </body>
    </text>
 </TEI>
