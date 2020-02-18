@@ -1,5 +1,5 @@
 <!-- Extract journal edition from eZISS -->
-<!-- For now ignore header -->
+<!-- Insert header from this script -->
 <xsl:stylesheet version="2.0"
 		xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 		xmlns:xs="http://www.w3.org/2001/XMLSchema" 
@@ -12,6 +12,9 @@
   <xsl:output indent="yes"/>
   <xsl:strip-space elements="tei:*"/>
 
+  <xsl:variable name="today">2020-02-18</xsl:variable>
+  <xsl:variable name="id">SLV30001</xsl:variable>
+
   <xsl:template match="/">
     <xsl:processing-instruction name="xml-model">
       href="../../Schemas/eltec-1.rng" type="application/xml"
@@ -20,13 +23,16 @@
     <xsl:processing-instruction name="xml-model">
       href="../../Schemas/eltec-1.rng" type="application/xml"
       schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
-    <xsl:text>&#10;</xsl:text>
+      <xsl:text>&#10;</xsl:text>
     <xsl:apply-templates/>
   </xsl:template>
 
   <xsl:template match="tei:TEI">
-    <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV30001">
-      <xsl:apply-templates/>
+    <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="{$id}">
+      <xsl:variable name="pass1">
+	<xsl:apply-templates/>
+      </xsl:variable>
+      <xsl:apply-templates mode="pass2" select="$pass1"/>
     </TEI>
   </xsl:template>
   
@@ -61,7 +67,9 @@
          <publicationStmt xml:lang="en">
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
-            <date>2020-02-09</date>
+            <date>
+	      <xsl:value-of select="$today"/>
+	    </date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -95,7 +103,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc xml:lang="en">
-         <change when="2020-02-10">Tomaž Erjavec: converted to ELTeC</change>
+         <change when="{$today}">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
   </xsl:template>
@@ -111,7 +119,7 @@
       <xsl:apply-templates select=".//tei:div[@type='section']"/>
     </xsl:copy>
   </xsl:template>
-  
+
   <xsl:template match="tei:div">
     <div type="chapter">
       <xsl:apply-templates/>
@@ -180,14 +188,59 @@
   </xsl:template>
 
   <!-- Copy everything else -->
-  <xsl:template match="* | @* | processing-instruction()">
-    <xsl:message>WARN: strange <xsl:value-of select="name()"/></xsl:message>
+  <xsl:template match="*">
+    <xsl:if test="ancestor::tei:body">
+      <xsl:message>WARN: strange <xsl:value-of select="name()"/>: <xsl:value-of select="."/></xsl:message>
+    </xsl:if>
     <xsl:copy>
       <xsl:apply-templates select="* | @* | processing-instruction() | comment() | text()"/>
     </xsl:copy>
+  </xsl:template>
+  <xsl:template match="@* | processing-instruction()">
+    <xsl:copy/>
   </xsl:template>
     
   <xsl:template match="text()">
     <xsl:value-of select="."/>
   </xsl:template>
+
+  <xsl:template mode="pass2" match="tei:text">
+    <xsl:copy>
+      <xsl:attribute name="n" select="$id"/>
+      <xsl:apply-templates mode="pass2"/>
+    </xsl:copy>
+  </xsl:template>
+  <!-- We have a funny (last) section which we merge into previous one -->
+  <xsl:template mode="pass2" match="tei:div[tei:head='***']"/>
+  <xsl:template mode="pass2" match="tei:head[.='***']">
+    <milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+  </xsl:template>
+  <xsl:template mode="pass2" match="tei:div[following-sibling::tei:div[1][tei:head='***']]">
+    <xsl:copy>
+      <xsl:attribute name="n" select="$id"/>
+      <xsl:apply-templates mode="pass2"/>
+      <xsl:apply-templates mode="pass2" select="following-sibling::tei:div[1]/tei:*"/>
+    </xsl:copy>
+  </xsl:template>
+  
+  <xsl:template mode="pass2" match="tei:body//tei:p">
+    <xsl:copy>
+      <xsl:attribute name="n">
+	<xsl:value-of select="$id"/>
+	<xsl:text>.</xsl:text>
+	<xsl:number level="any" from="tei:text"/>
+      </xsl:attribute>
+      <xsl:apply-templates mode="pass2"/>
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template mode="pass2" match="*">
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <xsl:apply-templates mode="pass2"/>
+    </xsl:copy>
+  </xsl:template>
+  <xsl:template mode="pass2" match="text()">
+    <xsl:value-of select="."/>
+  </xsl:template>
+
 </xsl:stylesheet>
