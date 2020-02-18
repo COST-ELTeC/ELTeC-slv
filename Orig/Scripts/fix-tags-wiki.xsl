@@ -17,11 +17,11 @@
   <xsl:template match="/">
     <xsl:processing-instruction name="xml-model">
       href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
+            schematypens="http://relaxng.org/ns/structure/1.0"</xsl:processing-instruction>
     <xsl:text>&#10;</xsl:text>
     <xsl:processing-instruction name="xml-model">
       href="../../Schemas/eltec-1.rng" type="application/xml"
-      schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
+            schematypens="http://purl.oclc.org/dsdl/schematron"</xsl:processing-instruction>
     <xsl:variable name="pass1">
       <xsl:apply-templates/>
     </xsl:variable>
@@ -290,19 +290,28 @@
     <xsl:variable name="text">
       <xsl:apply-templates/>
     </xsl:variable>
-    <!-- Don't output empty paragraphs -->
-    <xsl:if test="normalize-space($text)">
-      <p>
-	<xsl:choose>
-	  <xsl:when test="tei:l">
-	    <xsl:apply-templates/>
-	  </xsl:when>
-	  <xsl:otherwise>
-	    <xsl:value-of select="normalize-space($text)"/>
-	  </xsl:otherwise>
-	</xsl:choose>
-      </p>
-    </xsl:if>
+    <xsl:choose>
+      <xsl:when test="not(normalize-space($text))"/>
+      <xsl:when test="matches($text, '^[ -]+$')">
+	<milestone type="subChapter" rend="dashes" unit="dash"/>
+      </xsl:when>
+      <xsl:when test="matches($text, '^\*$')">
+	<milestone type="subChapter" rend="asterisk" unit="asterisk"/>
+      </xsl:when>
+      <xsl:when test="matches($text, '^[ *]+$')">
+	<milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+      </xsl:when>
+      <xsl:when test="tei:l">
+	<p>
+	  <xsl:apply-templates/>
+	</p>
+      </xsl:when>
+      <xsl:otherwise>
+	<p>
+	  <xsl:value-of select="normalize-space($text)"/>
+	</p>
+      </xsl:otherwise>
+    </xsl:choose>
   </xsl:template>
   
   <!-- In Wiki SLV10030 we find a row of dashes in a list -->

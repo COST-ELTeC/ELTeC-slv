@@ -2,8 +2,7 @@
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10018">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10018">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,7 +32,7 @@
          <publicationStmt xml:lang="en">
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
-            <date>2020-02-10</date>
+            <date>2020-02-18</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -67,7 +66,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc xml:lang="en">
-         <change when="2020-02-10">Tomaž Erjavec: converted to ELTeC</change>
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV10018">
@@ -3568,60 +3567,60 @@
             <p n="SLV10018.3345">Drugo jutro se je že peljal preko Majevice-planine. Kako vzorno in idilno si je mislil urediti svoj delokrog, ko je lansko poletje hodil k drvarjem! Koliko neporabljene sile, nevkovane razpenjavosti kipi v njem in vse je hotel položiti na oltar bednih ljudi izmučene Bosne.</p>
             <p n="SLV10018.3346">Mučil se je kakor riba v plitvi vodi. Izgnali so ga, ker je nosil svoje srce odkrito na dlani in je zahteval pravico za hlapce in sužnike, bežati mora, ker je govoril resnico. Kakšno razočaranje je doživel! V temi mračnega dne je ležalo ravno Posprečje, je stala Konj-planina, ko se je z vrhov poslednjikrat ozrl nazaj.</p>
             <p n="SLV10018.3347">S podjetnim duhom, z velikim hrepenenjem in vdano ljubeznijo se je pripeljal v Belgrad. Tu je pri Bajićevih ostal do srede poletja. Sanje in resničnost, oboje se je spojilo Danici v mogočnem valu. Sreča ji je podala obe roki. Ni se mogla premagovati pred mladim, krasnim človekom. Mnogokrat so ji kipele solze ginjenosti, a njeno oko se je smejalo. Prve dni avgusta so pozvali Vilarja v Macedonijo k gradbi železnic. Drugo pomlad je prišel po Danico. In šla je za njim, kakor gre človek v temni noči za prižgano plamenico.</p>
-            <p n="SLV10018.3348">* * *</p>
-            <p n="SLV10018.3349">Nekega toplega dopoldne sredi aprila sta kolovratili dve muslimanki po cesti iz Zvornika ob Drini. Počasno sta se vlekli, nizko sklonjenih glav, kakor bi se sramovali vojakov, ki so se vežbali na prostoru, ležečem ob reki. Prišedši na mesto, kjer je bila Drina na obeh straneh dostopna, sta vrgli s sebe žensko obleko in dva brhka Bošnjaka sta skočila v hladno vodo. Vojaki so ostrmeli; častnik je ukazal streljati s slepimi naboji, ker ostrih ni bilo pri rokah. Beguna sta srečno preplavala na oni breg. Bila sta Jovica in Vazko. Dospela sta še pred Vilarjem v srbsko prestolnico. Vazko se je šel učit čevljarstva, Jovica je sprejel učiteljsko službo. Dvajset let je uciteljeval v Srbiji. Ko se je v začetku našega stoletja uprla Macedonija turškemu gospostvu, se je tudi v njem prebudila stara vstaška kri. Gnalo ga je tja, kjer so podjarmljeni in ponižani ljudje lomili verige in okove in se dvigali s prvobitno, nikdar prej zaslišano silo na zatiralce. "Plaziti se po zemlji kakor senca, ki izgine, kadar se poljubi oblakom in solncu, takšnega življenja sem se naveličal," je pisal Vilarju, ki, je bil takrat zaposlen pri gradbi švicarskih železnic. Šel je v kosovski vilajet, kjer je leto dni poučeval na srbski šoli. Potem je zamenil knjige in pero s handžarjem in puško ter stopil v srbski vstaški komite. Bil je že osivel mož, ko se je jeseni 1912. l. pridružil s svojo četo srbski vojski, prodirajoči na Kosovo.</p>
+            <milestone type="subChapter" rend="asteriskes" unit="asterisk"/>
+            <p n="SLV10018.3348">Nekega toplega dopoldne sredi aprila sta kolovratili dve muslimanki po cesti iz Zvornika ob Drini. Počasno sta se vlekli, nizko sklonjenih glav, kakor bi se sramovali vojakov, ki so se vežbali na prostoru, ležečem ob reki. Prišedši na mesto, kjer je bila Drina na obeh straneh dostopna, sta vrgli s sebe žensko obleko in dva brhka Bošnjaka sta skočila v hladno vodo. Vojaki so ostrmeli; častnik je ukazal streljati s slepimi naboji, ker ostrih ni bilo pri rokah. Beguna sta srečno preplavala na oni breg. Bila sta Jovica in Vazko. Dospela sta še pred Vilarjem v srbsko prestolnico. Vazko se je šel učit čevljarstva, Jovica je sprejel učiteljsko službo. Dvajset let je uciteljeval v Srbiji. Ko se je v začetku našega stoletja uprla Macedonija turškemu gospostvu, se je tudi v njem prebudila stara vstaška kri. Gnalo ga je tja, kjer so podjarmljeni in ponižani ljudje lomili verige in okove in se dvigali s prvobitno, nikdar prej zaslišano silo na zatiralce. "Plaziti se po zemlji kakor senca, ki izgine, kadar se poljubi oblakom in solncu, takšnega življenja sem se naveličal," je pisal Vilarju, ki, je bil takrat zaposlen pri gradbi švicarskih železnic. Šel je v kosovski vilajet, kjer je leto dni poučeval na srbski šoli. Potem je zamenil knjige in pero s handžarjem in puško ter stopil v srbski vstaški komite. Bil je že osivel mož, ko se je jeseni 1912. l. pridružil s svojo četo srbski vojski, prodirajoči na Kosovo.</p>
          </div>
          <div type="chapter">
             <head>Slovarček nekaterih manj znanih besed</head>
-            <p n="SLV10018.3350">*''asker'' vojak</p>
-            <p n="SLV10018.3351">*''asura'' rogoznica, preproga iz trstja</p>
-            <p n="SLV10018.3352">*''asikovati'' zaljubljen biti, vasovati</p>
-            <p n="SLV10018.3353">*''atrocité'' (množ.) ''-és'' grozovitost, okrutnost</p>
-            <p n="SLV10018.3354">*''borati'' Boga ti!</p>
-            <p n="SLV10018.3355">*''buljukbaša'' poveljnik buljuka (čete), kapetan, stotnik</p>
-            <p n="SLV10018.3356">*''bunar'' vodnjak</p>
-            <p n="SLV10018.3357">*''čajo'' (''čaus'') poveljnik manjše vojaške čete; starešina; norec na svatbi</p>
-            <p n="SLV10018.3358">*''čakšire'' hlače turškega kroja</p>
-            <p n="SLV10018.3359">*''čaršija'' trg</p>
-            <p n="SLV10018.3360">*''čoban'' pastir</p>
-            <p n="SLV10018.3361">*''dimlija'' žensko krilo v podobi širokih hlač, ki se zavezujejo ob gležnjih</p>
-            <p n="SLV10018.3362">*''dućan'' trgovina, štacuna</p>
-            <p n="SLV10018.3363">*''findjan'' čašica za kavo</p>
-            <p n="SLV10018.3364">*''ganef'' lopov (v žid. nemškem žargonu)</p>
-            <p n="SLV10018.3365">*''hajati, hajem'' marati za kaj</p>
-            <p n="SLV10018.3366">*''harač'' davek od glave</p>
-            <p n="SLV10018.3367">*''hodža'' turški duhovnik</p>
-            <p n="SLV10018.3368">*''iguman'' samostanski predstojnik</p>
-            <p n="SLV10018.3369">*''jašmak'' oblični robec, koprena muslimanskega odraslega ženstva</p>
-            <p n="SLV10018.3370">*''jerbo'' ker, kajti, zakaj</p>
-            <p n="SLV10018.3371">*''jok'' ne (nikalnica)</p>
-            <p n="SLV10018.3372">*''kaduna'' turška gospa</p>
-            <p n="SLV10018.3373">*''kajma'' turški papirnat denar</p>
-            <p n="SLV10018.3374">*''kaludjer'' menih</p>
-            <p n="SLV10018.3375">*''konak'' vladno poslopje; prenočišče</p>
-            <p n="SLV10018.3376">*''mahala'' četrt mesta, predmestje</p>
-            <p n="SLV10018.3377">*''manastir'' samostan</p>
-            <p n="SLV10018.3378">*''mašala'' (arabski: ma-ša-allah!) Dobro! Krasno! Živio!</p>
-            <p n="SLV10018.3379">*''merdžan'' korale</p>
-            <p n="SLV10018.3380">*''momak'' mladenič</p>
-            <p n="SLV10018.3381">*''muktar'' župan turške vasi; v kristjanski vasi županuje knez</p>
-            <p n="SLV10018.3382">*''oka'' utež približno 11/2 kg; tudi večja votla mera</p>
-            <p n="SLV10018.3383">*''oteti'', otmem vzeti, ugrabiti</p>
-            <p n="SLV10018.3384">*''para'' denar</p>
-            <p n="SLV10018.3385">*''pilav'' riž, pražen v jagnjetovi masti; svatovanje</p>
-            <p n="SLV10018.3386">*''plandovati'' v senci počivati</p>
-            <p n="SLV10018.3387">*''prozor'' okno</p>
-            <p n="SLV10018.3388">*''psaltir'' knjiga psalmov</p>
-            <p n="SLV10018.3389">*''sitan, sitna, -no'' droben</p>
-            <p n="SLV10018.3390">*''šećerli-šerbet'' sladka hladilna pijača; ''šećer'' sladkor,</p>
-            <p n="SLV10018.3391">*''šerbet'' medica</p>
-            <p n="SLV10018.3392">*''tapija'' prilastilni list, posestna pola</p>
-            <p n="SLV10018.3393">*''teferic'' izlet na deželo</p>
-            <p n="SLV10018.3394">*''vakuf'' cerkveno premoženje</p>
-            <p n="SLV10018.3395">*''veštica'' čarovnica</p>
-            <p n="SLV10018.3396">*''Vlah'' Rumun (Karavlah); Srb (v porogljivem smislu)</p>
-            <p n="SLV10018.3397">*''zaptija'' orožnik</p>
-            <p n="SLV10018.3398">*''zulumćar'' nasilnik, okrutnež.</p>
+            <p n="SLV10018.3349">*''asker'' vojak</p>
+            <p n="SLV10018.3350">*''asura'' rogoznica, preproga iz trstja</p>
+            <p n="SLV10018.3351">*''asikovati'' zaljubljen biti, vasovati</p>
+            <p n="SLV10018.3352">*''atrocité'' (množ.) ''-és'' grozovitost, okrutnost</p>
+            <p n="SLV10018.3353">*''borati'' Boga ti!</p>
+            <p n="SLV10018.3354">*''buljukbaša'' poveljnik buljuka (čete), kapetan, stotnik</p>
+            <p n="SLV10018.3355">*''bunar'' vodnjak</p>
+            <p n="SLV10018.3356">*''čajo'' (''čaus'') poveljnik manjše vojaške čete; starešina; norec na svatbi</p>
+            <p n="SLV10018.3357">*''čakšire'' hlače turškega kroja</p>
+            <p n="SLV10018.3358">*''čaršija'' trg</p>
+            <p n="SLV10018.3359">*''čoban'' pastir</p>
+            <p n="SLV10018.3360">*''dimlija'' žensko krilo v podobi širokih hlač, ki se zavezujejo ob gležnjih</p>
+            <p n="SLV10018.3361">*''dućan'' trgovina, štacuna</p>
+            <p n="SLV10018.3362">*''findjan'' čašica za kavo</p>
+            <p n="SLV10018.3363">*''ganef'' lopov (v žid. nemškem žargonu)</p>
+            <p n="SLV10018.3364">*''hajati, hajem'' marati za kaj</p>
+            <p n="SLV10018.3365">*''harač'' davek od glave</p>
+            <p n="SLV10018.3366">*''hodža'' turški duhovnik</p>
+            <p n="SLV10018.3367">*''iguman'' samostanski predstojnik</p>
+            <p n="SLV10018.3368">*''jašmak'' oblični robec, koprena muslimanskega odraslega ženstva</p>
+            <p n="SLV10018.3369">*''jerbo'' ker, kajti, zakaj</p>
+            <p n="SLV10018.3370">*''jok'' ne (nikalnica)</p>
+            <p n="SLV10018.3371">*''kaduna'' turška gospa</p>
+            <p n="SLV10018.3372">*''kajma'' turški papirnat denar</p>
+            <p n="SLV10018.3373">*''kaludjer'' menih</p>
+            <p n="SLV10018.3374">*''konak'' vladno poslopje; prenočišče</p>
+            <p n="SLV10018.3375">*''mahala'' četrt mesta, predmestje</p>
+            <p n="SLV10018.3376">*''manastir'' samostan</p>
+            <p n="SLV10018.3377">*''mašala'' (arabski: ma-ša-allah!) Dobro! Krasno! Živio!</p>
+            <p n="SLV10018.3378">*''merdžan'' korale</p>
+            <p n="SLV10018.3379">*''momak'' mladenič</p>
+            <p n="SLV10018.3380">*''muktar'' župan turške vasi; v kristjanski vasi županuje knez</p>
+            <p n="SLV10018.3381">*''oka'' utež približno 11/2 kg; tudi večja votla mera</p>
+            <p n="SLV10018.3382">*''oteti'', otmem vzeti, ugrabiti</p>
+            <p n="SLV10018.3383">*''para'' denar</p>
+            <p n="SLV10018.3384">*''pilav'' riž, pražen v jagnjetovi masti; svatovanje</p>
+            <p n="SLV10018.3385">*''plandovati'' v senci počivati</p>
+            <p n="SLV10018.3386">*''prozor'' okno</p>
+            <p n="SLV10018.3387">*''psaltir'' knjiga psalmov</p>
+            <p n="SLV10018.3388">*''sitan, sitna, -no'' droben</p>
+            <p n="SLV10018.3389">*''šećerli-šerbet'' sladka hladilna pijača; ''šećer'' sladkor,</p>
+            <p n="SLV10018.3390">*''šerbet'' medica</p>
+            <p n="SLV10018.3391">*''tapija'' prilastilni list, posestna pola</p>
+            <p n="SLV10018.3392">*''teferic'' izlet na deželo</p>
+            <p n="SLV10018.3393">*''vakuf'' cerkveno premoženje</p>
+            <p n="SLV10018.3394">*''veštica'' čarovnica</p>
+            <p n="SLV10018.3395">*''Vlah'' Rumun (Karavlah); Srb (v porogljivem smislu)</p>
+            <p n="SLV10018.3396">*''zaptija'' orožnik</p>
+            <p n="SLV10018.3397">*''zulumćar'' nasilnik, okrutnež.</p>
          </div>
       </body>
    </text>

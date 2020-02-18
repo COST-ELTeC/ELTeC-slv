@@ -2,8 +2,7 @@
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
             schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml"
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10005">
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="SLV10005">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -33,7 +32,7 @@
          <publicationStmt xml:lang="en">
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
-            <date>2020-02-10</date>
+            <date>2020-02-18</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -67,13 +66,11 @@
          </textDesc>
       </profileDesc>
       <revisionDesc xml:lang="en">
-         <change when="2020-02-10">Tomaž Erjavec: converted to ELTeC</change>
+         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV10005">
-     <body>
-       <div type="group">
-         <head>Prva knjiga</head>
+      <body>
          <div type="chapter">
             <head>Prvo poglavje</head>
             <p n="SLV10005.1">Od vzhoda, severa in zapada so se zgrinjali vojščaki. Dan na dan so se vračali na znojnih konjičih sli v gradišče in naznanjali starosti Svarunu, da so dobro opravili. Potem so posedali po dvorišču in polegali krog ognjev. Hlapci so jim rezali kose pečenih koštrunov z ražnja; Ljubinica, staroste Svaruna lepa hči, jim je točila medu in obdarovala vsakega s kožuščkom iz bele jagnječevine. Sin Iztok pa je za slehernim poslancem odjezdil iz gradišča in hitel prihajajočim vojščakom naproti.</p>
@@ -2399,9 +2396,6 @@
             <p n="SLV10005.2246">Radovanu je zdrknila čaša iz roke in se razbila na mozaiku. Zakričal je in se sesedel. Epafrodit pa se je stresel v mrzlici, stisnil krčevito ustnice in bruhnil kletev na despojno:</p>
             <p n="SLV10005.2247">»Zmagala si, kača, prekleta ...«</p>
          </div>
-       </div>
-       <div type="group">
-         <head>Druga knjiga</head>
          <div type="chapter">
             <head>Prvo poglavje</head>
             <p n="SLV10005.2248">Nad Bizancem je noč. Zvezde na gosto, nebo blizu. S trgov so odšli zadnji igralci. Hladen mir povsod. Le iz tabern ob Zlatem rogu blizu Kampa še doni krik in petje, strune in bobenčki. Toda Kamp je daleč, ob Zlatem rogu je pusto. Patricijev po zlatih palačah ne moti hrup pijanih vojakov in proletarcev. Vsa okna spe.</p>
@@ -4942,7 +4936,6 @@
             <p n="SLV10005.4711">Irena je rodila sedem dečkov, vrlih sokolov, Iztokov duh pa je rodil tisoče, ki so se vojskovali z Bizantinci, prehodili Ilirijo, dospeli v Helado do Epafroditovega groba in potrkali na vrata samega Bizanca.</p>
             <p n="SLV10005.4712">Huni so iskali pri njih zavetja in gostoljubja, obrski kakan je odpovedal zvezo Bizancu in prosil prijateljstva Slovenov in Antov, ki so napolnjeni z Iztokovim duhom živeli v bratski slogi in uživali slavo pod svobodnim soncem.</p>
          </div>
-       </div>
       </body>
    </text>
 </TEI>
