@@ -8,7 +8,7 @@ test-anal:
 	./tei2conllu.pl ../Text/SLV30001.txt ../Anal
 tei:
 	ls -d ../Anal/*.conllu.ner | $P --jobs 6 \
-	bin/eltec-conllu2tei.pl '{}' '../../level1' '../../level2'
+	eltec-conllu2tei.pl '{}' '../../level1' '../../level2'
 	${j2} Master/*/*-ana.xml
 ner:
 	ls -d ../Anal/*.conllu | $P --jobs 20 \

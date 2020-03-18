@@ -46,7 +46,7 @@ foreach my $udFile (glob $in_conllu) {
 	unless -e $tei_in;
     $tei_out = "$out_dir";
     `mkdir $tei_out` unless -e $tei_out;
-    $tei_out .= "/$fname-ana.xml";
+    $tei_out .= "/$fname-L2.xml";
 
     $tmp_out = "$tempDir/$fname-ana.tmp";
     
