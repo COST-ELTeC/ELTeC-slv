@@ -1,23 +1,24 @@
 test-tei1:
 	rm -fr ../Test/*
 	eltec-conllu2tei.pl ../Anal/SLV00024.conllu.ner ../../level1 ../Test
-	${j2} ../Test/*-ana.xml
+	${j2} ../Test/*-L2.xml
 test-ner:
 	conllu2ner.pl ../Anal/SLV00024.conllu ../Anal
 test-anal:
 	./tei2conllu.pl ../Text/SLV30001.txt ../Anal
 tei:
-	ls -d ../Anal/*.conllu.ner | $P --jobs 6 \
+	ls -d ../Anal/*.conllu.ner | $P --jobs 8 \
 	eltec-conllu2tei.pl '{}' '../../level1' '../../level2'
 	${j2} Master/*/*-ana.xml
 ner:
 	ls -d ../Anal/*.conllu | $P --jobs 20 \
 	'conllu2ner.pl {} ../Anal'
-analysis:
+anal:
 	ls -d ../Text/*.txt | $P --jobs 2 \
 	'./tei2conllu.pl {} ../Anal '
 tei2text:
 	./eltec2text.pl ../../level1 ../Text
+
 milestones:
 	$s -xi -xsl:find-milestones.xsl ../../driver.tei
 elements:
