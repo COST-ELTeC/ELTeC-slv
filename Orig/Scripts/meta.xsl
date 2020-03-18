@@ -88,7 +88,7 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="tei:div | tei:text/tei:p | tei:s | tei:w | tei:pc">
+  <xsl:template match="tei:div | tei:text//tei:p  | tei:text//tei:note | tei:s | tei:w | tei:pc">
     <xsl:copy>
       <xsl:attribute name="xml:id">
 	<xsl:value-of select="ancestor::tei:TEI/@xml:id"/>
