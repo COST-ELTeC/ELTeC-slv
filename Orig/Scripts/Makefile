@@ -1,3 +1,23 @@
+test-tei1:
+	rm -fr ../Test/*
+	eltec-conllu2tei.pl ../Anal/SLV00024.conllu.ner ../../level1 ../Test
+	${j2} ../Test/*-ana.xml
+test-ner:
+	conllu2ner.pl ../Anal/SLV00024.conllu ../Anal
+test-anal:
+	./tei2conllu.pl ../Text/SLV30001.txt ../Anal
+tei:
+	ls -d ../Anal/*.conllu.ner | $P --jobs 6 \
+	bin/eltec-conllu2tei.pl '{}' '../../level1' '../../level2'
+	${j2} Master/*/*-ana.xml
+ner:
+	ls -d ../Anal/*.conllu | $P --jobs 20 \
+	'conllu2ner.pl {} ../Anal'
+analysis:
+	ls -d ../Text/*.txt | $P --jobs 2 \
+	'./tei2conllu.pl {} ../Anal '
+tei2text:
+	./eltec2text.pl ../../level1 ../Text
 milestones:
 	$s -xi -xsl:find-milestones.xsl ../../driver.tei
 elements:
@@ -9,20 +29,20 @@ explicits:
 
 test-eziss:
 	$s -xsl:prep_spoti.xsl ../eZISS/spoti-2019-10-15.xml > ../eZISS/spoti.xml
-	$j ../eZISS/spoti.xml
+	${j1} ../eZISS/spoti.xml
 test-wiki:
 	rm -f tmp/*
-	#add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV20001 < ../Wiki/SLV20001.md.xml > tmp/SLV20001.xml
+	#./add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV20001 < ../Wiki/SLV20001.md.xml > tmp/SLV20001.xml
 	#java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV20001.xml > tmp/SLV20001.eltec.xml
-	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV20001.md.xml' tmp
-	#wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
-	$j tmp/*.xml
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV20001.md.xml' tmp
+	#./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
+	${j1} tmp/*.xml
 
 test-imp:
 	rm -f tmp/*
-	add-meta-imp.pl ../slv-index.txt ../slv-authors.txt < ../IMP/WIKI00216-1881.xml > tmp/WIKI00216.xml
+	./add-meta-imp.pl ../slv-index.txt ../slv-authors.txt < ../IMP/WIKI00216-1881.xml > tmp/WIKI00216.xml
 	$s -xsl:fix-tags-imp.xsl tmp/WIKI00216.xml > tmp/WIKI00216.eltec.xml
-	$j tmp/WIKI00216.eltec.xml
+	${j1} tmp/WIKI00216.eltec.xml
 
 all:	wiki eziss val
 xall:	clean imp wiki eziss val
@@ -43,22 +63,20 @@ xxgrab-eziss:
 	wget http://nl.ijs.si/e-zrc/izidor/tei/tei2.dtd
 	mv spoti-2007-10-08.xml ../eZISS/
 fix-wiki:
-	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt \
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt \
 	'../Wiki/SLV20001.md.xml' ../../level1
 convert-wiki:
-	wiki2eltec.pl ../slv-index.txt ../slv-authors.txt \
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt \
 	'../Wiki/*.md.xml' ../../level1
 grab-wiki:
-	grab-wiki.pl < ../slv-index.txt > grab-wiki.sh
+	./grab-wiki.pl < ../slv-index.txt > grab-wiki.sh
 	chmod +x grab-wiki.sh
 	mkdir -p ../Wiki
 	./grab-wiki.sh
-fix-imp:
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/WIKI00216-1881.xml' ../../level1
 convert-imp:
-	imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/*.xml' ../../level1
+	./imp2eltec.pl ../slv-index.txt ../slv-authors.txt '../IMP/*.xml' ../../level1
 grab-imp:
-	grab-imp.pl < ../slv-index.txt > grab-imp.sh
+	./grab-imp.pl < ../slv-index.txt > grab-imp.sh
 	mkdir -p ../IMP
 	rm -f ../IMP/* 
 	chmod +x grab-imp.sh
@@ -67,7 +85,9 @@ clean:
 	rm -f ../../level1/SLV*.xml
 #Do not use anymore, slv-authors.txt is now manually edited
 xxx-viaf:
-	get_viaf.pl < ../slv-index.txt > ../slv-authors.txt
-#j = java -jar /usr/local/bin/jing.jar https://distantreading.github.io/Schema/eltec-1.rng
-j = java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-1.rng
+	./get_viaf.pl < ../slv-index.txt > ../slv-authors.txt
+#j1 = java -jar /usr/local/bin/jing.jar https://distantreading.github.io/Schema/eltec-1.rng
+j1 = java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-1.rng
+j2 = java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-2.rng
 s = java -jar /usr/local/bin/saxon9he.jar
+P = parallel --gnu --halt 2
