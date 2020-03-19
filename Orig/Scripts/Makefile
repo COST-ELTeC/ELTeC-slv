@@ -1,3 +1,5 @@
+meta:
+	$s -xi -xsl:eltec2meta.xsl ../driver-L2.tei > ../slv-meta.tsv
 adf:
 	${j1} SLV00048.xml
 
