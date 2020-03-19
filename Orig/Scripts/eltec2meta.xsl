@@ -18,8 +18,8 @@
   <xsl:template match="text()"/>
 
   <xsl:template match="tei:teiCorpus">
-    <xsl:text>ID&#9;Name&#9;VIAF&#9;Sex&#9;Birth&#9;Death&#9;Title&#9;Subtitle&#9;</xsl:text>
-    <xsl:text>Printed&#9;Digitised&#9;Time&#9;Size&#9;Canon&#9;Words&#9;Tokens&#10;</xsl:text>
+    <xsl:text>ID&#9;Name&#9;VIAF&#9;Gender&#9;Birth&#9;Death&#9;Title&#9;Subtitle&#9;</xsl:text>
+    <xsl:text>Printed&#9;Digitised&#9;Period&#9;Size&#9;Canon&#9;Words&#9;Tokens&#10;</xsl:text>
     <xsl:apply-templates select="tei:TEI"/>
   </xsl:template>
   

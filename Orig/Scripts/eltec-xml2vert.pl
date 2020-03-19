@@ -10,11 +10,24 @@ use utf8;
 binmode STDERR, 'utf8';
 binmode STDIN, 'utf8';
 binmode STDOUT, 'utf8';
+
+# Remember PoS code to name and slv2eng and eng2slv MSD mapping
+my %label;
+my %msd_sl;
+my %msd_en;
 while (<DATA>) {
     chomp;
-    my ($sl,$en)=split;
-    $sl{$en}=$sl;
+    if (s/\*//) {
+	my ($code, $label) = split;
+	$label{$code} = $label;
+    }
+    else {
+	my ($msd_sl,$msd_en)=split;
+	$msd_sl{$msd_en}=$msd_sl;
+	$msd_en{$msd_sl}=$msd_en;
+    }
 }
+
 while (<>) {
     chomp;
     #Get rid of namespaces
@@ -46,6 +59,20 @@ while (<>) {
     }
 }
 __DATA__
+N*	Noun
+V*	Verb
+A*	Adjective
+R*	Adverb	
+P*	Pronoun	
+M*	Numeral	
+S*	Adposition
+C*	Conjunction
+Q*	Particle
+I*	Interjection
+Y*	Abbreviation
+X*	Residual
+Z*	Punctuation
+
 Gp-pdm-d	X
 Gp-ppdzd	X
 Gp-ppdzn	X

@@ -15,7 +15,8 @@
   <xsl:variable name="today-slv" select="format-date(current-date(), '[D1]. [M1]. [Y]')"/>
 
   <xsl:param name="change">
-    <change when="{$today-iso}">Tomaž Erjavec: Automatic annotation with Nikola's CLASSLA tool-chain.</change>
+    <change when="{$today-iso}">Tomaž Erjavec: Annotation with Nikola's CLASSLA tool-chain &amp;
+    TEI editing.</change>
   </xsl:param>
 
   <xsl:template match="tei:publicationStmt/tei:date">

@@ -44,7 +44,7 @@
 	</xsl:choose>
       </xsl:attribute>
       
-      <xsl:attribute name="url-text">
+      <xsl:attribute name="url_text">
 	<xsl:choose>
 	  <xsl:when test="$digitalSource/tei:idno[@type='wikilink']">
 	    <xsl:value-of select="$digitalSource/tei:idno[@type='wikilink']"/>
@@ -55,7 +55,7 @@
 	  <xsl:otherwise>-</xsl:otherwise>
 	</xsl:choose>
       </xsl:attribute>
-      <xsl:attribute name="url-author">
+      <xsl:attribute name="url_author">
 	<xsl:choose>
 	  <xsl:when test="$printSource/tei:author[1][@ref]">
 	    <xsl:value-of select="$printSource/tei:author[1]/@ref"/>

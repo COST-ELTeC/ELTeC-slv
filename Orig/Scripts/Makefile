@@ -1,5 +1,7 @@
 adf:
 	${j1} SLV00048.xml
+test-cqp3:
+	joinvert.pl ../slv-meta.tsv ../Test/ ELTeC-slv.vert
 test-cqp1:
 	$s -xsl:eltec2vert.xsl ../Test/SLV10031-L2.xml | eltec-xml2vert.pl > ../CQP/SLV10031-L2.vert
 test-tei1:
@@ -46,8 +48,7 @@ cqp:
 	rm -f ../CQP/*.vert
 	ls -d ../Test/*-L2.xml | $P --jobs 5 \
 	'$s -xsl:eltec2vert.xsl {} | eltec-xml2vert.pl > ../CQP/{/.}.vert'
-	#joinvert.pl ../slv-meta.tsv '../Test/SLV*-L2.vert' ../Test/ELTeC-slv.vert
-	cat ../Test/SLV*-L2.vert > ../Test/ELTeC-slv.vert
+	joinvert.pl ../slv-meta.tsv ../Test/ ../Test/ELTeC-slv.vert
 	gzip -f ../Test/ELTeC-slv.vert
 meta:
 	$s -xi -xsl:eltec2meta.xsl ../driver-L2.tei > ../slv-meta.tsv
