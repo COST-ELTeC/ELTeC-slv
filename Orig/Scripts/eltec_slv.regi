@@ -1,0 +1,138 @@
+# MAINTAINER "CLARIN.SI <info@clarin.si>"                     #manatee@clarin
+MAINTAINER "Tomaž Erjavec <tomaz.erjavec@ijs.si>"             #manatee@ijs
+# MAINTAINER "Bojan Klemenc <bojan.klemenc@fri.uni-lj.si>"    #manatee@cjvt
+
+NAME "ELTeC-slv (100 romanov)"
+INFO "100 romanov (1836-1921) COST ELTeC-slv v0.1 // 100 novels (1836-1921) COST ELTeC-slv v0.1"
+ENCODING "UTF-8"
+LOCALE "sl_SI.UTF-8"
+DEFAULTLOCALE "sl_SI.UTF-8"
+LANGUAGE "Slovenian"
+INFOHREF "https://github.com/COST-ELTeC/ELTeC-slv"
+TAGSETDOC "https://universaldependencies.org/sl/index.html"
+
+# PATH "/data/manatee-data/eltec_slv/"                       #manatee@clarin
+PATH "/project/corpora/noske/data/eltec_slv/"                #manatee@ijs
+# PATH "/var/lib/ske/manatee/eltec_slv/"                     #manatee@cjvt
+
+# VERTICAL "| zcat /data/vert/eltec_slv.vert.gz"  #manatee@clarin
+VERTICAL "| zcat /project/cqp/vert/eltec_slv.vert.gz"        #manatee@ijs
+# VERTICAL "| zcat /var/lib/ske/vertical/eltec_slv.vert.gz"  #manatee@cjvt
+
+# WSDEF "/var/lib/ske/wsdef/ws-fidaplus-SSJ-15-UTF8-JOS-tagset.txt"     #manatee@cjvt
+# GDEXDEFAULTCONF "/var/lib/ske/gdex/Slovene-samostalnik-avt-v2"        #manatee@cjvt
+# TERMDEF "/var/lib/ske/wsdef/slovenian-mte-terms-1.3.wsdef.m4"         #manatee@cjvt
+# TERMBASE "/var/lib/ske/manatee/kas_dr_1/terms-ws"                     #manatee@cjvt
+
+# WSPOSLIST ",samostalnik,-s,glagol,-g,pridevnik,-p,prislov,-r"         #manatee@cjvt
+# WPOSLIST ",samostalnik,S.*,glagol,G.*,pridevnik,P.*,prislov,R.*,zaimek,Z.*,predlog,D.*,veznik,V.*,členek,L.*,medmet,M.*,števnik,K.*,okrajšava,O.*,neuvrščeno,N.*,ločilo,U.*"
+# LPOSLIST ",samostalnik,-s,glagol,-g,pridevnik,-p,prislov,-r,zaimek,-z,predlog,-d,veznik,-v,členek,-l,medmet,-m,števnik,-k,okrajšava,-o,neuvrščeno,-n,ločilo,-u"
+
+DOCSTRUCTURE text
+MAXDETAIL 1000
+
+SUBCORPATTRS "text.topic|text.type|text.target,text.title,text.post"
+SHORTREF "=text.topic,=text.type,=text.target"
+FULLREF "text.topic,text.type,text.target,text.title,text.post,text.url,text.timestamp"
+
+STRUCTURE text {
+    ATTRIBUTE id {
+      TYPE "UNIQUE"
+    }    
+    ATTRIBUTE author
+    ATTRIBUTE title
+    ATTRIBUTE date
+    ATTRIBUTE authorGender
+    ATTRIBUTE size
+    ATTRIBUTE canonicity
+    ATTRIBUTE timeSlot
+    ATTRIBUTE url_text
+    ATTRIBUTE url_author
+    ATTRIBUTE wordcount
+}
+STRUCTURE group {
+    ATTRIBUTE id {
+      TYPE "UNIQUE"
+    }
+}
+STRUCTURE group1 {
+    ATTRIBUTE id {
+      TYPE "UNIQUE"
+    }
+}
+STRUCTURE liminal {
+    ATTRIBUTE id {
+      TYPE "UNIQUE"
+    }
+}
+STRUCTURE chapter {
+    ATTRIBUTE id {
+      TYPE "UNIQUE"
+    }
+}
+STRUCTURE notes {
+    ATTRIBUTE id {
+      TYPE "UNIQUE"
+    }
+}
+STRUCTURE p {
+    ATTRIBUTE id {
+      TYPE "UNIQUE"
+    }
+}
+STRUCTURE note {
+    ATTRIBUTE id {
+      TYPE "UNIQUE"
+    }
+}
+STRUCTURE name {
+    ATTRIBUTE id {
+      TYPE "UNIQUE"
+    }
+}
+STRUCTURE s {
+    ATTRIBUTE id {
+      TYPE "UNIQUE"
+    }
+}
+
+###Positional attributes
+
+ATTRIBUTE word
+ATTRIBUTE lc {
+    LABEL   "Word (lowercase)"
+    DYNAMIC  utf8lowercase
+    DYNLIB   internal
+    ARG1     "C"
+    FUNTYPE  s
+    FROMATTR word
+    DYNTYPE  index
+    TRANSQUERY      yes
+}
+ATTRIBUTE lemma {
+    LABEL     "Lemma"
+}
+ATTRIBUTE lemma_lc {
+    LABEL       "Lemma (lowercase)"
+    DYNAMIC     "utf8lowercase"
+    DYNLIB      "internal"
+    ARG1        "C"
+    FUNTYPE     "s"
+    FROMATTR    "lemma"
+    DYNTYPE     "freq"
+    TRANSQUERY  "yes"
+}
+ATTRIBUTE tag_en {
+    LABEL "MSD"
+}
+ATTRIBUTE tag_en {
+    LABEL "MSD"
+}
+ATTRIBUTE ud_pos {
+    LABEL "UD part-of-speech"
+}
+ATTRIBUTE ud_feats {
+    LABEL "UD features"
+    MULTIVALUE yes
+    MULTISEP " "
+}
