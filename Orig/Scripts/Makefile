@@ -1,6 +1,23 @@
+adf:
+	${j1} SLV00048.xml
+
+test-cqp1:
+	$s -xsl:eltec2vert.xsl ../Test/SLV00187-L2.xml | eltec-xml2vert.pl > ../Test/SLV00187-L2.vert
+test-cqp2:
+	rm -f ../Test/*.vert
+	ls -d ../Test/*-L2.xml | $P --jobs 5 \
+	'$s -xsl:eltec2vert.xsl {} | eltec-xml2vert.pl > {.}.vert'
+	#joinvert.pl '../Test/SLV*-L2.vert' ../Test/ELTeC-SLV.vert
+cqp:
+	ls -d Master/*/*.xml | $P --jobs 5 \
+	'bin/parla-tei2vert.pl {} CQP'
+	bin/joinvert.pl 'CQP/*/*.vert' CQP/siparl20.vert
+	rm -f CQP/siparl20.vert.gz
+	gzip CQP/siparl20.vert
+
 test-tei1:
-	#eltec-conllu2tei.pl ../Anal/SLV10005.conllu.ner ../../level1 ../Test
-	${j2} ../Test/*-L2.xml
+	eltec-conllu2tei.pl ../Anal/SLV30001.conllu.ner ../../level1 ../Test
+	${j2} ../Test/SLV30001-L2.xml
 test-ner:
 	conllu2ner.pl ../Anal/SLV00024.conllu ../Anal
 test-anal:
@@ -19,9 +36,9 @@ test-eziss:
 	${j1} ../eZISS/spoti.xml
 test-wiki:
 	rm -f tmp/*
-	#./add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV20001 < ../Wiki/SLV20001.md.xml > tmp/SLV20001.xml
-	#java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV20001.xml > tmp/SLV20001.eltec.xml
-	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV20001.md.xml' tmp
+	./add-meta-wiki.pl ../slv-index.txt ../slv-authors.txt SLV20001 < ../Wiki/SLV20001.md.xml > tmp/SLV20001.xml
+	java -jar /usr/local/bin/saxon9he.jar -xsl:fix-tags-wiki.xsl tmp/SLV20001.xml > tmp/SLV20001.eltec.xml
+	#./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV20001.md.xml' tmp
 	#./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
 	${j1} tmp/*.xml
 
@@ -35,13 +52,6 @@ nohup:
 	nice nohup time make all > nohup.all &
 all:	ana2tei
 xall:	clean imp wiki eziss val tei2text anal ner ana2tei
-val:
-	java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-1.rng \
-	../../level1/*.xml
-eziss:	convert-eziss
-imp:	grab-imp convert-imp
-wiki:	grab-wiki convert-wiki
-
 ana2tei:
 	ls -d ../Anal/*.conllu.ner | $P --jobs 10 \
 	eltec-conllu2tei.pl '{}' '../../level1' '../Test'
@@ -56,6 +66,12 @@ anal:
 	'./tei2conllu.pl {} ../Anal '
 tei2text:
 	./eltec2text.pl ../../level1 ../Anal
+val:
+	java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-1.rng \
+	../../level1/*.xml
+eziss:	convert-eziss
+imp:	grab-imp convert-imp
+wiki:	grab-wiki convert-wiki
 
 convert-eziss:
 	$s -xsl:prep_spoti.xsl ../eZISS/spoti-2019-10-15.xml > ../../level1/SLV30001.xml
