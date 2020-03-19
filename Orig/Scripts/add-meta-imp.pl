@@ -94,7 +94,7 @@ $id = $signature;
 #Put both titles in "orig" titles, "reg" will be used for regular title. (hacky)
 if ($label and $label ne 'brez oznake') {
     #s|(<title type="orig"[^>]*>).+?</title>|$1$title. $label.</title>|s
-    s|(<title type="orig"[^>]*>).+?</title>|$1$title</title>\n               $1$label.</title>|s
+    s|(<title type="orig"[^>]*>).+?</title>|$1$title</title>\n               $1$label</title>|s
 }
 
 s| xml:id=".+?"| xml:id="$id"|;
