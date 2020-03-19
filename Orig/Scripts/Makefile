@@ -2,18 +2,17 @@ adf:
 	${j1} SLV00048.xml
 
 test-cqp1:
-	$s -xsl:eltec2vert.xsl ../Test/SLV00187-L2.xml | eltec-xml2vert.pl > ../Test/SLV00187-L2.vert
+	$s -xsl:eltec2vert.xsl ../Test/SLV10031-L2.xml | eltec-xml2vert.pl > ../Test/SLV10031-L2.vert
 test-cqp2:
 	rm -f ../Test/*.vert
 	ls -d ../Test/*-L2.xml | $P --jobs 5 \
 	'$s -xsl:eltec2vert.xsl {} | eltec-xml2vert.pl > {.}.vert'
-	#joinvert.pl '../Test/SLV*-L2.vert' ../Test/ELTeC-SLV.vert
 cqp:
-	ls -d Master/*/*.xml | $P --jobs 5 \
-	'bin/parla-tei2vert.pl {} CQP'
-	bin/joinvert.pl 'CQP/*/*.vert' CQP/siparl20.vert
-	rm -f CQP/siparl20.vert.gz
-	gzip CQP/siparl20.vert
+	rm -f ../Test/*.vert
+	ls -d ../Test/*-L2.xml | $P --jobs 5 \
+	'$s -xsl:eltec2vert.xsl {} | eltec-xml2vert.pl > {.}.vert'
+	#joinvert.pl '../Test/SLV*-L2.vert' ../Test/ELTeC-SLV.vert
+	gzip -f ../Test/ELTeC-SLV.vert
 
 test-tei1:
 	eltec-conllu2tei.pl ../Anal/SLV30001.conllu.ner ../../level1 ../Test
