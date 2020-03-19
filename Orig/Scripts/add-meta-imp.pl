@@ -83,7 +83,7 @@ $_ = <>;
 ($imp_id) = /xml:id="(.+?)-\d\d\d\d"/s 
     or die "Bad ID in $_!\n";
 
-##Note that label and reprints is not used, as it is not clear where to put this info!
+## Note that reprints is not used: not clear where to put it and it is mostly empty anyway
 my ($signature, $title, $label, 
     $author, $eltec_sex, $birth, $death, $registry, $registry_id, $wiki,
     $eltec_period, $eltec_canon, $reprints) =
@@ -91,16 +91,27 @@ my ($signature, $title, $label,
 
 $id = $signature;
 
-#Put full title in "orig" title, "reg" will be used for regular title. (hacky)
+#Put both titles in "orig" titles, "reg" will be used for regular title. (hacky)
 if ($label and $label ne 'brez oznake') {
-    s|(<title type="orig"[^>]*>).+?</title>|$1$title. $label.</title>|s
+    #s|(<title type="orig"[^>]*>).+?</title>|$1$title. $label.</title>|s
+    s|(<title type="orig"[^>]*>).+?</title>|$1$title</title>\n               $1$label.</title>|s
 }
 
 s| xml:id=".+?"| xml:id="$id"|;
 ($an) = m|<author>(.+)</author>|;
 print STDERR "WARN: $id authors mismatch: $an !== $author, taking $author\n"
     if $an ne $author;
-s|<author>.+</author>|<author>$author ($birth-$death)</author>|;
+
+#Ugly hack for the only novel that has two authors
+if ($imp_id eq 'WIKI00216') {
+    $author2 = '               ';
+    $author2 .= '<author ref="viaf:34746806 https://sl.wikipedia.org/wiki/Janko_Kersnik">';
+    $author2 .= 'Kersnik, Janko (1852-1897)</author>';
+    s|<author>.+</author>|<author>$author ($birth-$death)</author>\n$author2|
+}
+else {
+    s|<author>.+</author>|<author>$author ($birth-$death)</author>|
+}
 
 if ($registry) {
     s|<author>|<author ref="$registry:$registry_id">|;

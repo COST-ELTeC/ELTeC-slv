@@ -33,21 +33,21 @@
          <publicationStmt xml:lang="en">
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
-            <date>2020-02-18</date>
+            <date>2020-03-19</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author ref="https://sl.wikipedia.org/wiki/Anton_Mahni%C4%8D">Mahnič, Anton</author>
-               <title>Zadnji samotar : edicija WikiVir</title>
+               <title>Mahnič, Anton. Zadnji samotar : edicija WikiVir</title>
                <idno type="wikilink">https://sl.wikisource.org/wiki/Zadnji_samotar</idno>
                <date>2015</date>
             </bibl>
             <bibl type="printSource">
-               <author>Mahnič, Anton</author>
-               <title>Zadnji samotar. Izviren zgodovinski roman.</title>
+               <author ref="https://sl.wikipedia.org/wiki/Anton_Mahni%C4%8D">Mahnič, Anton</author>
+               <title>Zadnji samotar</title>
+               <title>Izviren zgodovinski roman</title>
                <date>1886</date>
             </bibl>
          </sourceDesc>
@@ -67,7 +67,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc xml:lang="en">
-         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
+         <change when="2020-03-19">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV10016">

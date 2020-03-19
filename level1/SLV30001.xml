@@ -41,13 +41,12 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author ref="https://sl.wikipedia.org/wiki/Izidor_Cankar">Izidor Cankar</author>
-               <title>S poti : edicija eZISS</title>
+               <title>Izidor Cankar. S poti : edicija eZISS</title>
                <idno type="wikilink">nl.ijs.si/e-zrc/izidor/</idno>
                <date>2007</date>
             </bibl>
             <bibl type="printSource">
-               <author>Izidor Cankar</author>
+               <author ref="https://sl.wikipedia.org/wiki/Izidor_Cankar">Izidor Cankar</author>
                <title>S poti</title>
                <date>1913</date>
             </bibl>

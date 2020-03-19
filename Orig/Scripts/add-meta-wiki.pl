@@ -77,11 +77,11 @@ while (<IDX>) {
 }
 close IDX;
 	
-#Process file
+## Process file
 local $/ = undef;
 $_ = <>;
 
-##Note that reprints is not used, as it is not clear where to put this info!
+## Note that reprints is not used: not clear where to put it and it is mostly empty anyway
 my ($signature, $url, $title, $label, 
     $author, $eltec_sex, $birth, $death, $registry, $registry_id, $wiki,
     $digitised, $published, $eltec_period, $eltec_canon, $reprints) =
@@ -91,10 +91,12 @@ die unless $doc_id eq $signature;
 print STDERR "ERROR: bad digitisation date '$digitised'\n"
     unless $digitised =~ /^[12][901]\d\d$/;
 
-if ($label and $label ne 'brez oznake') {$orig_title = "$title. $label."}
-else {$orig_title = $title}
+$orig_title = $title;
+$sub_title = '';
+if ($label and $label ne 'brez oznake') {$sub_title = $label}
 
 s|<TEI.+>|<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="sl" xml:id="$doc_id">|;
+
 $teiHeader = <<"END";
 <teiHeader>
    <fileDesc>
@@ -106,14 +108,14 @@ $teiHeader = <<"END";
       <publicationStmt/>
       <sourceDesc>
          <bibl type="digitalSource">
-            <author>$author</author>
-            <title>$title : edicija WikiVir</title>
+            <title>$author. $title : edicija WikiVir</title>
             <idno type="wikilink">$url</idno>
             <date>$digitised</date>
          </bibl>
          <bibl type="printSource">
             <author>$author</author>
             <title>$orig_title</title>
+            <title>$sub_title</title>
             <date>$published</date>
          </bibl>
       </sourceDesc>
@@ -133,6 +135,8 @@ $teiHeader = <<"END";
 END
 
 s|<teiHeader>.+?</teiHeader>|$teiHeader|s;
+s|\n\s*<title></title>||;  #If subtitle empty
+
 if ($registry) {
     s|<author>|<author ref="$registry:$registry_id">|
 }

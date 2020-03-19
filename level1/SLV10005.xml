@@ -33,20 +33,19 @@
          <publicationStmt xml:lang="en">
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
-            <date>2020-02-18</date>
+            <date>2020-03-19</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <bibl type="digitalSource">
-               <author ref="https://sl.wikipedia.org/wiki/Fran_Sale%C5%A1ki_Fin%C5%BEgar">Finžgar, Fran Saleški</author>
-               <title>Pod svobodnim soncem : edicija WikiVir</title>
+               <title>Finžgar, Fran Saleški. Pod svobodnim soncem : edicija WikiVir</title>
                <idno type="wikilink">https://sl.wikisource.org/wiki/Pod_svobodnim_soncem</idno>
                <date>2019</date>
             </bibl>
             <bibl type="printSource">
-               <author>Finžgar, Fran Saleški</author>
+               <author ref="https://sl.wikipedia.org/wiki/Fran_Sale%C5%A1ki_Fin%C5%BEgar">Finžgar, Fran Saleški</author>
                <title>Pod svobodnim soncem</title>
                <date>1907</date>
             </bibl>
@@ -67,14 +66,14 @@
          </textDesc>
       </profileDesc>
       <revisionDesc xml:lang="en">
-         <change when="2020-02-18">Tomaž Erjavec: converted to ELTeC</change>
+         <change when="2020-03-19">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV10005">
-      <body>
-        <div type="group">
-          <head>Prva knjiga</head>
-          <div type="chapter">
+     <body>
+       <div type="group">
+         <head>Prva knjiga</head>
+         <div type="chapter">
             <head>Prvo poglavje</head>
             <p n="SLV10005.1">Od vzhoda, severa in zapada so se zgrinjali vojščaki. Dan na dan so se vračali na znojnih konjičih sli v gradišče in naznanjali starosti Svarunu, da so dobro opravili. Potem so posedali po dvorišču in polegali krog ognjev. Hlapci so jim rezali kose pečenih koštrunov z ražnja; Ljubinica, staroste Svaruna lepa hči, jim je točila medu in obdarovala vsakega s kožuščkom iz bele jagnječevine. Sin Iztok pa je za slehernim poslancem odjezdil iz gradišča in hitel prihajajočim vojščakom naproti.</p>
             <p n="SLV10005.2">»Svetovit te je navdahnil, starešina, vile so vas pospremile, hrabri vojščaki, da ste pregazili močvirja, da ste preplezali gorska sedla in prišli do gradišča staroste – mojega očeta Svaruna, ki vas zahvaljuje in pozdravlja!«</p>
@@ -4941,8 +4940,8 @@
             <p n="SLV10005.4710">Potekla je zima. Starosta ni učakal, da bi dvignil v naročje vnuka junačka, ki ga je podarila Irena Iztoku. Prej je prišla Morana in mu podala ledeno roko.</p>
             <p n="SLV10005.4711">Irena je rodila sedem dečkov, vrlih sokolov, Iztokov duh pa je rodil tisoče, ki so se vojskovali z Bizantinci, prehodili Ilirijo, dospeli v Helado do Epafroditovega groba in potrkali na vrata samega Bizanca.</p>
             <p n="SLV10005.4712">Huni so iskali pri njih zavetja in gostoljubja, obrski kakan je odpovedal zvezo Bizancu in prosil prijateljstva Slovenov in Antov, ki so napolnjeni z Iztokovim duhom živeli v bratski slogi in uživali slavo pod svobodnim soncem.</p>
-         </div>
-       </div>
-      </body>
-   </text>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>

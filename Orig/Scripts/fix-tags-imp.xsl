@@ -93,6 +93,7 @@
   <!-- Suppress these attributes -->
   <xsl:template match="tei:text//tei:*/@xml:id"/>
   <xsl:template match="tei:title/@type"/>
+  <xsl:template match="tei:title/@xml:lang"/>
   <xsl:template match="tei:note/@place"/>
   <xsl:template match="tei:note/@type"/><!-- all are authorial -->
   
@@ -120,8 +121,21 @@
       <xsl:value-of select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:title[@type='reg']"/>
       <xsl:text> : edicija ELTeC</xsl:text>
     </title>
+    <xsl:call-template name="author-top">
+      <xsl:with-param name="author"
+		      select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:author[1]"/>
+    </xsl:call-template>
+    <xsl:if test="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:author[2]">
+      <xsl:call-template name="author-top">
+	<xsl:with-param name="author"
+			select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:author[2]"/>
+      </xsl:call-template>
+    </xsl:if>
+  </xsl:template>
+  
+  <xsl:template name="author-top">
+    <xsl:param name="author"/>
     <author>
-      <xsl:variable name="author" select="ancestor::tei:teiHeader//tei:sourceDesc/tei:bibl/tei:author[1]"/>
       <xsl:attribute name="ref">
 	<xsl:choose>
 	  <xsl:when test="contains($author/@ref, ' ')">
@@ -196,13 +210,16 @@
     <xsl:variable name="titlePageImage"
 		  select="/tei:TEI/tei:facsimile/tei:surface[1]/tei:graphic[1]/@url"/>
     <bibl type="digitalSource">
-      <author>
-	<xsl:if test="contains(tei:author[1]/@ref, ' ')">
-	  <xsl:attribute name="ref" select="substring-after(tei:author[1]/@ref, ' ')"/>
-	</xsl:if>
+      <title>
 	<xsl:value-of select="replace(tei:author[1], ' \(\d+-\d+\)', '')"/>
-      </author>
-      <title><xsl:value-of select="tei:title[@type='reg']"/> : edicija IMP</title>
+	<xsl:if test="tei:author[2]">
+	  <xsl:text>, </xsl:text>
+	  <xsl:value-of select="replace(tei:author[2], ' \(\d+-\d+\)', '')"/>
+	</xsl:if>
+	<xsl:text>. </xsl:text>
+	<xsl:value-of select="tei:title[@type='reg']"/>
+	<xsl:text> : edicija IMP</xsl:text>
+      </title>
       <xsl:apply-templates select="//tei:teiHeader//tei:publicationStmt/tei:date"/>
       <!--publisher>
 	<xsl:text>CLARIN.SI </xsl:text>
@@ -217,7 +234,20 @@
       <idno type="wikilink"><xsl:value-of select="tei:pubPlace/tei:ref[1]/@target"/></idno>
     </bibl>
     <bibl type="printSource">
-      <author><xsl:value-of select="replace(tei:author[1], ' \(\d+-\d+\)', '')"/></author>
+      <author>
+	<xsl:if test="contains(tei:author[1]/@ref, ' ')">
+	  <xsl:attribute name="ref" select="substring-after(tei:author[1]/@ref, ' ')"/>
+	</xsl:if>
+	<xsl:value-of select="replace(tei:author[1], ' \(\d+-\d+\)', '')"/>
+      </author>
+      <xsl:if test="tei:author[2]">
+	<author>
+	  <xsl:if test="contains(tei:author[2]/@ref, ' ')">
+	    <xsl:attribute name="ref" select="substring-after(tei:author[2]/@ref, ' ')"/>
+	  </xsl:if>
+	  <xsl:value-of select="replace(tei:author[2], ' \(\d+-\d+\)', '')"/>
+	</author>
+      </xsl:if>
       <xsl:apply-templates select="tei:title[@type='orig']"/>
       <xsl:apply-templates select="tei:date"/>
       <idno type="urn"><xsl:value-of select="tei:pubPlace/tei:ref[2]/@target"/></idno>
