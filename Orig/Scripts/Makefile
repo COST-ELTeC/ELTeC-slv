@@ -1,21 +1,7 @@
-meta:
-	$s -xi -xsl:eltec2meta.xsl ../driver-L2.tei > ../slv-meta.tsv
 adf:
 	${j1} SLV00048.xml
-
 test-cqp1:
-	$s -xsl:eltec2vert.xsl ../Test/SLV10031-L2.xml | eltec-xml2vert.pl > ../Test/SLV10031-L2.vert
-test-cqp2:
-	rm -f ../Test/*.vert
-	ls -d ../Test/*-L2.xml | $P --jobs 5 \
-	'$s -xsl:eltec2vert.xsl {} | eltec-xml2vert.pl > {.}.vert'
-cqp:
-	rm -f ../Test/*.vert
-	ls -d ../Test/*-L2.xml | $P --jobs 5 \
-	'$s -xsl:eltec2vert.xsl {} | eltec-xml2vert.pl > {.}.vert'
-	#joinvert.pl '../Test/SLV*-L2.vert' ../Test/ELTeC-SLV.vert
-	gzip -f ../Test/ELTeC-SLV.vert
-
+	$s -xsl:eltec2vert.xsl ../Test/SLV10031-L2.xml | eltec-xml2vert.pl > ../CQP/SLV10031-L2.vert
 test-tei1:
 	eltec-conllu2tei.pl ../Anal/SLV30001.conllu.ner ../../level1 ../Test
 	${j2} ../Test/SLV30001-L2.xml
@@ -23,15 +9,6 @@ test-ner:
 	conllu2ner.pl ../Anal/SLV00024.conllu ../Anal
 test-anal:
 	./tei2conllu.pl ../Anal/SLV30001.txt ../Anal
-milestones:
-	$s -xi -xsl:find-milestones.xsl ../../driver.tei
-elements:
-	$s -xi -xsl:text-elements.xsl ../../driver.tei | sort | uniq -c
-incipits:
-	$s -xi -xsl:first-head.xsl ../../driver.tei
-explicits:
-	$s -xi -xsl:last-tail.xsl ../../driver.tei
-
 test-eziss:
 	$s -xsl:prep_spoti.xsl ../eZISS/spoti-2019-10-15.xml > ../eZISS/spoti.xml
 	${j1} ../eZISS/spoti.xml
@@ -42,17 +19,38 @@ test-wiki:
 	#./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV20001.md.xml' tmp
 	#./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/*.md.xml' tmp
 	${j1} tmp/*.xml
-
 test-imp:
 	rm -f tmp/*
 	./add-meta-imp.pl ../slv-index.txt ../slv-authors.txt < ../IMP/WIKI00216-1881.xml > tmp/WIKI00216.xml
 	$s -xsl:fix-tags-imp.xsl tmp/WIKI00216.xml > tmp/WIKI00216.eltec.xml
 	${j1} tmp/WIKI00216.eltec.xml
 
+
+stats2:
+	$s -xi -xsl:text-elements.xsl ../driver-L2.tei | sort | uniq -c
+	$s -xi -xsl:find-milestones.xsl ../driver-L2.tei
+	$s -xi -xsl:first-head.xsl ../driver-L2.tei
+	$s -xi -xsl:last-tail.xsl ../driver-L2.tei
+stats1:
+	$s -xi -xsl:text-elements.xsl ../../driver.tei | sort | uniq -c
+	$s -xi -xsl:find-milestones.xsl ../../driver.tei
+	$s -xi -xsl:first-head.xsl ../../driver.tei
+	$s -xi -xsl:last-tail.xsl ../../driver.tei
+
 nohup:
 	nice nohup time make all > nohup.all &
-all:	ana2tei
-xall:	clean imp wiki eziss val tei2text anal ner ana2tei
+all:	ana2tei ana2tei meta cqp
+xall:	clean imp wiki eziss val tei2text anal ner ana2tei meta cqp
+
+cqp:
+	rm -f ../CQP/*.vert
+	ls -d ../Test/*-L2.xml | $P --jobs 5 \
+	'$s -xsl:eltec2vert.xsl {} | eltec-xml2vert.pl > ../CQP/{/.}.vert'
+	#joinvert.pl ../slv-meta.tsv '../Test/SLV*-L2.vert' ../Test/ELTeC-slv.vert
+	cat ../Test/SLV*-L2.vert > ../Test/ELTeC-slv.vert
+	gzip -f ../Test/ELTeC-slv.vert
+meta:
+	$s -xi -xsl:eltec2meta.xsl ../driver-L2.tei > ../slv-meta.tsv
 ana2tei:
 	ls -d ../Anal/*.conllu.ner | $P --jobs 10 \
 	eltec-conllu2tei.pl '{}' '../../level1' '../Test'
