@@ -72,7 +72,7 @@
    </teiHeader>
    <text n="SLV10005">
       <body>
-        <div type="collection">
+        <div type="group">
           <head>Prva knjiga</head>
           <div type="chapter">
             <head>Prvo poglavje</head>
@@ -2400,7 +2400,7 @@
             <p n="SLV10005.2247">»Zmagala si, kača, prekleta ...«</p>
          </div>
        </div>
-       <div type="collection">
+       <div type="group">
          <head>Druga knjiga</head>
          <div type="chapter">
             <head>Prvo poglavje</head>
