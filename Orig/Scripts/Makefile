@@ -1,24 +1,10 @@
 test-tei1:
-	rm -fr ../Test/*
-	eltec-conllu2tei.pl ../Anal/SLV00024.conllu.ner ../../level1 ../Test
+	#eltec-conllu2tei.pl ../Anal/SLV10005.conllu.ner ../../level1 ../Test
 	${j2} ../Test/*-L2.xml
 test-ner:
 	conllu2ner.pl ../Anal/SLV00024.conllu ../Anal
 test-anal:
-	./tei2conllu.pl ../Text/SLV30001.txt ../Anal
-tei:
-	ls -d ../Anal/*.conllu.ner | $P --jobs 8 \
-	eltec-conllu2tei.pl '{}' '../../level1' '../../level2'
-	${j2} Master/*/*-ana.xml
-ner:
-	ls -d ../Anal/*.conllu | $P --jobs 20 \
-	'conllu2ner.pl {} ../Anal'
-anal:
-	ls -d ../Text/*.txt | $P --jobs 2 \
-	'./tei2conllu.pl {} ../Anal '
-tei2text:
-	./eltec2text.pl ../../level1 ../Text
-
+	./tei2conllu.pl ../Anal/SLV30001.txt ../Anal
 milestones:
 	$s -xi -xsl:find-milestones.xsl ../../driver.tei
 elements:
@@ -45,14 +31,31 @@ test-imp:
 	$s -xsl:fix-tags-imp.xsl tmp/WIKI00216.xml > tmp/WIKI00216.eltec.xml
 	${j1} tmp/WIKI00216.eltec.xml
 
-all:	wiki eziss val
-xall:	clean imp wiki eziss val
+nohup:
+	nice nohup time make all > nohup.all &
+all:	ana2tei
+xall:	clean imp wiki eziss val tei2text anal ner ana2tei
 val:
 	java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-1.rng \
 	../../level1/*.xml
 eziss:	convert-eziss
 imp:	grab-imp convert-imp
 wiki:	grab-wiki convert-wiki
+
+ana2tei:
+	ls -d ../Anal/*.conllu.ner | $P --jobs 10 \
+	eltec-conllu2tei.pl '{}' '../../level1' '../Test'
+	# eltec-conllu2tei.pl '{}' '../../level1' '../../level2'
+	${j2} ../Test/*.xml
+	#${j2} ../../level2/*.xml
+ner:
+	ls -d ../Anal/*.conllu | $P --jobs 20 \
+	'conllu2ner.pl {} ../Anal'
+anal:
+	ls -d ../Anal/*.txt | $P --jobs 2 \
+	'./tei2conllu.pl {} ../Anal '
+tei2text:
+	./eltec2text.pl ../../level1 ../Anal
 
 convert-eziss:
 	$s -xsl:prep_spoti.xsl ../eZISS/spoti-2019-10-15.xml > ../../level1/SLV30001.xml

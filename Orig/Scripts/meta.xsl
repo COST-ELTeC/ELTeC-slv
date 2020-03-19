@@ -46,9 +46,11 @@
       <xsl:apply-templates mode="tagCount" select="//tei:text//tei:pc"/>
     </xsl:copy>
   </xsl:template>
-  
+
+  <!-- To fix (ex) bug in level-2 schema
   <xsl:template match="tei:distributor"/>
   <xsl:template match="tei:availability"/>
+  -->
   
   <xsl:template match="tei:encodingDesc">
     <xsl:copy>
