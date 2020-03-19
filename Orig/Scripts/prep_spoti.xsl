@@ -210,6 +210,7 @@
       <xsl:apply-templates mode="pass2"/>
     </xsl:copy>
   </xsl:template>
+  
   <!-- We have a funny (last) section which we merge into previous one -->
   <xsl:template mode="pass2" match="tei:div[tei:head='***']"/>
   <xsl:template mode="pass2" match="tei:head[.='***']">
@@ -217,7 +218,7 @@
   </xsl:template>
   <xsl:template mode="pass2" match="tei:div[following-sibling::tei:div[1][tei:head='***']]">
     <xsl:copy>
-      <xsl:attribute name="n" select="$id"/>
+      <xsl:attribute name="type">chapter</xsl:attribute>
       <xsl:apply-templates mode="pass2"/>
       <xsl:apply-templates mode="pass2" select="following-sibling::tei:div[1]/tei:*"/>
     </xsl:copy>
