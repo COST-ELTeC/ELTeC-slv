@@ -31,18 +31,18 @@ VERTICAL "| zcat /project/cqp/vert/eltec_slv.vert.gz"        #manatee@ijs
 DOCSTRUCTURE text
 MAXDETAIL 1000
 
-SUBCORPATTRS "text.topic|text.type|text.target,text.title,text.post"
-SHORTREF "=text.topic,=text.type,=text.target"
-FULLREF "text.topic,text.type,text.target,text.title,text.post,text.url,text.timestamp"
+SUBCORPATTRS "text.title|text.timeSlot|text.canonicity,text.author|text.gender"
+SHORTREF "=text.title,=text.date"
+FULLREF "text.title,text.date,text.author,text.gender,text.canonicity,text.timeSlot,text.url_text,text.url_author"
 
 STRUCTURE text {
     ATTRIBUTE id {
       TYPE "UNIQUE"
     }    
-    ATTRIBUTE author
     ATTRIBUTE title
     ATTRIBUTE date
-    ATTRIBUTE authorGender
+    ATTRIBUTE author
+    ATTRIBUTE gender
     ATTRIBUTE size
     ATTRIBUTE canonicity
     ATTRIBUTE timeSlot
@@ -85,7 +85,7 @@ STRUCTURE note {
       TYPE "UNIQUE"
     }
 }
-STRUCTURE name {
+STRUCTURE l {
     ATTRIBUTE id {
       TYPE "UNIQUE"
     }
@@ -94,6 +94,9 @@ STRUCTURE s {
     ATTRIBUTE id {
       TYPE "UNIQUE"
     }
+}
+STRUCTURE name {
+    ATTRIBUTE type
 }
 
 ###Positional attributes
@@ -123,10 +126,10 @@ ATTRIBUTE lemma_lc {
     TRANSQUERY  "yes"
 }
 ATTRIBUTE tag_en {
-    LABEL "MSD"
+    LABEL "MSD (English)"
 }
-ATTRIBUTE tag_en {
-    LABEL "MSD"
+ATTRIBUTE tag {
+    LABEL "MSD (Slovene)"
 }
 ATTRIBUTE ud_pos {
     LABEL "UD part-of-speech"
