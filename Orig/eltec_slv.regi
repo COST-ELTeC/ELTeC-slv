@@ -99,6 +99,9 @@ STRUCTURE s {
 }
 STRUCTURE name {
     ATTRIBUTE type
+    DISPLAYTAG 0
+    DISPLAYBEGIN "[%(type):"
+    DISPLAYEND "]"
 }
 STRUCTURE g {
    DISPLAYTAG 0
