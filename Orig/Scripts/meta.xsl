@@ -15,8 +15,7 @@
   <xsl:variable name="today-slv" select="format-date(current-date(), '[D1]. [M1]. [Y]')"/>
 
   <xsl:param name="change">
-    <change when="{$today-iso}">Tomaž Erjavec: Annotation with Nikola's CLASSLA tool-chain &amp;
-    TEI editing.</change>
+    <change when="{$today-iso}">Tomaž Erjavec: Annotation with Nikola's tool-chain &amp; TEI editing.</change>
   </xsl:param>
 
   <xsl:template match="tei:publicationStmt/tei:date">
@@ -67,7 +66,11 @@
       <ref target="https://github.com/clarinsi/reldi-tokeniser">ReLDI tokeniser</ref>
       <xsl:text> while UD morphosyntactic tagging and lemmatisation with </xsl:text>
       <ref target="https://github.com/clarinsi/classla-stanfordnlp">CLASSLA-StanfordNLP</ref>
-      <xsl:text> trained for Slovene.</xsl:text>
+      <xsl:text> trained for Slovene. Named entities were annotated with </xsl:text>
+      <ref target="https://github.com/clarinsi/janes-ner">Janes-NER</ref>
+      <xsl:text>, which uses the set of NE labels detailed in the </xsl:text>
+      <ref target="http://nl.ijs.si/janes/wp-content/uploads/2017/09/SlovenianNER-eng-v1.1.pdf">Annotation guidelines for Slovenian named entities Janes-NER V1.1</ref>
+      <xsl:text>.</xsl:text>
     </xsl:copy>
   </xsl:template>
   

@@ -26,11 +26,11 @@
     <text id="{@xml:id}">
       
       <!-- Take only first author and title: too complicated to have more! -->
-      <xsl:attribute name="author" select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author[1]"/>
       <xsl:attribute name="title" select="$printSource/tei:title[1]"/>
       <xsl:attribute name="date" select="$printSource/tei:date[1]"/>
       
-      <xsl:attribute name="authorGender" select="$textDesc/eltec:authorGender/@key"/>
+      <xsl:attribute name="author" select="tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:author[1]"/>
+      <xsl:attribute name="gender" select="$textDesc/eltec:authorGender/@key"/>
       <xsl:attribute name="size" select="$textDesc/eltec:size/@key"/>
       <xsl:attribute name="canonicity" select="$textDesc/eltec:canonicity/@key"/>
       <xsl:attribute name="timeSlot">

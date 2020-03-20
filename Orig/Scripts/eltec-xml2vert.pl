@@ -21,8 +21,8 @@ while (<DATA>) {
 	my ($code, $label) = split;
 	$label{$code} = $label;
     }
-    else {
-	my ($msd_sl,$msd_en)=split;
+    elsif (m/\t/) {
+	my ($msd_sl, $msd_en)=split;
 	$msd_sl{$msd_en}=$msd_sl;
 	$msd_en{$msd_sl}=$msd_en;
     }
@@ -43,7 +43,7 @@ while (<>) {
 	    print STDERR "WARN: MSD $msd_en ends in '-', stripping!\n";
 	    $msd_en =~ s/-+$//
 	}
-	if (exists $sl{$msd_en}) {$msd_sl = $sl{$msd_en}}
+	if (exists $msd_sl{$msd_en}) {$msd_sl = $msd_sl{$msd_en}}
 	else {
 	    print STDERR "ERROR: Unknown MSD $msd_en in $_!\n";
 	    $msd_sl = 'Np'

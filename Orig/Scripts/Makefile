@@ -3,10 +3,10 @@ adf:
 test-cqp3:
 	joinvert.pl ../slv-meta.tsv ../Test/ ELTeC-slv.vert
 test-cqp1:
-	$s -xsl:eltec2vert.xsl ../Test/SLV10031-L2.xml | eltec-xml2vert.pl > ../CQP/SLV10031-L2.vert
+	$s -xsl:eltec2vert.xsl ../Test/SLV00024-L2.xml | eltec-xml2vert.pl > ../CQP/SLV10031-L2.vert
 test-tei1:
-	eltec-conllu2tei.pl ../Anal/SLV30001.conllu.ner ../../level1 ../Test
-	${j2} ../Test/SLV30001-L2.xml
+	eltec-conllu2tei.pl ../Anal/SLV00024.conllu.ner ../../level1 ../Test
+	${j2} ../Test/SLV00024-L2.xml
 test-ner:
 	conllu2ner.pl ../Anal/SLV00024.conllu ../Anal
 test-anal:
@@ -48,8 +48,8 @@ cqp:
 	rm -f ../CQP/*.vert
 	ls -d ../Test/*-L2.xml | $P --jobs 5 \
 	'$s -xsl:eltec2vert.xsl {} | eltec-xml2vert.pl > ../CQP/{/.}.vert'
-	joinvert.pl ../slv-meta.tsv ../Test/ ../Test/ELTeC-slv.vert
-	gzip -f ../Test/ELTeC-slv.vert
+	joinvert.pl ../slv-meta.tsv ../CQP/ ../CQP/ELTeC-slv.vert
+	gzip -f ../CQP/ELTeC-slv.vert
 meta:
 	$s -xi -xsl:eltec2meta.xsl ../driver-L2.tei > ../slv-meta.tsv
 ana2tei:
@@ -67,8 +67,8 @@ anal:
 chars:
 	rm -f ../Anal/slv-fchars.txt
 	nice find ../Anal/ -name 'SLV*.txt' | \
-	$P --jobs 24 chars.pl {} >> ../Anal/slv-fchars.txt 
-	chars-summ.pl < ../Anal/slv-fchars.txt > ../Anal/slv-chars.txt 
+	$P --jobs 24 chars.pl {} >> ../slv-fchars.txt 
+	chars-summ.pl < ../slv-fchars.txt > ../slv-chars.txt 
 tei2text:
 	./eltec2text.pl ../../level1 ../Anal
 val:
