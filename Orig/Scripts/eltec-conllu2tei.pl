@@ -163,6 +163,11 @@ sub sent2tei {
 	$feats =~ s/_\|//;
 	$space = $local !~ s/SpaceAfter=No//;
 	$token = &xml_encode($token);
+
+	#De-accent, like simple modernisation
+	$lemma =~ tr/ÀÁÔàáâèéêìíòóôùúûěſ/AAOaaaeeeiiooouuues/
+	    unless $xpos =~ /[XZ]/;
+	
 	$lemma = &xml_encode($lemma);
 	$lemma =~ s/"/&quot;/g; #As it will be an attribute value
 	#$element = "<$tag ana=\"$msd_prefix:$xpos\" msd=\"$feats\" lemma=\"$lemma\">$token</$tag>"

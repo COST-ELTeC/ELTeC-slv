@@ -42,7 +42,7 @@ stats1:
 nohup:
 	nice nohup time make all > nohup.all &
 all:	ana2tei ana2tei meta cqp
-xall:	clean imp wiki eziss val tei2text anal ner ana2tei meta cqp
+xall:	clean imp wiki eziss val tei2text chars anal ner ana2tei meta cqp
 
 cqp:
 	rm -f ../CQP/*.vert
@@ -62,8 +62,13 @@ ner:
 	ls -d ../Anal/*.conllu | $P --jobs 20 \
 	'conllu2ner.pl {} ../Anal'
 anal:
-	ls -d ../Anal/*.txt | $P --jobs 2 \
+	ls -d ../Anal/SLV*.txt | $P --jobs 2 \
 	'./tei2conllu.pl {} ../Anal '
+chars:
+	rm -f ../Anal/slv-fchars.txt
+	nice find ../Anal/ -name 'SLV*.txt' | \
+	$P --jobs 24 chars.pl {} >> ../Anal/slv-fchars.txt 
+	chars-summ.pl < ../Anal/slv-fchars.txt > ../Anal/slv-chars.txt 
 tei2text:
 	./eltec2text.pl ../../level1 ../Anal
 val:
