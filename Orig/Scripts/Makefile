@@ -1,7 +1,7 @@
 adf:
 	${j1} SLV00048.xml
 test-cqp3:
-	joinvert.pl ../slv-meta.tsv ../Test/ ELTeC-slv.vert
+	joinvert.pl ../slv-meta.tsv ../CQP/ ELTeC-slv.vert
 test-cqp1:
 	$s -xsl:eltec2vert.xsl ../Test/SLV00024-L2.xml | eltec-xml2vert.pl > ../CQP/SLV10031-L2.vert
 test-tei1:

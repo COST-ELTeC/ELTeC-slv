@@ -15,13 +15,15 @@ while (<IDX>) {
     my ($id, $name, $viaf, $sex, $birth, $death, $title, 
 	$subtitle, $printed, $digitised, $period, $size, $canon, 
 	$words, $tokens) = split /\t/;
-    $printed{$printed} = $id;
+    push(@{$printed{$printed}}, $id)
 }
 close IDX;
 unlink $outFile;
 foreach $year (sort keys %printed) {
-    $inFile = "$inDir/" . $printed{$year} . "-L2.vert";
-    print STDERR "$year ";
-    `cat $inFile >> $outFile`;
+    foreach $id (@{$printed{$year}}) {
+	$inFile = "$inDir/" . $id . "-L2.vert";
+	print STDERR "$year/$id ";
+	`cat $inFile >> $outFile`;
+    }
 }
 print STDERR "\n";

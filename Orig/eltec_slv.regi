@@ -31,7 +31,7 @@ VERTICAL "| zcat /project/cqp/vert/eltec_slv.vert.gz"        #manatee@ijs
 DOCSTRUCTURE text
 MAXDETAIL 1000
 
-SUBCORPATTRS "text.title|text.timeSlot|text.canonicity,text.author|text.gender"
+SUBCORPATTRS "text.timeSlot|text.gender|text.canonicity,text.author|text.title"
 SHORTREF "=text.title,=text.date"
 FULLREF "text.title,text.date,text.author,text.gender,text.canonicity,text.timeSlot,text.url_text,text.url_author"
 
@@ -79,6 +79,8 @@ STRUCTURE p {
     ATTRIBUTE id {
       TYPE "UNIQUE"
     }
+    DISPLAYTAG 0
+    DISPLAYBEGIN " ¶ "
 }
 STRUCTURE note {
     ATTRIBUTE id {
@@ -97,6 +99,10 @@ STRUCTURE s {
 }
 STRUCTURE name {
     ATTRIBUTE type
+}
+STRUCTURE g {
+   DISPLAYTAG 0
+   DISPLAYBEGIN "_EMPTY_"
 }
 
 ###Positional attributes
