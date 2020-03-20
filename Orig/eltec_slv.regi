@@ -25,8 +25,8 @@ VERTICAL "| zcat /project/cqp/vert/eltec_slv.vert.gz"        #manatee@ijs
 # TERMBASE "/var/lib/ske/manatee/kas_dr_1/terms-ws"                     #manatee@cjvt
 
 # WSPOSLIST ",samostalnik,-s,glagol,-g,pridevnik,-p,prislov,-r"         #manatee@cjvt
-# WPOSLIST ",samostalnik,S.*,glagol,G.*,pridevnik,P.*,prislov,R.*,zaimek,Z.*,predlog,D.*,veznik,V.*,členek,L.*,medmet,M.*,števnik,K.*,okrajšava,O.*,neuvrščeno,N.*,ločilo,U.*"
-# LPOSLIST ",samostalnik,-s,glagol,-g,pridevnik,-p,prislov,-r,zaimek,-z,predlog,-d,veznik,-v,členek,-l,medmet,-m,števnik,-k,okrajšava,-o,neuvrščeno,-n,ločilo,-u"
+WPOSLIST ",samostalnik,S.*,glagol,G.*,pridevnik,P.*,prislov,R.*,zaimek,Z.*,predlog,D.*,veznik,V.*,členek,L.*,medmet,M.*,števnik,K.*,okrajšava,O.*,neuvrščeno,N.*,ločilo,U.*"
+LPOSLIST ",samostalnik,-s,glagol,-g,pridevnik,-p,prislov,-r,zaimek,-z,predlog,-d,veznik,-v,členek,-l,medmet,-m,števnik,-k,okrajšava,-o,neuvrščeno,-n,ločilo,-u"
 
 DOCSTRUCTURE text
 MAXDETAIL 1000
@@ -121,8 +121,17 @@ ATTRIBUTE lc {
     DYNTYPE  index
     TRANSQUERY      yes
 }
+ATTRIBUTE lempos {
+    LABEL     "Lemma with PoS"
+}
 ATTRIBUTE lemma {
-    LABEL     "Lemma"
+        LABEL     "Lemma"
+	DYNAMIC   "striplastn"
+	DYNLIB    "internal"
+	ARG1      "2"
+	FUNTYPE   "i"
+	FROMATTR  "lempos"
+	TYPE      "index"
 }
 ATTRIBUTE lemma_lc {
     LABEL       "Lemma (lowercase)"
