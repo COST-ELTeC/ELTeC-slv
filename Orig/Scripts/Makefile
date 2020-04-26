@@ -52,6 +52,7 @@ cqp:
 	gzip -f ../CQP/ELTeC-slv.vert
 meta:
 	$s -xi -xsl:eltec2meta.xsl ../driver-L2.tei > ../slv-meta.tsv
+	cp ../slv-meta.tsv ../../metadata/metadata.tsv
 ana2tei:
 	ls -d ../Anal/*.conllu.ner | $P --jobs 10 \
 	eltec-conllu2tei.pl '{}' '../../level1' '../Test'

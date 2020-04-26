@@ -22,12 +22,14 @@ The conversion process is then roughly as follows:
 1. A Perl script first takes the URLs from the index and generates a bash script to
 download and (for Wiki source) pre-process them.
 
-2. Metadata from the index is then added to each file, and the resulting file tweeked to conform to ELTeC level-1 schema
+2. Metadata from the index is then added to each file, and the resulting file tweeked
+to conform to ELTeC level-1 schema
 
-3. The files are validated according to the ELTeC level-1 schema, assumed to be cloned to `Schemas` as a sister directory to `ELTeC-slv`.
+3. The files are validated according to the ELTeC level-1 schema, assumed to be cloned
+to `Schemas` as a sister directory to `ELTeC-slv`.
 
 
 TEI Stylesheets include the markdowntotei conversion (the Stylesheets
 are .gitignored here) but it has to be tweaked as Wiki MD uses
-different style of heading markup (== line this ==). The profile is in
+different style of heading markup (== like this ==). The profile is in
 `Scripts/profiles`.
