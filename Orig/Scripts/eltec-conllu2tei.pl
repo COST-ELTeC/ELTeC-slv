@@ -17,7 +17,8 @@ use File::Temp qw/ tempfile tempdir /;  #creation of tmp files and directory
 $tmpDir="$Bin/tmp";
 my $tempDir = tempdir(DIR => $tmpDir, CLEANUP => 1);
 
-$anaExt = 'conllu.ner';
+$anaExt = 'conllu';
+#$anaExt = 'conllu.ner';
 $Saxon = 'java -jar /home/tomaz/bin/saxon9he.jar';
 $META  = "$Bin/meta.xsl";
 $TRIM  = "$Bin/trim.pl";
@@ -158,15 +159,24 @@ sub sent2tei {
 	if ($xpos =~ /Z/) {$tag = 'pc'}	
 	else {$tag = 'w'}
 	my $feats = $ufeats;
+
+	# Switch original and modernised forms
+	if (my ($original) = $local =~ /OriginalForm=([^|]+)/) {
+	    $local =~ s/OriginalForm=\Q$original\E/ModernForm=$token/;
+	    $token = $original;
+	}
+	
 	$feats .= "|$local" if $local and $local ne '_';
 	$feats .= "|XPOS=$xpos";
 	$feats =~ s/_\|//;
-	$space = $local !~ s/SpaceAfter=No//;
+	$feats = &xml_encode($feats);
+	
+	$space = $local !~ m/SpaceAfter=No/;
 	$token = &xml_encode($token);
 
 	#De-accent, like simple modernisation
-	$lemma =~ tr/ÀÁÔàáâèéêìíòóôùúûěſ/AAOaaaeeeiiooouuues/
-	    unless $xpos =~ /[XZ]/;
+	#$lemma =~ tr/ÀÁÔàáâèéêìíòóôùúûěſ/AAOaaaeeeiiooouuues/
+	#    unless $xpos =~ /[XZ]/;
 	
 	$lemma = &xml_encode($lemma);
 	$lemma =~ s/"/&quot;/g; #As it will be an attribute value

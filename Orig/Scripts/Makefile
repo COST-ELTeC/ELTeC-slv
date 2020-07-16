@@ -5,7 +5,7 @@ test-cqp3:
 test-cqp1:
 	$s -xsl:eltec2vert.xsl ../Test/SLV00024-L2.xml | eltec-xml2vert.pl > ../CQP/SLV10031-L2.vert
 test-tei1:
-	eltec-conllu2tei.pl ../Anal/SLV00024.conllu.ner ../../level1 ../Test
+	eltec-conllu2tei.pl ../Anal/SLV00024.conllu ../../level1 ../Test
 	${j2} ../Test/SLV00024-L2.xml
 test-ner:
 	conllu2ner.pl ../Anal/SLV00024.conllu ../Anal

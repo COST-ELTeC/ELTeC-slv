@@ -8,8 +8,9 @@ $outDir = shift;
 use FindBin qw($Bin);
 `mkdir $outDir` unless -e "$outDir";
 
+$UD  = "tomotalepa.pl -a lem";
 #$UD  = "totalepa.pl -a lem";
-$UD  = "totalepa.pl -a dep";
+#$UD  = "totalepa.pl -a dep";
 
 binmode(STDERR,'utf8');
 
