@@ -17,8 +17,8 @@ use File::Temp qw/ tempfile tempdir /;  #creation of tmp files and directory
 $tmpDir="$Bin/tmp";
 my $tempDir = tempdir(DIR => $tmpDir, CLEANUP => 1);
 
-$anaExt = 'conllu';
-#$anaExt = 'conllu.ner';
+#$anaExt = 'conllu';
+$anaExt = 'conllu.ner';
 $Saxon = 'java -jar /home/tomaz/bin/saxon9he.jar';
 $META  = "$Bin/meta.xsl";
 $TRIM  = "$Bin/trim.pl";

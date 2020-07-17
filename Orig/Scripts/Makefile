@@ -63,7 +63,7 @@ ner:
 	ls -d ../Anal/*.conllu | $P --jobs 20 \
 	'conllu2ner.pl {} ../Anal'
 anal:
-	ls -d ../Anal/SLV*.txt | $P --jobs 2 \
+	ls -d ../Anal/SLV*.txt | $P --jobs 1 \
 	'./tei2conllu.pl {} ../Anal '
 chars:
 	rm -f ../Anal/slv-fchars.txt
