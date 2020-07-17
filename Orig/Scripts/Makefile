@@ -8,9 +8,9 @@ test-tei1:
 	eltec-conllu2tei.pl ../Anal/SLV00024.conllu ../../level1 ../Test
 	${j2} ../Test/SLV00024-L2.xml
 test-ner:
-	conllu2ner.pl ../Anal/SLV00024.conllu ../Anal
+	conllu2ner.pl ../Anal/SLV10022.conllu ../Anal
 test-anal:
-	./tei2conllu.pl ../Anal/SLV30001.txt ../Anal
+	./tei2conllu.pl ../Anal/SLV10022.txt ../Anal
 test-eziss:
 	$s -xsl:prep_spoti.xsl ../eZISS/spoti-2019-10-15.xml > ../eZISS/spoti.xml
 	${j1} ../eZISS/spoti.xml

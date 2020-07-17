@@ -63,8 +63,10 @@
     <xsl:copy>
       <xsl:apply-templates/>
       <xsl:text> Tokenisation and sentence segmentation performed with </xsl:text>
-      <ref target="https://github.com/clarinsi/reldi-tokeniser">ReLDI tokeniser</ref>
-      <xsl:text> while UD morphosyntactic tagging and lemmatisation with </xsl:text>
+      <ref target="https://github.com/clarinsi/reldi-tokeniser">ReLDI tokeniser</ref>,
+      <xsl:text>word modernisation with </xsl:text>
+      <ref target="https://github.com/clarinsi/csmtiser">CSMTiser</ref>,
+      <xsl:text> and UD morphosyntactic tagging and lemmatisation with </xsl:text>
       <ref target="https://github.com/clarinsi/classla-stanfordnlp">CLASSLA-StanfordNLP</ref>
       <xsl:text> trained for Slovene. Named entities were annotated with </xsl:text>
       <ref target="https://github.com/clarinsi/janes-ner">Janes-NER</ref>
