@@ -25,8 +25,8 @@ while (<>) {
     next unless /\t/;
     $f_all++;
     next if /\t0\t/;
-    ($fid,$fwc,$chars)=split(/\t/);
-    $fwc=$fwc;
+    ($fid, $fwc, $chars)=split(/\t/);
+    $fwc = $fwc;
     foreach $pair (split(/ /,$chars)) {
 	($char,$i)=$pair=~/(.+):(\d+)/ or die "Bad line $_";
 	if (($ord)=$char=~/&#(\d+);/) {$c=chr($ord)}

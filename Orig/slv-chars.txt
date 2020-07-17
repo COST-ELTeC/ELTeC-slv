@@ -1,6 +1,6 @@
 Codepoint	Char	Occurs	%	In docs	%	Unicode name
 U+000A	<CTRL>	    149214	  0.46	     100	100.00	LINE FEED
-U+0020	<CTRL>	   5526873	 17.07	     100	100.00	SPACE
+U+0020	<CTRL>	   5526897	 17.07	     100	100.00	SPACE
 U+0021	!	     72045	  0.22	     100	100.00	EXCLAMATION MARK
 U+0022	"	     11503	  0.04	      10	 10.00	QUOTATION MARK
 U+0025	%	         9	  0.00	       2	  2.00	PERCENT SIGN
@@ -12,7 +12,7 @@ U+002A	*	        86	  0.00	       7	  7.00	ASTERISK
 U+002C	,	    558811	  1.73	     100	100.00	COMMA
 U+002D	-	      5610	  0.02	      98	 98.00	HYPHEN-MINUS
 U+002E	.	    368342	  1.14	     100	100.00	FULL STOP
-U+002F	/	        10	  0.00	       4	  4.00	SOLIDUS
+U+002F	/	         9	  0.00	       3	  3.00	SOLIDUS
 U+0030	0	      1361	  0.00	      55	 55.00	DIGIT ZERO
 U+0031	1	      1264	  0.00	      68	 68.00	DIGIT ONE
 U+0032	2	       572	  0.00	      53	 53.00	DIGIT TWO
@@ -80,8 +80,6 @@ U+0077	w	       616	  0.00	      47	 47.00	LATIN SMALL LETTER W
 U+0078	x	       143	  0.00	      37	 37.00	LATIN SMALL LETTER X
 U+0079	y	      1042	  0.00	      51	 51.00	LATIN SMALL LETTER Y
 U+007A	z	    489379	  1.51	     100	100.00	LATIN SMALL LETTER Z
-U+007C	|	         1	  0.00	       1	  1.00	VERTICAL LINE
-U+007D	}	         4	  0.00	       1	  1.00	RIGHT CURLY BRACKET
 U+00AB	«	     30298	  0.09	      41	 41.00	LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
 U+00AC	¬	         1	  0.00	       1	  1.00	NOT SIGN
 U+00B0	°	         1	  0.00	       1	  1.00	DEGREE SIGN
@@ -175,5 +173,4 @@ U+201D	”	         3	  0.00	       2	  2.00	RIGHT DOUBLE QUOTATION MARK
 U+201E	„	     67907	  0.21	      63	 63.00	DOUBLE LOW-9 QUOTATION MARK
 U+2020	†	         1	  0.00	       1	  1.00	DAGGER
 U+2026	…	        30	  0.00	       1	  1.00	HORIZONTAL ELLIPSIS
-U+202F	 	        25	  0.00	       1	  1.00	NARROW NO-BREAK SPACE
 U+2042	⁂	         1	  0.00	       1	  1.00	ASTERISM

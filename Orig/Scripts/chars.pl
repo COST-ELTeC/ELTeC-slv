@@ -8,8 +8,8 @@ my $OUTDIR = shift;
 binmode(STDOUT,'utf8');
 binmode(STDERR,'utf8');
 foreach $file (@INFILES) {
-    #($fName)=$file=~m|([^/]+)\.txt|;
-    $fName=$file;
+    #$fName=$file;
+    ($fName)=$file=~m|([^/]+)\.txt|;
     open(TBL,$file);
     binmode(TBL,'utf8');
     undef %c;
