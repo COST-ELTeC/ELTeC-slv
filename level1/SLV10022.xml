@@ -33,7 +33,7 @@
          <publicationStmt xml:lang="en">
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://github.com/COST-ELTeC/ELTeC-slv">GitHub</distributor>
-            <date>2020-03-19</date>
+            <date>2020-07-17</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -67,7 +67,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc xml:lang="en">
-         <change when="2020-03-19">Tomaž Erjavec: converted to ELTeC</change>
+         <change when="2020-07-17">Tomaž Erjavec: converted to ELTeC</change>
       </revisionDesc>
    </teiHeader>
    <text n="SLV10022">
@@ -155,7 +155,7 @@
             <p n="SLV10022.73">»Kdo te je vščipnil? Kaj blebetaš?« je siknila vznejevoljena Pučanova z osupnim glasom. Odložila je nenadoma svoje delo.</p>
             <p n="SLV10022.74">Nežika je molčala, Katinka pa se je začela smejati.</p>
             <p n="SLV10022.75">»Glej, Mina! Kako zelo te vsi ljubimo!« je rekla z visokim glasom in tolkla s svojimi suhimi, nenavadno dolgimi rokami po kolenih.</p>
-            <p n="SLV10022.76">»O — o! Kako se je vnela naša devičica.}} Ampak lepa je pobožnost naše Nežike!« je zopet izpregovorila v šaljivem tonu gospa Lena.</p>
+            <p n="SLV10022.76">»O — o! Kako se je vnela naša devičica. Ampak lepa je pobožnost naše Nežike!« je zopet izpregovorila v šaljivem tonu gospa Lena.</p>
             <p n="SLV10022.77">Nežika je imela poten obraz in nagubano čelo. Njen resni glasek je kar odmeval v temotni sobi.</p>
             <p n="SLV10022.78">»Čim več in odločneje se odrekamo zapeljivostim tega goljufivega sveta, temvečji bo večni blagor. Bodočnost našega kratkega življenja ni na tem svetu.«</p>
             <p n="SLV10022.79">Pučanova se je zaničljivo namuznila.</p>
@@ -165,7 +165,7 @@
             <p n="SLV10022.83">»Tebi ne!«</p>
             <p n="SLV10022.84">Nežika je bila zelo razburjena. Zakričala je silno in se zgrudila na svoj kovčeg. Nato je zaihtela.</p>
             <p n="SLV10022.85">»Ta stara ihta!« je pripomnila Katinka.</p>
-            <p n="SLV10022.86">»Ni lepo, da se prepirate za malenkosti/|,« je pomirjevala gospa Lena. Odložila je očala in se prešerno naslonila na mizo.</p>
+            <p n="SLV10022.86">»Ni lepo, da se prepirate za malenkosti,« je pomirjevala gospa Lena. Odložila je očala in se prešerno naslonila na mizo.</p>
             <p n="SLV10022.87">»Lepo ali grdo! Zakaj sitnari tercijalka?« se je razvnemala rdečelaska. In udarila je z roko po mizi.</p>
             <p n="SLV10022.88">»Take brezmejne hinavščine še nisem doživela!« Globoko je pocmakala z ustmi.</p>
             <p n="SLV10022.89">»Zakaj se vmešava ta grda ženska? Opila se je menda zopet!« je ponižno, a pikro odvrnila Nežika brisoča se z robcem okoli oči. Zaprla je svoj kovčeg in sedla nanj.</p>
@@ -323,7 +323,7 @@
             <p n="SLV10022.223">V tem času se je tudi vreme izpremenilo. Postalo je nenavadno gorko, dasi še ni prišel pomladni dan. Solnce je iztepavalo sneg neusmiljeno in s streh je kapala voda v curkih. Večeri so bili čudovito lepi in jasni, dasi nekoliko mrzli. Mina je na večer posedala pri oknu, gledala v nebo in preštevala zlate zvezde. Miroslav je naslonil glavo na njena ramena ter zvesto molčal. Njej se je zdelo to zelo smešno, a lepo; spominjala se je lastnih otročjih dni in ti spomini so ji bili sveži in radostni. Postala je sentimentalna, igrala se je brezmiselno z njegovimi dolgimi črnimi kodri in se topila v blaženosti.</p>
             <p n="SLV10022.224">»Ta otrok!« je ponavljala večkrat in stiskala njegovo glavo k sebi, poljubljajoča ga na lase. In prišla ji je naivna misel o njegovi daljni prihodnosti. Postal bo velik gospod, klanjalo se mu bo ljudstvo in tudi ona bom med pisano množico.</p>
             <p n="SLV10022.225">»Sedaj sva sama!« je vzdihnil nekoč Miroslav in se približal s svojimi ustmi njenim sanjavim očem.</p>
-            <p n="SLV10022.226">»Kako lepa je nocoj noč!« je pripomnila ona.}}</p>
+            <p n="SLV10022.226">»Kako lepa je nocoj noč!« je pripomnila ona.</p>
             <p n="SLV10022.227">Tema je bila v sobi. Zunaj so svetlikale v jasno noč zvezde in polna luna se je sarkastično smejala sredi neba.</p>
             <p n="SLV10022.228">Tesno so se oklenile njegove drobne ročice njenega vratu in ni se mu mogla iztrgati. Vedno srditejše se je oklepal in mladi obraz mu je postal rdeč in vroč.</p>
             <p n="SLV10022.229">»Mina!« ...</p>

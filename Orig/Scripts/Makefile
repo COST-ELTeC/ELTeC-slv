@@ -1,3 +1,9 @@
+bug:
+	cd /usr/local/classla-stanfordnlp; \
+	python -m stanfordnlp.models.tagger --mode predict --save_dir models/pos/ \
+	--save_name ssj500k --shorthand sl_ssj \
+	--eval_file /home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Test/file1.mod.conllu \
+	--output_file /home/tomaz/Project/COST-Distant/ELTec/ELTeC-slv/Orig/Test/file1.pos.conllu
 adf:
 	${j1} SLV00048.xml
 test-cqp3:
@@ -89,8 +95,14 @@ xxgrab-eziss:
 	wget http://nl.ijs.si/e-zrc/izidor/tei/tei2.dtd
 	mv spoti-2007-10-08.xml ../eZISS/
 fix-wiki:
-	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt \
-	'../Wiki/SLV20001.md.xml' ../../level1
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10002.md.xml' ../../level1
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10011.md.xml' ../../level1
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10018.md.xml' ../../level1
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10022.md.xml' ../../level1
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10022.md.xml' ../../level1
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10031.md.xml' ../../level1
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10032.md.xml' ../../level1
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV20001.md.xml' ../../level1
 convert-wiki:
 	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt \
 	'../Wiki/*.md.xml' ../../level1

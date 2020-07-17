@@ -31,6 +31,8 @@ s!\{\{razprto\|(.+?)\}\}!<hi>$1</hi>!gs;
 
 # {{redakcija|vatih|vratih}}  - correct silently
 s!\{\{redakcija\|.+?\|(.+?)\}\}!$1!gs;
+# There is also: {{redakcija|«|}}
+s!\{\{redakcija\|.+?\|\}\}!!gs;
 
 # {{vrstica|Ana Renata pleše.}} - as if new paragraph
 s!\{\{vrstica\|(.+?)\}\}!\n$1\n!gs;
