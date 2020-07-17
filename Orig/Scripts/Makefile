@@ -47,7 +47,7 @@ stats1:
 
 nohup:
 	nice nohup time make all > nohup.all &
-all:	ana2tei ana2tei meta cqp
+all:	val tei2text chars anal ner ana2tei meta cqp
 xall:	clean imp wiki eziss val tei2text chars anal ner ana2tei meta cqp
 
 cqp:
@@ -61,21 +61,26 @@ meta:
 	cp ../slv-meta.tsv ../../metadata/metadata.tsv
 ana2tei:
 	ls -d ../Anal/*.conllu.ner | $P --jobs 10 \
-	eltec-conllu2tei.pl '{}' '../../level1' '../Test'
-	# eltec-conllu2tei.pl '{}' '../../level1' '../../level2'
-	${j2} ../Test/*.xml
-	#${j2} ../../level2/*.xml
+	#eltec-conllu2tei.pl '{}' '../../level1' '../Test'
+	eltec-conllu2tei.pl '{}' '../../level1' '../../level2'
+	#${j2} ../Test/*.xml
+	${j2} ../../level2/*.xml
 ner:
 	ls -d ../Anal/*.conllu | $P --jobs 20 \
 	'conllu2ner.pl {} ../Anal'
+
+# From https://stackoverflow.com/questions/53382383/makefile-cant-use-conda-activate
+# Need to specify bash in order for conda activate to work.
+SHELL=/bin/bash
+# Note that the extra activate is needed to ensure that the activate floats env to the front of PATH
+CONDA_ACTIVATE=source $$(conda info --base)/etc/profile.d/conda.sh ; conda activate ; conda activate
 anal:
-	ls -d ../Anal/SLV*.txt | $P --jobs 1 \
-	'./tei2conllu.pl {} ../Anal '
+	($(CONDA_ACTIVATE) ; ls -d ../Anal/SLV*.txt | $P --jobs 1 './tei2conllu.pl {} ../Anal' )
 chars:
-	rm -f ../Anal/slv-fchars.txt
+	rm -f ../slv-fchars.txt
 	nice find ../Anal/ -name 'SLV*.txt' | \
-	$P --jobs 24 chars.pl {} >> ../slv-fchars.txt 
-	chars-summ.pl < ../slv-fchars.txt > ../slv-chars.txt 
+	$P --jobs 24 chars.pl {} >> ../slv-fchars.txt
+	chars-summ.pl < ../slv-fchars.txt > ../slv-chars.txt
 tei2text:
 	./eltec2text.pl ../../level1 ../Anal
 val:
@@ -95,14 +100,7 @@ xxgrab-eziss:
 	wget http://nl.ijs.si/e-zrc/izidor/tei/tei2.dtd
 	mv spoti-2007-10-08.xml ../eZISS/
 fix-wiki:
-	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10002.md.xml' ../../level1
-	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10011.md.xml' ../../level1
-	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10018.md.xml' ../../level1
-	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10022.md.xml' ../../level1
-	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10022.md.xml' ../../level1
-	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10031.md.xml' ../../level1
-	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10032.md.xml' ../../level1
-	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV20001.md.xml' ../../level1
+	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt '../Wiki/SLV10014.md.xml' ../../level1
 convert-wiki:
 	./wiki2eltec.pl ../slv-index.txt ../slv-authors.txt \
 	'../Wiki/*.md.xml' ../../level1

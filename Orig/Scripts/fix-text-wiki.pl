@@ -9,10 +9,11 @@ binmode(STDIN, 'utf8');
 binmode(STDOUT, 'utf8');
 local $/ = undef;
 $_ = <>;
-s|\cM||gs; #Just in case DOS EOLs
-s|­ *||gs; #soft hyphen
+s|\cM||gs;  #just in case we have DOS EOLs
+s|­ *||gs;  #soft hyphen
 s|…|...|gs; #elipsis
 s|,,|„|gs;  #quote
+s| | |gs;    #U+202F NARROW NO-BREAK SPACE
 
 #Proper MD headings "## Prvo poglavje" instead of "==Prvo poglavje.=="
 s/^(=+)/'#' x length $1/gem;
