@@ -1,5 +1,5 @@
 cntmdr:
-	modernised.pl ../../level2 > ../Test/modernisation.txt
+	modernised.pl '../../level2/SLV*-L2.xml' | sort > ../Test/modernisation.txt
 bug:
 	cd /usr/local/classla-stanfordnlp; \
 	python -m stanfordnlp.models.tagger --mode predict --save_dir models/pos/ \
