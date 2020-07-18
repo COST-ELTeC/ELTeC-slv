@@ -1,3 +1,5 @@
+cntmdr:
+	modernised.pl ../../level2 > ../Test/modernisation.txt
 bug:
 	cd /usr/local/classla-stanfordnlp; \
 	python -m stanfordnlp.models.tagger --mode predict --save_dir models/pos/ \
@@ -9,7 +11,7 @@ adf:
 test-cqp3:
 	joinvert.pl ../slv-meta.tsv ../CQP/ ELTeC-slv.vert
 test-cqp1:
-	$s -xsl:eltec2vert.xsl ../Test/SLV00024-L2.xml | eltec-xml2vert.pl > ../CQP/SLV10031-L2.vert
+	$s -xsl:eltec2vert.xsl ../Test/SLV00024-L2.xml | eltec-xml2vert.pl > ../CQP/SLV00024-L2.vert
 test-tei1:
 	eltec-conllu2tei.pl ../Anal/SLV00024.conllu ../../level1 ../Test
 	${j2} ../Test/SLV00024-L2.xml
@@ -52,7 +54,7 @@ xall:	clean imp wiki eziss val tei2text chars anal ner ana2tei meta cqp
 
 cqp:
 	rm -f ../CQP/*.vert
-	ls -d ../Test/*-L2.xml | $P --jobs 5 \
+	ls -d ../../level2/*-L2.xml | $P --jobs 5 \
 	'$s -xsl:eltec2vert.xsl {} | eltec-xml2vert.pl > ../CQP/{/.}.vert'
 	joinvert.pl ../slv-meta.tsv ../CQP/ ../CQP/ELTeC-slv.vert
 	gzip -f ../CQP/ELTeC-slv.vert
@@ -61,10 +63,10 @@ meta:
 	cp ../slv-meta.tsv ../../metadata/metadata.tsv
 ana2tei:
 	ls -d ../Anal/*.conllu.ner | $P --jobs 10 \
-	#eltec-conllu2tei.pl '{}' '../../level1' '../Test'
 	eltec-conllu2tei.pl '{}' '../../level1' '../../level2'
-	#${j2} ../Test/*.xml
+	#eltec-conllu2tei.pl '{}' '../../level1' '../Test'
 	${j2} ../../level2/*.xml
+	#${j2} ../Test/*.xml
 ner:
 	ls -d ../Anal/*.conllu | $P --jobs 20 \
 	'conllu2ner.pl {} ../Anal'

@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<!-- Transform one file from the ELTeC-SVL corpus 
+<!-- Transform one file from the ELTeC-svl corpus 
      to CQP vertical format (which is still XML though, and needs another polish) -->
 <xsl:stylesheet 
     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
@@ -40,7 +40,12 @@
 	  <xsl:when test="$key = 'T2'">T2 (1860-1879)</xsl:when>
 	  <xsl:when test="$key = 'T3'">T3 (1880-1899)</xsl:when>
 	  <xsl:when test="$key = 'T4'">T4 (1900-1920)</xsl:when>
-	  <xsl:otherwise>WHAT IS THIS?</xsl:otherwise>
+	  <xsl:otherwise>
+	    <xsl:message terminate="yes">
+	      <xsl:text>ERROR: bad period </xsl:text>
+	      <xsl:value-of select="concat($key, ' for ', @xml:id)"/>
+	    </xsl:message>
+	    </xsl:otherwise>
 	</xsl:choose>
       </xsl:attribute>
       
@@ -121,6 +126,18 @@
   <xsl:function name="et:output-annotations">
     <xsl:param name="token"/>
     <xsl:variable name="id" select="$token/@xml:id"/>
+    <xsl:variable name="norm">
+      <xsl:choose>
+	<xsl:when test="contains($token/@msd, 'ModernForm=')">
+	  <xsl:value-of select="replace(
+				replace($token/@msd, '.+ModernForm=', ''),
+				'\|.+', '')"/>
+	</xsl:when>
+	<xsl:otherwise>
+	  <xsl:value-of select="$token"/>
+	</xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
     <xsl:variable name="lemma">
       <xsl:choose>
 	<xsl:when test="$token/@lemma">
@@ -137,8 +154,10 @@
     <xsl:variable name="ud-pos" select="$token/@pos"/>
     <xsl:variable name="ud-feats">
       <xsl:variable name="fs" select="replace(
+				      replace(
 				      replace($token/@msd, '\|?XPOS=[^|]+', ''),
-				      '\|?SpaceAfter=[^|]+', '')"/>
+				      '\|?SpaceAfter=[^|]+', ''),
+				      '\|?ModernForm=[^|]+', '')"/>
       <xsl:choose>
 	<xsl:when test="normalize-space($fs)">
 	  <xsl:value-of select="replace($fs, '\|', ' ')"/>
@@ -148,7 +167,8 @@
 	</xsl:otherwise>
       </xsl:choose>
     </xsl:variable>
-    <xsl:sequence select="concat($lemma, '&#9;', $msd, '&#9;', $ud-pos, '&#9;', $ud-feats)"/>
+    <xsl:sequence select="concat($norm, '&#9;', $lemma, '&#9;',
+			  $msd, '&#9;', $ud-pos, '&#9;', $ud-feats)"/>
   </xsl:function>
 
 </xsl:stylesheet>

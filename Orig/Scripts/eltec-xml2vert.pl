@@ -38,7 +38,7 @@ while (<>) {
 	s|&lt;|<|g;
 	s|&gt;|>|g;
 	s|&quot;|"|g;
-	($tok, $lemma, $msd_en, $ud_pos, $ud_feats) = split /\t/;
+	($tok, $norm, $lemma, $msd_en, $ud_pos, $ud_feats) = split /\t/;
 	if ($msd_en =~ /-$/) {
 	    print STDERR "WARN: MSD $msd_en ends in '-', stripping!\n";
 	    $msd_en =~ s/-+$//
@@ -50,7 +50,7 @@ while (<>) {
 	}
 	my ($cat) = $msd_sl =~ /^(.)/;
 	$lemma_pos = $lemma . '-' . lc $cat;
-	print join( "\t", $tok, $lemma_pos, $msd_en, $msd_sl,
+	print join( "\t", $tok, $norm, $lemma_pos, $msd_en, $msd_sl,
 		    $ud_pos, $ud_feats) . "\n";
     }
     else {
