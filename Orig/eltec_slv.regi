@@ -35,6 +35,8 @@ SUBCORPATTRS "text.timeSlot|text.gender|text.canonicity,text.author|text.title"
 SHORTREF "=text.title,=text.date"
 FULLREF "text.title,text.date,text.author,text.gender,text.canonicity,text.timeSlot,text.url_text,text.url_author"
 
+SIMPLEQUERY '[lc="%s" | norm_lc="%s" | lemma_lc="%s"]'
+
 STRUCTURE text {
     ATTRIBUTE id {
       TYPE "UNIQUE"
@@ -118,6 +120,19 @@ ATTRIBUTE lc {
     ARG1     "C"
     FUNTYPE  s
     FROMATTR word
+    DYNTYPE  index
+    TRANSQUERY      yes
+}
+ATTRIBUTE norm  {
+    LABEL     "Modernised word"
+}
+ATTRIBUTE norm_lc {
+    LABEL   "Modernised word (lowercase)"
+    DYNAMIC  utf8lowercase
+    DYNLIB   internal
+    ARG1     "C"
+    FUNTYPE  s
+    FROMATTR norm
     DYNTYPE  index
     TRANSQUERY      yes
 }
