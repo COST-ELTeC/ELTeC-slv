@@ -8,7 +8,8 @@ This is the Slovenian novel collection for the ELTeC, the European Literary Text
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.  
 
-* v0.7.1, November 2020: 100 novels encoded at level 1. DOI: https://doi.org/10.5281/10.5281/zenodo.4271648
+* v2.0.0, April 2020: 100 novels encoded at level 1 and level 2. DOI: https://doi.org/10.5281/10.5281/zenodo.4271648. 
+* v0.7.1, November 2020: 100 novels encoded at level 1. DOI: https://doi.org/10.5281/10.5281/zenodo.4271648. 
 * v0.7.0, October 2019: The ELTeC-slv collection contains 100 novels encoded at level 1. The corpus composition criteria are not fully fulfilled, as Slovene does not have enough novels to respect all the sampling criteria. It also contains test files for level 2.
 
 ## Contributors
