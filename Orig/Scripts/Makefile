@@ -49,8 +49,8 @@ stats1:
 
 nohup:
 	nice nohup time make all > nohup.all &
-all:	val tei2text chars anal ner ana2tei meta cqp
-xall:	clean imp wiki eziss val tei2text chars anal ner ana2tei meta cqp
+all:	val1 tei2text chars anal ner ana2tei val2 meta cqp
+xall:	clean imp wiki eziss val tei2text chars anal ner ana2tei val2 meta cqp
 
 cqp:
 	rm -f ../CQP/*.vert
@@ -85,9 +85,11 @@ chars:
 	chars-summ.pl < ../slv-fchars.txt > ../slv-chars.txt
 tei2text:
 	./eltec2text.pl ../../level1 ../Anal
-val:
-	java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-1.rng \
-	../../level1/*.xml
+val1:
+	${j1} ../../level1/*.xml
+val2:
+	${j2} ../../level2/*.xml
+
 eziss:	convert-eziss
 imp:	grab-imp convert-imp
 wiki:	grab-wiki convert-wiki
@@ -124,8 +126,9 @@ clean:
 #Do not use anymore, slv-authors.txt is now manually edited
 xxx-viaf:
 	./get_viaf.pl < ../slv-index.txt > ../slv-authors.txt
-#j1 = java -jar /usr/local/bin/jing.jar https://distantreading.github.io/Schema/eltec-1.rng
-j1 = java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-1.rng
-j2 = java -jar /usr/local/bin/jing.jar ../../../Schemas/eltec-2.rng
-s = java -jar /usr/local/bin/saxon9he.jar
+s = java -jar /usr/share/java/saxon.jar
+j = java -jar /usr/share/java/jing.jar
+#j1 = $j https://distantreading.github.io/Schema/eltec-1.rng
+j1 = $j ../../../Schemas/eltec-1.rng
+j2 = $j ../../../Schemas/eltec-2_strict.rng
 P = parallel --gnu --halt 2
