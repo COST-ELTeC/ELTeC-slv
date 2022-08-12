@@ -1,7 +1,4 @@
-# MAINTAINER "CLARIN.SI <info@clarin.si>"                     #manatee@clarin
-MAINTAINER "Tomaž Erjavec <tomaz.erjavec@ijs.si>"             #manatee@ijs
-# MAINTAINER "Bojan Klemenc <bojan.klemenc@fri.uni-lj.si>"    #manatee@cjvt
-
+MAINTAINER "CLARIN.SI <info@clarin.si>"
 NAME "ELTeC-slv (100 romanov)"
 INFO "100 romanov (1836-1921) COST ELTeC-slv v0.1 // 100 novels (1836-1921) COST ELTeC-slv v0.1"
 ENCODING "UTF-8"
@@ -11,20 +8,15 @@ LANGUAGE "Slovenian"
 INFOHREF "https://github.com/COST-ELTeC/ELTeC-slv"
 TAGSETDOC "https://universaldependencies.org/sl/index.html"
 
-# PATH "/data/manatee-data/eltec_slv/"                       #manatee@clarin
-PATH "/project/corpora/noske/data/eltec_slv/"                #manatee@ijs
-# PATH "/var/lib/ske/manatee/eltec_slv/"                     #manatee@cjvt
+PATH "/data/manatee-data/eltec_slv/"
+VERTICAL "| zcat /data/vert/eltec_slv.vert.gz"
 
-# VERTICAL "| zcat /data/vert/eltec_slv.vert.gz"  #manatee@clarin
-VERTICAL "| zcat /project/cqp/vert/eltec_slv.vert.gz"        #manatee@ijs
-# VERTICAL "| zcat /var/lib/ske/vertical/eltec_slv.vert.gz"  #manatee@cjvt
+# WSDEF "/var/lib/ske/wsdef/ws-fidaplus-SSJ-15-UTF8-JOS-tagset.txt"     ## Sketch Engine
+# GDEXDEFAULTCONF "/var/lib/ske/gdex/Slovene-samostalnik-avt-v2"        ## Sketch Engine
+# TERMDEF "/var/lib/ske/wsdef/slovenian-mte-terms-1.3.wsdef.m4"         ## Sketch Engine
+# TERMBASE "/var/lib/ske/manatee/kas_dr_1/terms-ws"                     ## Sketch Engine
+# WSPOSLIST ",samostalnik,-s,glagol,-g,pridevnik,-p,prislov,-r"         ## Sketch Engine
 
-# WSDEF "/var/lib/ske/wsdef/ws-fidaplus-SSJ-15-UTF8-JOS-tagset.txt"     #manatee@cjvt
-# GDEXDEFAULTCONF "/var/lib/ske/gdex/Slovene-samostalnik-avt-v2"        #manatee@cjvt
-# TERMDEF "/var/lib/ske/wsdef/slovenian-mte-terms-1.3.wsdef.m4"         #manatee@cjvt
-# TERMBASE "/var/lib/ske/manatee/kas_dr_1/terms-ws"                     #manatee@cjvt
-
-# WSPOSLIST ",samostalnik,-s,glagol,-g,pridevnik,-p,prislov,-r"         #manatee@cjvt
 WPOSLIST ",samostalnik,S.*,glagol,G.*,pridevnik,P.*,prislov,R.*,zaimek,Z.*,predlog,D.*,veznik,V.*,členek,L.*,medmet,M.*,števnik,K.*,okrajšava,O.*,neuvrščeno,N.*,ločilo,U.*"
 LPOSLIST ",samostalnik,-s,glagol,-g,pridevnik,-p,prislov,-r,zaimek,-z,predlog,-d,veznik,-v,členek,-l,medmet,-m,števnik,-k,okrajšava,-o,neuvrščeno,-n,ločilo,-u"
 

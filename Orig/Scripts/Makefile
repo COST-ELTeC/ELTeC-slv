@@ -9,7 +9,7 @@ bug:
 adf:
 	${j1} SLV00048.xml
 test-cqp3:
-	joinvert.pl ../slv-meta.tsv ../CQP/ ELTeC-slv.vert
+	joinvert.pl ../slv-meta.tsv ../CQP/ eltec_slv.vert
 test-cqp1:
 	$s -xsl:eltec2vert.xsl ../Test/SLV00024-L2.xml | eltec-xml2vert.pl > ../CQP/SLV00024-L2.vert
 test-tei1:
@@ -56,8 +56,8 @@ cqp:
 	rm -f ../CQP/*.vert
 	ls -d ../../level2/*-L2.xml | $P --jobs 5 \
 	'$s -xsl:eltec2vert.xsl {} | eltec-xml2vert.pl > ../CQP/{/.}.vert'
-	joinvert.pl ../slv-meta.tsv ../CQP/ ../CQP/ELTeC-slv.vert
-	gzip -f ../CQP/ELTeC-slv.vert
+	joinvert.pl ../slv-meta.tsv ../CQP/ ../CQP/eltec_slv.vert
+	gzip -f ../CQP/eltec_slv.vert
 meta:
 	$s -xi -xsl:eltec2meta.xsl ../driver-L2.tei > ../slv-meta.tsv
 	cp ../slv-meta.tsv ../../metadata/metadata.tsv
