@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Štefan Zaplotnik : edicija ELTeC</title>
-            <author ref="viaf:316497598">Šorli, Ivo (1877-1958)</author>
+            <title ref="wikidata:Q111072149">Štefan Zaplotnik : edicija ELTeC</title>
+            <author ref="viaf:316497598 wikidata:Q12791738">Šorli, Ivo (1877-1958)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

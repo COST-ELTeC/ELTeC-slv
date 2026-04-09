@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Visoška kronika : edicija ELTeC</title>
-            <author ref="viaf:100298803">Tavčar, Ivan (1851-1923)</author>
+            <title ref="wikidata:Q17391366">Visoška kronika : edicija ELTeC</title>
+            <author ref="viaf:100298803 wikidata:Q700898">Tavčar, Ivan (1851-1923)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

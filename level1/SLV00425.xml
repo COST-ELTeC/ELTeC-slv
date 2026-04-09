@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Na vojvodskem prestolu : edicija ELTeC</title>
-            <author ref="viaf:68284771">Gruden, Josip (1869-1922)</author>
+            <title ref="wikidata:Q111072053">Na vojvodskem prestolu : edicija ELTeC</title>
+            <author ref="viaf:68284771 wikidata:Q12792696">Gruden, Josip (1869-1922)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

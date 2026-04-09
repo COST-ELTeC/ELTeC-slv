@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Žalost in veselje : edicija ELTeC</title>
-            <author ref="viaf:305144647704454014387">Podmilšak, Josip (1845-1874)</author>
+            <title ref="wikidata:Q111072204">Žalost in veselje : edicija ELTeC</title>
+            <author ref="viaf:305144647704454014387 wikidata:Q12792723">Podmilšak, Josip (1845-1874)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

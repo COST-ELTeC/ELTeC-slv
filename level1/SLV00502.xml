@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>V burji in strasti : edicija ELTeC</title>
-            <author ref="viaf:170052698">Fatur, Lea (1865-1943)</author>
+            <title ref="wikidata:Q111072166">V burji in strasti : edicija ELTeC</title>
+            <author ref="viaf:170052698 wikidata:Q11753382">Fatur, Lea (1865-1943)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

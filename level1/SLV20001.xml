@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mlinarjev Janez : edicija ELTeC</title>
-            <author ref="viaf:172466996">Kočevar, Ferdo (1833-1878)</author>
+            <title ref="wikidata:Q20522082">Mlinarjev Janez : edicija ELTeC</title>
+            <author ref="viaf:172466996 wikidata:Q12788832">Kočevar, Ferdo (1833-1878)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

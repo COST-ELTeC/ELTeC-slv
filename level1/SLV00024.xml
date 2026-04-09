@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Od pluga do krone : edicija ELTeC</title>
-            <author ref="viaf:84381657">Bedenek, Jakob (1850-1916)</author>
+            <title ref="wikidata:Q111072078">Od pluga do krone : edicija ELTeC</title>
+            <author ref="viaf:84381657 wikidata:Q17379521">Bedenek, Jakob (1850-1916)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

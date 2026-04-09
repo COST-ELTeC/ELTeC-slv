@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pisana mati : edicija ELTeC</title>
-            <author ref="viaf:84281491">Zbašnik, Fran (1855-1935)</author>
+            <title ref="wikidata:Q111072088">Pisana mati : edicija ELTeC</title>
+            <author ref="viaf:84281491 wikidata:Q17351194">Zbašnik, Fran (1855-1935)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

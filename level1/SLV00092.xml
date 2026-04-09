@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Zmota in povrat : edicija ELTeC</title>
+            <title ref="wikidata:Q111072207">Zmota in povrat : edicija ELTeC</title>
             <author ref="conor:311191651">Štrukelj, Ivan (1869-1948)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>

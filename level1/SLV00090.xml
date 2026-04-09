@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Spletke : edicija ELTeC</title>
+            <title ref="wikidata:Q111072131">Spletke : edicija ELTeC</title>
             <author ref="conor:311191651">Štrukelj, Ivan (1869-1948)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Brambovci : edicija ELTeC</title>
-            <author ref="viaf:101581601">Lah, Ivan (1881-1938)</author>
+            <title ref="wikidata:Q111071762">Brambovci : edicija ELTeC</title>
+            <author ref="viaf:101581601 wikidata:Q12791587">Lah, Ivan (1881-1938)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Njeno življenje : edicija ELTeC</title>
-            <author ref="viaf:1223577">Kveder, Zofka (1878-1926)</author>
+            <title ref="wikidata:Q111072070">Njeno življenje : edicija ELTeC</title>
+            <author ref="viaf:1223577 wikidata:Q112919">Kveder, Zofka (1878-1926)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sreča v nesreči : edicija ELTeC</title>
-            <author ref="viaf:247997342">Cigler, Janez (1792-1867)</author>
+            <title ref="wikidata:Q12803287">Sreča v nesreči : edicija ELTeC</title>
+            <author ref="viaf:247997342 wikidata:Q12791998">Cigler, Janez (1792-1867)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

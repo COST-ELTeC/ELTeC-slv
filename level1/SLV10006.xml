@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Žena : edicija ELTeC</title>
-            <author ref="viaf:66265062">Jelenc, Vitomir Feodor (1885-1922)</author>
+            <title ref="wikidata:Q111072206">Žena : edicija ELTeC</title>
+            <author ref="viaf:66265062 wikidata:Q21140592">Jelenc, Vitomir Feodor (1885-1922)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

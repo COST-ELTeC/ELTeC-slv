@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Fata morgana : edicija ELTeC</title>
-            <author ref="viaf:6737472">Nadlišek, Marica (1867-1940)</author>
+            <title ref="wikidata:Q111071824">Fata morgana : edicija ELTeC</title>
+            <author ref="viaf:6737472 wikidata:Q12795693">Nadlišek, Marica (1867-1940)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mina : edicija ELTeC</title>
-            <author ref="viaf:79068165">Prepeluh, Albin (1881-1937)</author>
+            <title ref="wikidata:Q111072016">Mina : edicija ELTeC</title>
+            <author ref="viaf:79068165 wikidata:Q4712384">Prepeluh, Albin (1881-1937)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

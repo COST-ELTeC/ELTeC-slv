@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hči grofa Blagaja : edicija ELTeC</title>
-            <author ref="viaf:66026290">Murnik, Rado (1870-1932)</author>
+            <title ref="wikidata:Q111071873">Hči grofa Blagaja : edicija ELTeC</title>
+            <author ref="viaf:66026290 wikidata:Q12799766">Murnik, Rado (1870-1932)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

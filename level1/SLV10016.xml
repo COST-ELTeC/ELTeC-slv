@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Zadnji samotar : edicija ELTeC</title>
-            <author ref="viaf:32798590">Mahnič, Anton (1850-1920)</author>
+            <title ref="wikidata:Q111072202">Zadnji samotar : edicija ELTeC</title>
+            <author ref="viaf:32798590 wikidata:Q344599">Mahnič, Anton (1850-1920)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

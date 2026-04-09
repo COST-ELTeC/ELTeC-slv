@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Gospodin Franjo : edicija ELTeC</title>
-            <author ref="viaf:24474637">Maselj Podlimbarski, Fran (1852-1917)</author>
+            <title ref="wikidata:Q5587428">Gospodin Franjo : edicija ELTeC</title>
+            <author ref="viaf:24474637 wikidata:Q4283778">Maselj Podlimbarski, Fran (1852-1917)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

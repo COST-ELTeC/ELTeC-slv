@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Abadon : edicija ELTeC</title>
-            <author ref="viaf:53025627">Mencinger, Janez (1838-1912)</author>
+            <title ref="wikidata:Q4663232">Abadon : edicija ELTeC</title>
+            <author ref="viaf:53025627 wikidata:Q14915276">Mencinger, Janez (1838-1912)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

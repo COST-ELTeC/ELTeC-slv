@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Temni oblaki : edicija ELTeC</title>
-            <author ref="viaf:16146824501407630124">Trošt, Ivo (1865-1937)</author>
+            <title ref="wikidata:Q111072157">Temni oblaki : edicija ELTeC</title>
+            <author ref="viaf:16146824501407630124 wikidata:Q17351181">Trošt, Ivo (1865-1937)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

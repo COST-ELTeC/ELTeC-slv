@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Libera nos a malo : edicija ELTeC</title>
-            <author ref="viaf:6604157470209022640002">Vodeb, Emil (1880-1921)</author>
+            <title ref="wikidata:Q111071946">Libera nos a malo : edicija ELTeC</title>
+            <author ref="viaf:6604157470209022640002 wikidata:Q23010732">Vodeb, Emil (1880-1921)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

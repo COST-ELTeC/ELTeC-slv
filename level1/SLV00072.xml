@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Kam plovemo : edicija ELTeC</title>
-            <author ref="viaf:62359223">Meško, Ksaver (1874-1964)</author>
+            <title ref="wikidata:Q111071910">Kam plovemo : edicija ELTeC</title>
+            <author ref="viaf:62359223 wikidata:Q1294447">Meško, Ksaver (1874-1964)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

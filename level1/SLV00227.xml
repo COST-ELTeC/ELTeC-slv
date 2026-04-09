@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Beatin dnevnik : edicija ELTeC</title>
-            <author ref="viaf:307425009">Pesjak, Luiza (1828-1898)</author>
+            <title ref="wikidata:Q17395936">Beatin dnevnik : edicija ELTeC</title>
+            <author ref="viaf:307425009 wikidata:Q12795307">Pesjak, Luiza (1828-1898)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mladi gozdar : edicija ELTeC</title>
-            <author ref="viaf:81042077">Kovačič, Ivo (1873-1936)</author>
+            <title ref="wikidata:Q111072022">Mladi gozdar : edicija ELTeC</title>
+            <author ref="viaf:81042077 wikidata:Q57736961">Kovačič, Ivo (1873-1936)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

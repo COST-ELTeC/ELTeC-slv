@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Nebesa : edicija ELTeC</title>
-            <author ref="viaf:6786157470209622640003">Fajdiga, Ivan (1854-1935)</author>
+            <title ref="wikidata:Q111072067">Nebesa : edicija ELTeC</title>
+            <author ref="viaf:6786157470209622640003 wikidata:Q12791542">Fajdiga, Ivan (1854-1935)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

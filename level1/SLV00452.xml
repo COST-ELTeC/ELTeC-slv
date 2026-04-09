@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Naš stari greh : edicija ELTeC</title>
-            <author ref="viaf:3285157470199222640002">Prelesnik, Matija (1872-1905)</author>
+            <title ref="wikidata:Q111072065">Naš stari greh : edicija ELTeC</title>
+            <author ref="viaf:3285157470199222640002 wikidata:Q22995458">Prelesnik, Matija (1872-1905)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

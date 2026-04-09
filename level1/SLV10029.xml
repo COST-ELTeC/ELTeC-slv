@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Rošlin in Vrjanko : edicija ELTeC</title>
-            <author ref="viaf:34746806">Kersnik, Janko (1852-1897)</author>
+            <title ref="wikidata:Q111072115">Rošlin in Vrjanko : edicija ELTeC</title>
+            <author ref="viaf:34746806 wikidata:Q2474110">Kersnik, Janko (1852-1897)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

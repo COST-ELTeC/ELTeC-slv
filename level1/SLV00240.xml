@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Slučaji usode : edicija ELTeC</title>
-            <author ref="viaf:260393202">Pajk, Pavlina (1854-1901)</author>
+            <title ref="wikidata:Q111072127">Slučaji usode : edicija ELTeC</title>
+            <author ref="viaf:260393202 wikidata:Q14428732">Pajk, Pavlina (1854-1901)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

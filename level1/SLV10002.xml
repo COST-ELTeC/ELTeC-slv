@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Zadnji dnevi v Ogleju : edicija ELTeC</title>
+            <title ref="wikidata:Q111072198">Zadnji dnevi v Ogleju : edicija ELTeC</title>
             <author ref="viaf:50937590">Carli Lukovič, Alojz (1846-1891)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>

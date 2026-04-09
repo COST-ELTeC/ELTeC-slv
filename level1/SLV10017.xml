@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tolovajski glavar Črni Jurij in njegovi divji tovariši : edicija ELTeC</title>
-            <author ref="viaf:233014487">Malovrh, Miroslav (1861-1922)</author>
+            <title ref="wikidata:Q111072160">Tolovajski glavar Črni Jurij in njegovi divji tovariši : edicija ELTeC</title>
+            <author ref="viaf:233014487 wikidata:Q11781716">Malovrh, Miroslav (1861-1922)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pobratimi : edicija ELTeC</title>
-            <author ref="viaf:55300280">Vošnjak, Josip (1834-1911)</author>
+            <title ref="wikidata:Q111072090">Pobratimi : edicija ELTeC</title>
+            <author ref="viaf:55300280 wikidata:Q5242758">Vošnjak, Josip (1834-1911)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>
