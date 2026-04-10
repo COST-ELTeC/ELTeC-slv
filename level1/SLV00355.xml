@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mlada ljubezen : edicija ELTeC</title>
-            <author ref="viaf:44335953">Kraigher, Alojz (1877-1959)</author>
+            <title ref="wikidata:Q111072019">Mlada ljubezen : edicija ELTeC</title>
+            <author ref="viaf:44335953 wikidata:Q17350627">Kraigher, Alojz (1877-1959)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

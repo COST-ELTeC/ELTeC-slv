@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pomladanski vetrovi : edicija ELTeC</title>
-            <author ref="viaf:10824798">Bartel, Anton (1853-1938)</author>
+            <title ref="wikidata:Q111072101">Pomladanski vetrovi : edicija ELTeC</title>
+            <author ref="viaf:10824798 wikidata:Q17349268">Bartel, Anton (1853-1938)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

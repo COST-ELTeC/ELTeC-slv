@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Hiša Marije Pomočnice : edicija ELTeC</title>
-            <author ref="viaf:56657726">Cankar, Ivan (1876-1918)</author>
+            <title ref="wikidata:Q11166040">Hiša Marije Pomočnice : edicija ELTeC</title>
+            <author ref="viaf:56657726 wikidata:Q15809">Cankar, Ivan (1876-1918)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

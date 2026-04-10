@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Sodnikovi : edicija ELTeC</title>
-            <author ref="viaf:70948422">Stritar, Josip (1836-1923)</author>
+            <title ref="wikidata:Q111072129">Sodnikovi : edicija ELTeC</title>
+            <author ref="viaf:70948422 wikidata:Q1397983">Stritar, Josip (1836-1923)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

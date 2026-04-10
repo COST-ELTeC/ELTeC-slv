@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>S poti : edicija ELTeC</title>
-            <author ref="viaf:51848354">Cankar, Izidor (1886-1958)</author>
+            <title ref="wikidata:Q111072117">S poti : edicija ELTeC</title>
+            <author ref="viaf:51848354 wikidata:Q12054170">Cankar, Izidor (1886-1958)</author>
             <respStmt>
                <resp>Pretvorba zapisa eZISS v ELTeC.</resp>
                <resp xml:lang="en">Conversion from eZISS TEI to ELTeC encoding.</resp>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pod novim orlom : edicija ELTeC</title>
-            <author ref="viaf:233014487">Malovrh, Miroslav (1861-1922)</author>
+            <title ref="wikidata:Q111072091">Pod novim orlom : edicija ELTeC</title>
+            <author ref="viaf:233014487 wikidata:Q11781716">Malovrh, Miroslav (1861-1922)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Z viharja v zavetje : edicija ELTeC</title>
-            <author ref="viaf:84281491">Zbašnik, Fran (1855-1935)</author>
+            <title ref="wikidata:Q111072193">Z viharja v zavetje : edicija ELTeC</title>
+            <author ref="viaf:84281491 wikidata:Q17351194">Zbašnik, Fran (1855-1935)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

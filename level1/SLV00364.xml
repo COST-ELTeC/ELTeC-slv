@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Novo življenje : edicija ELTeC</title>
-            <author ref="viaf:61405029">Detela, Fran (1850-1926)</author>
+            <title ref="wikidata:Q111072073">Novo življenje : edicija ELTeC</title>
+            <author ref="viaf:61405029 wikidata:Q5478131">Detela, Fran (1850-1926)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

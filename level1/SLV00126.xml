@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ljudska osveta : edicija ELTeC</title>
-            <author ref="viaf:55376955">Jaklič, Fran (1868-1937)</author>
+            <title ref="wikidata:Q111071951">Ljudska osveta : edicija ELTeC</title>
+            <author ref="viaf:55376955 wikidata:Q12789003">Jaklič, Fran (1868-1937)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

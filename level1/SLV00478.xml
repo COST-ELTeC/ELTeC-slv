@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Gadje gnezdo : edicija ELTeC</title>
-            <author ref="viaf:53731964">Levstik, Vladimir (1886-1957)</author>
+            <title ref="wikidata:Q20521427">Gadje gnezdo : edicija ELTeC</title>
+            <author ref="viaf:53731964 wikidata:Q167391">Levstik, Vladimir (1886-1957)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

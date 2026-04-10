@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>V krvi : edicija ELTeC</title>
-            <author ref="viaf:51812691">Govekar, Fran (1871-1949)</author>
+            <title ref="wikidata:Q17396599">V krvi : edicija ELTeC</title>
+            <author ref="viaf:51812691 wikidata:Q12788999">Govekar, Fran (1871-1949)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

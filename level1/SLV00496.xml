@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Iz modernega sveta : edicija ELTeC</title>
-            <author ref="viaf:56648253">Finžgar, Fran Saleški (1871-1962)</author>
+            <title ref="wikidata:Q111071902">Iz modernega sveta : edicija ELTeC</title>
+            <author ref="viaf:56648253 wikidata:Q972064">Finžgar, Fran Saleški (1871-1962)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

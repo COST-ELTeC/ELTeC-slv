@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Ptički brez gnezda : edicija ELTeC</title>
-            <author ref="viaf:72324490">Milčinski, Fran (1867-1932)</author>
+            <title ref="wikidata:Q111072105">Ptički brez gnezda : edicija ELTeC</title>
+            <author ref="viaf:72324490 wikidata:Q11313830">Milčinski, Fran (1867-1932)</author>
             <respStmt>
                <resp>Pretvorba zapisa WikiVir v ELTeC.</resp>
                <resp xml:lang="en">Conversion from WikiVir to ELTeC encoding.</resp>

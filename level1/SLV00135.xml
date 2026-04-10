@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Gospa s pristave : edicija ELTeC</title>
-            <author ref="viaf:68374219">Janežič-Kraljev, Ivan (1855-1922)</author>
+            <title ref="wikidata:Q111071849">Gospa s pristave : edicija ELTeC</title>
+            <author ref="viaf:68374219 wikidata:Q22964853">Janežič-Kraljev, Ivan (1855-1922)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>

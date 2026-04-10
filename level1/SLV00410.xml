@@ -7,8 +7,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Tujci : edicija ELTeC</title>
-            <author ref="viaf:56657726">Cankar, Ivan (1876-1918)</author>
+            <title ref="wikidata:Q111072164">Tujci : edicija ELTeC</title>
+            <author ref="viaf:56657726 wikidata:Q15809">Cankar, Ivan (1876-1918)</author>
             <respStmt>
                <resp>Pretvorba zapisa Wiki/DjVu v TEI.</resp>
                <resp xml:lang="en">Conversion form Wiki/DjVu to TEI.</resp>
